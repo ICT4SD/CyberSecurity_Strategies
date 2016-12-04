@@ -37,7 +37,8 @@ Sentence id number: 10384648   # A unique number to identify this sentence
 Source Document: "Aztlan Cyber Security Strategy 2016.pdf"   # the name of the .pdf where the sentence comes from  
 Country: "Aztlan"  
 Sentence: "This country has implemented strict criminal legislation and certification of technology specialists for cybersecurity"  
-Tags: "Legal - Criminal legislation", "Technical measures - certification"  
+Classification Tags: "Legal - Criminal legislation", "Technical measures - certification"  # from classification process  
+Topics or keywords: "children, attacks, green computing, denial of service, etc"  # from unsupervised topic discovery  
 Sentence Position in Document: page #, or byte   (this is so then we can link to the sentence)  
 ```
 
