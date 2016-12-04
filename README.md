@@ -57,6 +57,9 @@ After all your efforts above, the expected product is a web page where end-users
 - It must have buttons or check boxes to filter the sentences displayed (Country, Source Document, Tags). Multiple filters should be allowed simultaneously. (E.g. Filter by country and by 2 tags)
 - Ideally the users shuld be able to query the dataset freely.
 
+For example this could be a reulting dashboard, but please don't limit your creativity to this:  
+![screenshot](screenshot.jpg)
+
 ## Software and hardware requirements / recommendations
 
 - Web interface: it is recommended the web interface uses only static html, javascript and css files. In this way the hosting can be done moved around easily without dependencies on php, pyhton, java, etc. Suggested frameworks include:   http://vuejs.org/ , https://facebook.github.io/react/, https://angularjs.org/
