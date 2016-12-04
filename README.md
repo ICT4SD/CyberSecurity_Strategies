@@ -32,13 +32,14 @@ Here you can see a human analysis of cyberscurity laws. It would be interesting 
 >"This country has implemented strict criminal legislation and certification of technology specialists for cybersecurity"
 
 - A suggested schema to store this sentence after the analysis is: (suggested json or yaml format):
-
+```
 Sentence id number: 10384648   # A unique number to identify this sentence  
 Source Document: "Aztlan Cyber Security Strategy 2016.pdf"   # the name of the .pdf where the sentence comes from  
 Country: "Aztlan"  
 Sentence: "This country has implemented strict criminal legislation and certification of technology specialists for cybersecurity"  
 Tags: "Legal - Criminal legislation", "Technical measures - certification"  
 Sentence Position in Document: page #, or byte   (this is so then we can link to the sentence)  
+```
 
 ### Search (optional but very useful)
 If you used a search engine for any of the steps above this information is unnecessary to you, but if you did not, keep reading:
