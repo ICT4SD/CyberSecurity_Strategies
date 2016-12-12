@@ -1,0 +1,630 @@
+[
+    {
+        "sentence": "REPUBLIC OF TURKEY Ministry of Transport, Maritime Affairs and Communications National Cyber Security Strategy and 2013-2014 Action Plan [The page intentionally left blank.]", 
+        "sentence_id,": "bf8afe9753"
+    }, 
+    {
+        "sentence": "National Cyber Security Strategy and 2013-2014 Action Plan 2/47 CONTENTS 1 Introduction 5 Definitions Objective Scope Update 8 10 10 10 2 Cyber Security Risks 12 3 Principles 15 4 Strategic Cyber Security Actions 17 5 National Cyber Security Action Plan for the Term 2013 -2014 22 1.1 1.2 1.3 1.4 5.1 5.2 5.3 5.4 5.5 5.6 5.7 Carrying out Legislative Activities Carrying Out the Activities That Will Help with Judicial Processes Creating the National Cyber Incidents Response Organization Strengthening the National Cyber Security Infrastructure Human Resources Education and Awareness-Raising Activities on Cyber Security Developing National Technologies in Cyber Security Extending the Scope of the National Security Mechanisms National Cyber Security Strategy and 2013-2014 Action Plan 23 25 26 28 38 43 46 3/47 [The page intentionally left blank.]", 
+        "sentence_id,": "4294eb7459"
+    }, 
+    {
+        "sentence": "National Cyber Security Strategy and 2013-2014 Action Plan 4/47 1 Introduction In Turkey, the use of information and communication technologies (ICTs) has been spreading rapidly and ICTs are playing important roles in all aspects of our lives.", 
+        "sentence_id,": "2a9524b009"
+    }, 
+    {
+        "sentence": "In addition to public sector organizations, organizations which provide services in critical infrastructure sectors like energy, water resources, health, transportation, communication and financial services have also been heavily using information and communication systems.", 
+        "sentence_id,": "552d50e356"
+    }, 
+    {
+        "sentence": "These systems improve the quality and the speed of the services being provided, thus helping organizations work more productively, contributing to the improvement of living standards.", 
+        "sentence_id,": "d8c08025fe"
+    }, 
+    {
+        "sentence": "As our public sector organizations use ICTs to provide services at an increased rate, it has become an important aspect of our national security and competitiveness to ensure the security of information and communication technologies.", 
+        "sentence_id,": "fd162bf8ce"
+    }, 
+    {
+        "sentence": "The vulnerabilities inherent in ICTs may cause denial of service or abuse of service attacks, resulting in potential loss of lives, high scale economic losses, disturbance of public order and/or threats to national security.", 
+        "sentence_id,": "b677b7faf9"
+    }, 
+    {
+        "sentence": "It is a fact that cyber space offers opportunities of anonymity and deniability for attacks on information systems and data.", 
+        "sentence_id,": "beebccf061"
+    }, 
+    {
+        "sentence": "The tools and knowledge required for attacks are often cheap and easy to get, and it has been observed that anyone or any systems across the world can participate in cyber-attacks, either knowingly or unknowingly.", 
+        "sentence_id,": "b4f6deefd8"
+    }, 
+    {
+        "sentence": "And it is deemed almost impossible to determine who finances and organizes these enduring and advanced cyber-attacks that target the National Cyber Security Strategy and 2013-2014 Action Plan 5/47 information systems and data of critical infrastructures.", 
+        "sentence_id,": "ee45c92428"
+    }, 
+    {
+        "sentence": "These facts and conditions reveal the asymmetrical nature of the risks and threats in cyber space, making them even more difficult to tackle.", 
+        "sentence_id,": "b4aac68e96"
+    }, 
+    {
+        "sentence": "In light of this context, the Decision made by the Council of Ministers on the Execution, Management and Coordination of National Cyber Security Activities was published in the Official Gazette dated 20th October 2012, numbered 28447 and came into force.", 
+        "sentence_id,": "42a5cf3124"
+    }, 
+    {
+        "sentence": "Pursuant to this cabinet decision; In order to determine the precautions to be taken for cyber security, to approve - and to ensure implementation and coordination of - the plans, schedules, reports, procedures, principles and standards that have been prepared, a Cyber Security Council has been established, which is to be presided by the Minister of Transport, Maritime Affairs and Communications and which is to consist of the undersecretaries of the Ministries of Foreign Affairs, Interior, National Defense, Transport, Maritime Affairs and Communications, including the undersecretaries of Public Order and Security, National Intelligence Organization, Head of Communication, Electronic and Information Systems of Turkish General Staff, Head of Information And Communication Technologies Authority, Head of The - Scientific And Technological Research Council, Head of Financial Crimes Investigation Council, Telecommunications Communication Presidency and the top managers of the ministries and the public National Cyber Security Strategy and 2013-2014 Action Plan 6/47 organizations that are to be determined by the Minister of Transport, Maritime Affairs and Communications.", 
+        "sentence_id,": "eed20892c6"
+    }, 
+    {
+        "sentence": "The cabinet decision has also assigned to the Ministry of Transport, Maritime Affairs and Communications the duty to prepare policies, strategies and action plans on ensuring cyber security at the national level.", 
+        "sentence_id,": "cf7e5324da"
+    }, 
+    {
+        "sentence": "All public organizations and agencies, natural and legal persons, are obliged to perform the duties assigned in the framework of the policies, strategies and action plans determined by the Cyber Security Council, and to comply with the procedures, principles and standards that were also determined by the Council.", 
+        "sentence_id,": "11787fe8b1"
+    }, 
+    {
+        "sentence": "The action plan which was prepared pursuant to this decision defines the activities intended to be carried out within the term 2013-2014, and it also includes the periodical activities beyond these terms as well as the activities that should always be carried out such as training and awareness-raising activities.", 
+        "sentence_id,": "4e0774918f"
+    }, 
+    {
+        "sentence": "National Cyber Security Strategy and 2013-2014 Action Plan 7/47 1.1 Definitions The concepts used in this document, refer to the following meanings; Information systems: The systems involved in providing services, processes and data by means of information and communication technologies.", 
+        "sentence_id,": "b359d0f226"
+    }, 
+    {
+        "sentence": "Cyber space: The environment which consists of information systems that span across the world including the networks that interconnect these systems, Information systems of public organizations: The information systems which belong to and/or are operated by the public organizations and agencies of the Turkish Republic, Information systems of natural and legal persons: The information systems which belong to and/or are operated by the natural and legal persons, subjected to the laws of the Turkish Republic.", 
+        "sentence_id,": "97bfd762f0"
+    }, 
+    {
+        "sentence": "National cyber space: The environment which consists of the information systems that belong to public organizations, natural and legal persons, Confidentiality: Information systems and data can be accessed by authorized persons or systems only, and the confidential information pertaining to information systems or confidential information in the system will not be disclosed by unauthorized persons or systems.", 
+        "sentence_id,": "bfd6e1bb63"
+    }, 
+    {
+        "sentence": "Integrity: Information systems and information can be changed by authorized persons or systems only, National Cyber Security Strategy and 2013-2014 Action Plan 8/47 Accessibility: Authorized persons and transactions can access information systems and the information therein within the required time and quality, Critical infrastructures: The infrastructures which host the information systems that can cause, - Loss of lives, - Large scale economic damages, - Security vulnerabilities and disturbance of public order at national level when the confidentiality, integrity or accessibility of the information they process is compromised, Cyber security incident: Violation of confidentiality, integrity or accessibility of information systems or of the information being processed by these systems, Cyber security: Protection of information systems that make up the cyber space from attacks, ensuring the confidentiality, integrity and accessibility of the information being processed in this space, detection of attacks and cyber security incidents, putting into force the countermeasures against these incidents and then putting these systems back to their states previous to the cyber security incident.", 
+        "sentence_id,": "9da898dba6"
+    }, 
+    {
+        "sentence": "National Cyber Security: The cyber security of all services, processes and data and the systems involved in provisioning of these- provided by the information and communication technologies in the national cyber space.", 
+        "sentence_id,": "e23b498f03"
+    }, 
+    {
+        "sentence": "National Cyber Security Strategy and 2013-2014 Action Plan 9/47 1.2 Objective The objective of National Cyber Security Strategy and 2013-2014 Action Plan is to create an infrastructure towards achieving; - the cyber security all of services, processes and data and the systems involved in provisioning of these- provided by the public organizations and agencies using information technologies, - the cyber security of information systems of critical infrastructures which are operated by both the public and private sectors, - minimization of the effects of cyber security incidents, determination of strategic cyber security actions to put systems back to their regular operational states as soon as possible following the incidents, and help with better investigation and prosecution of the incident by law enforcement and judicial authorities.", 
+        "sentence_id,": "ce6aeb21d4"
+    }, 
+    {
+        "sentence": "1.3 Scope The National Cyber Security Strategy and 2013-2014 Action Plan includes the information systems of public organizations and the information systems that belong to critical infrastructures operated by both the public and private sectors.", 
+        "sentence_id,": "544eb2ff01"
+    }, 
+    {
+        "sentence": "1.4 Update National Cyber Security Strategy and 2013-2014 Action Plan will be updated at least once a year in a coordinated way at national level, taking into account the National Cyber Security Strategy and 2013-2014 Action Plan 10/47 requests from the public and private sectors, and considering also the changing conditions and needs.", 
+        "sentence_id,": "a82d777169"
+    }, 
+    {
+        "sentence": "National Cyber Security Strategy and 2013-2014 Action Plan 11/47 2 Cyber Security Risks The risks related to cyber security should realistically be determined in order for the strategic cyber-security actions to be determined in the best way.", 
+        "sentence_id,": "fc0c303069"
+    }, 
+    {
+        "sentence": "The threat is asymmetrical as cyber space provides opportunities of anonymity and deniability for attacks on information systems and data, and the tools and knowledge required for attacks are often cheap and easy to get, and anyone or any systems across the world can participate in cyber-attacks, either knowingly or unknowingly.", 
+        "sentence_id,": "b224cf03fb"
+    }, 
+    {
+        "sentence": "Any information system can harm another due to the structure of the cyber space that is open to integrated and uninterrupted communication and due to the malware and other similar threat agents existing in the cyber space.", 
+        "sentence_id,": "6155167f97"
+    }, 
+    {
+        "sentence": "Most of the critical services to the populations today are provided and managed by information systems.", 
+        "sentence_id,": "4cfa75dcd6"
+    }, 
+    {
+        "sentence": "Lack of coordination amongst the partner organizations at the national level in the field of cyber security.", 
+        "sentence_id,": "396c9a26f9"
+    }, 
+    {
+        "sentence": "Attacks in cyber space to individuals or public agencies go unreported due to the fear of damage to reputation or due to other reasons.", 
+        "sentence_id,": "a7c07dcc49"
+    }, 
+    {
+        "sentence": "Public organizations are not sufficiently structured towards achieving cyber security, and the issue of cyber security is regarded as a responsibility of the IT departments only.", 
+        "sentence_id,": "e477e01fa6"
+    }, 
+    {
+        "sentence": "There is not enough national manufacturing in terms of hardware and software.", 
+        "sentence_id,": "10bcc64309"
+    }, 
+    {
+        "sentence": "Cyber security should be ensured by methods which are based on risk management and continual improvement.", 
+        "sentence_id,": "e47a869989"
+    }, 
+    {
+        "sentence": "For cyber security, in addition to the technical dimension, an integrated approach should be adopted that would involve determining strong and weak sides in legal, administrative, economic, political and social dimensions, including threats and opportunities.", 
+        "sentence_id,": "c53e4332a6"
+    }, 
+    {
+        "sentence": "Risk management should be based on the elements of removing technical vulnerabilities, preventing attacks and threats, and minimizing the potential damages.", 
+        "sentence_id,": "f9c2674fe3"
+    }, 
+    {
+        "sentence": "It should be regarded essential that individuals, organizations, societies and governments should perform all their legal and social responsibilities towards achieving cyber security.", 
+        "sentence_id,": "d33c20607c"
+    }, 
+    {
+        "sentence": "It is regarded as essential that cooperation should be made with the public and private sectors, universities and non-governmental organizations, National Cyber Security Strategy and 2013-2014 Action Plan 15/47 furthermore, international cooperation and information sharing should be ensured in achieving and maintaining cyber space security.", 
+        "sentence_id,": "f6064e2150"
+    }, 
+    {
+        "sentence": "It is regarded as essential that diplomatic, technical and law enforcement communication channels should be used continually and effectively for international cooperation and information sharing.", 
+        "sentence_id,": "2fd61c49cf"
+    }, 
+    {
+        "sentence": "8. International agreements and regulations should be taken into account while the needed legislative actions are carried out.", 
+        "sentence_id,": "bcfe5730a0"
+    }, 
+    {
+        "sentence": "The principles of rule of law, fundamental human rights and freedoms and protection of privacy should be accepted as essential principles.", 
+        "sentence_id,": "ef7f4c2834"
+    }, 
+    {
+        "sentence": "Transparency, accountability, ethical values and freedom of speech should be supported in cyber space.", 
+        "sentence_id,": "e4ee964c10"
+    }, 
+    {
+        "sentence": "11.A balance should be kept between security and usability.", 
+        "sentence_id,": "8d61428d3a"
+    }, 
+    {
+        "sentence": "Auditing and regulatory organizations should take care of ensuring cyber security in areas which they are responsible for.", 
+        "sentence_id,": "4834c7fe35"
+    }, 
+    {
+        "sentence": "Use of national products and services should be encouraged in meeting the requirements of cyber security, and research and development projects should be endorsed for developing these, and the concept of innovation should be regarded as essential.", 
+        "sentence_id,": "021ff16bad"
+    }, 
+    {
+        "sentence": "National Cyber Security Strategy and 2013-2014 Action Plan 16/47 4 Strategic Cyber Security Actions Overcoming the threats in cyber space which have been increasing every day and minimizing the vulnerabilities within the national cyber space as much as possible are of utmost importance for progressing towards an information society which we have aimed to reach as a nation.", 
+        "sentence_id,": "b27baed1cc"
+    }, 
+    {
+        "sentence": "Effective, high quality and affordable usage of information technologies by all the members of the public is important while evolving into an information society, but it is also very important to achieve cyber security during the usage of these information technologies.", 
+        "sentence_id,": "4529607c72"
+    }, 
+    {
+        "sentence": "Therefore, cyber security, which is expressed as the protection of information systems as well as the confidentiality, integrity and accessibility of the information being processed by these systems, is a strategic and multi-stakeholder issue that would affect many aspects such as peace and welfare of the society, the economic development and stability of the nation and the national security of our country which has the aim to become an information society.", 
+        "sentence_id,": "05c0747c19"
+    }, 
+    {
+        "sentence": "In this framework, it has been determined to perform strategic actions towards achieving national cyber security in the 2013-2014 term, in light of the principles determined above.", 
+        "sentence_id,": "b314ee0999"
+    }, 
+    {
+        "sentence": "These actions include sub-actions as required, which are listed in the next chapter with the scheduled deadlines and the responsible/relevant organizations.", 
+        "sentence_id,": "511698bbb9"
+    }, 
+    {
+        "sentence": "The strategic actions scheduled to be performed in the term 2013-2014 has been grouped under the following titles.", 
+        "sentence_id,": "cdaff578bd"
+    }, 
+    {
+        "sentence": "National Cyber Security Strategy and 2013-2014 Action Plan 17/47 a) Regulatory measures In the 2013-2014 term, the government will start to implement regulatory measures, aiming to define the duties, powers and responsibilities of the public organizations and agencies and to remove the existing problems in achieving national cyber security.", 
+        "sentence_id,": "6961e7bfc1"
+    }, 
+    {
+        "sentence": "These actions will be of a nature to support criminal law, civil law, administrative law and the regulation of all procedural provisions thereto.", 
+        "sentence_id,": "1dc9b50249"
+    }, 
+    {
+        "sentence": "Also, a dictionary on terms of cyber security is to be prepared to prevent potential conceptual confusions.", 
+        "sentence_id,": "dbc9d50989"
+    }, 
+    {
+        "sentence": "b) Activities to help with judicial processes Regarding cyber-attacks, in the framework of the international legal requirements, the following should be determined to protect the rights of victims; the source of attack, attacking systems and the severity of effect on the end users who receive service from these systems.", 
+        "sentence_id,": "74370d56e0"
+    }, 
+    {
+        "sentence": "In order to produce this information, the national cyberspace should be equipped with reliable recording mechanisms that are compatible with the current technology.", 
+        "sentence_id,": "8fd3e0a3c5"
+    }, 
+    {
+        "sentence": "c) Establishing the National Cyber Incidents Response Organization In the short term, a Cyber Incidents Response Organization that will efficiently operate both nationally and internationally is to be created to quickly determine the threats emerging in cyber space, to develop and to share- precautions for reducing or removing the effects of potential incidentsthus public organizations and agencies will gain the capability to respond to National Cyber Security Strategy and 2013-2014 Action Plan 18/47 cyber security incidents.", 
+        "sentence_id,": "52fe3f546f"
+    }, 
+    {
+        "sentence": "The National Center for Cyber Incident Response (USOM), which will be available 7/24 to respond to the threats that may affect the country, will be established, and sectoral \"Teams for Responding to Cyber Incidents\" (SOME) will be established which are to work under the coordination of the USOM.", 
+        "sentence_id,": "00d644c0ec"
+    }, 
+    {
+        "sentence": "The sectoral SOMEs will respond to cyber incidents and they will also provide information and hold awareness raising activities specific to the SOMEs affiliated to themselves and to the sector which they are responsible for.", 
+        "sentence_id,": "691b3e0bf5"
+    }, 
+    {
+        "sentence": "Also other SOMEs will be established within public organizations and agencies which are to operate under the coordination of sectoral SOMEs.", 
+        "sentence_id,": "7af89fe011"
+    }, 
+    {
+        "sentence": "The USOMs and the SOMEs while responding to incidents - will also act in coordination with judicial authorities and law enforcement agencies to provide the data that will support the investigation.", 
+        "sentence_id,": "df28988ab8"
+    }, 
+    {
+        "sentence": "As the national contact point, the USOM will be in close cooperation with the equivalent authorities of other countries and international organizations.", 
+        "sentence_id,": "fb53e2c00b"
+    }, 
+    {
+        "sentence": "d) Strengthening the National Cyber Security Infrastructure In the short and the medium term, all public organizations will have wide ranging infrastructure projects that will support the cyber security of public information systems.", 
+        "sentence_id,": "e8032faec2"
+    }, 
+    {
+        "sentence": "Activities will be held for ensuring cyber security of public organizations, with priority given to information systems of critical infrastructures.", 
+        "sentence_id,": "ec4ba51a78"
+    }, 
+    {
+        "sentence": "The information systems of key infrastructures, their level of criticality, their relations with one another and the responsible staff will be National Cyber Security Strategy and 2013-2014 Action Plan 19/47 determined.", 
+        "sentence_id,": "bdaab6ba33"
+    }, 
+    {
+        "sentence": "The cyber security of the information systems of critical infrastructures will be ensured by both technological precautions and administrative measures and processes.", 
+        "sentence_id,": "dd15ac3e04"
+    }, 
+    {
+        "sentence": "To this effect, the proficiency levels of all staff -on cyber security- primarily those of the top managers in public organizations will be increased through trainings with administrative and technological contents.", 
+        "sentence_id,": "35d268713e"
+    }, 
+    {
+        "sentence": "The public organizations which do not have sufficient proficiency in achieving cyber security will be supported with services to be provided in technological and administrative aspects.", 
+        "sentence_id,": "622b72c1f8"
+    }, 
+    {
+        "sentence": "e) Human Resources Education and Awareness Raising Activities in the Field of Cyber Security In the short and medium term, activities will be carried out to create proficient human resources in needed numbers in the field of cyber security.", 
+        "sentence_id,": "c80982fffe"
+    }, 
+    {
+        "sentence": "Regulations will be created to include the concept of cyber security into the curricula of primary schools, secondary schools, high schools, non-formal education institutions and higher education organizations.", 
+        "sentence_id,": "d47e97a3fb"
+    }, 
+    {
+        "sentence": "Events will be organized with an aim to raise awareness on cyber security- of information system auditors, technology developers, system administrators and all other relevant parties, and to provide information that falls under their responsibilities.", 
+        "sentence_id,": "8fa488a02c"
+    }, 
+    {
+        "sentence": "Auditing steps on cyber security in the internal audit processes of organizations will also be discussed.", 
+        "sentence_id,": "4a8df7b599"
+    }, 
+    {
+        "sentence": "Also, an education platform will be created for all citizens in order to create and develop National Cyber Security Strategy and 2013-2014 Action Plan 20/47 awareness on cyber security, and initiatives serving this purpose will be supported.", 
+        "sentence_id,": "cc788066a4"
+    }, 
+    {
+        "sentence": "f) Developing National Technologies in the field of Cyber Security In the medium and long term, technical know-how and the potential and capabilities of the country on cyber security will be increased.", 
+        "sentence_id,": "8faecae7d5"
+    }, 
+    {
+        "sentence": "Efforts will be made to have public and private sector work cooperatively in activities towards meeting the needs of research and development.", 
+        "sentence_id,": "d50fd9801a"
+    }, 
+    {
+        "sentence": "g) Extending the Scope of National Cyber Security Mechanisms It is necessary to start working on extending the area of responsibility of our national security organizations, to include defense against malicious activities carried out in national and international cyber space.", 
+        "sentence_id,": "e09ff56486"
+    }, 
+    {
+        "sentence": "National Cyber Security Strategy and 2013-2014 Action Plan 21/47 5 National Cyber Security Action Plan for the Term 2013 -2014 This chapter includes the actions towards achieving national cyber security in light of the determined principles for the term 2013-2014 in the framework of the national cyber security strategy.", 
+        "sentence_id,": "8aa14875a9"
+    }, 
+    {
+        "sentence": "The actions are grouped by the titles determined in the fourth part of this document.", 
+        "sentence_id,": "2d6b8ed5a0"
+    }, 
+    {
+        "sentence": "One responsible public organization and agency is appointed for each action, however, that action can have more than one relevant organization and agency.", 
+        "sentence_id,": "6b5e98a950"
+    }, 
+    {
+        "sentence": "In such cases, it is envisioned that all the relevant organizations and agencies should act under the coordination of the responsible organization and agency as required, and should also act in parallel with each other as required, to carry out the activities required by the action.", 
+        "sentence_id,": "2907a5911f"
+    }, 
+    {
+        "sentence": "The deadlines for some of the actions are determined, and those actions which are envisioned to be repeated periodically and carried out constantly are particularly specified.", 
+        "sentence_id,": "9fe959203b"
+    }, 
+    {
+        "sentence": "September 2013 - Ministry of National Defense (Rel) Establishing the needs for new regulations, and submitting them to the Cyber - Chief of Staff(Rel) regulations Security Council.", 
+        "sentence_id,": "58fc4dc2a1"
+    }, 
+    {
+        "sentence": "- The undersecretariat of Public Order and Security(Rel) related to cyber - The Information and Communication security Technologies Authority(Rel) - Ministry of Transport, Maritime - Carrying out the secondary legislative activities (regulations, edicts, activities related to Cyber Security Services.)", 
+        "sentence_id,": "b34903f3c7"
+    }, 
+    {
+        "sentence": "Affairs and Communications(Res) Continually - The public organizations responsible for regulating and auditing the critical sectors(Rel) National Cyber Security Strategy and 2013-2014 Action Plan 24/47 5.2 Carrying Out the Activities That Will Help with Judicial Processes No Action Sub-Action Deadline Responsible(Res) and Relevant (Rel) Organizations - Ministry of Interior(Res) - The Turkish Gendarmerie(Rel) - The undersecretariat of National Intelligence Organization(Rel) - Determining the minimum requirements for logs to be kept to get reliable evidence for post-incident examination.", 
+        "sentence_id,": "8b22d0c193"
+    }, 
+    {
+        "sentence": "Council of Turkey (Rel) evidence base for cyber incidents - Ministry of Transport, Maritime Affairs - Relevant public organizations put into operation their convenient logging mechanisms in conformity with the current technology and the international standards to get reliable evidence for post- and Communications(Res) March 2014 - Ministry of Interior(Rel) - Ministry of Justice(Rel) incident examination.", 
+        "sentence_id,": "4c0129458d"
+    }, 
+    {
+        "sentence": "- All public organizations(Rel) - Public agencies that operate in critical sectors will put into operation their convenient logging mechanisms in conformity with current technology and international standards to get reliable - The public organizations responsible for May 2014 regulating and auditing the key sectors(Res) evidence for post-incident examination.", 
+        "sentence_id,": "8275975458"
+    }, 
+    {
+        "sentence": "National Cyber Security Strategy and 2013-2014 Action Plan 25/47 5.3 Creating the National Cyber Incidents Response Organization No Action Sub-Action Deadline - Establishing the National Center for Cyber Incident Response Completed.", 
+        "sentence_id,": "46e2683244"
+    }, 
+    {
+        "sentence": "- The Turkish National Police (Rel) - Preparing a central help page for the public servants working in establishing the the area of cyber security and helping them with the online Teams for communication of issues to be urgently taken action for.", 
+        "sentence_id,": "0241202532"
+    }, 
+    {
+        "sentence": "Presidency(Rel) July 2013 - The Turkish Gendarmerie(Rel) - The Scientific And Technological Research Council of Turkey (Rel) Responding to Cyber Incidents - Ministry of Transport, Maritime Affairs and Communications(Res) against Sectoral and Public Entities (SOME) - Preparing the working principles, guidance documents and training schedules to establish and operate the Teams for Responding to Cyber Incidents against Sectoral and Public - The Information and Communication Technologies Authority/ Telecommunications August 2013 Communication Presidency(Rel) - The public organizations responsible for Entities (SOME) regulating and auditing the critical sectors(Rel) - The Scientific And Technological Research Council of Turkey (Rel) National Cyber Security Strategy and 2013-2014 Action Plan 26/47 No Action Sub-Action Deadline Responsible(Res) and Relevant (Rel) organizations - USOM (The National Center for Cyber - Establishing the sectoral SOMEs which are specific to critical infrastructure sectors, and creating their teams as well as Incident Response) (Res) December 2013 - The public organizations responsible for regulating and auditing the critical providing trainings for them.", 
+        "sentence_id,": "ea6947f48f"
+    }, 
+    {
+        "sentence": "Establishing the National Cyber Incidents Response (USOM) team and establishing the 4. sectors(Rel) - USOM (The National Center for Cyber - Sectoral SOMEs will operate directly under the coordination of USOM - Sectoral SOMEs will benefit from the support to be provided by Incident Response) (Res) March 2014 - The public organizations responsible for regulating and auditing the critical the USOM sectors(Rel) Teams for Responding to Cyber Incidents - USOM (The National Center for Cyber - Establishing the SOMEs of public organizations September 2014 Incident Response) (Res) - All public organizations(Rel) against Sectoral - USOM (The National Center for and Public Entities (SOME) - Public SOMEs will operate directly under the coordination of USOM.", 
+        "sentence_id,": "0e19893998"
+    }, 
+    {
+        "sentence": "- Public SOMEs will benefit from the support to be provided by the sectoral SOMEs and USOM they are affiliated to, if there is any.", 
+        "sentence_id,": "9229894621"
+    }, 
+    {
+        "sentence": "Cyber Incident Response) (Res) December 2014 - The public organizations responsible for regulating and auditing the critical sectors(Rel) - All public organizations(Rel) National Cyber Security Strategy and 2013-2014 Action Plan 27/47 5.4 Strengthening the National Cyber Security Infrastructure No Action Sub-Action Deadline - Determining the critical infrastructures that could be the direct target of cyber threats and that can disturb the public order if Information security 5. infrastructures which is to be determined later on.", 
+        "sentence_id,": "723e566438"
+    }, 
+    {
+        "sentence": "- Determining the methods of sectoral risk analysis management program in critical infrastructures - Determining the requirements of sectoral emergency action plans - Completing the first one of the yearly risk analysis reporting activities - Determining and implementing the requirements of sectoral business continuity plans - Determining and implementing the sectoral security precautions National Cyber Security Strategy and 2013-2014 Action Plan Relevant (Rel) Organizations - The Scientific And Technological July 2013 damaged.", 
+        "sentence_id,": "2b4c548469"
+    }, 
+    {
+        "sentence": "- Conducting the sectoral risk analysis of one of the critical Responsible(Res) and Research Council of Turkey (Res) - The public organizations responsible for regulating and auditing the August 2013 critical sectors(Rel) September 2013 February 2014 - The public organizations responsible for regulating and auditing the critical sectors(Res) March 2014 - The Scientific And Technological Research Council of Turkey (Rel) March 2014 - USOM (The National Center for Cyber Incident Response) (Rel) Continually 28/47 No Action Sub-Action - Preparing the document on the Minimum Security Requirements to be complied with by public organizations.", 
+        "sentence_id,": "2d91ba0091"
+    }, 
+    {
+        "sentence": "Deadline on the priority needs, and determining the proficiency of the Information 6. security program for the public sector Relevant (Rel) Organizations August 2013 - The Scientific And Technological - Providing the first one of the cyber security trainings to the system administrators and to other relevant technical staff based Responsible(Res) and The first one was completed trained staff.", 
+        "sentence_id,": "7438ad0cc5"
+    }, 
+    {
+        "sentence": "Research Council of Turkey (Res) - Ministry of Transport, Maritime Affairs and Communications(Rel) - USOM (The National Center for - Conducting the first one of the yearly tests and audits which is to Cyber Incident Response) (Rel) be compulsory for public organizations.", 
+        "sentence_id,": "bf11289600"
+    }, 
+    {
+        "sentence": "And for the public organizations which are to be prioritized, these tests and audits December 2013 will be conducted in agreement with the relevant public organizations.", 
+        "sentence_id,": "6cdd1d7ead"
+    }, 
+    {
+        "sentence": "- Publishing and updating the hardening documents and the standards on information systems security National Cyber Security Strategy and 2013-2014 Action Plan Continually - The Scientific And Technological Research Council of Turkey (Res) 29/47 No Action Sub-Action - Briefing top managers who are responsible for information Strengthening 7. systems and cyber security of public organizations Completed Responsible(Res) and Relevant (Rel) Organizations - Ministry of Transport, Maritime Affairs and Communications(Res) - The Scientific And Technological cyber security - Training and certifying the technical staff.", 
+        "sentence_id,": "dcfd84b948"
+    }, 
+    {
+        "sentence": "training - Providing trainings to the internal audit staff working in public infrastructure Deadline organizations and agencies, which will help them obtain the Research Council of Turkey (Rel) May 2014 - State Personnel Administration(Rel) competency to carry out audits on information systems.", 
+        "sentence_id,": "b56e8f3b43"
+    }, 
+    {
+        "sentence": "National Cyber Security Strategy and 2013-2014 Action Plan 30/47 No Action Sub-Action Deadline Responsible(Res) and Relevant (Rel) Organizations - Ministry of Transport, Maritime Affairs and Communications(Res) - Ministry of Interior(Rel) - The Information and Communication Technologies Authority(Rel) To be held once - Organizing cyber security exercises.", 
+        "sentence_id,": "e361aaff76"
+    }, 
+    {
+        "sentence": "Organizing cyber (Rel) security exercises - Sectoral SOMEs (The Teams for Responding to Cyber Incidents) (Rel) - Ministry of Transport, Maritime Affairs and Communications(Res) - Ministry of Foreign Affairs(Rel) - Organizing the first one of the International Cyber Security Exercises with the leadership of Turkey.", 
+        "sentence_id,": "cee7fd04f0"
+    }, 
+    {
+        "sentence": "- - Determining the rules and procedures that will help communication with secure data sharing amongst public rules for the public organizations December 2013 The National Center for Cyber Incident Response) (Rel) - The Information and Communication Technologies Authority(Rel) - The undersecretariat of Public Order and Security(Rel) sector - The Scientific And Technological Research Council of Turkey(Rel) - Preparing the training programs about software security and delivering those programs to software developers December 2013 - Publishing the document on fundamental rules on secure software development independent from programming Implementation of 10. languages for the software to be used in critical December 2013 - The Scientific And Technological Research Council of Turkey (Res) infrastructures.", 
+        "sentence_id,": "a550e16f92"
+    }, 
+    {
+        "sentence": "- Ministry of Transport, Maritime Affairs and the software security program Communications(Rel) - In the scope of the security assessments of the software - Turkish Standards organization(Rel) that have been developed for critical infrastructures; preparing and submitting to the Cyber Security Council- the feasibility studies towards implementing March 2014 and checking the technical requirements within critical infrastructure organizations.", 
+        "sentence_id,": "290eb796aa"
+    }, 
+    {
+        "sentence": "National Cyber Security Strategy and 2013-2014 Action Plan 32/47 No Action Sub-Action - Establishing a Honeypot system to detect cyber threats.", 
+        "sentence_id,": "633e5ef525"
+    }, 
+    {
+        "sentence": "- Establishing and developing a reporting system for national Implementation of 11. cyber threats cyber-attacks.", 
+        "sentence_id,": "7b8c77d684"
+    }, 
+    {
+        "sentence": "Deadline July 2013 - Generating yearly statistics about cyber threats.", 
+        "sentence_id,": "ce3eff2954"
+    }, 
+    {
+        "sentence": "December 2013 service providers in the field of cyber security Authority/ Telecommunications December 2013 - Ministry of Transport, Maritime Affairs and Communications(Rel) prevention of cyber threats.", 
+        "sentence_id,": "c8b38ac601"
+    }, 
+    {
+        "sentence": "- The Information and Communication Presidency(Res) - Developing the mechanisms for detection, monitoring and products and Relevant (Rel) Organizations Communication Technologies prevention project Certification of Responsible(Res) and December 2014 Research Council of Turkey (Rel) - Ministry of Transport, Maritime - Determining the minimum requirements that natural and legal Affairs and Communications(Res) persons should have, who carry out the security tests on information systems, providing training and consultancy in the field of cyber security, offering the services in other areas to be determined related to cyber security, and designing a certification process for these natural and legal persons.", 
+        "sentence_id,": "20c41cd030"
+    }, 
+    {
+        "sentence": "National Cyber Security Strategy and 2013-2014 Action Plan - The Scientific And Technological September 2013 - The Scientific And Technological Research Council of Turkey (Rel) - Turkish Standards Organization(Rel) 33/47 No Action Sub-Action Deadline Responsible(Res) and Relevant (Rel) Organizations - Turkish Standards Certification of the 12. organization(Res) - Determining the products of information technology and products and information systemsincluding their minimum security service providers in requirements- which are used by public organizations and thus the field of cyber are of critical importance, and providing the certification security determined.", 
+        "sentence_id,": "d500102d15"
+    }, 
+    {
+        "sentence": "- Ministry of Transport, Maritime August 2014 Affairs and Communications(Rel) - TURKAK (Turkish Accreditation Agency) (Rel) - The Scientific And Technological Research Council of Turkey (Rel) Determining the rules towards 13. issuing a security certification to computer forensics - Ministry of Justice(Res) - Determining the minimum requirements for natural and legal persons who provide computer forensics services, and designing a certification process for them.", 
+        "sentence_id,": "18620a8a7d"
+    }, 
+    {
+        "sentence": "May 2014 - Ministry of Interior(Rel) - The Turkish National Police (Rel) - The Turkish Gendarmerie(Rel) service providers National Cyber Security Strategy and 2013-2014 Action Plan 34/47 No Action Sub-Action Deadline Responsible(Res) and Relevant (Rel) Organizations - Determining the security risk levels of the systems and of the data which process transactions in electronic environment, regarding all public organizations and agencies and the private September 2013 sector corporations that run critical information infrastructures.", 
+        "sentence_id,": "3d6ea75794"
+    }, 
+    {
+        "sentence": "- Determining the procedures and principles of backing up sensitive data of all public organizations and agencies and the Establishing 14. business continuity and data backup systems private sector corporations that run critical information - Ministry of Transport, Maritime October 2013 infrastructures.", 
+        "sentence_id,": "bc0f5a0a3e"
+    }, 
+    {
+        "sentence": "- The Scientific And Technological Research Council of Turkey (Rel) - All public organizations and - Preparation of business continuity plans by all public organizations and agencies and the private sector corporations Affairs and Communications(Res) January 2014 agencies(Rel) - The public organizations that run critical information infrastructures.", 
+        "sentence_id,": "ad623671dd"
+    }, 
+    {
+        "sentence": "responsible for regulating and - Establishing information systems pursuant to the business continuity plans.", 
+        "sentence_id,": "4590f7e469"
+    }, 
+    {
+        "sentence": "- Organizing the exercises suitable for business continuity plans, and submitting the results to the Cyber Security Council.", 
+        "sentence_id,": "e45424cf4d"
+    }, 
+    {
+        "sentence": "National Cyber Security Strategy and 2013-2014 Action Plan July 2014 auditing the critical sectors(Rel) December 2014 35/47 No Action Sub-Action Deadline Responsible(Res) and Relevant (Rel) Organizations - Ministry of Transport, Maritime Affairs and Communications(Res) - Determining a public agency or agencies that will offer data center services for storing the internet web sites of public Moving the October 2013 organizations in a domestic and reliable data center.", 
+        "sentence_id,": "40ac78c81d"
+    }, 
+    {
+        "sentence": "- The Information and Communication Research Council of Turkey (Rel) of public organizations to local and reliable data centers - The public organizations like municipalities, hospitals, provincial/district public organizations which do not host their web sites internally will move their web sites to the pre- December 2013 - All public organizations and agencies (Res) determined data center/centers.", 
+        "sentence_id,": "6ee5340885"
+    }, 
+    {
+        "sentence": "- Carrying out regular and periodic inspections of these predetermined data centers.", 
+        "sentence_id,": "0b52b03647"
+    }, 
+    {
+        "sentence": "- Developing an analysis infrastructure that will detect potential Developing and putting into 16. operation- a test data loss from key public organizations.", 
+        "sentence_id,": "406af8947d"
+    }, 
+    {
+        "sentence": "Continually Affairs and Communications(Res) December 2013 - Ministry of Transport, Maritime - Determining the public organization on which this test infrastructure will be applied by the Cyber Security Council January 2014 Affairs and Communications(Res) - The Scientific And Technological infrastructure for detecting data loss - Ministry of Transport, Maritime Research Council of Turkey (Rel) - Carrying out the tests to detect data loss and reporting the results.", 
+        "sentence_id,": "e34286e475"
+    }, 
+    {
+        "sentence": "National Cyber Security Strategy and 2013-2014 Action Plan May 2014 36/47 No Action Sub-Action - Creating access control principles in conformity with the Determining the 17. international standards (e.g.", 
+        "sentence_id,": "f269f72836"
+    }, 
+    {
+        "sentence": "TS ISO/IEC 27001) Deadline October 2013 organizations Relevant (Rel) Organizations - Cyber Security Council(Res) - Ministry of Transport, Maritime Affairs and Communications(Rel) levels of access to data in public Responsible(Res) and - The Scientific And Technological - Re-configuration of e-government applications of public organizations in a way to prevent access to unauthorized data February 2014 Research Council Of Turkey (Rel) - All public organizations and over the internet agencies (Rel) - Providing information about existing open source security products that meet the minimum security criteria already determined, which may be used by public and private sector October 2013 - The Scientific And Technological organizations.", 
+        "sentence_id,": "52badf93fd"
+    }, 
+    {
+        "sentence": "Research Council Of Turkey(Res) Promoting the 18. usage of open source products - Creating platforms for developing new cyber security products with open source code.", 
+        "sentence_id,": "e59522086f"
+    }, 
+    {
+        "sentence": "February 2014 - Ministry of Transport, Maritime Affairs and Communications(Rel) - Universities (Rel) - Preparing a schedule to move the suitable ones -of all the critical information systems- to the operating systems with open source May 2014 code.", 
+        "sentence_id,": "6c976eef30"
+    }, 
+    {
+        "sentence": "National Cyber Security Strategy and 2013-2014 Action Plan 37/47 5.5 Human Resources Education and Awareness-Raising Activities on Cyber Security No Action Sub-Action Deadline Responsible(Res) and Relevant (Rel) Organizations - Council of Higher Education(Res) Educate academics 19. in the study of cyber security - Ministry of National - Providing scholarships to students for masters and doctoral studies on cyber security.", 
+        "sentence_id,": "8e916ddc8c"
+    }, 
+    {
+        "sentence": "October 2013 Education(Rel) - The Scientific And Technological Research Council of Turkey (Rel) - Universities (Rel) - Establishing a commission in the Council of Higher Education regarding the development of cyber security infrastructure.", 
+        "sentence_id,": "b67965bb11"
+    }, 
+    {
+        "sentence": "Wider adoption of undergraduate, graduate and doctoral programs of relevant cyber security departments.", 
+        "sentence_id,": "578e42c6ef"
+    }, 
+    {
+        "sentence": "curricula in universities - Preparing more books, magazines, articles and other sources on the subject of cyber security in the Turkish language.", 
+        "sentence_id,": "d6987e8c78"
+    }, 
+    {
+        "sentence": "March 2014 Research Council of Turkey (Rel) - Universities (Rel) Continually - Opening at least two graduate programs on cyber security.", 
+        "sentence_id,": "be16e172dd"
+    }, 
+    {
+        "sentence": "October 2013 - Opening at least one doctoral program on cyber security.", 
+        "sentence_id,": "733f96f937"
+    }, 
+    {
+        "sentence": "September 2014 Education(Rel) - The Scientific And Implementing a Technological Research Council program to direct of Turkey (Rel) students towards - Universities (Rel) cyber security expertise - Organizing summer camps on cyber security.", 
+        "sentence_id,": "8d7b04770d"
+    }, 
+    {
+        "sentence": "- Creating internship programs in cyber security.", 
+        "sentence_id,": "fe7d115c0d"
+    }, 
+    {
+        "sentence": "To be held as of the year 2013 - The Scientific and Technological Research Council of Turkey (Res) September 2014 - Council of Higher - Organizing promotion activities in universities related to cyber security.", 
+        "sentence_id,": "35e3429984"
+    }, 
+    {
+        "sentence": "National Cyber Security Strategy and 2013-2014 Action Plan Continually Education(Res) 39/47 No Action Sub-Action - Organizing cyber defense competitions amongst universities - Organizing video/poster competitions on information security for awareness-raising in the primary, secondary, high Implementing a school and university categories.", 
+        "sentence_id,": "c85631d283"
+    }, 
+    {
+        "sentence": "Deadline To be held every year Responsible(Res) and Relevant (Rel) Organizations - The Scientific And Technological Research Council of Turkey (Rel) - Council of Higher Education(Rel) To be held every - Ministry of National year Education(Res) - Ministry of Transport, Maritime Affairs program to direct and Communications(Res) 21. students towards cyber security expertise - The Information and Communication - Experts working in USOMs and SOMEs will be trained and they will gain experience in implementation.", 
+        "sentence_id,": "492bd0de67"
+    }, 
+    {
+        "sentence": "Continually Technologies Authority(Rel) - USOM (The National Center for Cyber Incident Response) (Rel) - SOMEs (The Teams for Responding to Cyber Incidents) (Rel) - Increasing the capacities of the security units which will respond to cyber security incidents, and for training experts and helping the experts gain experience in implementation.", 
+        "sentence_id,": "3f6e3ba07f"
+    }, 
+    {
+        "sentence": "National Cyber Security Strategy and 2013-2014 Action Plan - Ministry of Interior(Res) Continually - The Scientific And Technological Research Council of Turkey (Rel) 40/47 No Action Promoting cyber security trainings across primary, 22. secondary, high school and nonformal education platforms.", 
+        "sentence_id,": "4275e1c133"
+    }, 
+    {
+        "sentence": "- The Information and Continually Communication Technologies Authority(Res) - Ministry of National media and awareness-raising) Education(Rel) computer users on cyber security.", 
+        "sentence_id,": "de609b8a41"
+    }, 
+    {
+        "sentence": "(Rel) Communication Technologies information technology trainings formal education activities, remote education by means of the Research Council Of Turkey - The Information and FATIH project computer users on cyber security (seminars, brochures, non- Relevant (Rel) Organizations - Ministry of National computer programming in vocational high schools.", 
+        "sentence_id,": "9b2dfe9396"
+    }, 
+    {
+        "sentence": "which are under the field of information technology.", 
+        "sentence_id,": "52a93361b7"
+    }, 
+    {
+        "sentence": "Responsible(Res) and - Ministry of Transport, Maritime - Raising the awareness level of people on safe internet usage and on safe internet service, further developing and spreading the service.", 
+        "sentence_id,": "d8c3463f9e"
+    }, 
+    {
+        "sentence": "Organizing national discuss the economic, social and legal aspects of cyber and international security.", 
+        "sentence_id,": "2bb97d3592"
+    }, 
+    {
+        "sentence": "cyber security events - Participation in international conferences, meetings, seminars and the exercises related to cyber security.", 
+        "sentence_id,": "c9c131cd76"
+    }, 
+    {
+        "sentence": "Communication Technologies Continually Authority(Rel) - The Scientific And Technological Research Council of Turkey (Rel) - All public organizations and agencies(Rel) - Universities (Rel) - NGOs (Rel) National Cyber Security Strategy and 2013-2014 Action Plan 42/47 5.6 Developing National Technologies in Cyber Security No Action Sub-Action - Creating and updating a list of the technologies that would meet the cyber security requirements of the country.", 
+        "sentence_id,": "d0bc146641"
+    }, 
+    {
+        "sentence": "Stimulating research 25. and development activities - Inclusion of cyber security as a priority subject into the current promotion systems for projects.", 
+        "sentence_id,": "6b7d263cd8"
+    }, 
+    {
+        "sentence": "Deadline Continually and similar information technology products related to cyber March 2014 26. laboratories in the field of Cyber Security - Establishing a laboratory infrastructure that would build capacity to detect malware and their effects on information systems.", 
+        "sentence_id,": "69fef22be5"
+    }, 
+    {
+        "sentence": "National Cyber Security Strategy and 2013-2014 Action Plan - The Supreme Council for Science - Ministry of Transport, Maritime Affairs and Communications(Rel) - Ministry of Science, Industry and Technology(Rel) March 2014 - The Scientific And Technological Research Council of Turkey (Rel) security.", 
+        "sentence_id,": "bd3de2db97"
+    }, 
+    {
+        "sentence": "March 2014 Security - Ministry of Development(Rel) - Ministry of Transport, Maritime cyber security in universities.", 
+        "sentence_id,": "be274dbe9a"
+    }, 
+    {
+        "sentence": "Affairs and Communications(Rel) laboratories in the field of Cyber Relevant (Rel) Organizations - Council of Higher Education(Res) - Creating programs that will encourage and support the establishment of Research and Development laboratories on Responsible(Res) and - Establishing the first cyber security Research and Development laboratory in universities in the scope of the program.", 
+        "sentence_id,": "f8a42f9ee4"
+    }, 
+    {
+        "sentence": "- Ministry of Science, Industry and September 2014 Technology(Rel) - The Scientific And Technological Research Council of Turkey (Rel) - Holding regular activities in which the public and private - Ministry of Transport, Maritime sectors, universities, NGOs and other information security Creating national 27. products and solutions in the field of cyber security Affairs and Communications(Rel) - The Information and stake holders will participate in.", 
+        "sentence_id,": "5f9ea09d82"
+    }, 
+    {
+        "sentence": "- Participants should cooperate on the following subjects; correct usage of information technology products in the scope of cyber security, technological precautions and requirements, Research and Development requirements, information Communication Technologies October 2013 Authority(Rel) - The Scientific And Technological Research Council of Turkey (Rel) technology products being developed, administrative - Universities (Rel) precautions and regulations.", 
+        "sentence_id,": "857863e2e5"
+    }, 
+    {
+        "sentence": "- NGOs (Rel) National Cyber Security Strategy and 2013-2014 Action Plan 44/47 No Action Sub-Action - Creating promotion mechanisms for public organizations to prefer in their information and communication systems; Deadline Responsible(Res) and Relevant (Rel) Organizations - Ministry of Science, Industry and Technology(Res) - Ministry of Transport, Maritime a.", 
+        "sentence_id,": "98ce669466"
+    }, 
+    {
+        "sentence": "28. the products which are developed nationally, are assessed in terms of security and are certified, Promoting national b. products the products which were assessed in terms of security and were certified, in cases where there is not any national product.", 
+        "sentence_id,": "222c9a534b"
+    }, 
+    {
+        "sentence": "Affairs and Communications(Rel) - Ministry of Development (Rel) February 2014 - Ministry of Customs and Trade(Rel) - Ministry of Economy(Rel) - Ministry of Finance(Rel) - Public Procurement Authority(Rel) National Cyber Security Strategy and 2013-2014 Action Plan 45/47 5.7 Extending the Scope of the National Security Mechanisms No Action Sub-Action Deadline Responsible(Res) and Relevant (Rel) Organizations - Cyber Security Council(Res) - Determining the responsibilities of public organizations in case of cyber security incidents in the cyber space and how to - Ministry of Interior(Rel) March 2014 ensure coordination at national level.", 
+        "sentence_id,": "de3a2f529a"
+    }, 
+    {
+        "sentence": "Integrating national cyber security 29. concepts into the - Determining high priority potential attack scenarios targeting the country, including the effects of these attacks.", 
+        "sentence_id,": "8a95f479ab"
+    }, 
+    {
+        "sentence": "- Ministry of National Defense(Rel) - Ministry of Justice(Rel) March 2014 - General Secretariat of the National Security Council(Rel) - Determining priority actions required to be carried out to national security analyze and improve the status of the mechanisms that would context be used in case of potential cyber security incidents .", 
+        "sentence_id,": "faf03b9cdd"
+    }, 
+    {
+        "sentence": "- Chief of Staff(Rel) - The undersecretariat of National September 2014 Intelligence Organization(Rel) - The undersecretariat of Public Order and Security(Rel) - The Turkish National Police (Rel) - The Turkish Gendarmerie (Rel) National Cyber Security Strategy and 2013-2014 Action Plan 46/47 [The page intentionally left blank.]", 
+        "sentence_id,": "e8858e9abb"
+    }, 
+    {
+        "sentence": "National Cyber Security Strategy and 2013-2014 Action Plan 47/47", 
+        "sentence_id,": "b153b66b49"
+    }
+]

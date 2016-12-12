@@ -1,0 +1,92 @@
+[
+    {
+        "sentence_id,": "5115ae997b", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "It is for this reason that the North Atlantic Treaty Organization (NATO) has adopted several policy documents regarding cyber defence, and like the militaries of our closest allies, the Department of National Defence and the Canadian Forces are examining how Canada can best respond to future cyber attacks."
+    }, 
+    {
+        "sentence_id,": "1ac210bfed", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The Treasury Board Secretariat will support and strengthen cyber incident management capabilities across Government, through the development of policies, standards and assessment tools."
+    }, 
+    {
+        "sentence_id,": "3c4b53131c", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Foreign Affairs and International Trade Canada will advise on the international dimension of cyber security and work to develop a cyber security foreign policy that will help strengthen coherence in the Governments engagement abroad on cyber security."
+    }, 
+    {
+        "sentence_id,": "e0e78a5ae3", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The Department of National Defence and the Canadian Forces will also work with allies to develop the policy and legal framework for military aspects of cyber security, complementing international outreach efforts of Foreign Affairs and International Trade Canada."
+    }, 
+    {
+        "sentence_id,": "c44067312f", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "In 2009 the Government made a number of important amendments to its Policy on Government Security."
+    }, 
+    {
+        "sentence_id,": "0b6fc12d3a", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Administered by the Treasury Board Secretariat, the Policy sets out safeguards to assure the delivery of Government services to Canadians."
+    }, 
+    {
+        "sentence_id,": "00bbfa3a08", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Since the Government relies extensively on information technology to provide these services, the Policy emphasizes the need for departments and agencies to monitor and secure their electronic operations."
+    }
+]

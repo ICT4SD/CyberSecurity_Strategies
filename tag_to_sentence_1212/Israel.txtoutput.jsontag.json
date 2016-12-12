@@ -1,0 +1,50 @@
+[
+    {
+        "sentence_id,": "3166474f04", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "B. Cybersecurity policies, security arrangements, actions, guidelines, risk management protocols and technological tools designated to protect cyberspace and allow action to be taken therein."
+    }, 
+    {
+        "sentence_id,": "93a9afaec2", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "3) To make recommendations to the Prime Minister and government regarding national cyber policy; to guide the relevant bodies regarding the policies decided upon by the government and/or the Prime Minister; to implement the policy and follow-up on the implementation."
+    }, 
+    {
+        "sentence_id,": "31a2292b08", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "4) To inform all the relevant bodies, as needed, about the complementary cyberspace-related policy guidelines resulting from Government Resolutions and committee decisions."
+    }, 
+    {
+        "sentence_id,": "a6351f1c64", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "- Non Official Page 8 of 9 - Non Official - H. The Bureau and the Ministry of Foreign Affairs will determine a procedure for regulating their shared work with regard to international cooperation within 120 days of commencement of work by the Bureau."
+    }
+]

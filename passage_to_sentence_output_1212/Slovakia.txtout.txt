@@ -1,0 +1,966 @@
+[
+    {
+        "sentence": "Introduction The purpose of this document entitled National Strategy for Information Security in the Slovak Republic (hereafter referred to as the NSIS) is to lay down an information security framework in the Slovak Republic (hereafter referred to as SR).", 
+        "sentence_id,": "10032934bc"
+    }, 
+    {
+        "sentence": "With respect to the fact that ensuring information security (the document covers non-classified information only) requires a comprehensive approach, it is necessary to define its basic level, with an option of further upgrading in specific fields.", 
+        "sentence_id,": "72cf154c05"
+    }, 
+    {
+        "sentence": "Well-defined information security is important with a focus on the establishment of primary legislative rules in the respective area, as well as with respect to further steps to be taken to address the issue of information security in Slovakia.", 
+        "sentence_id,": "9e31134a73"
+    }, 
+    {
+        "sentence": "The strategy defines starting points, allocates competences and proposes aims, priorities and steps to be taken in order to achieve the set purpose.", 
+        "sentence_id,": "f32b3736c0"
+    }, 
+    {
+        "sentence": "The document also includes a basic description of individual tasks with an aim of ensuring the protection of the entire Slovak digital space, with the exception of classified information falling under the competence of the NSA (National Security Authority).", 
+        "sentence_id,": "d4301c9381"
+    }, 
+    {
+        "sentence": "These involve, in particular, measures to avoid leakage of information and its unauthorised use, violation of data integrity, violation of peoples right to protection of personal data; measures to protect against damage and misuse of information and communication systems, harm to reputation of public and private institutions (defamation); as well as measures to enforce applicable Slovak and EU laws.", 
+        "sentence_id,": "36e6a7183b"
+    }, 
+    {
+        "sentence": "A poor level of protection of information and information and communication technologies raises doubts about reliability and credibility of information available from the Internet environment, a network currently connecting computer systems in more than 250 countries around the world.", 
+        "sentence_id,": "a3c2a1cd1a"
+    }, 
+    {
+        "sentence": "This worlds largest network provides today access to virtually unlimited information resources, enabling their exchange and providing a multitude of services such as e-mail, file transfer, etc.", 
+        "sentence_id,": "1aa711d6b3"
+    }, 
+    {
+        "sentence": "On that account, reliable operating information systems, reliable information exchange and related information security provide guarantees, to a certain degree, that citizens basic rights and freedoms and competitive development of each country are ensured.", 
+        "sentence_id,": "8431b6901e"
+    }, 
+    {
+        "sentence": "Implementation of measures envisaged under this strategy will also enhance credibility of electronic services, electronic commerce, as well as competitiveness and credit of our country abroad.", 
+        "sentence_id,": "ffefd91acb"
+    }, 
+    {
+        "sentence": "Importance of the document 2.1 Importance of information security Information and communication technologies (hereinafter referred to as ICT) have a considerable effect on the development of human society.", 
+        "sentence_id,": "6d7dc45aa7"
+    }, 
+    {
+        "sentence": "Interconnected information and communication systems form an information and communication infrastructure (hereinafter referred to as ICI) through which operations are currently carried out virtually in all areas of public life (transport, finance and banking, energy, telecommunications, healthcare and social security, defence, security, education, culture, public administration operations, etc.).", 
+        "sentence_id,": "f38a1dc8f4"
+    }, 
+    {
+        "sentence": "ICT extend beyond the existing ICI.", 
+        "sentence_id,": "7d9fb89451"
+    }, 
+    {
+        "sentence": "Ensuring information security of a country is essential to the functioning of society.", 
+        "sentence_id,": "cafb326e80"
+    }, 
+    {
+        "sentence": "In a broader sense, this means ensuring information security and protection of the entire information space and, from the practical point of view, in particular, the protection of the state ICI and its information content, called a digital space in this 3 strategy.1 A cyberspace, whose protection is ensured by the NSA and which also covers classified information and other facts to be specified by a binding regulation (an EU/Commission directive, EU regulation, law, etc., and/or a government resolution), has specific characteristics.", 
+        "sentence_id,": "cb10c3fe56"
+    }, 
+    {
+        "sentence": "Information security is multilateral; i.e.", 
+        "sentence_id,": "2e746dc5cb"
+    }, 
+    {
+        "sentence": "it must take into account interests of ICT system owners, users needs, as well as rights of natural and legal persons whose data are processed by the systems.", 
+        "sentence_id,": "79d89fe643"
+    }, 
+    {
+        "sentence": "As far as users are concerned, the following factors are most important with respect to the processing of information: purpose and content of information, accuracy, relevance, accessibility, authenticity, structure and quality of information.", 
+        "sentence_id,": "3da72dec36"
+    }, 
+    {
+        "sentence": "From the perspective of owners and operators, the most important element is a reliable access to on-line information resources and their protection against leakage, unauthorised use and violation of data integrity, as well as the authority and reputation of a system owner.", 
+        "sentence_id,": "5503509abd"
+    }, 
+    {
+        "sentence": "ICT systems and data processed by such systems may be made dysfunctional due to a number of various factors.", 
+        "sentence_id,": "9c5692367d"
+    }, 
+    {
+        "sentence": "They, for example, include natural factors, technical failures, human errors and faults, malicious software, intentional attacks, computer crime, and international terrorism.", 
+        "sentence_id,": "29dcbdaa1a"
+    }, 
+    {
+        "sentence": "The ICI is based on the Internet which enables mutual communication between information resources and information seekers, either in public or commercial sectors, or among individuals.", 
+        "sentence_id,": "2fa57aeb4f"
+    }, 
+    {
+        "sentence": "The Internet has no owner; no rules and limits are in place to regulate the use of personal information and preclude its misuse by third parties.", 
+        "sentence_id,": "812561f63c"
+    }, 
+    {
+        "sentence": "Serious security problems are also associated with other Internet-based services, such as e-mail, file transfers, etc.", 
+        "sentence_id,": "8a38780f93"
+    }, 
+    {
+        "sentence": "A failure to secure information may consequently result in irrecoverable losses and harm the credibility of an organisation or country.", 
+        "sentence_id,": "3a0286945b"
+    }, 
+    {
+        "sentence": "Given the fact that the state guarantees critical processes, its task is to take care of an overall level of competitiveness of society, thus preserving national welfare, including knowledge and information, therefore it cannot afford to have low security level criteria in place.", 
+        "sentence_id,": "5a939e8e78"
+    }, 
+    {
+        "sentence": "The consequences may be devastating, particularly in some specific areas.", 
+        "sentence_id,": "85afd91662"
+    }, 
+    {
+        "sentence": "The state is therefore obliged to ensure that information is protected against misuse, and minimise consequences where such misuse has occurred.", 
+        "sentence_id,": "9cdebe2d94"
+    }, 
+    {
+        "sentence": "2.2 Information security from the perspective of EU and multinational organisations The approach to addressing security is driven by the need to resolve a problem which originated from scientific and technological development and has by now fully translated into a global social issue.", 
+        "sentence_id,": "e33515d4ef"
+    }, 
+    {
+        "sentence": "Society seeks to resolve this problem and ensure both the protection of its valuable assets and individuals privacy.", 
+        "sentence_id,": "f5f0d7b9c8"
+    }, 
+    {
+        "sentence": "National governments, multinational bodies and organisations associating the worlds most advanced countries (UN, G8, OECD, ISO) have also come to realise the need of information security.", 
+        "sentence_id,": "b1b5cf6683"
+    }, 
+    {
+        "sentence": "Various institutions and institutional systems have been set up to ensure the protection of information (ENISA, HLIG, CERT, etc.", 
+        "sentence_id,": "66a80686e0"
+    }, 
+    {
+        "sentence": "), strategic objectives have been defined and elaborated on, and measures have been taken to meet the set objectives.", 
+        "sentence_id,": "9cecd8b2b9"
+    }, 
+    {
+        "sentence": "the term digital space corresponds to the term cyberspace widened by standards, norms and legislation, for which, however, the literal Slovak translation kybernetick priestor is not suitable due to its narrower meaning 1 4 In this context, the European Network and Information Security Agency (ENISA) was established, associating all EU Member States; Slovakia is represented by the Ministry of Finance in this body.", 
+        "sentence_id,": "e5cfba8322"
+    }, 
+    {
+        "sentence": "The EU included information security among its main priorities and has published a number of strategic documents, recommendations, directives and regulations on the protection of personal data and computer software, electronic signature, e-commerce, combating computer crime, spam, etc.", 
+        "sentence_id,": "da6e09b4b0"
+    }, 
+    {
+        "sentence": "2.3 Legislation and relations to other documents The NSIS is based on the knowledge of the actual situation and experience in the world and in Slovakia, on EU directives, OECD recommendations, key international norms and standards for information security, the Slovak legal framework for the protection of information, and other documents adopted by the Slovak government and the National Council of the Slovak Republic.", 
+        "sentence_id,": "2e370bccdf"
+    }, 
+    {
+        "sentence": "They mainly involve the following regulations: - Act No.", 
+        "sentence_id,": "a174025213"
+    }, 
+    {
+        "sentence": "on Information Systems of Public Administration and on amendments to certain acts, as amended by Act No.", 
+        "sentence_id,": "6fba1d048d"
+    }, 
+    {
+        "sentence": "on the Protection of Classified Information and on amendments to certain acts, as amended; - Act No.", 
+        "sentence_id,": "5218530f7a"
+    }, 
+    {
+        "sentence": "on the Protection of Personal Data as amended; - Act No.", 
+        "sentence_id,": "d43b97ccef"
+    }, 
+    {
+        "sentence": "215/2002 on Electronic Signature and on amendments to certain acts, as amended; - Act No.", 
+        "sentence_id,": "791298c94b"
+    }, 
+    {
+        "sentence": "on Copyright and Rights Related to Copyright as amended; - Act No.", 
+        "sentence_id,": "c59790eec1"
+    }, 
+    {
+        "sentence": "on Banks and on amendments to certain acts, as amended; - Act No.", 
+        "sentence_id,": "d430aed36b"
+    }, 
+    {
+        "sentence": "300/2005 Coll., the Penal Code, as amended; - other laws and implementing regulations listed in Annex 1. , By resolution No.", 
+        "sentence_id,": "45e66a4bf6"
+    }, 
+    {
+        "sentence": "522 of 13 June 2001, the Slovak government has approved Information Society Policy in the Slovak Republic thus officially joining the eEurope+ initiative.", 
+        "sentence_id,": "034b7687b0"
+    }, 
+    {
+        "sentence": "In accordance with the aforementioned government resolution draft Strategy and Action Plan for the Development of the Information Society was prepared and approved by the government resolution No.", 
+        "sentence_id,": "fd81ad9c65"
+    }, 
+    {
+        "sentence": "Convention on Cybercrime CETS 185/2001, issued by the Council of Europe, was ratified and incorporated into the Slovak Penal Code; Directive No 1999/93/EC of the European Parliament and of the Council on a Community framework for electronic signatures was transposed under the Act on Electronic Signature; and Directive No 95/46/EC of the European Parliament and of the Council on the protection of individuals with regard to the processing of personal data and on the free movement of such data was transposed under the Act on Personal Data Protection.", 
+        "sentence_id,": "340bb073b9"
+    }, 
+    {
+        "sentence": "Various decisions and directives issued by the Council of Europe are also currently valid in the area of information security.", 
+        "sentence_id,": "de7a86994c"
+    }, 
+    {
+        "sentence": "5 Most important strategic documents in place in Slovakia include: - Slovak Security Strategy (National Council, September 2005).", 
+        "sentence_id,": "82eaf0dbb7"
+    }, 
+    {
+        "sentence": "- Draft Concept of Critical Infrastructure in Slovakia and Method of its Protection and Defence (MoE, 2007).", 
+        "sentence_id,": "72cb4535e3"
+    }, 
+    {
+        "sentence": "- Concept of the Protection of Classified Information in Slovakia.", 
+        "sentence_id,": "aacd7c6892"
+    }, 
+    {
+        "sentence": "The present document complies with the relevant underlying international security standards and norms, as well as standards issued by the MF SR, the NSA, MoH, the Slovak Office for Personal Data Protection, and the Slovak Office of Standards, Metrology and Testing (SOSMT).", 
+        "sentence_id,": "980ecd2eea"
+    }, 
+    {
+        "sentence": "2.4 Areas of information security and competences No comprehensive information security strategy has been adopted in Slovakia so far.", 
+        "sentence_id,": "1a2b5ec1a9"
+    }, 
+    {
+        "sentence": "Nevertheless, the issue of information security has been addressed in certain partial areas (in terms of legislation, competences, organisation and methodology).", 
+        "sentence_id,": "127f950efc"
+    }, 
+    {
+        "sentence": "They are, in particular: Information society (MF SR) and information security in public administration falling within the MF SR competence; activities pertaining to information security are carried out by the Committee for Information Security.", 
+        "sentence_id,": "1cd55b04aa"
+    }, 
+    {
+        "sentence": "The Committee is responsible for preparation of expert proposals and standpoints on information security; i.e.", 
+        "sentence_id,": "163ed044f8"
+    }, 
+    {
+        "sentence": "the Committee, inter alia, proposes the introduction of security standards, amendments to, or cancellation of, the existing applicable security standards for the information systems in public administration.", 
+        "sentence_id,": "44c726fb7b"
+    }, 
+    {
+        "sentence": "(http://www.informatizacia.sk).", 
+        "sentence_id,": "62f0dbc26c"
+    }, 
+    {
+        "sentence": "Protection of classified information (NSA) represents in terms of information security the area of classified information and systems working with classified information.", 
+        "sentence_id,": "01ff1fb16e"
+    }, 
+    {
+        "sentence": "Despite traditional terminology used in legislation2, classified information is not classified in terms of confidentiality only; security requirements for its protection are complex and respect also the need of ensuring integrity, authenticity and availability.", 
+        "sentence_id,": "4a74abb6a4"
+    }, 
+    {
+        "sentence": "A dual management system is applied in relation to classified information that represents a cyberspace content and the part of Slovak digital space which does not work with classified information.", 
+        "sentence_id,": "7c9558caa5"
+    }, 
+    {
+        "sentence": "For the sake of protection of Slovak digital space it will therefore be necessary to establish closer cooperation in the area of classified information protection and information security of the entire Slovak digital space.", 
+        "sentence_id,": "fad1bf923b"
+    }, 
+    {
+        "sentence": "Personal data protection (the Office for Personal Data Protection) and the use of electronic signature (NSA) are governed by laws3 and the respective institutions supervise their compliance.", 
+        "sentence_id,": "a6e79db674"
+    }, 
+    {
+        "sentence": "Electronic commerce (MoE) is governed by Act No.", 
+        "sentence_id,": "f5eb5d971c"
+    }, 
+    {
+        "sentence": "on Electronic Commerce and on amendments to Act No.", 
+        "sentence_id,": "1336175241"
+    }, 
+    {
+        "sentence": "on state inspection in internal market concerning consumer protection and on amendments to certain acts as amended by Act No.", 
+        "sentence_id,": "1f78ade2c2"
+    }, 
+    {
+        "sentence": "(hereinafter referred to as Act No.", 
+        "sentence_id,": "e658d79b82"
+    }, 
+    {
+        "sentence": "on Electronic Commerce) under which Directive No 2000/31/EC of the Act No.", 
+        "sentence_id,": "f306961686"
+    }, 
+    {
+        "sentence": "on Protection of Classified Information and on amendments to certain acts, as amended by Act No.", 
+        "sentence_id,": "83cdeec6e7"
+    }, 
+    {
+        "sentence": "on Protection of Personal Data as amended, Act No.", 
+        "sentence_id,": "dbe32c459a"
+    }, 
+    {
+        "sentence": "on Electronic Signature and on amendments to certain acts 2 6 European Parliament and of the Council on Electronic Commerce, laying down the common legal framework of electronic commerce for all Member States, was transposed.", 
+        "sentence_id,": "2169486278"
+    }, 
+    {
+        "sentence": "Provisions and directives on electronic commerce are largely vague, therefore additional legislation is required.", 
+        "sentence_id,": "660a93b7da"
+    }, 
+    {
+        "sentence": "For this purpose, the Economic Commission for Europe - United Nations Centre for Trade Facilitation and Electronic Business (UN/CEFACT) officially published Recommendation No.", 
+        "sentence_id,": "a02d09483e"
+    }, 
+    {
+        "sentence": "33 in July 2005 in Geneva introducing a simple, transparent and effective processes for global commerce.", 
+        "sentence_id,": "19e5cf1e78"
+    }, 
+    {
+        "sentence": "Processes and services are governed by Directive No 2006/123/EC of the European Parliament and of the Council on services in the internal market; all Member States are obliged to put in force laws, other regulations and administrative measures necessary in order to ensure compliance with that directive.", 
+        "sentence_id,": "fb8f10672f"
+    }, 
+    {
+        "sentence": "Computer crime (Ministry of Justice, Ministry of the Interior) this area is covered by the existing legislation as well.", 
+        "sentence_id,": "299e83c164"
+    }, 
+    {
+        "sentence": "International standardisation organisations (ISO, IEC, CEN) publish also norms stipulating security requirements with respect to information and communication systems.", 
+        "sentence_id,": "a1e937deeb"
+    }, 
+    {
+        "sentence": "Competences for the publication of these norms are divided among several institutions in Slovakia.", 
+        "sentence_id,": "010616e34a"
+    }, 
+    {
+        "sentence": "Generally applicable norms are published by the SOSMT (Slovak Standards Institute - SUTN), standards pertaining to classified information and electronic signature are defined by the NSA, and standards for public administration information systems are published by the MF SR. Standards published by other central government authorities may also include some security aspects, e.g.", 
+        "sentence_id,": "a18ed5c4be"
+    }, 
+    {
+        "sentence": "standards issued by the Ministry of Health pertaining to the medical records.", 
+        "sentence_id,": "b500b3c10d"
+    }, 
+    {
+        "sentence": "Coordination of standards publishment area in between individual institutions is ensured through involvement of their employees in relevant committees of the MF SR and the SOSMT; however, standardization of information security is not coordinated at the institutional level.", 
+        "sentence_id,": "34b1b89956"
+    }, 
+    {
+        "sentence": "International cooperation in information security is necessary in order to ensure compatibility of solutions and sufficient level of protection of the global ICI.", 
+        "sentence_id,": "bb451f1aa4"
+    }, 
+    {
+        "sentence": "International cooperation is equally necessary due to the complexity of the area of information security as such, resulting in a situation where majority of countries do not have sufficient capacities to build the necessary know-how individually, and development and implementation of necessary solutions may take undesirably long even for the most advanced countries.", 
+        "sentence_id,": "79a7b39a22"
+    }, 
+    {
+        "sentence": "Slovakia is engaged in international cooperation efforts in information security; Slovakia is represented in the ENISA, EU working groups (OECD working group for information security; working groups for certification of means and accreditation of systems and networks for secure data transfer in EU electronic and communication systems, etc.", 
+        "sentence_id,": "329d58b54c"
+    }, 
+    {
+        "sentence": "), NATO working groups, FESA; Slovakia has also access to ISO information security standards under preparation.", 
+        "sentence_id,": "2ae91ddc40"
+    }, 
+    {
+        "sentence": "Individuals and non-state organisations are represented in other international organisations (IFIP TC11, etc.)", 
+        "sentence_id,": "31493e4062"
+    }, 
+    {
+        "sentence": "Using an ISO terminology, Slovakia is Act No.", 
+        "sentence_id,": "544b36cbdb"
+    }, 
+    {
+        "sentence": "300/2005 Coll., the Penal Code, 247 Damage and misuse of a record on information media Act No.", 
+        "sentence_id,": "ee22279f54"
+    }, 
+    {
+        "sentence": "on Copyright and Related Rights as amended 6 In the international context, the term standard means a norm; in Slovakia, the term norm describes a standardisation document issued by SUTN and a standard is a standardisation document issued by central government bodies 4 5 7 so far only an observer in the majority of the aforementioned organisations; to become a full, active member, Slovakia still lacks expert capacities, material resources and a base to be able to meet tasks arising under a full membership.", 
+        "sentence_id,": "d9e351feec"
+    }, 
+    {
+        "sentence": "Strategy The main task in information security is to develop an uniform platform for the building of information society, based on legal principles and ensuring adequate protection and credibility of Slovak digital space.", 
+        "sentence_id,": "b75162cce2"
+    }, 
+    {
+        "sentence": "In order to accomplish this task, it is necessary to create a National Strategy for Information Security in Slovakia as a basic national document and, subsequently, to elaborate on and implement the specific tasks defined under the strategy.", 
+        "sentence_id,": "71b89c9f6a"
+    }, 
+    {
+        "sentence": "The document builds on the principles defined under A strategy for a Secure Information Society Dialogue, partnership and empowerment issued by the European Union in 2006, the Slovak Security Strategy, and other strategic documents of most advanced information societies, including the US, Germany, UK, Finland, Japan, etc.", 
+        "sentence_id,": "8da8d64538"
+    }, 
+    {
+        "sentence": "The NSIS is divided into three levels.", 
+        "sentence_id,": "c889660210"
+    }, 
+    {
+        "sentence": "The first level specifies long-term strategic objectives in information security that cover all relevant problems Slovakia needs to resolve in this area.", 
+        "sentence_id,": "8770ef1922"
+    }, 
+    {
+        "sentence": "Strategic priorities represent the second level of the NSIS, where strategic objectives translate into specialised areas; at the third level, the NSIS defines the most important problems that are then reflected in key tasks.", 
+        "sentence_id,": "e2ef90eb33"
+    }, 
+    {
+        "sentence": "3.1 Strategic objectives European Union strategy says it is necessary to promote global cooperation in information security and ensure that European industry is user, demanding high-level security products and services and, at the same time, their competitive provider as well.", 
+        "sentence_id,": "68a4c3819b"
+    }, 
+    {
+        "sentence": "The second basic requirement of the EU is to standardise Member States national policies pertaining to information security.", 
+        "sentence_id,": "dd1adaed3e"
+    }, 
+    {
+        "sentence": "When seeking to meet these requirements, the principles of a democratic society should be observed and legitimate interests of citizens, the business sector and public administration taken into account.", 
+        "sentence_id,": "0663702309"
+    }, 
+    {
+        "sentence": "The following strategic objectives have been set in order to ensure and maintain the necessary level of information security under the strategy: 1. prevention: to ensure adequate protection of Slovak digital space so as to prevent the occurrence of security incidents as much as possible; 2. readiness: to ensure the ability to effectively respond to security incidents, mitigate their impacts and the time necessary to restore the operation of information and communication systems after an incident has occurred; 3. sustainability: to achieve, maintain and upgrade Slovakias competence in information security.", 
+        "sentence_id,": "1840515131"
+    }, 
+    {
+        "sentence": "The set strategic objectives comply with the Slovak Security Strategy, approved by the National Council of the Slovak Republic in September 2005, and with the ongoing building of information society in Slovakia.", 
+        "sentence_id,": "f578d2e76b"
+    }, 
+    {
+        "sentence": "The meeting of the set objectives requires that the state ensure cooperation of all government bodies, special state administration, academia, the private sector and citizens.", 
+        "sentence_id,": "8d1a3241ec"
+    }, 
+    {
+        "sentence": "An essential role the state plays in this intricate process is to create a suitable legislative environment and provide organisational, material and financial resources.", 
+        "sentence_id,": "8cbb4a3f0e"
+    }, 
+    {
+        "sentence": "Government tasks also include a consistent control of the fulfilment of action 8 plans and imposing sanctions for their non-fulfilment, as well as a flexible response to changes in external conditions.", 
+        "sentence_id,": "eaf77bb6a1"
+    }, 
+    {
+        "sentence": "3.2 Strategic priorities A relevant legislative framework needs to be completed; competences, technical, organisational and financial issues, hierarchy and management, education and many other problems should be addressed in order to meet the set strategic objectives.", 
+        "sentence_id,": "5634b7df81"
+    }, 
+    {
+        "sentence": "The NSIS defines the following seven basic strategic priorities: 1. protection of human rights and freedoms in using NICI; 2. building of awareness and competence in information security; 3. creation of secure environment; 4. improvement of effectiveness in information security management; 5. ensurance of sufficient protection of the state ICI and ICI supporting the state critical infrastructure; 6. national and international cooperation; 7. enhancement of national competence.", 
+        "sentence_id,": "cf39c8e49e"
+    }, 
+    {
+        "sentence": "3.2.1 Protection of human rights and freedoms The potential offered by ICT may be misused, therefore ways should be sought to protect legitimate interests of all stakeholders involved in the use of ICT.", 
+        "sentence_id,": "85558aa3c8"
+    }, 
+    {
+        "sentence": "However, traditional regulatory and defence mechanisms that society developed in the past may only hardly be carried over into the digital space.", 
+        "sentence_id,": "bb14345ca7"
+    }, 
+    {
+        "sentence": "In particular ethics and moral, which are being formed gradually, belong to a private sphere of individuals, or communities at the most, and have no legal force.", 
+        "sentence_id,": "e218fc5b91"
+    }, 
+    {
+        "sentence": "Good legislation is necessary in order to make sure that detected crimes tending to violate human rights and freedoms are effectively prosecuted.", 
+        "sentence_id,": "c75ea59986"
+    }, 
+    {
+        "sentence": "Amidst growing security problems of the digital space (computer crime, organised crime, terrorism) and the significance of the global (as well as national) ICI for society it will be necessary to define a legal framework for the protection of digital space (both at the international and national level).", 
+        "sentence_id,": "3895f36067"
+    }, 
+    {
+        "sentence": "Interests and rights of various individuals and organisations coincide in this area.", 
+        "sentence_id,": "db097b360b"
+    }, 
+    {
+        "sentence": "The NSIS builds on the Slovak legal framework for the protection of information, EU directives and OECD recommendations, taking into account core technical standards.", 
+        "sentence_id,": "ed22418f52"
+    }, 
+    {
+        "sentence": "A regulation of the supreme legal force concerning the protection of human rights in the case of safeguarding the digital space is the Charter of Human Rights and Freedoms under which citizens are guaranteed a right to personal integrity and privacy, protection of human dignity, personal honour, good reputation and name, private, personal and family life, and protection against unauthorised collection, disclosure or other misuse of personal data.", 
+        "sentence_id,": "8117f0017d"
+    }, 
+    {
+        "sentence": "The Constitution of the Slovak Republic is another fundamental document.", 
+        "sentence_id,": "99a2801a85"
+    }, 
+    {
+        "sentence": "The strategy identifies two key tasks in the protection of human rights and freedoms: 7 The security of information systems and networks should be compatible with essential values of a democratic society.", 
+        "sentence_id,": "ff7df834fe"
+    }, 
+    {
+        "sentence": "(OECD Guidelines for the Security of Information Systems and Networks) 9 a) to pursue democratic principles in measures designed to protect Slovak digital space; b) to lay down legislation on access to personal data in such a way that no person could have a right to misuse such data in the scope extending beyond the purpose of its processing.", 
+        "sentence_id,": "e2e33797a7"
+    }, 
+    {
+        "sentence": "3.2.2 Building of awareness and competence in information security Analyses have shown that many security incidents are caused by insufficient expertise and knowledge of information system administrators, users, as well as information security managers.", 
+        "sentence_id,": "b7a441289e"
+    }, 
+    {
+        "sentence": "On that account, the issue of their qualification and education needs to be addressed.", 
+        "sentence_id,": "79820e3312"
+    }, 
+    {
+        "sentence": "Qualification does not entail only education but, above all, experience in a given field and expertise obtained.", 
+        "sentence_id,": "93448e5306"
+    }, 
+    {
+        "sentence": "In the light of potential threats, it is necessary to achieve the required level of security awareness (i.e.", 
+        "sentence_id,": "33c92ff45a"
+    }, 
+    {
+        "sentence": "understanding the need and nature of information security) among all its users in order to safeguard the digital space and, subsequently, translate security awareness into a competence (recognising and assuming ones own responsibility for information security when working with ICT).", 
+        "sentence_id,": "c75deaade6"
+    }, 
+    {
+        "sentence": "The strategy identifies the following key tasks to achieve and retain the necessary level of security awareness and competence: a) to raise an awareness using the Internet, mass media and methodology materials among citizens, commercial and non-commercial organisations and public institutions of the risks related to the use of ICT and of means available to protect against threats; b) to strengthen education activities (making the information security basics part of informatics classes at schools); c) to introduce programmes on enhancing security awareness and competence of ICT users, with special requirements for information security.", 
+        "sentence_id,": "70e2d22511"
+    }, 
+    {
+        "sentence": "3.2.3 Creation of secure environment The role of the state is to create good conditions for cooperation among all involved stakeholders.", 
+        "sentence_id,": "a117f71e4d"
+    }, 
+    {
+        "sentence": "It includes, in particular, laying down a legal framework, drafting strategic documents and methodology materials, determining competences, obligations and responsibility.", 
+        "sentence_id,": "a0774097c9"
+    }, 
+    {
+        "sentence": "Another important task is to create uniform information security standards and coordinate their issuing.", 
+        "sentence_id,": "033e4c96f7"
+    }, 
+    {
+        "sentence": "The entire public administration, the academic and private sector, including individuals, should be involved in the preparation of conceptual documents.", 
+        "sentence_id,": "a4ff694866"
+    }, 
+    {
+        "sentence": "It is in the states interest to have the entire digital space protected, through suitable forms of cooperation between owners and users.", 
+        "sentence_id,": "ad518cc5c0"
+    }, 
+    {
+        "sentence": "The strategy defines the following key tasks that lead to creating a secure environment: a) to coordinate the protection of Slovak digital space and ensure national security; b) to create8 a sufficient information security legislative framework in Slovakia, taking into account human rights and freedoms and Slovakias international commitments (especially towards the EU); 8 analysis of the existing legislation and possible amendments or updates to it 10 c) to assess the existing competences and determine responsibility/define duties of state authorities in the area of information security; d) to harmonize STN (Slovak Technical Norms) with the applicable international information security standards; coordinate issuing of information security standards in Slovakia; e) to create a uniform methodology of non-classified information and information and communication systems security categorisation; f) to prepare basic ICT security requirements mandatory for the state ICI, and optional for other NICI components (mainly for e-Health, e-Government system and KRIS), compatible with international norms and standards.", 
+        "sentence_id,": "c8cc8e0d90"
+    }, 
+    {
+        "sentence": "g) to prepare and make available methodology materials with a goal to achieve the required/basic level of information security (guidelines and best practices); to promote convergence of best-practice based security procedures applied by the state and private sector; h) to promote solutions and services based on available (open) standards in order to improve availability of security solutions to small businesses and individuals; i) to engage the commercial sector and expert public in the process of drafting and reviewing conceptual documents, norms and standards; to create room for knowledge and experience exchange.", 
+        "sentence_id,": "d1badd5970"
+    }, 
+    {
+        "sentence": "3.2.4 Improvement of effectiveness in information security management In order to achieve and retain the required level of information security it is necessary to coordinate the protection of organisations assets and, at the same time, develop an effective system of its management.", 
+        "sentence_id,": "46ae453ec0"
+    }, 
+    {
+        "sentence": "Improving the quality of management requires that institutions would be provided with not only the methodological assistance while solving conceptual issues, but also with the support in solution of particular urgent problems (including preparation of regulations, methodology documents and trainings, as well as advice and technical assistance).", 
+        "sentence_id,": "88a2a0df52"
+    }, 
+    {
+        "sentence": "In this respect, security level should be monitored and evaluated, with respective statistics on security incidents being provided to target groups, in order to make management more effective.", 
+        "sentence_id,": "d7ed0d399f"
+    }, 
+    {
+        "sentence": "The following tasks should be set in order to resolve the aforementioned problems: a) threat monitoring; b) creation of an early warning system (notification of target groups about existing threats, warning of possible target groups, alarm signalling); c) help with security incidents solutions; d) identification, recording and evaluation of security incidents; e) monitoring effectiveness of measures proposed to resolve security incidents; f) coordination of security strategies of individual NICI system to ensure cooperation in NICI management.", 
+        "sentence_id,": "fb7b34164c"
+    }, 
+    {
+        "sentence": "3.2.5 Ensurance of sufficient protection of state ICI and ICI supporting the state critical infrastructure 11 The state as an owner of information and communication systems is obliged to ensure their adequate protection so that no damage is caused if they are attacked, or that such damage is minimal.", 
+        "sentence_id,": "fd269f6bd7"
+    }, 
+    {
+        "sentence": "They mainly include systems that are part of the state critical infrastructure which ensures the functioning of the state, services in industry, energy sector, healthcare and social security, transport, banking, etc.", 
+        "sentence_id,": "9f6e22f9d3"
+    }, 
+    {
+        "sentence": "The Slovak Security Strategy, approved by the National Council of the Slovak Republic in 2005, implies that the Slovak Republic will take measures to reduce vulnerability of critical infrastructure components, with focus on information and communication systems, and to minimise negative impacts of attacks against them.", 
+        "sentence_id,": "9c170ccd4d"
+    }, 
+    {
+        "sentence": "It will continue its activities focused on the security and integrity of information and communication systems, particularly systems that are essential for the safe performance of the basic functions of the state.", 
+        "sentence_id,": "e3319ad8b3"
+    }, 
+    {
+        "sentence": "The issue of information protection in critical infrastructure is also addressed by the National Programme for the Protection and Defence of Critical Infrastructure in the Slovak Republic, approved by government resolution No.", 
+        "sentence_id,": "b7750407c6"
+    }, 
+    {
+        "sentence": "Since the critical infrastructure involves even non-state systems and the state is a partner to citizens and private companies in administrative as well as commercial matters, the state must, in addition to the protection of its own systems, ensure security awareness raising among the general public and promote reasonable security requirements for non-state systems.", 
+        "sentence_id,": "389020d1d9"
+    }, 
+    {
+        "sentence": "Tasks to ensure sufficient protection of state ICI and ICT systems supporting the state critical infrastructure are as follows: a) to improve information security level in state institutions through the introduction of an information security management system; b) to implement and promote the use of secure ICT-based products and services; c) to prepare framework conditions, guidelines and recommendations (stipulating binding framework security requirements (security standards) for systems controlled by individual state authorities, and guidelines on how to meet them; and/or recommendations for systems not controlled by state authorities).", 
+        "sentence_id,": "6db199112e"
+    }, 
+    {
+        "sentence": "d) analyse the security level of that part of the NICI which represents a component of the state critical infrastructure, or supports it; update adopted or adopt new measures if necessary.", 
+        "sentence_id,": "1fe1cc968c"
+    }, 
+    {
+        "sentence": "3.2.6 National and international cooperation Given the global nature of information security, local solutions often prove insufficient.", 
+        "sentence_id,": "b6414d0bde"
+    }, 
+    {
+        "sentence": "Active involvement in the activities carried out by key international organisations, such as ENISA, OECD, CERT, ISO, etc., is necessary.", 
+        "sentence_id,": "388d2a9539"
+    }, 
+    {
+        "sentence": "To that end, the following is needed: a) to coordinate national efforts in the protection of Slovak digital space; b) to effectively engage in international cooperation based on an analysis of Slovakias needs and options in the area of information security.", 
+        "sentence_id,": "c39d9bf9bf"
+    }, 
+    {
+        "sentence": "3.2.7 Enhancement of national competence Highly qualified experts, reliable ICT-based products and credible IT services, along with the sponsorship and helpfulness of the state and other stakeholders, are important in order to sustain the necessary level of protection of Slovak digital space.", 
+        "sentence_id,": "24be7c108d"
+    }, 
+    {
+        "sentence": "The following is needed in this area: 12 a) to analyse qualification needs in Slovakia with respect to information security, possibilities of curricular and extra-curricular education and training, and introduce a training system; b) to promote research and development aimed at possible and existing problems in information security (in particular, intensified cooperation of the state, the private sector and academia); c) to use the results of international cooperation to support economic competitiveness (providing information about problems, solutions, trends, legislation and standards, international initiatives in information security).", 
+        "sentence_id,": "e2af76a0cf"
+    }, 
+    {
+        "sentence": "3.3 Information security management structure 3.3.1 Existing management structure Slovakia has currently a 3-tier information security management structure in place, based on Act No.", 
+        "sentence_id,": "9c026882df"
+    }, 
+    {
+        "sentence": "on organisation of the activities of the Government and organisation of the central public administration, as amended, and on amendments to certain acts (the Transfer of Powers Act).", 
+        "sentence_id,": "23bb5dea46"
+    }, 
+    {
+        "sentence": "The Government of the Slovak Republic, which discusses and approves strategic and conceptual materials, is the supreme body.", 
+        "sentence_id,": "9714fb2ed7"
+    }, 
+    {
+        "sentence": "These materials are submitted to the government by individual ministries pursuant to their powers laid down by relevant laws.", 
+        "sentence_id,": "27ce18fd4b"
+    }, 
+    {
+        "sentence": "The 2nd tier includes a central government body responsible for information security in public administration, currently the Ministry of Finance of the Slovak Republic, and other state authorities and offices responsible for specific aspects of information security, such as Ministry of Defence, Ministry of the Interior, Ministry of Economy, Ministry of Culture, Ministry of Education, the National Security Authority, the Office for Personal Data Protection, and the Slovak Office of Standards, Metrology and Testing.", 
+        "sentence_id,": "a987dafe76"
+    }, 
+    {
+        "sentence": "The 3rd tier consists of organisational units of state authorities that perform particular tasks in the field of information security.", 
+        "sentence_id,": "99cbb596d2"
+    }, 
+    {
+        "sentence": "Department of legislation, methodology, standards and information system security of the Information Society Section at the MF SR and directly coordinated Committee for Information Security, chaired by a director general of the Information Society Section, has both a specific position.", 
+        "sentence_id,": "7bb489a8cf"
+    }, 
+    {
+        "sentence": "Pursuant to its statute10 the Committee performs analytical and conceptual activities and prepares strategic and technical materials on information security.", 
+        "sentence_id,": "657eb5d290"
+    }, 
+    {
+        "sentence": "3.3.2 Proposal for a new arrangement The proposal for a new structure builds on the existing management structure government - MF SR, other central government bodies and authorities that are presently competent for information security.", 
+        "sentence_id,": "1559632f5f"
+    }, 
+    {
+        "sentence": "Based on an in-depth analysis of the existing security processes, competences should be optimised (a material to be submitted to the government is under preparation).", 
+        "sentence_id,": "4e4167a265"
+    }, 
+    {
+        "sentence": "The next step will be the setting up of a national centre for computer security incidents, CSIRT.SK (Section 3.4.1 and Annex 4).", 
+        "sentence_id,": "1a33292400"
+    }, 
+    {
+        "sentence": "Within the next five years, the issue of information security in Slovakia will need to be settled in terms of applicable 10 Statute of the Committee for Information Security, IRA_MFSR_12.2007_ROM.kom.inf.bezpenos, slo : MF/ 14462/2007 23 13 legislation (drafting an act on information security), organisation and staffing; due attention should also be given to funding.", 
+        "sentence_id,": "873cbb7c2e"
+    }, 
+    {
+        "sentence": "A national institution for information security of nonclassified segment of the NICI (a National Information Security Authority of the Slovak Republic (NISA)) is recommended to be formed in the final stage.", 
+        "sentence_id,": "357f8cde00"
+    }, 
+    {
+        "sentence": "3.4 Current priorities for information security in Slovakia The current priorities in information security are driven by an unfavourable situation in this field in Slovakia, and by Slovakia falling considerably behind countries advanced in terms of information society development.", 
+        "sentence_id,": "b78302c809"
+    }, 
+    {
+        "sentence": "The unfavourable situation is mainly caused by poor implementation of objectives specified in strategic documents, absence of a state concept of information security and interoperability framework in Slovakia, legislation, competences, awareness, support from competent bodies and other factors.", 
+        "sentence_id,": "97788aeada"
+    }, 
+    {
+        "sentence": "3.4.1 CSIRT.SK The aim of this task is to prepare a proposal on how to ensure organisational, personal, material, technical and financial resources for a contact point for security incidents, and subsequent formation of a specialised organisation to combat computer crime and ensure mutual cooperation, exchange of information and experience at the domestic level with links to a Europe-wide environment.", 
+        "sentence_id,": "008b9aa4c5"
+    }, 
+    {
+        "sentence": "The institution will perform the tasks specified in Section 3.2.4 (the first 4 tasks in particular).", 
+        "sentence_id,": "2f9b27bcc7"
+    }, 
+    {
+        "sentence": "It will also participate in performing tasks specified in Section 3.2.6, action plan tasks, etc.", 
+        "sentence_id,": "4951969f7a"
+    }, 
+    {
+        "sentence": "This fact is also appreciated by international organisations concerned with IT security, which have pointed out that there is no contact point available in Slovakia in the case of international IT security incidents.", 
+        "sentence_id,": "8833975ab9"
+    }, 
+    {
+        "sentence": "Given the lack of expert capacities in the field of information security, CSIRT.SK is expected to also utilise personnel capacities of non-state organisations.", 
+        "sentence_id,": "f33daf083f"
+    }, 
+    {
+        "sentence": "Since this situation will only be provisional, CSIRT.SK will have limited powers.", 
+        "sentence_id,": "1e1d3e0c34"
+    }, 
+    {
+        "sentence": "It will later be necessary to consider enhancing its executive powers laid down by the law.", 
+        "sentence_id,": "fa48585747"
+    }, 
+    {
+        "sentence": "3.4.2 Coordination of standardisation activities Standards are a means to achieve international interoperability of all solutions and the necessary level of information society.", 
+        "sentence_id,": "78c7da27d1"
+    }, 
+    {
+        "sentence": "Slovakia has no access to international standards under preparation, the publication of standards is not coordinated; equally, there is no overview of relevant international norms and no funds for their introduction into STN.", 
+        "sentence_id,": "a0a661e47d"
+    }, 
+    {
+        "sentence": "Slovak representatives participate in international standardisation organisations only sporadically.", 
+        "sentence_id,": "545f1c0cd0"
+    }, 
+    {
+        "sentence": "Problems also stem from fragmented competences, dual publication of standards and their mutual incompatibility.", 
+        "sentence_id,": "5afeaf8af4"
+    }, 
+    {
+        "sentence": "A solution could be to better allocate competences and coordinate preparation and publication of norms and standards in key organisations including MF SR, MoH, MoC, the NSA, the Geodesy, Cartography and Cadastre Authority of the Slovak Republic, and the SOSMT.", 
+        "sentence_id,": "3139972eb4"
+    }, 
+    {
+        "sentence": "Participation of Slovak representatives in international standardisation organisations is necessary when transposing approved standards.", 
+        "sentence_id,": "1853e0f919"
+    }, 
+    {
+        "sentence": "On that account, an overview of standardisation activities in the field of information security needs be prepared with respect to: a) powers of Slovak authorities in issuing of standards; 14 b) existing Slovak standards; c) international standardisation organisations; d) international standards that Slovakia should adopt; e) de facto standards11, f) Slovakias capacities for competent standardisation activity; g) Slovak representation in international standardisation organisations and initiatives.", 
+        "sentence_id,": "089e181544"
+    }, 
+    {
+        "sentence": "Based on this overview, a proposal could be made on the allocation of competences in standardisation activities and coordination of updates to existing and/or publication of new norms and standards, as well as a mechanism to control the compliance with the existing norms and standards.", 
+        "sentence_id,": "6b4a18daaa"
+    }, 
+    {
+        "sentence": "3.4.3 Knowledge building and dissemination Knowledge building and dissemination is a precondition for improving employees qualification and level of expertise in information security.", 
+        "sentence_id,": "f46b20e9b1"
+    }, 
+    {
+        "sentence": "This mainly involves production of knowledge, which is a result of a creative, scientific and technical research.", 
+        "sentence_id,": "8a171920f4"
+    }, 
+    {
+        "sentence": "Knowledge dissemination, i.e.", 
+        "sentence_id,": "5f4cc7c1b3"
+    }, 
+    {
+        "sentence": "reproduction, is related to education and training in educational institutions.", 
+        "sentence_id,": "67f695a92f"
+    }, 
+    {
+        "sentence": "Knowledge of information security can be categorised as follows: a) general basic knowledge on a level of a user who needs to know what to do and what not to do, but does not need to understand causes in detail; b) general IT knowledge on a level of an IT specialist, but not an information security expert, who knows the system, is able to implement and maintain its security mechanisms based on recommendations (security policies) and transform security requirements into system operating rules; c) specialised security knowledge on a level of an information security expert who can analyse the system and its security environment, perform a risk analysis and propose measures to eliminate risks, or comprehensively assess system security (auditor); The expert is familiar with the existing situation and trends in threats and security solutions, managerial and legal aspects of information security, and is capable of producing conceptual materials; d) application security knowledge on a level of an expert in a different field (lawyers and investigators in particular) who, when performing his/her tasks, needs to understand the nature of security problems and is able to cooperate with specialists at all levels; e) innovative knowledge on a level of a research specialist in information security (or some of its sub-fields) enabling him/her to find fundamentally new solutions.", 
+        "sentence_id,": "11327ab2ee"
+    }, 
+    {
+        "sentence": "Along with IT and expert training, language skills are equally necessary; in Slovakia, due attention should be given to education in all aforementioned categories.", 
+        "sentence_id,": "f9348ed322"
+    }, 
+    {
+        "sentence": "3.4.4 International cooperation 11 generally accepted technical norms which, formally, do not have the status of a standard (e.g.", 
+        "sentence_id,": "c7a71130a8"
+    }, 
+    {
+        "sentence": "PKCS in the case of electronic signature and cryptology) 15 Slovak membership in the EU, OECD, ISO and other international organisations implies obligations but also a possibility for Slovakia to participate in the policy making by these institutions so that their policies takes also account of Slovakias interests.", 
+        "sentence_id,": "445c45ff1d"
+    }, 
+    {
+        "sentence": "Bodies of those international institutions which perform this activity in the field of information security should be identified; subsequently, it is necessary to make sure that Slovakia is represented by qualified experts on such bodies.", 
+        "sentence_id,": "aee6910bee"
+    }, 
+    {
+        "sentence": "Cooperation also requires that appropriate conditions be created for activities performed by, and ensuring participation of, Slovak experts in these specialised bodies.", 
+        "sentence_id,": "6c26a6d397"
+    }, 
+    {
+        "sentence": "The Committee for Information Security at the MF SR will serve as a coordination authority for international activities in the field of information security of the non-classified segment of the NICI.", 
+        "sentence_id,": "83143702b1"
+    }, 
+    {
+        "sentence": "In addition to active involvement in international organisations, bilateral and multilateral cooperation in addressing specific problems (e.g.", 
+        "sentence_id,": "83d9627f4e"
+    }, 
+    {
+        "sentence": "information security standardisation in Slovakia and the Czech Republic, recognition of digital signatures, etc.)", 
+        "sentence_id,": "9fffa2ec37"
+    }, 
+    {
+        "sentence": "will need to be facilitated as well.", 
+        "sentence_id,": "b6eca28ab8"
+    }, 
+    {
+        "sentence": "International cooperation can contribute to knowledge dissemination and increasing numbers of qualified experts in Slovakia.", 
+        "sentence_id,": "7cff888402"
+    }, 
+    {
+        "sentence": "3.4.5 Education and training A critical factor directly affecting the ability to find and implement adequate solutions to security problems is peoples competence which is closely related to obtaining knowledge.", 
+        "sentence_id,": "bac995f0be"
+    }, 
+    {
+        "sentence": "In this respect, the following needs be analysed: a) knowledge needs of individual ICT user categories (lay users, IT specialists and information security experts); b) capacity and content possibilities of in-school and other types of training (lifelong learning, corporate trainings, e-learning, ECDL, EUCIP, etc.", 
+        "sentence_id,": "dc0897b8f4"
+    }, 
+    {
+        "sentence": "); Based on that analysis, the following should be proposed: c) to include information security into IT or other classes taught at secondary schools; d) a lifelong learning scheme (basic and follow-up training courses) for IT specialists (system administrators) from the state and private sector; e) to publish and support publishing of specialised literature and methodology documents addressing particular issues of information security.", 
+        "sentence_id,": "c279b12244"
+    }, 
+    {
+        "sentence": "Education and publication of specialised literature are directly addressed under task No.", 
+        "sentence_id,": "c1cedb4757"
+    }, 
+    {
+        "sentence": "Delivering the strategy 4.1 Strategy implementation Implementation consists in approving the NSIS document by the Slovak government, resolving the key tasks defined under the strategic priorities, and preparing a Slovak information security action plan for 2008-2013 and its approval by the government.", 
+        "sentence_id,": "627a851785"
+    }, 
+    {
+        "sentence": "Progress reports, including task assessments, will be submitted to the government on an annual basis, along with any proposals.", 
+        "sentence_id,": "a052a866b1"
+    }, 
+    {
+        "sentence": "4.2 Framework schedule for the performance of tasks in 2008 16 The tasks defined for the forthcoming period are based on the current state of play in information security in Slovakia compared to the situation in other EU Member States and other advanced countries of the world.", 
+        "sentence_id,": "0f14428ec8"
+    }, 
+    {
+        "sentence": "They are proposed in accordance with key EU/EC documents, directives and recommendations, and strategic priorities defined under this document.", 
+        "sentence_id,": "0595537c61"
+    }, 
+    {
+        "sentence": "To prepare a proposal for organisational, personnel, material, technical and financial arrangement for the formation of a specialised unit (CSIRT.SK) to address computer security incidents in the Slovak Republic.", 
+        "sentence_id,": "589af34636"
+    }, 
+    {
+        "sentence": "CSIRT.SK will: - collect knowledge of existing threats and possible solutions, and publish them; - serve as an early warning centre; - assist in addressing security incidents; - collect information on security incidents and their effects in Slovakia; - cooperate with similar institutions abroad; - systematically assist in building similar units in state and private organisations in Slovakia; - bring together experts on information security and train new experts by engaging them in its operations.", 
+        "sentence_id,": "c9acf6b1cd"
+    }, 
+    {
+        "sentence": "To prepare a legislative basis for the drafting of an act on information security in the Slovak public administration and draft an update to decree of the Ministry of Transport, Posts and Telecommunications No.", 
+        "sentence_id,": "9d1daa835b"
+    }, 
+    {
+        "sentence": "1706/M-2006 on standards for public administration information systems, i.e.", 
+        "sentence_id,": "3125b20422"
+    }, 
+    {
+        "sentence": "to revise its Part Five, Security Standards.", 
+        "sentence_id,": "36a7084b1d"
+    }, 
+    {
+        "sentence": "To prepare a proposal of an information security training system.", 
+        "sentence_id,": "df2ff1aada"
+    }, 
+    {
+        "sentence": "The aim of this task is to find out what individual NICI users should know about information security, how to teach them that, and prepare a specific solution for lay users/IT specialists in the state administration.", 
+        "sentence_id,": "740fadd073"
+    }, 
+    {
+        "sentence": "This task involves: a) preparation of a feasibility study to analyse the following: - how experts on information security, IT specialists and lay users are trained in the world; - the current situation in information security trainings in Slovakia; - training needs (who needs to know what, to what extent); - who and under what conditions could provide necessary trainings; b) preparation of a proposal for a training system for IT specialists from state authorities: - two target groups (basic training for lay users, lifelong learning for IT specialists to update their knowledge); 17 - drafting a proposal for the organisation and content of trainings; - draft training programme; c) preparation of a pilot project for the information security training of lay users/IT specialists from public administration.", 
+        "sentence_id,": "00e8344fa3"
+    }, 
+    {
+        "sentence": "To prepare an overview of standardisation activities in the field of information security.", 
+        "sentence_id,": "3b5e924fc3"
+    }, 
+    {
+        "sentence": "The aim of this task is to summarise all information security norms which Slovakia might find useful, both the existing ones and those under preparation; what is the situation with information security norms and standards in Slovakia; who is responsible for their publication.", 
+        "sentence_id,": "33b05509d6"
+    }, 
+    {
+        "sentence": "Outcomes of this project could serve as a basis for updating STN applicable to information security; aligning and improving publication of norms and standards in Slovakia; as well as for Slovak activities in international standardisation organisations.", 
+        "sentence_id,": "5e76dd12a0"
+    }, 
+    {
+        "sentence": "The output will be an analytical study with the following content: - a summary of relevant international standardisation organisations and Slovak representation therein; - a summary of competences of Slovak organisations in standardisation activities; - a summary of existing Slovak norms (currently applicable as well as to be cancelled); - a list of norms which need be included into STN; - a summary of useful standards which, however, are impossible to be included into STN; - an analysis of the current state of play, shortcomings and a proposal on how to address the existing situation in standard-setting in the field of information security in Slovakia.", 
+        "sentence_id,": "ddfb1bf745"
+    }, 
+    {
+        "sentence": "Based on this overview, a proposal could be made on the allocation of competences in standardisation activities and coordination of updates to existing and/or publication of new norm and standards.", 
+        "sentence_id,": "402a33248e"
+    }, 
+    {
+        "sentence": "To analyse the situation in information security in Slovakia.", 
+        "sentence_id,": "4440a43012"
+    }, 
+    {
+        "sentence": "Four basic sources of information may help to characterise the situation in information security: 12 - published studies, statistics, analyses from domestic and foreign sources; - internal analytical studies (focused either on an system or product analysis or on a survey into situation in selected NICI segments); - data from security incident monitoring; - obligatory reports, for example on the computer programmes used, security solutions, security incidents, etc.", 
+        "sentence_id,": "548621b5ac"
+    }, 
+    {
+        "sentence": "12 this source of information could be used at least in the state segment of the NICI 18 An information collection and processing system needs to be created, which will help to continuously create a picture of the situation in information security in Slovakia and prepare an annual report, including requirements for information resources, proposal for the use of processed information (what will be provided to who, under what conditions and what will be published).", 
+        "sentence_id,": "3fb9c20913"
+    }, 
+    {
+        "sentence": "Alongside creating the system, it is necessary to continuously prepare information on the situation in information security in at least selected areas (malicious software, spam, illegal software) and publish such information.", 
+        "sentence_id,": "ba4aeef98b"
+    }, 
+    {
+        "sentence": "To issue methodology documents on information security.", 
+        "sentence_id,": "7e4dc16cdc"
+    }, 
+    {
+        "sentence": "The first such document will be an information security dictionary which should, in particular, unify information security terminology for the purposes of drafting legislative materials and strategic documents.", 
+        "sentence_id,": "4622f8c177"
+    }, 
+    {
+        "sentence": "The dictionary should be updated once in 2 years.", 
+        "sentence_id,": "05f3bcc706"
+    }, 
+    {
+        "sentence": "4.3 4.3.1 Financial resources and time schedule Financial resources for 2008 Financial resources to be allocated from the state budget in 2008 under the proposed material are covered from a MF SR budgetary chapter.", 
+        "sentence_id,": "c3a592f8d7"
+    }, 
+    {
+        "sentence": "Individual tasks, estimated personnel capacities and deadlines are shown in the table below.", 
+        "sentence_id,": "25f4d65586"
+    }, 
+    {
+        "sentence": "2009 MF SR 600 6 000 19 proposal electronic issues proposal 4.3.2 Financial resources for 2009-2013 Financial resources for the 2nd phase of the tasks for 2009 2013, including quantification, deadlines and estimated costs, will be included in an action plan to the strategy.", 
+        "sentence_id,": "245aca2aa7"
+    }, 
+    {
+        "sentence": "The funding is proposed from the state budget, the MF SR budgetary chapter and other chapters, and from EU Structural Funds under the Operational Programme Information Society (OPIS).", 
+        "sentence_id,": "247656b358"
+    }, 
+    {
+        "sentence": "On that account, the drawing of funds for performing proposed activities will need to be brought into compliance with conditions and rules for the drawing of Structural Funds; they will be provided within approved limits.", 
+        "sentence_id,": "1d26989cca"
+    }, 
+    {
+        "sentence": "Some activities are expected to be cofinanced by the private sector.", 
+        "sentence_id,": "ba7173dcc9"
+    }, 
+    {
+        "sentence": "Conclusions The NSIS has been prepared for a five year period, i.e.", 
+        "sentence_id,": "38c14924e4"
+    }, 
+    {
+        "sentence": "from 2008 to 2013; the funding is expected to be provided from the state budget, Structural Funds under OPIS and the private sector.", 
+        "sentence_id,": "a8b029b449"
+    }, 
+    {
+        "sentence": "The document was prepared by the MF SR in cooperation with the academic and private sector.", 
+        "sentence_id,": "cd345eb918"
+    }, 
+    {
+        "sentence": "It was subsequently discussed by an advisory body to the Minister of Finance, i.e.", 
+        "sentence_id,": "973d21cc50"
+    }, 
+    {
+        "sentence": "the Committee for Information Security.", 
+        "sentence_id,": "8f8b8f43e8"
+    }, 
+    {
+        "sentence": "The content of this document is based on strategic materials approved by the Slovak government, and EU/EC directives, regulations, recommendations and strategic materials.", 
+        "sentence_id,": "e0ce898db8"
+    }, 
+    {
+        "sentence": "The rate of return on funds to be spent on safeguarding information security cannot be directly quantified; the implementation of effective security solutions reduces the risk of security incidents which would cause losses resulting from damage to and inaccessibility of information and communication systems, misuse of information, or threats to the functioning of control, production and/or other systems.", 
+        "sentence_id,": "b3d3954971"
+    }, 
+    {
+        "sentence": "To measure whether the funds have been spent effectively will only be possible after the data on the number and impacts of security incidents before and after the implementation of security safeguards is available.", 
+        "sentence_id,": "e2621e7d56"
+    }, 
+    {
+        "sentence": "Effects of information security, besides reducing financial impacts of security incidents, can be evaluated with respect to Slovakias credibility abroad and creating conditions for citizens and business entities.", 
+        "sentence_id,": "6869377707"
+    }, 
+    {
+        "sentence": "This requires expeditious elimination of security problems originating from sources located in Slovakia (attacks on foreign systems from computers in Slovakia, dissemination of illegal content from Slovakia, international crime using the Slovak NICI) and Slovakias competent engagement in international cooperation in the field of information security.", 
+        "sentence_id,": "b75f0eb1c7"
+    }, 
+    {
+        "sentence": "Positive impacts can also be felt in relation to the implementation of eGovernment, eHealth or eBusiness projects, as well as in terms of the protection of copyright, disclosure of future requirements for products (future standards) etc.", 
+        "sentence_id,": "4d17db9050"
+    }, 
+    {
+        "sentence": "Description of the method to analyse impacts on the building of information society.", 
+        "sentence_id,": "b3b4e13a93"
+    }, 
+    {
+        "sentence": "13 Implementation of a EUR 570,000 worth anti-spam equipment in the Netherlands translated into an 85-percent reduction in spam of Dutch origin.", 
+        "sentence_id,": "2139734226"
+    }, 
+    {
+        "sentence": "14 The material entitled Draft uniform methodology for the assessment of selected impacts (hereinafter referred to as uniform methodology) was prepared in compliance with the Manifesto of the Government of the Slovak Republic, government resolution No.", 
+        "sentence_id,": "ffce56adfd"
+    }, 
+    {
+        "sentence": "833 of 3 October 2007, and the National Lisbon Strategy which includes impact assessment of regulations among its priorities.", 
+        "sentence_id,": "99fb9cfda4"
+    }, 
+    {
+        "sentence": "In order to make progress in this area, the Government of the Slovak Republic approved on 3 October 2007 resolution No.", 
+        "sentence_id,": "13506a7d0c"
+    }
+]

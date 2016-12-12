@@ -1,0 +1,526 @@
+[
+    {
+        "sentence": "Cyber Security Strategy for Germany Contents Introduction 2 IT threat assessment 3 Framework conditions 4 Basic principles of the Cyber Security Strategy 4 Strategic objectives and measures 6 Sustainable implementation 13 Abbreviations 14 Definitions 14 1 Introduction Cyberspace includes all information infrastructures accessible via the Internet beyond all territorial boundaries.", 
+        "sentence_id,": "4cbb7d0589"
+    }, 
+    {
+        "sentence": "In Germany all players of social and economic life use the possibilities provided by cyberspace.", 
+        "sentence_id,": "a01054653c"
+    }, 
+    {
+        "sentence": "As part of an increasingly interconnected world, the state, critical infrastructures, businesses and citizens in Germany depend on the reliable functioning of information and communication technology and the Internet.", 
+        "sentence_id,": "b56c383b86"
+    }, 
+    {
+        "sentence": "Malfunctioning IT products and components, the break-down of information infrastructures or serious cyber attacks may have a considerable negative impact on the performance of technology, businesses and the administration and hence on Germanys social lifelines.", 
+        "sentence_id,": "5ecacb3473"
+    }, 
+    {
+        "sentence": "The availability of cyberspace and the integrity, authenticity and confidentiality of data in cyberspace have become vital questions of the 21st century.", 
+        "sentence_id,": "10e74d7557"
+    }, 
+    {
+        "sentence": "Ensuring cyber security has thus turned into a central challenge for the state, business and society both at national and international level.", 
+        "sentence_id,": "5b909e1e1e"
+    }, 
+    {
+        "sentence": "The Cyber Security Strategy is intended to improve the framework conditions in this area.", 
+        "sentence_id,": "cf9aea4a99"
+    }, 
+    {
+        "sentence": "2 IT threat assessment In recent years attacks against information infrastructures have become ever more frequent and complex, while at the same time perpetrators have become more professional.", 
+        "sentence_id,": "1b393debc0"
+    }, 
+    {
+        "sentence": "Cyber attacks are launched both from Germany and abroad.", 
+        "sentence_id,": "9f68b3e95b"
+    }, 
+    {
+        "sentence": "Given the openness and extent of cyberspace it is possible to conduct covert attacks and misuse vulnerable systems as tools for an attack.", 
+        "sentence_id,": "0e337489f4"
+    }, 
+    {
+        "sentence": "In view of technologically sophisticated malware the possibilities of responding to and retracing an attack are rather limited.", 
+        "sentence_id,": "e5e16c835f"
+    }, 
+    {
+        "sentence": "Often attacks give no clue as to the identity and the background of the attacker.", 
+        "sentence_id,": "35ab8259e1"
+    }, 
+    {
+        "sentence": "Criminals, terrorists and spies use cyberspace as a place for their activities and do not stop at state borders.", 
+        "sentence_id,": "940ef9bd00"
+    }, 
+    {
+        "sentence": "Military operations can also be behind such attacks.", 
+        "sentence_id,": "23be9934b1"
+    }, 
+    {
+        "sentence": "The trend to develop information systems for industry on the basis of standard components and connect them to cyberspace, which is motivated mainly by economic concerns, entails new vulnerabilities.", 
+        "sentence_id,": "646fe90cfa"
+    }, 
+    {
+        "sentence": "Experience with the Stuxnet virus shows that important industrial infrastructures are no longer exempted from targeted IT attacks.", 
+        "sentence_id,": "066f6940a2"
+    }, 
+    {
+        "sentence": "Given the increasing complexity and vulnerability of information infrastructures the cyber security situation will remain critical also in the future.", 
+        "sentence_id,": "f3d8010334"
+    }, 
+    {
+        "sentence": "In Germany, the public and the private sector as well as society at large are all equally affected by targeted or coincidental IT failures.", 
+        "sentence_id,": "5b5f22c345"
+    }, 
+    {
+        "sentence": "3 Framework conditions Ensuring cyber security, enforcing rights and protecting critical information infrastructures require major efforts by the state both at national level and in cooperation with international partners.", 
+        "sentence_id,": "e2538bc6ad"
+    }, 
+    {
+        "sentence": "Given the shared responsibilities of the state, the industry and the society a cyber security strategy will only be successful if all players act as partners and fulfil their tasks together.", 
+        "sentence_id,": "c7f773e359"
+    }, 
+    {
+        "sentence": "The same applies to the international context.", 
+        "sentence_id,": "73e95b4f8f"
+    }, 
+    {
+        "sentence": "Since IT systems are interconnected in global networks, incidents in other countries information infrastructures may also indirectly affect Germany.", 
+        "sentence_id,": "92177dcfb6"
+    }, 
+    {
+        "sentence": "For this reason, strengthening cyber security also requires the enforcement of international rules of conduct, standards and norms.", 
+        "sentence_id,": "5ddf910f3b"
+    }, 
+    {
+        "sentence": "Only a mix of domestic and external policy measures will be appropriate for the dimension of the problem.", 
+        "sentence_id,": "cb671639bd"
+    }, 
+    {
+        "sentence": "Cyber security can be improved by enhancing the framework conditions for drawing up common minimum standards (code of conduct) with allies and partners.", 
+        "sentence_id,": "4a33965cc5"
+    }, 
+    {
+        "sentence": "Fighting the rapid growth of cybercrime requires close cooperation between law enforcement authorities worldwide.", 
+        "sentence_id,": "4b36fcfb96"
+    }, 
+    {
+        "sentence": "Basic principles of the Cyber Security Strategy The Federal Government aims at making a substantial contribution to a secure cyberspace, thus maintaining and promoting economic and social prosperity in Germany.", 
+        "sentence_id,": "16a42c8030"
+    }, 
+    {
+        "sentence": "Cyber security in Germany must be ensured at a level commensurate with the importance and protection required by interlinked information infrastructures, without hampering the opportunities and the utilization of the cyberspace.", 
+        "sentence_id,": "76f2294c65"
+    }, 
+    {
+        "sentence": "In this context the level of cyber security reached is the sum of all national and international measures taken to protect the availability of information and communications technology and the integrity, authenticity and confidentiality of data in cyberspace.", 
+        "sentence_id,": "03a94854d2"
+    }, 
+    {
+        "sentence": "4 Cyber security must be based on a comprehensive approach.", 
+        "sentence_id,": "f9cb8e7687"
+    }, 
+    {
+        "sentence": "This requires even more intensive information sharing and coordination.", 
+        "sentence_id,": "f12a6675bd"
+    }, 
+    {
+        "sentence": "The Cyber Security Strategy mainly focuses on civilian approaches and measures.", 
+        "sentence_id,": "7606e474a8"
+    }, 
+    {
+        "sentence": "They are complemented by measures taken by the Bundeswehr 1 to protect its capabilities and measures based on mandates to make cyber security a part of Germanys preventive security strategy.", 
+        "sentence_id,": "9121f04c23"
+    }, 
+    {
+        "sentence": "Given the global nature of information and communications technology, international coordination and appropriate networks focusing on foreign and security policy aspects are indispensable.", 
+        "sentence_id,": "036f00d5b7"
+    }, 
+    {
+        "sentence": "This includes cooperation not only in the United Nations, but also in the EU, the Council of Europe, NATO, the G8, the OSCE and other multinational organizations.", 
+        "sentence_id,": "5d97546a7d"
+    }, 
+    {
+        "sentence": "The aim is to ensure the coherence and capabilities of the international community to protect cyberspace.", 
+        "sentence_id,": "f2b6951076"
+    }, 
+    {
+        "sentence": "1 Armed Forces (Bundeswehr) 5 Strategic objectives and measures With the present Cyber Security Strategy the Federal Government adapts measures to the current threats on the basis of the structures established by the CIP implementation plan and the implementation plan for the federal administration.", 
+        "sentence_id,": "710128bbc8"
+    }, 
+    {
+        "sentence": "Protection of critical information infrastructures The protection of critical information infrastructures is the main priority of cyber security.", 
+        "sentence_id,": "84b498e812"
+    }, 
+    {
+        "sentence": "They are a central component of nearly all critical infrastructures and become increasingly important.", 
+        "sentence_id,": "e37617ea83"
+    }, 
+    {
+        "sentence": "The public and the private sector must create an enhanced strategic and organizational basis for closer coordination based on intensified information sharing.", 
+        "sentence_id,": "4a7ca23ca4"
+    }, 
+    {
+        "sentence": "To this end, cooperation established by the CIP implementation plan is systematically extended, and legal commitments to 6 enhance the binding nature of the CIP implementation plan are examined.", 
+        "sentence_id,": "e317f86f84"
+    }, 
+    {
+        "sentence": "With the participation of the National Cyber Security Council (cf.", 
+        "sentence_id,": "bead6aafd4"
+    }, 
+    {
+        "sentence": "objective 5), the integration of additional sectors is examined and the introduction of new relevant technologies is considered to a greater extent.", 
+        "sentence_id,": "473cf5e6aa"
+    }, 
+    {
+        "sentence": "Whether and where protective measures have to be made mandatory and whether and where additional powers are required in case of specific threats have to be clarified, too.", 
+        "sentence_id,": "3c193cd759"
+    }, 
+    {
+        "sentence": "Furthermore we will examine the necessity of harmonizing rules to maintain critical infrastructures during IT crises.", 
+        "sentence_id,": "cc964b1b84"
+    }, 
+    {
+        "sentence": "Secure IT systems in Germany Infrastructure protection requires more security with regard to IT systems used by citizens and small and medium-sized businesses.", 
+        "sentence_id,": "c9246c9637"
+    }, 
+    {
+        "sentence": "Users need appropriate and consistent information on risks related to the use of IT systems and on security measures they can take to use cyberspace in a secure manner.", 
+        "sentence_id,": "4ac0dfd785"
+    }, 
+    {
+        "sentence": "We will organize joint initiatives with groups from society to pool information and advice consistently.", 
+        "sentence_id,": "d9a485cf72"
+    }, 
+    {
+        "sentence": "Furthermore we will examine whether providers may have to assume greater responsibility and make sure that a basic collection of appropriate security products and services are made available to users by providers.", 
+        "sentence_id,": "b01e0b3dec"
+    }, 
+    {
+        "sentence": "We want to provide specific incentives and funds for basic security functions certified by the state (e. g. electronic proof of identity or De-mail) to be used by the vast majority of citizens.", 
+        "sentence_id,": "f680d698d6"
+    }, 
+    {
+        "sentence": "To support small and medium-sized businesses in the secure use of IT systems, the Federal Ministry of Economics and Technology has set up a task force on IT security in industry with the participation of industry.", 
+        "sentence_id,": "cb31950edf"
+    }, 
+    {
+        "sentence": "Strengthening IT security in the public administration The public administration will further enhance the protection of its IT systems.", 
+        "sentence_id,": "ef96c89460"
+    }, 
+    {
+        "sentence": "State authorities have to serve as role models for data security.", 
+        "sentence_id,": "524cc77ee9"
+    }, 
+    {
+        "sentence": "We will create a common, uniform and secure network infrastructure in the federal administration (federal networks) as a basis for electronic audio and data communication.", 
+        "sentence_id,": "db68416dda"
+    }, 
+    {
+        "sentence": "We will continue to press ahead with the implementation plan for the federal administration.", 
+        "sentence_id,": "73be24ec1a"
+    }, 
+    {
+        "sentence": "Should the IT security situation get worse, this plan may be 7 aligned accordingly.", 
+        "sentence_id,": "96bb10c4d3"
+    }, 
+    {
+        "sentence": "Effective IT security requires powerful structures in all federal authorities.", 
+        "sentence_id,": "343e424b5e"
+    }, 
+    {
+        "sentence": "For this reason resources must be deployed appropriately at central and local level.", 
+        "sentence_id,": "713681d2d2"
+    }, 
+    {
+        "sentence": "To facilitate implementation through uniform action by authorities, joint investments into the Federal Governments IT security will be made regularly in line with budgetary possibilities.", 
+        "sentence_id,": "67976e2226"
+    }, 
+    {
+        "sentence": "Operational cooperation with the federal Lnder, particularly with regard to CERTs (computer emergency response teams), will be further intensified by the IT planning council.", 
+        "sentence_id,": "6b9247324f"
+    }, 
+    {
+        "sentence": "National Cyber Response Centre To optimize operational cooperation between all state authorities and improve the coordination of protection and response measures for IT incidents we will set up a National Cyber Response Centre.", 
+        "sentence_id,": "d042afc282"
+    }, 
+    {
+        "sentence": "It will report to the Federal Office for Information Security (BSI) and cooperate directly with the Federal Office for the Protection of the Constitution (BfV) and the Federal Office of Civil Protection and Disaster Assistance (BBK).", 
+        "sentence_id,": "618271de72"
+    }, 
+    {
+        "sentence": "Cooperation in the National Cyber Response Centre will strictly observe the statutory tasks and powers of all authorities involved on the basis of cooperation agreements.", 
+        "sentence_id,": "3953ff2b61"
+    }, 
+    {
+        "sentence": "The Federal Criminal Police Office (BKA), the Federal Police (BPOL), the Customs Criminological Office (ZKA), the Federal Intelligence Service (BND), the Bundeswehr and authorities supervising critical infrastructure operators all participate in this centre within the framework of their statutory tasks and powers.", 
+        "sentence_id,": "8534ff8ae0"
+    }, 
+    {
+        "sentence": "Quick and close information sharing on weaknesses of IT products, vulnerabilities, forms of attacks and profiles of perpetrators enables the National Cyber Response Centre to analyse IT incidents and give consolidated recommendations for action.", 
+        "sentence_id,": "848778d8aa"
+    }, 
+    {
+        "sentence": "The interests of the private sector to protect itself against crime and espionage in cyberspace should also be adequately taken into account.", 
+        "sentence_id,": "dc6a580ef0"
+    }, 
+    {
+        "sentence": "At the same time respective responsibilities must be observed.", 
+        "sentence_id,": "4aff907758"
+    }, 
+    {
+        "sentence": "Every stakeholder takes the necessary measures in its remit on the basis of the jointly developed national cyber security assessment and coordinates them with the competent authorities as well as partners from industry and academia.", 
+        "sentence_id,": "64b95ffa77"
+    }, 
+    {
+        "sentence": "Since security preparedness is best achieved by early warning and prevention, the Cyber Response Centre will submit recommendations to the National Cyber Security Council both on a regular basis and for specific incidents.", 
+        "sentence_id,": "1517a84aff"
+    }, 
+    {
+        "sentence": "If the cyber security situation reaches the level of an imminent or already occurred crisis, the National Cyber Response Centre will directly inform the crisis management staff headed by the responsible State Secretary at the Federal Ministry of the Interior.", 
+        "sentence_id,": "f295a74439"
+    }, 
+    {
+        "sentence": "National Cyber Security Council The identification and removal of structural causes for crises are considered an important preventive tool for cyber security.", 
+        "sentence_id,": "cc122de72e"
+    }, 
+    {
+        "sentence": "For this reason we want to establish and maintain cooperation within the Federal Government and between the public and the private sector within the responsibility of the Federal Government Commissioner for Information Technology more visible and set up a National Cyber Security Council.", 
+        "sentence_id,": "1c2ddce977"
+    }, 
+    {
+        "sentence": "The Federal Chancellery and a State Secretary from each the Federal Foreign Office, the Federal Ministry of the Interior, the Federal Ministry of Defence, the Federal Ministry for Economics and Technology, the Federal Ministry of Justice, the Federal Ministry of Finance, the Federal Ministry of Education and Resarch and representatives of the federal Lnder will participate.", 
+        "sentence_id,": "259b382bcc"
+    }, 
+    {
+        "sentence": "On specific occasions additional ministries will be included.", 
+        "sentence_id,": "170a57227f"
+    }, 
+    {
+        "sentence": "Business representatives will be invited as associated members.", 
+        "sentence_id,": "962fb89bc4"
+    }, 
+    {
+        "sentence": "Representatives from academia will be involved, if required.", 
+        "sentence_id,": "a66d3b783a"
+    }, 
+    {
+        "sentence": "The National Cyber Security Council is intended to coordinate preventive tools and the interdisciplinary cyber security 9 approaches of the public and the private sector.", 
+        "sentence_id,": "10a7d3f5ce"
+    }, 
+    {
+        "sentence": "The National Cyber Security Council will complement and interlink IT management at federal level and the work of the IT Planning Council in the area of cyber security at a political and strategic level.", 
+        "sentence_id,": "7e76d4be3e"
+    }, 
+    {
+        "sentence": "Effective crime control also in cyberspace The capabilities of law enforcement agencies, the Federal Office for Information Security and the private sector in combating cyber crime, also with regard to protection against espionage and sabotage, must be strengthened.", 
+        "sentence_id,": "7bb6d4ccdb"
+    }, 
+    {
+        "sentence": "To improve the exchange of know how in this area we intend to set up joint institutions with industry with the participation of the competent law enforcement agencies, which will act in an advisory capacity.", 
+        "sentence_id,": "3f718231a5"
+    }, 
+    {
+        "sentence": "Projects to support partner countries with structural weaknesses will also serve the aim of combating cyber crime.", 
+        "sentence_id,": "e0297423cf"
+    }, 
+    {
+        "sentence": "To face up to the growing challenges of global cyber crime activities we will make a major effort to achieve global harmonization in criminal law based on the Council of Europe Cyber Crime Convention.", 
+        "sentence_id,": "a0ab716513"
+    }, 
+    {
+        "sentence": "Furthermore, we will examine whether additional conventions in this area may be necessary at UN level.", 
+        "sentence_id,": "5e2dab0895"
+    }, 
+    {
+        "sentence": "Effective coordinated action to ensure cyber security in Europe and worldwide In global cyberspace security can be achieved only through coordinated tools at national and international level.", 
+        "sentence_id,": "0cc025fe8c"
+    }, 
+    {
+        "sentence": "At EU level we support appropriate measures based on the action plan for the protection of critical information infrastructures, the extension and moderate enlargement of the mandate of the European Network and Information Security Agency (ENISA) in view of the changed threat situation in ICT and the pooling of IT competences in EU institutions.", 
+        "sentence_id,": "73e3485254"
+    }, 
+    {
+        "sentence": "The EU Internal Security Strategy and the Digital Agenda provide guidance for further activities.", 
+        "sentence_id,": "fda8874dd9"
+    }, 
+    {
+        "sentence": "We will shape our external cyber policy in such a way that German interests and ideas concerning cyber security are coordinated and pursued in international organizations, such as the United Nations, the OSCE, the Council of Europe, the OECD and NATO.", 
+        "sentence_id,": "23fd6f1778"
+    }, 
+    {
+        "sentence": "An increasingly multilateral approach must be brought in line with the necessity of sovereign evaluation and decision-making powers.", 
+        "sentence_id,": "50ae9a634a"
+    }, 
+    {
+        "sentence": "In this context, a code for state conduct in cyberspace (cyber code) should be established, which is signed by as many countries as possible and includes confidencebuilding security measures.", 
+        "sentence_id,": "4d63e62c54"
+    }, 
+    {
+        "sentence": "In the G8 framework we are currently working on intensifying anti-botnet activities.", 
+        "sentence_id,": "837cd8f5bd"
+    }, 
+    {
+        "sentence": "NATO serves as the basis of transatlantic security.", 
+        "sentence_id,": "3755bbf60d"
+    }, 
+    {
+        "sentence": "Hence, NATO must take cyber security appropriately into account in its entire range of responsibilities.", 
+        "sentence_id,": "b5e119e5af"
+    }, 
+    {
+        "sentence": "We are in favour of the alliances commitment to establishing uniform security standards, which Member States may also use for civilian critical infrastructures on a voluntary basis, as foreseen in NATOs new Strategic Concept.", 
+        "sentence_id,": "c254bd0de6"
+    }, 
+    {
+        "sentence": "Use of reliable and trustworthy information technology The availability of reliable IT systems and components must be ensured on a permanent basis.", 
+        "sentence_id,": "44e2f8add2"
+    }, 
+    {
+        "sentence": "The development of innovative protection plans for improved security which take into account social and economic aspects is strongly supported.", 
+        "sentence_id,": "86434ff7f4"
+    }, 
+    {
+        "sentence": "To this end, we will continue and intensify research on IT security and on critical infrastructure protection.", 
+        "sentence_id,": "1bbe44be50"
+    }, 
+    {
+        "sentence": "Furthermore we will strengthen Germanys technological sovereignty and economic capacity in the entire range of core strategic IT competences, include them in our political strategies and develop them further.", 
+        "sentence_id,": "b47ee16be8"
+    }, 
+    {
+        "sentence": "Wherever it makes sense, we will pool our resources with those 11 of our partners and allies, particularly in Europe.", 
+        "sentence_id,": "1b78527c75"
+    }, 
+    {
+        "sentence": "We are in favour of diversity in technology.", 
+        "sentence_id,": "e69174cb95"
+    }, 
+    {
+        "sentence": "Our aim is to use components in critical security areas which are certified against an international recognized certification standard.", 
+        "sentence_id,": "2abad2cfab"
+    }, 
+    {
+        "sentence": "Personnel development in federal authorities Given the strategic importance of cyber security, it must be examined as a priority whether additional staff is necessary in authorities in the interest of cyber security.", 
+        "sentence_id,": "b762ad761c"
+    }, 
+    {
+        "sentence": "Furthermore, intensified personnel exchange between federal authorities and appropriate further training measures will enhance interministerial cooperation.", 
+        "sentence_id,": "b3a139a027"
+    }, 
+    {
+        "sentence": "Tools to respond to cyber attacks If the state wants to be fully prepared for cyber attacks, a coordinated and comprehensive set of tools to respond to cyber attacks must be created in cooperation with the competent state authorities.", 
+        "sentence_id,": "43133beb89"
+    }, 
+    {
+        "sentence": "We will continue to assess the threat situation regularly and take appropriate protection measures.", 
+        "sentence_id,": "b33d8aa75e"
+    }, 
+    {
+        "sentence": "If necessary, we have to examine whether additional statutory powers must be created at federal or Lnder level.", 
+        "sentence_id,": "8f5e6e3321"
+    }, 
+    {
+        "sentence": "Above all, the aims, mechanisms and institutions mentioned above must be internalized through a permanent exercise process with the relevant federal and Lnder authorities as well as businesses.", 
+        "sentence_id,": "786c1cd9c6"
+    }, 
+    {
+        "sentence": "12 Sustainable implementation With the implementation of the strategic objectives and measures the Federal Government contributes to ensuring cyber security and thus to freedom and prosperity in Germany.", 
+        "sentence_id,": "0d580b194d"
+    }, 
+    {
+        "sentence": "A lot will depend on whether we succeed at international level in taking effective measures to protect cyberspace.", 
+        "sentence_id,": "f7968bffb2"
+    }, 
+    {
+        "sentence": "The information technologies used are subject to short innovation cycles.", 
+        "sentence_id,": "e7edff83a8"
+    }, 
+    {
+        "sentence": "This means that the technical and social aspects of cyberspace will continue to change and bear not only new opportunities, but also new risks.", 
+        "sentence_id,": "cf11616be4"
+    }, 
+    {
+        "sentence": "For this reason the Federal Government will regularly review whether the aims of the Cyber Security Strategy have been achieved under the overall control of the National Cyber Security Council and will adapt the strategies and measures to the given requirements and framework conditions.", 
+        "sentence_id,": "27ba3b892b"
+    }, 
+    {
+        "sentence": "13 Abbreviations BBK Federal Office of Civil Protection and Disaster Assistance BfV Federal Office for the Protection of the Constitution BKA Federal Criminal Police Office BMI Federal Ministry of the Interior BND Federal Intelligence Service BPOL Federal Police BSI Federal Office for Information Security CERT Computer Emergency Response Team CIP Critical infrastructure protection ENISA European Network and Information Security Agency EU European Union G8 Group of leading industrialized nations in the world (Germany, USA, Japan, United Kingdom, Canada, France, Italy and the Russian Federation) IT Information technology NATO North Atlantic Treaty Organization OSZE Organization for Security and Co-operation in Europe ZKA Customs Criminological Office Definitions (Explanations and terminology used in this document) Cyberspace Cyberspace is the virtual space of all IT systems linked at data level on a global scale.", 
+        "sentence_id,": "67753e1b94"
+    }, 
+    {
+        "sentence": "The basis for cyberspace is the Internet as a universal and publicly accessible connection and transport network which can be complemented and further expanded by any number of additional data networks.", 
+        "sentence_id,": "8cbca1b015"
+    }, 
+    {
+        "sentence": "IT systems in an isolated virtual space are not part of cyberspace.", 
+        "sentence_id,": "a57566cb3e"
+    }, 
+    {
+        "sentence": "Cyber attack, cyber espionage and cyber sabotage A cyber attack is an IT attack in cyberspace directed against one or several other IT systems and aimed at damaging IT security.", 
+        "sentence_id,": "09888735b9"
+    }, 
+    {
+        "sentence": "The aims of IT security, confidentiality, integrity and availability may all or individually be compromised.", 
+        "sentence_id,": "e3ad921821"
+    }, 
+    {
+        "sentence": "Cyber attacks directed against the confidentiality of an IT system, which are launched 14 or managed by foreign intelligence services, are called cyber espionage.", 
+        "sentence_id,": "7c8ba437d1"
+    }, 
+    {
+        "sentence": "Cyber attacks against the integrity and availability of IT systems are termed cyber sabotage.", 
+        "sentence_id,": "efc0409a22"
+    }, 
+    {
+        "sentence": "Cyber security and civilian and military cyber security (Global) cyber security is the desired objective of the IT security situation, in which the risks of global cyberspace have been reduced to an acceptable minimum.", 
+        "sentence_id,": "76e575cdba"
+    }, 
+    {
+        "sentence": "Hence, cyber security in Germany is the desired objective of the IT security situation, in which the risks of the German cyberspace have been reduced to an acceptable minimum.", 
+        "sentence_id,": "32d1bdb6f6"
+    }, 
+    {
+        "sentence": "Cyber security (in Germany) is the sum of suitable and appropriate measures.", 
+        "sentence_id,": "5b7d3da862"
+    }, 
+    {
+        "sentence": "Civilian cyber security focuses on all IT systems for civilian use in German cyberspace.", 
+        "sentence_id,": "71c54c2c60"
+    }, 
+    {
+        "sentence": "Military cyber security focuses on all IT systems for military use in German cyberspace.", 
+        "sentence_id,": "096942785f"
+    }, 
+    {
+        "sentence": "Critical infrastructures Critical infrastructures are organizations or institutions with major importance for the public good, whose failure or damage would lead to sustainable supply bottlenecks, considerable disturbance of public security or other dramatic consequences.", 
+        "sentence_id,": "381b442866"
+    }, 
+    {
+        "sentence": "At federal level, the following areas have been identified: Energy Information technology and telecommunication Transport Health Water Food Finance and insurance sector State and administration Media and culture 15 This brochure has been published free of charge as part of the public information efforts of the Federal Ministry of the Interior.", 
+        "sentence_id,": "27e0e515e5"
+    }, 
+    {
+        "sentence": "It may not be used by any political party, candidate or campaign workers during an election campaign for purposes of campaign advertising.", 
+        "sentence_id,": "859e082ed8"
+    }, 
+    {
+        "sentence": "This applies to elections at the European, federal, state and local levels.", 
+        "sentence_id,": "c2988c7946"
+    }, 
+    {
+        "sentence": "In particular, distributing this publication at campaign events or at information stands of political parties, or inserting, stamping or attaching to it any political information or advertising constitutes misuse.", 
+        "sentence_id,": "dc27b978b7"
+    }, 
+    {
+        "sentence": "Nor may it be passed on to third parties for purposes of campaign advertising.", 
+        "sentence_id,": "fa87ceabf9"
+    }, 
+    {
+        "sentence": "Regardless of when, by what means and in what quantities this publication was delivered to the recipient, even without reference to any upcoming election it may not be used in a manner that could be construed as bias by the Federal Government on behalf of any individual political group.", 
+        "sentence_id,": "139f2f79e0"
+    }, 
+    {
+        "sentence": "Imprint Published by: Federal Ministry of the Interior Alt-Moabit 101 D 10559 Berlin Edited by: Department IT 3 Design and production: MEDIA CONSULTA Deutschland GmbH Photo credits: iStockphoto, shutterstock English translation: Federal Ministry of the Interior Translation Service Edition: February 2011 www.bmi.bund.de", 
+        "sentence_id,": "8ba6639eb7"
+    }
+]

@@ -1,0 +1,452 @@
+[
+    {
+        "sentence_id,": "e8cda4c0c5", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "There are four (4) strategies identified which are necessary to protect critical cyber infrastructures namely: (1) Understanding the Risk, (2) Controlling the Risk, (3) Organizing and Mobilizing for Cybersecurity, and (4) Institutional and Policy Build-Up."
+    }, 
+    {
+        "sentence_id,": "0630209217", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Standardization of Technology - Standardization of technology for interoperability and system efficiency opens up windows of vulnerabilities that will be common to all systems and to the knowledge of everyone."
+    }, 
+    {
+        "sentence_id,": "e7b74c2db5", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "They should review their own policies, practices, measures and procedures regularly, and should assess whether they are appropriate to their environment; (c) Response."
+    }, 
+    {
+        "sentence_id,": "f26477418a", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "All participants should conduct periodic risk assessments that identify threats and vulnerabilities; are sufficiently broad-based to encompass key internal and external factors, such as technology, physical and human factors, policies and third-party services with security implications; allow determination of the acceptable level of risk; and assist in the selection of appropriate controls to manage the risk of potential harm to information systems and networks in the light of the nature and importance of the information to be protected; (g) Security design and implementation."
+    }, 
+    {
+        "sentence_id,": "2293105ad0", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Participants should periodically review and reassess the security of information systems and networks and should make appropriate modifications to security policies, practices, measures and procedures that include addressing new and changing threats and vulnerabilities."
+    }, 
+    {
+        "sentence_id,": "ffecafeef4", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }, 
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "In particular, cyber security depends on every economy having (1) substantive laws that criminalize attacks on networks, (2) procedural laws to ensure that law enforcement officials have the necessary authorities to investigate and prosecute offenses facilitated by technology, and (3) laws and policies that allow for international cooperation with other parties in the struggle against computer-related crimes."
+    }, 
+    {
+        "sentence_id,": "c65b253004", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Cybersecurity expertise and information will be shared among member countries to help develop cybersecurity policies and exchange real-time information on cybersecurity issues."
+    }, 
+    {
+        "sentence_id,": "e61a7c37a0", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The Philippines is governed by the following legislations pertaining to the utilization, development and protection of the Philippine cyberspace: - Republic Act 7935 or the Philippine Public Telecommunications Policy Act enacted on March 1, 1995 which regulated the telecommunications industry in the country; - Republic Act 8484 entitled Access Devices Regulation Act of 1998 dated February 11, 1998 which regulated the issuance and use of certain access devices."
+    }, 
+    {
+        "sentence_id,": "2468a1ff2a", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Implementing effective law enforcement programs and proactive legal and policy regime."
+    }, 
+    {
+        "sentence_id,": "482a50537b", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "CYBER SECURITY STRATEGIES There are four (4) strategies that were formulated which are necessary to protect critical cyber infrastructures: Understanding the Risk, Controlling the Risk, Organizing and Mobilizing for Cybersecurity, and Institutional and Policy Build-Up."
+    }, 
+    {
+        "sentence_id,": "dcf138f6f8", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Formulation of a Vulnerability Assessment Framework and Checklist This framework and checklist shall be used to gather essential information on IT security threats and measures, critical security policies and practices on networks, systems, applications, and data and its classification, and external systems; cyber attacks and glitches experiences; and cyber attacks and glitches recovery plan."
+    }, 
+    {
+        "sentence_id,": "57976481bb", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "This shall also incorporate the formulation and issuance of security standards that can help in guiding IT security managers."
+    }, 
+    {
+        "sentence_id,": "12cd61ca03", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Rapid Assessment of attack and extent of damages, determination of vulnerabilities exploited and conduct of rehabilitation procedures to avert or deter similar attacks previously experienced by the system c. Adoption of standard operating procedures, techniques and tools for common cyber security problems."
+    }, 
+    {
+        "sentence_id,": "c11c1852ce", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "ESTABLISHMENT OF A FOCAL POINT The TFSCI will serve as the focal point for all policy and convergence effort and shall lead in the formulation and implementation all national cyber security programs and other related program."
+    }, 
+    {
+        "sentence_id,": "3f12418427", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "To provide the necessary legal regime and policy environment, this demands for regulatory and legislative agenda."
+    }, 
+    {
+        "sentence_id,": "d78fd39262", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "The Cyber Crime Bill that will define and criminalize cyber offenses, to be certified as an urgent bill."
+    }, 
+    {
+        "sentence_id,": "a078710db4", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "No feasible combination of domestic or international policy options can make us completely invulnerable to cyber attacks in the future."
+    }, 
+    {
+        "sentence_id,": "cca3355cec", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Through a resolution submitted during the First National Summit on Critical ICT Protection at the EDSA Shangrila on 16 April 2004, to the office of the President, through Executive Secretary Romulo, the joint public-private Task Force on Security for Critical Infrastructure (TFSCI) has put forth the development and implementation of a RP National Cyber Security Strategy (RP-NCCS) in the soonest possible time to include but not limited to the following: a. Formulation, fast-tracking and pro-active advocacy of related regulatory and legislative agenda in order to provide the necessary legal regime and policy environment."
+    }, 
+    {
+        "sentence_id,": "a376fd66f8", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Conduct of a nationwide cyber security awareness program to promote a common understanding among stakeholders; c. Conduct of risk and vulnerability assessment in order to identify risk areas and effect the establishment and adoption of internationally-accepted cyber security standards; d. Institutionalization of cyber-security capability-building programs in order to produce a critical mass of RP cyber-security professionals; and e. Establishment of a National and Sectoral Computer Security and Incident Response Team to ensure that the country is able to immediately respond to all possible forms of cyber threats and incidents."
+    }, 
+    {
+        "sentence_id,": "df25579e2e", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "THE CYSWG EFFORTS In 13 January 2004, the NCC CySWG crafted its preliminary Work Plan which was submitted and approved by the COC-IS thru the TFSCI In this preliminary work plan the CySWG identified the following priority programs/ projects: A database of critical cyber infrastructure Establishment of national, regional and sectoral Computer Security Incident Response Teams (CSIRT) A nationwide adoption of Information Security Standards Cyber security policies and implementation plans (National Cyber Security Strategy) On March 28-29, 2004, a CySWG organizational workshop was conducted at DAP, Tagaytay to decide on the final organizational setup, identify short and long- term programs and activities, and define functions and tasks of the various CySWG committees under the Task Force for the Security of Critical Infrastructure (TFSCI)."
+    }, 
+    {
+        "sentence_id,": "7037a144e3", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "THE 5 TFSCI-CYSWG PLANNING COMMITTEES The various committees are depicted as shown below The major objective and function of each committee is shown in the following table: ----------------------- Page 29----------------------- Committee Major Objective FISPOL Formulate and implement policies, regulations and rules of conduct for CySWG members and affected parties or industries."
+    }, 
+    {
+        "sentence_id,": "ab41b6b673", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "RVAC Identify and assess risk and vulnerabilities of critical infrastructures SAWAT Promote security awareness training to ciritical infrastructure and affected publics T-TRAIN Develop competent security professionals to protect and support cyber infrastructure I-ICON Provide coordination, response and exchange of incident information among the various in- government, private and regional/global incident response teams on a 24x7 basis O-OVER Oversee the planning and implementation of the various CySWG committee efforts SUB-COMMITTEE WORK The organizational workshop was soon followed by the following sub-committee workshops to finalize the individual sub-committee plans and programs: April 15 & 16 - to kick off the TFSCI-CSWG activities, a National Cyber Security Summit was conducted with an end view to increase awareness on the CySWG plans and programs, and to foster public and private partnership April 30 & May 1 planning workshop at DAP, Tagaytay for the Risk and Vulnerability Assessment Committee (R/VAC) May 26 & 27 planning workshop at Las Brisas, Antipolo for the Formulation and Implementation of Cyber Security Policies Committee (FISPOL) May 28 & 29 planning workshop at Las Brisas, Antipolo for the Security Awareness and Advocacy Committee (SAWAT) June 15 & 16 planning workshop at DAP, Tagaytay for the Training and Education Committee (T-TRAIN) June 17 & 18 planning workshop at DAP, Tagaytay for the Incident Intervention and Consequence Management Committee (I-ICON) In between, several other small group meetings took place among the various members of the committees to work on after-workshop assignments and other unfinished business as needed."
+    }, 
+    {
+        "sentence_id,": "17240b87db", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "Forge assessment and certification working partnerships with technology owners and providers ORGANIZATIONAL REQUIREMENTS: HOW TO PROCEED FROM HERE Considering that the members of the Task Force Committees consist of volunteer government and private employees who may not be available to commit their time and effort in a continuing, as- needed and sustained basis, the CySWG must convert itself or seek the set up or organization of a permanent body with an official charter."
+    }, 
+    {
+        "sentence_id,": "1c0c751c4c", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "The first order of the day is for NCC to organize a train- the-trainor program and carry out the certification process for its newly trained ICT Security mentors and instructors."
+    }, 
+    {
+        "sentence_id,": "de1223fdba", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "The New-T-Train can follow the plan of action of the T-Train committee as follows: Identify training gaps Outsource and tap applicable programs/technologies, courseware and trainors Implement training and delivery programs The T-Train committee has also identified as a resulting business or output, consulting, curriculum development and certification as among its potential product or services to follow."
+    }, 
+    {
+        "sentence_id,": "f5fbaee57a", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "For the certification, this may be better done in cooperation with TESDA and the ICT-Industry Working Group who are now in the process of professionalizing the certification so these can be brought to a stage where the industry and the business community can look at a certified ICT worker with pride and confidence rather than with doubt and distrust."
+    }, 
+    {
+        "sentence_id,": "9c0978d807", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "The New-CySWG only have to come up with standards by which critical infrastructure and institutions are to be assessed."
+    }, 
+    {
+        "sentence_id,": "56627cb36b", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Lastly, the Policies function (FISPOL) shall eventually become the responsibility of the New-CySWG management and not an adhoc committee from the outside."
+    }, 
+    {
+        "sentence_id,": "f623a31493", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Does your organization have information security policies?"
+    }, 
+    {
+        "sentence_id,": "855aa5a5fd", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "A central person/group maintains, reviews, and updates information security policies (i.e."
+    }, 
+    {
+        "sentence_id,": "ef058cd4d9", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Does your organization follow laws, international standards, best practices, or frameworks for implementing information security?"
+    }, 
+    {
+        "sentence_id,": "c9c31a4804", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Does your organization practice standard system name conventions?"
+    }, 
+    {
+        "sentence_id,": "1ef8ff649f", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Program includes: Internal Audit External Audit Security Consulting Others: ________________________________________ Security assessments are performed at least once a year Security assessment procedures and methodologies are documented Access to security testing tools and utilities are restricted to authorized personnel Security assessments include: Security specialists to perform penetration testing Vulnerability scanners Policy compliance checking tools Performance tools Independent review and audit of security policies and controls Yes No B."
+    }, 
+    {
+        "sentence_id,": "46048ddd5d", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Users have undergone an information security awareness training program Users are regularly updated in organizational policies, standards, guidelines, and procedures."
+    }, 
+    {
+        "sentence_id,": "54f6a53622", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "There is a \"clear desk\" policy in operation Paper and computer media are locked away when not in use Computer monitors are located to prevent viewing by unauthorized persons Password protected screensavers are activated when the computer is left unattended."
+    }, 
+    {
+        "sentence_id,": "eb39352677", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Lack of or inadequate management and personnel security controls Lack of information security policies Lack of security orientation and awareness for personnel Lack of or insufficient training of personnel on proper use of equipment Lack of or insufficient training of personnel on job-related activities Poor employer-employee relationship Lenient hiring and screening procedures Others: ________________________________________ Lack of or inadequate physical and procedural security controls Lack of or inadequate monitoring of data centers Lenient implementation of ID policy Inadequate protection of computer processing facilities from damage against fire, water, electrical failure Inadequate incident reporting and response procedures Lack of backup and recovery procedures Lack of or inadequate operating procedures for systems Lack of business continuity or disaster recovery planning Poor user access management procedures Others: ________________________________________ Lack of or inadequate technical and logical security controls Lack of or inadequate access control management Use of weak passwords Lack of or inadequate virus protection controls Lack of system updates and patches Poor network design"
+    }
+]

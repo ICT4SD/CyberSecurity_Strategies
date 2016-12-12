@@ -1,0 +1,1602 @@
+[
+    {
+        "sentence": "NEXT STEPS ................................................................................................................................................. 29 4.1 Immediate Actions Phase A ......................................................................................................................... 29 4.2 Cost of Implementation .................................................................................................................................. 29 4.3 Planning of Actions 2012 - 2015 ..................................................................................................................... 30 4.4 Results Assessment and Strategy Review....................................................................................................... 30 APPENDIX I - OVERVIEW OF STRATEGY ACTIONS ............................................................................................. 31 APPENDIX II - ACTION INTERDEPENDENCIES ................................................................................................. 33 EXECUTIVE SUMMARY Information and communications technologies and systems are one of the most important drivers of social and economical development today, whilst undoubtedly being necessary tools for the operation of functional and social structures in any country.", 
+        "sentence_id,": "91a30b1e18"
+    }, 
+    {
+        "sentence": "As a result of this, a vital need is created for these technologies to offer security in their use, which is defined as the preservation of the principles of confidentiality, integrity and availability of information during its transmission, processing and storage.", 
+        "sentence_id,": "06e001ed8f"
+    }, 
+    {
+        "sentence": "These principles lead to the building of trust in information systems and electronic services, which is considered a prerequisite for the continued development and growth in this valuable sector of the economy.", 
+        "sentence_id,": "0bed8763a3"
+    }, 
+    {
+        "sentence": "Network and information security, and more generally cybersecurity, operates to maintain the above principles.", 
+        "sentence_id,": "bff5d1a86f"
+    }, 
+    {
+        "sentence": "This Strategy aims to establish a safe electronic environment in the Republic of Cyprus, with specific considerations and actions for the protection of critical information infrastructures, whose disruption or destruction would have severe consequences to vital societal functions.", 
+        "sentence_id,": "99a34123ae"
+    }, 
+    {
+        "sentence": "The development and preparation of this Strategy has followed a holistic approach for responding to threats in cyberspace, recognising that a valid strategy must offer multiple levels of security.", 
+        "sentence_id,": "7eb154216f"
+    }, 
+    {
+        "sentence": "The European Commission has set strong targets for the area of network and information security, which are evident from its intensified activities in this area, in cooperation with member states and with ENISA (European Network and Information Security Agency).", 
+        "sentence_id,": "8ae4b586dc"
+    }, 
+    {
+        "sentence": "The new European Regulatory Framework for Electronic Communications places special emphasis on the area of security and integrity of networks and services, and also on the area of protection of personal data.", 
+        "sentence_id,": "e6585c04c5"
+    }, 
+    {
+        "sentence": "One of the main targets of the Commission is the development of National Strategies for network and information security (like this document), the development of National Contingency Plans for related matters and the creation of CERTs (Computer Emergency Response Teams) for incidents that involve electronic security breaches.", 
+        "sentence_id,": "bb7f9b20f3"
+    }, 
+    {
+        "sentence": "Even though the area of network and information security is not a new one, and there have been a number of related actions by various competent state authorities in the past, this document represents the first organised approach for coordinated response to threats that manifest in cyberspace, on a National level.", 
+        "sentence_id,": "ba04ada97b"
+    }, 
+    {
+        "sentence": "The following priority areas have been identified to meet this target: coordination of the governmental stakeholders, development of a complete legal framework, technical and procedural measures, capability development and training, productive collaboration between the public and private sector and the creation or adaptation of the necessary structures and instruments within the Cyprus Government.", 
+        "sentence_id,": "9b9a9912da"
+    }, 
+    {
+        "sentence": "This strategy document contains a series of actions that have been identified to achieve the goals discussed above, in the following areas: .", 
+        "sentence_id,": "df2613a54d"
+    }, 
+    {
+        "sentence": "Organisational structures .", 
+        "sentence_id,": "2aa93a2269"
+    }, 
+    {
+        "sentence": "Collaboration between the public and private sectors .", 
+        "sentence_id,": "4bcec60741"
+    }, 
+    {
+        "sentence": "Identification of Critical Information Infrastructures .", 
+        "sentence_id,": "e325da3963"
+    }, 
+    {
+        "sentence": "Threat landscape analysis .", 
+        "sentence_id,": "0399be26c0"
+    }, 
+    {
+        "sentence": "National Cybersecurity Framework .", 
+        "sentence_id,": "31efd6042c"
+    }, 
+    {
+        "sentence": "National and International Cyber Exercises .", 
+        "sentence_id,": "c0eaedba36"
+    }, 
+    {
+        "sentence": "Cooperation with external agencies and international working groups .", 
+        "sentence_id,": "23119afb54"
+    }, 
+    {
+        "sentence": "Development of a National Contingency Plan for Critical Information Infrastructures .", 
+        "sentence_id,": "00d61d6fb1"
+    }, 
+    {
+        "sentence": "Modelling and analysis of interdependencies.", 
+        "sentence_id,": "aea487387a"
+    }, 
+    {
+        "sentence": "Short summaries of the Actions, together with an initial graphical assessment of the interdependencies between them, are presented in Appendices I and II respectively.", 
+        "sentence_id,": "9238e82589"
+    }, 
+    {
+        "sentence": "This document also analyses the immediate actions that are to be taken within Phase A (see section 3.2), as well as the next steps that must follow, such as the detailed planning and costing for each action, the prioritisation and planning of the national cybersecurity programme, and the assessment of the results of the strategy actions that will follow.", 
+        "sentence_id,": "bf7242aebb"
+    }, 
+    {
+        "sentence": "It should be noted that the Cybersecurity Strategy of the Republic of Cyprus will be reviewed on a regular basis, taking into account the results of the assessment process, as well as new threats that appear (and will continue to appear) in cyberspace.", 
+        "sentence_id,": "90b0998292"
+    }, 
+    {
+        "sentence": "The targets are to perform a holistic assessment of the results of the above actions and to update the strategy accordingly so that it continues to be in a position to provide the maximum benefit to Cypriot society.", 
+        "sentence_id,": "5611563f92"
+    }, 
+    {
+        "sentence": "INTRODUCTION 1.1 Network and Information Security Information and communications technologies and systems are one of the most important drivers of social and economical development today, whilst undoubtedly being necessary tools for the operation of functional and social structures in any country.", 
+        "sentence_id,": "2f894d2a10"
+    }, 
+    {
+        "sentence": "As cyberspace develops, the protection of the electronic systems present in organisations of all kinds becomes all the more important, so that any activity conducted through these systems is safe and secure.", 
+        "sentence_id,": "d3226f5f67"
+    }, 
+    {
+        "sentence": "A basic security system must cover the confidentiality, integrity and high availability of infrastructure and information, while allowing the operation of the infrastructure to be reliable, flexible and controlled.", 
+        "sentence_id,": "7d7501300c"
+    }, 
+    {
+        "sentence": "Infrastructure security refers to the capability and resilience of the infrastructure against threats and malfunctions that may afflict its constituent parts.", 
+        "sentence_id,": "88ec5e4d50"
+    }, 
+    {
+        "sentence": "Relevant security measures that are taken mainly target the increase of readiness levels and the strengthening of preventative mechanisms, the identification and response to potential risks (including malicious actions or attacks), as well as putting in place measures for mitigation and recovery from malfunctions, failures and the availability of services that are offered, covering also emergency or crisis situations.", 
+        "sentence_id,": "30c168fcba"
+    }, 
+    {
+        "sentence": "In this document, the terms network and information security and cybersecurity are used.", 
+        "sentence_id,": "40b8549042"
+    }, 
+    {
+        "sentence": "Network and information security refers to the preservation of the principles of confidentiality, integrity and availability, as they are described below.", 
+        "sentence_id,": "eb468111e9"
+    }, 
+    {
+        "sentence": "Cybersecurity refers to the broader security of networked systems that operate in cyberspace, i.e.", 
+        "sentence_id,": "667e518b1c"
+    }, 
+    {
+        "sentence": "in most cases connected to the Internet, and this term also covers the safe and secure usage of these systems by end users.", 
+        "sentence_id,": "6f1156ea92"
+    }, 
+    {
+        "sentence": "It is clarified that the applicable level of information security must be guided through the determination of the value of the information to be protected (irrespective of the form of that information, whether it be physical or electronic).", 
+        "sentence_id,": "c5a8271d48"
+    }, 
+    {
+        "sentence": "The value parameter will be taken into account during the implementation of the actions described in the present document, especially those that are related to informing people regarding security to foster awareness and a security culture.", 
+        "sentence_id,": "2340f89ed4"
+    }, 
+    {
+        "sentence": "As a general principle, information must be protected appropriately, according to its value.", 
+        "sentence_id,": "259b404461"
+    }, 
+    {
+        "sentence": "Network and Information Security is a basic and necessary consequence of the development and pervasiveness of new information and communication technologies.", 
+        "sentence_id,": "23ede5209c"
+    }, 
+    {
+        "sentence": "Taking into account the globalisation of communications, especially with the use of the Internet but also the continuously increasing dangers that users are faced with at all levels, it has become vital to take adequate protection measures but also to ensure a high level of cooperation between all parts of society, the public and private sectors, on a national, European and international level.", 
+        "sentence_id,": "275b96f239"
+    }, 
+    {
+        "sentence": "Citizens, businesses and governments strongly need to be able to trust the media through which important information and data, personal or otherwise, is transmitted.", 
+        "sentence_id,": "e525c81129"
+    }, 
+    {
+        "sentence": "The safe development of information and communication technologies is important for citizens and societies, for growth in employment (and the economy in general), on the national but also the European and international level.", 
+        "sentence_id,": "da8b8cb9d9"
+    }, 
+    {
+        "sentence": "Investments in the area of security serve to increase the trust of users in new services and contribute to the wider development of the economy and society itself.", 
+        "sentence_id,": "eefc02a1b6"
+    }, 
+    {
+        "sentence": "Governments, as well as businesses, must evaluate their investments in this area, with the basic criterion being the costs associated with failures of their information technology or communication systems against malicious actions or natural causes.", 
+        "sentence_id,": "dee38dc5f4"
+    }, 
+    {
+        "sentence": "Security, in the information and communications technology world, generally refers to the preservation of three principles: .", 
+        "sentence_id,": "0b76d129aa"
+    }, 
+    {
+        "sentence": "confidentiality of information, i.e.", 
+        "sentence_id,": "a036245fdb"
+    }, 
+    {
+        "sentence": "to only allow access to information to authorised persons, .", 
+        "sentence_id,": "94282b362a"
+    }, 
+    {
+        "sentence": "integrity of information, i.e.", 
+        "sentence_id,": "1903ce2656"
+    }, 
+    {
+        "sentence": "the protection of information from any unwanted modification or destruction, .", 
+        "sentence_id,": "8ac71f7090"
+    }, 
+    {
+        "sentence": "availability of information or systems, i.e.", 
+        "sentence_id,": "8c1da4ed24"
+    }, 
+    {
+        "sentence": "for a system to be able to provide service and/or information when it is requested.", 
+        "sentence_id,": "6075f5e1ec"
+    }, 
+    {
+        "sentence": "The preservation of the above principles aims to ensure network and information security to the highest possible degree, in relation to: .", 
+        "sentence_id,": "632ac8d495"
+    }, 
+    {
+        "sentence": "the protection of information/data in transit, .", 
+        "sentence_id,": "2f8a01f3de"
+    }, 
+    {
+        "sentence": "the protection of information/data in processing, .", 
+        "sentence_id,": "039bff97e1"
+    }, 
+    {
+        "sentence": "the protection of information/data in storage.", 
+        "sentence_id,": "9a4418fca1"
+    }, 
+    {
+        "sentence": "Going beyond the protection of infrastructure, systems and information, the preservation of a high level of security, as per the principles described above, is necessary in order to built trust in information systems, communications and other electronic services that are offered by the government and other important organisations in Cyprus.", 
+        "sentence_id,": "1a71bcf7d1"
+    }, 
+    {
+        "sentence": "The development of trust on behalf of citizens in these systems and ensuring secure transactions in cyberspace will contribute to a significant degree to the economic development of Cyprus and to meeting the targets of the Digital Agenda for Cyprus.", 
+        "sentence_id,": "6e67e6a887"
+    }, 
+    {
+        "sentence": "1.2 Critical Information Infrastructures Information infrastructures have greatly increased in recent years in the Republic of Cyprus, and they have penetrated into almost every part of the life of the average citizen.", 
+        "sentence_id,": "9b2548bfb6"
+    }, 
+    {
+        "sentence": "These infrastructure are used not only directly (e.g.", 
+        "sentence_id,": "b179c89c5a"
+    }, 
+    {
+        "sentence": "through the use of telephony, the Internet, etc.", 
+        "sentence_id,": "148fe28609"
+    }, 
+    {
+        "sentence": "), but also indirectly, since almost all of the services that are offered by the government and used by citizens are heavily supported by them.", 
+        "sentence_id,": "fc5aa88152"
+    }, 
+    {
+        "sentence": "Some of these information infrastructures form a critical part of Cypriot economy and society, either through the provision of vital goods and services, or forming a supporting platform for other (critical) infrastructures.", 
+        "sentence_id,": "c64f82cfb8"
+    }, 
+    {
+        "sentence": "These are thus considered to be critical information infrastructures, given that their disruption or destruction would have severe consequences to vital governmental and societal functions.", 
+        "sentence_id,": "6e908c3c75"
+    }, 
+    {
+        "sentence": "It thus becomes necessary, via a wider framework of a cybersecurity strategy of a country, to place special emphasis on the protection of such critical information infrastructures.", 
+        "sentence_id,": "4538b7c1f0"
+    }, 
+    {
+        "sentence": "A number of actions that are described in the present document cover the protection of critical information infrastructures, and also the wider area of cybersecurity, given that these two areas are closely related and always interact with each other.", 
+        "sentence_id,": "85d4e0e39c"
+    }, 
+    {
+        "sentence": "Section 3.6 describes, in further detail, the criteria that will be used to identify the critical information infrastructures in the Republic of Cyprus.", 
+        "sentence_id,": "74fddeb7cf"
+    }, 
+    {
+        "sentence": "The work that will follow for the development of a National Contingency Plan for critical information infrastructures is described in section 3.14 and forms a priority of this strategic plan.", 
+        "sentence_id,": "55799d74a3"
+    }, 
+    {
+        "sentence": "1.3 Vision The vision of the Cybersecurity Strategy of the Republic of Cyprus is the operation of information and communications technologies in Cyprus with the necessary levels of security, to the benefit of every user.", 
+        "sentence_id,": "722f50cee5"
+    }, 
+    {
+        "sentence": "1.4 Aims and Objectives The development of this strategy and the actions that have been identified have the following aims and objectives: .", 
+        "sentence_id,": "a468cfd01c"
+    }, 
+    {
+        "sentence": "the development and preservation of a safe and secure electronic business environment in Cyprus, .", 
+        "sentence_id,": "4aaab06f4d"
+    }, 
+    {
+        "sentence": "support of the targets of the government that have been identified in the Digital Cyprus strategy programme to develop conditions for an Information Society, .", 
+        "sentence_id,": "70bf336762"
+    }, 
+    {
+        "sentence": "the development of trust, on behalf of citizens and organisations/businesses, in e-government services, including the preservation of information and data in transit, processing and storage, .", 
+        "sentence_id,": "f41dae9254"
+    }, 
+    {
+        "sentence": "the establishment of a safe electronic environment in the Republic of Cyprus for all of its citizens, including children, .", 
+        "sentence_id,": "fdcba42b38"
+    }, 
+    {
+        "sentence": "the mitigation of the effects of threats in cyberspace and the effective response to emergencies, .", 
+        "sentence_id,": "38c341d525"
+    }, 
+    {
+        "sentence": "the support of a future coordinated national response plan for the protection of critical infrastructures (beyond ICT) in the Republic of Cyprus.", 
+        "sentence_id,": "5d4165501d"
+    }, 
+    {
+        "sentence": "1.5 Guiding Principles The structure and contents of this document are based on the following guiding principles: .", 
+        "sentence_id,": "79ee73c31c"
+    }, 
+    {
+        "sentence": "the development of strategy and policy within a framework of cooperation between all competent authorities, taking into account the competences of each governmental stakeholder, .", 
+        "sentence_id,": "537edebe96"
+    }, 
+    {
+        "sentence": "the development of a holistic approach to face threats in cyberspace, .", 
+        "sentence_id,": "380937109f"
+    }, 
+    {
+        "sentence": "the recognition that a valid strategy must offer multiple levels of security (layered security, defence in depth, etc.", 
+        "sentence_id,": "ac6e9975a0"
+    }, 
+    {
+        "sentence": "the use of open processes in all stages of implementation of the Strategy, .", 
+        "sentence_id,": "b9351cad4e"
+    }, 
+    {
+        "sentence": "and the setting of ambitious goals with the will for the Strategy and its actions to contribute tangibly to the improvement of the levels of electronic security in Cyprus.", 
+        "sentence_id,": "b9c4100fa3"
+    }, 
+    {
+        "sentence": "STRATEGIC CONTEXT 2.1 European Policy Security matters form an important pillar of the Digital Agenda for Europe, and this specific European policy covers a number of important topics related to network and information security.", 
+        "sentence_id,": "9cd1eabdcf"
+    }, 
+    {
+        "sentence": "The position of the European Commission regarding these issues is covered in detail in the strategy document for Network and Information Security (NIS).", 
+        "sentence_id,": "e69ee3c0f0"
+    }, 
+    {
+        "sentence": "This organisation is headquartered in Herakleion, Crete and it develops pan-European and international actions in the area of network and information security, helping the application of European policy, the dissemination of information and best practices, the harmonisation and coordination of common actions, the organisation and execution of European and international cyber exercises and also international cooperation and coordination.", 
+        "sentence_id,": "d768cbba2e"
+    }, 
+    {
+        "sentence": "The renewal of ENISAs operations (in time), with expanded terms of mandate, is the subject of intensive consultations during this period at the Council of Ministers level, and also in the European Parliament, given that everyone recognises the necessity of such an organisation to exist and operate in Europe.", 
+        "sentence_id,": "0494e84e01"
+    }, 
+    {
+        "sentence": "The new European Regulatory Framework for Electronic Communications (with a May 2011 date of entry into force on a pan-European level), places special emphasis on the area of security, mainly in topics relating to: (a) the security and integrity of networks and services, as well as the application of regulatory measures and cooperation mechanisms on a national and pan-European level, together with national notification mechanisms for security breach incidents, contained in the Framework Directive (2002/21/EC, as amended), and (b) the security of personal data, the processing of such data and related security breaches, the protection of data contained within customer terminal equipment, and the use of automated calling systems and communication without human intervention, contained in the Directive on Privacy and Electronic Communications (2002/58/EC, as amended).", 
+        "sentence_id,": "c2db7ef54c"
+    }, 
+    {
+        "sentence": "Additionally, cybersecurity matters have recently been placed high on the agenda of the Telecommunications Ministerial1 Council of the European Union.", 
+        "sentence_id,": "f235a8b3e9"
+    }, 
+    {
+        "sentence": "The Council, during its recent meetings, has examined policy and the actions to follow, including the preparation of new Directives in the area of security and especially for Critical Information Infrastructure Protection (CIIP).", 
+        "sentence_id,": "81e41e3fe7"
+    }, 
+    {
+        "sentence": "1 The finalisation of the new European Strategy for Internet Security will form part of the activities of the Telecommunications Ministerial Council under the Cyprus Presidency of the Council.", 
+        "sentence_id,": "1a8f015496"
+    }, 
+    {
+        "sentence": "The Council has also requested the cooperation between Member States, the European Commission and third countries for: (a) the identification and securing of parts of critical infrastructure that could, if damaged or destroyed, have severe negative effects on member states, and (b) the exchange of information and best practices, while (c) urging member states to encourage effective cooperation between public and private sector entities, both within the member states themselves and with third countries.", 
+        "sentence_id,": "abbc2e4e87"
+    }, 
+    {
+        "sentence": "The Council has also asked to be updated, together with the European Parliament, on an annual basis by member states and the European Commission regarding their actions in these matters.", 
+        "sentence_id,": "4a528eb3e7"
+    }, 
+    {
+        "sentence": "After the meeting of the Telecommunications Ministerial Council on the 27th of May 2011, in which these matters were discussed, the European Commission announced the actions that it expects the member states of the European Union to undertake, asking for the commitment of all those involved for the promotion of common goals.", 
+        "sentence_id,": "6c546454ef"
+    }, 
+    {
+        "sentence": "Specifically, the European Commission is requesting that member states and the Council state their strong commitment to the improvement and strengthening of national security in cyberspace to the best of their abilities, with the target of securing a high level of protection within the European Union and more effective collaboration on the international level.", 
+        "sentence_id,": "85db5122af"
+    }, 
+    {
+        "sentence": "As such, the European Commission is planning to monitor the performance of the member states closely, as regards meeting the three basic targets that are being promoted on the European level: (a) The operation of national / governmental Computer Emergency Response Teams (CERTs) in each member state and the creation of a common and functional network of national / governmental CERTs in Europe by 2012, which will be supported by effective national cybersecurity strategies.", 
+        "sentence_id,": "245beb72d3"
+    }, 
+    {
+        "sentence": "(b) The organisation of regular national and pan-European exercises for security in cyberspace (with CERTs participating as a prerequisite), in which a pan-European cyber exercise which has been scheduled for the second half of 2012 is included.", 
+        "sentence_id,": "f4e48b8c4f"
+    }, 
+    {
+        "sentence": "Based on national experiences, such a plan must lay the foundation and define appropriate processes for effective communications between member states in situations where common threats and malicious attacks affect a number of member states.", 
+        "sentence_id,": "2e7088fb16"
+    }, 
+    {
+        "sentence": "On a national level, the actions described in points (b) and (c) above form part of the actions that are included in this Strategy.", 
+        "sentence_id,": "3b95704182"
+    }, 
+    {
+        "sentence": "The action referred to in point (a) above is already in progress in the Republic of Cyprus and is regulated by separate secondary legislation that is published by the Commissioner for Electronic Communications and Postal Regulation, while the correct operation of CERTs/CSIRTs in Cyprus is a basic precondition for the development of the strategic planning that is described in this document.", 
+        "sentence_id,": "a15d84590f"
+    }, 
+    {
+        "sentence": "All member states were represented at this conference, which was under the auspices of the Telecommunications Ministerial Council and under the area of network and information security.", 
+        "sentence_id,": "77c9b05a24"
+    }, 
+    {
+        "sentence": "The conference conclusions cover the duties of the member states in detail, as described in this section.", 
+        "sentence_id,": "b3568af6ed"
+    }, 
+    {
+        "sentence": "Specifically regarding the matters related to CERTs, the conference conclusions state that: put in place well-functioning and operational national/governmental CERTs as soon as possible; provide technical support to the EU institutions in setting up their own CERT by 2012; establish a well- functioning network of CERTs at EU level, which will include the CERT for the EU institutions;.", 
+        "sentence_id,": "69643edfb8"
+    }, 
+    {
+        "sentence": "In summary, the European Union, in recent years, has been planning, preparing and executing actions to strengthen its position in relation to cybersecurity.", 
+        "sentence_id,": "6864275eb9"
+    }, 
+    {
+        "sentence": "Its aim is to effectively handle the rapidly increasing rates of crimes and attacks in cyberspace, and the European Commission is asking from member state governments to seriously examine the issue of security in cyberspace.", 
+        "sentence_id,": "3ed9878a71"
+    }, 
+    {
+        "sentence": "The statement of Neelie Kroes, Vice-President of the European Commission for the Digital Agenda on the EU website is indicative: \"Cyber-attacks are a very real and ever-increasing threat.", 
+        "sentence_id,": "9e37a951e0"
+    }, 
+    {
+        "sentence": "Whether against individual countries, companies or most recently against the European Commission, they can paralyse key infrastructure and cause huge long-term damage.", 
+        "sentence_id,": "7df20c858e"
+    }, 
+    {
+        "sentence": "She also added that: Setting up this CERT pre-configuration team is a further demonstration of how seriously the EU Institutions take the cyber-security threat.\"", 
+        "sentence_id,": "9264aae0a3"
+    }, 
+    {
+        "sentence": "2.2 Network and Information Security in the Republic of Cyprus The Republic of Cyprus and especially the Ministry of Communications and Works (MCW), and the competent coordinating authority2 for Network and Information Security in Cyprus, which is the Office of the Commissioner of Electronic Communications and Postal Regulation (OCECPR), have recognised the essential role of security topics in the promotion of new communications services, the use of new technologies and more generally in the development of an information society.", 
+        "sentence_id,": "78b08a69db"
+    }, 
+    {
+        "sentence": "Towards this end, a number of specific actions and policies have been promoted on the national level: 2 Based on the provisions of the legislation that pervades its operations, OCECPR is responsible for the security of electronic communications infrastructures, as well as for the information that is transmitted through or stored within them.", 
+        "sentence_id,": "c8fde42699"
+    }, 
+    {
+        "sentence": "3 Policy Document on Network and Information security 2006 4 Policy Document on the Formation of Emergency Response Teams for Incidents related to Network and Information Security (CSIRT/CERT) 2010 (a) In 2006, the Ministry of Communications and Works (MCW) approved a policy document3, through which a number of specific actions in the area of network and information security are promoted, via OCECPR: the formation of Computer Emergency Response Teams (CERTs / CSIRTs), the creating of an institutional framework for the security and integrity of information infrastructures, and the raising of awareness of all stakeholders and Cypriot society about relevant security matters.", 
+        "sentence_id,": "77dee888a9"
+    }, 
+    {
+        "sentence": "(b) In 2010, upon recommendations by OCECPR which were received favourably by ENISA, MCW also approved a detailed policy document4 regarding the operation of a governmental and an academic CERT.", 
+        "sentence_id,": "51974be879"
+    }, 
+    {
+        "sentence": "The Cypriot CERTs are being formed with the extension potential to cover the private business sector at a later stage.", 
+        "sentence_id,": "1f228c39ea"
+    }, 
+    {
+        "sentence": "(c) Within 2012, new provisions are being introduced into The Regulation of Electronic Communications and Postal Services Law of 2004 (112(I)2004), which stem from the new Regulatory Framework for Electronic Communications5 and which cover matters related to network and information security.", 
+        "sentence_id,": "0fe0c959c8"
+    }, 
+    {
+        "sentence": "5 \"Better Regulation\" Directive 2009/140/EC, .a.", 
+        "sentence_id,": "6f8e66dc5e"
+    }, 
+    {
+        "sentence": "(d) The Republic of Cyprus, in cooperation with the relevant stakeholders, has committed, via the Telecommunications Ministerial Council, to contribute to European and international collaboration for responding to threats and challenges in cyberspace.", 
+        "sentence_id,": "ae3973a9ec"
+    }, 
+    {
+        "sentence": "The National Cybersecurity Strategy that is described in this document adopts and complements the actions discussed above.", 
+        "sentence_id,": "7d91b4c1f0"
+    }, 
+    {
+        "sentence": "Based on the provisions of this strategy and the priorities of the Republic of Cyprus, the actions related to network and information security form part of the wider strategy for the development of an Information Society6, and will also allow for Cyprus to contribute actively in the planning process for protecting European critical information infrastructures from 2012 onwards.", 
+        "sentence_id,": "ea2b233bdc"
+    }, 
+    {
+        "sentence": "2.3 Competent/Related Authorities and Observers of the Republic of Cyprus Beyond the policies and actions that are mentioned in section 2.2, there are a number of authorities within the Republic of Cyprus that are active in the security of networks, services, information technology systems and information itself, in addition to having direct or indirect input on critical security matters.", 
+        "sentence_id,": "478be28bc6"
+    }, 
+    {
+        "sentence": "Each authority has direct or indirect responsibilities in the area of network and information security, as well as interdependencies between them that must be taken into account for the implementation of this strategy.", 
+        "sentence_id,": "4c1cc68296"
+    }, 
+    {
+        "sentence": "The competent/related authorities that are involved at this stage are the following: .", 
+        "sentence_id,": "9df9506c50"
+    }, 
+    {
+        "sentence": "Office of the Commissioner of Electronic Communications and Postal Regulation (OCECPR) .", 
+        "sentence_id,": "47432732ea"
+    }, 
+    {
+        "sentence": "Department of Information Technology Services (DITS) .", 
+        "sentence_id,": "7e8b4cce89"
+    }, 
+    {
+        "sentence": "National Guard General Staff .", 
+        "sentence_id,": "5d0d81ee7f"
+    }, 
+    {
+        "sentence": "National Security Authority .", 
+        "sentence_id,": "5070709fa0"
+    }, 
+    {
+        "sentence": "Central Intelligence Service .", 
+        "sentence_id,": "b4d9886e63"
+    }, 
+    {
+        "sentence": "Office of the Commissioner for Personal Data Protection .", 
+        "sentence_id,": "357e05b742"
+    }, 
+    {
+        "sentence": "Ministry of Communications and Works (MCW) .", 
+        "sentence_id,": "a08717976d"
+    }, 
+    {
+        "sentence": "Department of Electronic Communications (DEC) .", 
+        "sentence_id,": "391ce94226"
+    }, 
+    {
+        "sentence": "Unit for Combating Money Laundering The following authorities of the Republic of Cyprus are to be kept informed of the activities described herein and are observers at this stage: .", 
+        "sentence_id,": "d69f32a552"
+    }, 
+    {
+        "sentence": "Law Office of the Republic of Cyprus .", 
+        "sentence_id,": "7921d517cf"
+    }, 
+    {
+        "sentence": "It is noted that the competent authority of the Republic of Cyprus that has responsibilities relating to Classified Information (CI) and European Union Classified Information (EU CI) is the National Security Authority.", 
+        "sentence_id,": "be8e7dbdb2"
+    }, 
+    {
+        "sentence": "Even though this document is not aimed exclusively or directly at the protection of Classified Information, any electronic transmission of such information is essentially implemented through communications infrastructure of communications service providers.", 
+        "sentence_id,": "1010c84ce5"
+    }, 
+    {
+        "sentence": "2.4 Threats in Cyberspace Today The use of computers and communications systems has nowadays penetrated our lives to a very high degree, and so our level of dependence on these technologies for much of our daily activity is increasing.", 
+        "sentence_id,": "ae3f9f1f20"
+    }, 
+    {
+        "sentence": "These technologies are used today in many sectors beyond just for communications: they are used for the production and distribution of energy, the management of water and sewage systems, financial services, in the armed forces and law enforcement, governmental departments and services, health services, etc.", 
+        "sentence_id,": "bb7bd126b0"
+    }, 
+    {
+        "sentence": "Even though the benefits stemming from information and communications technologies (ICT) are huge, new network technologies have introduced a plethora of security issues that are taken advantage of by malicious actors that target vulnerabilities in infrastructure and network components, such as computers, routers, switches, etc.", 
+        "sentence_id,": "67509640e8"
+    }, 
+    {
+        "sentence": "The last few years have seen multiple threats appearing in communications networks, especially with the explosion in the use of the Internet by citizens.", 
+        "sentence_id,": "66396e6578"
+    }, 
+    {
+        "sentence": "ICT has been used in malicious ways for theft from bank accounts, access to confidential information, damage to important websites (consequent denial of access to the public), etc.", 
+        "sentence_id,": "89ec640a65"
+    }, 
+    {
+        "sentence": "Examples of information that has been stolen from companies include confidential contracts, product designs, credit card information, account numbers and other personal data.", 
+        "sentence_id,": "090301c979"
+    }, 
+    {
+        "sentence": "Such incidents can induce severe damages to an organisation, given that its reputation and customer trust can be seriously affected, in addition to any direct (monetary) damages.", 
+        "sentence_id,": "4e1e088eee"
+    }, 
+    {
+        "sentence": "The probability of such incidents occurring can however be significantly reduced if appropriate measures are taken by an organisation or enterprise.", 
+        "sentence_id,": "7b1981e935"
+    }, 
+    {
+        "sentence": "It has been observed, on a global level, that not only is the frequency of attacks in cyberspace increasing, but also the complexity of such attacks.", 
+        "sentence_id,": "9f6b10b21d"
+    }, 
+    {
+        "sentence": "The public, in most cases, is not aware of the extent of these attacks, nor of the damages that can be caused by them.", 
+        "sentence_id,": "164a403049"
+    }, 
+    {
+        "sentence": "A relatively recent phenomenon that is being observed in cyberspace is that of botnets automated virtual networks involving large numbers of computers (some have been reported with tens of thousands of members) that are controlled by malicious actors.", 
+        "sentence_id,": "edab365a19"
+    }, 
+    {
+        "sentence": "These computers can be found in homes and businesses, and also perhaps in governmental departments, without the users themselves being aware or having knowledge of this, and they are being used for large scale attacks in cyberspace.", 
+        "sentence_id,": "e29fcf5c35"
+    }, 
+    {
+        "sentence": "In addition to the consequences to persons as described above, it is not difficult for problems to be created for nation states themselves.", 
+        "sentence_id,": "7737a70e30"
+    }, 
+    {
+        "sentence": "Interference with a nation states communications has always been an inextricable part of military conflicts.", 
+        "sentence_id,": "faf48c22e0"
+    }, 
+    {
+        "sentence": "Nowadays, given that many of an armys communications systems include computers, some nation states have already developed electronic weapons for attacks in cyberspace that can be used as part of a wider military offensive (or even for terrorist actions if they fall into the wrong hands).", 
+        "sentence_id,": "d126b26553"
+    }, 
+    {
+        "sentence": "In addition to this, any vulnerabilities in the ICT systems of the armed forces could lead to the leak of very sensitive information to unauthorised users.", 
+        "sentence_id,": "51c93ad909"
+    }, 
+    {
+        "sentence": "The operations of modern military forces are dependent on ICT to a large extent and a serious cyber attack could have dramatic consequences to the defensive capabilities of a country.", 
+        "sentence_id,": "94a0206ec1"
+    }, 
+    {
+        "sentence": "The strength, stability and safe operations of a country are now fully dependent on the smooth running of its infrastructures, and as can be seen from the examples mentioned above, cyber attacks cannot be ignored.", 
+        "sentence_id,": "72e74d458b"
+    }, 
+    {
+        "sentence": "It is noted that the strategic response (see section 3) and the actions described in this document do not relate to the handling of military issues in network and information security, nor to the handling of related terrorism issues; however, the examples discussed above serve to highlight the level of dependence on the technologies that are discussed in this document that military networks and information have.", 
+        "sentence_id,": "914ee1e2f8"
+    }, 
+    {
+        "sentence": "STRATEGIC RESPONSE 3.1 Priority Areas The strategic response of the Republic of Cyprus to the previously mentioned threats can be split into a number of priority areas that have been identified for the optimal protection of critical information infrastructures.", 
+        "sentence_id,": "0cb3ab3903"
+    }, 
+    {
+        "sentence": "The areas that have been prioritised in relation to the needs of the Republic of Cyprus are the following, as shown in Figure 1: Figure 1: Priorities of the Cybersecurity Strategy of the Republic of Cyprus Legal Framework Technical and Organisational Measures and Procedures Capability Development Immediate Response to Significant Incidents Coordination of governmental stakeholders Productive Collaboration between the Public and Private Sector .", 
+        "sentence_id,": "a1c30546b5"
+    }, 
+    {
+        "sentence": "coordination of governmental stakeholders to ensure correct and efficient cooperation, .", 
+        "sentence_id,": "e19495ee37"
+    }, 
+    {
+        "sentence": "creation of a comprehensive legal framework by the competent authorities of the state, that covers all aspects of network and information security, including cybercrime and the protection of personal data, .", 
+        "sentence_id,": "9a7c1b6399"
+    }, 
+    {
+        "sentence": "formulation of technical and organisational measures and procedures to harden the security of relevant hardware, software and physical spaces, to the required degree, .", 
+        "sentence_id,": "2ef24333b3"
+    }, 
+    {
+        "sentence": "development of the necessary skills, training and awareness in security topics, for those that are directly involved and also for the public, .", 
+        "sentence_id,": "700d845dc4"
+    }, 
+    {
+        "sentence": "productive collaboration between the public and private sector, on both the national and international level, .", 
+        "sentence_id,": "2e80e36a26"
+    }, 
+    {
+        "sentence": "creation or adaptation of the necessary structures and instruments within the competent authorities and the more generally the Cyprus Government, to secure the demands and capabilities of immediate incident response.", 
+        "sentence_id,": "f0ded5c062"
+    }, 
+    {
+        "sentence": "3.2 Splitting the Actions Phases A and B The rest of this chapter presents the actions that have been identified for the implementation of the strategic plan.", 
+        "sentence_id,": "12f50a1386"
+    }, 
+    {
+        "sentence": "Current organisational structures and available resources are not at a level that would allow an immediate start to all of the actions that have been identified, and as such each action description that follows also indicates the phase in which it will be executed: .", 
+        "sentence_id,": "184e4c03be"
+    }, 
+    {
+        "sentence": "Phase A o Phase A includes all of the actions that OCECPR is in a position to start in the immediate future with the resources that are currently available to it.", 
+        "sentence_id,": "3aaf1122a4"
+    }, 
+    {
+        "sentence": "Phase B o Phase B includes the actions that OCECPR will be in a position to coordinate once a new organisational structure has been developed, with the necessary resources to carry out the implementation of this Strategy in its entirety.", 
+        "sentence_id,": "93e2d4fec3"
+    }, 
+    {
+        "sentence": "Each action description mentions the phase in which it will be executed and the actions that mention both phases will be partly completed in each phase.", 
+        "sentence_id,": "6bf49f144f"
+    }, 
+    {
+        "sentence": "It is noted that this does not mean that actions implemented in Phase A will necessarily be completed within that phase.", 
+        "sentence_id,": "001d133d8e"
+    }, 
+    {
+        "sentence": "The majority of the actions of this Strategy will continue to be executed on a long-term basis for the continued protection of cyberspace in Cyprus.", 
+        "sentence_id,": "c993eff32e"
+    }, 
+    {
+        "sentence": "Each competent or relevant authority has its own areas of responsibility and it is important to uphold these differences.", 
+        "sentence_id,": "31e5d8c015"
+    }, 
+    {
+        "sentence": "However, due to this multi-stakeholder approach to security matters, it is vital for all involved to understand and accept that the maintenance of acceptable levels of security in the electronic world can be accomplished only via cooperation between the different stakeholders involved, within a framework of coordinated response to the various threats that have already been mentioned.", 
+        "sentence_id,": "efe51133a1"
+    }, 
+    {
+        "sentence": "It follows that the coordination of the competent or relevant governmental authorities is absolutely necessary.", 
+        "sentence_id,": "5f854e3aae"
+    }, 
+    {
+        "sentence": "This coordination activity is productive when performed by an entity which is in a position to organise and coordinate the various actions of the Republic of Cyprus for correct response to the threats that are around today, as well as rising and new threats in cyberspace.", 
+        "sentence_id,": "a3dc287bf0"
+    }, 
+    {
+        "sentence": "the appropriate legal authority and defined responsibility in order to carry out its duties, .", 
+        "sentence_id,": "2115622e13"
+    }, 
+    {
+        "sentence": "the necessary skills and capabilities to respond appropriately to the obligations of the role, .", 
+        "sentence_id,": "e98b654ab8"
+    }, 
+    {
+        "sentence": "the necessary links and good working relationships with the competent or relevant authorities of the Republic, the electronic communications providers in Cyprus, the private sector stakeholders and international working groups and fora that are relevant to the area of cybersecurity.", 
+        "sentence_id,": "b76d9701e1"
+    }, 
+    {
+        "sentence": "Taking into account the fact that the definition and creating of an integrated and complete organisational structure is necessary for the optimum implementation of the strategic actions, but also that the processes involved to accomplish this are affected by external factors related to the current severe financial crisis that is manifesting in Cyprus, and the lengthy recruitment procedures involved, the implementation of such an organisational structure will form part of Phase B of the strategy activities.", 
+        "sentence_id,": "04c92be5f1"
+    }, 
+    {
+        "sentence": "This will have the following benefits: .", 
+        "sentence_id,": "3d0139bcc3"
+    }, 
+    {
+        "sentence": "The planning and executing of the actions that have been identified as being of an urgent nature and with immediate priority, for which the legal framework is already in place, will not be delayed.", 
+        "sentence_id,": "8fb7c4904b"
+    }, 
+    {
+        "sentence": "Existing structures will be leveraged to the maximum extent possible, with gradual upgrading of their capabilities to the required level.", 
+        "sentence_id,": "c805e2aab4"
+    }, 
+    {
+        "sentence": "The associated financial burden will be gradual and in line with the capabilities of the Cyprus economy.", 
+        "sentence_id,": "0ffc8cd47f"
+    }, 
+    {
+        "sentence": "Cypriot authorities will be in a position to fulfil their commitments both on the national and European level, where relevant activities are being pushed forward with rapid and demanding timelines.", 
+        "sentence_id,": "93a396fc41"
+    }, 
+    {
+        "sentence": "The necessary time will be given for the appropriate needs assessment, in relation to the requirements for the strategy implementation, the coordination of activities and the supervision of incident response mechanisms and related actions.", 
+        "sentence_id,": "f8bea80d7e"
+    }, 
+    {
+        "sentence": "Phase A will formulate the cooperation framework between OCECPR, as the coordinating body, and the other competent authorities for the implementation of the high priority actions, such as developing the plan for the protection of critical information infrastructures, the operation of the governmental CSIRT/CERT, the assessment and improvement of the readiness levels of network infrastructures as regards their resilience to risk and their response to security threats, the handling and notification of security incidents on networks, systems and information, and the organisation of national exercises with additional participation in European exercises.", 
+        "sentence_id,": "68b8304f75"
+    }, 
+    {
+        "sentence": "These activities refer to the wider responsibilities that OCECPR has in the area of network and information security, and section 2.2 discusses the specific actions that have been prioritised and have been included in this strategy.", 
+        "sentence_id,": "6cdabd9f34"
+    }, 
+    {
+        "sentence": "At this point, an agreed basis for cooperation is required between the competent authorities, and which will be expanded and adjusted as the strategy programme progresses.", 
+        "sentence_id,": "5acd3239b4"
+    }, 
+    {
+        "sentence": "Action 1 - Phase A Formulation of the framework for collaboration and information exchange with OCECPR, and between public authorities, so that OCECPR will be in a position to effectively coordinate the nations strategic response in the area of cybersecurity and the protection of critical information infrastructures, as well as coordinating the actions that relate to other stakeholders in the priority areas that can be addressed immediately.", 
+        "sentence_id,": "f139b579a7"
+    }, 
+    {
+        "sentence": "The way that existing activities in the area of network and information security, that fall under the responsibilities of OCECPR, are planned and executed is based on its existing organisational structure.", 
+        "sentence_id,": "7b879be80b"
+    }, 
+    {
+        "sentence": "The present structure and resources are not adequate to take on and execute all of the actions that are described in this document.", 
+        "sentence_id,": "a3098d9457"
+    }, 
+    {
+        "sentence": "As a result of this, and in tandem with pushing forward with the immediate priorities based on current urgent national and European commitments and needs of the Republic of Cyprus, OCECPR, in cooperation with the other competent authorities in the Republic, will study and submit recommendations regarding new policy for its reorganisation to the Minister of Communications and Works, so that it will be in a position to fully coordinate the very large volume of work associated with the areas of network and information security and cybersecurity.", 
+        "sentence_id,": "6786144469"
+    }, 
+    {
+        "sentence": "Action 2 - Phase A OCECPR will, at the appropriate time and in cooperation with the other competent authorities, develop a report regarding new policy for its reorganisation, so that it will be in a position to fully coordinate the efforts of the Republic of Cyprus for optimum implementation, application and supervision of all of the actions and the effective response to threats that are prevalent in cyberspace today, as well as rising threats that will appear in the future.", 
+        "sentence_id,": "eb58dea8a9"
+    }, 
+    {
+        "sentence": "OCECPR will also coordinate the formation of a number of working groups, which will take over the implementation of the rest of the actions that are described herein.", 
+        "sentence_id,": "1cc856ff3b"
+    }, 
+    {
+        "sentence": "These working groups will be staffed by personnel with the necessary technical and other skills from the competent authorities of the state, as well as by experts from the private sector and representatives of critical information infrastructure operators (see also section 3.5).", 
+        "sentence_id,": "e4deac2095"
+    }, 
+    {
+        "sentence": "For the identification and assessment of potential risks, it may be the case that the members of some of the working groups might need access to classified information; that is the information that refers to vulnerabilities in critical parts of each network or system that will be deemed as important or critical.", 
+        "sentence_id,": "df6cec8060"
+    }, 
+    {
+        "sentence": "Taking into account that the relevant risk assessments must be conducted in tandem with the development of plans to respond to incidents relating to these risks, and also the development of contingency plans to mitigate the effects of related disasters, the composition of the working groups must be such that confidentiality is assured.", 
+        "sentence_id,": "63907a3ab7"
+    }, 
+    {
+        "sentence": "Action 3 - Phase A/B Formation of working groups, with representatives from the public and private sectors (as necessary), to implement the Strategy Actions.", 
+        "sentence_id,": "59dc64cc44"
+    }, 
+    {
+        "sentence": "3.4 Legal Framework Legislation in the Republic of Cyprus already covers a large number of areas relating to network and information security, as well as cybercrime (and other electronic crime) matters.", 
+        "sentence_id,": "f7918829d0"
+    }, 
+    {
+        "sentence": "However, it is still considered necessary to identify all relevant laws in Cyprus and to update them where needed, and also to promote the creation of new primary and secondary legislation to cover all of the provisions of this Strategy.", 
+        "sentence_id,": "742e987732"
+    }, 
+    {
+        "sentence": "This legislation (whether new or updated) must cover processes for the prevention, deterrence and dynamic response to all forms of cybercrime, and also be harmonised with the relevant law and directives of the European Union.", 
+        "sentence_id,": "c0b86a6fd3"
+    }, 
+    {
+        "sentence": "International cooperation with other member states of the European Union, as well as third countries, will be required in the areas of network and information security and the protection of critical information infrastructures.", 
+        "sentence_id,": "7687302239"
+    }, 
+    {
+        "sentence": "As such, specific legal issues may arise regarding the processing and handling of electronic threats whose sources could be outside of the boundaries of the Republic of Cyprus.", 
+        "sentence_id,": "5df5295fa8"
+    }, 
+    {
+        "sentence": "It is thus considered necessary to create an appropriate legal infrastructure also regarding the effective cooperation with entities outside Cyprus to solve related problems as they arise.", 
+        "sentence_id,": "1d5d9ef913"
+    }, 
+    {
+        "sentence": "Action 4 - Phase B Creation of an appropriate legal framework to fully support the provisions of the Cybersecurity Strategy.", 
+        "sentence_id,": "46e9e18ee8"
+    }, 
+    {
+        "sentence": "All relevant laws of the competent authorities must be assessed for any updated needs.", 
+        "sentence_id,": "4a1500433e"
+    }, 
+    {
+        "sentence": "3.5 Cooperation between the State and the Private Sector The State will make significant efforts in the area of network and information security, and especially on the topic of critical information infrastructure protection within Cyprus.", 
+        "sentence_id,": "36062fef71"
+    }, 
+    {
+        "sentence": "The strategic initiative in these areas can only come from the State, which is responsible for ensuring the cooperation between relevant stakeholders on a national and international level.", 
+        "sentence_id,": "d0386c919a"
+    }, 
+    {
+        "sentence": "The State recognises that the role of the private sector in the security and protection of critical information infrastructures is extremely important, for the following reasons: .", 
+        "sentence_id,": "660ce626d3"
+    }, 
+    {
+        "sentence": "The private sector (including the semi-governmental electronic communications provider) operates the majority of the critical communications infrastructure of the government, e.g.", 
+        "sentence_id,": "453e989f08"
+    }, 
+    {
+        "sentence": "the public communications networks that are used by the different government departments, as well as by the business and academic worlds, and the citizens of the Republic.", 
+        "sentence_id,": "80a03e692c"
+    }, 
+    {
+        "sentence": "The State relies on the private sector, not only for the communications networks, but also for the provision of the equipment that it uses, and for the implementation of many of activities that are related to network and information security, whether those are conducted as a matter of course for security reasons or for the reliable operation of their systems and services, or they are imposed on the operators via legal and / or regulatory measures.", 
+        "sentence_id,": "665aa5701a"
+    }, 
+    {
+        "sentence": "It is considered a given that the private sector contains accumulated technical know-how and specialised human resources, and there are also organisations that can help and contribute to the best possible development of the Republic of Cyprus in these areas.", 
+        "sentence_id,": "53baba4ae4"
+    }, 
+    {
+        "sentence": "Taking the above into consideration, the Republic of Cyprus sets a high priority on consultation with the private sector for the achievement of its goals, the implementation of the provisions of this Strategy, the continuous improvement of the actions and effects of the Strategy, as well as for the gaining of further technical skills and specialisation.", 
+        "sentence_id,": "75b8ef5082"
+    }, 
+    {
+        "sentence": "Action 5 - Phase A/B Comprehensive survey of the private sector, for the identification of groups and stakeholders that can contribute in a positive way to the improvement of the levels of electronic security in the Republic of Cyprus, while simultaneously creating the conditions for developing close collaborative relationships.", 
+        "sentence_id,": "551e84cb79"
+    }, 
+    {
+        "sentence": "During the execution of the Action described above, the State will seek out cooperation with existing competent authorities which determine the way that important sectors operate, such as the Central Bank of Cyprus regarding the banking sector.", 
+        "sentence_id,": "12eae29867"
+    }, 
+    {
+        "sentence": "In addition to this, a mechanism for providing regular updates to the private sector will be put in place, regarding the progress being made in the planned actions, to help achieve convergence in the activities of the public and private sectors regarding the provisions of this Strategy.", 
+        "sentence_id,": "9198a88218"
+    }, 
+    {
+        "sentence": "Beyond what has been described above, the PPP (Public-Private Partnership) model is emphasised, which is considered on a European and international level to be an effective model of cooperation between entities in the public and private sectors.", 
+        "sentence_id,": "8a1fc46637"
+    }, 
+    {
+        "sentence": "With the requisite preparatory work, the possibility of creating a dynamic PPP in the area of critical information infrastructure protection will be investigated, and which will: .", 
+        "sentence_id,": "9570162811"
+    }, 
+    {
+        "sentence": "contribute to the development of trust between the public and private sectors in the area of network and information security, .", 
+        "sentence_id,": "cb4ad34383"
+    }, 
+    {
+        "sentence": "create a safe cooperation framework to achieve common security goals, .", 
+        "sentence_id,": "7a9dcb4fb0"
+    }, 
+    {
+        "sentence": "facilitate the exchange of information related to new threats in cyberspace and solutions for their avoidance, .", 
+        "sentence_id,": "889f735b85"
+    }, 
+    {
+        "sentence": "allow cooperation in research and innovation in related topics, .", 
+        "sentence_id,": "9f70231ab8"
+    }, 
+    {
+        "sentence": "help to set ambitious but feasible targets for the realising the vision of the Strategy, .", 
+        "sentence_id,": "05392fefe6"
+    }, 
+    {
+        "sentence": "cooperate with PPPs in other member states of the European Union in the same area, via active participation in related working groups.", 
+        "sentence_id,": "761e4e51bc"
+    }, 
+    {
+        "sentence": "Action 6 - Phase B Investigate the possibility of creating a dynamic PPP (Public-Private Partnership) in the area of critical information infrastructure protection in the Republic of Cyprus and promote active cooperation with international entities through participation in international fora.", 
+        "sentence_id,": "af7f0d9cbd"
+    }, 
+    {
+        "sentence": "The use of the PPP to foster trust between the State and private sector will be of primary importance.", 
+        "sentence_id,": "ea69b7b25b"
+    }, 
+    {
+        "sentence": "3.6 Identification of Critical Information Infrastructures The need for the protection of critical information infrastructures, as highlighted and explained in this document, is necessary to minimize the negative impacts and possible catastrophic consequences of malicious acts or natural disasters on infrastructure, on a national level within the Republic of Cyprus but also because of potential negative effects to other countries, as a consequence of the high levels of interconnection and interdependence between international communications networks.", 
+        "sentence_id,": "4c18167f7a"
+    }, 
+    {
+        "sentence": "The question is raised as to which particular infrastructures should be considered (and designated) as critical.", 
+        "sentence_id,": "a9fa2627cf"
+    }, 
+    {
+        "sentence": "Each stakeholder (electronic communications companies, governmental departments and services, security forces, armed forces, hospitals, financial institutions, energy and water providers, etc.)", 
+        "sentence_id,": "717827aaf7"
+    }, 
+    {
+        "sentence": "will consider their infrastructure as vitally important and the ideal situation would be the complete and total protection of all information infrastructures in the Republic of Cyprus, without exception.", 
+        "sentence_id,": "b0996c93f0"
+    }, 
+    {
+        "sentence": "However, given that such an approach is not feasible, it is necessary to identify and assess the truly critical infrastructures within the Republic of Cyprus and to target them for the best possible protection.", 
+        "sentence_id,": "74c5ffe12b"
+    }, 
+    {
+        "sentence": "These critical infrastructures will be identified and assessed based on a number of predetermined criteria.", 
+        "sentence_id,": "108a2c3759"
+    }, 
+    {
+        "sentence": "For the determination of these criteria, as well as national conditions, related activities of the European Commission and ENISA (European Network and Information Security Agency) will also be taken into consideration, with the appropriate adaptation for Cyprus.", 
+        "sentence_id,": "d617535699"
+    }, 
+    {
+        "sentence": "The public sector, as well as the private sector, must contribute to the determination and assessment of critical information infrastructures, within the boundaries of the relevant working group(s).", 
+        "sentence_id,": "b4bf2a5181"
+    }, 
+    {
+        "sentence": "The steps that will be followed for the identification of critical information infrastructures will include the following: .", 
+        "sentence_id,": "90c132daf1"
+    }, 
+    {
+        "sentence": "Determination of services that will be targeted (e.g.", 
+        "sentence_id,": "bf07d69c9b"
+    }, 
+    {
+        "sentence": "voice communications, data communications, data storage, data processing), that could be classed as critical, .", 
+        "sentence_id,": "d9f7a464bb"
+    }, 
+    {
+        "sentence": "Identification of infrastructures that are technically indispensable for the operation of these services, .", 
+        "sentence_id,": "8e0cb68060"
+    }, 
+    {
+        "sentence": "Introduction of objective criteria for the level of protection that each infrastructure element needs, with categorisation of infrastructures and the use of criteria such as the number of affected users, the sensitivity level of the information that is concentrated, stored, transmitted or processed on these infrastructures, etc.", 
+        "sentence_id,": "87e1adb1eb"
+    }, 
+    {
+        "sentence": "check the criteria with the development of scenarios that consider the disruption of operation of selected infrastructure, within the bounds of regular exercises.", 
+        "sentence_id,": "ee9f408492"
+    }, 
+    {
+        "sentence": "Action 7 - Phase A Identification and assessment of the critical information infrastructures in the republic of Cyprus, to better target activities and actions for their protection, with the contribution of both the public and private sectors.", 
+        "sentence_id,": "0e988a3598"
+    }, 
+    {
+        "sentence": "3.7 Threat Landscape Analysis Section 2.4 mentioned the general threats that can manifest in cyberspace.", 
+        "sentence_id,": "9e56a9df61"
+    }, 
+    {
+        "sentence": "It is important to note that available information on the specific mix of threats that appear in Cyprus and which can rise in the future is limited.", 
+        "sentence_id,": "289fcd05e8"
+    }, 
+    {
+        "sentence": "The protection of information infrastructures can be achieved through general measures only (to some extent), but the strategic response to threats in cyberspace will be greatly improved if the main threats that are actually present and manifest in Cyprus become known.", 
+        "sentence_id,": "494f717e54"
+    }, 
+    {
+        "sentence": "This will not only allow better targeting of response measures, but also better targeting of the most prevalent threats if the necessary protective controls are put in place gradually through a feasible implementation programme for the provisions of this Strategy.", 
+        "sentence_id,": "334d508077"
+    }, 
+    {
+        "sentence": "A comprehensive threat landscape and attack analysis is therefore necessary (including attacks that are widespread in Cyprus and other European countries), so that the improved targeting of response methods can be achieved, as discussed above.", 
+        "sentence_id,": "e510359553"
+    }, 
+    {
+        "sentence": "This analysis will be combined with the most prevalent threats that are discussed in European and other international reports for a more complete and comprehensive review.", 
+        "sentence_id,": "98dac2dcf1"
+    }, 
+    {
+        "sentence": "Action 8 - Phase B Comprehensive survey to record current threats and attacks in cyberspace that have been published in Cyprus, as well as monitoring new threats that appear in the European and international space.", 
+        "sentence_id,": "2b87696f16"
+    }, 
+    {
+        "sentence": "3.8 National Cybersecurity Framework The easiest and most effective method to achieve an acceptable level of security in all critical information infrastructures in the Republic of Cyprus is to develop a National Cybersecurity Framework, which will be used as the basis for the protection of critical information infrastructures, and for information assurance.", 
+        "sentence_id,": "645188cd0f"
+    }, 
+    {
+        "sentence": "This framework must be developed based on international security standards and include the following (among others): .", 
+        "sentence_id,": "200124ca3d"
+    }, 
+    {
+        "sentence": "Governance and risk management .", 
+        "sentence_id,": "8bf5a96e99"
+    }, 
+    {
+        "sentence": "Vulnerability assessment .", 
+        "sentence_id,": "7e5c6a7bec"
+    }, 
+    {
+        "sentence": "Regular penetration testing .", 
+        "sentence_id,": "eb1e790423"
+    }, 
+    {
+        "sentence": "Management of physical spaces, hardware and software .", 
+        "sentence_id,": "e53f9b0277"
+    }, 
+    {
+        "sentence": "Appropriate staff authorisation .", 
+        "sentence_id,": "1800523ed6"
+    }, 
+    {
+        "sentence": "Physical security and environmental management .", 
+        "sentence_id,": "2260d41141"
+    }, 
+    {
+        "sentence": "Making use of CERTs for incident management (see section 3.9) .", 
+        "sentence_id,": "c31a8a0e3b"
+    }, 
+    {
+        "sentence": "Continuous monitoring of electronic communications for malicious attacks to determine incidents in progress.", 
+        "sentence_id,": "ed7794c5a0"
+    }, 
+    {
+        "sentence": "This Framework must be adopted by all operators of critical information infrastructures, and must also be examined for adoption by all government departments and other important organisations in Cyprus.", 
+        "sentence_id,": "b4a77a24a4"
+    }, 
+    {
+        "sentence": "To achieve this target, the National Cybersecurity Framework will be developed in such a way so that it can be promoted within the remainder of the private sector, for the optimum protection of all those that use electronic communications services.", 
+        "sentence_id,": "30f131239b"
+    }, 
+    {
+        "sentence": "Action 9 - Phase B Development of a National Cybersecurity Framework which will promote the protection of critical information infrastructures in the Republic of Cyprus, as well as governmental departments and services.", 
+        "sentence_id,": "bd77b63cae"
+    }, 
+    {
+        "sentence": "It should be noted that the specific targets that will be set for the protection levels for these technologies and systems will be determined based on appropriate risk analysis and balancing these levels with the associated cost of implementing specific controls to respond to threats in cyberspace.", 
+        "sentence_id,": "75bcb0e7ff"
+    }, 
+    {
+        "sentence": "A usual method used is to keep the related annual costs below the annual estimated cost of damages or losses if these threats were to manifest on information and communications networks and systems.", 
+        "sentence_id,": "8cf9c2dc31"
+    }, 
+    {
+        "sentence": "3.9 Incident Response Ensuring the full functionality of Computer Emergency Response Teams (CERTs/CSIRTs) within Cyprus is an integral and vital part of this Strategy, and also of meeting our commitments as a nation.", 
+        "sentence_id,": "a13045acc1"
+    }, 
+    {
+        "sentence": "The main functions of a CERT are the prevention of serious incidents related to network and information security, as well as the immediate and appropriate response to such incidents when they occur.", 
+        "sentence_id,": "5c3fcc088f"
+    }, 
+    {
+        "sentence": "It is emphasised that for the correct operation of a CERT/CSIRT, the following are required: (a) necessary infrastructure and (b) staffing with appropriately trained (to a very high level) personnel.", 
+        "sentence_id,": "c815cc0628"
+    }, 
+    {
+        "sentence": "A basic prerequisite for such services to operate effectively is strong support from the State.", 
+        "sentence_id,": "64c885b34b"
+    }, 
+    {
+        "sentence": "The cooperation between CERTs/CSIRTs that operate in each member state lies within the framework of European cooperation in the area of information security.", 
+        "sentence_id,": "8f8a868fa0"
+    }, 
+    {
+        "sentence": "Given the target of integrating Cypriot CERTs/CSIRTs into these cooperation mechanisms, their full functionality must be ensured so that they may gain the necessary certifications to allow their participated in relevant European working groups.", 
+        "sentence_id,": "295ab5932a"
+    }, 
+    {
+        "sentence": "Action 10 - Phase A Ensure the full functionality of Computer Emergency Response Teams (CERTs/CSIRTs), with immediate priority for the operation of the Governments CERT/CSIRT.", 
+        "sentence_id,": "a62673769f"
+    }, 
+    {
+        "sentence": "Necessary certifications and memberships will be obtained to allow their participation in relevant European working groups.", 
+        "sentence_id,": "2225163d60"
+    }, 
+    {
+        "sentence": "Action 11 - Phase B Assessment by OCECPR, in cooperation with the CERTs/CSIRTs, of expanding their activities or creating new CERTs/CSIRTs to cover the needs of the private sector and the business community.", 
+        "sentence_id,": "05f495fd42"
+    }, 
+    {
+        "sentence": "The development of this cooperation, and especially of associated trust, is of the utmost importance.", 
+        "sentence_id,": "d18743c52b"
+    }, 
+    {
+        "sentence": "However, it is not enough to just create the necessary cooperation mechanisms, if these mechanisms are not assessed and tested on a regular basis, especially via the emulation of crisis situations.", 
+        "sentence_id,": "376d8196a7"
+    }, 
+    {
+        "sentence": "The completion of such exercises has proven to be a very valuable tool for ensuring the readiness levels of the competent authorities to handle a potential crisis, e.g.", 
+        "sentence_id,": "6833561ffb"
+    }, 
+    {
+        "sentence": "the loss of a significant part of a large communications network.", 
+        "sentence_id,": "05d93e1bb1"
+    }, 
+    {
+        "sentence": "Exercises that have been conducted so far in other member states, and also on a pan-European level, have shown that the mechanisms to face such a crisis already exist; the missing piece of the puzzle is usually the cooperation and coordination modalities between the competent authorities involved, i.e.", 
+        "sentence_id,": "508c7f868b"
+    }, 
+    {
+        "sentence": "who will communicate with whom in a crisis situation, how can rapid cooperation between the involved authorities specifically be achieved, etc.", 
+        "sentence_id,": "1e93dea3eb"
+    }, 
+    {
+        "sentence": "The need for completing cyber exercises that involve handling realistic scenarios (where the players involved have no a priori knowledge of the events that are to follow) has been recognised on the European level and the first pan-European cyber exercise (Cyber Europe 2010) has already taken place.", 
+        "sentence_id,": "714cbac01a"
+    }, 
+    {
+        "sentence": "The Republic of Cyprus has much to gain for organising and actively participating in such cyber exercises.", 
+        "sentence_id,": "1b94c09544"
+    }, 
+    {
+        "sentence": "Naturally, this gain is maximised with the organisation of similar national exercises with realistic scenarios.", 
+        "sentence_id,": "d4536f9310"
+    }, 
+    {
+        "sentence": "The completing of such exercises will contribute to the maximisation of the Republics readiness levels to withstand significant events in the area of network and information security that could potentially affect a large part of the population.", 
+        "sentence_id,": "7d6af6a49e"
+    }, 
+    {
+        "sentence": "It is noted that the element of confidentiality must be taken into account during all cooperation and exchange of information and experiences with international organisations and working groups, as described in section 3.3 regarding the formation of the working groups.", 
+        "sentence_id,": "bc5a5a836c"
+    }, 
+    {
+        "sentence": "Action 12 - Phase A Planning and organisation of regular national cybersecurity exercises, with increasingly realistic scenarios, as well as active participation in pan-European and other international cyber exercises.", 
+        "sentence_id,": "f677cec6ff"
+    }, 
+    {
+        "sentence": "3.11 Training and Capability Development The appropriate technical training and development of capabilities in the cyberspace security area is a necessary prerequisite for the smooth operation of security systems, as well as for the correct implementation of any actions related to this theme.", 
+        "sentence_id,": "483ace3ff2"
+    }, 
+    {
+        "sentence": "The development of such capabilities is of major importance and the target is to create a suitable workforce, both within and outside of the public sector, which will have the necessary technical know-how and experience to implement the provisions of this Strategy.", 
+        "sentence_id,": "9d15576f3f"
+    }, 
+    {
+        "sentence": "As such, the government will support the appropriate personnel training in the area of electronic security, via the following actions: .", 
+        "sentence_id,": "8c170db650"
+    }, 
+    {
+        "sentence": "Identification of appropriate (and available) training programmes and certifications, .", 
+        "sentence_id,": "35a373aeff"
+    }, 
+    {
+        "sentence": "Promote the uptake of such programmes within the government, .", 
+        "sentence_id,": "cc24936433"
+    }, 
+    {
+        "sentence": "Creation of a suitable workforce with the necessary specialised knowledge, .", 
+        "sentence_id,": "156a4fa64f"
+    }, 
+    {
+        "sentence": "Inclusion of relevant certifications and experience into job descriptions that relate to electronic security, .", 
+        "sentence_id,": "583bbb46a3"
+    }, 
+    {
+        "sentence": "Support activities in Cypriot higher education institutions in the area of network and information security, through the inclusion of electronic security topics in their curricula and the institution of related research programmes.", 
+        "sentence_id,": "37dfd71621"
+    }, 
+    {
+        "sentence": "It is noted that this action refers to the education and training of professionals in the area of cybersecurity and not in awareness raising measures for the public (see section 3.12).", 
+        "sentence_id,": "694a9ca0be"
+    }, 
+    {
+        "sentence": "Action 13 - Phase B Development of suitable human resources that will have the necessary technical know-how and certifications to implement the provisions of this Strategy to a high level, in the mid- and long-term, and inclusion of these skills and certifications into the job descriptions for related positions.", 
+        "sentence_id,": "51b9c2af1c"
+    }, 
+    {
+        "sentence": "3.12 Security Culture (Awareness) The dimensions of potential threats to cybersecurity, as discussed in section 2.4, clearly show that this issue concerns all users of information infrastructures, given that any connected computer could serve as an entry point or malicious and/or harmful elements to local cyberspace.", 
+        "sentence_id,": "b3efb15a8c"
+    }, 
+    {
+        "sentence": "This includes the vast majority of the citizens of the Republic of Cyprus, given that most of them today makes use of the Internet on a regular basis.", 
+        "sentence_id,": "f433f970e5"
+    }, 
+    {
+        "sentence": "It is very important for Internet users, as well as users of IT systems in every workplace have a satisfactory level of knowledge/awareness regarding the potential threats that they must protect themselves from.", 
+        "sentence_id,": "904ed33d27"
+    }, 
+    {
+        "sentence": "The Republic of Cyprus will promote a National Awareness Programme for cybersecurity matters, which will include the following: .", 
+        "sentence_id,": "1fdde8f89a"
+    }, 
+    {
+        "sentence": "Creation of informational material, as well as use of existing (and available) material from external sources (e.g.", 
+        "sentence_id,": "2a5473248e"
+    }, 
+    {
+        "sentence": "ENISA), for citizens regarding safe and secure Internet use, with a focus on the protection of personal data, ethical behaviour in cyberspace and protection of children on the Internet, .", 
+        "sentence_id,": "a5969cd63b"
+    }, 
+    {
+        "sentence": "Distribution of this informational material through multiple media, e.g.", 
+        "sentence_id,": "8ea6b1c7b1"
+    }, 
+    {
+        "sentence": "television, radio, SMS, websites, leaflets/booklets, lectures, etc.", 
+        "sentence_id,": "8cd4e2ecf4"
+    }, 
+    {
+        "sentence": "Development of small duration training seminars for working professionals, .", 
+        "sentence_id,": "7c77bd5d96"
+    }, 
+    {
+        "sentence": "Development of specialised training seminars for governmental users of IT systems that contain sensitive and/or classified information, .", 
+        "sentence_id,": "5b217ceccf"
+    }, 
+    {
+        "sentence": "Promotion of the development of a positive security culture in all government departments and services, as well as in private businesses.", 
+        "sentence_id,": "9d06201c38"
+    }, 
+    {
+        "sentence": "Action 14 - Phase B Development of a comprehensive National Awareness Programme for cybersecurity matters, covering all users of electronic systems, from governmental workers to citizens of the State.", 
+        "sentence_id,": "14ac7e675a"
+    }, 
+    {
+        "sentence": "Reaching the appropriate level of knowledge and awareness in Cyprus, combined with the development of skilled human resources for key positions, will contribute significantly in the long run to securing IT systems that are part of cyberspace.", 
+        "sentence_id,": "e30bc7f094"
+    }, 
+    {
+        "sentence": "3.13 Cooperation with External Agencies and International Working Groups As has been discussed extensively previously in section 3.5, cooperation of the main body responsible for ensuring the security of cyberspace in the Republic of Cyprus with other stakeholders is not merely a choice, but has become absolutely necessary to achieve the required targets and results.", 
+        "sentence_id,": "2cb740bb9c"
+    }, 
+    {
+        "sentence": "Problems and threats in cyberspace cannot be fully mitigated by a single country alone, and as such, constructive cooperation between states on the European level is required.", 
+        "sentence_id,": "e742346ec8"
+    }, 
+    {
+        "sentence": "The Republic of Cyprus, through the activities of OCECPR and of the other competent authorities, is already represented to a high degree at most relevant working groups and international fora which operate under the auspices of the European Commission and of ENISA.", 
+        "sentence_id,": "60042e3af4"
+    }, 
+    {
+        "sentence": "The continued representation of the Republic of Cyprus at such fora and working groups is an integral part of this Strategy, with the target of active participation and contribution of Cyprus to significant decisions that are made via the work of these groups.", 
+        "sentence_id,": "21d53b1c13"
+    }, 
+    {
+        "sentence": "Close ties will be created with respective competent authorities in other member states of the European Union, and these ties will be leveraged for the continuous development and improvement of the strategic response capabilities of the Republic of Cyprus in cybersecurity.", 
+        "sentence_id,": "a867300304"
+    }, 
+    {
+        "sentence": "Full support of actions and activities, that aim to improve the cybersecurity levels of European information infrastructures, as well as participation in other international activities and related groups7, will also be continued.", 
+        "sentence_id,": "2663b2a7a3"
+    }, 
+    {
+        "sentence": "IMPACT (International Multilateral Partnership Against Cyber Threats).", 
+        "sentence_id,": "e54cdbfd30"
+    }, 
+    {
+        "sentence": "It is noted that the element of confidentiality must be taken into account during all cooperation and exchange of information and experiences with international organisations and working groups, as described in section 3.3 regarding the formation of the working groups.", 
+        "sentence_id,": "f7fcb45923"
+    }, 
+    {
+        "sentence": "Action 15 - Phase A The Republic of Cyprus will continue to build upon its constructive cooperation with the rest of the European Union member states, through its representation and active contributions to relevant working groups and fora.", 
+        "sentence_id,": "e56e10ebba"
+    }, 
+    {
+        "sentence": "This cooperation will support the actions and activities on a Union level to improve the level of cybersecurity in the whole of Europe.", 
+        "sentence_id,": "e81b63aac7"
+    }, 
+    {
+        "sentence": "3.14 Development of a National Contingency Plan for Critical Information Infrastructures The measures and actions that have been discussed in preceding sections will contribute, to a large extent, to the improvement of cybersecurity in the Republic of Cyprus, including both the public and private sectors.", 
+        "sentence_id,": "8f3b5e7d59"
+    }, 
+    {
+        "sentence": "The implementation of all of the actions in an organised and effective way will help reach the target of a safer and more secure information society.", 
+        "sentence_id,": "4021bfba52"
+    }, 
+    {
+        "sentence": "However, no technological system or set of measures and actions, regardless of how comprehensive they are, will be able to protect cyberspace to an absolute degree, especially the critical information infrastructures of any country.", 
+        "sentence_id,": "097cf23671"
+    }, 
+    {
+        "sentence": "Bearing this in mind, it is essential to develop a National Contingency Plan for Critical Information Infrastructures.", 
+        "sentence_id,": "f74cb13e05"
+    }, 
+    {
+        "sentence": "The target of this plan will be to guide and develop detailed processes and measures that will be taken when a large scale crisis affects the operations of critical information infrastructures (as will be defined and identified in the relevant action described in section 3.6) in the Republic of Cyprus to a significant degree.", 
+        "sentence_id,": "fd11d484c0"
+    }, 
+    {
+        "sentence": "The creation and development of the National Contingency Plan will be performed in tandem with the identification of critical information infrastructures in the Republic of Cyprus, and will include the following activities: .", 
+        "sentence_id,": "13e2b99c1f"
+    }, 
+    {
+        "sentence": "Designation of categories and hierarchies of critical infrastructures, based on their contribution to the operation of vital communications and information services, .", 
+        "sentence_id,": "e6056e960d"
+    }, 
+    {
+        "sentence": "Designation of the level of protection required for each part of this infrastructure (e.g.", 
+        "sentence_id,": "84b97035ad"
+    }, 
+    {
+        "sentence": "redundancy, alternative routes, physical security, etc.)", 
+        "sentence_id,": "d08954e05e"
+    }, 
+    {
+        "sentence": "to minimise the effects of its potential damage or destruction, .", 
+        "sentence_id,": "ef459cfd12"
+    }, 
+    {
+        "sentence": "Development of early warning systems and processes to monitor critical infrastructures, potentially with the help of the CERTs, .", 
+        "sentence_id,": "0ef83cee15"
+    }, 
+    {
+        "sentence": "Creation of (or improvement of already existing) emergency communications networks which are independent from the main networks, and if possible, using alternative means of communication entirely (e.g.", 
+        "sentence_id,": "3efb4a2f3b"
+    }, 
+    {
+        "sentence": "wired, mobile and satellite networks), .", 
+        "sentence_id,": "3f670907f6"
+    }, 
+    {
+        "sentence": "Development of comprehensive communications and management processes, between critical information infrastructure operators, for the handling of a potential crisis and to achieve constructive collaboration between them, .", 
+        "sentence_id,": "9a2908f470"
+    }, 
+    {
+        "sentence": "Organisation of regular national cyber exercises with realistic crisis scenarios (see section 3.10) to test and improve the processes developed above, .", 
+        "sentence_id,": "321db9208a"
+    }, 
+    {
+        "sentence": "Identification of all the critical information infrastructures that are connected to other countries, or which provide services that could affect information infrastructures in other countries, .", 
+        "sentence_id,": "db97415d00"
+    }, 
+    {
+        "sentence": "Identification of available resources in terms of equipment and infrastructure, where deemed useful or necessary, between the relevant departments and services, and the creation of synergies for covering each others resources and services in emergencies.", 
+        "sentence_id,": "b0f7443e89"
+    }, 
+    {
+        "sentence": "ENISA has prepared a comprehensive document8 which describes best practices for the development of National Contingency Plans for critical information infrastructures, and which will be taken into account for the development of the related plan for the Republic of Cyprus; it emphasises the importance of a comprehensive cybersecurity and protection of critical information infrastructures strategy as a basis.", 
+        "sentence_id,": "f8ceed9158"
+    }, 
+    {
+        "sentence": "It is noted that these above provisions, where needed, will be leveraged for the contribution of Cyprus to the development of a wider European Contingency Plan for the protection of European critical information infrastructures, whose abnormal operation would have negative impact in more than one member state.", 
+        "sentence_id,": "785b238c51"
+    }, 
+    {
+        "sentence": "8ENISA Good Practice Guide on National Contingency Plans for Critical Information Infrastructure Action 16 - Phase A Development of a National Contingency Plan, which will contain detailed processes and measures that will be taken when a large scale crisis affects the operations of critical information infrastructures in the Republic of Cyprus to a significant degree, with the aim of maintaining their operation at an acceptable minimum level until full restoration.", 
+        "sentence_id,": "dd759aeb4d"
+    }, 
+    {
+        "sentence": "3.15 Interdependencies This Strategy places special emphasis on the interdependencies and interactions between the actions that are described, even though each one has its own specific and separate targets, for its successful completion.", 
+        "sentence_id,": "3b8902d46f"
+    }, 
+    {
+        "sentence": "The strategic response to threats against network and information security must be approached in a holistic fashion and it needs to be understood that many of these actions have to be implemented in combination, with the target of maximal success of such a strategic response.", 
+        "sentence_id,": "840dc7a55a"
+    }, 
+    {
+        "sentence": "Interdependencies are also evident in other levels of this response.", 
+        "sentence_id,": "8dcce760b7"
+    }, 
+    {
+        "sentence": "As can be seen in section 2.3, there are a number of competent authorities handling different aspects of security, each one with its own areas of responsibility.", 
+        "sentence_id,": "d4a8f9a6b0"
+    }, 
+    {
+        "sentence": "Despite the fact that duplication needs to be avoided, all interdependencies must be recognised and the cooperation between these authorities must be ensured so that the specialised knowledge and capabilities within each authority can be leveraged to maximum effect.", 
+        "sentence_id,": "a19b1328b1"
+    }, 
+    {
+        "sentence": "These interdependencies are large in number, and so it is necessary to identify and study them, as well as incorporate them into any future actions or response plans that may be developed.", 
+        "sentence_id,": "ca4e2743d8"
+    }, 
+    {
+        "sentence": "In addition to this, operators of critical information infrastructures must explore, as part of their activities to manage threats and risks and for the development of business continuity plans, the interdependencies that they have for the secure management of their infrastructures, at all levels.", 
+        "sentence_id,": "79c35ccc44"
+    }, 
+    {
+        "sentence": "In other words, the following questions needs to be answered: .", 
+        "sentence_id,": "417e66ebf9"
+    }, 
+    {
+        "sentence": "On whom does the business depend in relation to security?", 
+        "sentence_id,": "e9b9bcd37f"
+    }, 
+    {
+        "sentence": "Who depends on the business in relation to security?", 
+        "sentence_id,": "8c4eb8ed9f"
+    }, 
+    {
+        "sentence": "It is noted that an initial depiction of the interdependencies between the actions described in this document can be found in Appendix II.", 
+        "sentence_id,": "db7e8d8196"
+    }, 
+    {
+        "sentence": "Action 17 - Phase A/B Identification and study of the interdependencies that exist for the implementation of this Strategy.", 
+        "sentence_id,": "cd977293b8"
+    }, 
+    {
+        "sentence": "These interdependencies will initially be identified as existing in the relationships between the actions themselves, the relationships between the competent authorities of the State, and the relationships between the critical infrastructure operators with their suppliers, customers and staff.", 
+        "sentence_id,": "991f0973cc"
+    }, 
+    {
+        "sentence": "These interdependencies must be recognised and accepted by all relevant stakeholders.", 
+        "sentence_id,": "30ed934c37"
+    }, 
+    {
+        "sentence": "NEXT STEPS 4.1 Immediate Actions Phase A It has been deemed necessary that a number of the actions, that have been identified and described in this document, need to start immediately, independently of the implementation of the remaining provisions of the strategic response.", 
+        "sentence_id,": "a47abd7d76"
+    }, 
+    {
+        "sentence": "Taking into account the activities that are prioritised in section 3.2, and their associated actions described herein, the following activities must begin in 2012: the identification of critical information infrastructures (section 3.6), the development of a National Contingency Plan for these infrastructures (section 3.14), ensuring the full operation of Computer Emergency Response Teams for incidents related to network and information security (CSIRT/CERT) and the planning and participation of Cyprus in the pan-European exercise Cyber Europe 2012 (section 3.10).", 
+        "sentence_id,": "98b85a9a38"
+    }, 
+    {
+        "sentence": "Specifically, the actions to be performed within Phase A are as follows: .", 
+        "sentence_id,": "a103e67ef4"
+    }, 
+    {
+        "sentence": "Action 1 Collaboration Framework .", 
+        "sentence_id,": "1cd82e808f"
+    }, 
+    {
+        "sentence": "Action 2 - Organisational Structure .", 
+        "sentence_id,": "36b3d212e9"
+    }, 
+    {
+        "sentence": "Action 3 (partial implementation) Creating of Working Groups .", 
+        "sentence_id,": "4736d48bec"
+    }, 
+    {
+        "sentence": "Action 5 (partial implementation) Survey of the Private Sector .", 
+        "sentence_id,": "c8b4642203"
+    }, 
+    {
+        "sentence": "Action 7 - Identification of Critical Information Infrastructures .", 
+        "sentence_id,": "c40e03ee27"
+    }, 
+    {
+        "sentence": "Action 10 Ensuring the Full Operation of the CERTs .", 
+        "sentence_id,": "0a43c6046a"
+    }, 
+    {
+        "sentence": "Action 12 National and International Exercises .", 
+        "sentence_id,": "38ea1659b6"
+    }, 
+    {
+        "sentence": "Action 15 International Cooperation .", 
+        "sentence_id,": "e4fa2061c4"
+    }, 
+    {
+        "sentence": "Action 16 - Development of a National Contingency Plan for Critical Information Infrastructures .", 
+        "sentence_id,": "fa15ae1270"
+    }, 
+    {
+        "sentence": "Action 17 (partial implementation) Modelling and Analysis of Interdependencies.", 
+        "sentence_id,": "2c1509c383"
+    }, 
+    {
+        "sentence": "This document provides synopses of the most important actions that have been identified for a coherent strategic response, so that cyberspace (and more generally the networks and information that are used on a daily basis) is secured, across the whole of Cypriot society.", 
+        "sentence_id,": "1ac2eb4b1f"
+    }, 
+    {
+        "sentence": "However, for correct implementation, each action needs to be analysed and expanded in detail, so that all associated activities can be identified.", 
+        "sentence_id,": "ec561ca161"
+    }, 
+    {
+        "sentence": "A detailed analysis of each of the actions in the strategic response will follow, as well as the identification of the resources and processes that will be needed for the implementation.", 
+        "sentence_id,": "2b626a3301"
+    }, 
+    {
+        "sentence": "4.2 Cost of Implementation In the context of detailed assessment and analysis of the individual actions, to the point to which it is feasible, the cost of implementing each action, as well as the time periods where specific budget items will be required, will be identified.", 
+        "sentence_id,": "0a4bcccb94"
+    }, 
+    {
+        "sentence": "This costing process will be undertaken in cooperation with the competent authorities, and always bearing in mind the importance of each action and range of its application, so that the costing can be as realistic as possible.", 
+        "sentence_id,": "3c68d80ef5"
+    }, 
+    {
+        "sentence": "In parallel with this costing, the actions described in this document will be prioritised (independently of their estimated cost), as to their importance and criticality in relation to the results that they are expected to provide towards a safer electronic environment in the Republic of Cyprus.", 
+        "sentence_id,": "b5c84cf6fe"
+    }, 
+    {
+        "sentence": "It is noted that this activity will be undertaken independently of the costing process for the actions that is described above.", 
+        "sentence_id,": "e067aef3ee"
+    }, 
+    {
+        "sentence": "4.3 Planning of Actions 2012 - 2015 The activities mentioned in sections 4.1 and 4.2 are important so that the correct planning of the strategic response actions can move forward, based on the resources that the State will make available for the implementation of this Strategy.", 
+        "sentence_id,": "0a82f1af76"
+    }, 
+    {
+        "sentence": "This planning will be undertaken based on the results of the detailed assessment, costing and prioritisation of the actions, so that the implementation of the Strategic Response as a whole can be achieved in the best and most effective way possible, given available resources.", 
+        "sentence_id,": "eaa292f786"
+    }, 
+    {
+        "sentence": "The result of this process will be a detailed timeline which will allow the monitoring of the implementation status of all of the current Strategys actions.", 
+        "sentence_id,": "e87bca0533"
+    }, 
+    {
+        "sentence": "4.4 Results Assessment and Strategy Review To achieve an effective strategic response, its implementation progress must be regularly and strictly reviewed.", 
+        "sentence_id,": "3f11dc97ab"
+    }, 
+    {
+        "sentence": "Towards this end, the results of the implementation of the measures and provisions included in the strategy actions will be analysed quantitatively and qualitatively accordingly.", 
+        "sentence_id,": "371c030bad"
+    }, 
+    {
+        "sentence": "A proper cybersecurity strategy cannot be considered to be a final plan; on the contrary, its implementation must be observed and updated at regular intervals.", 
+        "sentence_id,": "bd06143c09"
+    }, 
+    {
+        "sentence": "This review process needs to take into consideration the assessment results, as well as new threats that appear (and will continue to appear) in cyberspace and any other new conditions that manifest in this area.", 
+        "sentence_id,": "fa73ee8f11"
+    }, 
+    {
+        "sentence": "The detailed expansion of the strategy actions, as described in section 4.1, will include indicators and criteria for assessing the performance of each action, where feasible, and the results of this assessment will allow the proper review of the Strategy in the future, with substantial benefits to Cypriot society.", 
+        "sentence_id,": "19945adef3"
+    }, 
+    {
+        "sentence": "APPENDIX I - OVERVIEW OF STRATEGY ACTIONS .", 
+        "sentence_id,": "fcc92efffb"
+    }, 
+    {
+        "sentence": "Phase A o Phase A includes all of the actions that OCECPR is in a position to start in the immediate future with the resources that are currently available to it.", 
+        "sentence_id,": "2cfd9d8991"
+    }, 
+    {
+        "sentence": "Phase B o Phase B includes the actions that OCECPR will be in a position to coordinate once a new organisational structure has been developed, with the necessary resources to carry out the implementation of this Strategy in its entirety.", 
+        "sentence_id,": "68da21a570"
+    }, 
+    {
+        "sentence": "Action 1 - Phase A Formulation of the framework for collaboration and information exchange with OCECPR, and between public authorities, so that OCECPR will be in a position to effectively coordinate the nations strategic response in the area of cybersecurity and the protection of critical information infrastructures, as well as coordinating the actions that relate to other stakeholders in the priority areas that can be addressed immediately.", 
+        "sentence_id,": "cc33ce978b"
+    }, 
+    {
+        "sentence": "....................................................................................................................................................... 17 Action 2 - Phase A OCECPR will, at the appropriate time and in cooperation with the other competent authorities, develop a report regarding new policy for its reorganisation, so that it will be in a position to fully coordinate the efforts of the Republic of Cyprus for optimum implementation, application and supervision of all of the actions and the effective response to threats that are prevalent in cyberspace today, as well as rising threats that will appear in the future.", 
+        "sentence_id,": "8a265c9fbf"
+    }, 
+    {
+        "sentence": ".................................................................................................................. 17 Action 3 - Phase A/B Formation of working groups, with representatives from the public and private sectors (as necessary), to implement the Strategy Actions.", 
+        "sentence_id,": "d014fa0e2c"
+    }, 
+    {
+        "sentence": "................................................................................................... 18 Action 4 - Phase B Creation of an appropriate legal framework to fully support the provisions of the Cybersecurity Strategy.", 
+        "sentence_id,": "866b187002"
+    }, 
+    {
+        "sentence": "All relevant laws of the competent authorities must be assessed for any updated needs.", 
+        "sentence_id,": "bcd63e61da"
+    }, 
+    {
+        "sentence": "............................................................................................................................................................................ 18 Action 5 - Phase A/B Comprehensive survey of the private sector, for the identification of groups and stakeholders that can contribute in a positive way to the improvement of the levels of electronic security in the Republic of Cyprus, while simultaneously creating the conditions for developing close collaborative relationships.", 
+        "sentence_id,": "39f4532742"
+    }, 
+    {
+        "sentence": "....................................................................................................................................................... 19 Action 6 - Phase B Investigate the possibility of creating a dynamic PPP (Public-Private Partnership) in the area of critical information infrastructure protection in the Republic of Cyprus and promote active cooperation with international entities through participation in international fora.", 
+        "sentence_id,": "4f75338aeb"
+    }, 
+    {
+        "sentence": "The use of the PPP to foster trust between the State and private sector will be of primary importance.", 
+        "sentence_id,": "689bba59cb"
+    }, 
+    {
+        "sentence": "...................................................................................... 20 Action 7 - Phase A Identification and assessment of the critical information infrastructures in the republic of Cyprus, to better target activities and actions for their protection, with the contribution of both the public and private sectors.", 
+        "sentence_id,": "a421d7c405"
+    }, 
+    {
+        "sentence": ".................................................................................................................................................... 21 Action 8 - Phase B Comprehensive survey to record current threats and attacks in cyberspace that have been published in Cyprus, as well as monitoring new threats that appear in the European and international space.", 
+        "sentence_id,": "c036b4e164"
+    }, 
+    {
+        "sentence": ".. 21 Action 9 - Phase B Development of a National Cybersecurity Framework which will promote the protection of critical information infrastructures in the Republic of Cyprus, as well as governmental departments and services.", 
+        "sentence_id,": "66777e1da7"
+    }, 
+    {
+        "sentence": "............................................................................................................................................................................ 22 Action 10 - Phase A Ensure the full functionality of Computer Emergency Response Teams (CERTs/CSIRTs), with immediate priority for the operation of the Governments CERT/CSIRT.", 
+        "sentence_id,": "efe53f6bf3"
+    }, 
+    {
+        "sentence": "Necessary certifications and memberships will be obtained to allow their participation in relevant European working groups.", 
+        "sentence_id,": "e1fd3c9d28"
+    }, 
+    {
+        "sentence": "..................... 23 Action 11 - Phase B Assessment by OCECPR, in cooperation with the CERTs/CSIRTs, of expanding their activities or creating new CERTs/CSIRTs to cover the needs of the private sector and the business community................. 23 Action 12 - Phase A Planning and organisation of regular national cybersecurity exercises, with increasingly realistic scenarios, as well as active participation in pan-European and other international cyber exercises.", 
+        "sentence_id,": "051b5f9fa4"
+    }, 
+    {
+        "sentence": "...... 24 Action 13 - Phase B Development of suitable human resources that will have the necessary technical know- how and certifications to implement the provisions of this Strategy to a high level, in the mid- and long-term, and inclusion of these skills and certifications into the job descriptions for related positions.", 
+        "sentence_id,": "d9dd98d795"
+    }, 
+    {
+        "sentence": "............................ 24 Action 14 - Phase B Development of a comprehensive National Awareness Programme for cybersecurity matters, covering all users of electronic systems, from governmental workers to citizens of the State.", 
+        "sentence_id,": "09095db8ab"
+    }, 
+    {
+        "sentence": ".............. 25 Action 15 - Phase A The Republic of Cyprus will continue to build upon its constructive cooperation with the rest of the European Union member states, through its representation and active contributions to relevant working groups and fora.", 
+        "sentence_id,": "7bcad80d01"
+    }, 
+    {
+        "sentence": "This cooperation will support the actions and activities on a Union level to improve the level of cybersecurity in the whole of Europe.", 
+        "sentence_id,": "322f0f77d8"
+    }, 
+    {
+        "sentence": "............................................................................................... 26 Action 16 - Phase A Development of a National Contingency Plan, which will contain detailed processes and measures that will be taken when a large scale crisis affects the operations of critical information infrastructures in the Republic of Cyprus to a significant degree, with the aim of maintaining their operation at an acceptable minimum level until full restoration.", 
+        "sentence_id,": "ef4c32a944"
+    }, 
+    {
+        "sentence": "................................................................................................................... 28 Action 17 - Phase A/B Identification and study of the interdependencies that exist for the implementation of this Strategy.", 
+        "sentence_id,": "ac602f46b4"
+    }, 
+    {
+        "sentence": "These interdependencies will initially be identified as existing in the relationships between the actions themselves, the relationships between the competent authorities of the State, and the relationships between the critical infrastructure operators with their suppliers, customers and staff.", 
+        "sentence_id,": "6ad1341c91"
+    }, 
+    {
+        "sentence": "These interdependencies must be recognised and accepted by all relevant stakeholders.", 
+        "sentence_id,": "b1f3ad13a6"
+    }, 
+    {
+        "sentence": ".......................................................................... 28 APPENDIX II - ACTION INTERDEPENDENCIES The diagram below shows the indicative interdependencies between the Strategy actions.", 
+        "sentence_id,": "eb34f00094"
+    }, 
+    {
+        "sentence": "The significance of the formation of the working groups, for the correct implementation of the Strategy, is evident.", 
+        "sentence_id,": "34d6e4ecee"
+    }
+]

@@ -1,0 +1,111 @@
+[
+    {
+        "sentence_id,": "17d516fd05", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "The trend to develop information systems for industry on the basis of standard components and connect them to cyberspace, which is motivated mainly by economic concerns, entails new vulnerabilities."
+    }, 
+    {
+        "sentence_id,": "53e0c87315", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "For this reason, strengthening cyber security also requires the enforcement of international rules of conduct, standards and norms."
+    }, 
+    {
+        "sentence_id,": "9eb4e31a16", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Only a mix of domestic and external policy measures will be appropriate for the dimension of the problem."
+    }, 
+    {
+        "sentence_id,": "6ff530eb79", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Cyber security can be improved by enhancing the framework conditions for drawing up common minimum standards (code of conduct) with allies and partners."
+    }, 
+    {
+        "sentence_id,": "918b1bc1ea", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Given the global nature of information and communications technology, international coordination and appropriate networks focusing on foreign and security policy aspects are indispensable."
+    }, 
+    {
+        "sentence_id,": "7e0624290e", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "We want to provide specific incentives and funds for basic security functions certified by the state (e. g. electronic proof of identity or De-mail) to be used by the vast majority of citizens."
+    }, 
+    {
+        "sentence_id,": "bd981fd7c1", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "We will shape our external cyber policy in such a way that German interests and ideas concerning cyber security are coordinated and pursued in international organizations, such as the United Nations, the OSCE, the Council of Europe, the OECD and NATO."
+    }, 
+    {
+        "sentence_id,": "5c2982ed93", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "We are in favour of the alliances commitment to establishing uniform security standards, which Member States may also use for civilian critical infrastructures on a voluntary basis, as foreseen in NATOs new Strategic Concept."
+    }, 
+    {
+        "sentence_id,": "a2dfa4f4d4", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards", 
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "Our aim is to use components in critical security areas which are certified against an international recognized certification standard."
+    }
+]

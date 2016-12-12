@@ -1,0 +1,98 @@
+[
+    {
+        "sentence_id,": "28db15c98d", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "the national strategy on civil protection and public security, law enforcement, telecommunications, the planned strategy on national security and the Icelandic State and Municipal Policy on the Information Society 2013-2016: e-Power Expansion: create, connect, participate Strategy and action in Iceland: Taking the initiative on security The threats and challenges outlined above call for responses."
+    }, 
+    {
+        "sentence_id,": "599c2d653e", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Particular attention must be given to the protection of personal data: technical developments and standards can change very rapidly and it is important that the level of protection in Iceland is not lower than in other Nordic countries."
+    }, 
+    {
+        "sentence_id,": "4423e945b3", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "regarding security standards, coordination, identification of cyber security threats and the organisation of responses."
+    }, 
+    {
+        "sentence_id,": "15230bca55", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Cyber Security Forum Cyber Security Council Ministry of the Interior Data Protection Authority Ministry for Foreign Affairs Telecommunications (including Defence) Financial systems Information Society Project Public Adiministration Ministry of Education, Culture and Science Ministry of Industries and Innovation Utilities National Commissioner of the Icelandic Police Ministry of Finance and Economic Affairs CERT-IS Transport and communications Information technology Health services Post and Telecom Administration Universities 7 The measures planned for the first period will call for a special effort to establish the broad collaboration needed between the government and stakeholders According to the plan these measures will be reviewed annually; in subsequent periods procedure will be harmonised with normal standards of other strategy applications."
+    }, 
+    {
+        "sentence_id,": "d1ba371998", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "The challenge is similar to that in raising the level of traffic safety: There is a technical side, similar to having the highest possible standards of vehicle safety and well-constructed roads, etc."
+    }, 
+    {
+        "sentence_id,": "cae0b45b2a", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "If the subject is to thrive and develop, it will be necessary to standardise and coordinate this terminology."
+    }, 
+    {
+        "sentence_id,": "eeae69f783", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Personal data protection International standards and obligations regarding personal data protection to be taken into account when developing cyber security."
+    }, 
+    {
+        "sentence_id,": "7d6ef5d6b7", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Security yardsticks Choice of appropriate yardsticks (standards and others) for cyber security."
+    }
+]

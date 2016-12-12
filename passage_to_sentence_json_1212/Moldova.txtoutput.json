@@ -1,0 +1,1442 @@
+[
+    {
+        "sentence": "Translation Approved by the Government Decision no.", 
+        "sentence_id,": "a8a2e780eb"
+    }, 
+    {
+        "sentence": "of 2013 NATIONAL STRATEGY for information society development Digital Moldova 2020 I.", 
+        "sentence_id,": "23ce607e5e"
+    }, 
+    {
+        "sentence": "The Republic of Moldova achieved significant progress in the implementation of information society technologies, ICT contribution share to GDP in recent years has reached the level of almost 8-10%, every second citizen is an Internet user, more than half of households have at least one computer, the majority of connected households have access to broadband Internet, and the country was placed among top 20 countries in the world according to Internet access speed, the biometric passport, the ID card with electronic signature, the e-Statements system and digital map were implemented, country joined the Open Government Data initiative, the e-Transformation Governance project is running, etc.", 
+        "sentence_id,": "df6e340de2"
+    }, 
+    {
+        "sentence": "However, in international classifications the country is not placed among the advanced economies in this field, and the level and speed of information society development do not meet the current international environment requirements, in which the world is becoming even more hyperconnected1 (references are presented in the Annex no 2 to the National Strategy for Information Society Development Digital Moldova 2020) and more digitized.", 
+        "sentence_id,": "22b62dea6f"
+    }, 
+    {
+        "sentence": "The complex picture of today's digital world includes smart mobile devices and remote collaborative tools, cloud computing and tremendous change of the users' behavior, especially of the digital natives who expect services to be available anytime, anywhere and through any device.", 
+        "sentence_id,": "5dbc76b4f2"
+    }, 
+    {
+        "sentence": "These expectations require governments and public institutions to be prepared to provide and use informational services anytime, anywhere and on any equipment in a safer and secured way with fewer resources.", 
+        "sentence_id,": "07dfce80b8"
+    }, 
+    {
+        "sentence": "Advantages of digital technologies of which individuals could benefit as citizens/consumers are reduced in many countries, including the Republic of Moldova, because of the security and privacy issues, insufficient access to the Internet, a low degree of functionality, lack of required competences or service accessibility.", 
+        "sentence_id,": "ec1773d5b4"
+    }, 
+    {
+        "sentence": "Building a countrys future is unthinkable without a digital strategy that shall create opportunities to innovate and develop based on ICT technologies, yet contractors and government agencies to maximize the usage of government data services for the citizens benefit.", 
+        "sentence_id,": "3b37d688a5"
+    }, 
+    {
+        "sentence": "The European Union adopted and implements Digital Agenda for Europe Strategy, adjusting its priorities to the new circumstances (in December 2012 defined 7 priorities).", 
+        "sentence_id,": "e3fe058678"
+    }, 
+    {
+        "sentence": "Countries which occupy first places in international rankings also approved digital strategies aiming to ensure an accelerated development (USA, UK, Estonia, and Qatar, for example).", 
+        "sentence_id,": "a423050ce9"
+    }, 
+    {
+        "sentence": "The National Strategy for Information Society Development Digital Moldova 2020 (hereinafter referred to as Strategy) is aimed to create conditions through minimum state intervention but with maximum effect for information society development, focusing efforts on three pillars: -2- 1) Pillar I: Access and infrastructure improvement of connectivity and network access; 2) Pillar II: Digital content and electronic services- promoting digital content and generating services; 3) Pillar II: - Capacities and utilization- strengthening literacy and digital skills to enable innovation and stimulate usage.", 
+        "sentence_id,": "de605c32c0"
+    }, 
+    {
+        "sentence": "These three dimensions have a major favorable impact on the following three components of society: a) communities/population, that shall enjoy more comfortable and better life; b) businesses, which shall increase the level of competitiveness; c) governance, which shall improve their performances and shall provide services to the citizens anytime, anywhere and on any terminal equipment.", 
+        "sentence_id,": "e6114799b2"
+    }, 
+    {
+        "sentence": "The Strategy implementation shall be based on core principles of modern information society building, especially on principles of recognition of authenticity and legality of data from electronic registers and information systems and of the electronically performed actions.", 
+        "sentence_id,": "8ba17d9971"
+    }, 
+    {
+        "sentence": "Strategy is enclosed by an Action Plan for implementation of the National Strategy for Information Society Development Digital Moldova 2020 (annex to this Strategy), which sets out the actions and programs meant to achieve the general objective of building an advanced Information Society and the economy based on knowledge, and the integrating horizontally the priorities as well.", 
+        "sentence_id,": "84ce721b2d"
+    }, 
+    {
+        "sentence": "Even if less than a half of 177 actions of the National Strategy for Information Society Action Plan Electronic Moldova (2005) directives were fulfilled, this document had a major role in creating a favorable framework or information society technologies development and for preparing the ground for next stages.", 
+        "sentence_id,": "4244a0437a"
+    }, 
+    {
+        "sentence": "The implementation of the Strategy and the eSEE Agenda provisions resulted in tangible outcomes.", 
+        "sentence_id,": "bae80cf799"
+    }, 
+    {
+        "sentence": "During 2005-2011, various sources allocations for informatization increased substantially and reached approximately 5.36 billion lei.", 
+        "sentence_id,": "486a0106d2"
+    }, 
+    {
+        "sentence": "More than a half of population are using the Internet, more than a half of households have at least one computer connected to Internet, half of the population read newspapers online, but only one out of 10 users accesses the government web site (www.gov.md) and only one out of 20 users has accessed at least one electronic public service in the past 12 months.", 
+        "sentence_id,": "3305baeffe"
+    }, 
+    {
+        "sentence": "The necessary legislative and normative framework was created, which currently includes about 20 laws, 80 Government decisions, about 70 approved conceptual documents regarding the informational systems of public authorities, more than 20 general purpose regulatory acts and 75 with a specific purpose issued by the National Regulatory Agency for Electronic Communications and Information Technology.", 
+        "sentence_id,": "8244057aeb"
+    }, 
+    {
+        "sentence": "The Institutional framework was improved through the creation of the Ministry of Information Technology and Communications and of the specialized institutions such as the Centre for Electronic Governance and National Center for Personal Data Protection.", 
+        "sentence_id,": "3b5323cb46"
+    }, 
+    {
+        "sentence": "In 2011 the Technological Transformation Strategic Program of governance e-Transformation was adopted, supported by the World Bank.", 
+        "sentence_id,": "d333d24a35"
+    }, 
+    {
+        "sentence": "The online fiscal declarations systems, biometric passport, automated biometric border crossing systems based on electronic passports, Moldova digital map, mobile digital signature and online services as: e-Police Clearance Certificate, e-Licensing, etc.", 
+        "sentence_id,": "e43cde7b21"
+    }, 
+    {
+        "sentence": "The Interoperability framework based on the open standards and cloud computing based services is actually in the process of implementation.", 
+        "sentence_id,": "60a488f9db"
+    }, 
+    {
+        "sentence": "Despite the progress in a number of indicators, Moldova is placed far behind the countries that are among the leaders in terms of implementation and use of ICT.", 
+        "sentence_id,": "e65123d838"
+    }, 
+    {
+        "sentence": "According to the Global Competitiveness Report 2012-20137, where, according to the Index of Internet penetration in schools (KEI), Moldova is placed on 61st position out of 144 countries.", 
+        "sentence_id,": "baa228c236"
+    }, 
+    {
+        "sentence": "In Training Network Index (NRI) the Republic of Moldova is placed on 78th position out of 142 countries (Picture 1).", 
+        "sentence_id,": "d4586a7e40"
+    }, 
+    {
+        "sentence": "The Republic of Moldova in international rankings (2012) [ The source: MITC, http://www.mtic.gov.md/ Although the progress dynamics of electronic readiness is quite impressive, the Republic of Moldova falls behind as compared to the EU Member States as well as to the neighboring countries: Romania and Ukraine.", 
+        "sentence_id,": "d4659699f8"
+    }, 
+    {
+        "sentence": "The success of the Republic of Moldova Information Society future development mainly depends on the country's ability to overcome the key obstacles that currently hampers its forward development.", 
+        "sentence_id,": "ecf97d0b59"
+    }, 
+    {
+        "sentence": "In 2010, the European Council and Parliament adopted the Digital Agenda for Europe as a part of the Europe 2020 Strategy for boosting digital economy and tackling societal challenges8 by means of ICT.", 
+        "sentence_id,": "0bab48c206"
+    }, 
+    {
+        "sentence": "On December 18, 2012, the European Commission adopted new priorities for digital economy and society.", 
+        "sentence_id,": "74bc7ac234"
+    }, 
+    {
+        "sentence": "The growth rate registered by the digital economy is seven times higher than the rest of the economy9, but this potential is currently dimmed by a fragmentation of policy framework at pan-European level.", 
+        "sentence_id,": "a0d60c3fa2"
+    }, 
+    {
+        "sentence": "Full implementation of the updated Digital Agenda shall require the European GDP growth of 5% or 1500 Euro per capita over the next eight years by increasing the ICT investments, improving the computer skills levels of the workforce, facilitating public sector innovation and reforming the framework conditions for the Internet-based economy.", 
+        "sentence_id,": "d688734484"
+    }, 
+    {
+        "sentence": "The new priorities of the Digital Agenda for Europe are to: 1) create a new stable regulatory framework in the field of broadband services; 2) new infrastructures of digital public services through the Connecting Europe facility; 3) launch the Grand Coalition for promoting competences and create jobs in the digital domain; 4) draw up proposals on a strategy and a cyber-security directive at the EU level; 5) update the EU framework on copyrights; 6) boost the \"cloud computing\" system based on the public sector purchasing power; 7) launch a new industrial strategy in the electronic field.", 
+        "sentence_id,": "a91272bc11"
+    }, 
+    {
+        "sentence": "Governance: the operational e-Governance Center that implements the eGovernment Transformation project Strategic program of technological modernization of the governance; Open Government Action Plan for 2012-2013 (Government Decision no.195 of 04.04.2012), including: 1) Common M-Cloud Government Technological Platform; 2) Government Electronic Payment Service; 3) Government Interoperability Platform; 4) Paperless Government initiative - SIGEDIA; 5) Government Platform for e-Business Reporting; 6) Government platform for business permissive licenses; 7) e-Acquisitions; 8) e-Constructions; 9) e-Justice; 10) Digitization of Operational Support Systems for the Government; 11) Government data storage infrastructure.", 
+        "sentence_id,": "d326b51d0c"
+    }, 
+    {
+        "sentence": "Land register: The creation of National Geographic Information System.", 
+        "sentence_id,": "de2a25f6b0"
+    }, 
+    {
+        "sentence": "Sector competitiveness: The ICT Sector Competitiveness Strategy.", 
+        "sentence_id,": "821dfd29ca"
+    }, 
+    {
+        "sentence": "Electoral processes: the drawing up and implementation of the State automated information system Elections.", 
+        "sentence_id,": "fce8497a2e"
+    }, 
+    {
+        "sentence": "The generalization of analysis on the addressed dimensions identifies the following advantages, disadvantages, opportunities and threats in the development of the Information Society in the Republic of Moldova: INFRASTRUCTURE AND ACCESS Advantages (Strengths) 1) High speed of Internet access; 2) High technological level and a high level of mobile electronic communications services accessibility; 3) Relatively high level of electronic communications infrastructure development; 4) The legal framework for electronic communications is mainly aligned to the European Union legal framework; 5) The existence of institutional regulatory framework and of the growing regulatory capacities; 6) Competition on mobile telephony sector and Internet ; 7) Advantageous geographical location of the Republic of Moldova; 8) Mobile telephony and Internet access segment are developing quite fast and the majority of fixed Internet connections are made via broadband.", 
+        "sentence_id,": "354e3d92db"
+    }, 
+    {
+        "sentence": "Disadvantages (Weaknesses) 1) Access gap between urban and rural areas; 2) Broadband connectivity is not present on the entire territory at the required speed; 3) Too high prices in relation to GDP/ per capita; 4) Underdeveloped usage capacity of existing electronic communications infrastructure (lack of infrastructure in some localities); 5) Low competition in local loop and broadband access to the copper loop/sub-loop services; 6) The absence of Mobile Virtual Network Operators (MVNO); 7) Misuse of the transit capacities throughout the territory of the country; 8) Restricted access (mainly by prices) to the historical operator of the associated infrastructure (especially to the sewerage system); 9) Associated infrastructure (pillars, sewerage system and other) is inadequately divided ; 10) Outdated regulations of the construction industry regarding the electronic networks placement; 11) Limited access to associated infrastructure and local loop, interconnection tariffs are not cost-oriented, historical operator tariffs non-rebalancing ; 12) Low Broadband Internet penetration comparing to EU average.", 
+        "sentence_id,": "70af24d70c"
+    }, 
+    {
+        "sentence": "Opportunities Threat (risks) 1) Legislative and regulatory framework 1) Low level of the GDP; improvement and its harmonization with EU 2) Crisis prolongation and decrease of investments capacities; regulations; 3) Failing to recover investments in rural areas; 2) Fast extension of Internet use in the society 4) Political evolutions; (more than a half of population use it); 5) Corruption and bureaucracy; 3) Republic of Moldova is a testing ground for 6) Continuation of political factor involvement in the operational new mobile communications technologies; management of the state institutions and enterprises; 4) Use of the digital dividend.", 
+        "sentence_id,": "518b791095"
+    }, 
+    {
+        "sentence": "7) Violation of the radio frequency spectrum policy, of the National table of frequency band allocation (NTFBA) and National electronic numbering plan (NENP) by the Transnistrean region [ f a r D ] t CONTENT AND SERVICES Advantages (Strengths) 1) The Government of the Republic of Moldova adopted the direction for EU integration, including alignment to EU standards in the ITC sector; 2) Implementation of joint M-Cloud platform for e-Governance and implementation of the Interoperability Framework; 3) Open Government Data Initiative; 4) Launching of the mobile digital signature; 5) Issuance of electronic ID card.", 
+        "sentence_id,": "2ed2d4259a"
+    }, 
+    {
+        "sentence": "Disadvantages (weaknesses) 1) Limited availability of local information content and of relevant public applications; 2) Small number of electronic services and lack of local digital content; 3) Legal and regulatory framework is not yet entirely adjusted to new realities of the digital era; 4) Lack of the management framework of the digital content life cycle; 5) The interoperability framework is still not functional; -6- 6) Existence of a unique electronic signature type digital one; 7) Low level of digital signature usage; 8) Low number of services that accept online payments; 9) Low population confidence in online payments; 10) The Republic of Moldova has an economy mainly based on cash payments; 11) Lack of measuring instruments for local digital content volume; 12) Low ITC skills level of the public sector employees; 13) Low level of ITC use by the population and business; 14) Relatively small market for the digital content.", 
+        "sentence_id,": "f47550ad08"
+    }, 
+    {
+        "sentence": "Opportunities Threats (risks) 1) Increase of the broadband connection 1) Low GDP level; coverage 2) Ongoing economic crisis and remittances decline which can encourages content development; reduce the ability to pay for services; 2) Improving high-tech image of the Republic 3) Natural endurance of officials to the change of working of processes, including technological modernization; Moldova; 4) Public administration employees do not realize the 3) The use of governmental cloud; opportunity of informatization policies of the working processes; 4) An increasing number of worldwide 5) Small and fragmented electronic commerce internal market; guidelines of good practices; 6) The increase of cybernetic crimes number reduces the users 5) Opportunities of collaboration and first confidence; source information (UK, USA, Singapore, South 7) The massive use of cash boosts the shadow economy and Korea, etc.", 
+        "sentence_id,": "0ba7529f67"
+    }, 
+    {
+        "sentence": "6) Electronic commerce in development; 7) Promotion of electronic payment instruments, including the payment of services rendered by the public services providers.", 
+        "sentence_id,": "f7dc0d303f"
+    }, 
+    {
+        "sentence": "r D f a ] t CAPACITIES AND USE Advantages (Strengths) 1) Relatively high rate of workforce employed in knowledge-intensive sectors; 2) Large number of ICT graduates; 3) Multilingual human resources with a highly qualified potential.", 
+        "sentence_id,": "75b9293a45"
+    }, 
+    {
+        "sentence": "[ Opportunities 1) Availability to provide assistance (including financial) by the International financial institutions/organisms; 2) International scholarships available for talented young people; 3) Collaboration and training opportunities for Disadvantages (weaknesses) 1) Low level of population digital literacy; 2) Graduates of educational institutions have no appropriate practical skills to work in an information society; 3) The deficit of qualified ICT teachers in schools; 4) Low level of educational software supply of the educational institutions; 5) Low level of open source software use; 6) ICT curriculum is outdated and there is no institutionalized process for its regular updating; 7) Nomenclature of vocational training areas of the staff training specialties in higher education institutions and the Qualification framework fails to satisfy existing market demand; 8) Lack of normative framework for distance training; 9) Low level of the ICT skills of public sector employees; 10) Lack of express provision in normative acts concerning the digital skills requirements for the employment in a public institution; 11) Low level of ICT use by business and population; 12) Lack of motivation mechanisms for teaching staffs of general, technical-vocational and higher education, in the widespread use of the ICT instruments in the teaching-learningevaluation process.", 
+        "sentence_id,": "5ab4aedaec"
+    }, 
+    {
+        "sentence": "Threats 1) Low level of the GDP; 2) Labor force emigration and brain drain; 3) Manifestation of corruption in the education sector; 4) Difficulties in the economic development of the country.", 
+        "sentence_id,": "6cb6028e7c"
+    }, 
+    {
+        "sentence": "-7- specialist in the mostly advanced ICT and eGovernance countries (UK, USA, Singapore, South Korea, etc.", 
+        "sentence_id,": "aa7b35b853"
+    }, 
+    {
+        "sentence": "); 4) New Education Code is under development.", 
+        "sentence_id,": "875670e2f3"
+    }, 
+    {
+        "sentence": "The strategic approach consists of using advantages, overcoming weaknesses by transforming opportunities into advantages and mitigating the identified risks and threats.", 
+        "sentence_id,": "dd3195ee7e"
+    }, 
+    {
+        "sentence": "The main access and penetration indices: 1) mobile telephony 119,7% (covering 99% of the territory / EU 128%); 2) fixed telephony 33,87% / EU 43%; 3) broadband fixed Internet 11,72% / EU-27,2%; 4) Internet via mobile networks (modems/cards) 4,7% / EU-7,5%; 5) households broadband Internet connection 35%; These indices confirm a substantial gap in comparison with the EU countries average.", 
+        "sentence_id,": "89e5d76f33"
+    }, 
+    {
+        "sentence": "The difference is due to the investments which have been made in the redundant infrastructures with a low use of existing capacities.", 
+        "sentence_id,": "234972d1fd"
+    }, 
+    {
+        "sentence": "The limited access (especially by prices) to the associated infrastructure (mainly to ducts) of the historical operator restricts the access of other operators, thus installation of the overhead cables being a cheaper solution.", 
+        "sentence_id,": "c27e5805dd"
+    }, 
+    {
+        "sentence": "In most cases associated infrastructure (pillars, ducts, etc.)", 
+        "sentence_id,": "6f7b7bd408"
+    }, 
+    {
+        "sentence": "is not divided, fact that leads to a longer investments return period and high network maintenance costs, and therefore restrict technological development opportunities and increase prices levels for the final users.", 
+        "sentence_id,": "158a1b8dd9"
+    }, 
+    {
+        "sentence": "A long-run solution is needed to streamline the existing associated administrative infrastructure that shall be proposed based on a detailed analysis of the options, including the separation of infrastructure entity from the retail service providers.", 
+        "sentence_id,": "2e8ad2052a"
+    }, 
+    {
+        "sentence": "Although the Republic of Moldova is among the top 20 countries in the world by Internet access speed10, the broadband connectivity required to meet present and future needs of the country isnt available throughout the entire territory of the country.", 
+        "sentence_id,": "435e65601c"
+    }, 
+    {
+        "sentence": "About 30% of rural areas still do not have broadband access.", 
+        "sentence_id,": "16c901536d"
+    }, 
+    {
+        "sentence": "Because of the construction industry regulations focused on a single provider of electronic communications services, apartment buildings have not set distribution channels/networks for Internet access and in some blocks are installed a significant number of cables, which deteriorates the interior and exterior aspect of the buildings.", 
+        "sentence_id,": "dc0d62fefe"
+    }, 
+    {
+        "sentence": "According to the annual national survey 2012 the perception, assimilation and support by the population of the e-Government transformation, conducted in November 2012 by the Institute for Public Policy and Magenta, upon the request of the Center for Electronic Governance: 16% of users practice electronic commerce, 8% use Internet banking services.", 
+        "sentence_id,": "e22e2e2984"
+    }, 
+    {
+        "sentence": "About 63% of the users download digital content, 33% use Internet for education and training, 16% execute procurement and command of some services provided by privet institutions and access web pages of the central public institutions, while only 1 out of 20 uses Internet for accessing electronic public services.", 
+        "sentence_id,": "f894b0d9d7"
+    }, 
+    {
+        "sentence": "Digital content and services are key factors that offer benefits to society and the economy of any country and represent a major source of potential workplaces and economic growth.", 
+        "sentence_id,": "61ac8fb118"
+    }, 
+    {
+        "sentence": "There is no universally accepted definition of digital content.", 
+        "sentence_id,": "5e08cf6e7f"
+    }, 
+    {
+        "sentence": "This Strategy defines the digital content as any information in electronic format submitted to the following processes: creation, collection, management, processing, storage, distribution, access, use and re-use, abolition.", 
+        "sentence_id,": "ee34dd23f5"
+    }, 
+    {
+        "sentence": "The most important content for the users is usually that which is in their native language and relevant to the communities in which they live and work.", 
+        "sentence_id,": "c412fda2b5"
+    }, 
+    {
+        "sentence": "UNESCO has defined the local content\" as the expression and communication of a communitys locally generated, owned and adapted, knowledge and experience that is relevant to the communitys situation (UNESCO, 2001).", 
+        "sentence_id,": "3012592a59"
+    }, 
+    {
+        "sentence": "The citizens of the Republic of Moldova face a shortage of local digital content and a low number of electronic services.", 
+        "sentence_id,": "26969d98b9"
+    }, 
+    {
+        "sentence": "Thus, few services out of about 570 public government services are offered through Internet (only 5 out of 12 online basic public services for citizens, and 6 out of 8 for economic agents12).", 
+        "sentence_id,": "a012c4d199"
+    }, 
+    {
+        "sentence": "Starting from September 2012 to present, within the framework of the e-Government Transformation Project were launched e-Application for criminal record, e-Licensing (connected to the mobile signature), electronic reporting to e-CNAM and e-CNAS (connected to mobile signature), e-DNC (Normative Documents in Constructions www.ednc.gov.md), SIA the state register of public acquisitions services.", 
+        "sentence_id,": "c6f8e4b5c8"
+    }, 
+    {
+        "sentence": "At the same time, in February 2013, was officially launched the M-Cloud common government technology platform, the digitization of the Civil status service archive is in the process of implementation, SIGEDI is implemented in 9 ministries.", 
+        "sentence_id,": "ba19fc8208"
+    }, 
+    {
+        "sentence": "Recently the State Fiscal Service and Center for Electronic Governance through the medium of SE Fiscservinform optimized the process of submitting statements concerning the income tax for physical persons, connecting it to the mobile signature.", 
+        "sentence_id,": "38c7062aaf"
+    }, 
+    {
+        "sentence": "Other 7 e-services should be launched during 2013 within the frameworks of the projects managed by the Center for Electronic Governance.", 
+        "sentence_id,": "f1f1143494"
+    }, 
+    {
+        "sentence": "The Republic of Moldova demand for broadband networks was caused mainly by downloading movies and music via data exchange systems peer-to-peer (Torrents) and by using Skype, social networks Odnoklassniki, Facebook, Netlog, YouTube etc.", 
+        "sentence_id,": "953d6b8f4c"
+    }, 
+    {
+        "sentence": "Accessing mostly foreign information resources, the users of the Republic of Moldova outline the low shortage of internal resources.", 
+        "sentence_id,": "8768d91c17"
+    }, 
+    {
+        "sentence": "In order to generate more the local digital content, it is necessary to provide conditions and mechanisms for content managers, including intensive use of open data opportunities.", 
+        "sentence_id,": "109fc06055"
+    }, 
+    {
+        "sentence": "Cultural and scientific heritage is not yet digitalized.", 
+        "sentence_id,": "cd92daab86"
+    }, 
+    {
+        "sentence": "Although, the measures to digitize the values of other areas are taken15, assessment actions and interventions measures are required to speed up the process.", 
+        "sentence_id,": "5783a90a3a"
+    }, 
+    {
+        "sentence": "The Interoperability Framework Program approved by the Government in September 201217 is on the beginning of implementation and the citizen is required to submit copies of a -9- given number of documents (identity acts, certificates, etc.)", 
+        "sentence_id,": "e2bc96d539"
+    }, 
+    {
+        "sentence": "each time when requests services or concludes various acts, even if it is addressed repeatedly to the same public institution.", 
+        "sentence_id,": "004c082ed7"
+    }, 
+    {
+        "sentence": "This drives to time mismanagement, waste of paper and other materials and therefore unnecessary costs, negative environmental impact and inefficiency of the institutions activity.", 
+        "sentence_id,": "e14b834d17"
+    }, 
+    {
+        "sentence": "There is no digital content management framework during its life cycle that would ensure that the national historic content and the newly created one to be available, accessible, distributed, understandable, used and improved.", 
+        "sentence_id,": "593d536e2c"
+    }, 
+    {
+        "sentence": "Providing simple access to this content requires a comprehensive framework that shall cover all management and decision aspects throughout the digital lifecycle.", 
+        "sentence_id,": "34eef02674"
+    }, 
+    {
+        "sentence": "Enriching the content increases the number and quality of services meant for citizens.", 
+        "sentence_id,": "6766270ead"
+    }, 
+    {
+        "sentence": "The Republic of Moldova public institutions data are stored/handled in about 150 data centers, most of which do not correspond to the security conditions, durability and reliability and do not have enough qualified staff to keep them in good conditions.", 
+        "sentence_id,": "90806b6cdb"
+    }, 
+    {
+        "sentence": "Besides the risks of losing information from these centers, the annual cost of their maintenance is about 150 million lei18, which indicates an inefficient expenditure of public money.", 
+        "sentence_id,": "cf5d389c3b"
+    }, 
+    {
+        "sentence": "Access to content and services through the electronic signature.", 
+        "sentence_id,": "55300e9271"
+    }, 
+    {
+        "sentence": "Although the Law on electronic document and digital signature is into force since 2004, the digital signature is rarely used.", 
+        "sentence_id,": "446edb648b"
+    }, 
+    {
+        "sentence": "Nevertheless, the process of issuing public key certificates issued by the SE.", 
+        "sentence_id,": "09a815cef4"
+    }, 
+    {
+        "sentence": "Center of Special Telecommunications over the last period increases, these may be used in all existing electronic systems.", 
+        "sentence_id,": "6b6885e218"
+    }, 
+    {
+        "sentence": "The Mobile Electronic Signature launched in September 2012 places Moldova among the top seven countries in the world that also implements such innovative technology and the use of this tool shall safely boost access to the available electronic services.", 
+        "sentence_id,": "22d0503570"
+    }, 
+    {
+        "sentence": "The Electronic Identity Cards, which shall be implemented, shall facilitate the access to electronic services.", 
+        "sentence_id,": "d65cd1509c"
+    }, 
+    {
+        "sentence": "If there are more digital identity owners, the digital identity management becomes an important factor for the functionality of infrastructure and access to digital content/services.", 
+        "sentence_id,": "ce0485e6e4"
+    }, 
+    {
+        "sentence": "Although 37,7% of the country's Internet users make on-line purchases19, these procurements are mainly from abroad, even with the existing technological infrastructure, ecommerce in the Republic of Moldova is still undeveloped because of the low number of services that accept online payments.", 
+        "sentence_id,": "7d8f6cd8f3"
+    }, 
+    {
+        "sentence": "Measuring the volume of digital content is troublesome because of the lack of direct indicators.", 
+        "sentence_id,": "6751a6e359"
+    }, 
+    {
+        "sentence": "The empirical research of the Organization for Economic Cooperation and Development (OECD)26 shows that there is a strong correlation between the network infrastructure development and the growth of the local content volume.", 
+        "sentence_id,": "b87e957d0f"
+    }, 
+    {
+        "sentence": "The significant statistical correlation is evident by using different indirect measurements of local content, such as: number - 10 - of visible top-level domains by using country code per capita; Wikipedia articles in state language per capita, blogs per capita, and Internet Development Indicators (broadband penetration rates, autonomous information systems per capita, international bandwidth per capita, number of IPv4 addresses per capita).", 
+        "sentence_id,": "2f11528810"
+    }, 
+    {
+        "sentence": "In international reports27, the content accessibility rate is calculated according to the agreed algorithms and countries are rated according to the values of this indicator .", 
+        "sentence_id,": "5c10c04ae1"
+    }, 
+    {
+        "sentence": "The Republic of Moldova's position is quite weak in terms of online promotion.", 
+        "sentence_id,": "ae550bfd7a"
+    }, 
+    {
+        "sentence": "This speaks about a low presence of local companies and organizations on the Internet, which is a gap for promoting local digital content and domestic products.", 
+        "sentence_id,": "6b2da0459c"
+    }, 
+    {
+        "sentence": "According to the Global IT Report 2012, in terms of peoples skills, the Republic of Moldova was assessed with 5 points out of 7 possible (65th place out of 142).", 
+        "sentence_id,": "ef33f8a191"
+    }, 
+    {
+        "sentence": "If in terms of the digital literacy the country is ranked 44th and in terms of education in mathematics and science is ranked 69th (4 points out of 7 possible)29, then by the educational system quality, the Republic of Moldova is ranked 102nd with 3.2 points out of 7 possible, which is among the last 40 countries included in the report30, which is a matter of concern.", 
+        "sentence_id,": "b73a902071"
+    }, 
+    {
+        "sentence": "The Republic of Moldova, as well as all Europe, faces an increase of the ICT skills gap and a low level of the digital literacy.", 
+        "sentence_id,": "524f997d20"
+    }, 
+    {
+        "sentence": "These drawbacks have consequences like the insufficient use of the benefits granted by Information Society and even the exclusion of many citizens from the ICT-based society and economy.", 
+        "sentence_id,": "4b1657562b"
+    }, 
+    {
+        "sentence": "On the other side, although the citizens have computers and are Internet users, many of them do not know even the ICT terminology32, not to mention the entire use of the benefits offered by the ICT.", 
+        "sentence_id,": "3ba0f549e6"
+    }, 
+    {
+        "sentence": "A large part of the Republic of Moldova population does not possess digital knowledge and skills; this fact reduces the opportunities to participate in the global digital economy.", 
+        "sentence_id,": "c6a8b9856b"
+    }, 
+    {
+        "sentence": "The digital literacy of the population starts from the general education system and mainly due to: 1) Curriculum adjusted to the economic needs based on knowledge; 2) Teaching staff trained in efficient application of ICT in the educational process; 3) Integration of information technology in the didactic process; 4) Creation of the digital educational contents, including education support throughout the life.", 
+        "sentence_id,": "b60b8b69d9"
+    }, 
+    {
+        "sentence": "Even though, during the previous years have been undertaken efforts by the Government in order to implement ICT in general education (800 computer classes in 1997, the \"SALT\" program, financial resources to open at least one computer class in every school, the broadband Internet access and procurement of didactic software), these are not completely integrated into the didactic process.", 
+        "sentence_id,": "9d6c3e67fc"
+    }, 
+    {
+        "sentence": "Although the equipping level of general educational institutions increased, there is a lack of management, maintenance and budgeting for computer laboratories and the majority of the proprietary software programs are not licensed, at the same time the open software is poorly used.", 
+        "sentence_id,": "0e9cbb56e2"
+    }, 
+    {
+        "sentence": "Some sections of the ICT curriculum are outdated and there is no institutionalized process for its periodical updating.", 
+        "sentence_id,": "5d37e7538a"
+    }, 
+    {
+        "sentence": "Graduates of educational institutions do not possess sufficient practical skills to work in an information society.", 
+        "sentence_id,": "099b726c12"
+    }, 
+    {
+        "sentence": "There is a shortage of qualified staff: half of computer science teachers have education in the exact science area and only 3 out of 10 of them graduated computer science.", 
+        "sentence_id,": "9e1f4e5cfc"
+    }, 
+    {
+        "sentence": "Most of the - 11 - didactic staffs that teach computer science and other disciplines have never attended training courses and have not acquired teaching degrees.", 
+        "sentence_id,": "0b9bb9a36e"
+    }, 
+    {
+        "sentence": "A lot of teachers do not possess general computer skills (email, Internet, etc.", 
+        "sentence_id,": "1011e58577"
+    }, 
+    {
+        "sentence": "), and even fewer of them are able to use ICT in teaching process.", 
+        "sentence_id,": "0c55a8dd47"
+    }, 
+    {
+        "sentence": "School teachers of the main scholar disciplines (except those 140 schools equipped with educational software) have no educational software and have not been trained to handle such software.", 
+        "sentence_id,": "7eb074afae"
+    }, 
+    {
+        "sentence": "Although there is an increase of applications using ICT in school and university subjects, most of the school subjects have no dedicated educational software.", 
+        "sentence_id,": "173cca54c6"
+    }, 
+    {
+        "sentence": "The most skilled in ICT teaching are not drawn to higher education because of uncompetitive salaries, lack of a performance based management, motivation system and professional development, and the education governance is confused (occupational standards are missing, professional formation is directed by supply and not by demand, qualifications are granted by the educational institutions in the absence of an explicit legal and normative framework that would ensure the involvement of companies in this process, educational institutions do not respond to the features of the graduates professional paths and other.", 
+        "sentence_id,": "7b6404069d"
+    }, 
+    {
+        "sentence": "Nomenclature of the professional formation area and staff training specialties in higher education institution and in Qualification framework fail to satisfy the existing market demand.", 
+        "sentence_id,": "c4f7d73cdc"
+    }, 
+    {
+        "sentence": "Evaluation systems of higher education institutions performances are not oriented to the EQF (European Qualification Framework).", 
+        "sentence_id,": "62413dd4ed"
+    }, 
+    {
+        "sentence": "Internet admission system in the institutions of higher education is not implemented in the Republic of Moldova.", 
+        "sentence_id,": "799ac619ea"
+    }, 
+    {
+        "sentence": "Although some universities have implemented information management systems for certain processes and developed electronic courses, not having approved the regulatory framework for distance learning, universities do not apply such mechanisms.", 
+        "sentence_id,": "fef854f293"
+    }, 
+    {
+        "sentence": "Electronic educational services from which people could benefit are only online published lessons without the application of online evaluation mechanisms.", 
+        "sentence_id,": "b95bdf8315"
+    }, 
+    {
+        "sentence": "There is a huge brain drain to large international companies from this field.", 
+        "sentence_id,": "2cfab909c2"
+    }, 
+    {
+        "sentence": "According to the International Communication Union (ITU) Report 201234, by the use of sub-index, Moldova ranked only number 79, although it has achieved some progress regarding indicators that form this sub-index (adults digital literacy rate 98.5%, population with secondary education rate 88,0%, and the rate of population with higher education 38,1%).", 
+        "sentence_id,": "0f846adc77"
+    }, 
+    {
+        "sentence": "The lowest level of use is observed in business environment 3,0 points out of 7 (120th out of 142nd), and governmental use is at 3,5 points out of 7 (94th out of 142nd).", 
+        "sentence_id,": "8ad80a9b5f"
+    }, 
+    {
+        "sentence": "The Insufficient use is due to the small number of online services and low level of digital skills of the public institutions employees.", 
+        "sentence_id,": "980df882be"
+    }, 
+    {
+        "sentence": "Although the Academy of Public Administration uses Methodological Norms for ICT training and online training tools implemented with the support of UNDP, these instruments have not been used widely because there is no express provision in normative acts that would require digital skills for employment in a public institution.", 
+        "sentence_id,": "b6f4617fd1"
+    }, 
+    {
+        "sentence": "The more a society is computerized the more it is exposed to cybernetic attacks, and the ensuring of cyberspace security should be a major concern of all stakeholders, especially at the institutional level, which are responsible for coherent policy development and implementation in the field.", 
+        "sentence_id,": "e7e031041f"
+    }, 
+    {
+        "sentence": "Cyber security means the state of normality resulted from application of a set of proactive - 12 - and reactive measures that ensure confidentiality, integrity, availability, authenticity and nonrepudiation of e-information, public and private resources and services in cyberspace.", 
+        "sentence_id,": "33f6f3c3b0"
+    }, 
+    {
+        "sentence": "Globality of cyberspace is able to increase the risks both for private and public sectors.", 
+        "sentence_id,": "5498f1b854"
+    }, 
+    {
+        "sentence": "Cyber threats are materialized through the exploitation of human, technical and procedural nature weaknesses, most often in: 1) cyber-attacks against the infrastructure that maintain public functions or services of the information society which disruption/damage could be a threat to national security; 2) unauthorized access to cyber infrastructure; 3) unauthorized modification, deletion or damage of information data or illegal access restriction to these data; 4) cyber espionage; 5) causing a loss of property, harassment and blackmail of individuals and legal entities, in the public and private sectors.", 
+        "sentence_id,": "3d52e625a8"
+    }, 
+    {
+        "sentence": "The first four top countries in the ranking of the hacker attacks origin are the USA, Russia, China and Ukraine.", 
+        "sentence_id,": "e4b0e24023"
+    }, 
+    {
+        "sentence": "Romania was ranked 7th in this top.", 
+        "sentence_id,": "06d686a8a6"
+    }, 
+    {
+        "sentence": "Being situated territorially between 2 of the top 10 countries, which generate cyber-attacks, Moldova is subjected to major risks of new forms of cyber crime.", 
+        "sentence_id,": "5ef6a84810"
+    }, 
+    {
+        "sentence": "In fact, thanks to the Internet, we can say that all the countries are neighbors in the sense of cyber threats.", 
+        "sentence_id,": "7b2a16ea5d"
+    }, 
+    {
+        "sentence": "The law on preventing and fighting cybercrime was implemented and adopted41, it regulates the legal relations on preventing and fighting cyber crimes; the protection and aid delivery to service providers and information systems users; the public administration collaboration with other representatives of civil society in preventing and fighting cybercrime; the cooperation with other states, international and regional organizations.", 
+        "sentence_id,": "b15496828c"
+    }, 
+    {
+        "sentence": "Currently, in the Republic of Moldova there is no public authority directly liable and empowered with rights, functions and duties on cyber security.", 
+        "sentence_id,": "db456d5515"
+    }, 
+    {
+        "sentence": "At this moment, there are several institutions involved in this process, each of them providing coverage for this issue on their business segment.", 
+        "sentence_id,": "f89ccdf4e0"
+    }, 
+    {
+        "sentence": "Thus, the existing gap is to be covered by the legislative and regulatory framework in the field of cyber security.", 
+        "sentence_id,": "3d1cc3d000"
+    }, 
+    {
+        "sentence": "Being aware of the risks and threats to which the carried on activities are exposed in the cyberspace and of the means to prevent and counterattack them requires an effective communication and cooperation between specific stakeholders in this realm.", 
+        "sentence_id,": "f770fc434f"
+    }, 
+    {
+        "sentence": "From this view, there is a need to develop a culture of the cyber security of the information and communications systems users, which are often poorly informed about the potential risks, and solutions against them.", 
+        "sentence_id,": "deb639db54"
+    }, 
+    {
+        "sentence": "Nowadays, the Internet has become an important information infrastructure for the citizens and for the economy in general, that the ability to resist a multitude of new threats to IT systems and networks is important for users to feel comfortable and safe when connecting online.", 
+        "sentence_id,": "dfd23e9976"
+    }, 
+    {
+        "sentence": "Just as in the real world, the cybercrime cannot be tolerated.", 
+        "sentence_id,": "9cf251abbb"
+    }, 
+    {
+        "sentence": "Up till now the Internet has proven to be very safe, strong and reliable, IT networks and end-users terminals remain to be vulnerable to a wide range of new threats: in recent years Unsolicited electronic messages - 13 - (SPAM) disturbed to Internet e-mail traffic congestion - according to various statistics, from the total amount of messages in circulation - 80 to 98% of all messages are unsolicited electronic messages (SPAM)42 spreading a multitude of viruses and malicious software.", 
+        "sentence_id,": "0194a14217"
+    }, 
+    {
+        "sentence": "The scourge of identity theft and online fraud is ongoing.", 
+        "sentence_id,": "b2bbb4c6a6"
+    }, 
+    {
+        "sentence": "Attacks are becoming increasingly sophisticated (trojans, botnets, etc.)", 
+        "sentence_id,": "78ce30c805"
+    }, 
+    {
+        "sentence": "Attacks are often motivated by financial purposes.", 
+        "sentence_id,": "b094882c23"
+    }, 
+    {
+        "sentence": "Although there are technical means, nowadays there are no legally binding provisions for reporting information to Computer Emergency Response Team (CERT-GOV-MD)46 and this entity has no special liabilities or sufficient capacity to meet the new challenges at the national level.", 
+        "sentence_id,": "37a8c8421a"
+    }, 
+    {
+        "sentence": "According to the provisions of the objective nr.1.5.5 of the Individual Partnership Action Plan of the Republic of Moldova NATO, approved by the Government Decision nr.746 from August 18, 2010, the CERT-GOV-MD is the unique point of access for the users of automated information systems of national importance.", 
+        "sentence_id,": "e7e5b94b76"
+    }, 
+    {
+        "sentence": "This shall ensure the consolidation of the authorities and institutions efforts for the attainment of an informed and reciprocally coordinated reaction in the cyber security threats area.", 
+        "sentence_id,": "265839e086"
+    }, 
+    {
+        "sentence": "The Government, business environment and civil society agreed on the following strategic visions: The Republic of Moldova is to become a country with an advanced information society where the use of information and communication technology (ICT), expanded access to modern ICT infrastructure, rich digital content and advanced informational services drives to economic competitiveness, population welfare and good governance of the country.", 
+        "sentence_id,": "79cf53045b"
+    }, 
+    {
+        "sentence": "For achieving this vision the state shall undertake measures that shall remove constraints and overcome identified challenges/constraints.", 
+        "sentence_id,": "d31b1cea99"
+    }, 
+    {
+        "sentence": "This strategy is focused on three main policy directives/pillars of development: 1) expanding access and connectivity by promoting the competition in the broadband access networks and services; 2) stimulating the creation/development of the digital content and electronic services; 3) building capacities to use the advantages provided by ICT.", 
+        "sentence_id,": "bbae0a17a8"
+    }, 
+    {
+        "sentence": "In order to achieve the strategic vision, general and specific objectives, basic principles were established and were identified programs, initiatives and key measures for achieving them.", 
+        "sentence_id,": "2bf7596254"
+    }, 
+    {
+        "sentence": "General objective of the Strategy: Creating favorable conditions for development and wide use of ICTs potential by the - 14 - public institutions, businesses and individuals in order to help them achieve economic, social and cultural goals, for the benefit of everyone.", 
+        "sentence_id,": "007c80f0db"
+    }, 
+    {
+        "sentence": "Pillar nr.1: Expanding access and connectivity an omnipresent optimized ICT infrastructure, with free, uniform and non-discriminatory access to everyone.", 
+        "sentence_id,": "8d9706d6c2"
+    }, 
+    {
+        "sentence": "General objective: Information and Communication infrastructure development and improving access for everyone.", 
+        "sentence_id,": "ebacc4b762"
+    }, 
+    {
+        "sentence": "Specific objectives: 1) Internet access at a speed of at least 30 Mbps The state shall establish a legal, institutional and regulatory framework for the development of an optimized info-communication infrastructure, which would meet the quality standards at data transfer speed of at least 30 Mbps covering all the regions with services at affordable prices.", 
+        "sentence_id,": "0fbe779b6d"
+    }, 
+    {
+        "sentence": "The following programs shall be developed and implemented: 1.1) The fixed broadband networks development program for 2014-2020, that shall provide conditions for: a) gradual placement of at least one optical fiber network point within each locality with Mayors Office; b) management and shared use of electronic communication networks including associated infrastructure through the development/adjustment of the legal and regulatory framework; c) development of the backbones and access networks through infrastructure sharing and free access to properties.", 
+        "sentence_id,": "e05b66d176"
+    }, 
+    {
+        "sentence": "1.2) The Broadband Radio Access Networks Development Program for 2014-2020 years, which shall include the development/adjustment of the normative regulatory framework for radio frequency spectrum management: a) development of a legal and normative framework of allocation radio frequencies spectrum limited resources by applying the technological neutrality principle; b) reallocation of 900-3600 MHz frequency bands through open contest using competitive selection procedure; c) issuance and allocation of the digital dividend (800 MHz frequency band).", 
+        "sentence_id,": "8a701a4f6b"
+    }, 
+    {
+        "sentence": "2) The transition to digital terrestrial television The Government shall create necessary conditions for transition until June 15, 2015 to broadcast digital television programs through digital signal and to cease transmissions through analog transmitters .", 
+        "sentence_id,": "adf91eceac"
+    }, 
+    {
+        "sentence": "The following program shall be developed and implemented: 2.1) The transition program from analogue terrestrial television to digital television includes actions that are meant to ensure transition to digital television by June 15, 2015: a) development of the legal and regulatory framework to ensure the transition from analogue terrestrial television to the digital one; b) ensuring socially vulnerable groups with receiving equipment for digital terrestrial television reception(STB); c) promotion of the High Definition (HD) standards for national radio transmitters programs.", 
+        "sentence_id,": "eca80c1335"
+    }, 
+    {
+        "sentence": "Pillar nr.2: A rich digital content and available electronic public service.", 
+        "sentence_id,": "d00fcb8267"
+    }, 
+    {
+        "sentence": "General objective: Setting favorable conditions for the development and use of national digital content and digitization of the existing national one, as well as for the implementation and - 15 - use of electronic services.", 
+        "sentence_id,": "5c0929779f"
+    }, 
+    {
+        "sentence": "The Republic of Moldova has a rich intangible heritage and a wide knowledge base that should be identified, recorded and disseminated for the benefit of local and foreign population.", 
+        "sentence_id,": "437730e12b"
+    }, 
+    {
+        "sentence": "Without digitization, a large number of valuable contents shall remain unavailable even for the local population, not to mention the regional or global level.", 
+        "sentence_id,": "0879ae6412"
+    }, 
+    {
+        "sentence": "Nowadays, the Republic of Moldova is able to earn an honorable position in digital content services.", 
+        "sentence_id,": "aaa481b4bc"
+    }, 
+    {
+        "sentence": "The Government shall undertake strong action in order to improve the opportunities of creating and promoting the digital content and services generated in the Republic of Moldova, including the location services based on GIS (geographic information system).", 
+        "sentence_id,": "ca357316ae"
+    }, 
+    {
+        "sentence": "Specific objectives: 1) Digital content is available, accessible, used and valued; 2) 100 % of the central public administration authorities integrated in the interoperability platform by 2020; 3) Public services provided to citizens at the counter (window) are provided on the basis of a single document ID card, including electronic, or through electronic or mobile identification, without submitting some additional documents or certificates.", 
+        "sentence_id,": "8831c5113a"
+    }, 
+    {
+        "sentence": "The following programs/documents shall be developed and implemented: 1.1) The program Creation, development and use of the digital content of the Republic of Moldova The program shall include actions for: a) Sorting the existent informational content by fields, assessing its transformation needs into digital format (content digitization), drawing up plans for content digitization by fields and providing access to this content; b) adjustment of the legal and institutional framework for the digitization of the content, based on the identified constraints and including the budgeting of the content digitization actions in the Medium-Term Budgetary Framework (MTBF) and adopt, approve and implement the major international standards, technical regulations in the field of digitization and online access to content, including the acceptance of the automated information system (AIS) extracts as electronic legally confirmed documents; c) implementation of the Government Interoperability Framework and Recommendations concerning the national content/resources interconnection and interoperability (including catalogs, classifiers, identifiers, metadata) to facilitate the creation and interoperability of the digital content; d) facilitating the creation via public private partnership (PPP) of data centers/local digital content warehouses, including geospatial data, in compliance with the content conservation management and effective time accessing standards and setting up Digital Content Register for public access (which shall include orphaned content too).", 
+        "sentence_id,": "a99f3d8505"
+    }, 
+    {
+        "sentence": "e) placing on the open data portal pages all public interest electronic information held by the public authorities and regulating the process of information placement and update that integrate digital content and procedures of digital content access and use; f) diversification of the content and its adjustment for being accessed by people with special needs (the elderly, people with disabilities, vulnerable groups, people of different gender and culture); g) elaborating and spreading recommendations concerning children and adults internet digital content accessing, also including through the existing hazards.", 
+        "sentence_id,": "a6ba45db40"
+    }, 
+    {
+        "sentence": "[ r D f a ] t - 16 - 1.2) The program of public services digitization The program shall include at least: a) evaluation of the existing public services (cost, content and volume) with the optimization of the number of existing public services and processes and reengineering the existing business processes of providing public services with their typing, standardizing and development, the approval of public services digitization Plans in accordance with the priorities by areas: Health Social assistance, Education, Justice, Agriculture, Construction, Cadastre, Transportation, Science, Culture, and so on; b) the development of the legislative and normative framework in the area of providing and accessing electronic public service (including the electronic identity management, implementation of the minimum standards for the quality of public services and system monitoring/evaluating indicators of their quality, as well as submission of complaints against public services provided under any expectations and development of a transparent and balanced methodology on setting the charges for electronic public services; c) developing of standard solutions for local public authorities regarding Government to Government (G2G) and Government to Consumer (G2C) services, using the common governmental technological platform; d) promoting the use of electronic payment mechanisms, including the payment of services provided by the public services providers.", 
+        "sentence_id,": "f705f33796"
+    }, 
+    {
+        "sentence": "1.3) The documents which shall regulate the implementation of electronic ID card, and which shall touch: a) the Ministry of Information Technology and Communications tasks in this field: - ensure the drawing up of electronic ID card and simultaneous issuance with the existing ID card, upon request; - ensure the creation, implementation and development of the digital signature means in the electronic ID card; - designation of the State Enterprise Centre for State Information Resources Registru as authorized center to issue, use and update public key certificates and digital signatures at ID documents preparation and issuance; - development and approval of mechanism for using electronic ID card in information resources and systems, and at the provision of services, including electronic services.", 
+        "sentence_id,": "93ebd6837e"
+    }, 
+    {
+        "sentence": "b) the objectives of the State-owned Enterprise Center of Special Telecommunications, which are to be implemented in accordance with the concluded contracts between this company and the State Enterprise Centre for State Information Resources Registru upon preparing and issuing the electronic ID cards; 1) provide monitoring and control of the public key certificates status and security of electronic communications channels; 2) generate confirmation codes for certificates issued by the State-owned Enterprise Centre for State Information Resources Registru; 3) ensure, jointly with the State-owned Enterprise Centre for State Information Resources Registru the mutual recognition of public key certificates among the centers for public key certification.", 
+        "sentence_id,": "897d7e9cd3"
+    }, 
+    {
+        "sentence": "Pillar nr.3: Building capacities to use ICT - a high usage of the ICT benefits for all members of the society.", 
+        "sentence_id,": "5abcd38659"
+    }, 
+    {
+        "sentence": "General objective: Increasing digital literacy, developing digital skills and digital inclusion The local content development and its distribution, as well as the use of e-services depend on a specific set of skills and tools.", 
+        "sentence_id,": "c681bc6f16"
+    }, 
+    {
+        "sentence": "The Government shall periodically assess the various skills - 17 - of the citizens, such as ICT skills, knowledge, abilities (and attitudes) that shall lead to a critical mass of skills that exist at the local level.", 
+        "sentence_id,": "d44769af2a"
+    }, 
+    {
+        "sentence": "The policy measures aimed at the improvement of education in the ICT, shall cover both the formal education system as well as the lifelong training.", 
+        "sentence_id,": "cbf2401d99"
+    }, 
+    {
+        "sentence": "Specific objectives: 1) the graduates of the educational institutions have the necessary digital skills to activate in an information society; 2) the public sector employees possess digital skills required for a competitive management; 3) appropriate conditions are created for social inclusion based on electronic services.", 
+        "sentence_id,": "9602a1d9d0"
+    }, 
+    {
+        "sentence": "The following programs shall be developed and implemented: 1.1) Digital literacy in general compulsory education program The following actions shall be provided: a) assessing the general compulsory education ICT curriculum; b) developing the digital literacy educational standards compatible with the European practices; c) developing / updating the curriculum and electronic textbooks for general education; d) compulsory certification of ICT skills among graduates of the general secondary and vocational-technical education; e) testing the electronic curricula and e-books for general compulsory education and afterwards implement on a large scale curricula and e-books for general education; f) expanding the digital skills certification scheme in schools and universities.", 
+        "sentence_id,": "b1c99e52ec"
+    }, 
+    {
+        "sentence": "g) developing electronic courses in order to facilitate access to the studies and educational software; h) providing separate funds in the financial plans of educational institutions for purchasing equipment and software; i) creating virtual libraries that shall provide a rich digital treasure to pupils and students and shall include both multimedia books developed and approved in the prescribed manner, and didactic supports developed by the most remarkable teachers- practitioners.", 
+        "sentence_id,": "f5e41ce4a4"
+    }, 
+    {
+        "sentence": "1.2) Continuous training programs and digital inclusion digital skills for all There shall be provided the following below: a) shall update the continuous training programs, reshaping and retraining by including / adjusting the training modules and performing digital skills based on educational standards similar to European ones; b) shall organize the ICT area training courses both in a traditional way and on the online platforms for teachers and trainers within the training programs; c) shall be developed regulatory and legal framework for distance learning; d) shall be ensured the development of courses in electronic format to facilitate access to education and inclusion; e) shall establish conditions for remote management training deployment, development and implementation of the educational applications (software), as well as electronic versions of academic courses and shall provide access to these courses (electronic approval); f) universities shall implement anti-corruption practices based on the use of ICT measures in the assessment of training outcomes.", 
+        "sentence_id,": "bb3dc4d59e"
+    }, 
+    {
+        "sentence": "g) the standards for ICT skills that shall adjust the study process to the relevant occupational sphere requirements shall be developed for each level of professional training (secondary vocational, secondary specialized, higher education).", 
+        "sentence_id,": "aace2a8e8a"
+    }, 
+    {
+        "sentence": "[ r D f a ] t - 18 - 1.3) The program \"Access to equipment and software for the educational process\" The following actions shall be provided: a) provision of new equipment, purchased by the educational institutions or the state budget, with legal system and educational software; b) performance of measures of modernization/replacement of hardware and software included in the institutional development programs, at least once every three years; c) establishment of a mechanism for implementation and maintenance of ICT equipment for learning process and educational management; d) elaboration of schemes/options and programs aimed to provide customized ICT equipment (computers, tablets, etc.)", 
+        "sentence_id,": "27a03dc977"
+    }, 
+    {
+        "sentence": "for pupils, students and teachers and adjustment of the regulatory framework for program implementation.", 
+        "sentence_id,": "b073861c65"
+    }, 
+    {
+        "sentence": "2.1) The \"digital literacy training for public employees\" The following actions shall be provided: a) development of occupational standards of digital competences for public positions/public employees in the areas of: health protection, education, social assistance, agriculture, justice, transport, land register, science, culture, archives, etc.", 
+        "sentence_id,": "4c7a31560a"
+    }, 
+    {
+        "sentence": "b) development of modules for traditional and online training of public institutions employees according to specific use of ICT in order to fulfill professional responsibilities; c) development of mechanisms for certifying public servants/employees of the public institutions in view of the ICT use; d) mandatory minimal requirements for the recruitment and digital literacy of the public institutions servants/employees.", 
+        "sentence_id,": "8e000082b9"
+    }, 
+    {
+        "sentence": "3.1) The program of digital inclusion promotion The following actions shall be provided: a) programs for social inclusion shall include mandatory \"Digital Inclusion\" component; b) training stands for population in sectorial electronic services shall be developed (ministries shall allocate resources and develop specific electronic guides in areas of Civil Status Office, National House for Social Insurance, National Company of Insurance in Medicine, medical services, building services, etc.)", 
+        "sentence_id,": "a2cfcae433"
+    }, 
+    {
+        "sentence": "and interactive electronic boards with demo modules, electronic terminals shall be installed in localities; c) public media programs shall include programs promoting and training people to use electronic services; d) conditions for the deployment of the equipment meant to facilitate the access to electronic services for people with special needs shall be created; e) standards for hardware and software with the prospect of using them by people with special needs shall be implement.", 
+        "sentence_id,": "dfb705a460"
+    }, 
+    {
+        "sentence": "Main objective: Establish conditions for increasing the security level and confidence in digital space Specific objectives: 1) Improve the cyber security level of the national critical infrastructure (public authorities/institutions, electronic communications networks, aqueducts, energy networks, transport networks, etc.", 
+        "sentence_id,": "cde781f22b"
+    }, 
+    {
+        "sentence": "); 2) Increase the cyber security skills; 3) Raise the comprehension level of the digital space risks and of measures necessary to ensure its cyber security; - 19 - 4) promote and develop international cooperation in cyber security.", 
+        "sentence_id,": "6fc58b1f14"
+    }, 
+    {
+        "sentence": "1.1) In order to achieve these objectives shall be developed a Cyber Security Action Plan, which shall provide: Improvement the level of cyber security of the national critical infrastructure (public authorities/institutions, electronic communications networks, aqueducts, energy networks, transport networks, etc.", 
+        "sentence_id,": "aa9705b574"
+    }, 
+    {
+        "sentence": "), including: a) definition of national critical infrastructures that are to be protected from cyber-attacks, establishment and application of minimum safety requirements for national critical infrastructure, with relevance to ensure the functioning of these infrastructures, including the establishment and use of a National Cyber Security System; b) amendment and harmonization of the national legal framework in the field of cyber security, and institutionalization of personal responsibility concerning cyber security; c) stimulation of the mutual exchange of information between public and private sectors regarding threats, weaknesses, risks and also cyber incidents and attacks; d) strengthening the CERT-GOV-MD team (creating the national level CERT-GOV-MD structure/team); e) implementation of the electronic identity management for cyber security; 2.1) Increase cyber security skills: a) adequate training of persons working in cyber security and widespread promotion of professional certification in the field; b) inclusion of items related to cyber security in training programs and professional development of the public and private sectors managers; c) informing and training employees of public institutions on cyber security issues and cyber risk reduction; d) elaboration of a User Guide, concerning minimum requirements for cyber security.", 
+        "sentence_id,": "d16c9d19ec"
+    }, 
+    {
+        "sentence": "3.1) Raise awareness of the risks of the digital space and measures that are necessary to ensure cyber security: a) implementation of the national information campaign on the risks in the digital space and protective skills; b) inclusion in the public media broadcasting of the programs boosting and training people to use electronic services.", 
+        "sentence_id,": "a74b6d8f2f"
+    }, 
+    {
+        "sentence": "4.1) Promote and develop international cooperation in cyber security: a) conclusion of international cooperation agreements in order to improve the response capacity in the case of major cyber-attacks; b) participation in international programs aimed at cyber security; c) promotion of national cyber security interests in the framework of international cooperation, of which the Republic of Moldova is a part.", 
+        "sentence_id,": "f2e4e7a7ff"
+    }, 
+    {
+        "sentence": "The Strategy implementation shall have a positive impact on citizens, business environment and government and shall lead to the accelerated development of the Information Society in the Republic of Moldova, improving the ICT inclusion into society, providing a new quality of economic growth, based on knowledge, human capital, and shall improve the citizens quality of life The impact of the Strategy implementation shall occur in: 1) streamlining the act of governance ; - 20 - 2) improving the services for population and business environment; 3) diminishing corruption; 4) increasing the economic competitiveness.", 
+        "sentence_id,": "c28cd91a67"
+    }, 
+    {
+        "sentence": "Therefore, the large scale implementation of the public institutions interoperability shall cause a significant increase of productivity over time.", 
+        "sentence_id,": "78b6932b7d"
+    }, 
+    {
+        "sentence": "A 10 percentage points increase of the digitization level reduces the unemployment rate by 0.84% and contributes to a six-percentage points increase of the country's score in the Global Innovation Index.", 
+        "sentence_id,": "b8e32d4890"
+    }, 
+    {
+        "sentence": "By 2020, the Republic of Moldova shall benefit from ICT solutions for all the components of the society (the population, the economy, the state).", 
+        "sentence_id,": "313731d347"
+    }, 
+    {
+        "sentence": "The use of ICT shall also contribute to a deeper integration into the global economy, promotion of its own information products and services all around the world and the citizens shall have a high level of wellbeing.", 
+        "sentence_id,": "cb1174261f"
+    }, 
+    {
+        "sentence": "The strategy involves the allocation of a significant amount of financing during the entire period of implementation (2013-2020).", 
+        "sentence_id,": "52f2e2c261"
+    }, 
+    {
+        "sentence": "The financial costs are approximate calculations developed during the actions planning phase, when an accurate assessment of the funding is not possible for justified reasons.", 
+        "sentence_id,": "79da97631f"
+    }, 
+    {
+        "sentence": "During the development processes of programs and projects for the implementation of the Strategy shall be attracted internal and external public and private funds.", 
+        "sentence_id,": "0b7310048f"
+    }, 
+    {
+        "sentence": "National resources funds shall come from: 1) the funds allocated /approved for the institutions involved in the implementation of the Strategy; 2) the state programs for technological development and innovation area; 3) the technological transfer projects with mandatory private sector co-financing; 4) the public-private partnerships.", 
+        "sentence_id,": "8567978350"
+    }, 
+    {
+        "sentence": "Determination of priority actions and their financing by means of including in the strategic costs plan shall be done according to the institutional financing amount and expenditures ceiling set out by the in force Medium-Term Budget Framework, and the annual financing of the actions shall be carried on within the approved national budget allocations for each sector and/or additional sources.", 
+        "sentence_id,": "6e106b0beb"
+    }, 
+    {
+        "sentence": "As appropriate, when it is required the achievement of mandatory but financially uncovered measures, additional funding sources identification is to be started.", 
+        "sentence_id,": "9d15a3a3c8"
+    }, 
+    {
+        "sentence": "The \"e-transformation\" project, funded from the World Bank loan, shall continue to be implemented.", 
+        "sentence_id,": "5639441306"
+    }, 
+    {
+        "sentence": "For further funding of the development of information society building shall be attracted international funds, especially the European ones.", 
+        "sentence_id,": "ddb2c0d8f8"
+    }, 
+    {
+        "sentence": "The European integration potential in research and innovation shall be used in order to stimulate countrys economic growth by attending a series of EU funding programs.", 
+        "sentence_id,": "f559a85ce1"
+    }, 
+    {
+        "sentence": "Opportunities for support and promotion of the Information Society Technologies activities offered by international organizations as United Nations Economic Commission for Europe (UNECE), United National Industrial Development Organization (UNIDO), United Nations Development Program (UNDP), European Commission Program of Technical Assistance and Information Exchange (TAIEX), European Commission Program of cooperation between public administrations of EU Member State and a beneficiary country (TWINNING), Black Sea Economic Cooperation Organization (BSEC) and others shall be capitalized.", 
+        "sentence_id,": "615c1fdb9a"
+    }, 
+    {
+        "sentence": "Implementation of this strategy shall lead to the following measurable results: 1) Ranking the Republic of Moldova among top 50 countries in the international rankings on: ICT Development (ITU), E-Governance development (UN), Network readiness (World Economic Forum), the level of the knowledge-based economy development (World Bank Institute); 2) All localities of the country shall have at least one point of access to broadband with a minimum speed of 30Mb/s; 3) At least 60% of households shall be connected to broadband Internet; 4) At least 75% of citizens shall be Internet users; 5) 100% of public services which may be provided electronically shall be available online; 6) 100% of archives, civil status records, cultural and scientific heritage shall be digitized and available; 7) At least 80% of citizens shall be satisfied with the quality of provided services; 8) Public services shall be provided under the ID card, including electronic or through electronic or mobile identification; 9) At least 70% of the population shall use electronic services; 10) At least 60% of the population shall use digital signature; 11) At least 20% of the population shall shop online; 12) 100% of the population shall have access to digital terrestrial television.", 
+        "sentence_id,": "0de9561bb5"
+    }, 
+    {
+        "sentence": "The expected results following this Strategy implementation shall be assessed according to the key progress indicators regarding the implemented objectives: 1) Promotion of the Republic of Moldova in international rankings of the ICT field; 2) Provision of the broadband and digital terrestrial television all over the country; 3) The share of public institutions integrated into the interoperability platform; 4) The percentage of households with computer and broadband internet access; 5) The rate of digital content accessibility; 6) The number of computers per 100 pupils; 7) The rate of general compulsory education graduates possessing ICT skills; 8) The share of public services available online from the total amount of services that can be provided electronically; 9) The confidence degree in the reliability of the online requested service; 10) The number of secured servers per 1 million inhabitants.", 
+        "sentence_id,": "d4aaa0f789"
+    }, 
+    {
+        "sentence": "The strategy shall serve as a key document for coordinating the activities of all policy authorities, authorized in the Information Society development field.", 
+        "sentence_id,": "28491f7a7a"
+    }, 
+    {
+        "sentence": "The implementation of the Strategy shall be fulfilled with the participation of the relevant ministries and organizations/institutions, but also with the active participation of business and civil society.", 
+        "sentence_id,": "766dedf144"
+    }, 
+    {
+        "sentence": "Implementations shall occur in 3 stages: 1) The organizational stage, adjusting the legal and regulatory framework, the capacity building and launching programs (2013-2014); - 22 - 2) The stage of the sustainable development of infrastructure, generation and intense digitization of content and services (2015-2017); 3) The stage of total absorption of ICT by means of intensive use of the digital content and on-going e-services on the basis of infrastructure and legal and institutional instruments created during the first 2 stages.", 
+        "sentence_id,": "eeea7aa927"
+    }, 
+    {
+        "sentence": "Monitoring The purpose of monitoring the Strategy is to: 1) supervise the way the Strategy is implemented, the level of achievement of the objectives and proposed tasks, and the need to revise it depending on the evolution of internal and external factors; 2) improve communication environment and foster the exchange of experience among institutions; 3) provide transparency and dissemination of information regarding the carried out activities and the achieved results.", 
+        "sentence_id,": "14226a21b2"
+    }, 
+    {
+        "sentence": "Monitoring shall be an ongoing process,, the completion of which shall be the identification of the intended results and of the factors that hinder the achievement of the expected results.", 
+        "sentence_id,": "f58c28d8bb"
+    }, 
+    {
+        "sentence": "Thus, monitoring shall help to optimize the implementation process and respectively, shall improve the way the products are delivered, results are generated and the expected result is achieved.", 
+        "sentence_id,": "85be9610e8"
+    }, 
+    {
+        "sentence": "The monitoring and assessment of the Strategy implementation shall be accomplished by the e-Transformation Council, the technical support being provided by the Ministry of Information Technology and Communications.", 
+        "sentence_id,": "e561516902"
+    }, 
+    {
+        "sentence": "The Central public administration authorities shall submit annually to the Ministry of Information Technology and Communications monitoring reports concerning the progress of planed activities and implementation obstacles.", 
+        "sentence_id,": "1177d4ed08"
+    }, 
+    {
+        "sentence": "The Action Plan format shall be used during the reporting process.", 
+        "sentence_id,": "92a2f9f2e4"
+    }, 
+    {
+        "sentence": "Monitoring shall be based on the performance indicators set out in the Action Plan, also using the information from the List of indicators for assessing and monitoring the eDevelopment in the Republic of Moldova, approved by an Agreement between central public administration institutions on the distribution of responsibilities for the collection, production and dissemination of the monitoring indicators for building the Information Society in the Republic of Moldova.", 
+        "sentence_id,": "98af56ce71"
+    }, 
+    {
+        "sentence": "On the basis of primary monitoring reports received from the authorities involved in the Strategy implementation, the Ministry of Information Technology and Communications shall annually draw up the consolidated report on the Strategy implementation, submitted for the e-Transformation Council examination until the 1st of April of the next reporting year.", 
+        "sentence_id,": "469f4ed481"
+    }, 
+    {
+        "sentence": "Assessment The assessment of the Strategy implementation shall be carried out at the end of each stage of implementation on the basis of the Action Plan (Appendix nr.1 of the hereby Strategy) and shall result in the intermediate Strategy implementation assessment report.", 
+        "sentence_id,": "b9dc4ccb08"
+    }, 
+    {
+        "sentence": "The intermediate assessment report shall include information concerning the achievements and possible failures in the process of the Strategy implementation for the relevant period, and the impact indicators.", 
+        "sentence_id,": "2d183a9a5d"
+    }, 
+    {
+        "sentence": "Thus, the factors that lead to success or failure of the achievement of the planned actions shall be identified and this information shall be used for the further activity planning.", 
+        "sentence_id,": "2289d292e2"
+    }, 
+    {
+        "sentence": "- 23 - According to the assessment results, the Action Plan for the implementation of the Strategy shall be updated and modified at the end of each stage in accordance with the existing realities and budgetary planning for the next period.", 
+        "sentence_id,": "a9645dc8e2"
+    }, 
+    {
+        "sentence": "These amendments shall be proposed by the public authorities involved in the implementation process, and the Ministry of Information Technology and Communications shall be responsible for operating the necessary changes and finalizing the Action Plan.", 
+        "sentence_id,": "64986a6ad4"
+    }, 
+    {
+        "sentence": "The final evaluation report of the Strategy shall be drafted after the end of its final implementation stage, but not later than six months after the last year of implementation.", 
+        "sentence_id,": "49579cc088"
+    }, 
+    {
+        "sentence": "Transparency of the implementation process of the hereby Strategy shall be provided through publication on the Ministry of Information Technology and Communications official website of the annual monitoring reports, intermediate assessment reports compiled at the end of each stage of implementation, and the final evaluation Report.", 
+        "sentence_id,": "fad90453cb"
+    }, 
+    {
+        "sentence": "The Ministry of Information Technology and Communications shall ensure a wide media coverage of the implementation process of the hereby Strategy and shall provide relevant information to their local and foreign partners.", 
+        "sentence_id,": "f171dda6ce"
+    }, 
+    {
+        "sentence": "[ r D f a ] t - 24 Appendix nr.1 ACTION PLAN on implementation of the national strategy for information society development Digital Moldova 2020 Objectives Internet access at the speed of at least 30 Mb/s Actions Responsible authorities Partners Financing sources/cost Deadlines PILLAR 1.GENERAL OBJECTIVE: Informational infrastructure development and improving access for everyone OUTCOME INDICATORS: All localities shall be provided with Internet access of at least 30 Mb/s (at least one point of optical fiber network ).", 
+        "sentence_id,": "d5e3669ca7"
+    }, 
+    {
+        "sentence": "At least 60% of households shall be connected to broadband Internet.", 
+        "sentence_id,": "e8f345eba3"
+    }, 
+    {
+        "sentence": "85% of localities shall have access to mobile broadband 100% of new civil buildings, from 2018, shall be equipped with infrastructure access to electronic communications networks.", 
+        "sentence_id,": "75279471b7"
+    }, 
+    {
+        "sentence": "80% of new backbone networks from urban localities shall be placed underground 100% of population shall have the possibility to access digital terrestrial television 1 The program Development of Fixed broadband networks for 2014-2020 years.", 
+        "sentence_id,": "ee312e8ad4"
+    }, 
+    {
+        "sentence": "Main actions: 1.1 Fixed broadband network Ministry of Information National Regulatory Agency Institutions budget 2014 development program for the 2014Technology and for Electronic Communications 2020 years Communications and Information Technology, Infrastructure supplier a) Access networks development: Civil engineering-provision in Ministry of Regional Ministry of Information Institutions budget 2014 buildings of spaces / special Development and Technology and infrastructures and sewerage systems Constructions Communications for access networks Ensuring the shared access to the Ministry of Information National Regulatory Agency Institutions budget 2014 users access network for providers Technology and for Electronic Communications that use the same technology.", 
+        "sentence_id,": "68b490d21f"
+    }, 
+    {
+        "sentence": "Communications and Information Technology, Ministry of Regional Development and Constructions Modernization and reuse of existing Ministry of Information National Regulatory Agency Institutions budget 2014cable television networks for Technology and for Electronic Communications 2015 broadband access.", 
+        "sentence_id,": "4b162abb60"
+    }, 
+    {
+        "sentence": "Communications and Information Technology b) Main networks development 1.2 Develop a feasibility study Ministry of Information National Regulatory Agency Institutions budget , 2014 regarding the opportunity of Technology and for Electronic Communications Development partners identification/creation of an operator Communications and Information Technology 50 000 MDL for associated infrastructure management (sewage, pillars, etc.).", 
+        "sentence_id,": "9c7974de85"
+    }, 
+    {
+        "sentence": "1.3 Identification/creation (in case if Ministry of Information Public Property Agency, Public Investors/shareholders 2014 feasibility) of an enterprise of Technology and Local Authorities sources management underground Communications [ r D f a ] t Progress Indicators Developed program Developed and adjusted regulatory framework Developed and adjusted regulatory framework Developed and adjusted normative framework Performed study Identified and created enterprise - 25 Objectives Actions Responsible authorities Partners Financing sources/cost ducts/associated infrastructure.", 
+        "sentence_id,": "dcb7e54bcd"
+    }, 
+    {
+        "sentence": "1.4 Evaluate the existing Ministry of Information National Regulatory Agency Investors/shareholders underground sewerage capacity and Technology and for Electronic Communications sources replacement of old or inefficient Communications and Information Technology, cables.", 
+        "sentence_id,": "6ca62a979d"
+    }, 
+    {
+        "sentence": "JSC Moldtelecom 1.5 Drafting normative documents Ministry of Regional Ministry of Information Institutions budget for more efficient use of Development and Technology and complementary/alternative Constructions Communications, infrastructure investments: National Regulatory Agency a) building alternative infrastructure for Electronic Communications (roads, bridges, railway, sewerage, and Information Technology electricity pillars) - provisions concerning location of the infrastructure / reservation of space for electronic communications networks b) provisions regarding: - access for using alternative infrastructure for placing electronic communications networks.", 
+        "sentence_id,": "e98bbb154c"
+    }, 
+    {
+        "sentence": "- sharing passive associated infrastructure (pillars, locations, electrical network, etc.)", 
+        "sentence_id,": "dc6a47774e"
+    }, 
+    {
+        "sentence": "and existent active operators associated infrastructures (antennas, transmitters, generators, and so on).", 
+        "sentence_id,": "fe6df83988"
+    }, 
+    {
+        "sentence": "Draw up/adjust regulatory Ministry of Information National Regulatory Agency Institutions budget normative framework for radio Technology and for Electronic Communications frequency spectrum management.", 
+        "sentence_id,": "1ed762a0de"
+    }, 
+    {
+        "sentence": "Develop regulatory framework National Regulatory Ministry of Information Institutions budget for the allocation and technology Agency for Electronic Technology and licensing, reallocation of 900 - 3600 Communications and Communications MHz frequency bands.", 
+        "sentence_id,": "a00c889b5f"
+    }, 
+    {
+        "sentence": "Information Technology 2.4 Issue and allocation of the digital Ministry of Information National Regulatory Agency Institutions budget dividend Technology and for Electronic Communications (800 MHz frequency band).", 
+        "sentence_id,": "159b543bb9"
+    }, 
+    {
+        "sentence": "Develop Guidebook on National Regulatory Institutions Budget providing temporary mobile services Agency for Electronic to serve demonstrations and public Communications and events.", 
+        "sentence_id,": "38946b245d"
+    }, 
+    {
+        "sentence": "The program Transition from the analogue terrestrial to digital terrestrial television.", 
+        "sentence_id,": "9b649bc1fb"
+    }, 
+    {
+        "sentence": "Main actions: [ r D f a Deadlines Progress Indicators 2014 Developed networks mainly located underground 20142015 Publishing information about new construction at the design stage for the potential participation of electronic communications providers and conditions for access to the alternative/ complementary infrastructure.", 
+        "sentence_id,": "c337f6ed24"
+    }, 
+    {
+        "sentence": "Develop legal framework to ensure the shift from analogue television to digital terrestrial one.", 
+        "sentence_id,": "37662f02e5"
+    }, 
+    {
+        "sentence": "Ensuring socially vulnerable groups with equipment to receive (STB) Digital terrestrial television signal.", 
+        "sentence_id,": "fc51c3e02f"
+    }, 
+    {
+        "sentence": "Promoting High Definition standards for national TV broadcasters Ministry of Information Technology and Communications Ministry of Information Technology and Communications Partners Audiovisual Coordination Council, National Regulatory Agency for Electronic Communications and Information Technology Audiovisual Coordination Council, Ministry of Labor, Social Protection and Family, Ministry of Finance ] t Financing sources/cost Deadlines Progress Indicators 2014 2015 Starting 15.06.2015 all TV transmitters are to work only in digital mode Institutions budget 2014 National government budget / 500 MDL*100 000 people Institutions budget 2015 2016 Approved legal and regulations framework All households are provided with terrestrial digital TV reception equipment Adopted High Definition standards Ministry of Information 2016 Technology and Communications PILLAR II: GENERAL OBIECTIV: Creating favorable conditions for the development and use of national digital content and digitizing the existing national content, and implementation and use of electronic services OUTCOME INDICATORS: Percentage of public services available online out of all services which may be provided online: 2015-30%, 2017-80%, 2020-100%.", 
+        "sentence_id,": "688d723486"
+    }, 
+    {
+        "sentence": "Percentage of public administration authorities integrated in the interoperability platform: 2015-50%, 2017-75%, 2020-100 %.", 
+        "sentence_id,": "70f2a54add"
+    }, 
+    {
+        "sentence": "Percentage of population using digital signature: 2015-15%, 2017-35%, 2020-60%.", 
+        "sentence_id,": "aac3fe85c7"
+    }, 
+    {
+        "sentence": "Percentage of population using e-services 2015-20%, 2017-35%, 2020-70%.", 
+        "sentence_id,": "81aff88898"
+    }, 
+    {
+        "sentence": "Percentage of people who view / download digital content: 2015-41%, 2017-46%, 2020-57%.", 
+        "sentence_id,": "bdd1094f69"
+    }, 
+    {
+        "sentence": "Percentage of Internet users who are satisfied with the quality of public services offered electronically: 80%.", 
+        "sentence_id,": "6061524a98"
+    }, 
+    {
+        "sentence": "100% of records, documents of civil status, cultural and scientific heritage shall be digitized and available; 100% of public data shall be located in data centers complying with management, preservation and access standards of content over time; At least 70% of the population shall use electronic services; At least 20% of the population shall shop online; At least 80% of citizens shall be satisfied with the quality of provided services; 100% of public service institutions shall be interconnected and shall meet the criteria of Interoperability Framework; The citizen shall get the desired public service only under the identity document, including electronic ID, and mobile or electronic identification, other information necessary for the service being extracted from the digitized archives.", 
+        "sentence_id,": "30a7ebdc16"
+    }, 
+    {
+        "sentence": "The Program Creation, development and capitalization of digital content in the Republic of Moldova.", 
+        "sentence_id,": "e3784d2da6"
+    }, 
+    {
+        "sentence": "Establishing the program Ministry of Information State Chancellery, Budget of the involved 2014- Program Project accessible, used and Technology and Centre for Electronic in institutions 2015 developed and capitalized.", 
+        "sentence_id,": "a7ac2fea60"
+    }, 
+    {
+        "sentence": "Classification of existing Ministry of Information State Chancellery, central and Budget of the involved 2014 Assessment reports on information content by areas and Technology and local public authorities, institutions, completed directives, assessment of its conversion needs Communications Academy of Science of Development partners / identifying constraints into digital format (content Moldova 12 million MDL for a and preliminary digitization) single archive estimate the costs for each field.", 
+        "sentence_id,": "ef02f5b46d"
+    }, 
+    {
+        "sentence": "Adjustment of legal and Ministry of Information State Chancellery, Institutions budget, 2014- Normative acts drafts [ r D f a - 27 Objectives 100% of the central public administration authorities integrated in the interoperability platform by the year 2020 Wicket public services are provided under the ID, including electronic ID, and mobile or electronic identification, without the submission of additional documents Actions Responsible authorities Partners Financing sources/cost Deadlines Progress Indicators institutional framework for the digitization of the content resulting from the identified constraints and its inclusion in the Medium Term Budgetary Framework (MTBF) of the budgeting actions of content transformation into digital format, including the acceptance of Automated Information System extracts as electronic legally confirming documents.", 
+        "sentence_id,": "aa618eae39"
+    }, 
+    {
+        "sentence": "Undertaking, approving and implementing international basic standards, technical regulations of the field of digitization and accessing the content online.", 
+        "sentence_id,": "861df531f3"
+    }, 
+    {
+        "sentence": "Technology and Communications Central and local public authorities donors/ 2.4 million MDL for a single service 2015 of legal framework modification developed and approved.", 
+        "sentence_id,": "c0780864ba"
+    }, 
+    {
+        "sentence": "Approved institutional framework.", 
+        "sentence_id,": "efd5fa427a"
+    }, 
+    {
+        "sentence": "Implementation of the Government Interoperability Framework and of the Recommendations on interconnection and interoperability of the content/native resources (including catalogs, classifiers, identifies, meta-data) to facilitate creation and interoperability of digital government content.", 
+        "sentence_id,": "e97d2f8bb9"
+    }, 
+    {
+        "sentence": "Setting up conditions for establishing data centers / digital storages, including geospatial data, including public-private partnership respecting management, preservation and access standards of content over time.", 
+        "sentence_id,": "6ad129f101"
+    }, 
+    {
+        "sentence": "Center for Electronic Governance State Chancellery, Ministry of Information Technology and Communications, central and local public authorities, Center of Special Telecommunications Budget of etransformation project, central and public authorities budget / minimum 12 000 MDL for a single involved institution 2016 List of necessary standards Approved standards List of technical regulations developed and approved Approved technical regulations.", 
+        "sentence_id,": "1f83c3cfa3"
+    }, 
+    {
+        "sentence": "Rate of the State Automated Information System integrated in the interoperability platform.", 
+        "sentence_id,": "efb9bdf174"
+    }, 
+    {
+        "sentence": "Rate of digital content out of the planned volume.", 
+        "sentence_id,": "dd4b34c817"
+    }, 
+    {
+        "sentence": "Number of available electronic services Ministry of Information Technology and Communications Center for Electronic Governance, Agency for land Relations and Cadastre, Central public authorities, Center of Special Telecommunications 20142020 Scenarios for phased migration of data from the existing points to the newly approved centers.", 
+        "sentence_id,": "3e3803a5e4"
+    }, 
+    {
+        "sentence": "Setting up digital content Register for public access, which shall also include content which does not identify the author's work.", 
+        "sentence_id,": "786c104f40"
+    }, 
+    {
+        "sentence": "Regulating the processes of placement, access, use and updating the information which constitutes digital content.", 
+        "sentence_id,": "01e70e6e7b"
+    }, 
+    {
+        "sentence": "Publishing all information of public interest in electronic format Ministry of Information Technology and Communications Ministry of Culture, State Agency on Intellectual Property Budget of etransformation project, Central and public authorities budget, institutions through public-private partnership / 12 million MDL for a single data center Institutions budget 20142020 Created register Ministry of Information Technology and Communications State Chancellery, Institutions budget 20142015 Approved regulations Central and public authorities Public institutions Institutions budget 20142017 Percentage of the public authorities that [ f a r D ] t - 28 Objectives Actions Responsible authorities on open data portal by public authorities / institutions.", 
+        "sentence_id,": "17b4d27422"
+    }, 
+    {
+        "sentence": "Establish requirements of adjusting the content for being accessed by people with special needs (elders, disable persons, vulnerable, with gender or cultural differences).", 
+        "sentence_id,": "20ee10813b"
+    }, 
+    {
+        "sentence": "Identifying and implementing monitoring mechanisms for statistical purpose of accessed national Web resources.", 
+        "sentence_id,": "a2e6e2953c"
+    }, 
+    {
+        "sentence": "Develop and approve estrategies, programs / plans to digitize the internal processes of the public authorities/institutions, providing compliance with the Interoperability Framework, the following priority areas (back office) are: a) Health Central Public Authority Ministry of Health b) Social Assistance Ministry of Labor, Social Protection and [ Partners Central and local public authorities, institutions and companies that have digital content National public budget, Budget of the involved institutions, Development partners assistance 20152020 Number of applications for people with special needs State Chancellery, Center for Electronic Governance, Local public administration authorities, Center of Special Telecommunications National Bureau of Statistics Institutions budget 2014 2017 Number of free \"plugin\" applications for the use of public services Institutions budget, donors 2014 2015 Periodic reports with recommendations f a ] t Ministry of Information Technology and Communications Central public authorities, institutions holding digital content Institutions budget, donors 2014 2020 Number of yearly organized seminars National Center for Personal Data Protection Ministry of Information Technology and Communications, Ministry of Internal Affairs Institutions budget, donors/12 000 MDL for a single recommendation 2014 Developed and disseminated recommendations e-Transformation budget, Institutions budget, donors/ 900 million MDL 2014 2020 State Chancellery, Center for Electronic Governance Institutions budget, Development partners 2014 2020 Inventory report.", 
+        "sentence_id,": "01423ad920"
+    }, 
+    {
+        "sentence": "Optimized and approved list of public services Percentage of business processes revised, typified and standardized.", 
+        "sentence_id,": "675c859a18"
+    }, 
+    {
+        "sentence": "Developing the legal-normative framework in the field of providing and accessing electronic public services.", 
+        "sentence_id,": "467b0367eb"
+    }, 
+    {
+        "sentence": "Adopting the legal framework to facilitate the use of electronic signatures through the EU regulatory framework harmonization.", 
+        "sentence_id,": "8a74f814a3"
+    }, 
+    {
+        "sentence": "Implementing the minimum quality standards for public services and system monitoring / evaluating indicators for their quality and the tools for submitting complaints against public services provided below any expectations.", 
+        "sentence_id,": "9e4557e6aa"
+    }, 
+    {
+        "sentence": "Developing standard solutions for public authorities G2G and G2C services, using common governmental technological State Chancellery [ Ministry of Information Technology and Communications State Chancellery Communications Ministry of Information Technology and Communications Ministry of Information Technology and Communications Ministry of Information Technology and Communications Ministry of Information Technology and Communications Ministry of Information Technology and Communications f a r D State Chancellery Partners ] t Financing sources/cost Deadlines Progress Indicators program Approved e-Education strategic program Institutions budget, Development partners 2014 Institutions budget, Development partners 2014 Approved e-Justice strategic program Institutions budget, Development partners 2014 Institutions budget, Development partners 2014 Institutions budget, Development partners 2014 Approved eAgriculture strategic program Approved Intelligent transport strategic program Developed eCadastre geoinformational System Program Ministry of Information Technology and Communications Ministry of Information Technology and Communications, Center for Electronic Governance State Chancellery, Center for Electronic Governance, Central public authorities State Chancellery, Center for Electronic Governance, Central public authorities Ministry of Information Technology and Communications, Center for Electronic Governance Institutions budget, Development partners Ministry of Information Technology and Communications, Ministry of Finance, Central public authorities Ministry of Information Technology and Communications, Center for Electronic Institutions budget, Development partners 2014 Institutions budget, Development partners 2014 2017 Institutions budget, Development partners 2014 2020 Drafts of law, Developed regulations (including electronic identity management) Adopted legal framework Institutions budget, Development partners / 12 000 MDL for a single standard 2014 2020 Approved and taken up standards Budget of etransformation project 2014 Approved methodology Budget of etransformation project, Institutions budget, development partners 2014 Number of developed standard solutions - 30 Objectives Actions Responsible authorities platform.", 
+        "sentence_id,": "a8ae8de1fb"
+    }, 
+    {
+        "sentence": "Develop communication program for conducting media campaigns to promote public electronic services Center for Electronic Governance Partners Governance, Center of Special Telecommunications Center for Electronic Governance, National bank, Center of Special Telecommunications Ministry of Information technology and Communications, State Chancellery ] t Financing sources/cost Deadlines Budget of the involved institutions, Development partners / minimum 12 000 MDL for a single service Institutions budget, Development partners / minimum 120 000 MDL for a single campaign 2014 Number of users of electronic payment mechanisms 2014 2020 Approved program Progress Indicators PILLAR III: GENERAL OBJECTIVE: Increase the digital literacy degree, the digital skills and digital inclusion development INDICATORI DE PROGRES: Share of compulsory education graduates having ICT skills: 2015-75%, 2020-100%.", 
+        "sentence_id,": "39407ca844"
+    }, 
+    {
+        "sentence": "Share of secondary general and vocational-technical education graduates which obtained internationally recognized ICT certificates: 2015-20% 2020-40%.", 
+        "sentence_id,": "b5557ab166"
+    }, 
+    {
+        "sentence": "Share of training programs graduates who build/rebuild ICT skills: 2015-80%, 2020-100%.", 
+        "sentence_id,": "a2fe85947d"
+    }, 
+    {
+        "sentence": "Share of graduates who obtained national digital literacy certificates: 2015-80%, 2020-100%.", 
+        "sentence_id,": "2ce0b34099"
+    }, 
+    {
+        "sentence": "Share/number of university programs provided electronically: 2015-40%, 2020-70%.", 
+        "sentence_id,": "7947f2b9d4"
+    }, 
+    {
+        "sentence": "Share of Universities that implemented online admission mechanism: 2015-10%, 2020-30%.", 
+        "sentence_id,": "d5a3030b04"
+    }, 
+    {
+        "sentence": "Share/number of candidates admitted online to Universities: 2015-10%, 2020-30%.", 
+        "sentence_id,": "9d59ab224b"
+    }, 
+    {
+        "sentence": "Share of Universities that implemented anti-corruption practices based on the use of ICT: 2015-80%, 2020-100%.", 
+        "sentence_id,": "b6c9d6be47"
+    }, 
+    {
+        "sentence": "Number/share of population using e-services: 2015-25%, 2020-50%.", 
+        "sentence_id,": "2f392d5866"
+    }, 
+    {
+        "sentence": "Number/share of curricular programs that include ICT: 2015-40%, 2020-90%.", 
+        "sentence_id,": "601ab30a6a"
+    }, 
+    {
+        "sentence": "30% of the total number of computers upgraded/replaced annually in schools Share of training programs for civil servants which include ICT modules: 2015-50%, 2020-100%.", 
+        "sentence_id,": "7bb0f18ff7"
+    }, 
+    {
+        "sentence": "Number/share of educational programs that include facilities for people with special needs: 2015-50%, 2020-100%.", 
+        "sentence_id,": "1bef30ac97"
+    }, 
+    {
+        "sentence": "Digital education program in general compulsory education.", 
+        "sentence_id,": "b1bd6490a1"
+    }, 
+    {
+        "sentence": "Developing / updating the Ministry of Education Ministry of Information Institutions budget, 2015 Curricula and textbooks curricula and electronic textbooks for Technology and Development partners updated, completed and general education (electronic Communications, implemented under the curriculum, teaching and evaluation National Association of trial program methodology).", 
+        "sentence_id,": "54d81e4e84"
+    }, 
+    {
+        "sentence": "Appling national digital skills Ministry of Education Institutions budget, certification system for graduates of Development partners compulsory education.", 
+        "sentence_id,": "beccbc0862"
+    }, 
+    {
+        "sentence": "Training program and digital inclusion Digital skills for everyone.", 
+        "sentence_id,": "eec1e1ca05"
+    }, 
+    {
+        "sentence": "Updating training programs, Ministry of Education Training institutions Institutions budget, retraining and requalifying by Development partners including / adjusting training modules and performing digital skills based on digital literacy education standards similar to European.", 
+        "sentence_id,": "33f2a7abd8"
+    }, 
+    {
+        "sentence": "Organizing digital literacy Ministry of Education Institutions budget, courses for teachers and trainers within the training programs.", 
+        "sentence_id,": "79872ffbc9"
+    }, 
+    {
+        "sentence": "Developing electronic courses to Ministry of Education Universities Institutions budget, facilitate access to education and Development partners / inclusion.", 
+        "sentence_id,": "617e481bb7"
+    }, 
+    {
+        "sentence": "Creation and implementation of Ministry of Education Universities Institutions budget, the remote training management Development partners systems.", 
+        "sentence_id,": "914198ce3b"
+    }, 
+    {
+        "sentence": "Develop and implement Ministry of Education Universities Institutions budget educational applications (software).", 
+        "sentence_id,": "136021891d"
+    }, 
+    {
+        "sentence": "Implementation of anticorruption practices based on ICT assessing learning outcomes.", 
+        "sentence_id,": "ec9d7407b3"
+    }, 
+    {
+        "sentence": "Supply educational institutions with equipment and legal system software and educational software.", 
+        "sentence_id,": "b295b0d967"
+    }, 
+    {
+        "sentence": "20142020 [ f a r D ] t Ministry of Education Universities Institutions budget Ministry of Education Universities Institutions budget, Development partners Ministry of Education, Ministry of Finance Education Institutions Institutions budget, Development partners / 60 000 MDL for a single institution Progress Indicators 2017 2020 Implemented electronic curricula and textbooks 2015 Implemented certification system 2014 2015 Methodological guides, training aids, evaluation tools 2014 2020 Methodology and evaluation framework approved Legal regulatory framework approved by 2014 20 percent developed courses in 2014, 40 percent in 2015, 100 percent in 2020 Implemented system 2014 2014 2018 2016 2018 2014 2020 Number of applications submitted.", 
+        "sentence_id,": "d82155fe6a"
+    }, 
+    {
+        "sentence": "Provision in the financing plans of the educational institutions of different funds for the purchase of equipment and software.", 
+        "sentence_id,": "a10d74b592"
+    }, 
+    {
+        "sentence": "Develop schemes/options and program for supplying pupils, students and teachers with customized ICT programs (computers, tablets, etc.).", 
+        "sentence_id,": "4df7c93a7c"
+    }, 
+    {
+        "sentence": "The \"digital literacy training for public employees\" program.", 
+        "sentence_id,": "2159a9f9a5"
+    }, 
+    {
+        "sentence": "Develop training modules for State Chancellery Ministry of Information Institutions budget, civil servants in accordance with the Technology and Development partners specific ICT peculiarities to exercise Communications, Public professional obligations (organized Administration Academy courses, Academy of Public attached to the President of the Administration curriculum, etc.).", 
+        "sentence_id,": "aca8c984f4"
+    }, 
+    {
+        "sentence": "Application of certification State Chancellery Ministry of Information Institutions budget, mechanism for civil servants in using Technology and donors ICT.", 
+        "sentence_id,": "dcbf490d0a"
+    }, 
+    {
+        "sentence": "Introducing a Dashboard (Score Communications, Ministry of Education Card) in ICT for the officials to accumulate credits for training and self-training.", 
+        "sentence_id,": "edcbd2196e"
+    }, 
+    {
+        "sentence": "Adding in the recruitment of State Chancellery Institutions budget civil servants and individual performance evaluation of the mandatory requirements concerning ICT skills.", 
+        "sentence_id,": "0fa3a9ce68"
+    }, 
+    {
+        "sentence": "Digital Inclusion Promotion Program.", 
+        "sentence_id,": "da8745486e"
+    }, 
+    {
+        "sentence": "Broadcast training spots about electronic Services for population (sectorial ministries shall allocate resources and shall develop electronic guides by field Civil status office, NSIH, NHIC, medical services, construction services, etc.).", 
+        "sentence_id,": "4b10e7cc3b"
+    }, 
+    {
+        "sentence": "Add programs promoting and training people to use electronic services in public TV schedule.", 
+        "sentence_id,": "e25c9b3f24"
+    }, 
+    {
+        "sentence": "Creating mechanisms for implementing applications and equipment dedicated to electronic services access for people with special needs.", 
+        "sentence_id,": "6d2e9a5e10"
+    }, 
+    {
+        "sentence": "Develop requirements / standards in terms of equipment and software to be used by people with special needs.", 
+        "sentence_id,": "452088540f"
+    }, 
+    {
+        "sentence": "Ministry of Information Technology and Communications Ministry of Information Technology and Communications, State Chancellery Ministry of Labor, Social Protection and Family Institutions budget, Development partners 2014 2015 Subvention of the special equipment Ministry of Labor, Social Protection and Family Institutions budget, Development partners 2015 Requirements and special rules regarding electronic services and developed / purchased equipment [ r D f a Ministry of Information Technology and Communications ] t Number of social programs with approved \"Digital Inclusion\" component Approved public authorities programs Planned budget resources Developed and disseminated electronic guides Budgeted resources reserved for promotion and training programs IV.", 
+        "sentence_id,": "b532f33390"
+    }, 
+    {
+        "sentence": "At least 70% of citizens shall feel secure in the digital environment.", 
+        "sentence_id,": "64ce07c072"
+    }, 
+    {
+        "sentence": "Action Plan for Republic of Moldovas cyber security.", 
+        "sentence_id,": "6af675afdd"
+    }, 
+    {
+        "sentence": "Develop action plan on cyber Information and Ministry of Internal Affairs, Institutions budget 2014 - Approved documents national critical security of the Republic of Moldova.", 
+        "sentence_id,": "ce9de1dd56"
+    }, 
+    {
+        "sentence": "Security Service, Center for Electronic 2015 infrastructure (public Center of Special Governance authorities/institutions, Telecommunication (CERT-GOV-MD), electronic communication networks, aqueducts, Ministry of Information installations and energy Technologies and networks, transport networks Communications etc.)", 
+        "sentence_id,": "865b390f27"
+    }, 
+    {
+        "sentence": "Supplementing and harmonizing the national legislation in the area.", 
+        "sentence_id,": "7d21d98ba2"
+    }, 
+    {
+        "sentence": "Establish and enforce minimum security requirements for national critical infrastructure, but also maintaining its operability.", 
+        "sentence_id,": "a0480e1b07"
+    }, 
+    {
+        "sentence": "Center of Special Telecommunication (CERT-GOV-MD), Ministry of Information Technologies and Communications Information and Security Service Communications, Ministry of Internal Affairs, State Chancellery, Center for Electronic Governance Ministry of Internal Affairs, State Chancellery, Center for Electronic Governance Financing sources/cost Deadlines Progress Indicators Institutions budget, donors 2015 National operational security system.", 
+        "sentence_id,": "f5e8ea3bec"
+    }, 
+    {
+        "sentence": "Encouraging mutual exchange of information between public and private sector concerning threats, weaknesses, risks, cyber incidents and attacks.", 
+        "sentence_id,": "155418346c"
+    }, 
+    {
+        "sentence": "Training and informing public institutions employees on cyber security and cyber risks reduction matters.", 
+        "sentence_id,": "3fe193e973"
+    }, 
+    {
+        "sentence": "Establish and apply appropriate training requirements for persons operating in cyber security environment and wide spreading of professional certifications in the area.", 
+        "sentence_id,": "d368edd27b"
+    }, 
+    {
+        "sentence": "Enclose some cyber security elements in training and professional development programs of private and public sector managers.", 
+        "sentence_id,": "b89d9b926c"
+    }, 
+    {
+        "sentence": "Providing electronic identity management for cyber security Promotion and development of international cooperation concerning cyber security (CERT-GOV-MD) Center for Electronic Governance, Ministry of Information Technology and Communications, State Chancellery Special Telecommunication Center (CERT-GOVMD), Information and Security Service, Ministry of Internal Affairs Special Telecommunication Center (CERT-GOVMD) Center for Electronic Governance ] t Financing sources/cost Deadlines Progress Indicators Institutions budget, donors 2014 CERT-GOV-MD team improved capacities e-Transformation budget 20142015 Approved plan Developed measures according to the approved plan Special Telecommunication Center (CERT-GOVMD), Center for Electronic Governance National center for personal data Protection Ministry of Information Technology and Communications Institutions budget, e-Transformation budget 2014 All types of digital identities can be certainly used to access services.", 
+        "sentence_id,": "b347571e31"
+    }, 
+    {
+        "sentence": "Inclusion in the public media programs promoting and training people to use electronic services.", 
+        "sentence_id,": "f87a508d70"
+    }, 
+    {
+        "sentence": "Participation in international programs targeting cyber security area Special Telecommunication Center (CERT-GOV- Ministry of Information Technology and Communications, Central and local public authorities Information and Security Service, Ministry of Information Technology and Communications Information and Security Service, Ministry of Information Assessing the compliance with the procedures established for personal data access Assure the access right to personal data Implemented liability agreement for personal data disclosure Budgeting campaigns Number of campaign organized.", 
+        "sentence_id,": "80500f3ef7"
+    }, 
+    {
+        "sentence": "Percentage of Internet users who have installed software antivirus.", 
+        "sentence_id,": "d437d19fa5"
+    }, 
+    {
+        "sentence": "Promoting national cyber security interests in international cooperation formats where the RM is a part of.", 
+        "sentence_id,": "6941674ead"
+    }, 
+    {
+        "sentence": "[ Partners Information and Security Service, Special Telecommunication Center (CERT-GOVMD) Technology and Communications, Center for Electronic Governance, Special Telecommunication Center Ministry of Information Technology and Communications, Center for Electronic Governance, Special Telecommunication Center r D f a ] t Financing sources/cost Institutions budget Deadlines 20142020 Progress Indicators Number of Moldovas proposals accepted and included in international documents - 37 - Appendix nr.2 to the national Strategy for information society development Digital Moldova - 2020 REFERENCE MARKS for the sources of information used in the national Strategy for information society development ,,Digital Moldova 2020 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 Global IT Report 2012 http://www3.weforum.org/docs/Global_IT Report_2012.pdf.", 
+        "sentence_id,": "5a7007d10b"
+    }, 
+    {
+        "sentence": "Source: National regulatory Agency for Electronic Communications and Information Technology.", 
+        "sentence_id,": "d0641dd1cf"
+    }, 
+    {
+        "sentence": "UN e-Government Survey 2012: e-Government for the People.", 
+        "sentence_id,": "166b5b893e"
+    }, 
+    {
+        "sentence": "Conclusions of the European Council 28/29 June 2011, conclusions 1/2 March 2012. http://europa.eu/rapid/press-release_IP-12-1389_ro.htm .", 
+        "sentence_id,": "3050f45643"
+    }, 
+    {
+        "sentence": "Source: http://encyclopedia2.thefreedictionary.com/content .", 
+        "sentence_id,": "2356ca4310"
+    }, 
+    {
+        "sentence": "Decision of the Court of Accounts no.", 
+        "sentence_id,": "825543bde4"
+    }, 
+    {
+        "sentence": "12 dated on April 5, 2012 Source: https://gemius.com/pl/news/2012-09-05/01 .", 
+        "sentence_id,": "f3a0a90353"
+    }, 
+    {
+        "sentence": "Government Decision no.478 dated in June; For example, the Action Plan for implementation of e-Transformation Program provides for 2013 digitization of up to 40% of Civil records.", 
+        "sentence_id,": "2c8c8c409b"
+    }, 
+    {
+        "sentence": "Copyright issues (in particular on licensing in the digital space, the term of copyright, etc.)", 
+        "sentence_id,": "38e7016c79"
+    }, 
+    {
+        "sentence": "in the new realities are targeted by the European Union; http://www.smartnews.ro/business/15931.htm Government Decision no 656 dated on September 5,.2012 Concerning the approval of the pilot program on the Interoperability Framework http://www.egov.md/index.php/ro/evenimente-noutati/968-raul-rikk-o-societate-informata-nupoate-exista-fara-securitate-cibernetica Gemius Study, August 2012 For example, www.acrobat.com does not accept the Republic of Moldova online payment services.", 
+        "sentence_id,": "0d9d017657"
+    }, 
+    {
+        "sentence": "It is to be mentioned that on January 25, 2013 is not solved yet.", 
+        "sentence_id,": "89994a2126"
+    }, 
+    {
+        "sentence": "Report on the relationship between local content, Internet development and access prices.", 
+        "sentence_id,": "ce8b2baddb"
+    }, 
+    {
+        "sentence": "Source: Magenta consulting.", 
+        "sentence_id,": "464ae2e1cd"
+    }, 
+    {
+        "sentence": "http://prezi.com/-h5ucdggw2qf/serviciile-noi-in-mediul-on-linerealitatea-utilizatorilor-de-internet-trenduri-stranietati-si-ritualuri-magenta-consulting Perception, assimilation and support by the population of the e-governance transformation in the Republic of Moldova.", 
+        "sentence_id,": "a1b97fa180"
+    }, 
+    {
+        "sentence": "Some experts consider that this is not a problem it is a natural process.", 
+        "sentence_id,": "3a2134a500"
+    }, 
+    {
+        "sentence": "http://www.nccgroup.com/en/news-events/news/hacking-attempts-to-exceed-onebillion/#.UKMYYuOTtE0 Source: A Digital Agenda for Europe http://europa.eu/legislation_summaries/information_society/strategies/si0016_ro.htm .", 
+        "sentence_id,": "de799ec7c3"
+    }, 
+    {
+        "sentence": "http://www.business24.ro/internet/securitate-it/milioane-de-hackeri-au-atacat-site-urileguvernului-israelian-in-ultimele-zile-1521870 .", 
+        "sentence_id,": "e985280aca"
+    }, 
+    {
+        "sentence": "Law no.6-XVI dated on February 2, 2009 for the ratification of the Council of Europe Convention on Cyber crime.", 
+        "sentence_id,": "2e0efdabe0"
+    }, 
+    {
+        "sentence": "Law no.20-XVI dated on February 3, 2009 on the prevention and fight against cyber crimes.", 
+        "sentence_id,": "42cab457a9"
+    }, 
+    {
+        "sentence": "European Network and Information Society Agency spam survey 2009 (January 2010).", 
+        "sentence_id,": "2b68beb5d6"
+    }, 
+    {
+        "sentence": "http://cert.gov.md/incidente/statisticaincidentelor.html Art.17 of the Law no.284-XV dated on July 22, 2004 on electronic commerce forbids sending commercial messages without a prior consent.", 
+        "sentence_id,": "d00b208bab"
+    }, 
+    {
+        "sentence": "http://www.telegraph.co.uk/technology/news/9800946/Red-October-computer-virus-found.html Cyber Security Centre (CERT) was created within the State Enterprise Special Telecommunication Centre, in accordance with the Government Decision no.", 
+        "sentence_id,": "c931b029d4"
+    }, 
+    {
+        "sentence": "746 dated on August 18, 2010 on the approval of the updated Republic of Moldova NATO Individual Partnership Action Plan.", 
+        "sentence_id,": "a629c3656d"
+    }, 
+    {
+        "sentence": "The Centre provides information security for public administration authorities in cyber space through the collection and analysis of information related to cyber attacks, and undertakes urgent and efficient measures to protect information resources.", 
+        "sentence_id,": "8534af06e7"
+    }, 
+    {
+        "sentence": "Source: http://www.oecd.org/ Organization for Economic Co-operation and Development (OECD).", 
+        "sentence_id,": "e2216e684b"
+    }
+]

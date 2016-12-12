@@ -1,0 +1,190 @@
+[
+    {
+        "sentence_id,": "19f6408b65", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "These systems improve the quality and the speed of the services being provided, thus helping organizations work more productively, contributing to the improvement of living standards."
+    }, 
+    {
+        "sentence_id,": "ad98c4c13e", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Pursuant to this cabinet decision; In order to determine the precautions to be taken for cyber security, to approve - and to ensure implementation and coordination of - the plans, schedules, reports, procedures, principles and standards that have been prepared, a Cyber Security Council has been established, which is to be presided by the Minister of Transport, Maritime Affairs and Communications and which is to consist of the undersecretaries of the Ministries of Foreign Affairs, Interior, National Defense, Transport, Maritime Affairs and Communications, including the undersecretaries of Public Order and Security, National Intelligence Organization, Head of Communication, Electronic and Information Systems of Turkish General Staff, Head of Information And Communication Technologies Authority, Head of The - Scientific And Technological Research Council, Head of Financial Crimes Investigation Council, Telecommunications Communication Presidency and the top managers of the ministries and the public National Cyber Security Strategy and 2013-2014 Action Plan 6/47 organizations that are to be determined by the Minister of Transport, Maritime Affairs and Communications."
+    }, 
+    {
+        "sentence_id,": "abf92f704f", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The cabinet decision has also assigned to the Ministry of Transport, Maritime Affairs and Communications the duty to prepare policies, strategies and action plans on ensuring cyber security at the national level."
+    }, 
+    {
+        "sentence_id,": "ea5b61ed3c", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "All public organizations and agencies, natural and legal persons, are obliged to perform the duties assigned in the framework of the policies, strategies and action plans determined by the Cyber Security Council, and to comply with the procedures, principles and standards that were also determined by the Council."
+    }, 
+    {
+        "sentence_id,": "63ce622f12", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "It is regarded as essential that cooperation should be made with the public and private sectors, universities and non-governmental organizations, National Cyber Security Strategy and 2013-2014 Action Plan 15/47 furthermore, international cooperation and information sharing should be ensured in achieving and maintaining cyber space security."
+    }, 
+    {
+        "sentence_id,": "f9567b2002", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "It is regarded as essential that diplomatic, technical and law enforcement communication channels should be used continually and effectively for international cooperation and information sharing."
+    }, 
+    {
+        "sentence_id,": "bc949391fd", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Council of Turkey (Rel) evidence base for cyber incidents - Ministry of Transport, Maritime Affairs - Relevant public organizations put into operation their convenient logging mechanisms in conformity with the current technology and the international standards to get reliable evidence for post- and Communications(Res) March 2014 - Ministry of Interior(Rel) - Ministry of Justice(Rel) incident examination."
+    }, 
+    {
+        "sentence_id,": "167c3364ee", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "- All public organizations(Rel) - Public agencies that operate in critical sectors will put into operation their convenient logging mechanisms in conformity with current technology and international standards to get reliable - The public organizations responsible for May 2014 regulating and auditing the key sectors(Res) evidence for post-incident examination."
+    }, 
+    {
+        "sentence_id,": "671f274ec7", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards", 
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "- Publishing and updating the hardening documents and the standards on information systems security National Cyber Security Strategy and 2013-2014 Action Plan Continually - The Scientific And Technological Research Council of Turkey (Res) 29/47 No Action Sub-Action - Briefing top managers who are responsible for information Strengthening 7. systems and cyber security of public organizations Completed Responsible(Res) and Relevant (Rel) Organizations - Ministry of Transport, Maritime Affairs and Communications(Res) - The Scientific And Technological cyber security - Training and certifying the technical staff."
+    }, 
+    {
+        "sentence_id,": "adac53efc6", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "- Ministry of Transport, Maritime Affairs and the software security program Communications(Rel) - In the scope of the security assessments of the software - Turkish Standards organization(Rel) that have been developed for critical infrastructures; preparing and submitting to the Cyber Security Council- the feasibility studies towards implementing March 2014 and checking the technical requirements within critical infrastructure organizations."
+    }, 
+    {
+        "sentence_id,": "3f9aa15db8", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "- The Information and Communication Presidency(Res) - Developing the mechanisms for detection, monitoring and products and Relevant (Rel) Organizations Communication Technologies prevention project Certification of Responsible(Res) and December 2014 Research Council of Turkey (Rel) - Ministry of Transport, Maritime - Determining the minimum requirements that natural and legal Affairs and Communications(Res) persons should have, who carry out the security tests on information systems, providing training and consultancy in the field of cyber security, offering the services in other areas to be determined related to cyber security, and designing a certification process for these natural and legal persons."
+    }, 
+    {
+        "sentence_id,": "78bb5f4b34", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards", 
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "National Cyber Security Strategy and 2013-2014 Action Plan - The Scientific And Technological September 2013 - The Scientific And Technological Research Council of Turkey (Rel) - Turkish Standards Organization(Rel) 33/47 No Action Sub-Action Deadline Responsible(Res) and Relevant (Rel) Organizations - Turkish Standards Certification of the 12. organization(Res) - Determining the products of information technology and products and information systemsincluding their minimum security service providers in requirements- which are used by public organizations and thus the field of cyber are of critical importance, and providing the certification security determined."
+    }, 
+    {
+        "sentence_id,": "f25b73ea2b", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "- Ministry of Transport, Maritime August 2014 Affairs and Communications(Rel) - TURKAK (Turkish Accreditation Agency) (Rel) - The Scientific And Technological Research Council of Turkey (Rel) Determining the rules towards 13. issuing a security certification to computer forensics - Ministry of Justice(Res) - Determining the minimum requirements for natural and legal persons who provide computer forensics services, and designing a certification process for them."
+    }, 
+    {
+        "sentence_id,": "187be9ce5c", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "National Cyber Security Strategy and 2013-2014 Action Plan May 2014 36/47 No Action Sub-Action - Creating access control principles in conformity with the Determining the 17. international standards (e.g."
+    }, 
+    {
+        "sentence_id,": "c245e71037", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "28. the products which are developed nationally, are assessed in terms of security and are certified, Promoting national b. products the products which were assessed in terms of security and were certified, in cases where there is not any national product."
+    }
+]

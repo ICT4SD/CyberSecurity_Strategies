@@ -1,0 +1,446 @@
+[
+    {
+        "sentence": "STRATEGY OF THE CZECH REPUBLIC IN THE FIELD OF CYBERNETIC SECURITY FOR 2012 - 2015 Content Introduction ................................................................................................................................ 2 I.", 
+        "sentence_id,": "938ec19e34"
+    }, 
+    {
+        "sentence": "Foundations ......................................................................................................................... 3 ICT and societies dependent on them are vulnerable ............................................................. 3 II.", 
+        "sentence_id,": "686834a7a9"
+    }, 
+    {
+        "sentence": "Basic principles of strategy of cybernetic security .......................................................... 4 Individual responsibility ......................................................................................................... 4 International Cooperation ....................................................................................................... 5 III.", 
+        "sentence_id,": "ea23a4ac75"
+    }, 
+    {
+        "sentence": "Strategic goals and measures ........................................................................................... 5 Establishing National Centre for Cybernetic Security and Governmental CERT ................. 6 Strengthening of cybernetic security of information and communication systems of public governance ............................................................................................................................. 6 Using of reliable IT ................................................................................................................ 7 Response to cybernetic attacks ............................................................................................... 8 Introduction Strategy of the Czech Republic in the field of cybernetic security for 2012 2015 (hereinafter referred to as Strategy) is one of the steps of the Government of the Czech Republic in reaction to worldwide rise of cybernetic threats.", 
+        "sentence_id,": "d3a9186b25"
+    }, 
+    {
+        "sentence": "The Strategy stems from efforts of governmental and non-governmental entities to raise level of cybernetic security.", 
+        "sentence_id,": "8202b681d0"
+    }, 
+    {
+        "sentence": "It brings initiatives to enhance cybernetic security for state bodies, critical infrastructure and commercial sphere as well as for citizens.", 
+        "sentence_id,": "876080c804"
+    }, 
+    {
+        "sentence": "The Strategy defines aims and interests of the Czech Republic in the field of cybernetic security for building of reliable information society and is in line with the Security Strategy of the Czech Republic.", 
+        "sentence_id,": "5682e44093"
+    }, 
+    {
+        "sentence": "This Strategy is the basic document for the creation of legal acts, security policies of information and communication systems, standards, rules, operation measures, maintenance plans, recommendations and other tools for cybernetic security.", 
+        "sentence_id,": "ac30fc10f8"
+    }, 
+    {
+        "sentence": "The Strategy is divided into three parts.", 
+        "sentence_id,": "28baec4d19"
+    }, 
+    {
+        "sentence": "The first one describes foundations determining necessity to deal with this problem.", 
+        "sentence_id,": "d8339b070c"
+    }, 
+    {
+        "sentence": "The second one brings analysis and basic principles of cybernetic security.", 
+        "sentence_id,": "c65f7df669"
+    }, 
+    {
+        "sentence": "The third states goals and describes activities crucial for enhancing cybernetic security activities implemented by the Government of the Czech Republic and activities in cooperation with partners.", 
+        "sentence_id,": "ddccf0a0b3"
+    }, 
+    {
+        "sentence": "Foundations Attacks on critical information infrastructure have become more often, complex and sophisticated as the perpetrators are more professional in the recent years.", 
+        "sentence_id,": "ad986571e5"
+    }, 
+    {
+        "sentence": "Possibilities for timely reaction and arrests of perpetrators are very limited and demanding.", 
+        "sentence_id,": "77a74f34cb"
+    }, 
+    {
+        "sentence": "The trend of the development of ISs for industrial use connected to the internet brings new vulnerabilities of those systems.", 
+        "sentence_id,": "9fd67eb434"
+    }, 
+    {
+        "sentence": "Experience with Stuxnet virus shows that important industrial facilities are not immune to cybernetic attacks.", 
+        "sentence_id,": "637439051c"
+    }, 
+    {
+        "sentence": "Cyber security shall remain crucial for maintaining functioning state in the future.", 
+        "sentence_id,": "dee0985875"
+    }, 
+    {
+        "sentence": "Information and communication technologies and their impact on modern society and economics Safe and sound functioning if information and communication technologies (hereinafter ICT) is necessary for operations of state and public entities and is one of the basic preconditions of prosperity and sustainable economic growth.", 
+        "sentence_id,": "0546583fb0"
+    }, 
+    {
+        "sentence": "The share of human activity dependent directly or indirectly on ICT is steadily growing.", 
+        "sentence_id,": "b08b49e869"
+    }, 
+    {
+        "sentence": "The Czech Republic has ambitions to belong among developed countries in this field.", 
+        "sentence_id,": "9e58852efb"
+    }, 
+    {
+        "sentence": "Networks and online services have to be not only secure but also reliable.", 
+        "sentence_id,": "9a22a006bd"
+    }, 
+    {
+        "sentence": "The whole society has to enhance its activities towards the security and reliability of ICT.", 
+        "sentence_id,": "ea0f0b475d"
+    }, 
+    {
+        "sentence": "ICT and societies dependent on them are vulnerable Constant and rapid progress in the field of ICT brings new opportunities for the society but also new security challenges.", 
+        "sentence_id,": "3f14a41e12"
+    }, 
+    {
+        "sentence": "Combination of increased dependence on ICT which is not flawless with human failure or intentional damage makes mitigation of damages more complicated.", 
+        "sentence_id,": "35674831cb"
+    }, 
+    {
+        "sentence": "The emergence of new technologies brings new opportunities for the development of the society but also new vulnerabilities and new demands for the security of ICT and whole society.", 
+        "sentence_id,": "c20580e01c"
+    }, 
+    {
+        "sentence": "Increased dependence on ICT enhances vulnerability of the state and its citizens to the cybernetic attacks.", 
+        "sentence_id,": "1c8a85aeab"
+    }, 
+    {
+        "sentence": "These attacks may be motivated by crime, economic profit or terrorism and may be used to destabilise society.", 
+        "sentence_id,": "ee867ef485"
+    }, 
+    {
+        "sentence": "Leaks of strategic information, infringements into ICT of state institutions or strategic companies may endanger interests of the Czech Republic.", 
+        "sentence_id,": "ffc2d4a518"
+    }, 
+    {
+        "sentence": "Examples show rapid and diverse development in the field of cybernetic security.", 
+        "sentence_id,": "a58f27549a"
+    }, 
+    {
+        "sentence": "Attacks against ICT are more complex and sophisticated.", 
+        "sentence_id,": "b17e13d6d8"
+    }, 
+    {
+        "sentence": "These attacks are aimed against various targets and waged by various means.", 
+        "sentence_id,": "b6af529f04"
+    }, 
+    {
+        "sentence": "Also the nature of attackers and their motives are changing.", 
+        "sentence_id,": "05088dff8b"
+    }, 
+    {
+        "sentence": "Parts of the critical infrastructure, crucial for functioning of the state, are becoming target of attacks more and more often.", 
+        "sentence_id,": "a2b0097ed8"
+    }, 
+    {
+        "sentence": "Considering the fact that digital society is globalised and cybernetic attack are crossing state, cultural and legislative boundaries, it is often not obvious which jurisdiction should be applied to them.", 
+        "sentence_id,": "56c3f14813"
+    }, 
+    {
+        "sentence": "Close international cooperation is therefore needed also in the area of legislation.", 
+        "sentence_id,": "f60f018b43"
+    }, 
+    {
+        "sentence": "Basic principles of strategy of cybernetic security Investment into cybernetic security means investing into our future and our economic growth.", 
+        "sentence_id,": "4e8aa25f86"
+    }, 
+    {
+        "sentence": "The level of cybernetic security comprises from all measures, both national and international, adopted to protect availability of ICT and integrity, authenticity and confidentiality of data in the cyberspace.", 
+        "sentence_id,": "aa77b2343e"
+    }, 
+    {
+        "sentence": "Cyber security has to be based on complex approach demanding information sharing and coordination of activities.", 
+        "sentence_id,": "c5b5c13271"
+    }, 
+    {
+        "sentence": "The cooperation between military and civilian, public and private and international and national spheres is to be ensured while building the system of cybernetic security.", 
+        "sentence_id,": "0abfc00a24"
+    }, 
+    {
+        "sentence": "Only such approach ensures sound operation of ICT infrastructure in critical areas, rapid and effective reaction to cybernetic attacks and legal protection in the digital world.", 
+        "sentence_id,": "7321135e8b"
+    }, 
+    {
+        "sentence": "The issue of cybernetic security cannot be seen as an isolated problem of the Czech Republic or several parts of our society.", 
+        "sentence_id,": "87fe1e76f0"
+    }, 
+    {
+        "sentence": "Its not only international, inter-ministerial public or private sphere issue but the problem of whole society.", 
+        "sentence_id,": "766c866201"
+    }, 
+    {
+        "sentence": "Therefore, ensuring of cybernetic security deserves the highest priority.", 
+        "sentence_id,": "ef66101c75"
+    }, 
+    {
+        "sentence": "Interconnection and strengthening cooperation of all parts of society It is desirable to coordinate all initiatives of state (civilian, police, military), commercial and academic entities, those which have done a lot of good work in their areas of responsibility and those which werent very active so far.", 
+        "sentence_id,": "e0e4526437"
+    }, 
+    {
+        "sentence": "Only coordinated effort leads towards enhancing of cybernetic security without dispersion and useless doubling of efforts and growth of costs.", 
+        "sentence_id,": "3f3ea4dd9f"
+    }, 
+    {
+        "sentence": "ICT infrastructure, goods and services are from largest part provided by the private sector.", 
+        "sentence_id,": "accf3db23c"
+    }, 
+    {
+        "sentence": "Mutual trust and information sharing are thus basic precondition for successful cooperation between public and private sector.", 
+        "sentence_id,": "7c93ef9e5f"
+    }, 
+    {
+        "sentence": "Individual responsibility It is the basic interest of the state to establish the ICT security rules in a way to be accepted by all users of cyberspace (state bodies, critical infrastructure entities, public entities, commercial companies and citizens) and service providers in order to adopt in their ICT systems appropriate measures to protect the system against internal and external attacks and not to pose a threat for other systems.", 
+        "sentence_id,": "ec2632c1b1"
+    }, 
+    {
+        "sentence": "Inter-ministerial cooperation According to the decision of the Government of the Czech Republic no.", 
+        "sentence_id,": "c15ef63586"
+    }, 
+    {
+        "sentence": "781 from 19th October 2011 the body responsible for the field of cybernetic security is the national Security Authority (hereinafter NSA).", 
+        "sentence_id,": "2fca6c5bb7"
+    }, 
+    {
+        "sentence": "The Council for Cybernetic Security (hereinafter Council) plays a key role in the inter-ministerial coordination.", 
+        "sentence_id,": "e362763a0f"
+    }, 
+    {
+        "sentence": "It will, among other tasks, initiate cooperation of state bodies.", 
+        "sentence_id,": "40a5581df5"
+    }, 
+    {
+        "sentence": "In line with its statute, the Council will establish working groups comprised of relevant experts.", 
+        "sentence_id,": "9deed40461"
+    }, 
+    {
+        "sentence": "The working groups will draft documents dealing with specific issues of cybernetic security for the Council.", 
+        "sentence_id,": "b99b1c5a0f"
+    }, 
+    {
+        "sentence": "International Cooperation Bearing in mind that a measure could be effective only if implemented or coordinated on an international level the Czech Republic will actively support through common bodies and working groups the efforts of the European Union (hereinafter EU) and North Atlantic Treaty Organisation (hereinafter NATO) to create international policies, standards and norms and adequately implement those policies, standards and norms into national legislation dealing with cybernetic security.", 
+        "sentence_id,": "99cbdfffc4"
+    }, 
+    {
+        "sentence": "Adequacy of adopted measures There is no way how to achieve absolute cybernetic security.", 
+        "sentence_id,": "417734f2c0"
+    }, 
+    {
+        "sentence": "The Czech Republic will adopt measures based on realistic evaluation of risks and shall be appropriate to such risks.", 
+        "sentence_id,": "9cf324cf20"
+    }, 
+    {
+        "sentence": "They will respect protection of privacy and basic rights as free access to information, freedom of speech and others.", 
+        "sentence_id,": "983e2a2224"
+    }, 
+    {
+        "sentence": "The measures shall be appropriate to the necessity to ensure security on one side and to respect basic rights and freedoms on the other side.", 
+        "sentence_id,": "6911352539"
+    }, 
+    {
+        "sentence": "Strategic goals and measures Strategy adopts measures against current threats and is a basis for the Action Plan which defines particular steps and identifies those responsible for their achievement.", 
+        "sentence_id,": "9a5a9b8852"
+    }, 
+    {
+        "sentence": "The following areas shall be prioritised: Creation of legislative framework The NSA shall draft a specialised law on cybernetic security which will determine responsibilities of the national Centre for Cybernetic Security (hereinafter NCCS).", 
+        "sentence_id,": "26e984f115"
+    }, 
+    {
+        "sentence": "The law shall define obligations of entities offering and/or using services in the cyberspace.", 
+        "sentence_id,": "a8127c1194"
+    }, 
+    {
+        "sentence": "It shall further determine means and scope of cooperation with private sector, public and international institutions.", 
+        "sentence_id,": "60e4e2cfbd"
+    }, 
+    {
+        "sentence": "International laws, agreements, trends and recommendation in the field of cybernetic security e-commerce and electronic transactions shall be regularly evaluated and the conclusions and recommendations stemming from such evaluation shall be implemented.", 
+        "sentence_id,": "4582d48e0f"
+    }, 
+    {
+        "sentence": "The Czech Republic shall actively participate in drafting of laws, norms and other cooperation associated with cybernetic security in the framework of EU, NATO and other international organisations.", 
+        "sentence_id,": "15b8a77a9b"
+    }, 
+    {
+        "sentence": "Establishing National Centre for Cybernetic Security and Governmental CERT The NCCS shall be established within NSA to optimize cooperation between state bodies and improve coordination of protection and implementation of counter- measures.", 
+        "sentence_id,": "3558f8b9e8"
+    }, 
+    {
+        "sentence": "Governmental CERT (Computer Emergency Response Team) will be part of the NCCS.", 
+        "sentence_id,": "f7eb7aa00f"
+    }, 
+    {
+        "sentence": "The NCCS shall actively cooperate with other state bodies, academic institutions and commercial entities on the basis of cooperation agreements.", 
+        "sentence_id,": "0786b38084"
+    }, 
+    {
+        "sentence": "Quick and effective sharing of information about vulnerabilities of ICT, forms of cybernetic attacks profiles and motivation of the perpetrators will enable NCCS to analyse security incidents and draft recommendations of counter-measures.", 
+        "sentence_id,": "b1480756ad"
+    }, 
+    {
+        "sentence": "It is in the best interest of the private sphere to cooperate with NCCS in protection of their own ICT systems against attack through cybernetic attacks.", 
+        "sentence_id,": "9ca1d01663"
+    }, 
+    {
+        "sentence": "Bearing in mind that the best way to ensure security is through proper preparation and prevention, the NCCS shall establish a system of early warning and shall provide recommendations how to protect against cybernetic attacks.", 
+        "sentence_id,": "3add315a1d"
+    }, 
+    {
+        "sentence": "NCCS shall push for the system of testing of handling security risks and proposed counter-measures as a part of risk management system.", 
+        "sentence_id,": "3973e99a04"
+    }, 
+    {
+        "sentence": "Such capabilities shall be subject to regular testing through cybernetic defence exercises (also on international level).", 
+        "sentence_id,": "ac225b8282"
+    }, 
+    {
+        "sentence": "Protection of critical information infrastructure Protection of critical information infrastructure is one of the main priorities in cybernetic security.", 
+        "sentence_id,": "60ab94c390"
+    }, 
+    {
+        "sentence": "This infrastructure poses main part of almost all parts of critical infrastructure and is becoming more and more important.", 
+        "sentence_id,": "66c3db3843"
+    }, 
+    {
+        "sentence": "Both private and public spheres have to create conditions for closer cooperation based on information sharing.", 
+        "sentence_id,": "ca532bda5e"
+    }, 
+    {
+        "sentence": "It will be properly evaluated where the security measures will be fully implemented and where shall be additional powers in case of specific attacks and threats.", 
+        "sentence_id,": "c1bbdff9be"
+    }, 
+    {
+        "sentence": "Strengthening of cybernetic security of information and communication systems of public governance Users of ICT need to be provided with relevant and consistent information about risks and safe ways how to utilize the cyberspace.", 
+        "sentence_id,": "c557003025"
+    }, 
+    {
+        "sentence": "NCCS shall provide such information on GovCERT.cz portal.", 
+        "sentence_id,": "332a054d5b"
+    }, 
+    {
+        "sentence": "Also information about available security products and services will be provided on the portal.", 
+        "sentence_id,": "26ca293ad7"
+    }, 
+    {
+        "sentence": "Implementation of security rules and standards in information systems whose secure operation is crucial for the functioning of the state is one of the preconditions for enhancing cybernetic security of those systems.", 
+        "sentence_id,": "20154ac9d5"
+    }, 
+    {
+        "sentence": "Effective cybernetic security demands obligatory implementation and proper adherence to those rules and standards and regular inspections of their implementation in the public governance bodies.", 
+        "sentence_id,": "5bd0db7843"
+    }, 
+    {
+        "sentence": "Methodical documents (regulations and recommended practices) shall be prepared.", 
+        "sentence_id,": "8628b9532e"
+    }, 
+    {
+        "sentence": "Enhancing of level of information security will be done through implementation of the ISMS (Information Security Management System).", 
+        "sentence_id,": "c1d973f285"
+    }, 
+    {
+        "sentence": "Effectiveness of fighting crime in the cyberspace NCCS shall contribute to fight against cybernetic criminality by cooperating with law enforcement bodies and shall use their experience during development of means and measures against cybernetic attacks.", 
+        "sentence_id,": "37e79aaafd"
+    }, 
+    {
+        "sentence": "Coordination of activities to ensure cybernetic security in Europe Global cyberspace security may be achieved only through coordination on national and international level.", 
+        "sentence_id,": "2d75d07a50"
+    }, 
+    {
+        "sentence": "The NSA shall support appropriate measures based on European Action Plan for Protection of Critical Information Infrastructure in the framework of the EU.", 
+        "sentence_id,": "51a4296aac"
+    }, 
+    {
+        "sentence": "Further, the cooperation with the European Network and Information Security Agency (ENISA) shall commence in the field of training and information sharing.", 
+        "sentence_id,": "2b506ed16e"
+    }, 
+    {
+        "sentence": "The ideas for future activities may be found in EU Internal Security Strategy and in Digital Agenda for Europe as well as in the new NATO Policy on Cyber Defence.", 
+        "sentence_id,": "ab80507ce3"
+    }, 
+    {
+        "sentence": "The cooperation in the areas under NSA responsibility shall be also established with the newly established European Agency for Management of Large-Scale IT Systems and with the EU Centre for Cybernetic Criminality.", 
+        "sentence_id,": "084580f846"
+    }, 
+    {
+        "sentence": "Using of reliable IT Availability of reliable ICT systems to public governance users has to be ensured.", 
+        "sentence_id,": "2d4ae0453b"
+    }, 
+    {
+        "sentence": "Research and development of means for protection of ICT systems of public governance and critical infrastructure facilities shall be supported.", 
+        "sentence_id,": "41efc3a7c5"
+    }, 
+    {
+        "sentence": "The aim will be to use technical and software means accredited according to international standards in areas critical for the security of the state.", 
+        "sentence_id,": "15a55791a3"
+    }, 
+    {
+        "sentence": "Raising awareness about cybernetic security Establishing cybernetic security cannot rely on technical means only.", 
+        "sentence_id,": "7582a26dce"
+    }, 
+    {
+        "sentence": "Proper care has to be given also to end-users and administrators of ICT systems, development workers, public contract awarders, auditors and managers.", 
+        "sentence_id,": "631225433c"
+    }, 
+    {
+        "sentence": "Insufficient information about security of ICT systems brings serious risks.", 
+        "sentence_id,": "1ca3df383b"
+    }, 
+    {
+        "sentence": "Lack of trained and informed personnel and further education raise vulnerability and damages.", 
+        "sentence_id,": "8d6c8795c6"
+    }, 
+    {
+        "sentence": "Awareness of citizens about cybernetic security shall be risen through spreading of relevant information in cooperation with media.", 
+        "sentence_id,": "0084001fb2"
+    }, 
+    {
+        "sentence": "Cybernetic security shall part of training of public employees and will be supported in the private sphere as well.", 
+        "sentence_id,": "25d77d3364"
+    }, 
+    {
+        "sentence": "The aim is to reach sufficient level of knowledge for each position in the area of cybernetic security.", 
+        "sentence_id,": "f9df24ebdb"
+    }, 
+    {
+        "sentence": "Cooperation aimed at creating training programmes focusing on cybernetic security shall be started with the academic and private spheres.", 
+        "sentence_id,": "9aa9d992b1"
+    }, 
+    {
+        "sentence": "Needs for qualification in cybernetic security, opportunities of school and other education shall be evaluated on a regular basis.", 
+        "sentence_id,": "e538d47266"
+    }, 
+    {
+        "sentence": "The issue of cybernetic security will be implemented into all levels of education.", 
+        "sentence_id,": "b51b89eb09"
+    }, 
+    {
+        "sentence": "Response to cybernetic attacks Bearing in mind that the cybernetic attacks against the systems of public governance and critical infrastructure cannot be avoided the state has to prepared for such attacks.", 
+        "sentence_id,": "f1c8e680d5"
+    }, 
+    {
+        "sentence": "Complex set of measures to be implemented in the event of cybernetic attack has to be created in cooperation with all competent state bodies.", 
+        "sentence_id,": "66cd9b2df8"
+    }, 
+    {
+        "sentence": "Necessity and adequacy of such measures has to be taken in mind.", 
+        "sentence_id,": "3326cd61a5"
+    }, 
+    {
+        "sentence": "Strategy in the Field of Cybernetic Security for 2012 2015 follows up to the Security Strategy of The Czech Republic and reflects the challenges of modern information society.", 
+        "sentence_id,": "102c95d7de"
+    }, 
+    {
+        "sentence": "The Strategy provides institutional framework contributing to the security system of the Czech Republic.", 
+        "sentence_id,": "7e669fdf5a"
+    }, 
+    {
+        "sentence": "This framework constitutes beginning of active policy of cybernetic protection of the state which is to be permanently evaluated and amended.", 
+        "sentence_id,": "6dbf201bdb"
+    }, 
+    {
+        "sentence": "Awareness of every individual, operator, administrator, university or company about security challenges of ICT is a basic precondition to ensure reliability and security of the cyberspace.", 
+        "sentence_id,": "71110733cf"
+    }, 
+    {
+        "sentence": "The Czech Republic considers the issue of cybernetic security to be an important part of daily use of ICT and shall further work to ensure it.", 
+        "sentence_id,": "c38136b69b"
+    }
+]

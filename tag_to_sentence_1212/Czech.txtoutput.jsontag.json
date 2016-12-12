@@ -1,0 +1,134 @@
+[
+    {
+        "sentence_id,": "ea23a4ac75", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Basic principles of strategy of cybernetic security .......................................................... 4 Individual responsibility ......................................................................................................... 4 International Cooperation ....................................................................................................... 5 III."
+    }, 
+    {
+        "sentence_id,": "ac30fc10f8", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "This Strategy is the basic document for the creation of legal acts, security policies of information and communication systems, standards, rules, operation measures, maintenance plans, recommendations and other tools for cybernetic security."
+    }, 
+    {
+        "sentence_id,": "f60f018b43", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Close international cooperation is therefore needed also in the area of legislation."
+    }, 
+    {
+        "sentence_id,": "99cbdfffc4", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }, 
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "national legislation"
+                ]
+            }
+        ], 
+        "sentence": "International Cooperation Bearing in mind that a measure could be effective only if implemented or coordinated on an international level the Czech Republic will actively support through common bodies and working groups the efforts of the European Union (hereinafter EU) and North Atlantic Treaty Organisation (hereinafter NATO) to create international policies, standards and norms and adequately implement those policies, standards and norms into national legislation dealing with cybernetic security."
+    }, 
+    {
+        "sentence_id,": "20154ac9d5", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Implementation of security rules and standards in information systems whose secure operation is crucial for the functioning of the state is one of the preconditions for enhancing cybernetic security of those systems."
+    }, 
+    {
+        "sentence_id,": "5bd0db7843", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Effective cybernetic security demands obligatory implementation and proper adherence to those rules and standards and regular inspections of their implementation in the public governance bodies."
+    }, 
+    {
+        "sentence_id,": "ab80507ce3", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The ideas for future activities may be found in EU Internal Security Strategy and in Digital Agenda for Europe as well as in the new NATO Policy on Cyber Defence."
+    }, 
+    {
+        "sentence_id,": "15a55791a3", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "The aim will be to use technical and software means accredited according to international standards in areas critical for the security of the state."
+    }, 
+    {
+        "sentence_id,": "6dbf201bdb", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "This framework constitutes beginning of active policy of cybernetic protection of the state which is to be permanently evaluated and amended."
+    }
+]

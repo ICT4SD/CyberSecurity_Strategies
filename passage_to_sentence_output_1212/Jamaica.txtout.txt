@@ -1,0 +1,938 @@
+[
+    {
+        "sentence": "NATIONAL CYBER SECURITY STRATEGY GOVERNMENT OF JAMAICA TABLE OF CONTENTS ACKNOWLEDGEMENT | 03 LIST OF ACRONYMS | 04 Establishment of a robust Governance framework to support the cyber security landscape | 23 INTRODUCTION | 07 Maintenance of an effective legal framework and enforcement capabilities to investigate and prosecute cybercrimes | 23 National development and the role of ICT | 09 Legal protection in cyberspace | 24 The Threat of Cybercrime and its impact on National Security | 10 Public education and awareness | 24 EXECUTIVE SUMMARY | 05 Cyber Incidents in Jamaica | 11 Facing the challenge | 11 Existing Cyber Security related efforts | 13 Links with other Policies and Programmes | 14 GUIDING PRINCIPLES | 16 STRATEGY OBJECTIVES | 19 Technical measures | 20 Critical infrastructure systems are resilient in the face of current and future cyber threats | 20 National capability for ensuring timely and effective response to cyber incidents is established and maintained | 21 A risk based approach is applied in establishing IT and information security standards, policies and guidelines for ICT infrastructure and cyber security governance | 21 Leveraging regional and international partnerships | 22 Human resource and capacity building | 22 An available pool of skilled and knowledgeable professionals in the field of Information Security is maintained | 22 Jamaica has an active and dynamic culture of research and development | 22 Legal and regulatory | 23 Jamaica is a safe place to do business | 23 Jamaicans are knowledgeable and aware of the cyber risks, as well as, the actions to be taken regarding cyber security | 24 Measures are implemented to protect vulnerable groups in cyberspace | 24 Jamaica has a culture of cyber security | 24 IMPLEMENTATION AND REVIEW | 26 CONCLUSION | 28 GLOSSARY OF TERMS | 30 ACTIVITIES | 33 ACKNOWLEDGEMENT The Jamaican National Cyber Security Strategy was developed with the technical support of the Cyber Security Program of the Organization of American States (OAS).", 
+        "sentence_id,": "001ccb90ac"
+    }, 
+    {
+        "sentence": "This effort was made possible thanks to the financial contributions of the Governments of Canada, the United Kingdom, and the United States of America.", 
+        "sentence_id,": "ec5b64241d"
+    }, 
+    {
+        "sentence": "Several other organizations provided their input and guidance into this project including, among others, the Commonwealth Cybercrime Initiative, the Commonwealth Telecommunication Organization, and the Global Cyber Security Capacity Centre of University of Oxford.", 
+        "sentence_id,": "43f7111cda"
+    }, 
+    {
+        "sentence": "LIST OF ACRONYMS Bring Your Own Device (BYOD) Business Process Outsourcing (BPO) Communication Forensics and Cybercrime Unit (CFCU) Cyber Incident Response Team (CIRT) Government of Jamaica (GOJ) Industrial Control Systems (ICS) Information and Communications Technology (ICT) Information Technology (IT) International Telecommunications Union (ITU) Internet of Things (IoT) Jamaica Constabulary Force (JCF) Jamaica Information Service (JIS) Micro, Small and Medium Enterprises (MSMEs) Ministry of Education (MOE) Ministry of Finance and Planning (MOFP) Ministry of Foreign Affairs and Foreign Trade (MFAFT) Ministry of Health (MOH) Ministry of Justice (MOJ) Ministry of Labour and Social Security (MLSS) Ministry of National Security (MNS) National Cyber Security Task Force (NCSTF) Office of Director of Public Prosecution (ODPP) United Nations Office of Drugs and Crime (UNODC) Universal Service Fund (USF) 4 National Cyber Security Strategy Government of Jamaica EXECUTIVE SUMMARY This Strategy recognizes that Information and Communications Technology is a necessary tool for national development but with it comes inherent risks which must be mitigated against.", 
+        "sentence_id,": "9e9fd494e0"
+    }, 
+    {
+        "sentence": "Cybercrimes have the potential to erode confidence and trust in the economy thereby impairing national development.", 
+        "sentence_id,": "d9894d3d6b"
+    }, 
+    {
+        "sentence": "This Strategy seeks to establish a framework built around the following key areas: i) Technical Measures; ii) Human Resource and Capacity Building; iii) Legal and Regulatory; and (iv) Public Education and Awareness.", 
+        "sentence_id,": "1dca332576"
+    }, 
+    {
+        "sentence": "National Cyber Security Strategy Objectives Technical Measures will seek to ensure that network infrastructure and in particular critical infrastructure systems are resilient to cyber threats.", 
+        "sentence_id,": "6ab7cf657d"
+    }, 
+    {
+        "sentence": "These efforts will include the establishment of a Cyber Incident Response Team (CIRT).", 
+        "sentence_id,": "98bb238b22"
+    }, 
+    {
+        "sentence": "A risk based approach will be adopted whereby risk assessments will be undertaken and the necessary preventative measures (including the application of best practices and standards) will be promoted and adopted by both the private and public sector.", 
+        "sentence_id,": "505b4c4555"
+    }, 
+    {
+        "sentence": "Human Resource and Capacity Building recognises that establishing and sustaining a pool of trained professionals in Information Security will assist in ensuring there is national capacity to detect, respond and recover from cyber incidents as well as promote local research and development in Information Security in Jamaica.", 
+        "sentence_id,": "b0e96da472"
+    }, 
+    {
+        "sentence": "5 National Cyber Security Strategy Government of Jamaica Legal and Regulatory efforts will be focused on examining and undertaking reform in the legislative landscape to promote a healthy and safe business environment where businesses can thrive and all stakeholders can be assured that should they fall victim to cybercrimes there is recourse.", 
+        "sentence_id,": "6f5e34257e"
+    }, 
+    {
+        "sentence": "Public Education and Awareness seeks to develop targeted campaigns to facilitate each stakeholder groups understanding the potential threats and risks they would likely face and appropriate action they can take to protect themselves.", 
+        "sentence_id,": "44fdb594af"
+    }, 
+    {
+        "sentence": "The vulnerable in the society are specifically identified as requiring special attention.", 
+        "sentence_id,": "1df5d1a5c0"
+    }, 
+    {
+        "sentence": "The Strategy seeks to: a and awareness regarding cyber security; and develop a culture of cybersecurity.", 
+        "sentence_id,": "3ab9bceb9d"
+    }, 
+    {
+        "sentence": "Ultimately the Strategy, will seek to engender confidence in cyber space such that Jamaicans can continue to achieve their full potential.", 
+        "sentence_id,": "c5f0ef7510"
+    }, 
+    {
+        "sentence": "ENISA National Cyber Security Strategies Practical Guide on Development Execution-December 2012 6 National Cyber Security Strategy Government of Jamaica and INTRODUCTION INTRODUCTION Since the liberalization of the Telecommunications sector in 1999, phenomenal strides have been made in the area of Information and Communications Technology (ICT).", 
+        "sentence_id,": "bef8a513a0"
+    }, 
+    {
+        "sentence": "Jamaica now boasts tele-density in excess of 108%; a 100% digital telecommunications network; submarine fibre optic transmission ring around the island; international submarine cable links from Jamaica to Cayman, the Dominican Republic, Cuba and Florida; and a competitive ICT sector.", 
+        "sentence_id,": "76eeb65067"
+    }, 
+    {
+        "sentence": "An additional outcome of liberalization has been the growth of the Business Process Outsourcing (BPO) sector.", 
+        "sentence_id,": "8819a1ee69"
+    }, 
+    {
+        "sentence": "Jamaica has become a highly competitive and attractive business destination and a leading contact centre location in the English-speaking Caribbean.", 
+        "sentence_id,": "4c41f51798"
+    }, 
+    {
+        "sentence": "As at March 2014, the local ICT/BPO industry is estimated to be valued at US$230 million, accounting for six per cent of the Caribbean and Latin American market.", 
+        "sentence_id,": "e35893a871"
+    }, 
+    {
+        "sentence": "Through the Universal Service Fund (USF) the Government has and is utilizing various strategies to encourage access including the: LOCAL ICT/BPO INDUSTRY IS ESTIMATED TO BE VALUED AT US$230 MILLION 06% OF THE CARIBBEAN establishment of Community Access Points (a total of 181 to date); establishment of an island-wide broadband wide area network connecting secondary schools, libraries and select post offices and health facilities; and deployment of technology in schools through the eLearning and the Tablets in School Projects.", 
+        "sentence_id,": "80f0098639"
+    }, 
+    {
+        "sentence": "Additionally, it is expected that more consumers will have access to broadband with the grant of a licence for the use of the 700 MHz spectrum for mobile broadband deployment.", 
+        "sentence_id,": "001a27d9e6"
+    }, 
+    {
+        "sentence": "Doing Business in Jamaicas Knowledge Services Sector, JAMPRO, March 2014 National Cyber Security Strategy Government of Jamaica 50 INTERNET HAS BILLION The result of the foregoing is that Jamaicans are and will continue to be more connected to each other and to the world.", 
+        "sentence_id,": "38baf74388"
+    }, 
+    {
+        "sentence": "However, with increased connectivity and the growing phenomenon of the Internet of Things (IoT) come increased threats to the daily operations of individuals and businesses alike.", 
+        "sentence_id,": "4963a983ab"
+    }, 
+    {
+        "sentence": "In light of estimates indicating that the Internet has approximately 50 billion things connected to it, with the number of connections predicted to increase to 13 Quadrillion by the year 20203; Jamaica must be prepared to address these threats if it is to continue to utilize ICTs for economic and social development.", 
+        "sentence_id,": "1716947a8a"
+    }, 
+    {
+        "sentence": "CONNECTIONS [APPROXIMATELY] NATIONAL DEVELOPMENT AND THE ROLE OF ICT BY 2020 IT IS PREDICTED TO 13 INCREASE TO QUADRILLION Children with Internet access at home perform better in school and are betterprotected against online dangers.", 
+        "sentence_id,": "343d4fb6be"
+    }, 
+    {
+        "sentence": "Figure 2. www.istock.com 9 The Governments vision with respect to ICT is to create a knowledgebased and educated society which is globally competitive and productive; giving rise to the strategic placement of Jamaica as the key ICT hub within the region.4 Additionally, the National Development Plan (Vision 2030)5 has as one of its national outcomes a technology enabled society where ICT, as a sector and an enabler of other sectors, is utilized to, among other things, drive productivity and efficiency and unleash the creative potential of Jamaicans.", 
+        "sentence_id,": "29c4638588"
+    }, 
+    {
+        "sentence": "At the centre of Jamaicas focus on increased use and application of ICT is broadband.", 
+        "sentence_id,": "a023f1e1fb"
+    }, 
+    {
+        "sentence": "More recently, with broadband being considered critical to economic and social development, more and more studies have focused on elaborating this link.", 
+        "sentence_id,": "4a11e2611b"
+    }, 
+    {
+        "sentence": "Research undertaken by the World Bank has shown that the development impact of broadband on emerging economies is greater than for high-income countries and that broadband has a potentially higher growth effect than other ICTs, including wireline telephony and mobile telephony7.Additionally, research also suggests that broadband access and broadband speed positively affect household incomes8 and that children with Internet access at home perform better in school and are better-protected against online dangers as they are usually under parental guidance9.Jamaica is positioning itself to benefit from the increased use of ICTs and broadband and therefore notwithstanding potential security threats and the myriad of possible cyber-attacks, it cannot become complacent if it is to reap the derivative economic benefit inherent in utilizing ICTs.", 
+        "sentence_id,": "7c5ebf570b"
+    }, 
+    {
+        "sentence": "Tangible and workable solutions must be found to create a safe environment which engenders confidence in the use of ICTs by both citizens and businesses while enabling creativity and innovation.", 
+        "sentence_id,": "d60cf50c36"
+    }, 
+    {
+        "sentence": "David Dean et al., The Digital Manifesto: How Companies and Countries Can Win in the Digital Economy, Boston Consulting Group, perspective 27 (January 2012).", 
+        "sentence_id,": "093603c74c"
+    }, 
+    {
+        "sentence": "Building Broadband: Strategies and Policies for the Developing World, International Bank for reconstruction and Development/.", 
+        "sentence_id,": "e9bc9fb7fd"
+    }, 
+    {
+        "sentence": "The Broadband Challenge, Broadband Commission for Digital Development, Geneva 2011 National Cyber Security Strategy Government of Jamaica THE THREAT OF CYBERCRIME AND ITS IMPACT ON NATIONAL SECURITY The National Security Policy10, states that a fight against crime is therefore a fight for development; measures to reduce the social and economic damage caused by pervasive crime have to be integral to the developmental activities of the state.", 
+        "sentence_id,": "53d50a6a95"
+    }, 
+    {
+        "sentence": "It is also a globally recognized fact that cybercrime is a real and present threat to the stability of any society and Jamaica is no exception.", 
+        "sentence_id,": "cdc9abe6be"
+    }, 
+    {
+        "sentence": "The scale and sophistication of cybercrime has caused many Governments to rethink their strategy in protecting their citizens in an increasingly technology driven and dependent global economy.", 
+        "sentence_id,": "01d045f846"
+    }, 
+    {
+        "sentence": "Cybercriminals usually have clear objectives when launching their exploits.", 
+        "sentence_id,": "bc8e2ebf21"
+    }, 
+    {
+        "sentence": "They know what information they are seeking or what outcomes they want to achieve, and they know the path they need to take to reach these goals.", 
+        "sentence_id,": "c1d019da81"
+    }, 
+    {
+        "sentence": "These criminals will spend significant time researching their targets, often through publicly available information on social networks, and plan their objectives strategically.", 
+        "sentence_id,": "b89e9fa7d7"
+    }, 
+    {
+        "sentence": "Many of these malicious attacks have sought to expose and/or exploit sensitive and confidential information which can have detrimental effects for government and critical infrastructure operators.", 
+        "sentence_id,": "9b0860f9ed"
+    }, 
+    {
+        "sentence": "There is a thinking that users of the Internet should assume that nothing in the cyber world can or should be trusted.", 
+        "sentence_id,": "3508e836a4"
+    }, 
+    {
+        "sentence": "In recent years increasing amounts of personal and sensitive data, such as names, addresses and credit card information, are being harvested by businesses.", 
+        "sentence_id,": "54b9b94c83"
+    }, 
+    {
+        "sentence": "Additionally, increasing amounts of businesses store personal and sensitive data on online platforms or other electronic media.", 
+        "sentence_id,": "68ab14c8fb"
+    }, 
+    {
+        "sentence": "As massive amounts of data become readily accessible; they have become high commodity items to cyber criminals as they can be sold to other malicious actors.", 
+        "sentence_id,": "a9863d3e91"
+    }, 
+    {
+        "sentence": "Consequently individuals, businesses and government alike must take adequate precautions to protect their data.", 
+        "sentence_id,": "bcb4b59ea6"
+    }, 
+    {
+        "sentence": "Cybercrime is a real and present threat to the stability of any society and Jamaica is no exception.", 
+        "sentence_id,": "d878e92d80"
+    }, 
+    {
+        "sentence": "Global trends in cybercrimes demonstrate that the financial sector is the sector most targeted by cyber criminals.", 
+        "sentence_id,": "99fd8d1f8e"
+    }, 
+    {
+        "sentence": "The United Nations Office of Drugs and Crime (UNODC) estimate that identity theft is the most profitable form of cybercrime, generating perhaps US$1 billion per year in revenue on a global basis.", 
+        "sentence_id,": "fc3354b3a5"
+    }, 
+    {
+        "sentence": "Additionally, Interpol has stated that more criminals are exploiting the speed, convenience and anonymity that modern technologies offer in order to commit a diverse range of criminal activities.", 
+        "sentence_id,": "f1f4467e5b"
+    }, 
+    {
+        "sentence": "Criminal gangs have recognized that their exposure is less when they perpetrate cybercrimes with high profits as opposed to other traditional forms of organized crimes.", 
+        "sentence_id,": "ff47da29ef"
+    }, 
+    {
+        "sentence": "Another area often targeted by cybercriminals is critical infrastructure.", 
+        "sentence_id,": "d42f341185"
+    }, 
+    {
+        "sentence": "The critical infrastructure national landscape is the bed rock of daily operations.", 
+        "sentence_id,": "a32256119b"
+    }, 
+    {
+        "sentence": "The disruption of same has the potential to reduce the flow of essential goods and services, impede or impair important economic and financial operations, and fundamentally shut down the country.", 
+        "sentence_id,": "bcd9ec4209"
+    }, 
+    {
+        "sentence": "Therefore, limiting the vulnerability of critical infrastructure by applying relevant security standards, while at the same time assessing the risks, will reduce the options available to criminals to attack these systems.", 
+        "sentence_id,": "445c3acbd8"
+    }, 
+    {
+        "sentence": "CYBER INCIDENTS IN JAMAICA In Jamaica the emerging trend indicates an increase in cyber incidents.", 
+        "sentence_id,": "11e4389391"
+    }, 
+    {
+        "sentence": "Figure III reflects cyber activities reported to the police for the years 2011 and 2012 but are not offences under the Cybercrimes Act.", 
+        "sentence_id,": "f7570d0926"
+    }, 
+    {
+        "sentence": "In examining our cyber security approach, national security issues cannot be ignored.", 
+        "sentence_id,": "622f1b9d3d"
+    }, 
+    {
+        "sentence": "Therefore the necessary support needed for the police, intelligence and other national security services to, among other things, ensure the maintenance of law and order, to deter, mitigate and protect against significant external or internal threats, is critical.", 
+        "sentence_id,": "b72933f74e"
+    }, 
+    {
+        "sentence": "FACING THE CHALLENGE The Government is aware that facing the challenge will be difficult.", 
+        "sentence_id,": "6b6bce5283"
+    }, 
+    {
+        "sentence": "The inherent nature of cybercrime makes it a new paradigm for law enforcement agencies.", 
+        "sentence_id,": "c07d9aede3"
+    }, 
+    {
+        "sentence": "It is recognized that there are existing deficiencies in our capacity, processes and technology to properly investigate and prosecute these crimes.", 
+        "sentence_id,": "59c8636233"
+    }, 
+    {
+        "sentence": "Additionally, it is recognized that the trans-border nature of cybercrime requires international cooperation to assist in the prosecution, mitigation and recovery efforts.", 
+        "sentence_id,": "c83bbffaeb"
+    }, 
+    {
+        "sentence": "In this vein, it is recognized that the academic community and private sector are critical stakeholders in securing our cyberspace and must play a significant role in advancing these efforts.", 
+        "sentence_id,": "2a50e71301"
+    }, 
+    {
+        "sentence": "A New Approach: National Security Policy for Jamaica, 2014, Pg.", 
+        "sentence_id,": "57e4ad708c"
+    }, 
+    {
+        "sentence": "Source: Communication Forensics and Cybercrime Unit 12 National Cyber Security Strategy Government of Jamaica CYBERCRIMES ESTIMATED COST IS MORE THAN THAT OF COCAINE, HEROIN AND MARIJUANA TRAFFICKING PUT TOGETHER.", 
+        "sentence_id,": "40cfdf5182"
+    }, 
+    {
+        "sentence": "This Strategy therefore recognizes that delineating and correlating the roles and activities of the various players is of utmost importance.", 
+        "sentence_id,": "fde9797bb5"
+    }, 
+    {
+        "sentence": "Our current reality regarding cyber security activities include: Revision of the Cybercrimes Act, 2010 Jamaicas Cybercrimes Act (the Act) was promulgated on March 17, 2010 to address computer specific offences such as unauthorized interception, unauthorized modification of computer program or data and unauthorized access to any program or data held in a computer.", 
+        "sentence_id,": "ff855903bd"
+    }, 
+    {
+        "sentence": "An eleven member JSC was established in January 2013 to consider and report on the operation of the Act.", 
+        "sentence_id,": "fbe10fd5e9"
+    }, 
+    {
+        "sentence": "The recommendations made by the Committee for amendments to the Act have been adopted by the Houses of Parliament and include increasing the penalties for the offences under the Act, as well as, the criminalization of actions prejudicing investigations and activities such as computer related fraud, forgery and malicious communication.", 
+        "sentence_id,": "58ef85490f"
+    }, 
+    {
+        "sentence": "Additionally, provision will be made for the forfeiture of computer material which is the subject matter of an offence in the event that the person is convicted of the said offence.", 
+        "sentence_id,": "608b0c16c0"
+    }, 
+    {
+        "sentence": "13 National Cyber Security Strategy Government of Jamaica Establishment of a Cyber Incident Response Team (CIRT) The ICT Policy, in addressing the matter of the utilization of ICT for enhanced national security, identified as a strategy, the establishment of a CIRT to address matters regarding cyber threats and appropriate responses thereto.", 
+        "sentence_id,": "7fd11d1310"
+    }, 
+    {
+        "sentence": "With the assistance of the International Telecommunication Union work has commenced on the establishment of a national CIRT and the building and deployment of related technical capabilities.", 
+        "sentence_id,": "71a5b91b7a"
+    }, 
+    {
+        "sentence": "The CIRT will be domiciled in the Ministry with responsibility for ICT.", 
+        "sentence_id,": "1d63134b56"
+    }, 
+    {
+        "sentence": "Establishment of the National Cybersecurity Task Force The Government has established a National Cyber Security Task Force (NCSTF) comprising a wide cross-section of stakeholders from the public and private sector, as well as, academia.", 
+        "sentence_id,": "1f2e690b34"
+    }, 
+    {
+        "sentence": "The NCSTF will, among other things, formulate a strategy to develop, grow and retain high quality cyber talent for the national workforce; assist in creating a framework to facilitate the building and enhancement of confidence in the use of cyberspace and the protection and security of related assets through collaboration amongst all stakeholders; and establish a public education and awareness programme.", 
+        "sentence_id,": "a5ac068361"
+    }, 
+    {
+        "sentence": "Strengthening the capacity of law enforcement officers and prosecutors The Communication Forensics and Cybercrime Unit (CFCU) within the Jamaica Constabulary Force (JCF) was established in December 2010 with the merger of three (3) Units, namely the Cybercrimes Unit, Digital Forensics Unit and Communication Intelligence Unit.", 
+        "sentence_id,": "b37fa12e78"
+    }, 
+    {
+        "sentence": "The CFCU which has a staff complement of 22 provides support for the investigation of all crimes.", 
+        "sentence_id,": "0cf394af52"
+    }, 
+    {
+        "sentence": "The Digital Evidence and Cybercrimes Unit in the Office of the Director of Public Prosecution (ODPP) was established in 2009 with a view to: i. conducting in-depth research, preparation and prosecution of cybercrimes and cases involving digital evidence; and ii.", 
+        "sentence_id,": "0b81501a9c"
+    }, 
+    {
+        "sentence": "providing advice to the police and clerk of courts with regards to the preparation and prosecution of cybercrimes, as well as cases, involving digital evidence.", 
+        "sentence_id,": "3b1a266770"
+    }, 
+    {
+        "sentence": "Since its establishment the Unit has grown to twelve (12) members.", 
+        "sentence_id,": "10e32c1c9e"
+    }, 
+    {
+        "sentence": "14 National Cyber Security Strategy Government of Jamaica Identity theft is the most profitable form of cybercrime.", 
+        "sentence_id,": "f28f5b1a9d"
+    }, 
+    {
+        "sentence": "GUIDING PRINCIPLES GUIDING PRINCIPLES This Strategy is built on the following guiding principles: Leadership: Recognizing that the Government is responsible for policy development with respect to the ICT Sector and is one of the largest consumers of information technology services, it commits, to driving the objectives of this Strategy by adopting best practices in its operations; Shared responsibilities: All users, in enjoying the benefits of ICTs, should take reasonable steps to secure their own Information Technology (IT) systems, exercise care in the communication and storage of personal and sensitive data and respect the data and IT systems of other users.", 
+        "sentence_id,": "5c6de861b2"
+    }, 
+    {
+        "sentence": "This Strategy through its development and implementation supports a multi-stakeholder approach with shared responsibility for a secure cyber framework; Protection of Fundamental Rights and Freedom: This Strategy will not impair citizens rights under Chapter 3 of the Constitution; Risk management: In a globalized world where all internet-connected systems are potentially vulnerable and where cyber-attacks are difficult to detect, absolute cyber security is elusive.", 
+        "sentence_id,": "1cff4dd0e1"
+    }, 
+    {
+        "sentence": "A risk-based approach to assessing, prioritizing, mitigating and resourcing cyber security activities will be applied; Innovation and Business Development: Recognizing the importance of innovation and business development to our national economy, a cyber-environment that is safe and conducive to such development will be fostered; and Sustainable Resources: A sustainable framework to ensure the availability of human capital to meet the growing and changing needs in the area of information and cyber security will be fostered.", 
+        "sentence_id,": "bd1d88d807"
+    }, 
+    {
+        "sentence": "17 National Cyber Security Strategy Government of Jamaica A sustainable framework to ensure the availability of human capital (...) will be fostered STRATEGY OBJECTIVES STRATEGY OBJECTIVES This Strategy will pursue four (4) key areas to ensure that Jamaica has a robust cyber security framework: NATIONAL CYBER SECURITY FRAMEWORK Technical measures Human resource and capacity building Legal and regulatory Public education and awareness Figure 2: National Cyber Security Strategy objectives TECHNICAL MEASURES It is important to establish an effective technical platform which includes both physical infrastructure and human capacity.", 
+        "sentence_id,": "8aa728bbbe"
+    }, 
+    {
+        "sentence": "The key objectives identified for this area are: CRITICAL INFRASTRUCTURE SYSTEMS ARE RESILIENT IN THE FACE OF CURRENT AND FUTURE CYBER THREATS The protection of the nations critical infrastructure is a priority and will of necessity require collaboration of all relevant stakeholders.", 
+        "sentence_id,": "eb937ca05c"
+    }, 
+    {
+        "sentence": "The critical infrastructure community includes public and private entities which provide information and services which underpin the social and economic well-being of a nation.", 
+        "sentence_id,": "a0c252140e"
+    }, 
+    {
+        "sentence": "Today almost all infrastructures are becoming increasingly dependent on IT or industrial control systems (ICS) and, in many cases, both IT and ICS that guarantee their smooth and reliable operations.", 
+        "sentence_id,": "53dac34b78"
+    }, 
+    {
+        "sentence": "This Strategy will ensure that action is taken to adequately secure these systems from attacks and if penetrated there are measures in place for minimal downtime.", 
+        "sentence_id,": "85f37795d1"
+    }, 
+    {
+        "sentence": "20 National Cyber Security Strategy Government of Jamaica NATIONAL CAPABILITY FOR ENSURING TIMELY AND EFFECTIVE RESPONSE TO CYBER INCIDENTS IS ESTABLISHED AND MAINTAINED The timely reporting of cyber security incidents plays an important role in enhancing national cyber security.", 
+        "sentence_id,": "e948a1eda8"
+    }, 
+    {
+        "sentence": "Incident reporting and analysis helps authorities to determine what should be the focus of its security measures to inform national preparedness, response and recovery efforts.", 
+        "sentence_id,": "4c01670413"
+    }, 
+    {
+        "sentence": "A national CIRT, with a direct reporting line to the Ministry with portfolio responsibility for ICT, will be established.", 
+        "sentence_id,": "af70f00205"
+    }, 
+    {
+        "sentence": "The CIRTs services will include incident response, handling and coordination, vulnerability response and coordination, alerts and warnings, threat analysis, security audits and assessments, forensics and risk analysis and education and training.", 
+        "sentence_id,": "3f25d22725"
+    }, 
+    {
+        "sentence": "In its initial stages the CIRT constituents will include all government agencies and critical national infrastructure operators.", 
+        "sentence_id,": "8e7ebf77e5"
+    }, 
+    {
+        "sentence": "Additionally, the CIRT will seek to issue timely alerts on emerging threats to ensure the integrity of systems that may be at risk, as well as, build collaborative relationships with all sectors to, among other things, foster trust.", 
+        "sentence_id,": "63d5945263"
+    }, 
+    {
+        "sentence": "The Strategy recognizes that cyber incidents may be as a result of criminal activities (cybercrimes) and as such interagency cooperation between the national CIRT and law enforcement will be encouraged to ensure information sharing is facilitated.", 
+        "sentence_id,": "c6e498727f"
+    }, 
+    {
+        "sentence": "A framework will be established to exchange information with its constituents regarding cyber breaches and possible counter and/or mitigation measures to be deployed.", 
+        "sentence_id,": "609149f87d"
+    }, 
+    {
+        "sentence": "The CIRT, given its crucial role, will adopt policies for continuous training of its staff and upgrading of its software and hardware, in order to remain current.", 
+        "sentence_id,": "602b001f29"
+    }, 
+    {
+        "sentence": "A RISK BASED APPROACH IS APPLIED IN ESTABLISHING IT AND INFORMATION SECURITY STANDARDS, POLICIES AND GUIDELINES FOR ICT INFRASTRUCTURE AND CYBER SECURITY GOVERNANCE Risk management is the process of identifying, assessing, and responding to risk and then determining an acceptable level of risk for the assets.", 
+        "sentence_id,": "95e2c440bb"
+    }, 
+    {
+        "sentence": "This approach is applicable to both private and public sector assets.", 
+        "sentence_id,": "a87bd75a6e"
+    }, 
+    {
+        "sentence": "All relevant public and private organizations must take the necessary measures to protect their ICT infrastructure from threats, risks and vulnerabilities.", 
+        "sentence_id,": "fd04504f82"
+    }, 
+    {
+        "sentence": "As such the establishment of sector specific and general baseline security requirements will be established outlining the minimum security standards that all organizations in that sector should comply with.", 
+        "sentence_id,": "989a9ae092"
+    }, 
+    {
+        "sentence": "The Strategy will seek to ensure that mechanisms are developed to assess existing international best practices in the area of Information Security and adapt accordingly to suit local conditions.", 
+        "sentence_id,": "d2e7410b40"
+    }, 
+    {
+        "sentence": "The adoption of minimum standards for sector specific industries should result in the reduction of the number of successful attacks.", 
+        "sentence_id,": "50fb02cf3d"
+    }, 
+    {
+        "sentence": "21 National Cyber Security Strategy Government of Jamaica LEVERAGING REGIONAL AND INTERNATIONAL PARTNERSHIPS Many cyber security threats and vulnerabilities are international in nature.", 
+        "sentence_id,": "f454489d32"
+    }, 
+    {
+        "sentence": "Cooperation with regional and international partners for purposes of information sharing as well as incident response is therefore critical.", 
+        "sentence_id,": "e4253a64e9"
+    }, 
+    {
+        "sentence": "HUMAN RESOURCE AND CAPACITY BUILDING In support of the vision of creating a knowledge based society, this Strategy will seek to ensure that there exists an available cadre of knowledgeable and highly skilled professionals in the area of Information Security.", 
+        "sentence_id,": "a5c92c0912"
+    }, 
+    {
+        "sentence": "The key objectives identified for this area are: AN AVAILABLE POOL OF SKILLED AND KNOWLEDGEABLE PROFESSIONALS IN THE FIELD OF INFORMATION SECURITY IS MAINTAINED While it is laudable that some of Jamaicas tertiary institutions offer Computer Science and/or Computing Degrees which encapsulate Information Security and Network Security programmes, more needs to be done.", 
+        "sentence_id,": "02f27aff7b"
+    }, 
+    {
+        "sentence": "The challenge therefore is to increase the number and availability of professionals with a specialization in the discipline of network/cyber security.", 
+        "sentence_id,": "3255aae267"
+    }, 
+    {
+        "sentence": "The continuously changing nature of the field requires constant training and education.", 
+        "sentence_id,": "55d1e57087"
+    }, 
+    {
+        "sentence": "The Strategy will seek to ensure that academia supports the growth and development of this field.", 
+        "sentence_id,": "8e391c72c5"
+    }, 
+    {
+        "sentence": "Sustainability in the information security ecosystem is crucial and as such accreditation and certification of skilled personnel in key positions will be pursued.", 
+        "sentence_id,": "f6b7b23c6c"
+    }, 
+    {
+        "sentence": "A catalogue of roles, and the relevant educational background needed for key positions in Information Security will be developed.", 
+        "sentence_id,": "11d7b76db2"
+    }, 
+    {
+        "sentence": "Additionally, a national register with accredited cyber-security professionals will be created and maintained.", 
+        "sentence_id,": "98e8b9ec89"
+    }, 
+    {
+        "sentence": "JAMAICA HAS AN ACTIVE AND DYNAMIC CULTURE OF RESEARCH AND DEVELOPMENT Research and Development among stakeholders in academia, private and public sectors will be encouraged.", 
+        "sentence_id,": "dc8ed4e064"
+    }, 
+    {
+        "sentence": "The Government will partner with local, regional and international bodies to promote and incentivize innovation and creativity in ICT and cyber security solutions.", 
+        "sentence_id,": "78e8af111d"
+    }, 
+    {
+        "sentence": "The Strategy will seek to explore the possibility of the establishment of a fund for cyber security research and development projects.", 
+        "sentence_id,": "3e9aa7b08b"
+    }, 
+    {
+        "sentence": "This knowledge base will be supplemented by an exchange of information on experiences and evolving trends which will ensure not only the development of innovative products but that ICT security professionals will have timely and relevant information at their fingertips in order to perform optimally.", 
+        "sentence_id,": "3e9234e926"
+    }, 
+    {
+        "sentence": "22 National Cyber Security Strategy Government of Jamaica LEGAL AND REGULATORY In the context of the Governments thrust to have ICT being an enabler for all sectors, there is need to improve the legislative framework to create an environment conducive to the efficient operation of the public and private sectors and provide adequate protection for all.", 
+        "sentence_id,": "9836eb3bb3"
+    }, 
+    {
+        "sentence": "JAMAICA IS A SAFE PLACE TO DO BUSINESS Recognizing that all businesses are affected by cyber related issues; it is the aim of this Strategy to ensure both online and oine transactions are taken into account.", 
+        "sentence_id,": "51b5c337f4"
+    }, 
+    {
+        "sentence": "The legislative landscape will be periodically reviewed to ensure it is adept to treat with subject areas, such as data protection and electronic transaction and authentication and therefore support a robust business environment, while remaining compatible with international best practices.", 
+        "sentence_id,": "80b200ba03"
+    }, 
+    {
+        "sentence": "ESTABLISHMENT OF A ROBUST GOVERNANCE FRAMEWORK TO SUPPORT THE CYBER SECURITY LANDSCAPE Jamaica, in this increasingly connected, global landscape must be able to effectively address threats that arise.", 
+        "sentence_id,": "3e4fbee70a"
+    }, 
+    {
+        "sentence": "Recognizing that all stakeholders play a role in this, a governance framework that supports a lead entity with responsibility for cyber security coordination must be established.", 
+        "sentence_id,": "f5c02dbc6b"
+    }, 
+    {
+        "sentence": "Experience has shown that where there are cross cutting themes between multiple agencies with similar responsibilities confusion emerges.", 
+        "sentence_id,": "3c70ef0511"
+    }, 
+    {
+        "sentence": "It is imperative that the roles and responsibilities of both the private and public sector in the area of cyber security are clearly outlined.", 
+        "sentence_id,": "7ab1614ee3"
+    }, 
+    {
+        "sentence": "The development of a communication mechanism that delineates roles and responsibilities of key actors is crucial to the success of this Strategy.", 
+        "sentence_id,": "c7498c56ca"
+    }, 
+    {
+        "sentence": "MAINTENANCE OF AN EFFECTIVE LEGAL FRAMEWORK AND ENFORCEMENT CAPABILITIES TO INVESTIGATE AND PROSECUTE CYBERCRIMES It is an act in futility to implement all the measures necessary for cyber security and cybercrimes legislation if the capacities of those who are required to enforce and prosecute those laws are not taken into consideration.", 
+        "sentence_id,": "d187134da6"
+    }, 
+    {
+        "sentence": "The JCF currently has some degree of capacity in the area of cybercrimes investigation including computer and mobile forensics.", 
+        "sentence_id,": "ce5c491fd2"
+    }, 
+    {
+        "sentence": "Additionally, the ODPPs Digital Evidence & Cybercrimes Unit has training in the prosecution of cybercrimes.", 
+        "sentence_id,": "17c6d3b747"
+    }, 
+    {
+        "sentence": "However, there is need for greater sensitization of and/or training for other arms such as the Jamaica Defence Force, prosecutors in the Resident Magistrate Courts, as well as, the judiciary.", 
+        "sentence_id,": "37fefc5409"
+    }, 
+    {
+        "sentence": "Therefore, there will be targeted sensitization and training in cyber security and cybercrimes for these stakeholders.", 
+        "sentence_id,": "f6248a6d0c"
+    }, 
+    {
+        "sentence": "The legislative framework should support regional and international collaboration for example, investigations across borders and successful prosecution of trans-border crimes.", 
+        "sentence_id,": "c5462b55fa"
+    }, 
+    {
+        "sentence": "Additionally, consideration will be given to being party to international conventions and mechanisms that support Jamaicas vision and is in line with the Constitution.", 
+        "sentence_id,": "f0adbc178f"
+    }, 
+    {
+        "sentence": "23 National Cyber Security Strategy Government of Jamaica LEGAL PROTECTION IN CYBERSPACE There will be dedicated efforts to ensure that the legislative framework for cybercrime adequately addresses emerging threats and trends while preserving the right to privacy and other fundamental rights and freedoms.", 
+        "sentence_id,": "9d63e3ac67"
+    }, 
+    {
+        "sentence": "There will be no discrimination in the application of the law; as once a person falls victim to a cybercrime within the jurisdiction there will be legal recourse.", 
+        "sentence_id,": "c8a68cbf8d"
+    }, 
+    {
+        "sentence": "PUBLIC EDUCATION AND AWARENESS Increasing awareness about cyber-security threats and vulnerabilities and their impact on society has become vital.", 
+        "sentence_id,": "88aae2ef05"
+    }, 
+    {
+        "sentence": "While there has been increased adoption of ICT solutions in everyday life, there has not been the same level of appreciation of the associated risks involved.", 
+        "sentence_id,": "4b7063f1c7"
+    }, 
+    {
+        "sentence": "Through public education and awareness programmes individuals and corporate users can be informed of appropriate online behaviour and thus better protect themselves.", 
+        "sentence_id,": "0ac8a9da2c"
+    }, 
+    {
+        "sentence": "JAMAICANS ARE KNOWLEDGEABLE AND AWARE OF THE CYBER RISKS, AS WELL AS, THE ACTIONS TO BE TAKEN REGARDING CYBER SECURITY It is a priority that all Jamaicans should feel confident while using various online platforms.", 
+        "sentence_id,": "e89fea6919"
+    }, 
+    {
+        "sentence": "As the Internet becomes more accessible through various devices such as tablets, mobile phones, game consoles, and with the advent of the IoT, more personal and financial information will be exposed online.", 
+        "sentence_id,": "de0dcb4a63"
+    }, 
+    {
+        "sentence": "In this unregulated space of the Internet, mechanisms must be implemented to educate users on the risks and the steps that can be taken to mitigate their chances of becoming a victim, as well as, equip them with the necessary tools to protect themselves.", 
+        "sentence_id,": "9f6c6e5339"
+    }, 
+    {
+        "sentence": "Therefore, the national level of awareness about cyber security and the risks inherent in the use of the Internet will be assessed and appropriately tailored sensitization programmes developed to inform the Jamaican population.", 
+        "sentence_id,": "12d7f326b2"
+    }, 
+    {
+        "sentence": "MEASURES ARE IMPLEMENTED TO PROTECT VULNERABLE GROUPS IN CYBERSPACE It is the Governments responsibility to establish measures which protect the vulnerable in our society, such as, the elderly, youth and persons with disabilities, as they often lack the wherewithal to do so themselves.", 
+        "sentence_id,": "07c76d9b4f"
+    }, 
+    {
+        "sentence": "As the guardian of their interests it is the Governments responsibility to ensure that they are not overlooked but are informed and aware of the risks.", 
+        "sentence_id,": "ef4b3ccb6c"
+    }, 
+    {
+        "sentence": "Programmes that will encourage the adoption of safe online practices will be developed and the assistance of service providers will be sought to provide built in tools to protect this group where possible.", 
+        "sentence_id,": "55c32a5fe4"
+    }, 
+    {
+        "sentence": "JAMAICA HAS A CULTURE OF CYBER SECURITY While, it is important to empower Jamaicans with the information and practical tools needed to protect themselves online.", 
+        "sentence_id,": "a6187e6b20"
+    }, 
+    {
+        "sentence": "It is equally, important for individuals to take the security of their own personal data seriously and 24 National Cyber Security Strategy Government of Jamaica The development of a communication mechanism that delineates roles and responsibilities of key actors is crucial to the success of this Strategy.", 
+        "sentence_id,": "1f8f104d00"
+    }, 
+    {
+        "sentence": "practice good habits while navigating the Internet, downloading applications or sharing information for both business and personal reasons.", 
+        "sentence_id,": "f5219cae8a"
+    }, 
+    {
+        "sentence": "In a similar vein businesses will have to implement measures to ensure the protection not only of their data but that of their customers.", 
+        "sentence_id,": "7aacbe1952"
+    }, 
+    {
+        "sentence": "This should extend to employee security awareness and training programs especially with the wide adoption of bring your own device (BYOD) policies.", 
+        "sentence_id,": "9994e3ca64"
+    }, 
+    {
+        "sentence": "Employee awareness is critical to the success of any security program.", 
+        "sentence_id,": "34b0a4d6a3"
+    }, 
+    {
+        "sentence": "It has been noted that adversaries often target employees using social engineering schemes and thus businesses should implement effective employee training programmes to ensure the integrity of their systems is not compromised.", 
+        "sentence_id,": "a830346b2e"
+    }, 
+    {
+        "sentence": "The Strategy will seek to improve the level of awareness of information security, monitor and develop information skillsets though a proactive plan for communications for all sectors of society.", 
+        "sentence_id,": "2a23ef4459"
+    }, 
+    {
+        "sentence": "Additionally, businesses will be encouraged to adopt self-regulation in the various sectors to ensure the security not only of their data but that of their customers.", 
+        "sentence_id,": "d0ce23a3eb"
+    }, 
+    {
+        "sentence": "25 National Cyber Security Strategy Government of Jamaica IMPLEMENTATION AND REVIEW IMPLEMENTATION AND REVIEW The implementation of the Strategy will be led by the Ministry with responsibility for ICT.", 
+        "sentence_id,": "0696edd7f6"
+    }, 
+    {
+        "sentence": "A detailed outline of the activities associated with the aforementioned strategic objectives is annexed.", 
+        "sentence_id,": "50db0bbdc0"
+    }, 
+    {
+        "sentence": "It is intended that the Ministry with responsibility for ICT and the NCSTF will develop an Implementation Plan to carry out the objectives and activities outlined in this Strategy within three (3) months of its adoption.", 
+        "sentence_id,": "20ab310caa"
+    }, 
+    {
+        "sentence": "This will involve the delineation of specific tasks associated with the objectives and activities identified and the allocation of responsibilities to specific entities for execution.", 
+        "sentence_id,": "e98f508b3b"
+    }, 
+    {
+        "sentence": "It is envisioned that the preparation of the Implementation Plan will go hand in hand with a review of this Strategy, which will be revised and updated every three (3) years or as necessary.", 
+        "sentence_id,": "7c4b08062c"
+    }, 
+    {
+        "sentence": "27 National Cyber Security Strategy Government of Jamaica CONCLUSION CONCLUSION As Jamaica embraces the benefits of ICT for socio-economic development and seeks to position itself as a regional leader it must adopt and implement best practices in cyber security in all facets of its economic and social life.", 
+        "sentence_id,": "33f7bed85f"
+    }, 
+    {
+        "sentence": "Recognising this inextricable interplay between socio-economic development goals and national security strategies, this Strategy will play an implicit and explicit role in securing the networks needed to support the realisation of the nations development goals (Figure 3).", 
+        "sentence_id,": "bdbccdb1e0"
+    }, 
+    {
+        "sentence": "Tackling the issue of cyber security from this holistic approach therefore will ultimately impact Jamaicas vision of having a stable and prosperous economy.", 
+        "sentence_id,": "4e884d50dd"
+    }, 
+    {
+        "sentence": "Providing an enabling legal framework that promotes the utilization of ICT while penalizing perpetrators when they are caught.", 
+        "sentence_id,": "56ffa6e02d"
+    }, 
+    {
+        "sentence": "29 National Cyber Security Strategy Government of Jamaica GLOSSARY OF TERMS GLOSSARY OF TERMS In this document, where the context allows, the following terms will have the meanings specified below: Botnet - is a group of Internet-connected personal computers that have been infected by a malicious application (malware) that allows a hacker to remotely control the infected computers or mobile devices without the knowledge of the device owners.", 
+        "sentence_id,": "a2f45e7bd5"
+    }, 
+    {
+        "sentence": "Critical Infrastructure - include systems and assets, whether physical or virtual, so critical that the incapacitation or destruction of such systems and assets would have a debilitating impact on security, national economic security, national public health or safety, or any combination thereof.", 
+        "sentence_id,": "71e46eaf76"
+    }, 
+    {
+        "sentence": "This may include water and sewage networks, agriculture, health systems, emergency services, information technology and telecommunications, banking and finance, energy (electrical and wind generated), transportation (air, road, port), postal and shipping entities.", 
+        "sentence_id,": "65e58b440a"
+    }, 
+    {
+        "sentence": "Cybercrime is a crime in which a computer is the object of the crime or is used as a tool to commit an offence.", 
+        "sentence_id,": "39b732db66"
+    }, 
+    {
+        "sentence": "Cyber security - is the implementation of measures to protect ICT infrastructure including critical infrastructure from intrusion, unauthorized access and includes the adoption of policies, protocols and good practices to better govern the use of cyberspace.", 
+        "sentence_id,": "65606205ff"
+    }, 
+    {
+        "sentence": "Cyber Incident Response Team (CIRT) - is a team of dedicated information security specialists that prepares for and responds to cyber security breaches.", 
+        "sentence_id,": "85ecbc17c7"
+    }, 
+    {
+        "sentence": "Denial of Service is a malicious attempt to make a server or a network resource unavailable to users, usually by temporarily interrupting or suspending the services of a host connected to the Internet usually by flooding the target resource with external communication requests.", 
+        "sentence_id,": "6f4265e39b"
+    }, 
+    {
+        "sentence": "Information Security - is the protection of information and information systems from unauthorized access, use, disclosure, disruption, modification, or destruction.", 
+        "sentence_id,": "249f1e6f6e"
+    }, 
+    {
+        "sentence": "The terms information security, computer security and information assurance are understood for these purposes as being interchangeable.", 
+        "sentence_id,": "a181ed92fd"
+    }, 
+    {
+        "sentence": "National Cyber Security Task Force (NCSTF) - established in June 2013 to create a framework to facilitate the building and enhancement of confidence in the use of cyberspace and protection and security of related assets the through collaboration amongst all the stakeholders; with view 31 National Cyber Security Strategy Government of Jamaica to advancing Jamaicas economic and social interests and maintaining national security under all conditions.", 
+        "sentence_id,": "f4063dfa3e"
+    }, 
+    {
+        "sentence": "Phishing - is the attempt to acquire sensitive information such as usernames, passwords, and credit card details (and sometimes, indirectly, money) by masquerading as a trustworthy entity in an electronic communication.", 
+        "sentence_id,": "ee7b4357d4"
+    }, 
+    {
+        "sentence": "Self-regulation - is the process whereby an organization is asked, or volunteers, to monitor its own adherence to legal, ethical, or safety standards, rather than have an outside, independent agency such as a governmental entity monitor and enforce those standards.", 
+        "sentence_id,": "c2b687b6e1"
+    }, 
+    {
+        "sentence": "Stove-piped is a structure which largely or entirely restricts the flow of information within the organisation to up-down through lines of control, inhibiting or preventing cross- organisational communication.", 
+        "sentence_id,": "a0ba225068"
+    }, 
+    {
+        "sentence": "Unauthorized Access is to gain entry to, instruct, or communicate with the logical, arithmetical, or memory function resources of a computer, computer system, or computer network without authorization.", 
+        "sentence_id,": "532f9240c1"
+    }, 
+    {
+        "sentence": "Unauthorized Modification is the unlawful alteration, erasure or addition of any program or data to the contents of a computer or computer systems.", 
+        "sentence_id,": "cb3f8be116"
+    }, 
+    {
+        "sentence": "Create a robust national response and recovery capability for IT systems critical infrastructure systems.", 
+        "sentence_id,": "fcef5722d9"
+    }, 
+    {
+        "sentence": "Ensure that measures are in place to guarantee continuity of operations of all critical infrastructures after a system compromise.", 
+        "sentence_id,": "0f08d3369d"
+    }, 
+    {
+        "sentence": "Promote and encourage adherence to international best practices among owners and operators of critical infrastructure.", 
+        "sentence_id,": "e07f18faa1"
+    }, 
+    {
+        "sentence": "Encourage self-regulation by the owners and operators of critical infrastructure.", 
+        "sentence_id,": "7113733db1"
+    }, 
+    {
+        "sentence": "Develop a system of reporting by owners and operators of critical infrastructure to the Government of any major security breaches detected.", 
+        "sentence_id,": "7b9adb7382"
+    }, 
+    {
+        "sentence": "Establishment of the CIRT with operational and administrative procedures inclusive of continuous monitoring of the national infrastructure and networks to ensure continuity and development.", 
+        "sentence_id,": "5755f2cc36"
+    }, 
+    {
+        "sentence": "Establish fraternal links to international CIRTs with protocols for engagement.", 
+        "sentence_id,": "9cfc52e03c"
+    }, 
+    {
+        "sentence": "Conduct continuous risk assessment to determine current and future threats, as well as, develop and maintain a threat list.", 
+        "sentence_id,": "6dfc6e31f6"
+    }, 
+    {
+        "sentence": "Issue early warnings to stakeholders on a continuous basis to reduce exposure to risks.", 
+        "sentence_id,": "032a7f64c7"
+    }, 
+    {
+        "sentence": "Provide future threats analysis to critical stakeholders and provide information to decision makers to guide the allocation of key assets.", 
+        "sentence_id,": "724044cb73"
+    }, 
+    {
+        "sentence": "Establish a line of communication between the CIRT and law enforcement when cyber incidents are detected for their investigation and conversely to the CIRT whenever a threat is detected by law enforcement.", 
+        "sentence_id,": "e37b3f0da2"
+    }, 
+    {
+        "sentence": "Development of contingency planning methodologies for various sectors especially for critical and essential services.", 
+        "sentence_id,": "d13d96a34f"
+    }, 
+    {
+        "sentence": "Conduct cyber incident response exercises.", 
+        "sentence_id,": "8fffacd21e"
+    }, 
+    {
+        "sentence": "Assess and research existing IT and Information Security standards for the protection ICT infrastructure.", 
+        "sentence_id,": "0d05b5bb1e"
+    }, 
+    {
+        "sentence": "Conduct a national vulnerability assessment and develop and publish standards and guidelines based on the results of the assessment.", 
+        "sentence_id,": "1ceac96dd4"
+    }, 
+    {
+        "sentence": "Implement Government wide IT and Information Security standards, policies and guidelines and monitor and enforce their implementation.", 
+        "sentence_id,": "c85bd77ec3"
+    }, 
+    {
+        "sentence": "Encourage the adoption and implementation of stipulated IT and Information security standards, policies and guidelines by all individuals and institutions.", 
+        "sentence_id,": "80d4f79699"
+    }, 
+    {
+        "sentence": "Conduct a stakeholder mapping exercise and develop a strategic outreach programme for the engagement of regional and international partners.", 
+        "sentence_id,": "b300d4b625"
+    }, 
+    {
+        "sentence": "Utilize regional and international cooperation to improve the technical capacity of cyber security professionals within the government and private sector to enhance the capability to respond to cyber threats.", 
+        "sentence_id,": "6b2bc816ec"
+    }, 
+    {
+        "sentence": "Establish mechanisms for secure information sharing with regional and international stakeholders.", 
+        "sentence_id,": "0e55624941"
+    }, 
+    {
+        "sentence": "Pursue areas of collaboration with other CIRTs (regionally and internationally).", 
+        "sentence_id,": "25d28477bb"
+    }, 
+    {
+        "sentence": "Conduct on an ongoing basis an assessment of the existing and available pool of human resource in the area of Information Security.", 
+        "sentence_id,": "56f6211d16"
+    }, 
+    {
+        "sentence": "Modify school curricula for secondary and tertiary students to expose and bring focus to information security.", 
+        "sentence_id,": "9fed6d1586"
+    }, 
+    {
+        "sentence": "Specify minimum professional and academic standards for entry into employment in the field of information security.", 
+        "sentence_id,": "b6306b1cb2"
+    }, 
+    {
+        "sentence": "Establish targeted training in cyber security for specific stakeholders such as MSMEs, members of the public sector, judiciary, law enforcement and military.", 
+        "sentence_id,": "68f3c92c6e"
+    }, 
+    {
+        "sentence": "Actively engage in talent recruitment initiatives in the cyber security field.", 
+        "sentence_id,": "9305a9b01b"
+    }, 
+    {
+        "sentence": "Promote careers in Information Security.", 
+        "sentence_id,": "a15818268e"
+    }, 
+    {
+        "sentence": "Promote the adoption by all stakeholders of human resource training policies that will ensure continuity of cyber security operations and implementation of best practices.", 
+        "sentence_id,": "702a6a5480"
+    }, 
+    {
+        "sentence": "Collaborate and facilitate exchanges with other institutions with capability and knowledge in cyber security.", 
+        "sentence_id,": "91ba6b2d68"
+    }, 
+    {
+        "sentence": "Foster the development of cyber security products and services through research and development.", 
+        "sentence_id,": "89e888e7c8"
+    }, 
+    {
+        "sentence": "Develop joint research and development projects between public and private sectors and academia (nationally, regionally and internationally) to build innovative cyber security solutions.", 
+        "sentence_id,": "781a65d119"
+    }, 
+    {
+        "sentence": "Develop a forum to facilitate the exchange of knowledge among stakeholders.", 
+        "sentence_id,": "dc203d65ea"
+    }, 
+    {
+        "sentence": "Identify and access available resources (national, regional and international) that provide capacity building for cyber security.", 
+        "sentence_id,": "3aa05e5fa7"
+    }, 
+    {
+        "sentence": "Explore the opportunities for the establishment of a fund dedicated to capacity building in cyber security through public private partnership.", 
+        "sentence_id,": "ffa0515b45"
+    }, 
+    {
+        "sentence": "Promote scholarship programmes or funding for the development of cyber security innovations.", 
+        "sentence_id,": "1caaa40c47"
+    }, 
+    {
+        "sentence": "Assess the legislative framework that supports cyber security issues with a view of identifying gaps and recommend measures to fill these gaps.", 
+        "sentence_id,": "863ec33bce"
+    }, 
+    {
+        "sentence": "Establish a continuous review process to ensure that there is an updated and robust legislative framework that is appropriately aligned with international best practice and creates a safe environment for all activities within the cyber domain including: a.", 
+        "sentence_id,": "d3cde148b8"
+    }, 
+    {
+        "sentence": "Define and ensure that there is a proper governance framework for cybersecurity.", 
+        "sentence_id,": "d6985688c3"
+    }, 
+    {
+        "sentence": "Create an environment that supports the exchange of information in the area of cyber security both nationally and internationally.", 
+        "sentence_id,": "d000270898"
+    }, 
+    {
+        "sentence": "Broaden and improve the capabilities of the bodies responsible for investigating and prosecuting cybercrimes (including judiciary, law enforcement and prosecutors).", 
+        "sentence_id,": "190db5a7f6"
+    }, 
+    {
+        "sentence": "Promote the exchange of information, intelligence and expertise with respect to cybercrimes and encourage cooperation with national, regional and international entities.", 
+        "sentence_id,": "8a96ae48bf"
+    }, 
+    {
+        "sentence": "Ensure that legal and law enforcement professionals have access to training that provides them with the necessary level of knowledge to apply the associated legal and technical framework more effectively.", 
+        "sentence_id,": "d7e2e70433"
+    }, 
+    {
+        "sentence": "Enhance cyber security awareness among legal and law enforcement professionals about the trends in cyber security and cybercrime.", 
+        "sentence_id,": "3941fbc6a6"
+    }, 
+    {
+        "sentence": "Pursue cyber security policies and legislation that preserves the right to privacy and other fundamentals rights and freedoms.", 
+        "sentence_id,": "21b35d68cf"
+    }, 
+    {
+        "sentence": "2. Review legislative landscape to ensure adequate protection of vulnerable groups within the society, such as children, disabled, elderly, from cyber threats.", 
+        "sentence_id,": "29c7646a09"
+    }, 
+    {
+        "sentence": "Actively pursue bilateral and multilateral agreements to support law enforcement activities in cross border attacks against Jamaican citizens.", 
+        "sentence_id,": "5b34d115b6"
+    }, 
+    {
+        "sentence": "Conduct a national assessment on the level of awareness and explore the various marketing strategies to inform the public awareness campaign.", 
+        "sentence_id,": "31cc9b9044"
+    }, 
+    {
+        "sentence": "Implement programmes that promote the adoption of safe practices online by vulnerable groups within the society including children, women, aged, mentally challenged and returning residents.", 
+        "sentence_id,": "896042287d"
+    }, 
+    {
+        "sentence": "Encourage stakeholders to incorporate protective tools and measures, targeted at protecting the vulnerable groups, into the products and services offered.", 
+        "sentence_id,": "f6a774831d"
+    }, 
+    {
+        "sentence": "Establish a National Cyber Security Day, working in tandem with other initiatives such as Internet Day, with the aim of raising and promoting awareness in the key areas of cyber security.", 
+        "sentence_id,": "44b54b2c7b"
+    }, 
+    {
+        "sentence": "Launch Public Awareness campaign targeted at specific groups and the general public.", 
+        "sentence_id,": "5917b424c2"
+    }, 
+    {
+        "sentence": "Develop public private partnerships and collaborative relationships to build awareness in cyber security.", 
+        "sentence_id,": "266bb47177"
+    }, 
+    {
+        "sentence": "Identify and leverage, through Private and Public Partnerships at the national, regional and international levels, existing resources for increasing cyber security awareness.", 
+        "sentence_id,": "f47c2672c3"
+    }, 
+    {
+        "sentence": "Ensure that current and applicable information related to cyber security is easily accessible to the Jamaican population.", 
+        "sentence_id,": "82633f6a5e"
+    }, 
+    {
+        "sentence": "Establish policies and guidelines across the public sector to engrain cyber security awareness and best practices in the implementation of all relevant initiatives and projects.", 
+        "sentence_id,": "78ebe683f7"
+    }, 
+    {
+        "sentence": "39 National Cyber Security Strategy Government of Jamaica MSTEM, MNS, CIRT, JIS Private Sector", 
+        "sentence_id,": "ecda3a405e"
+    }
+]
