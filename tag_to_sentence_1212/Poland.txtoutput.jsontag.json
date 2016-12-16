@@ -1,0 +1,716 @@
+[
+    {
+        "sentence_id,": "fbfc1fb7cd", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "ASSESSMENT OF EFFECTIVENESS OF THE POLICY .................................................................... 22 6.1 EXPECTED EFFECTS OF THE POLICY ............................................................................................................................. 23 6.2 EFFECTIVENESS OF ACTIONS .......................................................................................................................................... 24 6.3 MONITORING THE EFFECTIVENESS OF ACTIONS AS A PART OF THE ADOPTED POLICY ........................................ 24 6.4 CONSEQUENCES OF VIOLATING THE PROVISIONS OF THE POLICY ........................................................................... 24 ----------------------- Page 4----------------------- This document has been drawn up in the Ministry of Administration and Digitization in cooperation with the Internal Security Agency, based on: the document discussed on 9 March 2009 by the Standing Committee of the Council of Ministers, The Government Cyberspace Protection Programme of the Republic of Poland for 2009-2011 Principles, the periodic reports on the security status of the gov.pl area, published by the Governmental Computer Security Incident Response Team CERT.GOV.PL, the decision of the Chairman of the Committee of the Council of Ministers for Digitization No."
+    }, 
+    {
+        "sentence_id,": "35e9a8fe8d", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The main prerequisites and assumptions of the Cyberspace Protection Policy of the Republic of Poland In the face of globalization, the cyberspace security has become one of the key strategic objectives in the area of security of each country."
+    }, 
+    {
+        "sentence_id,": "4b1105e9e4", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The ICT systems operated by the government administration, the legislative authorities, the judiciary, local government, as well as the strategic systems from the point of view of the security of the State as well as entrepreneurs and natural persons are covered by this Cyberspace Protection Policy of the Republic of Poland, hereinafter referred to as the Policy."
+    }, 
+    {
+        "sentence_id,": "e8da258616", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "A part of the Policy includes the support for social initiatives aimed at implementing the tasks coinciding with this document."
+    }, 
+    {
+        "sentence_id,": "55c11d8369", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Accepting the status of the Policy for this document, it should be noted that under the current system of governmental strategic documents a Policy is in the group of strategic documents detailing the courses of action identified in the strategies, development programmes and other programme documents, which do not specify new priorities and activities."
+    }, 
+    {
+        "sentence_id,": "b058444cb2", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The Policy does not cover with its task area the classified ICT systems."
+    }, 
+    {
+        "sentence_id,": "6fee4ac27b", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Strategic Objective The strategic objective of the Policy is to achieve an acceptable level of cyberspace security of the State."
+    }, 
+    {
+        "sentence_id,": "285bd6bf25", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "At the same time, the Policy is in line with the objectives of: 1) the Digital Agenda for Europe of the European Council [COM(2010)245]; 2) the Strategy for Development of Information Society; 3) the National Security Strategy; 4) the Medium-Term National Development Strategy; 5) the Europe 2020 Strategy; 6) the Efficient State Strategy."
+    }, 
+    {
+        "sentence_id,": "cf056ce9d0", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Page 6 of 24 Ministry of Administration and Digitisation, Internal Security Agency ----------------------- Page 8----------------------- The objectives of the Policy are implemented through: a) the coordination system to prevent and respond to threats and attacks on cyberspace, including attacks of a terrorist nature; b) the widespread adoption of mechanisms for the prevention and early detection of threats to the cyberspace security and the proper procedure for the identified incidents among the government administration units as well as non-state actors; c) the general and specialized social education in the field of security of CRP."
+    }, 
+    {
+        "sentence_id,": "3dec98ecdc", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Addressees and extent of impact The Policy is addressed to all the cyberspace users within the State and beyond its territory, in places where the representatives of the RP are functioning (diplomatic agencies, military levies)."
+    }, 
+    {
+        "sentence_id,": "aa80a6a1cc", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "This Policy applies to the government administration: 1) offices supporting the state bodies of government administration: Prime Minister, the Council of Ministers, ministers and chairmen specified in statutes of committees; 2) offices supporting central bodies of government administration: other than the above-mentioned, i.e."
+    }, 
+    {
+        "sentence_id,": "747f4b3dbe", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "At the same time the Policy is recommended for local government administration of communes, districts and provinces and other offices (units which do not belong to the state and local government administration), including: a) Chancellery of the President of the Republic of Poland; b) Chancellery of the Sejm of the Republic of Poland; c) Chancellery of the Senate of the Republic of Poland; d) Office of the National Broadcasting Council; e) Office of the Human Rights Defender; f) Office of the Childrens Ombudsman; g) Office of the National Council of the Judiciary of Poland; h) offices of state control bodies and protection of the law; i) National Bank of Poland; j) office of the Polish Financial Supervision Authority; k) state legal persons and state organizational units other than the above- mentioned."
+    }, 
+    {
+        "sentence_id,": "2a45ee39c3", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Ministry of Administration and Digitisation, Internal Security Agency Page 7 of 24 ----------------------- Page 9----------------------- The Policy is at the same time a guide to actions for all other users of cyberspace who are not mentioned above."
+    }, 
+    {
+        "sentence_id,": "11d9b9cfc7", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Establishing responsibility for the security of CRP Due to the international nature of the Policy the entity coordinating the implementation of the Policy, on behalf of the Council of Ministers, is the minister responsible for informatization who, with the help of the Team referred to in point 3.4.1, ensures coordination and consistency of actions undertaken to ensure the security of CRP."
+    }, 
+    {
+        "sentence_id,": "440921a852", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "It is also important to increase the participation of users of CRP in the implementation of the Policy by consulting its content and participation in the coordination of the implementation of the Policy and its reviews with the representatives of society and ICT community."
+    }, 
+    {
+        "sentence_id,": "0b9bb79002", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Compliance of the Policy with legal acts The Policy is in compliance with the generally applicable laws of the Republic of Poland (the Constitution, acts, ratified international agreements and regulations) and without prejudice to any of them."
+    }, 
+    {
+        "sentence_id,": "03248bee02", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "For this purpose it is necessary to determine the minimum security standard which will allow for the implementation of this objective and will reduce to the minimum potential damage which may be entailed by attack on individual elements of cyberspace of RP."
+    }, 
+    {
+        "sentence_id,": "cad5ecd679", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The Policy is the basis for developing the concept of management of infrastructure security functioning within CRP and developing guidelines for the creation of the legal basis serving the implementation of tasks in this regard by the government administration."
+    }, 
+    {
+        "sentence_id,": "931496c50c", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "In this respect, the Policy does not affect the provisions contained in the National Critical Infrastructure Protection Programme."
+    }, 
+    {
+        "sentence_id,": "20476aa68c", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The Policy indicates the need to develop the concept of ensuring security of infrastructure functioning within CRP and prepare legal basis for performance of tasks in this regard by the government administration."
+    }, 
+    {
+        "sentence_id,": "c415cb9f58", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "As a part of actions connected with the implementation of the Policy a risk assessment is carried out with regard to the identification of resources, sub-systems, functions and dependencies on other systems relevant to the functioning of CRP."
+    }, 
+    {
+        "sentence_id,": "b027a520a7", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "At the same time, the implementation of the Policy will allow for the development of target guidelines for performance of risk estimates and model of reports containing general data on types of risks, threats and vulnerabilities identified in each of the sectors of the Polish economy in relation to the constitutional tasks carried out on the basis of CRP."
+    }, 
+    {
+        "sentence_id,": "61cee19583", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "There is a need to develop, on the basis of the conducted risk analysis, the minimum safety standards according to which the identified resources and systems will be protected, thanks to which the constitutional obligations of the State are fulfilled."
+    }, 
+    {
+        "sentence_id,": "696365fd8c", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The main lines of action The Policy will be implemented through the following actions, in accordance with the priorities resulting from the order shown."
+    }, 
+    {
+        "sentence_id,": "b30a13af47", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Principles of procedural and organizational actions An important step in the implementation of the Policy will be the procedural and organizational actions."
+    }, 
+    {
+        "sentence_id,": "0d6a907ae2", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Their aim is to optimize the functioning of CRP through the implementation of best practices and standards in this area."
+    }, 
+    {
+        "sentence_id,": "0af2cb5f6b", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Management of the cyberspace security of the Republic of Poland As a part of the management of the cyberspace security of the RP, as well as to improve the process of implementation of the Policy objectives and to ensure effectiveness of the State authorities in the field of security of CRP, it is necessary for the Prime Minister to appoint a team responsible for the preparation of recommendations concerning the implementation and coordination of any actions related to its security (hereinafter referred to as the Team)."
+    }, 
+    {
+        "sentence_id,": "d2bf84a3e2", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "The primary task of the Team shall be recommending actions aimed at coordination 1 A soft regulation means, for example, codes of good practice, guidelines, recommendations, code of ethics, etiquette, best practices or standards, etc."
+    }, 
+    {
+        "sentence_id,": "a0a0c2a092", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "It is assumed that the public body will develop and modify according to the needs, and implement a security policy for ICT systems used by it for the execution of public tasks."
+    }, 
+    {
+        "sentence_id,": "c09478b1a6", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "While developing the security policy a public body includes obligations arising from the Act of 17 February 2005 on the informatization of entities performing public tasks (OJ No."
+    }, 
+    {
+        "sentence_id,": "e79018ba8b", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "In order to ensure consistency of information security policies of organizational units, it is assumed that the minister responsible for informatization in consultation with the Minister of National Defence and the Head of the Internal Security Agency may prepare guidelines for information security management systems."
+    }, 
+    {
+        "sentence_id,": "a432ff8923", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The Policy does not indicate the location of a plenipotentiary for cyberspace security in the structure of an organizational unit, however, the role of a plenipotentiary should be assigned to the person responsible for carrying out the process of ICT security."
+    }, 
+    {
+        "sentence_id,": "38d6842e09", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "3) teachers since 2004, the education of teachers within the specializations has taken place in accordance with the Regulation of the Minister of National 3 Education, defining the standards of teacher education."
+    }, 
+    {
+        "sentence_id,": "0098279ed5", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "3 Regulation of the Minister of National Education and Sport of 7 September 2004 on teacher education standards (OJ No."
+    }, 
+    {
+        "sentence_id,": "bae2ceeba6", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Mass media as an important partner in promoting security issues, CRP and popularization of projects contained in the Policy will improve the effectiveness of execution of the objectives."
+    }, 
+    {
+        "sentence_id,": "9e5ba8738b", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "With its help during the implementation of the Policy it will be also possible to carry out informational and educational campaigns."
+    }, 
+    {
+        "sentence_id,": "fae5b5255a", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The assumption is that as a part of the social campaign information about the ICT security and educational and organizational and legal undertakings within the Policy will be presented on the websites of the Ministry of Administration and Digitization and on the website of the Governmental Computer Security Incident Response Team CERT.GOV.PL."
+    }, 
+    {
+        "sentence_id,": "db21c05557", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "At the same time, an effective communication of content, initiatives and results of the Policy to broad social and professional circles is assumed."
+    }, 
+    {
+        "sentence_id,": "25ffa80516", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "plan for dealing with risk), the last stage of implementation of the Policy should be technical actions."
+    }, 
+    {
+        "sentence_id,": "675c30d4be", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "It is assumed that the entity coordinating the implementation of the Policy provisions in this regard will be the Ministry of Science and Higher Education (MNiSW), as the one responsible for the research and development work."
+    }, 
+    {
+        "sentence_id,": "e770cb1956", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The list of initiatives which take account of the dynamics of the state of knowledge will be defined at the level of specific projects, developed on the basis of the Policy and may be revised at the initiative of the competent bodies responsible for its implementation."
+    }, 
+    {
+        "sentence_id,": "6a8a7e5209", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Implementation and delivery mechanisms of the provisions of the document It is assumed that the objectives and principles of the Policy will be executed taking into account risk assessment and implemented within the specific projects."
+    }, 
+    {
+        "sentence_id,": "e9d29f3f2c", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Supervision and coordination of the implementation Due to the international nature of the Policy the body supervising its implementation is the Council of Ministers."
+    }, 
+    {
+        "sentence_id,": "01bc7fa596", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Information exchange mechanism An efficient system of coordination will ensure the exchange of information gained from the international cooperation between the governmental, military and civilian teams, in accordance with applicable law, and in particular in accordance with the Act of 29 August 1997 on the protection of personal data (OJ of 2002, No."
+    }, 
+    {
+        "sentence_id,": "01fba43a4b", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The Policy assumes taking up actions activating the cooperation between entrepreneurs managing their own ICT infrastructure, falling within the ICT infrastructure of CRP of a similar nature, and thus exposed to similar types of vulnerabilities and methods of attacks."
+    }, 
+    {
+        "sentence_id,": "dcef3301d5", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "4.6. International cooperation Due to the global nature of the problems related to cyberspace security, an important element is to maintain and develop international cooperation in this regard."
+    }, 
+    {
+        "sentence_id,": "7197c12805", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Page 20 of 24 Ministry of Administration and Digitisation, Internal Security Agency ----------------------- Page 22----------------------- 5. Financing The Policy will not imply additional resources from the state budget to finance the assumed activities in the year of its entry into force, because the current organizational units of government administration have been already partially fulfilling the objectives set out in the Policy."
+    }, 
+    {
+        "sentence_id,": "634b82193b", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "It is assumed that since the entry into force of the Policy individual units are estimating the costs of the implemented tasks corresponding to the tasks imposed by this Policy."
+    }, 
+    {
+        "sentence_id,": "e8544f70a3", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Necessary expenses related to the implementation of the Policy will be financed within the limit of budgetary expenditure provided for in the relevant part of the budget in the budget act for a given year."
+    }, 
+    {
+        "sentence_id,": "61ca6ac044", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Assessment of effectiveness of the Policy Due to the innovative nature of this document, detailed indicators of implementation of the provisions of the Policy will be developed following the risk assessment."
+    }, 
+    {
+        "sentence_id,": "753de9f82a", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "It is assumed that the presented proposals of global indicators will be used in updating the Policy and allow for assessment of the degree of implementation of the planned objectives and tasks related to the security of CRP."
+    }, 
+    {
+        "sentence_id,": "e8ad3b2d33", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The degree of implementation of projects related to the implementation of the strategic objective and specific objectives of the Policy will be evaluated within the specific projects by the following criteria: 1) the degree of saturation of all organizational units which have security systems and early warning systems in relation to the number of public administration employees; 2) the level of integration: a) the method and procedure for the exchange of information between teams, ensuring confidentiality, integrity and availability, b) the possibilities for and scope of achieving a common, dynamic imagery of cyberspace covered by this Policy, 3) the degree of standardization the degree of implementation of the standards, categories of incidents and procedures; 4) the degree of equipping the systems in a comprehensive anti-virus software, firewalls, anti-spam with relation to those requiring protection (identification of resources)."
+    }, 
+    {
+        "sentence_id,": "7eec9e0e37", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Within one year from the entry into force of the Policy, each involved entity, referred to in point 1.4. paragraph 1 of this document, shall estimate (in %) to what extent the principles of the Policy have been already achieved."
+    }, 
+    {
+        "sentence_id,": "3122bb2fe9", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Expected effects of the Policy The following long-term effects of actions resulting from the implementation of this Policy and specific projects developed on its basis are expected: a higher level of security of CRP and a higher level of resistance of the state to attacks in CRP, a policy concerning the cyberspace security consistent for all the involved agents, lower effectiveness of terrorist attacks in CRP and lower costs of removing the results of cyberterrorist attacks, effective system of coordination and exchange of information between public and private entities responsible for ensuring the security of cyberspace and those administering the resources constituting the critical ICT infrastructure of the state, greater competence of actors involved in the ICT infrastructure security of the State functioning in cyberspace, Ministry of Administration and Digitisation, Internal Security Agency Page 23 of 24 ----------------------- Page 25----------------------- greater confidence of the citizens in the proper protection of the state services provided by electronic means, greater public awareness as to the methods of the safe use of systems available electronically and ICT networks."
+    }, 
+    {
+        "sentence_id,": "7edff4c8d4", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Effectiveness of actions The measure of effectiveness of actions undertaken as a part of the Policy will be the assessment of the created regulations, institutions and relationships which will enable the actual existence of an effective cyberspace security system."
+    }, 
+    {
+        "sentence_id,": "475577f1dd", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Monitoring the effectiveness of actions as a part of the adopted Policy Reports on the progress of implementation of the Policy will be sent by the bodies mentioned in point 1.4 to the minister responsible for informatization."
+    }, 
+    {
+        "sentence_id,": "2970f5e7c5", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Consequences of violating the provisions of the Policy Each government administration entity shall apply the provisions of this Policy, regardless of liability specified in the provisions of generally applicable law."
+    }, 
+    {
+        "sentence_id,": "e188a9d1c0", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Violation of the rules set out in this Policy may result in the exclusion of the entity from the information society and emergence of barriers in access to public information."
+    }, 
+    {
+        "sentence_id,": "cd3d95cd43", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Entities implementing the Policy in question should indicate ways for securing information systems, procedures for the ICT security breach in information systems in security policies of these systems."
+    }
+]

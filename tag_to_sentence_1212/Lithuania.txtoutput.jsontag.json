@@ -1,0 +1,50 @@
+[
+    {
+        "sentence_id,": "6fdee4fe88", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "The compliance with the requirements on electronic information security (cyber security) ensures that information resources are managed in accordance with the requirements of international standards and examples of good practice, however, Lithuania has no efficient compliance management structure; the information maturity model of an organization allows for a better awareness among information resources managers of the need for information resources security and a more efficient management thereof."
+    }, 
+    {
+        "sentence_id,": "7a51935f9b", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "In order to achieve the objective specified in paragraph 6.1 of the Programme, the following tasks shall be implemented: 7.1. to improve the coordination and supervision of electronic information security (cyber security); 7.2. to improve the regulatory framework of electronic information security (cyber security); 7.3. to expand and improve a secure national information infrastructure; 7.4. to promote the implementation of electronic information (security cyber security) projects; 7.5. to develop international cooperation in the area of electronic information security (cyber security)."
+    }, 
+    {
+        "sentence_id,": "e2903f18e2", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "To ensure the security of national information resources 1.1. to improve the coordination and monitoring of electronic information security (cyber security); Assessment criterion Indicator Indicator Indicator in 2011 in 2015 in 2019 Level of compliance of national information resources with security requirements, (%) 95 98 Level of resources (%), security of which is monitored by an institution designated by the law on the basic requirements related to ensuring electronic information security (cyber security) Percentage of entities in defining and implementing national policy in the area of electronic information security (cyber security) that belong to the national system of coordination of electronic information security (cyber security), (%) Permanent collegial consultative council of electronic information security (cyber security) established Number of evaluation studies of existing capabilities in the area of electronic information security (cyber security) and their potential 70 100 80 100 yes yes 1 2 Institution responsible for implementation of the criterion All the institutions specified in items 3 to 29 of this Annex, according to their competences All the institutions specified in items 3 to 10 of this Annex, according to their competences Ministry of the Interior, Ministry of National Defence, Ministry of Transport and Communications, State Data Protection Inspectorate Ministry of the Interior 2 No."
+    }, 
+    {
+        "sentence_id,": "121166c93c", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "implemented jointly with public institutions, (%) 1.5. to develop Number of areas (the pillars for addressing the international cooperation challenges specified in the EC Communication in the area of electronic COM (2009) 149 of 30 March 2009) of information security international cooperation (cyber security) Participation, upon invitation, in the events on electronic information security (cyber security) organized by the NATO, European Union and the United Nations Organization, (%) 30 50 3 5 50 80 Number of representatives delegated to the NATO Cooperative Cyber Defence Centre of Excellence Participation, upon invitation, in events organized by to the NATO Cooperative Cyber Defence Centre of Excellence, (%) Participation, upon invitation, in international cyber security exercises, (%) 1 1 2 50 80 50 80 Percentage of projects that received proposals from associations, (%) Institution responsible for implementation of the criterion Ministry of the Interior, Communications Regulatory Authority Ministry of Education and Science, Ministry of the Interior, Communications Regulatory Authority, LITNET Council All the institutions specified in items 26 to 29 of this Annex, according to their competences Communications Regulatory Authority, Ministry of National Defence, Ministry of the Interior, Ministry of Transport and Communications Ministry of National Defence Communications Regulatory Authority, Ministry of National Defence, LITNET Council 6 No."
+    }
+]

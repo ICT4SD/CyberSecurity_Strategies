@@ -1,0 +1,230 @@
+[
+    {
+        "sentence_id,": "f33da7eeaa", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "These will be based on world class strategies developed by the Australian Signals Directorate and aligned with international standards where possible."
+    }, 
+    {
+        "sentence_id,": "165e54deeb", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "This work will be enhanced through the appointment of a Cyber Ambassador who will identify opportunities for practical international cooperation and ensure Australia has a coordinated, consistent and influential voice on international cyber issues."
+    }, 
+    {
+        "sentence_id,": "4afc524a87", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Australia supports a cyberspace in which states abide by international law and their behaviour is supported and reinforced by agreed normsor standards for appropriate conductand practical confidence building measures that reduce the risk of conflict."
+    }, 
+    {
+        "sentence_id,": "a3da7b73a2", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The Government launched its Cloud Computing Policy in 2014, requiring Government agencies to adopt a cloud first approachwhere it is fit for purpose, provides adequate protection of data and delivers value for money."
+    }, 
+    {
+        "sentence_id,": "36e85ad79c", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "The Australian Cyber Security Centre has also provided guidance on secure cloud computing, including a list of Certified Cloud Services."
+    }, 
+    {
+        "sentence_id,": "e95bdb7166", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "A new streamlined Government cyber security structure will bring together disparate elements of both the policy and operational areas."
+    }, 
+    {
+        "sentence_id,": "151381cd7f", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "First, the Department of the Prime Minister and Cabinet will strengthen its current lead role on cyber security policy and be the central point for policy issues to ensure a simplified Government policy interface for stakeholders."
+    }, 
+    {
+        "sentence_id,": "04017cd73d", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The Department will provide integrated oversight of the Governments cyber security policy and implementation of this Strategy."
+    }, 
+    {
+        "sentence_id,": "eeebc2cbc6", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Governments Cyber Security Architecture Governance arrangements (overseen by Special Adviser on Cyber Security) Policy Special Adviser on Cyber Security (Department of the Prime Minister and Cabinet) Operations Australian Cyber Security Centre Coordinator (Department of Defence) International Engagement Cyber Ambassador (Department of Foreign Affairs and Trade) Leadership and advocacy of this work will be driven by a new position in the Department, the Prime Ministers Special Adviser on Cyber Security."
+    }, 
+    {
+        "sentence_id,": "876cd87b5a", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Although some organisations may be implementing international cyber security standards that all organisations can achieve, others are not doing so."
+    }, 
+    {
+        "sentence_id,": "f95b1c7713", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "The Government will provide support for small businesses to have their cyber security tested by certified practitioners."
+    }, 
+    {
+        "sentence_id,": "968e5a000e", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "The Government will also support the Council of Registered Ethical Security Testers (CREST) Australia New Zealand to expand its certification of information security testing services."
+    }, 
+    {
+        "sentence_id,": "79ff5e5eda", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "CREST AUSTRALIA NEW ZEALAND The Council of Registered Ethical Security Testers (CREST) Australia New Zealand is a not-for-profit cyber security standards organisation where member companies become CREST Approved if they meet appropriate governance standards."
+    }, 
+    {
+        "sentence_id,": "450a4d34c6", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "CREST Australia New Zealand then provides accreditation and certification for employees and contractors of CREST Approved Member Companies through practical exams in penetration testing and soon other in-demand areas of cyber security."
+    }, 
+    {
+        "sentence_id,": "8130170a40", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "CREST certified practitioners, while being attached to CREST Approved Companies with good governance, give businesses in Australia and the region the confidence that testing of the cyber security of their networks and systems is done by skilled cyber security professionals."
+    }, 
+    {
+        "sentence_id,": "71e82fc164", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "In 2013, the Australian National Audit Office completed an audit of seven agencies compliance with the Governments cyber security policies and found most fell well short."
+    }, 
+    {
+        "sentence_id,": "b3686de154", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Cyber security is a critical issue for Australias international cooperation."
+    }, 
+    {
+        "sentence_id,": "a344eb830f", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Cyberspace is already a core foreign policy issue and a central theme of Australias diplomatic efforts."
+    }, 
+    {
+        "sentence_id,": "4a35c4df65", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "CYBER POLICY DIALOGUES In 2014-15 Australia opened formal multi-agency cyber policy dialogues with China, India, Japan and the Republic of Korea to strengthen our partnerships in Asia."
+    }
+]

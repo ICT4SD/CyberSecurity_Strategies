@@ -1,0 +1,830 @@
+[
+    {
+        "sentence_id,": "859af322b1", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "NATIONAL INFORMATION SECURITY FRAMEWORK (NISF) PUBLICATION _______________________________________________________________ National Information Security Policy _______________________________________________________________ UNCLASSIFIED Version History No."
+    }, 
+    {
+        "sentence_id,": "1f910ecef7", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Date Section Amendment 0.1 08/01/2014 Draft Initial draft for NITA-U consideration 1.0 11/02/2014 Final Draft Updated after NITA-U Review 2 UNCLASSIFIED Table of Contents 1 Introduction .................................................................................................................................... 6 1.1 Overview ................................................................................................................................... 6 1.2 Applicability of National Information Security Policy ................................................................. 6 1.2.1 Critical Infrastructure (CI) .................................................................................................. 6 1.2.2 Critical Information Infrastructure (CII) .............................................................................. 7 1.3 Policy Review Cycle ................................................................................................................. 7 1.4 Structure of National Information Security Policy ..................................................................... 7 1.5 Adaptation of Security Controls ................................................................................................ 7 1.6 Applicable Legislation ............................................................................................................... 7 2 Policy Context ................................................................................................................................ 8 2.1 3 Guiding Principles ......................................................................................................................... 9 3.1 3.2 3.3 3.4 3.5 3.6 3.7 4 National Information Security Strategy ..................................................................................... 8 Top Leadership Accountability ................................................................................................. 9 Collective Responsibility ........................................................................................................... 9 Personal Accountability ............................................................................................................ 9 Risk Management/Proportionality............................................................................................. 9 Secure/Assured Sharing ........................................................................................................... 9 Suitable, Trustworthy and Reliable Staff .................................................................................. 9 Resilience ............................................................................................................................... 10 Security Governance ................................................................................................................... 12 4.1 Introduction ............................................................................................................................. 12 4.2 Policy Statement on Information Security .............................................................................. 13 4.2.1 Issue Policy Statement on Information Security .............................................................. 13 4.2.2 Articulate Information Risk Appetite ................................................................................ 13 4.3 Information Security Organisation .......................................................................................... 14 4.3.1 Responsibilities of Boards & Accounting Officers ........................................................... 14 4.3.2 Responsibilities of Information Risk Owner ..................................................................... 15 4.3.3 Responsibilities of Information Asset Owners ................................................................. 15 4.3.4 Responsibilities of Security Coordination Group ............................................................. 15 4.3.5 Responsibilities of Operational Security team ................................................................. 16 4.4 Risk Management ................................................................................................................... 16 4.5 Awareness, Education and Training ....................................................................................... 17 4.6 Business Continuity & Disaster Recovery .............................................................................. 17 4.7 Incident Management ............................................................................................................. 18 4.8 Assurance & Compliance ....................................................................................................... 19 5 Information Security .................................................................................................................... 22 5.1 Introduction ............................................................................................................................. 22 5.1.1 GoU information security commitment ............................................................................ 22 5.1.2 Applicability of information security requirements ........................................................... 22 5.1.3 Information Security and Security Governance ............................................................... 23 5.2 Information Security Policy ..................................................................................................... 23 5.3 Asset Management ................................................................................................................. 24 5.4 Secure Information Sharing .................................................................................................... 25 5.5 Supply Chain Security ............................................................................................................ 26 5.6 Access Management .............................................................................................................. 27 5.7 Network Security Controls ...................................................................................................... 28 5.8 Malicious Code Protection ...................................................................................................... 29 5.9 Portable and Removable Media Security ............................................................................... 30 5.10 Remote Access Security ..................................................................................................... 31 3 UNCLASSIFIED 5.11 5.12 5.13 6 Protective Monitoring .......................................................................................................... 33 Information Back-Ups ......................................................................................................... 34 Security Accreditation ......................................................................................................... 36 Personnel Security ...................................................................................................................... 38 6.1.1 Introduction ...................................................................................................................... 38 6.1.2 Personnel Security and Risk Management ..................................................................... 38 6.2 Security Roles & Responsibilities ........................................................................................... 38 6.3 Baseline Security Clearance .................................................................................................. 39 6.3.1 Baseline Security Clearance Defined .............................................................................. 39 6.4 National Security Vetting ........................................................................................................ 41 6.4.1 SECRET Clearance ........................................................................................................ 41 6.4.2 TOP SECRET Clearance ................................................................................................ 41 6.5 Ongoing Personnel Security Management ............................................................................. 43 7 Physical Security ......................................................................................................................... 46 7.1.1 Physical Security, Governance and Risk Management .................................................. 46 7.1.2 Physical Security in Context ............................................................................................ 46 7.2 Physical Security Perimeter .................................................................................................... 46 7.3 Physical Entry Controls........................................................................................................... 47 7.4 Internal Data Centre Physical Access Controls ...................................................................... 49 7.5 Equipment Security................................................................................................................. 50 7.6 Secure Equipment Disposal & Re-Use................................................................................... 51 4 UNCLASSIFIED Introduction 5 1 Introduction 1.1 Overview This document is the National Information Security Policy."
+    }, 
+    {
+        "sentence_id,": "65b8329f1e", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The policy outlines the mandatory minimum security controls that all public and private sector organisations that use, own and/or operate protected computers, handle official communications and personal data must apply to reduce their vulnerability to cyber threats."
+    }, 
+    {
+        "sentence_id,": "cad2f38894", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The use of the security measures mandated by this policy would increase the capacity of organisations to endure and recover from cyber attacks."
+    }, 
+    {
+        "sentence_id,": "e24fef7a2e", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "1.2 Applicability of National Information Security Policy As noted above, this policy is mandatory for all public and private sector organisations that use, own and/or operate protected computers, handle official communications and personal data."
+    }, 
+    {
+        "sentence_id,": "b17f9cfba6", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "This policy adopts the International Telecommunication Union (ITU)s definition of critical infrastructure (CI)."
+    }, 
+    {
+        "sentence_id,": "76692f28ac", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "This policy addresses all aspects of the ITU definition of CI because it covers governance, information, personnel and physical security."
+    }, 
+    {
+        "sentence_id,": "3e5a4e52ff", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "1.3 Policy Review Cycle NITA-U shall review this policy, at least annually, to help ensure that it maintains relevance to business needs, cyber threats and approaches for countering them."
+    }, 
+    {
+        "sentence_id,": "b88c34cb22", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "1.4 Structure of National Information Security Policy The National Information Security Framework (NISF) comprises of five tiers or levels."
+    }, 
+    {
+        "sentence_id,": "f5b4261799", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "This policy is at tier three."
+    }, 
+    {
+        "sentence_id,": "ed8824676a", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The policy presents a set of mandatory minimum-security requirements under four headings or parts, which are: 1.5 Security governance; Information security; Personnel security; and Physical security Adaptation of Security Controls It is important to stress that the mandated minimum requirements contained in this policy define baseline security controls only."
+    }, 
+    {
+        "sentence_id,": "66ec138f3f", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "As a result, organisations must adapt the security controls provided for by this policy to their circumstances."
+    }, 
+    {
+        "sentence_id,": "adfd2d9282", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Policy Context The Government of Uganda (GoU) regards information security as an enabler of the efficient, effective, safe and secure delivery of public services."
+    }, 
+    {
+        "sentence_id,": "995cdeba3c", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "This policy adopts the US ISO/IEC 27001 Plan-Do-Check-Act (PDCA) continuous improvement model to structure all security governance processes as illustrated below."
+    }, 
+    {
+        "sentence_id,": "2259bb73b1", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Thus, mandatory minimum security governance requirements are as follows: UNCLASSIFIED 4.2 Policy Statement on Information Security Boards are supreme governing bodies that provide GoU and private sector organisations guidance on overall policy direction and strategies."
+    }, 
+    {
+        "sentence_id,": "7d4fea4554", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Given that Boards must consider all the major risks affecting their organisations, it is crucial that they issue a policy statement on information security."
+    }, 
+    {
+        "sentence_id,": "eda4745606", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "GV1 All Boards of organisations with critical infrastructure must issue a Policy Statement on Information Security."
+    }, 
+    {
+        "sentence_id,": "cf213c24be", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "As a minimum requirement, the Statement must: (a) recognise information as a vital business asset; (b) acknowledge information risk management as a business enabler and an integral part of good corporate governance; (c) contain the Boards acceptance of ultimate accountability for information risk management; (d) set clear direction on information risk management by determining Risk Appetite; and, (e) assign management and employees security responsibilities.. To achieve the security outcomes mandated above, organisations must: 4.2.1 Issue Policy Statement on Information Security The policy statement on information security: 4.2.2 Recognises information in all its forms as a crucial business asset; Explains why information security matters and outline policy objectives; Is a Board commitment to protect organisational information from all threats internal or external, deliberate or accidental; Assigns Accounting Officer accountability for information security; and Requires all employees (including contractors) to comply with the Statement."
+    }, 
+    {
+        "sentence_id,": "85807b8622", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Responsibilities of Security Coordination Group Led by Board-level Information Risk Owner, the information security coordinators must perform the following functions: Ensure that effective information risk management processes are in place; 15 UNCLASSIFIED 4.3.5 Approve organisational security policies and standards; Monitor compliance with agreed security policies and standards; and Encourage the professionalisation of all security areas."
+    }, 
+    {
+        "sentence_id,": "5fbebe2ea7", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Responsibilities of Operational Security team Led by chief information security officer or similar role, the operational security team must perform the following functions: 4.4 Implement the organisations information risk policy; Follow approved security policies and standards; Enforce security requirements on all stakeholders including suppliers; and Identify and report non-compliance with security policies and rules."
+    }, 
+    {
+        "sentence_id,": "932921b6cc", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Drawing on the guidance within the NISF, all organisations must: (a) have a suitable information risk policy to address threat sources and actors; (b) prioritise risks; and, (c) manage information risks during the ICT system's development, acceptance, operational and decommissioning and disposal phases."
+    }, 
+    {
+        "sentence_id,": "ce34418b91", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "To achieve the security outcomes mandated above, organisations must: Use the Board-issued information Risk Appetite as a guide for routine risk management decisions to ensure that the organisation avoids taking either too much or too little risk in pursuit of its business goals; Identify business critical assets and the impact of their compromise or loss; Have in place a Risk Register to record and audit risk management decisions by identifying risk owners, residual risk and risk treatment actions; and Comply with NISF guidance contained in the Security Standard No.1 Technical Risk Assessment (SS1) and Security Standard No.2 Risk Management and Accreditation (SS2)."
+    }, 
+    {
+        "sentence_id,": "04bdbbcfb9", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "As a minimum requirement, the awareness must: (a) as part of the induction process, explain to staff the security risks associated with their work; (b) help staff gain awareness of the organisations security policies; (c) remind staff of their personal responsibility for safeguarding assets entrusted to them; (d) articulate potential penalties for breaching security rules; (e) be assessed formally; and; (f) be repeated at least annually."
+    }, 
+    {
+        "sentence_id,": "2cbd3584fe", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "To achieve the security outcomes mandated above, organisations must: 4.6 Conduct security induction training for all employees, including contractors and subcontractors, to ensure that they are conversant with organisational security policies and procedures as well their personal accountability for securing assets under their control and/or supervision; Allocate sufficient resources to finance a sustained user security awareness and education programme covering relevant risks, threats and vulnerabilities; acceptable usage; impacts of cyber attacks; incident response actions and the personal consequences of breaching security rules; Avail security policies to all staff, including contractors, internally; Ensure that all staff, including contractors, obtain appropriate briefings about how legislation identified in this policy, in particular, the Official Secrets, the Access to Information, the Computer Misuse, the Electronic Signatures and the Electronic Transactions Acts affect their work activities; Provide security cleared staff training matching their access privileges; Ensure that staff performing security roles receive suitable training; and Regularly review and re-evaluate the effectiveness of security awareness and education activities in light of a changing threat environment."
+    }, 
+    {
+        "sentence_id,": "ad1b149f27", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "As a minimum requirement, organisations must have in place: (a) a BC management strategy that takes a long-term view of organisational continuity needs; (b) a policy outlining management direction and support for business continuity; (c) BC and DR plans for all locations; and, (d) systematic BC/DR testing, reporting and maintenance procedures for all critical infrastructure."
+    }, 
+    {
+        "sentence_id,": "8dbab75b69", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "As a minimum requirement, the process must: (a) formally establish managements accountability for incident management; (b) define roles and responsibilities; (c) include tested policies, plans and procedures; (d) ensure staff obtain specialist incident response training; (e) promote an incident reporting culture; and, (f) quantify, monitor and learn from incidents."
+    }, 
+    {
+        "sentence_id,": "6cd136fbed", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Using a range of compliance mechanisms, organisations must, as a minimum requirement: (a) provide the Board an assessment of the information risk position, including that of the supply chain, at least quarterly; (b) undertake an annual security assessment against the NISF and approved security policies declaring compliance status; (c) disclose areas of non-compliance with the NISF to their line Minister, Auditor Generals Office, security organisations and President in a classified annual report; (d) address information risk within Statements on Internal Control; and, (e) cover information risk management issues including risks, actions and incidents in the Annual Report."
+    }, 
+    {
+        "sentence_id,": "9a4dd46dce", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "In particular, organisations must produce a Statement of Applicability showing the controls implemented; Make information risk management a regular item on the Boards agenda; Disclose to the Board the main security risks affecting vital business assets in quarterly and annual assessments; Add the role of ensuring compliance with security policies and standards, in ones area of responsibility, to a managers performance evaluation criteria; Establish a programme to check regularly that information systems comply with technical security implementation standards."
+    }, 
+    {
+        "sentence_id,": "63dc8957ee", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "5.1.1 GoU information security commitment The GoU is committed to: 5.1.2 Achieving high standards of Information Security governance; Treating information security as a critical business issue and creating a security-conscious environment; Demonstrating to third parties that it deals with information security in a proactive manner; and Applying the guiding principles outlined in section 3 such as implementing controls that are proportionate to risk."
+    }, 
+    {
+        "sentence_id,": "e5c303e190", 
+        "tag": [
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "For example, the information security area must have effective leadership; adopt a credible risk management approach; conduct effective security awareness, education and training; handle security incidents and institute assurance and compliance reporting mechanisms."
+    }, 
+    {
+        "sentence_id,": "e4c4260f94", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The mandatory minimum information security requirements are as follows: 5.2 Information Security Policy An information security policy helps improve security if published, enforced, audited and updated to reflect organisational requirements."
+    }, 
+    {
+        "sentence_id,": "95a04a89a9", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "A security policy aims to achieve the following mandated minimum-security requirements: IS1 Management must draft, obtain Board-approval and publish an information security policy that addresses the NISF mandatory minimum requirements in terms of the organisations business requirements, threat environment and risk appetite."
+    }, 
+    {
+        "sentence_id,": "a249c85010", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "As a minimum requirement, the policy must: (a) explain how the organisation and supply chain protect information and physical assets; (b) apply to all the activities linked to protect computers; (c) define acceptance and compliance arrangements by its staff and the supply chain; (d) undergo regular review to ensure its continuing relevance."
+    }, 
+    {
+        "sentence_id,": "cb8f925c49", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "To achieve the security outcomes mandated above, the policy must: Define the purpose, scope and approach to managing information security within the organisation; Identify and assign suitable security roles and responsibilities depending on the size, structure, business needs and threats to the organisation; Require the creation of a manual guiding the implementation of an ISMS in compliance with US ISO/IEC 27001; Contain or refer to a manual detailing how to apply information, personnel and physical security measures consistently across the organisation; Contain or reference a guide that explains the secure working practices that all users must adopt to comply with security policies and related documents; Require the generation of evidence showing that the organisation uses the security accreditation process to identify and manage risks to ICT systems; Outline the required business continuity roles, processes and procedures; 23 UNCLASSIFIED 5.3 Specify penalties for breaching the policy and related security measures; Be publicised and made readily available to all staff; and Specify a review cycle in order to ensure its continued applicability."
+    }, 
+    {
+        "sentence_id,": "6119ef836f", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "As a minimum requirement, all organisations must: (a) use approved criteria to create a definitive register of business critical facilities, systems, sites and networks; (b) designate a suitably empowered owner for every asset; (c) use the Government Security Classification Standard to determine the acceptable procedures for labelling, handling, transmitting and decommissioning assets; (d) audit the asset register regularly; and; (e) inform the Board of the main security risks affecting vital business assets."
+    }, 
+    {
+        "sentence_id,": "2e779baa8c", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "To achieve the security outcomes mandated above, organisations must: Conduct an inventory of their assets drawing up and maintaining a register of important assets as a prerequisite to risk management; Ensure that designated divisions own and secure named information assets; Identify, document and enforce rules of acceptable use of information assets; Label and handle information assets throughout their lifecycle in accordance with Security Standard No."
+    }, 
+    {
+        "sentence_id,": "a10ac47eb8", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "IS3 All organisations, particularly those within and/or connecting to Government, must require internal and external entities to show compliance with mandated NISF requirements and approved security policies before sharing or allowing connections to protected computer assets."
+    }, 
+    {
+        "sentence_id,": "46b3c0d2b6", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "As a minimum requirement, organisations must: (a) identify and record risks involving external parties; (b) create information exchange policies and procedures; (c) use formal exchange agreements such as codes of connection and memoranda of understanding; (d) assess compliance of exchange partners at least annually or when required; and, (e) disconnect/end sharing with non-compliant entities."
+    }, 
+    {
+        "sentence_id,": "387940d3ae", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "national legislation"
+                ]
+            }
+        ], 
+        "sentence": "To achieve the security outcomes mandated above, organisations must: Ensure that users are fully conversant and comply with approved information exchange policies, procedures, controls and relevant national legislation; Use cryptographic solutions to provide users and applications the underlying trust to operate authentication, integrity, confidentiality and non-repudiation security services to protect collaborative tools and information exchanges; Establish exchange agreements that require parties seeking access to GoU and other critical infrastructure to have in place security measures that match the security classification and handling requirements for the asset; Ascertain that exchange agreements with external parties are enforceable; Confirm that receiving parties grasp and are complying with their obligations to protect information assets appropriately; Adopt policies to handle information assets received from foreign countries and international bodies in line with applicable treaties and arrangements; Abide by their own obligations under exchange agreements such as codes of connection (CoCos) and memoranda of understanding (MoUs); and Obtain authorisation before granting third parties access to information and ICT systems owned by another organisation."
+    }, 
+    {
+        "sentence_id,": "f366942aa4", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "To achieve the security outcomes mandated above, organisations must: Identify and evaluate the security risks related to outsourcing or offshoring before letting contracts for critical infrastructure and services; Recognise that they retain accountability for managing their information risks even where they outsource ICT systems and services to third parties; Ensure that they are fully acquainted and compliant with the national security impact assessment process for ICT suppliers; Abide by PPDA instructions to identify, document and incorporate security requirements into outsourcing contracts with suppliers and contractors; Require contractors to present an operational security management plan outlining their strategy for reducing security risks to acceptable levels; Outline the process for the development and maintenance of procedures, processes, instructions and plans for securing the system; Issue Security Aspects Letters (SAL) regularly to update contractors on the security conditions that govern their access to critical infrastructure assets; Require suppliers to obtain approval for physical facilities before the hosting of GoU and other critical infrastructure systems and services; and At least annually, obtain independent assurance that suppliers are complying with the mandated NISF requirements and other security policies."
+    }, 
+    {
+        "sentence_id,": "185eaacb3d", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "As a minimum requirement, access management must: (a) follow a formal access control policy linked to HR processes; (b) use formal access registration and revocation processes; (c) require appropriate identification and authentication techniques for all IT systems; (d) enable organisations to deter, detect, resist and defend against accidental or deliberate unauthorised actions; and, (e) enable regular review of access rights."
+    }, 
+    {
+        "sentence_id,": "dff89b6eec", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "To achieve the security outcomes mandated above, organisations must: Define and document business requirements for access control and restrict access to critical infrastructure to those who satisfy these requirements; Adopt an access control policy that enforces the principle of least privilege; Restrict and control the allocation and use of privileges in accordance with the Need-to-Know principle; Select and apply a suitable access control model amongst Discretionary, Role Based and Mandatory Access Control; Apply the principle of uniform access management i.e."
+    }, 
+    {
+        "sentence_id,": "1ab82f9b94", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "web browsing and file upload if they have a legitimate business reason for the access; Enforce sufficient segregation, zoning or variable depth security to separate specific areas of the network, groups of information services and information systems handling data of different security classification levels; Implement boundary protection measures for shared networks, especially those extending across organisational boundaries, in compliance with the access control policy and requirements of the business applications; Enforce network routing controls to ensure that connections and information flows do not breach the access control policy of the business applications; Apply the principle of service minimisation consistently across the network by disabling services that do not satisfy business and security needs for access; Adopt solutions that use techniques such as encryption to offer converged voice, data and video packets protection appropriate to their security needs; Adopt the defence in depth or layered approach to network security through the use of different technical security controls and security products to mitigate security threats collectively; and In accordance with ISO/IEC 18043, install network intrusion detection (NIDS) and network intrusion protection (NIPS) devices to monitor network traffic for unusual or suspicious activity and prevent cyber attacks; and Build survivability into networks to ensure that technical solutions continue to deliver a minimum set of essential functionality in a timely manner even if parts of the network are unreachable or have failed due to an attack."
+    }, 
+    {
+        "sentence_id,": "114ae7fa92", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "As a minimum requirement, the organisations must: (a) assess the risk of malicious code; (b) adopt a malicious code policy that considers their business needs and threat environment; (c) deploy suitable malicious code detection mechanisms; (d) educate users about malicious code risks; (e) ensure that authorised mobile code complies with security policy; and (f) address published technical vulnerabilities in a timely manner."
+    }, 
+    {
+        "sentence_id,": "efc4e275c4", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "To achieve the security outcomes mandated above, organisations must: Mandate that all users, regardless of location, abide by a malicious code policy that should, amongst other issues, require the installation of anti-virus or anti-malware software on all devices; update of anti-virus or anti-malware software signatures; system scanning; secure file attachment handling; secure file sharing; removable media scans; virus log generation and review; Identify and block all direct e.g."
+    }, 
+    {
+        "sentence_id,": "4351ba5dc2", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "As a minimum requirement, organisations must: (a) perform a formal risk/benefit analysis before use of the media; (b) as part of a formal policy, require authorisation to use and transfer the media; (c) use baseline builds that, by default, lock down access to media drives; (d) encrypt devices to deter unauthorised access; (e) enforce security policy on media to detect and resist unauthorised use; (f) conduct user awareness training; (g) audit user actions; and, (h) prevent the holding, storage and processing of sensitive information on personal devices."
+    }, 
+    {
+        "sentence_id,": "284469a1a1", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Therefore, in accordance with ISO/IEC 27002, organisations must not authorise remote access or teleworking unless satisfied that suitable security arrangements and controls are in place and that the measures comply with relevant information security policies."
+    }, 
+    {
+        "sentence_id,": "a4f7ef6534", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "encryption to protect data whilst at rest and in transit; (d) educate users about remote access risks; (e) security accredit remote access solution handling classified data; and, (e) align remote access policy with incident management plans."
+    }, 
+    {
+        "sentence_id,": "9ac3b112ab", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "To achieve the security outcomes mandated above, organisations must: Adopt a formal remote access policy that defines roles and responsibilities for management, users, administrators and security personnel guided by business needs, conditions, threats and the impacts of security breaches; Demonstrate that adequate authentication, access control, communication and availability measures are in place to reduce the risks of unauthorised access, disruption and modification of remote access solution servers, clients and applications in accordance with ISO/IEC 18028-4; 31 UNCLASSIFIED Enforce a remote access policy requirement that users and devices only gain access to network services for which they authorisation for; Grant remote access only for as long as is necessary for business purposes; Use encryption of suitable strength to secure communication links and the content that they process against eavesdropping; Encrypt remote access clients to make them inaccessible if lost or stolen; Ensure that users accept and comply with the Security Operating Procedures (SyOPs) for mobile devices such as powering off devices when not in use; Ensure that users know and accept their personal accountability for guarding remote access devices against threats and risks in insecure environments such as snatching, shoulder-surfing, eavesdropping etc; Provide remote access servers satisfactory security including protection against unauthorised physical access; assured power supply; secure set-up, configuration and administration; back-up and recovery procedures; Present a formal risk assessment and obtain approval from relevant security agencies before permitting the remote administration of critical infrastructure, programs and data from overseas locations given the risk posed by threat actors and sources such as foreign intelligence services to such access; Ensure that remote access solutions, including contracts with IT suppliers, comply with applicable legislative or regulatory constraints in particular the Official Secrets Act, 1964 and the Access to Information Act, 2005 regarding the handling of information, which is likely to prejudice the security of the State or interfere with the right to the privacy of any other person; Submit remote access solutions to a formal security accreditation process to provide assurance about the adequacy of information security measures e.g."
+    }, 
+    {
+        "sentence_id,": "854c17e28a", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "As a minimum requirement, organisations must: (a) define a monitoring strategy; (b) adopt an accounting and audit policy; (c) produce, and preserve for an agreed time, audit logs recording user activities, exceptions, faults and security events; (d) establish procedures for reviewing monitoring results; (e) train staff to interpret monitoring results; (f) protect audit and logging facilities and log data; and, (g) align protective monitoring with incident management and HR policies."
+    }, 
+    {
+        "sentence_id,": "782446305b", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "To achieve the security outcomes mandated above, organisations must: Define and adopt a protective monitoring strategy that defines the objectives, approaches and resources required to support consistent organisation-wide accounting, audit and monitoring activities; Have in place an accounting and audit policy that complies with business requirements for real-time security accounting and audit."
+    }, 
+    {
+        "sentence_id,": "eb186f4b50", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The policy shall help developers and product teams ensure that technical solutions consist of suitable accounting and audit points."
+    }, 
+    {
+        "sentence_id,": "0e4c061e8f", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "IT teams must not deviate from the accounting requirements before presenting a risk assessment and convincing management that the new level of logging adequately assures the security of business activities; Standardise accounting and audit log data to ease correlation in accordance with ISO/IEC 27002; Have in place effective procedures to review recorded logs and alerts to help identify and hold to account those who misuse information assets; Hire and maintain a competent team to administer the technological solutions and supporting infrastructures that collect, store and log suspicious events; 33 UNCLASSIFIED 5.12 Enforce access control measures guided by the least privilege principle to help ensure that no user or application process gains access to accounting and audit data without explicit authorisation and a clearly defined role; Deny system administrators the access privileges to erase or de-activate logs of their own activities; Separate accounting and audit logs that support routine security activities from evidential logs that have legal ramifications because they might contain intrusive and confidential personal data and may be admissible in Court; Ensure that, where protective monitoring activities collect data of relevance in legal proceedings, it is possible to verify and demonstrate the evidential weight of the data and ensure its legal admissibility in Courts of Law; Have in place a process for escalating to management representatives alerts from real-time accounting and audit systems to enable decisions on whether or not to trigger the incident management process; and Update the accounting and audit policy to reflect changes in the threat environment and results of technical risk assessments."
+    }, 
+    {
+        "sentence_id,": "9f76d1af2d", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "IS11 All organisations must adopt formal policies and procedures to backup and regularly test copies of information and software required to recover from major disruptions."
+    }, 
+    {
+        "sentence_id,": "f3f9994379", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "IS12 All protected Government computers must be accredited to the NISF Risk Management and Accreditation Standard."
+    }, 
+    {
+        "sentence_id,": "5903ec0d84", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "To achieve the security outcomes mandated above, organisations must: Adopt the US ISO/IEC 27001:2005 controls set, select appropriate and applicable countermeasures to reduce risks; Agree with the Accreditor, the approach for measuring compliance with the NISF; Show compliance with the corporate policies and legislation applicable to the systems security accreditation scope; Describe how the security accreditation process met applicable business and security requirements; Demonstrate how the risk management strategy for the system helped establish the business impact of compromising the security of key assets; Assess threats and risks to the information system, develop a risk treatment plan and countermeasures against identified risks; and Present a detailed plan for managing security risks to the system throughout its lifecycle until decommissioning."
+    }, 
+    {
+        "sentence_id,": "6bfd4e7b38", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Indeed, changes in national information security policies worldwide have roots in high-profile accidental and deliberate disclosures of sensitive national security and personal information."
+    }, 
+    {
+        "sentence_id,": "d3e400bac6", 
+        "tag": [
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "national legislation"
+                ]
+            }
+        ], 
+        "sentence": "As a result, mandatory minimum personnel security requirements are as follows: 6.2 Security Roles & Responsibilities National legislation such as the Official Secrets Act, 1964 and newer laws such as the Computer Misuse Act, 2011 generally aim to reduce unlawful misuse of information, in particular that has been entrusted in confidence to Government officers, employees and contractors."
+    }, 
+    {
+        "sentence_id,": "8fb35cd6a7", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The acceptance shall include an undertaking to: (i) protect assets under their control and/or supervision from unauthorised access, disclosure, modification, destruction and interference; (ii) comply with security processes and activities; and, (iii) report security events or potential events or other security risks to the organisation; Ensure that individuals agree to abide by all GoU and organisational policies, standards, protocols and guidelines for protecting information, personnel and physical assets against security threats regardless of type and origin; and Confirm that, as part of the HR process, all employees, including contractors and subcontractors, accessing and/or operating critical infrastructure sign declaration forms acknowledging their obligation to abide by the Official Secrets Act, 1964 and related laws during and after their employment."
+    }, 
+    {
+        "sentence_id,": "1a5279012f", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "In addition, organisations must only retain the security clearance information for as long as necessary; Make a risk-based decision on whether to rely on the security vetting results obtained from another organisation on a candidate under consideration, restart the vetting process or conduct more checks; Subject to national security considerations, have in place a mechanism for providing individuals reasons for the refusal of a security clearance; Have in place a policy for dealing with existing employees who cannot continue in their existing position and/or take up a new position because of an adverse security vetting result."
+    }, 
+    {
+        "sentence_id,": "693293e8f6", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The policy must address issues such as re-deployment and appeal procedures."
+    }, 
+    {
+        "sentence_id,": "327e786a83", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "7.2 Physical Security Perimeter This policy requires organisations to put in place an adequate physical perimeter around sensitive information processing facilities to stop unauthorised physical access."
+    }, 
+    {
+        "sentence_id,": "e4c358d434", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The Controller shall be Ugandan and either full-time or part-time depending on business needs, costs and risks including national security; Have in place a physical security policy that describes in appropriate detail how the organisation would define, apply and evidence physical security controls in all its locations in accordance with US ISO/IEC 27001:2005; Ensure that no classified GoU data is processed, stored or transmitted to and from any facility without a full risk assessment and formal approval from the GoU client and relevant GoU national security agencies; Choose the data centre site carefully taking into consideration issues such as its visibility; proximity to hazards and crime; natural disasters; transportation; access to environmental controls and emergency services; Ensure that the site is designed securely with careful consideration for wall height and fire rating; ceiling fire and weight bearing ratings; door and window design and strength; electricity and environmental controls; Clearly define the perimeter and ensure that its location and strength corresponds with the security requirements of the assets within the boundary and the results of a risk assessment; Ensure that the perimeters are physically sound with no gaps to enable easy break-in."
+    }, 
+    {
+        "sentence_id,": "d3d0225928", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "bars, alarms, locks etc; and Ensure that Security Standard No."
+    }, 
+    {
+        "sentence_id,": "edaa39bb72", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Organisations must develop a general access control policy for use in the data centre to achieve the following mandated minimum security outcomes."
+    }, 
+    {
+        "sentence_id,": "ae6f50aad6", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "To achieve the security outcomes mandated above, organisations must: Ensure that all media used to store and process sensitive information such as networking devices; magnetic disks and tapes; office equipment; solid state devices (SSDs); and optical disks is sanitised and disposed of in accordance with organisational policies and procedures; Have in place policies and processes that define secure sanitisation levels to help all relevant stakeholders understand the degree of wiping required to provide reasonable assurance that data from a decommissioned asset would not be retrieved or reconstructed; Adopt a process to guide sanitisation activities including asset classification verification; sanitisation and post-sanitisation activities; validation of the success of the sanitisation activities and final sign-off; and Ensure that where it is not possible to destroy assets handling sensitive data securely, procedures are in place to enable their secure storage and/or return to its owner."
+    }
+]

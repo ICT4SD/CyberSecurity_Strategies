@@ -1,0 +1,260 @@
+[
+    {
+        "sentence_id,": "be3f9dbfcf", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Besides, perpetrators face little risk of conviction due to incompatible legal frameworks and the lack of organizational structures to aid international cooperation, dialogue and coordination in dealing with cyber threats."
+    }, 
+    {
+        "sentence_id,": "4f0817f9ba", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }, 
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "In line with the Global Cyber security Agenda (GCA) of ITU, our strategic Areas are: The development of a comprehensive set of national cybercrime legislation that is regionally and globally applicable and harmonized evsjv`k MRU, AwZwi, gvP 11, 2014 9705 The implementation of measures to reduce vulnerabilities in software products through the deployment of accreditation schemes, protocols and standards; The definition of strategies for capacity building mechanisms to raise awareness, transfer know-how and boost cyber security on the national policy agenda; and The development of a unified national multi-stakeholder strategy for international cooperation, dialogue and coordination in dealing with cyber threats."
+    }, 
+    {
+        "sentence_id,": "b99ad133b3", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The second priority deals with organizational structures and policies on cybercrime, watch, warning and incident response as well as the creation of a generic and universal digital identity system."
+    }, 
+    {
+        "sentence_id,": "923a2068d2", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Priority three focuses on a national framework of security protocols, standards and software accreditation schemes."
+    }, 
+    {
+        "sentence_id,": "f4ffdf7124", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The establishment and modernization of laws, procedures, and policy to prevent, deter, respond to, and prosecute cybercrime is an integral component of the National Cybersecurity Strategy of Bangladesh."
+    }, 
+    {
+        "sentence_id,": "3ba3c1b685", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "The alignment of our cybercrime legislation with the ITU Toolkit for Cybercrime helps international cooperation and addresses jurisdictional and evidentiary issues."
+    }, 
+    {
+        "sentence_id,": "b56bdedf28", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "cirt"
+                ]
+            }, 
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "To create cybersecurity organization structures including the National Cybersecurity Council; Defines the legal basis for creating a national CIRT, For example, the Act defines the powers to shutdown a critical infrastructure if at risk of a cyber attack; evsjv`k MRU, AwZwi, gvP 11, 2014 9707 Provides the basis for promoting cybersecurity skills, training and awareness; Defines the legal and operational basis for an integrated and fully coordinated public private sector partnership on cybersecurity; Fosters innovation in cybersecurity to help develop long-term solutions; and Grants the government authority to participate in international cooperation, dialogue and coordination activities focuses on cybersecurity such as mutual assistance."
+    }, 
+    {
+        "sentence_id,": "466dfca7d3", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "The structures would help create a generic and universal digital identity system and the necessary organizational structures to recognize digital credentials across jurisdictions through the following actions: Action 1: National Cybersecurity Framework This Action aims to create a Framework that defines mandatory security standards and offers guidance on issues such as risk management, compliance and assurance."
+    }, 
+    {
+        "sentence_id,": "297cd0bc94", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "The Framework contains core security values and minimum standards that apply to a wide range of stakeholders."
+    }, 
+    {
+        "sentence_id,": "b6dc281b99", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Stakeholders select the applicable standards based on their risk profile and information protection needs."
+    }, 
+    {
+        "sentence_id,": "f9c4c8b65e", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "The stakeholders may use an internal audit or external auditor to demonstrate compliance with the minimum-security standards to a central organization."
+    }, 
+    {
+        "sentence_id,": "063abf4987", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The National Cybersecurity Strategy identifies the following Policy Goals as vital components of the National Cybersecurity Framework: Governance and Risk Management 9708 evsjv`k MRU, AwZwi, gvP 11, 2014 Information Security and Assurance Protective Marking and Asset Management Staff Vetting and Clearance Physical and Environmental Security Action 2: Secure Government Infrastructure This Action deals with spreading awareness of relevant risks, preventive measures and effective responses to government Departments and Agencies."
+    }, 
+    {
+        "sentence_id,": "fe6b46e0ee", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The National Cybersecurity Strategy identifies the actions below as essential for creating appropriate national and regional organizational structures and policies on cybercrime: 9710 evsjv`k MRU, AwZwi, gvP 11, 2014 Action 1: Governments Cybersecurity Role Cybersecurity is everyones responsibility because countermeasures only work well if all relevant stakeholders play their part."
+    }, 
+    {
+        "sentence_id,": "efd25fbee3", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "cirt"
+                ]
+            }
+        ], 
+        "sentence": "This Strategy identifies the following actions regarding cyber incident response: Build Bangladesh Computer Incident Response Team (BD-CIRT) at the National Cybersecurity Council; Establish a public-private framework for responding to major cyber incidents; Encourage development of business continuity and disaster recovery capacity; Develop strategic and tactical cyber attack and vulnerability assessment capacity; Encourage the development of private sector capacity to share status information about the health of cyberspace; Coordinate processes for voluntary participation in the development of national public-private continuity and contingency plans; Create a Cyber Warning and Information Network at Cybersecurity Council; and evsjv`k MRU, AwZwi, gvP 11, 2014 9713 Develop mechanism to share information about cyber attacks, threats and vulnerabilities with the public and non-governmental bodies locally and globally; Where possible, it is advisable for units to have at least basic computer forensic capacity."
+    }, 
+    {
+        "sentence_id,": "15429695e6", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The National Cybersecurity Strategy requires the Government of Bangladesh and its agents to consult the private sector in the development, implementation and maintenance of regulation, cybersecurity initiatives and policies."
+    }, 
+    {
+        "sentence_id,": "e827cd7ba3", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "cirt"
+                ]
+            }
+        ], 
+        "sentence": "Cooperative relationships with the private sector are vital because they: Facilitate the exchange of information on the development of new legislation and regulation between stakeholders; Enable collaborative work and sharing of training courses that could help alleviate the severe shortage of skilled cyber security professionals; and Enable real time exchange of information about cyber threats and vulnerabilities The communication channel is valuable for the BD-CIRT as the exchange complements the stretched national incident detection and warning resources."
+    }, 
+    {
+        "sentence_id,": "b0bc7feb8e", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "With private sector input, the Government shall also develop a coordinated national strategy for participating in major international discussions that shape policy in areas such as territorial jurisdiction, sovereign responsibility and the use of cyberspace for war."
+    }, 
+    {
+        "sentence_id,": "ddd05d9d97", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Thereafter, the ministries of Foreign Affairs should work on improving international cooperation."
+    }, 
+    {
+        "sentence_id,": "02ec079e8d", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "This Cybersecurity Strategy identifies the following major activities: Adopt a national Cybersecurity Skills Framework; Create a continuum of cybersecurity job descriptions; Identify commercially available cybersecurity certifications; Deliver or manage commercial delivery of training or certification examinations; Periodically measure Cybersecurity skills and training levels; Invest in mainstream cybersecurity education and research; Build cybersecurity capacity of national companies; and Work with global partners such as IMPACT to coordinate cybersecurity training; It is important that prosecutors and judges have some understanding of areas such as computers, software, and networks as well as of the increasing importance of electronic evidence."
+    }, 
+    {
+        "sentence_id,": "8d27723b7f", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "This Cybersecurity Strategy identifies the following major activities: Promotion of a national awareness programme to empower end users at home or general workforce to secure their own cyberspace-linked systems; Implementation of a cybersecurity awareness programme for government systems that contain classified data; Encouraging cybersecurity culture development in business enterprises; Adding cybersecurity awareness to the national education curriculum as a way of spreading knowledge to pupils and their relatives; Engaging civil society in outreach to children and individual users; Promotion of private-sector support for professional cybersecurity certifications; Nations are increasingly dependent on complex systems and information technology."
+    }
+]

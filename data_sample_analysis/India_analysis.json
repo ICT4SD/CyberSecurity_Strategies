@@ -1,0 +1,280 @@
+[
+    {
+        "sentence_id,": "df28a366c1", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "In addition to fuelling Indias economy, this sector is also positively influencing the lives of its people through direct and indirect contribution to the various socio-economic parameters such as employment, standard of living and diversity among others."
+    }, 
+    {
+        "sentence_id,": "4c17484d6d", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "Some of the examples of cyber threats to individuals, businesses and government are identity theft, phishing, social engineering, hactivism, cyber terrorism, compound threats targeting mobile devices and smart phone, compromised digital certificates, advanced persistent threats, denial of service, bot nets, supply chain attacks, data leakage, etc."
+    }, 
+    {
+        "sentence_id,": "ed94ffbc9d", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The cyber security policy is an evolving task and it caters to the whole spectrum of ICT users and providers including home users and small, medium and large enterprises and Government & nonGovernment entities."
+    }, 
+    {
+        "sentence_id,": "74c53c2863", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "It also enables the individual sectors and organizations in designing appropriate cyber security policies to suit their needs."
+    }, 
+    {
+        "sentence_id,": "264bf457fc", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The policy provides an overview of what it takes to effectively protect information, information systems & networks and also gives an insight into the Governments approach and strategy for protection of cyber space in the country."
+    }, 
+    {
+        "sentence_id,": "a39de9ae3f", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "2) To create an assurance framework for design of security policies and for promotion and enabling actions for compliance to global security standards and best practices by way of conformity assessment (product, process, technology & people)."
+    }, 
+    {
+        "sentence_id,": "a412c9e244", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "9) To provide fiscal benefits to businesses for adoption of standard security practices and processes."
+    }, 
+    {
+        "sentence_id,": "49e0073d2d", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "3) To encourage all organizations to develop information security policies duly integrated with their business plans and implement such policies as per international best practices."
+    }, 
+    {
+        "sentence_id,": "6ad091cf1e", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Such policies should include establishing standards and mechanisms for secure information flow (while in process, handling, storage & transit), crisis management plan, proactive security posture assessment and forensically enabled information infrastructure."
+    }, 
+    {
+        "sentence_id,": "9d38820f3f", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards", 
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "2) To create infrastructure for conformity assessment and certification of compliance to cyber security best practices, standards and guidelines (Eg."
+    }, 
+    {
+        "sentence_id,": "91b156f28c", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "ISO 27001 ISMS certification, IS system audits, Penetration testing / Vulnerability assessment, application security testing, web security testing)."
+    }, 
+    {
+        "sentence_id,": "e8b301d8fd", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "6) To create conformity assessment framework for periodic verification of compliance to best practices, standards and guidelines on cyber security."
+    }, 
+    {
+        "sentence_id,": "c590a86023", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "C. Encouraging Open Standards 1) To encourage use of open standards to facilitate interoperability and data exchange among different products or services."
+    }, 
+    {
+        "sentence_id,": "8ebffef81e", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards", 
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "2) To promote a consortium of Government and private sector to enhance the availability of tested and certified IT products based on open standards."
+    }, 
+    {
+        "sentence_id,": "bd68201195", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "The plans shall include establishing mechanisms for secure information flow (while in process, handling, storage & transit), guidelines and standards, crisis management plan, proactive security posture assessment and forensically enabled information infrastructure."
+    }, 
+    {
+        "sentence_id,": "3128b044a8", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "5) To encourage and mandate as appropriate, the use of validated and certified IT products."
+    }, 
+    {
+        "sentence_id,": "604a7b0217", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "7) To mandate certification for all security roles right from CISO / CSO to those involved in operation of critical information infrastructure."
+    }, 
+    {
+        "sentence_id,": "c85fe2b609", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Reducing supply chain risks 1) To create and maintain testing infrastructure and facilities for IT security product evaluation and compliance verification as per global standards and practices."
+    }, 
+    {
+        "sentence_id,": "0e9ab68109", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "3) To conduct, support and enable cyber security workshops / seminars and certifications."
+    }, 
+    {
+        "sentence_id,": "2b69b86a15", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "3) To create a think tank for cyber security policy inputs, discussion and deliberations."
+    }, 
+    {
+        "sentence_id,": "7e002bad3f", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "N. Prioritized approach for implementation To adopt a prioritized approach to implement the policy so as to address the most critical areas in the first instance."
+    }, 
+    {
+        "sentence_id,": "857af31842", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "V. Operationalisation of the Policy This policy shall be operationalised by way of detailed guidelines and plans of action at various levels such as national, sectoral, state, ministry, department and enterprise, as may be appropriate, to address the challenging requirements of security of the cyberspace."
+    }
+]

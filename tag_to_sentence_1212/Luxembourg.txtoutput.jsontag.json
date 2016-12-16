@@ -1,0 +1,50 @@
+[
+    {
+        "sentence_id,": "c5dc4147bd", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Version du 18 novembre 2011 9 V. Mettre en place des normes et des standards contraignants Parmi les moyens des plus efficaces pour prvenir des cyber-attaques figurent la rduction des surfaces dattaque et la rduction des vulnrabilits tant humaines que techniques."
+    }, 
+    {
+        "sentence_id,": "a190fec498", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "La mise en uvre cohrente et efficace de systmes scuriss au sein de lEtat exige lexistence de mthodes danalyse de risque, de politiques et de standards de scurit cohrents et adapts aux contextes."
+    }, 
+    {
+        "sentence_id,": "5f48e5265c", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Les mesures de scurit organisationnelles et techniques dcrites dans ces politiques et standards doivent tre appliques par les diffrentes administrations."
+    }, 
+    {
+        "sentence_id,": "3be7781dc1", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "Dans le mme ordre dides, les oprateurs dinfrastructures critiques ou sensibles devront se conformer un certain nombre de rfrentiels respectivement viser une certification sectorielle pour prouver leur maturit au niveau scuritaire."
+    }
+]

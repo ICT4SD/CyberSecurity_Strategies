@@ -1,0 +1,434 @@
+[
+    {
+        "sentence_id,": "8f0207b137", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "----------------------- Page 2----------------------- ( List of Acronyms AGAGE Advanced Global Atmospheric Gases Experiment AISI African Information Society Initiative AMIS Agriculture management Information System ARTEL Africa Rural Telecommunication BNR Banque National du Rwanda BPO Business Processing Outsourcing CD Community Development CERT Computer Emergency Response Team COMESA Common Market for Eastern and Southern Africa CNS-ATM Communication Navigation Surveillance /Air Management CS Cyber Security CSIRT Computer Security Incident Response Team CTC Coordination Technical Committee FWG Focus area Working Group DCRS Develop a Digital Court Recording System EAPP East African Power Pool EASSy Eastern Africa Submarine Cable System EDPRS Economic Development & Poverty Reduction Strategy (2008-2012) e-GOV e-Government EMIS Education Management Information System EMR Electronic Medical Records EQMS Electronic Queue Management System ERMS Electronic Records Management System FMS Financial Management Systems FY Fiscal Year GDP Gross Domestic Product GIS Geographical Information System GNI Gross National Income GNP Gross National Product GoR Government of Rwanda G2B Government-to-Business G2C Government-to-Citizen G2G Government-to-Government HIV Human Immunodeficiency Virus HLSC High Level Steering Committee HRMS Human Resource Management System ICT Information Communication Technology ICT4D ICT for Development IDS Intrusion Detection Systems IPAR Institute of Policy Analysis and Research!"
+    }, 
+    {
+        "sentence_id,": "a3a0a6a481", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Project Development and Implementation Framework FY 2013-2015 ........................................ 77 ( PART 5: CONCLUSION ........................................................................................................................... 78 ( APPENDICES ............................................................................................................................................. 79 APPENDIX 1: NICI II: KEY LESSONS LEARNED AND RECOMMENDATIONS ....................... 79 APPENDIX 2: SAMPLE OF NICI III PROJECT PROFILE DOCUMENT ...................................... 81 APPENDIX 3: NICI III STAKEHOLDERS ........................................................................................... 83 APPENDIX 4: NICI-2015 TASK FORCE & TEAM OF RESOURCE PERSONS ............................ 84 ----------------------- Page 5----------------------- ( Accelerating Service Development Rwanda ICT Strategic and Action Plan (NICI III 2015) Figures of Illustration Figure 1: ICT Readiness vs Competitiveness ............................................................................................. 9 Figure 2: NICI Framework ....................................................................................................................... 15 Figure 3: NICI I Framework ..................................................................................................................... 15 Figure 4: NICI II Framework .................................................................................................................... 16 Figure 5: NICI III Framework .................................................................................................................. 17 Figure 7: Private Sector Development Projects ........................................................................................ 33 Figure 8: Community Development Projects ........................................................................................... 42 Figure 9: e-Government Projects .............................................................................................................. 48 Figure 10: Cyber Security Projects ........................................................................................................... 56 Figure 11: Cross-Cutting Projects ............................................................................................................. 61 Figure 12: NICI III Institutional Framework ............................................................................................ 68 Figure 13: NICI III Implementation Framework ...................................................................................... 73 ----------------------- Page 6----------------------- ( Executive Summary Global ICT policies have become more mainstream in the last decade underpinning growth, jobs, increasing productivity, enhancing the delivery of public and private services, and achieving broad socio-economic objectives in the areas of healthcare, education, climate change, energy, employment and social development."
+    }, 
+    {
+        "sentence_id,": "13178a651d", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The Current Context Global ICT policies have become more mainstream in the last decade underpinning growth, jobs, increasing productivity, enhancing the delivery of public and private services, and achieving broad socio-economic objectives in the areas of healthcare, education, climate change, energy, employment and social development."
+    }, 
+    {
+        "sentence_id,": "8d664fb073", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Its impact on economic wealth includes the creation of jobs, improved standards of living, and contribution to real growth."
+    }, 
+    {
+        "sentence_id,": "d06653dc6d", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "This is a result of advanced and repeated cyber-attacks to government and private companies that are now 7 spending more on security technology, assessments, training, and certification."
+    }, 
+    {
+        "sentence_id,": "f8b1672f95", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "This requires a significant investment in infrastructure, capacity building, and a policy environment that fosters innovation and growth."
+    }, 
+    {
+        "sentence_id,": "6938d59d93", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "In 1998, the Rwandan ICT for Development (ICT4D) policy was adopted to implement policies and plans that would address Rwandas developmental challenges in the information and technology age, in order to accelerate the countrys socio-economic development."
+    }, 
+    {
+        "sentence_id,": "b5ebe585fc", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "NICI I (NICI-2005 Plan) Goal: To build the foundation and create an enabling environment for ICT development by putting in place the required institutional framework and policies in order to transform Rwanda into a knowledge-based society."
+    }, 
+    {
+        "sentence_id,": "8f4a8dbec3", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "o Fixed line (19,000 in 2000 to 39,664 in 2010) o Mobile (42,000 in 2000 to 3,548,761 in 2010) o Internet (1,200 in 2000 to 493,900 in 2010) Enactment of intellectual property rights law, Law N 31/2009 of 26/10/2009 Enactment of a law governing electronic messages, electronic signatures, electronic transactions; data protection; cyber security and ICT usage in government administrative procedures, Law N 18/2010 of 12/05/2010 RURA adopted International Telecommunications Union (ITU) ICT industry standards since its establishment in 2001 Key ICT Infrastructure deployed including: the National fiber optic backbone; wireless broadband (WIBRO); National Data Centre; Broadcasting infrastructure, communication, navigation and surveillance-air traffic management system SMART National ID One Laptop per child (56,607 laptops deployed in 113 schools) Connection to the international sea cables through Mombasa and Dar-es-Salaam (((((((((((((((((((((((((((((((((((((((((((((((((((((((( 10(http://www.rura.gov.rw/( Page 18 of 85( No part of this document can be reproduced, stored in a retrieval system, or transmitted in any form or by any means - electronic, mechanical, photocopying, recording, or otherwise - without the permission of Rwanda Ministry in charge of ICT in the Office of the President."
+    }, 
+    {
+        "sentence_id,": "81673fd405", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Second is to build local capabilities to respond to attacks as well as foster international cooperation on cyber security."
+    }, 
+    {
+        "sentence_id,": "1ffe77e14b", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "4: (CS-04) Foster national and international cooperation to handle cyber crimes and threats Cyber attacks are increasingly global in nature and as such, it is no longer feasible or appropriate to simply handle them at a national level."
+    }, 
+    {
+        "sentence_id,": "27a29b195b", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "Skills Development [SD] Projects Mission: To develop a high quality skills and knowledge base leveraging ICT To realize this mission and keep Rwandas ICT development relevant to changing national and global trends, the following projects were chosen to build ICT professional skills and integrate ICT in both formal and non-formal education: SD project 1: ICT Professional Training and Certification Programs SD Project 2: SchoolNet SD Project 3: ICT Training for Teachers SD project 4: Rwanda Education and Research Network (RwEdNet) SD project 5: Open, Distance and e-Learning (ODEL) SD Project 6: Digital Library Figure 6, illustrates skills development projects and how they work together to achieve the SD mission."
+    }, 
+    {
+        "sentence_id,": "99aaede7ef", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "----------------------- Page 28----------------------- ( Figure 6: Skills Development Projects SD Project 1: ICT Professional Training and Certification Programs Purpose: To continuously develop a competent and relevant ICT professional base that meets international and industry needs in order to accelerate Rwandas ICT development Description: Rwanda has a dearth of skills needed to drive ICT development."
+    }, 
+    {
+        "sentence_id,": "773a3f8c3b", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "The private sector identified the lack of adequate ICT skills and the cost of professional ICT training/certification as key challenges."
+    }, 
+    {
+        "sentence_id,": "7c9c9bdf44", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "Enforce public servant ICT certification Page 28 of 85( No part of this document can be reproduced, stored in a retrieval system, or transmitted in any form or by any means - electronic, mechanical, photocopying, recording, or otherwise - without the permission of Rwanda Ministry in charge of ICT in the Office of the President."
+    }, 
+    {
+        "sentence_id,": "9600664e96", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "50% of ICT companies internationally certified by leading ICT industry companies by 2013 SD Program: EDUNet Purpose: To increase ICT usage at all educational levels Description: The EDUNet program aims to provide ICT infrastructure and connectivity for all educational levels."
+    }, 
+    {
+        "sentence_id,": "4139d2b709", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Private Sector Development [PSD] Projects Mission: To develop a vibrant, competitive, and innovative ICT / ICT enabled private sector To realize this mission and keep Rwandas private sector relevant to changing national and global trends, the following projects were chosen: PSD Project 1: Establish a Technopole PSD Project 2: e-Payment Systems PSD Project 3: Tourism Portal PSD Project 4: ICT Business Financing Mechanisms PSD Project 5: Virtual Landing Point PSD Project 6: Access Network PSD Project 7: e-Soko 2.0 PSD Project 8: SMART Electricity Grid and Energy Market Design PSD Project 9: Establish a Commodity and Securities Platform PSD Project 10: Adoption of ICT Industry Standards Figure 7 illustrates private sector development projects and how they work together to achieve the PSD mission."
+    }, 
+    {
+        "sentence_id,": "3f553d7a41", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Mission : To develop a vibrant, competitive, and innovative ICT / ICT enabled private sector Establish a Technopole r o t ICT Business Financing Mechanisms c e S T C Virtual Landing Point (VLP) I Adoption of ICT Industry Standards e-Payment Systems r o Tourism Portal t c e S e t Access Network a v i r P E-Soko 2.0 d e l b a SMART Electricity Grid and Energy Market Design n E T C Establish a Commodity and Securities Platform I Mining Portal Figure 7: Private Sector Development Projects Page 33 of 85( No part of this document can be reproduced, stored in a retrieval system, or transmitted in any form or by any means - electronic, mechanical, photocopying, recording, or otherwise - without the permission of Rwanda Ministry in charge of ICT in the Office of the President."
+    }, 
+    {
+        "sentence_id,": "b940a0cd70", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Key prerequisites for e-Commerce including the electronic transaction and signature law, copyright and intellectual property rights law, an e-Payment policy and mobile payments currently exist in Rwanda and have laid a foundation for e-Commerce."
+    }, 
+    {
+        "sentence_id,": "58c86416f3", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Developing a local smart grid will provide an interconnection standard for the East African Power Pool (EAPP) that can accommodate future technologies and transit from current legacy systems."
+    }, 
+    {
+        "sentence_id,": "a23451071b", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Number of companies procuring capital from the platform PSD Project 10: Adoption of ICT Industry Standards Purpose: To align Rwandas ICT sector to international best practices and standards Description: Rwanda needs to adopt ICT industry standards that are based on international best practices and standards."
+    }, 
+    {
+        "sentence_id,": "a4dd9a56cf", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Rwanda ICT standards complying with international standards by 2013 Page 40 of 85( No part of this document can be reproduced, stored in a retrieval system, or transmitted in any form or by any means - electronic, mechanical, photocopying, recording, or otherwise - without the permission of Rwanda Ministry in charge of ICT in the Office of the President."
+    }, 
+    {
+        "sentence_id,": "c2bfe86a50", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "All ICT firms certified by at least one internationally recognized IT player by 2013 Page 41 of 85( No part of this document can be reproduced, stored in a retrieval system, or transmitted in any form or by any means - electronic, mechanical, photocopying, recording, or otherwise - without the permission of Rwanda Ministry in charge of ICT in the Office of the President."
+    }, 
+    {
+        "sentence_id,": "a32051c9ff", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "It will include the following: Citizen Portal Purpose: To provide a platform that fosters citizen-to-citizen and government-to-citizen interaction Description: Limited interaction between citizens within Rwanda; the Diaspora and policy makers can be an obstacle to governance and service delivery."
+    }, 
+    {
+        "sentence_id,": "c5319ce8a3", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "----------------------- Page 55----------------------- ( Description: This is a rolled over NICI II project that builds on the Rwanda Education Commons initiative to create a low-cost and versatile platform for standardised educational content at all levels of education."
+    }, 
+    {
+        "sentence_id,": "80d435ef2e", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "This information includes: a list of mining concessions in Rwanda; types of minerals extracted in each concession; quantities of minerals extracted per concession; published mining research; environment standards; statistics and mining maps for public use."
+    }, 
+    {
+        "sentence_id,": "9d43d4ba6c", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "Develop and Implement the government certification authority Expected Outcome: Page 57 of 85( No part of this document can be reproduced, stored in a retrieval system, or transmitted in any form or by any means - electronic, mechanical, photocopying, recording, or otherwise - without the permission of Rwanda Ministry in charge of ICT in the Office of the President."
+    }, 
+    {
+        "sentence_id,": "a609daa460", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "Number of institutions registered at the Certification Authority CS Project 3: Security Operation Centre (SOC) Purpose: To centralise all national cyber security activities Description: A Security Operations Center will help deliver IT security services and detect unauthorized access in any form to prevent and manage security related incidents using defined processes and procedures."
+    }, 
+    {
+        "sentence_id,": "a14995eb9f", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Enforce Information security policy Page 58 of 85( No part of this document can be reproduced, stored in a retrieval system, or transmitted in any form or by any means - electronic, mechanical, photocopying, recording, or otherwise - without the permission of Rwanda Ministry in charge of ICT in the Office of the President."
+    }, 
+    {
+        "sentence_id,": "5345394088", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Compliance with ICT laws, standards, guidelines, and procedures Page 63 of 85( No part of this document can be reproduced, stored in a retrieval system, or transmitted in any form or by any means - electronic, mechanical, photocopying, recording, or otherwise - without the permission of Rwanda Ministry in charge of ICT in the Office of the President."
+    }, 
+    {
+        "sentence_id,": "012f52c52e", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "It also aims to further support Rwandas environmental management policies."
+    }, 
+    {
+        "sentence_id,": "4f9211f2bc", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "MINICT roles and responsibilities are to: Develop and disseminate ICT policies, strategies and programs, and mobilize resources for sector programs."
+    }, 
+    {
+        "sentence_id,": "f218d8c488", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Monitor and evaluate the implementation of sector and sub!sector policies, strategies and programs."
+    }, 
+    {
+        "sentence_id,": "f8ed37a0aa", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The ministry will form technical and policy and strategy committees comprised of national and international experts that will advise key national ICT strategic initiatives, and more importantly advise long-term strategic alignment of ICT to National goals."
+    }, 
+    {
+        "sentence_id,": "4c40fb3626", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Therefore, these divisions must be strengthened and equipped with the right resources, particularly the monitoring and evaluation and policy and strategy units of the planning and coordination division, to ensure successful implementation going forward."
+    }, 
+    {
+        "sentence_id,": "9173d99c14", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "----------------------- Page 85----------------------- ( James Musinguzi Project Manager RDB/ICT RESOURCE PERSONS Lucy Mbabazi Policy and Strategy Advisor RDB/ICT, Lead Consultant Serge Mushinzimana National Consultant Leonard Mungarulire National Consultant Lillian Mutesi Consultant Felix Mutangana Consultant Astrid ksnevad Consultant Prof. Clement Dzidonu UNECA Consultant Atsushi Yamanaka JICA Consultant Dr. Jonathan Miller M&E Consultant ( Page 85 of 85( No part of this document can be reproduced, stored in a retrieval system, or transmitted in any form or by any means - electronic, mechanical, photocopying, recording, or otherwise - without the permission of Rwanda Ministry in charge of ICT in the Office of the President."
+    }
+]

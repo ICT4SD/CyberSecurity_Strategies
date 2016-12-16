@@ -1,0 +1,416 @@
+[
+    {
+        "sentence_id,": "6e425387fa", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Document 3701 Conpes National Council on Economic and Social Policy Republic of Colombia National Planning Department POLICY GUIDELINES ON CYBERSECURITY AND CYBERDEFENSE Ministry of the Interior and Justice Ministry of Foreign Affairs Ministry of Defense Ministry of Information and Communication Technologies Department of Security Administration National Planning Department-DJSG-DIFP-DIES-OI Office of the Attorney General Version: Draft Bogot D.C., July 14Th of 2011 Summary: The purpose of this document is to generate policy guidelines on cybersecurity1 and cyberdefense2 with the aim of developing a national strategy to counter the rise in cyber threats that have significant impact on the country."
+    }, 
+    {
+        "sentence_id,": "7990fb6d0a", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Based on the foregoing the causes and effects have been identified from which to develop prevention and control policies against the increase in cyber threats."
+    }, 
+    {
+        "sentence_id,": "4406bc7ee3", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Therefore, although this document aims to provide a policy framework for the issues of cybersecurity and cyberdefense in particular, the entities involved will be responsible for developing that framework and creating mechanisms by which to ensure information security nationwide."
+    }, 
+    {
+        "sentence_id,": "592e52aed0", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "To achieve the foregoing, consideration will be given to technical rules and national and international standards, as well as international initiatives on protection of critical infrastructure and cybersecurity."
+    }, 
+    {
+        "sentence_id,": "3d582a9f4b", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The adoption of a national policy on cybersecurity and cyberdefense involving all sectors of society, under the leadership of the Ministry of Defense and in coordination with other state entities, is an imperative of the highest priority."
+    }, 
+    {
+        "sentence_id,": "6fdac934a3", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "(Ministry Of Defense Colombia) This document identifies as the overarching objective of this policy the strengthening of the states capacity to confront cyber threats to its security and defense."
+    }, 
+    {
+        "sentence_id,": "24238e9c53", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "This document sets out a plan of action for putting into effect the policy on cybersecurity and cyberdefense, which will be entrusted to the entities involved."
+    }, 
+    {
+        "sentence_id,": "d5b4504b3a", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "National Framework In order to put Colombia's legal framework in perspective it is important to mention the country's lawmaking efforts in chronological order, as follows: LAW / RESOLUTION SUBJECT MATTER Law 527 of 1999 - ELECTRONIC TRADE Defines and regulates access to and use of data messages, electronic trade, and digital signatures, as well as establishing the certification entities and introducing other provisions."
+    }, 
+    {
+        "sentence_id,": "91702c6ac2", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "TABLE 2: Domestic standards Different initiatives have been devised in a number of sectors, which CONPES has drawn on as research and reference papers for preparing this document: INITIATIVE LEAD ENTITY SCOPE Information Security Model for the Online Government Strategy Online Government Program - Ministry of Information and Communication Technologies This security model is founded on the set of strategic policies that underpin online government, such as protection of personal information\" and credibility and trust in online government."
+    }, 
+    {
+        "sentence_id,": "b5523a82d5", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "INITIATIVE LEAD ENTITY SCOPE Recommendations to the national government for implementing a National cybersecurity Strategy Telecommunications Regulation Commission In this document the Communications Regulation Commission offers the national government recommendations for the establishment of a National Cybersecurity Strategy; puts suggests suitable public-private collaboration and cooperation mechanisms; identifies ways to deter cybercrime; recommends the implementation and development of cybersecurity legal frameworks consistent with international standards; offers recommendations for the development of response systems for network security incidents, including surveillance, analysis, and incident response; and proposes guidelines for introducing a national cybersecurity culture in order to improve protection of critical information infrastructure in Colombia."
+    }, 
+    {
+        "sentence_id,": "152f5a5266", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "As an upshot of the above activities, government agencies requested the Ministry of Defense to lead the way in implementing cybersecurity policies and establish mechanisms to respond to any cybercrimes and incidents that might affect the nation."
+    }, 
+    {
+        "sentence_id,": "c2cb372524", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "responsible agency"
+                ]
+            }
+        ], 
+        "sentence": "While Colombia does not yet have cyber incident response agencies, it does have capabilities and expertise that have allowed it to be a part of commissions that have assisted other governments in the region (Panama, Dominican Republic, and Mexico) in planning their respective Computer Security Incident Response Teams (CSIRTs)."
+    }, 
+    {
+        "sentence_id,": "6f29fc22da", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }, 
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "The Council considers that cybercrime requires a common criminal policy aimed at the protection of society against cybercrime15 , in particular by adopting appropriate legislation and strengthening international cooperation."
+    }, 
+    {
+        "sentence_id,": "1823426c2f", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Identification and adoption of technical standards for a secure Internet architecture."
+    }, 
+    {
+        "sentence_id,": "b27707b55a", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Among others, the objectives of that policy are to prevent, combat, and eliminate new security threats and, as appropriate, their interactions, through cooperation and coordinated measures to confront the challenges that those threats pose to the Andean Community."
+    }, 
+    {
+        "sentence_id,": "d296994705", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "17 The collective and coordinated operational response of a country, which recognizes information as a critical asset for safeguarding its governance and, therefore, develops and ensures standards and systematic practices geared toward individuals, technologies, processes, and regulatory and enforcement aspects."
+    }, 
+    {
+        "sentence_id,": "3e6657ea15", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "In terms of international standards, one of the instruments that would enable the country to draw level with the international community is the Council of Europe's Convention on Cybercrime, under which it would have to meet certain requirements, such as the establishment of judicial cooperation mechanisms, including extradition, points of contact available on a twenty-four hour, seven-day-a-week basis to facilitate investigation, and log-keeping20 by ISPs,21 for the requisite amount of time."
+    }, 
+    {
+        "sentence_id,": "732fc666dc", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "It is also vital to inform the public and raise awareness about all aspects of information security; strengthen levels of international cooperation and partnership in areas of cybersecurity and cyberdefense; support investigations of computer attacks, and protect the public from the consequences of those attacks."
+    }, 
+    {
+        "sentence_id,": "c13cb07df1", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "An Intersectoral Committee charged with devising a strategic vision for information management and with introducing policy guidelines for technology infrastructure management (hardware, software, and communications), public information, and cybersecurity and cyberdefense."
+    }, 
+    {
+        "sentence_id,": "119928eb94", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "ColCERT will have the following specific objectives: To coordinate, together with the Intersectoral Committee, the development and promotion of policies, procedures, recommendations, protocols, and guidelines on cybersecurity and cyberdefense in concert with the relevant stakeholders, as well as ensuring their implementation and compliance."
+    }, 
+    {
+        "sentence_id,": "80983468f7", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "To coordinate the implementation of public-private initiatives and policies on awareness raising and specialized skills development in the areas of cybersecurity and cyberdefense."
+    }, 
+    {
+        "sentence_id,": "eec92e3255", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "To foster awareness of cybersecurity policies in partnership with stakeholders."
+    }, 
+    {
+        "sentence_id,": "5f909af87c", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Strengthen the cybersecurity and cyberdefense laws, bolster international cooperation, and move toward accession by Colombia of the various international instruments in this area The purpose of this objective is to develop the necessary legal tools to ensure effective and efficient prevention, investigation, and prosecution of cybercrime."
+    }, 
+    {
+        "sentence_id,": "aeacde929e", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "The institutions responsible for cybersecurity and cyberdefense should seek and evaluate their participation in different international cooperation networks and mechanisms (Council of Europe, OAS, and FIRST), with a view to preparing the country to tackle the increasing cybersecurity challenges that exist on the international plane, as well as to respond more efficiently to cybersecurity incidents and offenses."
+    }, 
+    {
+        "sentence_id,": "1390211c68", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Colombia will face the challenge of positioning itself as a regional leader in the area of cybersecurity through exchange of good practices, expertise, and experience, giving particular attention to promoting the country's experience in the cybersecurity and cyberdefense policy development process."
+    }, 
+    {
+        "sentence_id,": "0128728e51", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Ministerio del Interior y Justicia, Ministerio del Tecnologas de Informacin y las Comunicaciones, DAS o quien haga sus vecesDespacho del Ministro de Tecnologas de la Informacin y las Comunicaciones / Direccin General Departamento Administrativo de Seguridad14/07/201131/12/20127SolicitaralMinisteriodeDefensaNacionalcrearel Centro Ciberntico Policial CCP."
+    }, 
+    {
+        "sentence_id,": "0211b0a3bd", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Approve the policy guidelines presented in this report for the development and implementation of the cybersecurity and cyberdefense strategy."
+    }, 
+    {
+        "sentence_id,": "3b6c61965b", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Request the Ministry of Information and Communication Technologies to issue a document containing information security guidelines based on international standards, which public-sector entities would be required to implement."
+    }, 
+    {
+        "sentence_id,": "24b09b7c6f", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Request the Ministry of the Interior and Justice to prepare, in coordination with the Ministry of Defense and the Ministry of Information and Communication Technologies, a document that reviews the standards in place and proposes the necessary modifications as regards information security and data protection, in order to prevent cybercrime, as well as identifying difficulties in terms of interpretation and enforcement."
+    }, 
+    {
+        "sentence_id,": "4c1c55a639", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Request the Ministry of Foreign Affairs, with regard to international cooperation in the areas of cybersecurity, cyberdefense, and information security, to support ColCERT in those instances for which it has been designated the international point of contact for cybersecurity and cyberdefense."
+    }, 
+    {
+        "sentence_id,": "530bbf9242", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "(http://www.iso.org) ISO: International Organization for Standardization, which has its headquarters in Geneva, Switzerland."
+    }, 
+    {
+        "sentence_id,": "7e1510a672", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "A worldwide federation of national standards institutes promoting the development of standardization of goods and services."
+    }, 
+    {
+        "sentence_id,": "dbd812b52c", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "ACRONYMS AND ABBREVIATIONS CCD: Cooperative Cyber Defence Centre of Excellence CCIT: Colombian Chamber of Informatics and Telecommunications CCOC: Joint Cyber Command CCP: Police Cyber Center CICTE: Inter-American Committee against Terrorism COINFO: Intersectoral Committee on Information Policy and Management in the Public Administration ColCERT: Cyber Emergency Response Team of Colombia (Ministry of Defense of Colombia) CONPES: National Council on Economic and Social Policy CRC: Communications Regulation Commission DAS: Department of Security Administration FIRST: Forum on Incident Response Teams FBI: Federal Bureau of Investigation IEC: International Electrotechnical Commission ISO: International Organization for Standardization ITU: International Telecommunication Union MDN: Ministry of Defense."
+    }
+]

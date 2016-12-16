@@ -1,0 +1,98 @@
+[
+    {
+        "sentence_id,": "c0c1e407a9", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Kjo strategji e promovuar nga MM synon: mbajtjen e nj mjedisi operimi elektronik t sigurt, t qndrueshm dhe t besueshm, i cili mbshtet sigurin n strukturat e MM/FA dhe rrit prfitimet e mjedisit dixhital pr to; vendosjen e standardeve pr prdorimin e sigurt t hapsirs kibernetike; inkurajimin pr nj zbatim gjithprfshirs; garantimin e siguris dhe progresit pr strukturat dhe sistemet e ndrlidhjes dhe informacionit (SNI) t MM."
+    }, 
+    {
+        "sentence_id,": "972a3ebf94", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Kjo do t sjell nj prdorim dhe menaxhimi t ndrgjegjshm t ktyre sistemeve, si pjes e drejtimit t prgjithshm t institucionit nprmjet aplikimit dhe zbatimit t standardeve t njohura."
+    }, 
+    {
+        "sentence_id,": "bb184cfac5", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Zbatimi dhe prdorimi i standardeve aktuale dhe ato ndrkombtare do t kontribuoj m shum, pr t vendosur sigurin e sistemeve t ndrlidhjes dhe informacionit mbi baza gjithprfshirse dhe sistematike."
+    }, 
+    {
+        "sentence_id,": "5690354df2", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Ky menaxhim duhet t ndrtohet dhe t zbatohet mbshtetur n standarde t njohura t siguris s sistemeve dhe n prputhje me iniciativat dhe angazhimet ndrkombtare t vendit ton."
+    }, 
+    {
+        "sentence_id,": "605b500fa7", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "- N vlersimin dhe prcaktimin prfundimtar t masave pr sigurin n rrjetet kompjuterike, i rndsishm sht dhe certifikimi i tyre."
+    }, 
+    {
+        "sentence_id,": "1b726650a5", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "Rritja e mundsive t prdorimit t produkteve t certifikuara, pr sistemet n pronsi t MM dhe t FA gjithashtu do t ndihmoj n rritjen e besimit dhe prmirsimin e siguris s Sistemeve te Ndrlidhjes dhe t Informacionit (SNI) dhe shrbimet q u ofrohen strukturave nprmjet ktyre sistemeve."
+    }, 
+    {
+        "sentence_id,": "6f84e5c0b2", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "cirt"
+                ]
+            }
+        ], 
+        "sentence": "sht e prcaktuar q incidentet e ndodhura n sistemet e klasifikuara raportohen n DSIK, por duhet prcaktuar si do t raportohen incidentet n rrjetet e paklasifikuar, kujt do ti raportohet, si do t analizohen dhe si do t bhet koordinimi me agjencit kombtare t fushs (ALCIRT)."
+    }, 
+    {
+        "sentence_id,": "642354120b", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "cirt"
+                ]
+            }
+        ], 
+        "sentence": "Duke qen se organizmat e Mbrojtjes kontribuojn n Axhendn Kombtare t Siguris dhe si pjes integrale e politikave t qeveris lidhur me sektorin privat, prioriteti i dhn pr sigurin kibernetike nga industria e teknologjis s lart, sht nj hap m tej n kuadrin e bashkpunimit me ministrit e tjera, ALCIRT dhe sektorin privat."
+    }
+]

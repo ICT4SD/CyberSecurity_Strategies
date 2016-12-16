@@ -1,0 +1,606 @@
+[
+    {
+        "sentence": "----------------------- Page 1----------------------- Appendix 1 NEW ZEALANDS CYBER SECURITY STRATEGY June 2011 MED1186216 ----------------------- Page 2----------------------- N e w Z e a l a n d s C y b e r S e c u r i t y S t r a t e g y New Zealand Government 7 June 2011 ISBN: 978-0-478-38200-6 www.med.govt.nz/cyberstrategy MED11 MED1186216 ----------------------- Page 3----------------------- N e w Z e a l a n d s C y b e r S e c u r i t y S t r a t e g y Foreword from the Minister The Internet and digital technologies are transforming the global economy and connecting people as never before.", 
+        "sentence_id,": "8fb149fef4"
+    }, 
+    {
+        "sentence": "New Zealand citizens, businesses and the Government are readily embracing the many advantages that these technologies offer.", 
+        "sentence_id,": "42f2f148b6"
+    }, 
+    {
+        "sentence": "Everyday activities such as banking, shopping and accessing government services are increasingly being carried out online whenever and wherever it is convenient for people to do so.", 
+        "sentence_id,": "276d4d150d"
+    }, 
+    {
+        "sentence": "New Zealand businesses are using the Internet and other digital technologies to access new markets, drive process efficiencies and improve their service delivery.", 
+        "sentence_id,": "ea844c1cc0"
+    }, 
+    {
+        "sentence": "The Governments Ultra-Fast Broadband and Rural Broadband initiatives will help New Zealanders maximise the benefits of the Internet by providing significantly faster broadband.", 
+        "sentence_id,": "a40b34f0a4"
+    }, 
+    {
+        "sentence": "At the same time, our increasing use of the Internet and other digital technologies increases our vulnerability to cyber threats.", 
+        "sentence_id,": "e24a8d394e"
+    }, 
+    {
+        "sentence": "Criminals are increasingly using cyber space to gain access to personal information, steal businesses intellectual property, and gain knowledge of sensitive government-held information for financial or political gain or other malicious purposes.", 
+        "sentence_id,": "fa0379fe66"
+    }, 
+    {
+        "sentence": "National borders present no barrier.", 
+        "sentence_id,": "f2b82cfe13"
+    }, 
+    {
+        "sentence": "New Zealands Cyber Security Strategy is the Governments response to the growing cyber threat.", 
+        "sentence_id,": "21fb66fc53"
+    }, 
+    {
+        "sentence": "The Strategy builds on existing government and non-government efforts to improve New Zealands cyber security.", 
+        "sentence_id,": "b7d04e5f33"
+    }, 
+    {
+        "sentence": "It brings forward targeted initiatives aimed at improving cyber security for individuals, businesses, critical national infrastructure and government.", 
+        "sentence_id,": "c7cbb0a6dd"
+    }, 
+    {
+        "sentence": "The Strategy reflects the fact that an improved New Zealand cyber security response is a shared responsibility.", 
+        "sentence_id,": "686b7d7661"
+    }, 
+    {
+        "sentence": "Government will continue to partner with industry and non-government organisations to ensure the initiatives outlined in the Strategy are delivered in the most effective and efficient way.", 
+        "sentence_id,": "ac6a97a3ec"
+    }, 
+    {
+        "sentence": "Meeting the evolving cyber threat requires ongoing vigilance and flexibility to respond to the changing environment.", 
+        "sentence_id,": "c4d6a9e4ef"
+    }, 
+    {
+        "sentence": "I am confident we can work together to meet this challenge.", 
+        "sentence_id,": "414705b62c"
+    }, 
+    {
+        "sentence": "Hon Steven Joyce Minister for Communications and Information Technology MED11 MED1186216 1 ----------------------- Page 4----------------------- N e w Z e a l a n d s C y b e r S e c u r i t y S t r a t e g y Introduction A well-functioning cyber space provides important benefits for New Zealanders.", 
+        "sentence_id,": "c3e90602c8"
+    }, 
+    {
+        "sentence": "The Internet and digital technologies enable New Zealanders to have global access to products and services and reduce our geographical isolation by connecting us with the rest of the world.", 
+        "sentence_id,": "570ddcb8d5"
+    }, 
+    {
+        "sentence": "Access to greater internet bandwidth and wireless technology in particular mobile devices such as smart phones is transforming how New Zealanders access the Internet and how business is transacted in New Zealand.", 
+        "sentence_id,": "5c9df476b3"
+    }, 
+    {
+        "sentence": "Convenient, high-speed access to information and services is increasingly in demand.", 
+        "sentence_id,": "2dd71e0115"
+    }, 
+    {
+        "sentence": "Our critical national infrastructure providers, including the banking and finance, telecommunications, transportation and energy sectors, and other businesses, are more and more reliant on digital systems.", 
+        "sentence_id,": "10caeb09e5"
+    }, 
+    {
+        "sentence": "Government agencies utilise the Internet, digital document management systems and shared online platforms in their day-to-day business.", 
+        "sentence_id,": "7d0fcc8896"
+    }, 
+    {
+        "sentence": "Increasingly, New Zealanders are accessing government services online, to complete tasks such as submitting tax returns and making applications for passport renewals and student loans.", 
+        "sentence_id,": "749c2216fc"
+    }, 
+    {
+        "sentence": "Internet Usage 1 At least 75% of New Zealanders have access to the Internet at home.", 
+        "sentence_id,": "bcc9e506d4"
+    }, 
+    {
+        "sentence": "2 Over 70% of New Zealand Internet subscribers have access to broadband.", 
+        "sentence_id,": "71d2d0e55a"
+    }, 
+    {
+        "sentence": "77% of New Zealand businesses use Internet banking and 50% of rural businesses buy goods 3 and services online.", 
+        "sentence_id,": "3a1a83bb02"
+    }, 
+    {
+        "sentence": "With our ever-increasing use of, and reliance on, the Internet and digital technologies comes increased exposure, and vulnerability, to cyber threats.", 
+        "sentence_id,": "47f4d03803"
+    }, 
+    {
+        "sentence": "Cyber attacks are becoming more advanced and sophisticated.", 
+        "sentence_id,": "3e6207208a"
+    }, 
+    {
+        "sentence": "Incidents reported internationally suggest that attacks are increasingly targeted at intellectual property and other proprietary information held by businesses, as well as at individuals.", 
+        "sentence_id,": "6aae5646fd"
+    }, 
+    {
+        "sentence": "Many attackers are coordinated, well-funded, and investing heavily in new ways to exploit the digital environment.", 
+        "sentence_id,": "db987622cb"
+    }, 
+    {
+        "sentence": "MED11 MED1186216 2 ----------------------- Page 5----------------------- N e w Z e a l a n d s C y b e r S e c u r i t y S t r a t e g y An Increasing and Evolving Global Threat 4 In 2010 alone, one third of all malware in existence was developed.", 
+        "sentence_id,": "a9fe8834a3"
+    }, 
+    {
+        "sentence": "2010 has been marked by some of the most high-profile, targeted attacks that the cyber industry has ever witnessed.5 There was an upward trend in Trojan botnet activity during 2010, which has gained momentum 6 despite increasing coordinated efforts to shut down botnet activity.", 
+        "sentence_id,": "801ecd793e"
+    }, 
+    {
+        "sentence": "The Role of Government New Zealand is not immune from cyber attacks.", 
+        "sentence_id,": "6c752e507f"
+    }, 
+    {
+        "sentence": "A successful targeted cyber attack could disrupt our critical services, negatively impact our economy and, potentially, threaten our national security.", 
+        "sentence_id,": "010ad1e024"
+    }, 
+    {
+        "sentence": "Cyber attacks can interfere with the production and delivery of essential goods and services or result in the theft of intellectual property or personal information.", 
+        "sentence_id,": "42b13f4ec4"
+    }, 
+    {
+        "sentence": "New Zealands cyber security response must meet the challenging nature of the increasing and evolving cyber security threat.", 
+        "sentence_id,": "03ce22c5a2"
+    }, 
+    {
+        "sentence": "New Zealand needs to ensure its cyber security activities are as coordinated and effective as possible to be able to identify and mitigate emerging cyber threats.", 
+        "sentence_id,": "020c527c9c"
+    }, 
+    {
+        "sentence": "The Government has a responsibility to protect its own systems and assist critical national infrastructure providers to ensure New Zealanders and New Zealand businesses can access government and other essential services.", 
+        "sentence_id,": "9d30fba7e7"
+    }, 
+    {
+        "sentence": "The Government also has a role in helping to provide a safe digital environment for businesses and individuals to operate in.", 
+        "sentence_id,": "40e167b2f3"
+    }, 
+    {
+        "sentence": "This includes helping New Zealanders and businesses to be more aware of cyber threats, and how to take measures to protect themselves, and establishing appropriate organisational and legal frameworks.", 
+        "sentence_id,": "35cb5eda18"
+    }, 
+    {
+        "sentence": "Government units have already been established to tackle issues such as scams, spam, identity theft, electronic crime and critical national infrastructure protection.", 
+        "sentence_id,": "688ab1ffcf"
+    }, 
+    {
+        "sentence": "The Government also provides support to NetSafe, an independent non-profit organisation, to deliver cyber safety education and awareness programmes in schools.", 
+        "sentence_id,": "e74b1681dd"
+    }, 
+    {
+        "sentence": "The Government is actively working with New Zealands international security partners on cyber security issues and is currently reviewing New Zealands legal framework in relation to the growing issue of international cyber crime.", 
+        "sentence_id,": "b89ebe9a18"
+    }, 
+    {
+        "sentence": "MED11 MED1186216 3 ----------------------- Page 6----------------------- N e w Z e a l a n d s C y b e r S e c u r i t y S t r a t e g y Cyber Security Threats The threat to New Zealanders and the New Zealand economy from cyber intrusions is real and growing.", 
+        "sentence_id,": "c2927f2025"
+    }, 
+    {
+        "sentence": "New Zealanders are already targets of common cyber threats, such as malware, scams and identity theft.", 
+        "sentence_id,": "0450ecf245"
+    }, 
+    {
+        "sentence": "Attackers exploit vulnerabilities in software, hardware and user behaviour.", 
+        "sentence_id,": "60b910f38e"
+    }, 
+    {
+        "sentence": "They take advantage of people who fail to follow basic cyber security practices, such as regularly updating their passwords, updating their antivirus software and using protected wireless networks.", 
+        "sentence_id,": "5954baf14d"
+    }, 
+    {
+        "sentence": "Once attackers have access to a computer or network, they can steal or distort the information stored on it, corrupt its operations or program it to attack other computers and systems.", 
+        "sentence_id,": "b2ebb999e0"
+    }, 
+    {
+        "sentence": "Unprotected home computers that are infected with malware can be used as a resource to build botnets.", 
+        "sentence_id,": "32dceac305"
+    }, 
+    {
+        "sentence": "Botnets harness the computing power of thousands or even millions of individual computers to launch remote attacks on information and communications networks, commercial systems and government websites with the aim of denying the legitimate use of the service.", 
+        "sentence_id,": "4c04affac5"
+    }, 
+    {
+        "sentence": "The Threat to New Zealand 8 70% of New Zealand adults have been the targets of some form of cyber crime , with the most 9 common complaints being computer scams, fraud and viruses/malware.", 
+        "sentence_id,": "9aca0b0c1d"
+    }, 
+    {
+        "sentence": "New Zealanders are frequently the targets of international scams and fraud attempts, losing up 10 to $500 million due to scams annually.", 
+        "sentence_id,": "f46608db0c"
+    }, 
+    {
+        "sentence": "International data suggests 133,000 New Zealanders per annum are victims of identity fraud (the majority of cases having a cyber element), with around one third falling victim to identity theft and two thirds falling victim to credit or bank card fraud.11 A recent survey showed that 54% of New Zealanders feel they know little or nothing at all about 12 computer security risks and solutions.", 
+        "sentence_id,": "04e873fbc7"
+    }, 
+    {
+        "sentence": "59% of New Zealanders do not secure their mobile phones, PDAs or smart phones by using, and regularly changing, a password or PIN.13 8 Norton Cybercrime Report 2010: The Human Impact.", 
+        "sentence_id,": "6cf3eefebc"
+    }, 
+    {
+        "sentence": "MED1186216 4 ----------------------- Page 7----------------------- N e w Z e a l a n d s C y b e r S e c u r i t y S t r a t e g y Cyber crime Criminals operating in cyber space are often well-organised and well-funded.", 
+        "sentence_id,": "a003af6d92"
+    }, 
+    {
+        "sentence": "They are constantly targeting home users, businesses and government systems.", 
+        "sentence_id,": "a750bf7bcf"
+    }, 
+    {
+        "sentence": "Organised criminals are involved in activities such as identity theft, selling fake goods and services and trading information with other criminals such as stolen credit card details, passwords and malware.", 
+        "sentence_id,": "0f06a42876"
+    }, 
+    {
+        "sentence": "Criminals are finding increasingly sophisticated ways to gain access to information online.", 
+        "sentence_id,": "accb763065"
+    }, 
+    {
+        "sentence": "For example, as the popularity of social networking sites increases, criminals are exploiting 14 opportunities to use these sites to access individuals personal information .", 
+        "sentence_id,": "92e86b78b7"
+    }, 
+    {
+        "sentence": "In addition to obtaining personal information, cyber criminals also seek to obtain intellectual property and government-held information for financial gain.", 
+        "sentence_id,": "c6cf8219b8"
+    }, 
+    {
+        "sentence": "Social Networking Targets Cyber criminals are increasingly using social networking sites to lure victims to websites that 15 attempt to push malware or launch an attack on the victims computer.", 
+        "sentence_id,": "22a40eeddb"
+    }, 
+    {
+        "sentence": "Attackers exploit the profile information available on social networking sites (e.g.", 
+        "sentence_id,": "b553dff6a2"
+    }, 
+    {
+        "sentence": "birth dates, phone numbers, employment details and other information) to mount targeted attacks.16 Cyber Espionage Some of the most advanced and persistent cyber attacks on governments and critical infrastructure worldwide are thought to originate from foreign military and intelligence services or organised criminal groups.", 
+        "sentence_id,": "23772bfe6e"
+    }, 
+    {
+        "sentence": "Media organisations around the world are reporting attacks on government systems, national infrastructure and businesses that have resulted in access to commercially sensitive information, intellectual property and state or trade secrets.", 
+        "sentence_id,": "f7535df318"
+    }, 
+    {
+        "sentence": "Hacktivism There has also been a global increase in hactivism.", 
+        "sentence_id,": "aad67d0231"
+    }, 
+    {
+        "sentence": "Hacktivists seek to gain control over computer systems or websites to manipulate them to promote a cause, make a political statement or disrupt services, for example, by overloading websites with botnet attacks, which can deny or prevent the legitimate use of the service.", 
+        "sentence_id,": "bd2f1660da"
+    }, 
+    {
+        "sentence": "Terrorist use of the Internet Terrorists recognise the growing worldwide dependence on cyber systems and may seek to take advantage of the vulnerabilities that exist.", 
+        "sentence_id,": "58a0b1bc1d"
+    }, 
+    {
+        "sentence": "It is likely that terrorists will continue to develop their cyber capability and use of the Internet to support recruitment and fundraising activities.", 
+        "sentence_id,": "9b900a3a42"
+    }, 
+    {
+        "sentence": "MED1186216 5 ----------------------- Page 8----------------------- N e w Z e a l a n d s C y b e r S e c u r i t y S t r a t e g y New Zealands Response New Zealands Cyber Security Strategy outlines the Governments response to the growing cyber threat.", 
+        "sentence_id,": "777ca238ce"
+    }, 
+    {
+        "sentence": "The Strategy highlights initiatives for individuals, businesses and government to strengthen New Zealands cyber security position.", 
+        "sentence_id,": "673806f2cc"
+    }, 
+    {
+        "sentence": "The key objectives of the Strategy are to: raise the cyber security awareness and understanding of individuals and small businesses; improve the level of cyber security across government; and build strategic relationships to improve cyber security for critical national infrastructure and other businesses.", 
+        "sentence_id,": "2d8a2d3f4b"
+    }, 
+    {
+        "sentence": "The Government has appointed the Ministry of Economic Development as the lead policy agency responsible for coordinating cyber security policy and implementing this Strategy.", 
+        "sentence_id,": "64e7f02376"
+    }, 
+    {
+        "sentence": "A Partnership Approach Improving cyber security is a shared responsibility.", 
+        "sentence_id,": "4b16abb6c5"
+    }, 
+    {
+        "sentence": "In developing this Strategy, the Government has sought input from a wide range of stakeholders across government, industry, non- government organisations and academia.", 
+        "sentence_id,": "adb2672038"
+    }, 
+    {
+        "sentence": "The Government will continue to build partnerships and work with these stakeholders to implement the initiatives outlined in the Strategy and to explore further opportunities to enhance New Zealands cyber security response.", 
+        "sentence_id,": "032ec781b8"
+    }, 
+    {
+        "sentence": "Internationally, the Government will continue to collaborate with security and trade partners to ensure New Zealand contributes effectively to global cyber security initiatives.", 
+        "sentence_id,": "30fe0bdc7c"
+    }, 
+    {
+        "sentence": "Incident Response and Planning The Strategy identifies key initiatives, and longer-term initiatives, under these priority areas.", 
+        "sentence_id,": "9e2c1ea9c3"
+    }, 
+    {
+        "sentence": "MED1186216 6 ----------------------- Page 9----------------------- N e w Z e a l a n d s C y b e r S e c u r i t y S t r a t e g y Priority 1 Increasing Awareness and Online Security .", 
+        "sentence_id,": "1d07687fb7"
+    }, 
+    {
+        "sentence": "Individuals and businesses have a responsibility and interest to ensure they carry out their activities in cyber space as safely as possible.", 
+        "sentence_id,": "483bb3a2de"
+    }, 
+    {
+        "sentence": "The Government has a role in helping to enable a safe cyber environment and helping New Zealanders and businesses to access the tools and information they need to operate as securely as possible in cyber space.", 
+        "sentence_id,": "051eae615f"
+    }, 
+    {
+        "sentence": "The Government is working with industry and non-government organisations, such as NetSafe, on initiatives to improve access to cyber security information and advice.", 
+        "sentence_id,": "fe661ec33d"
+    }, 
+    {
+        "sentence": "The Government is also working with industry and non-government organisations on initiatives to raise the cyber security awareness of individuals and small businesses and to increase understanding of cyber security threats.", 
+        "sentence_id,": "3623703c83"
+    }, 
+    {
+        "sentence": "The Government will seek the views of Internet Service Providers and other organisations on measures to address problems such as infected computers and botnets.", 
+        "sentence_id,": "88bc13385f"
+    }, 
+    {
+        "sentence": "Key initiatives: Partner with industry and non-government organisations, such as NetSafe, to: centralise cyber security information and resources for ease of access; and deliver a coordinated cyber safety awareness-raising programme.", 
+        "sentence_id,": "377f9fb34f"
+    }, 
+    {
+        "sentence": "Longer-term initiative: Progress work with Internet Service Providers to develop appropriate solutions to address cyber security issues, such as infected computers and botnets.", 
+        "sentence_id,": "74225d600c"
+    }, 
+    {
+        "sentence": "MED1186216 7 ----------------------- Page 10----------------------- N e w Z e a l a n d s C y b e r S e c u r i t y S t r a t e g y Priority 2 Protecting Government Systems and Information .", 
+        "sentence_id,": "b77a6526ee"
+    }, 
+    {
+        "sentence": "The Government has a responsibility to protect the personal and commercial information entrusted to it by its citizens and businesses from harmful or unauthorised use.", 
+        "sentence_id,": "d8b7620ae9"
+    }, 
+    {
+        "sentence": "Nationally sensitive material must also be protected.", 
+        "sentence_id,": "dcaffdf084"
+    }, 
+    {
+        "sentence": "As a priority, the Government will establish a National Cyber Security Centre within the Government Communications Security Bureau.", 
+        "sentence_id,": "b4689141b4"
+    }, 
+    {
+        "sentence": "The National Cyber Security Centre will build on existing cyber security and information assurance capabilities to provide enhanced protection of government systems and information against advanced and persistent threats.", 
+        "sentence_id,": "d80f6c2eb1"
+    }, 
+    {
+        "sentence": "The Government will also take steps to enhance cyber security practices within government agencies.", 
+        "sentence_id,": "4868976460"
+    }, 
+    {
+        "sentence": "Key initiatives: Establish a National Cyber Security Centre within the Government Communications Security Bureau.", 
+        "sentence_id,": "a5a8e43784"
+    }, 
+    {
+        "sentence": "Implement steps to improve cyber security practices in government agencies.", 
+        "sentence_id,": "929d98e15f"
+    }, 
+    {
+        "sentence": "MED1186216 8 ----------------------- Page 11----------------------- N e w Z e a l a n d s C y b e r S e c u r i t y S t r a t e g y Priority 3 Incident Response and Planning .", 
+        "sentence_id,": "3c4fc3e4be"
+    }, 
+    {
+        "sentence": "In light of the global growth in significant cyber security incidents, emergency preparedness is increasingly important.", 
+        "sentence_id,": "4bdaba2008"
+    }, 
+    {
+        "sentence": "The Government will revise its cyber incident response plan to ensure New Zealand is prepared to respond to the evolving and increasing cyber threats.", 
+        "sentence_id,": "7904625fa6"
+    }, 
+    {
+        "sentence": "Through the establishment of a National Cyber Security Centre, the Government will build on New Zealands existing cyber security capability to plan for and respond to cyber incidents.", 
+        "sentence_id,": "d23b8ba2c9"
+    }, 
+    {
+        "sentence": "The National Cyber Security Centre will absorb the current functions of the Centre for Critical Infrastructure Protection (CCIP).", 
+        "sentence_id,": "07c6c6ab3b"
+    }, 
+    {
+        "sentence": "The preparedness of New Zealand businesses to respond to cyber attacks is critical to New Zealands cyber resilience.", 
+        "sentence_id,": "78f7580653"
+    }, 
+    {
+        "sentence": "As new and more sophisticated malware and attack tools are developed, it is increasingly important for businesses to have measures in place to identify, assess and respond to incidents and threats.", 
+        "sentence_id,": "1f6634cce2"
+    }, 
+    {
+        "sentence": "The Government will work with critical national infrastructure providers and other businesses to support them to further develop their cyber security responses.", 
+        "sentence_id,": "66cdeb1a48"
+    }, 
+    {
+        "sentence": "This will include assessing the need for a New Zealand Computer Emergency Response Team (CERT).", 
+        "sentence_id,": "2c1a16f226"
+    }, 
+    {
+        "sentence": "Key initiatives: Establish a National Cyber Security Centre, which will absorb the functions of the CCIP.", 
+        "sentence_id,": "75fe5a886e"
+    }, 
+    {
+        "sentence": "Revise the Governments national cyber incident response plan.", 
+        "sentence_id,": "e414ddc720"
+    }, 
+    {
+        "sentence": "Expand work with industry, including critical national infrastructure providers and businesses to support them to review their cyber security responses.", 
+        "sentence_id,": "e5b69baaeb"
+    }, 
+    {
+        "sentence": "Longer-term initiatives: Work with interested parties to determine the need for a New Zealand CERT.", 
+        "sentence_id,": "2e8a98fa7b"
+    }, 
+    {
+        "sentence": "MED1186216 9 ----------------------- Page 12----------------------- N e w Z e a l a n d s C y b e r S e c u r i t y S t r a t e g y Other Initiatives .", 
+        "sentence_id,": "c69d1b992f"
+    }, 
+    {
+        "sentence": "Research and development is a key component in improving New Zealands response to cyber security threats.", 
+        "sentence_id,": "80c668b72d"
+    }, 
+    {
+        "sentence": "Increasingly, organisations are seeking to hire the services of people with specialist cyber security skills and knowledge.", 
+        "sentence_id,": "15c502ffb6"
+    }, 
+    {
+        "sentence": "The Government will work with industry, universities and other educational and training institutions to determine appropriate solutions for meeting the demand for cyber security qualifications, training and research and development.", 
+        "sentence_id,": "51662aee35"
+    }, 
+    {
+        "sentence": "The Government will also work with industry, academia, government agencies and other relevant organisations to explore further opportunities to enhance New Zealands cyber security response.", 
+        "sentence_id,": "55a34704d7"
+    }, 
+    {
+        "sentence": "Maintaining an appropriate legal environment and ensuring international cooperation on cyber crime is important.", 
+        "sentence_id,": "d838cd6acf"
+    }, 
+    {
+        "sentence": "The Government is working with international partners to improve co-operation on cyber crime.", 
+        "sentence_id,": "e9061e01f7"
+    }, 
+    {
+        "sentence": "As part of an all-of-government response to organised crime, the Government is considering New Zealands alignment to the standards set out in the Council of Europe Convention on Cybercrime.", 
+        "sentence_id,": "aacc91a894"
+    }, 
+    {
+        "sentence": "Longer-term initiatives: Work with educational and training institutions to determine an appropriate solution to meet the need for cyber security professionals in New Zealand.", 
+        "sentence_id,": "f9b2fa4587"
+    }, 
+    {
+        "sentence": "Work with international partners on initiatives to combat cyber crime and determine New Zealands alignment with the Council of Europe Convention on Cybercrime.", 
+        "sentence_id,": "d87c18a6e1"
+    }, 
+    {
+        "sentence": "MED1186216 10 ----------------------- Page 13----------------------- N e w Z e a l a n d s C y b e r S e c u r i t y S t r a t e g y Government and Partnering Organisations Centre for Critical Infrastructure Protection supports critical national infrastructure providers to improve protection against cyber threats.", 
+        "sentence_id,": "7f16c0afcd"
+    }, 
+    {
+        "sentence": "www.ccip.govt.nz provides cyber safety advice to NetSafe Ministry of Economic Development individuals, families, schools and the lead agency responsible for cyber businesses to promote safety online.", 
+        "sentence_id,": "c9db0a55ef"
+    }, 
+    {
+        "sentence": "security policy in New Zealand and implementing this Strategy.", 
+        "sentence_id,": "fdfafc5d18"
+    }, 
+    {
+        "sentence": "www.netsafe.org.nz www.med.govt.nz investigates and New Zealand Police provides advice on electronic crime and computer related offending.", 
+        "sentence_id,": "7a52b15a0a"
+    }, 
+    {
+        "sentence": "www.police.govt.nz Ministry of Consumer Affairs provides information and advice on how consumers can protect themselves and report scams.", 
+        "sentence_id,": "b56b2a2942"
+    }, 
+    {
+        "sentence": "www.consumeraffairs.govt.nz Department of Internal Affairs coordinates cross-government ICT Ministry of Education supports NetSafe initiatives and has units dedicated to to provide cyber safety programmes for use addressing cyber issues such as spam in schools.", 
+        "sentence_id,": "11a01462fa"
+    }, 
+    {
+        "sentence": "www.minedu.govt.nz www.dia.govt.nz Ministry of Foreign Affairs and Trade New Zealand's voice overseas contributing to the security and well-being of all New Zealanders.", 
+        "sentence_id,": "7c55da0094"
+    }, 
+    {
+        "sentence": "www.mfat.govt.nz The ORB a simple and secure way to report online incidents which may break New Zealand law or breach legislation.", 
+        "sentence_id,": "a2af46fceb"
+    }, 
+    {
+        "sentence": "www.theorb.org.nz Government Communications Security Bureau assists government agencies to protect their electronic New Zealand Security Intelligence information resources and Service provides advice to Government communications systems.", 
+        "sentence_id,": "c560320068"
+    }, 
+    {
+        "sentence": "about matters relating to domestic security.", 
+        "sentence_id,": "66bec176df"
+    }, 
+    {
+        "sentence": "www.gcsb.govt.nz www.security.govt.nz MED1186216 11 ----------------------- Page 14----------------------- N e w Z e a l a n d s C y b e r S e c u r i t y S t r a t e g y Glossary of Terms Botnet A network of compromised computers running malicious programmes under a command and control infrastructure.", 
+        "sentence_id,": "5b20db4c85"
+    }, 
+    {
+        "sentence": "Computer Emergency Response Team (CERT) Typically an operational team or centre that provides advice and mitigations against cyber attacks for businesses, government and individuals.", 
+        "sentence_id,": "7237576baa"
+    }, 
+    {
+        "sentence": "Critical national infrastructure A term used by governments to describe assets that are essential for the functioning of a society and economy (e.g.", 
+        "sentence_id,": "393cc3c79f"
+    }, 
+    {
+        "sentence": "electricity generation, gas production, telecommunications, water supply etc.).", 
+        "sentence_id,": "ac799ec0f7"
+    }, 
+    {
+        "sentence": "Cyber attack An attempt to undermine or compromise the function of a computer-based system, access information, or attempt to track the online movements of individuals without their permission.", 
+        "sentence_id,": "60e28777be"
+    }, 
+    {
+        "sentence": "Cyber crime (or computer crime) Any crime where information and communications technology is: 1. used as a tool in the commission of an offence 2. the target of an offence 3. a storage device in the commission of an offence.", 
+        "sentence_id,": "0ef707369b"
+    }, 
+    {
+        "sentence": "In New Zealand some of the most common examples of cyber crime include fraud, identity theft and organised crime.", 
+        "sentence_id,": "6c5c8240e0"
+    }, 
+    {
+        "sentence": "Cyber security The practice of making the networks that constitute cyber space as secure as possible against intrusions, maintaining confidentiality, availability and integrity of information, detecting intrusions and incidents that do occur, and responding to and recovering from them.", 
+        "sentence_id,": "d6be09659e"
+    }, 
+    {
+        "sentence": "Cyber space The global network of interdependent information technology infrastructures, telecommunications networks and computer processing systems in which online communication takes place.", 
+        "sentence_id,": "9d6c9df8e4"
+    }, 
+    {
+        "sentence": "Hacking An attempt by an unauthorised person, whether successful or not, to access an information system, usually for malicious purposes.", 
+        "sentence_id,": "bb908d478a"
+    }, 
+    {
+        "sentence": "Identity Fraud Any offence involving the misuse of a personal identity.", 
+        "sentence_id,": "5b55fcde9c"
+    }, 
+    {
+        "sentence": "The majority of identity crime is committed with the help of computers.", 
+        "sentence_id,": "3a78b00b37"
+    }, 
+    {
+        "sentence": "MED1186216 12 ----------------------- Page 15----------------------- N e w Z e a l a n d s C y b e r S e c u r i t y S t r a t e g y Intellectual Property Includes a diverse range of commercially valuable assets including patents for new inventions, trade marks for marketing goods and services and copyright works like photographs, prototype drawings, literature and music.", 
+        "sentence_id,": "cae6f02b64"
+    }, 
+    {
+        "sentence": "In business terms, intellectual property means that proprietary knowledge a key component of business success is protected.", 
+        "sentence_id,": "686bd5e516"
+    }, 
+    {
+        "sentence": "Internet Service Provider (ISP) An organisation that provides access to the Internet, commonly using copper, wireless or fibre connections.", 
+        "sentence_id,": "b80bcb3de2"
+    }, 
+    {
+        "sentence": "Malware Malicious software or potentially unwanted software installed without informed user consent, generally covering a range of software programmes designed to attack, or prevent the intended use of information and communications networks.", 
+        "sentence_id,": "160489f945"
+    }, 
+    {
+        "sentence": "Phishing A form of Internet fraud that aims to steal valuable information such as credit card details, user IDs and passwords by tricking the user into giving the attacker the confidential information.", 
+        "sentence_id,": "bb227b3996"
+    }, 
+    {
+        "sentence": "Scams Deceptive, uninvited contacts or promises designed to trick people into giving away their money or your personal information.", 
+        "sentence_id,": "5834446ec8"
+    }, 
+    {
+        "sentence": "Social engineering The practice of obtaining otherwise secure information by tricking, exploiting human traits of trust and helpfulness, or manipulation of legitimate users.", 
+        "sentence_id,": "67ede0788c"
+    }, 
+    {
+        "sentence": "Spam The use of electronic messaging systems (including most broadcast media, digital delivery systems) to send unsolicited bulk messages indiscriminately.", 
+        "sentence_id,": "12569f2393"
+    }, 
+    {
+        "sentence": "The most widely recognised form of spam is email spam.", 
+        "sentence_id,": "5ac6fa3cb4"
+    }, 
+    {
+        "sentence": "Trojan A computer program that disguises itself as a useful software application, whereas its true purpose is to carry out and run a hidden, harmful transmission of material across a network.", 
+        "sentence_id,": "986c2932dc"
+    }, 
+    {
+        "sentence": "Virus A self-replicating program that spreads to other users by inserting copies of itself into other executable code or documents.", 
+        "sentence_id,": "d82f41c9d6"
+    }, 
+    {
+        "sentence": "Glossary Sources: Centre for Critical Infrastructure Protection.", 
+        "sentence_id,": "89b7db5c32"
+    }, 
+    {
+        "sentence": "Intellectual Property Office of New Zealand.", 
+        "sentence_id,": "4a6553f1f7"
+    }, 
+    {
+        "sentence": "MED1186216 13 ----------------------- Page 16----------------------- N e w Z e a l a n d s C y b e r S e c u r i t y S t r a t e g y MED1186216 www.med.govt.nz/cyberstrategy", 
+        "sentence_id,": "a3fc765425"
+    }
+]

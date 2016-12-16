@@ -1,0 +1,1191 @@
+[
+    {
+        "sentence_id,": "d82eb2d0cb", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "REPUBLIC OF GHANA MINISTRY OF COMMUNICATIONS Ghana National Cyber Security Policy & Strategy Final Draft March 2014 Document Contact Table of Contents EXECUTIVE SUMMARY ..................................................................................................................... 6 a."
+    }, 
+    {
+        "sentence_id,": "a0474aff2a", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "CHALLENGES, DEVELOPMENTS WITH FOCUS OF THE POLICY ................................. 9 i. Overview ................................................................................................................................ 9 ii."
+    }, 
+    {
+        "sentence_id,": "483a1894eb", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "NEED FOR POLICY ................................................................................................................... 14 III."
+    }, 
+    {
+        "sentence_id,": "ec4eed1f74", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "SECTION TWO: CYBER SECURITY POLICY ........................................................................ 17 I."
+    }, 
+    {
+        "sentence_id,": "e3a427ba93", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "POLICY CONTEXT ............................................................................................................. 20 VIII."
+    }, 
+    {
+        "sentence_id,": "e5e300c117", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }, 
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "POLICY STATEMENT ........................................................................................................ 22 Legislative & Regulatory Framework ......................................................................................... 22 Cyber Security Technology Framework .................................................................................... 22 Culture of security and Capacity Building ................................................................................. 23 Research & Development towards Self-Reliance .................................................................... 23 Compliance and Enforcement .................................................................................................... 23 2|Page Draft National Cyber Security Policy & Strategy Cyber Security Emergency Readiness ..................................................................................... 24 International Cooperation ........................................................................................................... 24 c. SECTION THREE: NATIONAL CYBER SECURITY STRATEGY ......................................... 25 I."
+    }, 
+    {
+        "sentence_id,": "3b5b58a8b6", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "STRATEGIC ACTIONS FOR POLICY THRUST ................................................................. 26 i."
+    }, 
+    {
+        "sentence_id,": "61de5ed664", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Specific Initiatives ................................................................................................................ 30 APPENDIX .......................................................................................................................................... 31 National Cyber Security Policy Working Group ........................................................................ 32 National Cyber Security Awareness Program .......................................................................... 35 National Cyber Security Center (NCSC) ................................................................................... 38 National Cyber Security Council (NCSCC) ............................................................................... 41 National Cyber Security Crisis Management Plan (NCSCMP) ............................................... 44 National Computer Security Incidence Response Team (National CSIRT)........................... 47 3|Page Draft National Cyber Security Policy & Strategy GLOSSARY AU Africa Union CCI Commonwealth Cyber Initiative CERT Computer Emergency Response Team CSIR Council for Scientific and Industrial Research CSIRT Computer Security Incidence Response Team CNII Critical National Information Infrastructure CID Criminal Investigation Department EOCO Economic and Organized Crime Office ETA Electronic Transactions Act FIRST Forum of Incident Response and Security Teams GARNET Ghanaian Academic and Research Network ICT4AD Information and Communication Technology for Accelerated Development ITU International telecommunications Union IMPACT Multilateral Partnership against Cyber Threat ISOC/IEC International Organization for Standardization / International Electrotechnical Commission LI Legislative Instrument MDA Ministries, Departments and Agencies NCA National Communications Authority NITA National Information Technology Agency NitaCERT NITA Computer Emergency Response Team 4|Page Draft National Cyber Security Policy & Strategy NCSAW National Cyber Security Awareness Program NCSC National Cyber Security Center NCSCC National Cyber Security Council NCSPWG National Cyber Security Working Group NCSCMP National Cyber Security Crisis Management Plan PKI Public Key Infrastructure R& D Research and Development SIM Subscriber Identification Module UNECA United Nations Economic Commission for Africa WG Working Group 5|Page Draft National Cyber Security Policy & Strategy EXECUTIVE SUMMARY In the early 2000s, the focus of ICTs in Africa was on expanding Internet access."
+    }, 
+    {
+        "sentence_id,": "f86ec27a30", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The Commonwealth Cyber Initiative (CCI) is another initiative that seeks to help commonwealth countries adopt efficient cyber security policy and Infrastructure."
+    }, 
+    {
+        "sentence_id,": "22f31034a1", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The Ministry of Communications, Ghana with the support of UN Economic Commission for Africa (UNECA) began a process in 2011 to review Ghanas ICT for accelerated Development (ICT4AD) policy document to include recent developments in ICTs that was not originally included in the document."
+    }, 
+    {
+        "sentence_id,": "b79c6bc9bf", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Cyber Security is one of the four thematic areas under this review 6|Page Draft National Cyber Security Policy & Strategy and the ministry has appointed an Adhoc technical committee and a resource person to develop a national cyber security policy and strategy for Ghana."
+    }, 
+    {
+        "sentence_id,": "7a33d7e8a8", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "This document is the report submitted by the Adhoc committee on cyber security which outlines the proposed policy and implementation strategy with specific initiatives to get enforcement of cyber security up and running in Ghana."
+    }, 
+    {
+        "sentence_id,": "1d2af3bd23", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "7|Page Draft National Cyber Security Policy & Strategy a."
+    }, 
+    {
+        "sentence_id,": "9e6b792df2", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "SECTION ONE: BACKGROUND 8|Page Draft National Cyber Security Policy & Strategy I."
+    }, 
+    {
+        "sentence_id,": "a9662fb4d3", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "CHALLENGES, DEVELOPMENTS WITH FOCUS OF THE POLICY i. Overview Ghana has had a number of websites defaced by hackers in recent times."
+    }, 
+    {
+        "sentence_id,": "1ab43a3b66", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "NITA is implementing the Public Key Infrastructure (PKI) and Digital Certificates to enhance secure communication within government."
+    }, 
+    {
+        "sentence_id,": "e75a93268e", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "10 | P a g e Draft National Cyber Security Policy & Strategy ii."
+    }, 
+    {
+        "sentence_id,": "fbefcec620", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Since the year 2000, several countries with high levels of networked computers infrastructure been working around securing their critical information infrastructure and have developed cyber security policies and strategies to mitigate cyber incidences and crimes."
+    }, 
+    {
+        "sentence_id,": "6b728be955", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The United States of America for instance recently revised its policy and strategy to meet high incidences of cyber attacks and increasing threats of cyber war."
+    }, 
+    {
+        "sentence_id,": "e034aa1bc3", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "CERTs have been set in 11 | P a g e Draft National Cyber Security Policy & Strategy very few developing nations, although there is much talk about the subject in many developing countries as networked computers infrastructure expands."
+    }, 
+    {
+        "sentence_id,": "871c435bc9", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "ITU has indeed developed frame work for developing countries to help them kick start a process of developing policies and strategy around cyber security."
+    }, 
+    {
+        "sentence_id,": "7f870c36e6", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "The convention is used as a guideline, reference standard or model law in more than 100 countries."
+    }, 
+    {
+        "sentence_id,": "4da0a1d82c", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Many countries are also in the process of developing cyber security policy and strategy (including formation of CERTs)."
+    }, 
+    {
+        "sentence_id,": "8de1ff139d", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "In order to harmonize the 12 | P a g e Draft National Cyber Security Policy & Strategy development of cyber security policy and strategy, the Africa Union (AU) and the UN Economic Commission for Africa (UNECA) have developed a draft cyber security convention that has been under review over the last few months and is due to be ratified by African heads of States."
+    }, 
+    {
+        "sentence_id,": "eca60de2cc", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Recent several cyber attacks on government websites in Ghana is a wake-up call for the development of a cyber security policy and strategy."
+    }, 
+    {
+        "sentence_id,": "321dc2f1af", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "A CCI team were in Ghana recently on the scoping mission to assist Ghana develop a cyber security policy and strategy and, to help Ghana establish a national CSIRT."
+    }, 
+    {
+        "sentence_id,": "de466db448", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "During the scoping mission, the team interviewed over 70 cyber security stakeholder in Ghana and interacted with the Adhoc Technical committee on the Cyber Security Policy and Strategy."
+    }, 
+    {
+        "sentence_id,": "61d474ce8d", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "13 | P a g e Draft National Cyber Security Policy & Strategy The National Security Council and many other institutions such as Ghanaian Academic and Research Network (GARNET) in academia are working on different projects towards securing cyberspace."
+    }, 
+    {
+        "sentence_id,": "8cdc854731", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "NEED FOR POLICY As Ghana strives to become, an information and knowledge economy, there is an increased emphasis on informational activities and information industry."
+    }, 
+    {
+        "sentence_id,": "bcd1c9ee82", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "As the infrastructure problems get solved in countries, there is an increase in attacks on networked computers and the critical information infrastructure that will sustain the economy of the 14 | P a g e Draft National Cyber Security Policy & Strategy information and knowledge society."
+    }, 
+    {
+        "sentence_id,": "a1d2012302", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "In order to share knowledge on incidence response and ensure that there is a uniform risk management of all critical information infrastructures (both public and private), the policy must address the need for a central coordinating body and work with a public private partnership model."
+    }, 
+    {
+        "sentence_id,": "e601203ed5", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "RELEVANT PROVISION ICT4AD Pillar 14 of the ICT4AD policy relates to Security Agencies using ICT for combating cybercrime."
+    }, 
+    {
+        "sentence_id,": "62b56c0928", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }, 
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "The pillar among other things emphasis on capacity building, international cooperation and building infrastructure for security agencies to enable them use ICT to combat crime and also ensure that the legal text of the policy pillar is up to date to help security agencies prosecute any cyber crime offenders by the Attorney Generals office."
+    }, 
+    {
+        "sentence_id,": "1496721bb8", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "15 | P a g e Draft National Cyber Security Policy & Strategy The Electronic Transaction Act (ETA) 2008 has specific legislation on cyber crime and prescribes punishment for cyber crime perpetuators."
+    }, 
+    {
+        "sentence_id,": "2c7b0a0cfa", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "A National Cyber Security framework covering policy and implementation strategy done holistically will ensure coordination and greatly enhance the national cyber security of Ghana."
+    }, 
+    {
+        "sentence_id,": "d6318e1ac8", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "16 | P a g e Draft National Cyber Security Policy & Strategy b."
+    }, 
+    {
+        "sentence_id,": "5536ca81a5", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "SECTION TWO: CYBER SECURITY POLICY 17 | P a g e Draft National Cyber Security Policy & Strategy I."
+    }, 
+    {
+        "sentence_id,": "dc159e69a1", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "DEFINITIONS For the purpose of this policy document, may be defined as those assets (real and virtual), systems and functions that are vital to the nations that their incapacity or destruction would have a devastating impact on: Critical National Information Infrastructure (CNII) National economic strength Confidence that the nation's key growth area can successfully compete in global market while maintaining favorable standards of living."
+    }, 
+    {
+        "sentence_id,": "89abfeb4eb", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "18 | P a g e Draft National Cyber Security Policy & Strategy National defense and security Guarantee sovereignty and independence whilst maintaining internal security."
+    }, 
+    {
+        "sentence_id,": "f12c2a173a", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "19 | P a g e National Defense and Security Banking and Finance Information and Communications Energy Transportation Water Health Services Government Emergency services Food and Agriculture Draft National Cyber Security Policy & Strategy IV."
+    }, 
+    {
+        "sentence_id,": "096775e713", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "VISION Our vision of developing a cyber security policy is to secure the Critical National Information Infrastructure (CNII) and make it resilient, and for Ghana to be self-reliant in securing its cyber space by infusing a culture of security to promote stability, social well being and wealth creation of our people by."
+    }, 
+    {
+        "sentence_id,": "cf882388e2", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "POLICY SCOPE This policy covers various aspect of cyber security including fight against cyber security, national security, legal measures, law enforcement and protection of critical national information infrastructure."
+    }, 
+    {
+        "sentence_id,": "c360e6025d", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "POLICY CONTEXT Ghana, like many countries in Africa faces the risk of cyber attacks."
+    }, 
+    {
+        "sentence_id,": "c77feb004e", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "In Africa, Governments are discussing how to secure their cyberspace in the wake of heightened threats to 20 | P a g e Draft National Cyber Security Policy & Strategy national information infrastructure."
+    }, 
+    {
+        "sentence_id,": "a6c59cf892", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The cyber security policy will address major cyber risks facing Ghana from attacks on the national information infrastructure."
+    }, 
+    {
+        "sentence_id,": "7e0ac99f01", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The policy seeks to address the lack of awareness of risks users and businesses face doing business in cyber space."
+    }, 
+    {
+        "sentence_id,": "63cf4ac9ac", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The policy also addresses the need to develop technology framework for combating cyber attacks and capacity building for cyber security expects to make Ghana self sufficient in the fight against cyber crime and in the near future create a culture of cyber security in Ghana."
+    }, 
+    {
+        "sentence_id,": "43eb7a7d8c", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The National Cyber Security Policy (NCSP) seeks to address the risks to the Critical National Information Infrastructure (CNII) which comprises the networked information systems of ten critical sectors."
+    }, 
+    {
+        "sentence_id,": "4ebd132531", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The policy recognizes the critical and highly interdependent nature of the CNII and aims to develop and establish a comprehensive program and a series of frameworks that will ensure the effectiveness of cyber security controls over vital assets."
+    }, 
+    {
+        "sentence_id,": "a900c9fe17", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The policy has been designed to facilitate Ghanas move towards a knowledge-based economy and will be based on a number of frameworks that comprises legislation and regulatory, technology, public-private cooperation, institutional, and international aspects."
+    }, 
+    {
+        "sentence_id,": "68e66a0bfe", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "21 | P a g e Draft National Cyber Security Policy & Strategy VIII."
+    }, 
+    {
+        "sentence_id,": "e05156b8ef", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "POLICY STATEMENT Effective Governance Government will centralize coordination of national cyber security initiatives and promote effective cooperation between public and private sectors."
+    }, 
+    {
+        "sentence_id,": "c1a6daddaa", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Cyber Security Technology Framework Policy measures will be put in place to develop a national cyber security technology framework that specifies cyber security requirement controls and baselines for CNII elements."
+    }, 
+    {
+        "sentence_id,": "fac0076280", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "This will be accompanied will mechanism to implement an evaluation/certification program for cyber security product and systems."
+    }, 
+    {
+        "sentence_id,": "faf4515380", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "22 | P a g e Draft National Cyber Security Policy & Strategy Culture of security and Capacity Building Government will invest every resource need to develop, foster and maintain a national culture of security."
+    }, 
+    {
+        "sentence_id,": "75c3ed196e", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "As part of the process of development of culture of cyber security, government will support the standardization and coordination of cyber security awareness and education programmes across all elements of the CNII."
+    }, 
+    {
+        "sentence_id,": "9bfa8d1198", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Government will also put measures in place to nurture the growth of cyber security industry Compliance and Enforcement In order to ensure compliance and enforcement, policy measures and mechanism will be put in place to standardize cyber security systems across all elements of the CNII."
+    }, 
+    {
+        "sentence_id,": "f241254256", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "23 | P a g e Draft National Cyber Security Policy & Strategy Government will also strengthen the monitoring and enforcement of standards and develop a standard cyber security risk assessment framework Cyber Security Emergency Readiness To ensure cyber security emergency readiness, government together with all stakeholders will develop effective cyber security incident reporting mechanisms."
+    }, 
+    {
+        "sentence_id,": "1439306ef9", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "This will include the development and strengthening the of national computer security incidence response team (CSIRT) and sector CSIRTs, dissemination of vulnerability advisories and threat warnings in a timely manner and the development of a standard business continuity management framework."
+    }, 
+    {
+        "sentence_id,": "d0f2c1029c", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }, 
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "International Cooperation Policy measures will be put in place to encourage active participation of Ghana in all relevant international cyber security bodies, panels and multi-national agencies."
+    }, 
+    {
+        "sentence_id,": "fcb0e1a7dd", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "24 | P a g e Draft National Cyber Security Policy & Strategy c. SECTION THREE: NATIONAL CYBER SECURITY STRATEGY 25 | P a g e Draft National Cyber Security Policy & Strategy For each policy thrust, specific strategic actions will be implemented."
+    }, 
+    {
+        "sentence_id,": "40c31a3f7e", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "These actions may be implemented in isolation or in concert with other strategic actions from other policy thrusts."
+    }, 
+    {
+        "sentence_id,": "cc1b3a1eb9", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "Capacity will be built through increased Certification course on information and cyber security to prepare Ghana for self reliance in cyber security."
+    }, 
+    {
+        "sentence_id,": "ce5b8293fc", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Setup of National Cyber Crises Management WG continuously reviewing structures and making recommendations to be acted on by committee National Security Council, Ministry of Communications 8. International Cooperation 28 | P a g e Ghana will engage in relevant international cyber security meeting and prioritize engagement and join or sign International/regional conventions National Security Council, Ministry of communications, Ministry of Foreign Affairs."
+    }, 
+    {
+        "sentence_id,": "6d167ebaf4", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Draft National Cyber Security Policy & Strategy i."
+    }, 
+    {
+        "sentence_id,": "63225bb5cd", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Strategy Implementation Timelines The policy will be implemented in three stages: STRATEGY TIMELINE Short Term Year 1 -2 ACTIVITIES Identifying CNII and addressing immediate Concerns Identify CNII, analyze vulnerabilities and put in place stop gap measures while setting up institutional structures and creating public awareness The short term will focus on following policy thrust: Effective governance - Implement Action 1.4 to assist ministry of communications and other stakeholders put in place a stop gap measure to identify CNIIs, evaluate vulnerabilities and develop measures to address immediate concerns."
+    }, 
+    {
+        "sentence_id,": "3f1c1724ce", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "- Begin building institution by implementing Actions 1.1 - 13 Culture of Cyber Security - Implement Action 2 to begin awareness creation Cyber Security Emergency Readiness - Implement Action 1 to develop framework Medium Term Year 3 - 4 Long Term Year 5+ Building the infrastructure - Setting-up the necessary systems, process, standards and institutional arrangements (mechanisms) and, building capacity amongst researchers and information security professionals The medium term will focus on following policy thrust: Culture of Cyber Security & Capacity Building - Implement Action 1 Research & Development towards SelfReliance - Implement Actions 1 - 2 and accompanying infrastructure Compliance and enforcement - Implement Action 1 and accompanying infrastructure Legislative and Regulatory Framework - Implement Action 1 Developing selfself-reliance - in terms of technology as well as professionals, monitoring the mechanisms for compliance , evaluating and improving the mechanisms and creating the culture of cyber 29 | P a g e Draft National Cyber Security Policy & Strategy security The long term strategy will focus on following policy thrust: Cyber Security Technology Framework - Continuous review and improvement Compliance & Enforcement - Enforcing adopted Risk Management framework within CNII for comliance Culture of cyber security - ii."
+    }, 
+    {
+        "sentence_id,": "99bd8e9c7c", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "30 | P a g e Draft National Cyber Security Policy & Strategy APPENDIX 31 | P a g e Draft National Cyber Security Policy & Strategy TECHNICAL PROPOSAL APPENDIX -1 (STRUCTURING THE IMPLEMENTATION STRATEGY PROGRAMS AND INTIATIVE) The Implementation Strategy: Programs and Initiatives National Cyber Security Policy Working Group Title of Program/Initiative Program /Initiative Strategic Objective Relevant Achievable National ICT4D Policy Objective & Goals Background to Program /Initiative Description of Program/Initiative Program/Initiative Implementation Rationale 32 | P a g e Assist MOC to collation of all cyber security initiatives Identifying critical national information infrastructure in sectors as defined by the policy Support policy drivers to setup structures for medium term strategy Design and implement a comprehensive National Cyber Security Awareness program National Security, Law and other and enhanced cyber Security In order to have continuous activity on the Cyber security policy and strategy, it is proposed that the current Adhoc technical committee for cyber security be converted to a Working Group (WG) to keep the momentum of the cyber security agenda to ensure a quick implementation of the policy and strategy."
+    }, 
+    {
+        "sentence_id,": "d4725b24ae", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The National Cyber Security Policy WG (NSCPWG) will be made up of current policy drafting Adhoc technical committee which composition represent a public private collaboration and by virtue of the selection of the members, also represent a bottom-up approach."
+    }, 
+    {
+        "sentence_id,": "80e748b246", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The rationale for the setting up of WG is to avoid any vacuum between the adoption of the policy and the implementation of Draft National Cyber Security Policy & Strategy Program/Initiative Implementation Specific Goals Program/Initiative Time-Frame the long term structures of the policy as well as begin a process of awareness creation."
+    }, 
+    {
+        "sentence_id,": "88d44b984a", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Support implementing agency to begin actual implementation of strategy Develop a National Awareness Creation Program on Cyber Security including the creation of Nation Cyber Security Awareness portal Assisting policy implementing agencies to build the structures for the achievement of long term goals One year in active engagement with policy implementation (may be extended if necessary) but will continue in advisory role after first year Program/Initiatives Deliverables and Target Program/Initiative Deliverables National Cyber Security Awareness Program (NCSAP) National Cyber Security Awareness Portal (NCSP) Identification of Critical Nation Information Infrastructure as prescribed by the Policy (CNII ) and immediate concerns."
+    }, 
+    {
+        "sentence_id,": "cb8416700d", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Time Bound Measurable (TBM) Target 3-months Form policy adoption 6-months from adoption of policy 12- Months from adoption of policy Program /Initiative: Output, Outcome and Beneficiaries and Estimated Cost NCSAP NCSP 33 | P a g e Document detailing awareness program including, workshops, media activities, online activities etc and budget."
+    }, 
+    {
+        "sentence_id,": "14190ccceb", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Draft National Cyber Security Policy & Strategy Outcomes will include a one stop shop for citizens and business to find everything on cyber security."
+    }, 
+    {
+        "sentence_id,": "b022509bab", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Oversee investigative work to determine the National Information Infrastructure and determine critical ones based on policy documents."
+    }, 
+    {
+        "sentence_id,": "05963231c4", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Estimated Budget of GHC200,000.00 for one year CNII COST Project Implementation Management, Monitoring and Evaluation Supporting Implementation Agency Supporting Implementation Ministry of Communications Agencies and their Assignment Responsibilities National Security Council Program /Initiative Critical Success Factors Program/Initiative Implementation Risk Factors Assigned Responsibility Oversight of NCSWG, project funding / monitoring and evaluation Technical/security input for defining CNII and security advisory for creation of new cyber security structure Technical advisory and guide on collating CNII, web portal National Information technology Agency/ National Communication Authority Commitment of members to work to implement policy, motivation of WG members Inactivity of WG members or lack of needed support form Ministry of Communications Additional Comments and Remarks Non 34 | P a g e Draft National Cyber Security Policy & Strategy TECHNICAL PROPOSAL APPENDIX 2 (STRUCTURING THE IMPLEMENTATION STRATEGY PROGRAMS AND INTIATIVE) The Implementation Strategy: Programs and Initiatives Title of Program/Initiative Program /Initiative Strategic Objective National Cyber Security Awareness Program Relevant Achievable National ICT4D Policy Objective & Goals Background to Program /Initiative Description of Program/Initiative 35 | P a g e Define Security Awareness Goals and Objectives Identify Intended Audience ( Stakeholders, General Public) Define Topics to be covered Identify Current Training Needs Obtain Support Establish Security Policy Define Delivery Methods to be used Develop a Strategy for Implementation Design Awareness Strategy Design Training Strategy Develop Evaluation Methods Create a National Awareness portal Culture of Cyber Security, Awareness creation The National Cyber Security Awareness Program shall be used to stimulate, motivate, and remind the audience what is expected of them."
+    }, 
+    {
+        "sentence_id,": "f0e771190a", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "This will take the form of identification, need assessment, training and evaluation of different sets of Draft National Cyber Security Policy & Strategy Program/Initiative Implementation Rationale Program/Initiative Implementation Specific Goals Program/Initiative Time-Frame stakeholders."
+    }, 
+    {
+        "sentence_id,": "9fafa0b25d", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "In the first year, it is proposed that the National Cyber Security Policy WG begin work on the program and hand over to the emerging organization that will be responsible for ensuring that the country attains a level of awareness to mitigate cyber incidences."
+    }, 
+    {
+        "sentence_id,": "0769963a8f", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Program/Initiatives Deliverables and Target Program/Initiative Deliverables Detailed Awareness Program Time table National Cyber Security Awareness Portal Start of Delivery of Holistic Awareness program Time Bound Measurable (TBM) Target 3-months from Policy Adoption 6-months from adoption of policy 12 Months from adoption of policy Program /Initiative: Output, Outcome and Beneficiaries and Estimated Cost National Cyber Security Awareness Program 36 | P a g e Informed stakeholders and public."
+    }, 
+    {
+        "sentence_id,": "2242e9598e", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Draft National Cyber Security Policy & Strategy Internet users in Ghana should Know how get themselves a basic level of protection against threats online Estimated cost of entire program will be about GHC500, 000.00 for year one."
+    }, 
+    {
+        "sentence_id,": "5f9317ac23", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Estimated cost of portal creation and maintenance for year one is GHC200,000.00 Subsequent year may be down to less than GHC100,000.00 Project Implementation Management, Monitoring and Evaluation Supporting Implementation Agency Supporting Implementation Ministry of Communication Agencies and their Assignment & National Cyber Security Responsibilities Policy WG (year one)."
+    }, 
+    {
+        "sentence_id,": "d325413012", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Capacity building for year one Support the awareness creation programs Availability of Funding Commitment of supporting agencies Lack of funds and commitment to implement portal Additional Comments and Remarks 37 | P a g e Draft National Cyber Security Policy & Strategy TECHNICAL PROPOSAL APPENDIX -3 (STRUCTURING THE IMPLEMENTATION STRATEGY PROGRAMS AND INTIATIVE) The Implementation Strategy: Programs and Initiatives Title of Program/Initiative Program /Initiative Strategic Objective Relevant Achievable National ICT4D 38 | P a g e National Cyber Security Center (NCSC) Strategic Objective of NCSC are : National Cyber Security Policy Implementation: Defines, communicates and updates (when necessary) the national cyber security programs to all the CNII."
+    }, 
+    {
+        "sentence_id,": "9dcf24715c", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Compliance Monitoring: Facilities the monitoring of compliance to cyber security policies and standards across the CNII."
+    }, 
+    {
+        "sentence_id,": "442819af87", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards", 
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "Assist the National Cyber Security Council in all its function activities and help industry to test its emergency plans Contribute to application of international standards on cyber security as well as on accreditation and certification of ICT infrastructure, services and suppliers."
+    }, 
+    {
+        "sentence_id,": "872d07fc7c", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Effective Governance of National Cyber Security Policy Draft National Cyber Security Policy & Strategy Policy Objective & Goals Background to Program /Initiative Description of Program/Initiative Program/Initiative Implementation Rationale Program/Initiative Implementation Specific Goals Program/Initiative Time-Frame The NCSC is part of the proposed institutional structure to be created to sustain the cyber security policy in the long term."
+    }, 
+    {
+        "sentence_id,": "02b84c3c78", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The centre will be under the purview of the Ministry of Communications, and overseen by the National Cyber Security Council for policy direction and the National Security Council in times of national crisis."
+    }, 
+    {
+        "sentence_id,": "a7b5b95be9", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The rationale for the setting up the NCSC is the help establish and institutional approach to coordinating the policies of CNII sectors to ensure that the risks of attack are at the barest minimum."
+    }, 
+    {
+        "sentence_id,": "7df0bc83d3", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Program/Initiatives Deliverables and Target Program/Initiative Deliverables Creation of Structures and function of NCSC Legal framework for establishment passed Financial Sourcing & Establishment of NCSC 39 | P a g e Time Bound Measurable (TBM) Target By 6- Months from Adoption of the policy By 12-month from the adoption of the policy By 18 Months from adoption of policy Draft National Cyber Security Policy & Strategy Program /Initiative: Output, Outcome and Beneficiaries and Estimated Cost NCSC Center for operational coordination of all cyber initiatives and continuously creating culture of cyber security Project Implementation Management, Monitoring and Evaluation Supporting Implementation Agency Supporting Implementation Ministry of Communications Agencies and their Assignment NCSPWG Responsibilities National Security Council, National Cyber Security Council (NCSCC) Program /Initiative Critical Success Factors Program/Initiative Implementation Risk Factors Assigned Responsibility Developing structures, paper work for legal establishment, sourcing funding for its establishment Establishment of physical infrastructure to operationalize Center, Oversee operations of Center after establishment Legislative approval of initiative Funding of initiative by GOG and/or development partners Delay in passing necessary legislative instruments Lack of funding Additional Comments and Remarks Non 40 | P a g e Draft National Cyber Security Policy & Strategy TECHNICAL PROPOSAL APPENDIX -4 (STRUCTURING THE IMPLEMENTATION STRATEGY PROGRAMS AND INTIATIVE) The Implementation Strategy: Programs and Initiatives Title of Program/Initiative Program /Initiative Strategic Objective Relevant Achievable National ICT4D Policy Objective & Goals Background to Program /Initiative 41 | P a g e National Cyber Security Council (NCSCC) Strategic Objective of NCSC are : Oversee the national cyber security policy and strategy; Identify National cyber security priorities and initiatives Coordinate cyber security measures at the national level Help foster public-private relations required to address cyber security issues Collaborate with government agencies, security services, general directorate for security etc for the purpose of establishing standards and uniform investigative procedures and development of institutional consensus Collaborate with the structures responsible application of the law at regional and International level Coordination of measures and development of digital identity systems as well as management and best practice in digital identity Development of standards training and capacity building programs for agencies and the creation of a national platform for the purpose of coordinating technical assistance and training initiatives at the international level Cyber Security and fight against cyber crime The NCSCC is part of the proposed institutional structure to be created to sustain the cyber security policy in the long term."
+    }, 
+    {
+        "sentence_id,": "2096941852", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Draft National Cyber Security Policy & Strategy Description of Program/Initiative Program/Initiative Implementation Rationale Program/Initiative Implementation Specific Goals Program/Initiative Time-Frame The National Cyber Security Council shall be formed to serve as the high-level liaison center for cyber security and shall be responsible for adopting or approving the policies put forward for implementation of the function center to be known as the National Cyber Security Center."
+    }, 
+    {
+        "sentence_id,": "569ba8cbbf", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "- To ensure that appropriate policies are in place to make Ghana a safe destination for cyber activity - To boost national image in its sphere of influence and make it a leader in the region - To ensure Ghana is part international conventions and and is playing its role as a leader in the region To setup within two years Program/Initiatives Deliverables and Target Program/Initiative Deliverables Creation of Structures and function of NCSCC Time Bound Measurable (TBM) Target By 6- Months from Adoption of the policy By 12-month from the adoption of the policy Legal framework for establishment passed Financial Sourcing & Establishment of By 18 Months from adoption of policy NCSCC Program /Initiative: Output, Outcome and Beneficiaries and Estimated Cost NCSCC 42 | P a g e Governance institution with full oversight of policy and ensuring full implementation of policy after its creation Draft National Cyber Security Policy & Strategy Project Implementation Management, Monitoring and Evaluation Supporting Implementation Agency Supporting Implementation Ministry of Communications, Agencies and their Assignment NCSPWG Responsibilities National Security Council, Program /Initiative Critical Success Factors Program/Initiative Implementation Risk Factors Assigned Responsibility Developing structures, paper work for legal establishment, sourcing funding for its establishment Establishment of physical infrastructure to operationalize council, Oversee operations of council after establishment Legislative approval for establishment Funding Delay or no approval of LI Lack of funding Additional Comments and Remarks 43 | P a g e Draft National Cyber Security Policy & Strategy TECHNICAL PROPOSAL APPENDIX -5 (STRUCTURING THE IMPLEMENTATION STRATEGY PROGRAMS AND INTIATIVE) The Implementation Strategy: Programs and Initiatives Title of Program/Initiative Program /Initiative Strategic Objective Relevant Achievable National ICT4D Policy Objective & Goals Background to Program /Initiative Description of Program/Initiative Program/Initiative Implementation Rationale Program/Initiative Implementation Specific Goals 44 | P a g e National Cyber Security Crisis Management Plan (NCSCMP) Strategic Objective of NCSCMP are : Increase preparedness of country against cyber attacks Enhance capability to respond to cyber security issues Provide coordinated effort in handling cyber attacks Minimize impact to socio economic activities Cyber Security Emergency Readiness The NCSCMP was conceived to ensure that a coordinated swift response is made to any cyber incidences having a bearing on national security."
+    }, 
+    {
+        "sentence_id,": "080cb80925", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "- Help Ghana maintain a level of readiness to react to any major attacks - Ensure swift response to any major attacks by ensuring that decision making structures are in place and working smoothly Draft National Cyber Security Policy & Strategy Ensure that all CNIIs maintain their own emergency plan and test it from time to time."
+    }, 
+    {
+        "sentence_id,": "0a119a5b03", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Time frame will be about 24 months from the adoption of this policy - Program/Initiative Time-Frame Program/Initiatives Deliverables and Target Program/Initiative Deliverables National Cyber Crises management Committee National Cyber Crises management WG National Cyber Crises management Plan Time Bound Measurable (TBM) Target 6 months from the setup of NCSC, NCSCC and National CSIRT 6 months from the setup of NCSC, NCSCC and National CSIRT 12 Months from the setup of NCSC, NCSCC and National CSIRT Program /Initiative: Output, Outcome and Beneficiaries and Estimated Cost National Cyber Crises management Committee National Cyber Crises management WG National Cyber Crises management Plan Decision making body at the national level for cyber attacks of with national security implications Implementation coordination of major cyber attacks that has national security implications Procedures for decision making and implementation of actions during cyber emergency Project Implementation Management, Monitoring and Evaluation Supporting Implementation Agency Supporting Implementation National Security Council, Agencies and their Assignment National Cyber Security Responsibilities Council National Cyber Security Center, National CERT, NITA, 45 | P a g e Assigned Responsibility Oversee formation of crises management committee and its workings Setup of Working Group Draft National Cyber Security Policy & Strategy CNII Sectors Program /Initiative Critical Success Factors Program/Initiative Implementation Risk Factors Setup of National Cyber Security council Setup of National and sector CSIRTs Delay in setting up structures prescribe by policy Additional Comments and Remarks 46 | P a g e Draft National Cyber Security Policy & Strategy TECHNICAL PROPOSAL APPENDIX -6 (STRUCTURING THE IMPLEMENTATION STRATEGY PROGRAMS AND INTIATIVE) The Implementation Strategy: Programs and Initiatives Title of Program/Initiative Program /Initiative Strategic Objective Relevant Achievable National ICT4D Policy Objective & Goals Background to Program /Initiative Description of Program/Initiative Program/Initiative Implementation Rationale Program/Initiative Implementation Specific Goals 47 | P a g e National Computer Security Incidence Response Team (National CSIRT) Strategic Objective of National CSIRT are : to provide reactive and proactive services, communicating timely information on relevant threats, whenever necessary, bringing their assistance to bear for response to incidents Cyber Security Emergency Preparedness The Ghana National Computer Security Incidence Response Team is to be established to take charge of the national information infrastructure protection actions and serve as a base for national coordination to respond to ICT security threats at regional and international level."
+    }, 
+    {
+        "sentence_id,": "27b2d2b099", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The rationale for the setting up the NCERT will be to National CSIRT will be created to perform the following tasks: Reactive services: early warning and precaution notice, incidents processing, incidents analysis, incident response facility, incidents response coordination, incident response on the web, vulnerability treatment, vulnerability analysis, and vulnerability response and vulnerability response coordination; Proactive services: public notice, technological Draft National Cyber Security Policy & Strategy Program/Initiative Time-Frame surveillance, security audit and assessment, security installations and maintenance, security tools development, intrusion detection services and security information dissemination, etc; and Artifacts treatment: artifacts analysis, response to artifacts, coordination of response to artifacts, risk analysis, continuation and resumption of activities after disaster, security consultation and sensitization campaign, education/training and product appraisal or certification."
+    }, 
+    {
+        "sentence_id,": "94d76d4d15", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Should be in place by 18 Months from adoption of policy Program/Initiatives Deliverables and Target Program/Initiative Deliverables National CSIRT institution Laboratories, early warning system Full operational capacity Time Bound Measurable (TBM) Target 6 Months from approval of Policy 12 months from approval of policy 18 - Months from approval of policy Program /Initiative: Output, Outcome and Beneficiaries and Estimated Cost National CSIRT Fully functional CSIRT with well trained staff and fully equipped laboratories responding to cyber threats and maintain risk to the CNII at a reasonable level Project Implementation Management, Monitoring and Evaluation Supporting Implementation Agency Supporting Implementation Ministry of Communications Agencies and their Assignment with support of CCI 48 | P a g e Assigned Responsibility Development of institutional structures of National CSIRT Draft National Cyber Security Policy & Strategy Responsibilities National Security Council Program /Initiative Critical Success Factors Program/Initiative Implementation Risk Factors Support implementation by making security input and requirements definition Provide technical support for implementation of National CERT National Information Technology Agency/ National Communication Authority Agreement on Support of CCI Willingness of MOC to implement initiative No drive from MOC No agreement with CCI Additional Comments and Remarks 49 | P a g e Draft National Cyber Security Policy & Strategy"
+    }
+]

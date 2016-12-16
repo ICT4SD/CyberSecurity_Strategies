@@ -1,0 +1,50 @@
+[
+    {
+        "sentence_id,": "99f8c18b21", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The Government has appointed the Ministry of Economic Development as the lead policy agency responsible for coordinating cyber security policy and implementing this Strategy."
+    }, 
+    {
+        "sentence_id,": "01dc25b94e", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Maintaining an appropriate legal environment and ensuring international cooperation on cyber crime is important."
+    }, 
+    {
+        "sentence_id,": "bc57befcd7", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "As part of an all-of-government response to organised crime, the Government is considering New Zealands alignment to the standards set out in the Council of Europe Convention on Cybercrime."
+    }, 
+    {
+        "sentence_id,": "7dec6365b1", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "security policy in New Zealand and implementing this Strategy."
+    }
+]

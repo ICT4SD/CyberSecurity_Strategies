@@ -1,0 +1,1778 @@
+[
+    {
+        "sentence": "----------------------- Page 1----------------------- National Cyber Security Strategy 2 From awareness to capability Ministerie van Volksgezondheid, Welzijn en Sport Titel brochure hier invullen | 1 ----------------------- Page 2----------------------- 2 | National Cyber Security Strategy (NCSS) 2 From awareness to capability ----------------------- Page 3----------------------- Foreword The digital domain has been a part of Dutch society for more than two decades.", 
+        "sentence_id,": "49a907b818"
+    }, 
+    {
+        "sentence": "During this period, information and communications technology has proven to be an important factor in productivity growth and innovative power.", 
+        "sentence_id,": "09473cdc76"
+    }, 
+    {
+        "sentence": "The Netherlands is the European leader in responding to technological trends and the effective use of ICT tools and skills.", 
+        "sentence_id,": "09a4cc8e9a"
+    }, 
+    {
+        "sentence": "The Netherlands is also an international internet hub, has the worlds most competitive internet market and has one of the highest number of internet users.", 
+        "sentence_id,": "bb81be2e40"
+    }, 
+    {
+        "sentence": "Safeguarding digital security and freedom and maintaining an open and innovative digital domain are preconditions for the proper functioning of our society.", 
+        "sentence_id,": "2c514c5882"
+    }, 
+    {
+        "sentence": "The purpose of the NCSS1 was to realise a secure, reliable and resilient digital domain through an integral cyber security approach based on public-private partnerships, as well as to seize the ensuing opportunities for society.", 
+        "sentence_id,": "396e0436da"
+    }, 
+    {
+        "sentence": "Furthermore, extensive consultations were held with the Developments in the digital domain, both national and wider ICT community.", 
+        "sentence_id,": "4745e6af0f"
+    }, 
+    {
+        "sentence": "At the request of the government, international, are taking place at a rapid rate.", 
+        "sentence_id,": "27483a915b"
+    }, 
+    {
+        "sentence": "In recent the Cyber Security Board, consisting of representatives years, the potential and actual impact of cyber security from public and private parties as well as the world of threats have become clearer due to a number of highly academia, gave recommendations about the course of the publicised incidents.", 
+        "sentence_id,": "d43b2f2222"
+    }, 
+    {
+        "sentence": "These threats may not only disrupt new strategy.", 
+        "sentence_id,": "24de56d177"
+    }, 
+    {
+        "sentence": "our digital infrastructure, but may also compromise the integrity, availability and confidentiality of the With this strategy, the Netherlands wants to continue information we document, analyse and exchange in the to be the world leader in the area of cyber security.", 
+        "sentence_id,": "48e9313075"
+    }, 
+    {
+        "sentence": "Fortunately, we do not have to start from scratch.", 
+        "sentence_id,": "34afcbf436"
+    }, 
+    {
+        "sentence": "The Netherlands already has a solid digital infrastructure In order to be able to continue to respond to these and has many internet pioneers and innovative threats, the Netherlands plans to further strengthen ICT entrepreneurs who are active the world over.", 
+        "sentence_id,": "3970889306"
+    }, 
+    {
+        "sentence": "and extend their alliances with public and private Furthermore, the Netherlands has a proven talent in parties, both national and international.", 
+        "sentence_id,": "22a20ef4cb"
+    }, 
+    {
+        "sentence": "This involves building coalitions: not only within its borders, but also not viewing cyber security as an isolated element, but in the area of international peace and security.", 
+        "sentence_id,": "c8ad945faa"
+    }, 
+    {
+        "sentence": "Together, rather in correlation with human rights, internet freedom, we can create a secure, free and profitable digital domain.", 
+        "sentence_id,": "726d40499a"
+    }, 
+    {
+        "sentence": "privacy, social-economic benefits and innovation.", 
+        "sentence_id,": "e1def59a15"
+    }, 
+    {
+        "sentence": "The Everyone will have to take responsibility for his or her own National Cyber Security Strategy 2 (NCSS2) explains this digital resilience and for societys digital resilience.", 
+        "sentence_id,": "352563bd31"
+    }, 
+    {
+        "sentence": "The broader government vision on cyber security and states government is taking the lead with this new strategy and responsibilities and concrete steps.", 
+        "sentence_id,": "cfeb460619"
+    }, 
+    {
+        "sentence": "will publish annual reports about the progress made.", 
+        "sentence_id,": "d114e68b18"
+    }, 
+    {
+        "sentence": "About 130 parties, including public and private parties, knowledge institutions and social organisations, were The Minister of Security and Justice involved in the drafting of this new cyber security strategy.", 
+        "sentence_id,": "6677656125"
+    }, 
+    {
+        "sentence": "Opstelten National Cyber Security Strategy (NCSS) 2 From awareness to capability | 3 ----------------------- Page 4----------------------- 4 | National Cyber Security Strategy (NCSS) 2 From awareness to capability ----------------------- Page 5----------------------- Table of contents Foreword 3 execuT ive SuMMary 7 1 The iMporTance o F cyber SecuriTy 13 1.1 Introduction 13 1.2 Threats 15 1.3 Challenges 15 2 v iSion 17 2.1 Introduction: to a new approach and working method 17 2.2 Security, freedom and social-economic benefits 17 2.3 Clear roles, active participants 19 2.4 International vision and use: an integrated approach 20 3 a pproach 23 3.1 Ambition and strategic goals 23 3.2 The Netherlands is resilient to cyber attacks and protects its vital interests in the digital domain 23 3.3 The Netherlands tackles cyber crime 24 3.4 The Netherlands invests in secure ICT products and services that protect privacy 25 3.5 The Netherlands builds coalitions for freedom, security and peace in the digital domain 25 3.6 The Netherlands has sufficient cyber security knowledge and skills and invests in ICT innovation to attain cyber security objectives 25 3.7 A joint effort 26 a nnexe 1: 2014-2016 action programme 27 National Cyber Security Strategy (NCSS) 2 From awareness to capability | 5 ----------------------- Page 6----------------------- We are moving from structures to coalitions in which all parties national and international are represented in order to achieve supported standards.", 
+        "sentence_id,": "acd6c1908b"
+    }, 
+    {
+        "sentence": "6 | National Cyber Security Strategy (NCSS) 2 From awareness to capability ----------------------- Page 7----------------------- Executive summary 1 In addition to these threats, we are also facing other For more than two decades, the digital domain has been a part of Dutch society and it has made challenges in the digital domain.", 
+        "sentence_id,": "2ce9a1cf01"
+    }, 
+    {
+        "sentence": "For instance, major an important contribution to productivity growth international private parties have increased their and innovative power.", 
+        "sentence_id,": "918dad60a5"
+    }, 
+    {
+        "sentence": "The Netherlands has made influence in determining the rules in the digital domain, substantial investments in the way in which it responds and the civil and military domains have become more to technological trends and the effective use of ICT tools intertwined.", 
+        "sentence_id,": "ddec0b6939"
+    }, 
+    {
+        "sentence": "Furthermore, the international policy and skills.", 
+        "sentence_id,": "f343bcb8dd"
+    }, 
+    {
+        "sentence": "Partly for that reason, the Netherlands has context of cyber security has become wider.", 
+        "sentence_id,": "9f960141a7"
+    }, 
+    {
+        "sentence": "Cyber become an international internet hub, with the worlds security cannot be realised in isolation and therefore will most competitive internet market and one of the highest have to be viewed in correlation with internet freedom, number of internet users.", 
+        "sentence_id,": "93d05f9bad"
+    }, 
+    {
+        "sentence": "As a result of this, the digital including freedom of speech and privacy, and social- domain has become more intertwined with our daily economic benefits, in terms of the economic and social lives.", 
+        "sentence_id,": "a6f213261e"
+    }, 
+    {
+        "sentence": "Having a secure digital domain is a precondition opportunities digitisation offers.", 
+        "sentence_id,": "073fad8b4d"
+    }, 
+    {
+        "sentence": "to making optimal use of the opportunities offered by digitisation to society.", 
+        "sentence_id,": "f2efb3dba5"
+    }, 
+    {
+        "sentence": "All these developments require us to now take the next step in the approach to cyber security, based on the Cyber security refers to efforts to prevent damage caused by following vision: disruptions to, breakdowns in or misuse of ICT and to repair damage if and when it has occurred.", 
+        "sentence_id,": "d1e147a9e0"
+    }, 
+    {
+        "sentence": "Working with international partners, the Netherlands aims to create a secure and open digital domain, in which the Such damage may consist of any or all of the following: opportunities for our society offered by digitisation are used reduced reliability of ICT, limited availability and violation of to the full, threats are countered effectively and fundamental the confidentiality and/or integrity of information stored in the rights and values are protected.", 
+        "sentence_id,": "29e250955c"
+    }, 
+    {
+        "sentence": "the threats and vulnerabilities in the digital domain.", 
+        "sentence_id,": "fff4e38dd3"
+    }, 
+    {
+        "sentence": "According to the Cyber Security Assessment Netherlands The correlation between security, freedom and social- (CSBN), the biggest threats come from other states and economic benefits proposed in the NCSS2 is a dynamic professional criminals.", 
+        "sentence_id,": "1195043170"
+    }, 
+    {
+        "sentence": "The threats from other states balance that is intended to be realised in a constantly mostly concern the theft of confidential or competition- open and pragmatic dialogue between all stakeholders, sensitive information (cyber espionage), while both national and international.", 
+        "sentence_id,": "7a111713eb"
+    }, 
+    {
+        "sentence": "For this, we need a professional criminals mainly focus on digital fraud and clear governance model.", 
+        "sentence_id,": "d3f7c894d8"
+    }, 
+    {
+        "sentence": "The underlying fundamental theft of information.", 
+        "sentence_id,": "621a145533"
+    }, 
+    {
+        "sentence": "Due to the increased complexity of, principle is that the responsibilities that apply in the dependence on and vulnerability of ICT-based products physical domain should also be taken in the digital and services, our digital resilience to these and other domain.", 
+        "sentence_id,": "63389a7526"
+    }, 
+    {
+        "sentence": "In order to bring the dialogue about cyber cyber threats is currently still insufficient.", 
+        "sentence_id,": "6b74089162"
+    }, 
+    {
+        "sentence": "security between the various stakeholders to a new level 1 The digital domain is the conglomerate of ICT tools and services and comprises all entities that can be or are digitally linked.", 
+        "sentence_id,": "e31781b341"
+    }, 
+    {
+        "sentence": "The domain comprises both permanent, temporary or local connections, as well as information, such as data and programme codes, located in this domain where geographical limitations do not apply.", 
+        "sentence_id,": "22073f468d"
+    }, 
+    {
+        "sentence": "National Cyber Security Strategy (NCSS) 2 From awareness to capability | 7 ----------------------- Page 8----------------------- ncSS1 ncSS2 Public-private partnership Private-public participation Focus on structures Focus on networks / strategic coalitions Formulation of multi-stakeholder model Clarifying the relationships between the various stakeholders Capacity-building in the Netherlands Capacity-building both in the Netherlands and abroad General approach: deploy wide capacity for resilience-increasing Risk-based approach: balance between protection of interests, measures threat to interests and acceptable risks in society Formulation of fundamental principles Presentation of (policy) vision 2 From ignorance to awareness From awareness to capability of maturity, the following three management areas are The Netherlands also plans to promote the outlined of the utmost importance: (self) regulation, transparency integral approach on an international, involving all and knowledge development.", 
+        "sentence_id,": "52f6592c6f"
+    }, 
+    {
+        "sentence": "These themes have been parties, which is aimed the correlation between security, included in this strategy in various forms.", 
+        "sentence_id,": "ee040b3c17"
+    }, 
+    {
+        "sentence": "freedom and social-economic benefits.", 
+        "sentence_id,": "60301a55be"
+    }, 
+    {
+        "sentence": "The government will play a more active role in the digital The Netherlands wants to play a prominent role in domain.", 
+        "sentence_id,": "bfdacb160b"
+    }, 
+    {
+        "sentence": "On the one hand, by increasing investments in the search for new coalitions for defence, diplomacy the security of its own networks and services and, on the and development in which all parties involved are other hand, by bringing parties together and by taking represented, in order to reach internationally accepted action if the security of companies and private individuals standards related to actions in the digital domain.", 
+        "sentence_id,": "a956618b04"
+    }, 
+    {
+        "sentence": "or the latters privacy come under threat.", 
+        "sentence_id,": "ddf07b8438"
+    }, 
+    {
+        "sentence": "Where Therefore, the Netherlands works actively towards necessary, the government will establish frameworks international cooperation and will take up a clear position and standards, for instance when it comes to the security as cyber security mediator and hub.", 
+        "sentence_id,": "a06b656157"
+    }, 
+    {
+        "sentence": "requirements of vital services and processes.", 
+        "sentence_id,": "ae38444295"
+    }, 
+    {
+        "sentence": "Based on the vision, the government aims to realise the Private individuals are expected to apply some form of following ambitions: cyber hygiene (basic security measures) and to take a certain amount of personal responsibility.", 
+        "sentence_id,": "209de679b1"
+    }, 
+    {
+        "sentence": "For their The Netherlands is a leader in cyber security: part, the government and the business community Dutch society knows how to make safe, optimal use of the will facilitate this by improving their digital skils and advantages of digitisation.", 
+        "sentence_id,": "46900daec9"
+    }, 
+    {
+        "sentence": "by emphasising their duty of care with respect to their Dutch businesses and the research community are pioneers in clients.", 
+        "sentence_id,": "749e9ce352"
+    }, 
+    {
+        "sentence": "This also includes offering secure ICT products security by design and privacy by design.", 
+        "sentence_id,": "c50f4b5ec4"
+    }, 
+    {
+        "sentence": "Companies and government bodies have Together with its international partners, the Netherlands to be accountable for their responsibility in this respect is part of a progressive coalition that seeks to protect and practise transparency about which cyber security fundamental rights and values in the digital domain.", 
+        "sentence_id,": "91180c8e1c"
+    }, 
+    {
+        "sentence": "measures they take and about how they handle user data.", 
+        "sentence_id,": "4dc2127a75"
+    }, 
+    {
+        "sentence": "It is the governments goal to enable citizens and The realisation of these ambitions will be detailed on the businesses to digitally and safely handle their affairs with basis of the following strategic objectives which serve as the government by 2017. a guideline to the 2014-206 action programme.", 
+        "sentence_id,": "923d458f48"
+    }, 
+    {
+        "sentence": "2 Not all parties in the Netherlands are sufficiently aware of cyber security.", 
+        "sentence_id,": "3ae642f7da"
+    }, 
+    {
+        "sentence": "We will have to continue to give it our attention.", 
+        "sentence_id,": "fae639f1be"
+    }, 
+    {
+        "sentence": "8 | National Cyber Security Strategy (NCSS) 2 From awareness to capability ----------------------- Page 9----------------------- Government Security Freedom ncSS2 transparancy knowledge (self)regulation business private individuals Social-economic benefits Annual progress reports will be drawn up and the action and government bodies about information security and programme will be updated when necessary.", 
+        "sentence_id,": "a7539844ec"
+    }, 
+    {
+        "sentence": "The Netherlands is resilient to cyber attacks and which will be given the tools to better document cyber protects its vital interests in the digital domain.", 
+        "sentence_id,": "4803d9b2f6"
+    }, 
+    {
+        "sentence": "threats and investigate and combat advanced attacks.", 
+        "sentence_id,": "2082e0b9c0"
+    }, 
+    {
+        "sentence": "The Netherlands tackles cyber crime.", 
+        "sentence_id,": "c8ca5e97d7"
+    }, 
+    {
+        "sentence": "The Netherlands invests in secure ICT products and combined their cyber capabilities in the Joint Sigint Cyber services that protect privacy.", 
+        "sentence_id,": "cdb8946010"
+    }, 
+    {
+        "sentence": "The Netherlands builds coalitions for freedom, security and peace in the digital domain.", 
+        "sentence_id,": "84d83dd5f8"
+    }, 
+    {
+        "sentence": "The Netherlands has sufficient cyber security An exploratory study is conducted to determine whether knowledge and skills and invests in ICT innovation it is possible and useful, from both a technical and to attain cyber security objectives.", 
+        "sentence_id,": "430e62ff78"
+    }, 
+    {
+        "sentence": "organisational perspective, to create a separate ICT network for public and private vital processes.", 
+        "sentence_id,": "c15bd6c2cd"
+    }, 
+    {
+        "sentence": "A separate The following themes are central elements of the network widens the range of options for safeguarding objectives: the continuity of vital processes.", 
+        "sentence_id,": "03ae455c22"
+    }, 
+    {
+        "sentence": "It also makes it possible to set up private, cloud-based data storage, thus 1 Risk analyses, security requirements and information strengthening the privacy and integrity of the data in sharing within critical infrastructure sectors storage or in the cloud concerned.", 
+        "sentence_id,": "83c913ba0b"
+    }, 
+    {
+        "sentence": "Within the framework of the protection of critical infrastructure, the government, working with vital 4 Enhancing civil-military cooperation parties, identifies critical ICT-dependent systems, Civil and military domains within the digital domain services and processes.", 
+        "sentence_id,": "ff5eee9dd8"
+    }, 
+    {
+        "sentence": "These efforts are linked have become more intertwined.", 
+        "sentence_id,": "9835d880f8"
+    }, 
+    {
+        "sentence": "Therefore, options for to a programme that will establish basic security deploying the digital capabilities of the Netherlands requirements on the basis of risk analyses.", 
+        "sentence_id,": "0c19673386"
+    }, 
+    {
+        "sentence": "Defence organisation on a national level in preventing and countering attacks on the civil infrastructure will be 2 More active approach to cyber espionage detailed.", 
+        "sentence_id,": "c490d21e24"
+    }, 
+    {
+        "sentence": "The central question is how to optimally share The Dutch government is committed to raising knowledge and expertise between civil parties and the awareness among citizens, businesses, organisation Defence organisation.", 
+        "sentence_id,": "c0a58df57b"
+    }, 
+    {
+        "sentence": "National Cyber Security Strategy (NCSS) 2 From awareness to capability | 9 ----------------------- Page 10----------------------- 5 Strengthening the National Cyber Security Centre A PPP taskforce on cyber security education is set up The position of the National Cyber Security Centre which will focus on giving advice about cyber security (NCSC) is bolstered by means of a stronger structure education.", 
+        "sentence_id,": "e3390afe71"
+    }, 
+    {
+        "sentence": "for confidential information-sharing and analysis.", 
+        "sentence_id,": "3644fd5b2d"
+    }, 
+    {
+        "sentence": "Furthermore, the NCSC assumes the role of expert 10 Encouraging innovation in cyber security authority, providing advice to private and public parties There is a need for more coordination of supply and involved, both when asked and at its own initiative.", 
+        "sentence_id,": "546187806e"
+    }, 
+    {
+        "sentence": "demand, which can be achieved by linking innovation Finally, based on its own detection capability and its initiatives to leading sector policy.", 
+        "sentence_id,": "b116effaf2"
+    }, 
+    {
+        "sentence": "In addition, the triage role in crises, the NCSC develops into Security government, the business community and the world of Operations Centre (SOC)3 in addition to its role as a academia will launch a cyber security innovation platform Computer Emergency Response Team (CERT).", 
+        "sentence_id,": "e1157879fc"
+    }, 
+    {
+        "sentence": "where start-ups, established companies, students and researchers can connect, inspire one another and attune 6 International approach to cyber crime: updating and research supply and demand.", 
+        "sentence_id,": "6ed9666a39"
+    }, 
+    {
+        "sentence": "The PPP implementation strengthening legislation (including the Criminal of the second edition of the National Cyber Security Code).", 
+        "sentence_id,": "34bbfbfc56"
+    }, 
+    {
+        "sentence": "Research Agenda (NCSRA) will also contribute to this There is a need for effective, swift and efficient development.", 
+        "sentence_id,": "317a302a7f"
+    }, 
+    {
+        "sentence": "investigation of cyber crime in accordance with clear rules.", 
+        "sentence_id,": "d62b4bdede"
+    }, 
+    {
+        "sentence": "Scarce capabilities have to be targetedly deployed among vulnerable sectors and groups.", 
+        "sentence_id,": "c753fa032f"
+    }, 
+    {
+        "sentence": "The Netherlands assumes a vanguard role in harmonising legislation governing international investigations, for instance in the Council of Europe.", 
+        "sentence_id,": "fbb59f9203"
+    }, 
+    {
+        "sentence": "The Netherlands will also work to strengthen and expand international partnerships like EC3, at Europol.", 
+        "sentence_id,": "7efe1b7751"
+    }, 
+    {
+        "sentence": "7 Supported standards, security by design and privacy by design Together with private sector partners, the government works to develop standards that can be used to protect and improve the security of ICT products and services.", 
+        "sentence_id,": "0c01b74205"
+    }, 
+    {
+        "sentence": "8 Cyber diplomacy: hub for expertise for conflict prevention The Netherlands aims to develop a hub for expertise on international law and cyber security.", 
+        "sentence_id,": "dbba2b9f52"
+    }, 
+    {
+        "sentence": "The goal of the hub for expertise is to promote the peaceful use of the digital domain.", 
+        "sentence_id,": "d5fb9fdfc2"
+    }, 
+    {
+        "sentence": "To this end, the Netherlands combines knowledge from existing centres.", 
+        "sentence_id,": "9c384e3c53"
+    }, 
+    {
+        "sentence": "The centre brings together international experts and policymakers, diplomats, military personnel and NGOs.", 
+        "sentence_id,": "eca7b5aa48"
+    }, 
+    {
+        "sentence": "9 Taskforce on cyber security education To enlarge the pool of cyber security experts and enhance users proficiency with cyber security, the business community and the government join forces to improve the quality and breadth of ICT education at all academic levels (primary, secondary and professional education).", 
+        "sentence_id,": "3f8d774dba"
+    }, 
+    {
+        "sentence": "3 In addition to response, SOC comprises other aspects from the cyber security chain, such as awareness, resilience, detection, alerting, reporting and crisis management.", 
+        "sentence_id,": "cd108f9a5d"
+    }, 
+    {
+        "sentence": "10 | National Cyber Security Strategy (NCSS) 2 From awareness to capability ----------------------- Page 11----------------------- We are taking the step from being aware to being capable.", 
+        "sentence_id,": "ab15b57e2a"
+    }, 
+    {
+        "sentence": "Expertise development, transparency and (self-) regulation are essential means to realise this.", 
+        "sentence_id,": "e747a77331"
+    }, 
+    {
+        "sentence": "National Cyber Security Strategy (NCSS) 2 From awareness to capability | 11 ----------------------- Page 12----------------------- More products and services are being connected with each other and with the internet.", 
+        "sentence_id,": "185b7c45fc"
+    }, 
+    {
+        "sentence": "How safe is this and what does it mean for our privacy?", 
+        "sentence_id,": "d6094f0f72"
+    }, 
+    {
+        "sentence": "12 | National Cyber Security Strategy (NCSS) 2 From awareness to capability ----------------------- Page 13----------------------- 1 The importance of cyber security 1.1 inT roducT ion The risks associated with ICT use have become The digital domain4 has become more intertwined increasingly clear in recent years due to a number of with our daily lives.", 
+        "sentence_id,": "f5791cfe40"
+    }, 
+    {
+        "sentence": "The advent of cloud services, businesses are using digital applications for online mobile services and innovative, ICT-based applications interactions, transactions, more efficient collaboration, nearly always usher in new vulnerabilities.", 
+        "sentence_id,": "db31cd9d1b"
+    }, 
+    {
+        "sentence": "communication and entertainment.", 
+        "sentence_id,": "9fadb8467e"
+    }, 
+    {
+        "sentence": "More equipment with integrated ICT services is connected to the internet: Cyber security refers to efforts to prevent damage caused by computers and telephones, but also cars, thermostats disruptions to, breakdowns in or misuse of ICT and to repair and medical equipment.", 
+        "sentence_id,": "5674725580"
+    }, 
+    {
+        "sentence": "This increasing digitisation is damage if and when it has occurred.", 
+        "sentence_id,": "5a1fd51b04"
+    }, 
+    {
+        "sentence": "not only for ease, efficiency and pleasure, but is also an important drive behind innovation and economic growth.", 
+        "sentence_id,": "7f943f8756"
+    }, 
+    {
+        "sentence": "Such damage may consist of any or all of the following: reduced reliability of ICT, limited availability and violation of Key indicators of internet use in the netherlands5 the confidentiality and/or integrity of information stored in the In 2012, the Netherlands had 1.2 million internet users.", 
+        "sentence_id,": "ba947865c0"
+    }, 
+    {
+        "sentence": "The Netherlands has the most competitive internet market and the second highest percentage of computers Increasing the Netherlands digital resilience cannot per household in the world (94% of all households).", 
+        "sentence_id,": "83256a2e34"
+    }, 
+    {
+        "sentence": "be achieved by the government alone, as the ICT The Dutch are pioneers in using innovative, digital infrastructure itself and knowledge about this services: 95% of Dutch youth use social media; the infrastructure is largely in the hands of national and Netherlands is the front runner in online banking in international private parties.", 
+        "sentence_id,": "0a633dceb8"
+    }, 
+    {
+        "sentence": "Therefore, cyber security Europe, and in 2012, circa 10 million Dutch people is the sum of joint efforts of government bodies, the shopped online.", 
+        "sentence_id,": "fda72c5a8b"
+    }, 
+    {
+        "sentence": "business community, organisations and citizens, both on The turnover of the Dutch ICT sector amounted to a national and international level.", 
+        "sentence_id,": "90f1e1b23f"
+    }, 
+    {
+        "sentence": "Just like in the physical 29.8 billion euros in 2011, which is 5% of the GDP.", 
+        "sentence_id,": "567aa12c84"
+    }, 
+    {
+        "sentence": "world, 100% security in the digital domain can never be The ICT sector in the Netherlands is the most innovative achieved.", 
+        "sentence_id,": "1d5d6a52a1"
+    }, 
+    {
+        "sentence": "In fact, the Netherlands functions as the digital gateway to Europe.", 
+        "sentence_id,": "c49316baa3"
+    }, 
+    {
+        "sentence": "Together with Germany and the United Kingdom, the Netherlands is responsible for 18% of worldwide internet traffic, owing to the three major internet hubs in Amsterdam, Berlin and London.", 
+        "sentence_id,": "61b1257f84"
+    }, 
+    {
+        "sentence": "4 The digital domain is the conglomerate of ICT tools and services and comprises all entities that can be or are digitally linked.", 
+        "sentence_id,": "b1e765b5a2"
+    }, 
+    {
+        "sentence": "The domain comprises both permanent, temporary or local connections, as well as information, such as data and programme codes, located in this domain where geographical limitations do not apply.", 
+        "sentence_id,": "f8ea54b8fa"
+    }, 
+    {
+        "sentence": "5 ICT Knowledge and Economy 2012, Statistics Netherlands.", 
+        "sentence_id,": "381c520db5"
+    }, 
+    {
+        "sentence": "6 For instance: the DigiNotar incident, a hacked municipal waste water system and the Pobelka botnet.", 
+        "sentence_id,": "352070011d"
+    }, 
+    {
+        "sentence": "National Cyber Security Strategy (NCSS) 2 From awareness to capability | 13 ----------------------- Page 14----------------------- Relation of the NCSS2 to strategic policy documents: The information security awareness strategy11 for The NCSS2 follows on from the insights and government administrators and managers.", 
+        "sentence_id,": "de9fa5cb61"
+    }, 
+    {
+        "sentence": "With the recommendations arising from the following strategic Taskforce on Management, Information Security policy documents: and Services, the government pursues an active awareness policy to get the governments information The National Security Strategy (NV Strategy) is aimed security at the desired level.", 
+        "sentence_id,": "f08baebdcc"
+    }, 
+    {
+        "sentence": "This is not only an at preventing the compromise of vital national important precondition for the implementation 7 Both in interests that may lead to social disruption.", 
+        "sentence_id,": "bc960ac9b6"
+    }, 
+    {
+        "sentence": "of the governments plans concerning the concept 2010 (cyber conflict) and in 2012 (cyber espionage), of the digital government 2017, but also in view of cyber security scenarios were included in the NV the Government-Wide Implementation Agenda for Strategy.", 
+        "sentence_id,": "cc25918186"
+    }, 
+    {
+        "sentence": "eGovernment Services until 2015 (i-NUP), in which a basic infrastructure will be realised.", 
+        "sentence_id,": "ac74ce12c6"
+    }, 
+    {
+        "sentence": "The International Security Strategy8 is aimed at actions taken by the Netherlands abroad and in cooperation The ePrivacy Letter12 describes preconditions for with other countries to secure its interests.", 
+        "sentence_id,": "8289f89ee9"
+    }, 
+    {
+        "sentence": "Cyber a sound protection of personal details privacy, in security is an important theme in this strategy, which particular in the relationships between citizens and is best acted on in collaboration with our European businesses.", 
+        "sentence_id,": "02649121c6"
+    }, 
+    {
+        "sentence": "and international partners.", 
+        "sentence_id,": "852b9799f0"
+    }, 
+    {
+        "sentence": "The EU Cyber Security Strategy13 , which was launched The Defence Cyber Strategy9 is aimed at the role in 2013 is an important step towards a secure digital of the Netherlands armed forces in the digital environment in Europe.", 
+        "sentence_id,": "642159c2c6"
+    }, 
+    {
+        "sentence": "The Dutch NCSS2 is in line domain.", 
+        "sentence_id,": "a03891841f"
+    }, 
+    {
+        "sentence": "An important element in this strategy is with the fundamental principles of the EU Cyber that it acknowledges that military and civil, public Security Strategy, based on which the Netherlands is and private, national and international actors have taking new steps.", 
+        "sentence_id,": "15bfddf10c"
+    }, 
+    {
+        "sentence": "In the autumn of 2013, a medium-term vision on the 10, the Dutch government focuses In its Digital Agenda telecommunications market was presented to the on ICT being able to contribute to the countrys House of Representatives.", 
+        "sentence_id,": "7f3824e48d"
+    }, 
+    {
+        "sentence": "The starting point of the economic growth.", 
+        "sentence_id,": "14d4bca753"
+    }, 
+    {
+        "sentence": "In the Digital Agenda, the vision is that the telecommunications market cannot government formulates its ambitions for using ICT to be viewed as being separate from developments further growth and prosperity, including the required on the internet and that public values such as preconditions, for having an open, reliable and swift reliability and openness have to be reviewed by the infrastructure and for having sufficient ICT knowledge telecommunications market in light of the broader and making sufficient use of such expertise.", 
+        "sentence_id,": "aac2524bd0"
+    }, 
+    {
+        "sentence": "context of internet economics.", 
+        "sentence_id,": "7ea1708ba8"
+    }, 
+    {
+        "sentence": "7 The five vital interests are: territorial security, physical security, economic security, ecological security, and social and political stability.", 
+        "sentence_id,": "41593851ef"
+    }, 
+    {
+        "sentence": "8 International Security Strategy, 21 June 2013 9 Defense Cyber Strategy, House of Representatives 2011 2013, 33 321, no.", 
+        "sentence_id,": "11896ea122"
+    }, 
+    {
+        "sentence": "1 10 Letter to Parliament Digital Agenda.nl, House of Representatives 2010 2011, 29 515, no.", 
+        "sentence_id,": "502bf12721"
+    }, 
+    {
+        "sentence": "331 11 Vision letter on the digital government, House of Representatives 2012 2013, 26 643, no.", 
+        "sentence_id,": "1dd3d0e320"
+    }, 
+    {
+        "sentence": "280 12 Government view on e-privacy: on the road to justified trust.", 
+        "sentence_id,": "823017783a"
+    }, 
+    {
+        "sentence": "24 May 2013 13 The EU Cyber Security Strategy Protection of an open and free internet and opportunities in the digital world (February 2013) and associated draft directives: Proposal for a Directive of the European Parliament and of the Council concerning measures to ensure a high common level of network and information security across the Union (February 2013).", 
+        "sentence_id,": "0e7309b3c9"
+    }, 
+    {
+        "sentence": "14 | National Cyber Security Strategy (NCSS) 2 From awareness to capability ----------------------- Page 15----------------------- 1.2 ThreaTS 1.3 challenGeS In July 2013, the third Cyber Security Assessment Future developments in cyber security are hard to Netherlands (CSBN) was published.", 
+        "sentence_id,": "eb70d76ac0"
+    }, 
+    {
+        "sentence": "The findings from this predict.", 
+        "sentence_id,": "ae7190c34f"
+    }, 
+    {
+        "sentence": "However, a clear picture can be painted of the edition of the CSBN14 are an important source for a risk- challenges which currently and in the long-term influence approach15 to cyber security.", 
+        "sentence_id,": "c787da66cc"
+    }, 
+    {
+        "sentence": "The CSBN shows that the the security and openness of the digital domain: biggest threats come from other states and professional criminals.", 
+        "sentence_id,": "04aef46c82"
+    }, 
+    {
+        "sentence": "The Internet of Things (everything is connected to the internet) and hyperconnectivity (everything is connected to each other) States form a threat particularly in the form of theft promotes innovation and results in usability.", 
+        "sentence_id,": "cd154d441e"
+    }, 
+    {
+        "sentence": "At the of confidential or competition-sensitive information same time, it raises the question of whether or not (digital espionage) of businesses, government bodies digitally linked products and services are actually safe and citizens.", 
+        "sentence_id,": "feae4b1d3e"
+    }, 
+    {
+        "sentence": "Several states have made substantial and what the implications may be for privacy.", 
+        "sentence_id,": "961b3a0262"
+    }, 
+    {
+        "sentence": "investments in cyber capabilities and therefore have The amount of data available in digital form is only increasing; highly advanced equipment at their disposal.", 
+        "sentence_id,": "06d02f8820"
+    }, 
+    {
+        "sentence": "These as will the interest in acquiring such data.", 
+        "sentence_id,": "99ad99df72"
+    }, 
+    {
+        "sentence": "Governments states digital espionage activities are likely to be and businesses, increasingly working with large data widespread, and many of these activities are currently files, which are also increasingly stored in the cloud, are undetected.", 
+        "sentence_id,": "8eecf95551"
+    }, 
+    {
+        "sentence": "faced with increased risks.", 
+        "sentence_id,": "ea61354854"
+    }, 
+    {
+        "sentence": "The playing field in the digital domain is not only determined by Professional criminals also continue to pose a substantial states, but also by major private market parties.", 
+        "sentence_id,": "b69414f307"
+    }, 
+    {
+        "sentence": "Digital fraud and theft of information are the two in the digital domain is therefore complex and cannot most common crimes among professional criminals.", 
+        "sentence_id,": "89fe063211"
+    }, 
+    {
+        "sentence": "always be solved in traditional forums, as it requires a Citizens, businesses and governments alike regularly multi-stakeholder approach.", 
+        "sentence_id,": "56fa87c79d"
+    }, 
+    {
+        "sentence": "This applies to security fall victim to botnets and ransomware.", 
+        "sentence_id,": "6a4e9ae514"
+    }, 
+    {
+        "sentence": "Furthermore, standards as well as to the protection of fundamental a criminal cyber services sector, through which cyber- rights and values.", 
+        "sentence_id,": "feab3b625f"
+    }, 
+    {
+        "sentence": "crime-as-a-service is made commercially available, has In the cyber domain, we see an increasingly interwovenness expressly become visible.", 
+        "sentence_id,": "4b8d334386"
+    }, 
+    {
+        "sentence": "Access to such remedies has of civil and military domains due to substantial mutual become cheaper and more low threshold for criminals.", 
+        "sentence_id,": "6042922d70"
+    }, 
+    {
+        "sentence": "dependence on similar ICT systems and application and the complex attribution issue.", 
+        "sentence_id,": "4fbd8126aa"
+    }, 
+    {
+        "sentence": "When it comes to the Dutch Despite the fact that good initiatives and measures contingent deployed abroad, we have to take into have been taken to increase resilience to and consideration that civil targets in the Netherlands may awareness of such crimes, also based on the NCSS, be subject to cyber attacks.", 
+        "sentence_id,": "7c8a4a6b23"
+    }, 
+    {
+        "sentence": "Furthermore, in case of societys vulnerability is still on the increase.", 
+        "sentence_id,": "77335424b7"
+    }, 
+    {
+        "sentence": "At many large-scale attacks, the Defence organisations cyber organisations, digital resilience is still below par.", 
+        "sentence_id,": "46dbfdc39f"
+    }, 
+    {
+        "sentence": "capabilities may be called upon to protect the vital Relatively simple yet important technical basic measures, national civil infrastructure.", 
+        "sentence_id,": "09f90ede14"
+    }, 
+    {
+        "sentence": "In view of the above, clear like the timely updating of systems or password parameters for strengthened cooperation in the digital policies, are often not implemented.", 
+        "sentence_id,": "b891c2a06d"
+    }, 
+    {
+        "sentence": "Furthermore, domain are needed.", 
+        "sentence_id,": "072f3275fd"
+    }, 
+    {
+        "sentence": "many organisations are struggling with legacy systems.", 
+        "sentence_id,": "8ebad50b0c"
+    }, 
+    {
+        "sentence": "The increased complexity and dependence on ICT-based Replacing these outdated systems, on which often a vital products and services require a higher level of expertise.", 
+        "sentence_id,": "cea18f56e3"
+    }, 
+    {
+        "sentence": "part of an organisations information provision facilities This both concerns the level of expertise of average depend, is a complex and expensive problem.", 
+        "sentence_id,": "c56500014c"
+    }, 
+    {
+        "sentence": "internet users and sufficiently-qualified experts.", 
+        "sentence_id,": "9f1e695289"
+    }, 
+    {
+        "sentence": "The Netherlands is expected to have a shortage of 6,800 IT workers in 2017.16 14 The NCSC publishes the CSBN each year and is produced in close cooperation with public and private parties.", 
+        "sentence_id,": "728013e8a4"
+    }, 
+    {
+        "sentence": "15 The risks desribed are determined based on three correlated factors: interests, threats and resilience.", 
+        "sentence_id,": "d9117a47c0"
+    }, 
+    {
+        "sentence": "16 Based on estimations of Nederland ICT.", 
+        "sentence_id,": "d46737f767"
+    }, 
+    {
+        "sentence": "National Cyber Security Strategy (NCSS) 2 From awareness to capability | 15 ----------------------- Page 16----------------------- Cyber security cannot be achieved in isolation and will have to be approached in correlation with subjects like fundamental rights, values and social-economic benefits.", 
+        "sentence_id,": "b61424c788"
+    }, 
+    {
+        "sentence": "16 | National Cyber Security Strategy (NCSS) 2 From awareness to capability ----------------------- Page 17----------------------- 2 Vision Working with international partners, the Netherlands aims and social-economic benefits.", 
+        "sentence_id,": "e3338771f9"
+    }, 
+    {
+        "sentence": "All these developments to create a secure and open digital domain, in which the require us to now take the next step in the approach to opportunities for our society offered by digitisation are used cyber security, to the full, threats are countered effectively and fundamental rights and values are protected.", 
+        "sentence_id,": "e22b7addb3"
+    }, 
+    {
+        "sentence": "2.1 inT roducT ion: To a new approach and wor KinG MeT hod 2.2 SecuriTy, FreedoM and Social-econoMic In 2011, we published the first National Cyber Security beneFiTS Strategy (NCSS1).", 
+        "sentence_id,": "03d4966c83"
+    }, 
+    {
+        "sentence": "A lot has happened since then.", 
+        "sentence_id,": "52415fc6fd"
+    }, 
+    {
+        "sentence": "The Cyber security measures require a tailor-made approach.", 
+        "sentence_id,": "efa0fa3127"
+    }, 
+    {
+        "sentence": "partners within the National Cyber Security Centre have This is shaped in three ways.", 
+        "sentence_id,": "945f76ecd1"
+    }, 
+    {
+        "sentence": "Firstly, by tailoring measures succeeded in gaining a better insight into threats.", 
+        "sentence_id,": "58144eac16"
+    }, 
+    {
+        "sentence": "The to the problem they are intended to solve (risk-based), third Cyber Security Assessment Netherlands has made secondly, by always viewing cyber security in correlation a more focused approach possible.", 
+        "sentence_id,": "28d38ac476"
+    }, 
+    {
+        "sentence": "Furthermore, the with social-economic benefits, more specifically the international implementation has gained importance.", 
+        "sentence_id,": "07c14ca654"
+    }, 
+    {
+        "sentence": "economic and social opportunities digitisation offers and Agreements about cooperation, standards of conduct thirdly, by guaranteeing fundamental rights and values.", 
+        "sentence_id,": "ac3d777c49"
+    }, 
+    {
+        "sentence": "and standards will have to be made in a European, and This correlation between security, freedom and social- wider international, context.", 
+        "sentence_id,": "e4cbdb213a"
+    }, 
+    {
+        "sentence": "The international policy economic benefits is a dynamic balance that is intended context has also become wider.", 
+        "sentence_id,": "7efe55a98c"
+    }, 
+    {
+        "sentence": "Cyber security cannot be to be realised in a constantly open and pragmatic achieved in isolation and will have to be approached in dialogue between all stakeholders, both national and correlation with subjects like fundamental rights, values international.", 
+        "sentence_id,": "02061cf6d7"
+    }, 
+    {
+        "sentence": "ncSS1 ncSS2 Public-private partnership Private-public participation Focus on structures Focus on networks / strategic coalitions Formulation of multi-stakeholder model Clarifying the relationships between the various stakeholders Capacity-building in the Netherlands Capacity-building both in the Netherlands and abroad General approach: deploy wide capacity for resilience-increasing Risk-based approach: balance between protection of interests, measures threat to interests and acceptable risks in society Formulation of fundamental principles Presentation of (policy) vision 17 From ignorance to awareness From awareness to capability 17 Not all parties in the Netherlands are sufficiently aware of cyber security.", 
+        "sentence_id,": "89b84e8928"
+    }, 
+    {
+        "sentence": "We will have to continue to give it our attention.", 
+        "sentence_id,": "1625d8ac7d"
+    }, 
+    {
+        "sentence": "SECURITy 2.2.2 FREEDOM Cyber security concerns ICT security and the security Protecting fundamental rights and values requires many of information stored in ICT systems.", 
+        "sentence_id,": "afb617d809"
+    }, 
+    {
+        "sentence": "Disruptions to parties to make an effort and preferably takes place ICT-based services and processes may have major social in a national and international context.", 
+        "sentence_id,": "b2cd783be6"
+    }, 
+    {
+        "sentence": "The proposed consequences, and a disruption to vital services and approach entails the development of international processes may even lead to social unrest.", 
+        "sentence_id,": "561b70857d"
+    }, 
+    {
+        "sentence": "In addition to governments, an important personal information, state secrets and other sensitive role can be played by private sector parties and social information is vital for ensuring the trust parties have in organisations.", 
+        "sentence_id,": "f2e4cc3a83"
+    }, 
+    {
+        "sentence": "The Netherlands is promoting this the digital domain.", 
+        "sentence_id,": "63ab3db931"
+    }, 
+    {
+        "sentence": "approach internationally, at the United Nations, during international cyberspace conferences, like the ones Processing personal information and the protection of held in London, Budapest and Seoul, in other multi- privacy is subject to strict standards and supervision, stakeholder settings like the Internet Governance Forum, partly based on European legislation.", 
+        "sentence_id,": "41651388dc"
+    }, 
+    {
+        "sentence": "Recent revelations by promoting the principles of cyber security as published about secret activities of states aimed at acquiring by the World Economic Forum, and in developing trust- information underline the importance of raising inspiring measures between states, like the Organisation awareness about information security among all for Security and Cooperation in Europe (OSCE).", 
+        "sentence_id,": "49c044e5dc"
+    }, 
+    {
+        "sentence": "stakeholders, as well as the necessity to increase our critical infastructures resilience to such activities.", 
+        "sentence_id,": "c64300fc6b"
+    }, 
+    {
+        "sentence": "A good example of the multi-stakeholder approach is the Freedom Online Coalition which was initiated by A wide approach by the entire ICT security chain is the Netherlands and of which 21 countries have become required to reach the desired level of security18 .", 
+        "sentence_id,": "16ae6aab3a"
+    }, 
+    {
+        "sentence": "It a member and who jointly form a powerful lobby.", 
+        "sentence_id,": "ba19f8e5d0"
+    }, 
+    {
+        "sentence": "The starts with having insight into the threats and a sound Netherlands aims to promote the growth of this coalition.", 
+        "sentence_id,": "dd383126bb"
+    }, 
+    {
+        "sentence": "preventative approach, but it also requires parties to We now have to take it a step further and have the adopt an effective response strategy.", 
+        "sentence_id,": "a6ca6813c4"
+    }, 
+    {
+        "sentence": "This also means starting points we developed become an integral part of that criminals in the digital domain will have to be meetings about cyber security standards, and incorporate successfully stopped.", 
+        "sentence_id,": "f3c2e0c953"
+    }, 
+    {
+        "sentence": "There is a need for clarification them into the design of new and innovative products and regarding the role of the police service as well as for services.", 
+        "sentence_id,": "e5ae96a7aa"
+    }, 
+    {
+        "sentence": "updated options and powers to realise an effective investigation and prosecution.", 
+        "sentence_id,": "19c4361f8f"
+    }, 
+    {
+        "sentence": "18 The security chain comprises: pro-action, prevention, preparing, repression and after-care (repair).", 
+        "sentence_id,": "cccfd138f8"
+    }, 
+    {
+        "sentence": "18 | National Cyber Security Strategy (NCSS) 2 From awareness to capability ----------------------- Page 19----------------------- 2.2.3 SOCIAL-ECONOMIC BENEFITS 2.3.1 THE INTERVENING GOVERNMENT: FACILITATE, The innovative power of farther-reaching digitisation PROTECT AND CONTROL is an important stimulus for social-economic benefits.", 
+        "sentence_id,": "b2c4d27fce"
+    }, 
+    {
+        "sentence": "Security is one of the governments core tasks, and Social-economic benefits both concerns economic this also applies to the digital domain.", 
+        "sentence_id,": "e227f74dd3"
+    }, 
+    {
+        "sentence": "Countering growth and the options digitisation offers society, for cyber crime and cyber espionage and the prevention of instance in the form of education applications, options social disruption caused by cyber incidents therefore for maintaining social contacts, but also improved are important priorities for the government.", 
+        "sentence_id,": "3fca693b24"
+    }, 
+    {
+        "sentence": "The government facilities.", 
+        "sentence_id,": "8893d047d4"
+    }, 
+    {
+        "sentence": "The governments goal of enabling starting points are a risk-based approach, strengthened citizens and businesses to digitally handle their affairs cooperation and setting the right example by investing in with the government by 2017 will make an extra impact the security of its own networks and services.", 
+        "sentence_id,": "7c41297207"
+    }, 
+    {
+        "sentence": "19 in the realisation of iGovernment.", 
+        "sentence_id,": "cbe9f02263"
+    }, 
+    {
+        "sentence": "This will only enhance the social importance of iGovernment.", 
+        "sentence_id,": "742ecbc7be"
+    }, 
+    {
+        "sentence": "Security and cyber In addition, the government is responsible for the security measures are therefore vital and require making online security and privacy and citizens.", 
+        "sentence_id,": "8315566ae5"
+    }, 
+    {
+        "sentence": "The protection some necessary investments.", 
+        "sentence_id,": "9f6bc27c1a"
+    }, 
+    {
+        "sentence": "of valuable and personal information of citizens and businesses and tackling cyber crime therefore remain Organisations have increasingly realised that by the focal points.", 
+        "sentence_id,": "d94f5a3edf"
+    }, 
+    {
+        "sentence": "In May 2013, the governments vision investing in cyber security, they can prevent major costs on e-privacy was published.", 
+        "sentence_id,": "1ddf773c81"
+    }, 
+    {
+        "sentence": "The aim is to enable citizens and a damaged reputation.", 
+        "sentence_id,": "542e0c89bb"
+    }, 
+    {
+        "sentence": "This strategy is aimed at to better control their personal information through the encouraging Dutch companies viewing cyber security as a inclusion of the requirement of consent.", 
+        "sentence_id,": "9291f8ec4f"
+    }, 
+    {
+        "sentence": "Organisations competitive advantage.", 
+        "sentence_id,": "020d86d8ed"
+    }, 
+    {
+        "sentence": "are obliged to carefully, transparently and legally handle any information issued by citizens, and citizens should be Critical consumers have started to attach more and able to call organisation to account.", 
+        "sentence_id,": "746e4387ac"
+    }, 
+    {
+        "sentence": "more importance to security and privacy, which is an opportunity for Dutch companies to invest in innovative Finally, the government has a duty to promote and products and services that take these things into account facilitate initiatives aimed at increasing cyber security.", 
+        "sentence_id,": "b78620d2b3"
+    }, 
+    {
+        "sentence": "The government intends to play a stimulating role in this development by means of If required, the government also acts in a controlling including cyber security requirements in its purchase manner, which may include determining regulations conditions.", 
+        "sentence_id,": "23d8c3f3c7"
+    }, 
+    {
+        "sentence": "and standards, for instance for the vital sectors.", 
+        "sentence_id,": "3a647d7279"
+    }, 
+    {
+        "sentence": "In consultation with the vital sectors, the government is 2.3 clear roleS, acT ive parT icipanTS establishing cyber security requirements where this The digital domain comprises an abundance of parties has not been already done.", 
+        "sentence_id,": "5510389e9b"
+    }, 
+    {
+        "sentence": "Existing sectoral regulatory and actors who have become increasingly connected authorities will have to widen their scope, if they have not to each other and dependent on each other.", 
+        "sentence_id,": "95d81cfd27"
+    }, 
+    {
+        "sentence": "In order already done so, to also include cyber security, in which to be able to act safely in the digital domain, which is overlap should be prevented.", 
+        "sentence_id,": "1501335918"
+    }, 
+    {
+        "sentence": "characterised by a great (chain) dependence between the parties, it is important for citizens, organisations As an expert authority, the NCSC gives advice, both when and government bodies to actively participate (do asked and at its own initiative, when major vulnerabilities 20 are detected or in the event of (imminent) crisis democracy ), based on a clear allocation of roles and a great degree of transparency.", 
+        "sentence_id,": "99eaf40ed4"
+    }, 
+    {
+        "sentence": "The underlying situations.", 
+        "sentence_id,": "279765fb1f"
+    }, 
+    {
+        "sentence": "It is then up to the organisations themselves fundamental principle is that the responsibilities that to implement the recommendations, or to be transparent apply in the physical domain should also be taken in the about their reasons for not doing so.", 
+        "sentence_id,": "901bce54a6"
+    }, 
+    {
+        "sentence": "This is particularly digital domain.", 
+        "sentence_id,": "16bf5236d1"
+    }, 
+    {
+        "sentence": "How these roles relate to one another important when it concerns government bodies, also will become clear in the future.", 
+        "sentence_id,": "fbeeff8616"
+    }, 
+    {
+        "sentence": "The direction in which the with respect to the regulatory authorities and/or line actors are moving is explained here.", 
+        "sentence_id,": "88308f886b"
+    }, 
+    {
+        "sentence": "19 Vision letter on the digital government 2017, 23 May 2013, reference number 2013-0000306907 20 Government standpoint on the promotion of a vital society, the do democracy, Parliamentary Papers II, 2012-2013, 33400-VII no.", 
+        "sentence_id,": "a11b46ece6"
+    }, 
+    {
+        "sentence": "79 National Cyber Security Strategy (NCSS) 2 From awareness to capability | 19 ----------------------- Page 20----------------------- 2.3.2 THE COMPETENT CITIzEN: Cy BER HyGIENE AND the digital domain in the context of an ever increasing PERSONAL RESPONSIBILITy mutual dependence between these actors and a complex Citizens are expected to apply some form of basic cyber environment in which a balance between security, hygiene and skills in using ICT, like surfing the web.", 
+        "sentence_id,": "16afa050a2"
+    }, 
+    {
+        "sentence": "freedom and social-economic benefits is constantly This includes carefully using personal information, pursued.", 
+        "sentence_id,": "5b6331f1aa"
+    }, 
+    {
+        "sentence": "installing updates, using good passwords and balancing functionality and cyber security.", 
+        "sentence_id,": "03bbf995cf"
+    }, 
+    {
+        "sentence": "The government This means that steps have to be taken from unaware works to increase the digital resilience of government, via aware to capable.", 
+        "sentence_id,": "af7be57862"
+    }, 
+    {
+        "sentence": "In order to make this movement citizens and the business world.", 
+        "sentence_id,": "7a0ae94e29"
+    }, 
+    {
+        "sentence": "It aims to achieve this by towards a new level of cyber security maturity possible, means of awareness campaigns, strengthening digital the following three management areas are of the skills, research and innovation and supporting social utmost importance: (self) regulation, transparency and organisations and initiatives in the context of the do knowledge development.", 
+        "sentence_id,": "13b2efc32e"
+    }, 
+    {
+        "sentence": "These themes have been democracy.", 
+        "sentence_id,": "26df48ac1f"
+    }, 
+    {
+        "sentence": "A policy that supports responsible disclosure included in this strategy in various forms.", 
+        "sentence_id,": "9dbbeafe8c"
+    }, 
+    {
+        "sentence": "(Self) regulation and removes obstacles also fits in with this context.", 
+        "sentence_id,": "df91c00fcf"
+    }, 
+    {
+        "sentence": "This concerns the development of standards but also concepts also enables conscious and involved citizens to safely like the duty of care.", 
+        "sentence_id,": "4c6eef0f8a"
+    }, 
+    {
+        "sentence": "Transparency is a precondition for inform government bodies, businesses and institutions strenghtening trust between the actors.", 
+        "sentence_id,": "a5caf636f2"
+    }, 
+    {
+        "sentence": "Examples of about detected vulnerabilities in their ICT security.", 
+        "sentence_id,": "1cba805346"
+    }, 
+    {
+        "sentence": "transparency are clear reports about measures taken by the government and the business world to improve cyber 2.3.3 RESPONSIBLE BUSINESSES: DUTy OF CARE AND security and privacy measures.", 
+        "sentence_id,": "11945bd768"
+    }, 
+    {
+        "sentence": "Knowledge development ACCOUNTABILITy in the broadest sense of the word (awareness, education, Citizens can no longer be expected to completely innovation) is necessary to ensure that all actors can understand and assess the security and privacy aspects of take their responsibility and optimally benefit from the ever more complex ICT services and -products, as offered opportunities offered by digitisation.", 
+        "sentence_id,": "8ac309e5a4"
+    }, 
+    {
+        "sentence": "by major international players.", 
+        "sentence_id,": "57fd7361e5"
+    }, 
+    {
+        "sentence": "This clearly leaves room for ICT suppliers and producers.", 
+        "sentence_id,": "40fef38e1f"
+    }, 
+    {
+        "sentence": "Security by design and 2.4 inT ernaT ional viSion and uSe: an inT eGraT ed privacy by design should more than currently be standard approach design principles.", 
+        "sentence_id,": "d42fa187eb"
+    }, 
+    {
+        "sentence": "As an open economy, the Netherlands benefits from a stable and freely accessible digital domain.", 
+        "sentence_id,": "be61b39cb4"
+    }, 
+    {
+        "sentence": "In view of the Providers of ICT networks and services or other ICT- fact that cyber security and international cooperation based services have a specific responsibility (duty of care) are inextricably linked, the Netherlands will promote its with respect to their clients.", 
+        "sentence_id,": "a9d8b115b0"
+    }, 
+    {
+        "sentence": "The substantiation of this integral public-private cyber security approach outside responsibility must preferably be achieved by means of its own borders.", 
+        "sentence_id,": "04882c4eff"
+    }, 
+    {
+        "sentence": "The approach developed in which self-regulation.", 
+        "sentence_id,": "63b8aa9dd4"
+    }, 
+    {
+        "sentence": "An example is the fight against botnets, defence, diplomacy and development come together in in which Internet Service Providers (ISPs) play a vital role.", 
+        "sentence_id,": "6e90bd4d22"
+    }, 
+    {
+        "sentence": "international missions to increase stability in the area concerned (crisis management and nation building) is The dependencies in the digital domain are also the inspiration for the integral Dutch use of the digital expressed in the chain of producers, providers and domain21 .", 
+        "sentence_id,": "af98d50eb5"
+    }, 
+    {
+        "sentence": "These mutual dependencies will have to be discussed by the chain partners in order to conclude The Netherlands wants to play a prominent role in the joint agreements about minimum requirements, search for new coalitions in which all parties involved are interoperability and reliable information-sharing.", 
+        "sentence_id,": "ae153e9c24"
+    }, 
+    {
+        "sentence": "This represented in order to reach internationally accepted also makes it possible to strengthen the security of the standards related to actions in the digital domain.", 
+        "sentence_id,": "85e7763869"
+    }, 
+    {
+        "sentence": "Insurance companies can play a major role in To this end, the Netherlands works actively towards insuring residual risks.", 
+        "sentence_id,": "64ec727bc1"
+    }, 
+    {
+        "sentence": "international cooperation and takes up a clear position as cyber security mediator and hub.", 
+        "sentence_id,": "060d29c27e"
+    }, 
+    {
+        "sentence": "2.3.4 (SELF) REGULATION, TRANSPARENCy AND KNOWLEDGE DEVELOPMENT AS CONTROL MECHANISMS 2.4.1 DEFENCE The Netherlands is working to realise an active Defence in the digital domain not only concerns military participation of citizens, businesses and government in capabilities, but also the wide civil range of capabilities 21 This is also called the 3D approach.", 
+        "sentence_id,": "b6b909d5ef"
+    }, 
+    {
+        "sentence": "20 | National Cyber Security Strategy (NCSS) 2 From awareness to capability ----------------------- Page 21----------------------- of intelligence and security services, the police service, 2.4.2 DIPLOMACy national cyber security centres and businesses with The Netherlands attaches great importance to their own response capabilities.", 
+        "sentence_id,": "f917ddd9c1"
+    }, 
+    {
+        "sentence": "This is a complex mechanisms that ensure stability in the digital domain.", 
+        "sentence_id,": "7ba2248a56"
+    }, 
+    {
+        "sentence": "whole in which good agreements and coordination We do this by investing in formal and informal alliances, are preconditions, both national and international.", 
+        "sentence_id,": "0142ce95ff"
+    }, 
+    {
+        "sentence": "within and outside of Europe, globally and in multi- Strengthened civil-military cooperation is therefore stakeholder settings.", 
+        "sentence_id,": "f9f50d4df8"
+    }, 
+    {
+        "sentence": "Therefore, with its position in necessary.", 
+        "sentence_id,": "f9f5818672"
+    }, 
+    {
+        "sentence": "the area of international law, the Netherlands wants to contribute to the discussions about the application In order to safeguard the deployability of the Netherlands of legal rules in the digital domain.", 
+        "sentence_id,": "5f539501cf"
+    }, 
+    {
+        "sentence": "In addition, cyber armed forces and to increase the effectiveness of the diplomacy instruments will have to be defined.", 
+        "sentence_id,": "ccea4231b9"
+    }, 
+    {
+        "sentence": "This may armed forces, the Defence organisation is increasing its be in the form of so-called trust-inspiring measures, digital resilience and is developing its own capabilities to rules of the road, or standards of conduct.22 With The conduct cyber operations within the applicable statutory Hague as the city of international peace and security, the parameters.", 
+        "sentence_id,": "f580acfdfc"
+    }, 
+    {
+        "sentence": "This concerns both the capability to protect Netherlands aims to develop into an international centre its networks and systems from attacks and the capability of cyber diplomacy where diplomats, policymakers and to take offensive measures.", 
+        "sentence_id,": "cf7269a98c"
+    }, 
+    {
+        "sentence": "The Defence organisations cyber experts come together.", 
+        "sentence_id,": "a7ef208a33"
+    }, 
+    {
+        "sentence": "digital capabilities can be deployed nation-wide at the request of civil authorities.", 
+        "sentence_id,": "bee31c594b"
+    }, 
+    {
+        "sentence": "These capabilities will also 2.4.3 DEVELOPMENT be deployed in international operations, both as part of Threats in the digital domain transcend boundaries.", 
+        "sentence_id,": "938db594a3"
+    }, 
+    {
+        "sentence": "our own capabilities and for the benefit of strengthening Therefore, the Netherlands can benefit from countries or building the capabilities of local authorities.", 
+        "sentence_id,": "f1e1cd523f"
+    }, 
+    {
+        "sentence": "In doing being able to counter such threats.", 
+        "sentence_id,": "6f24749756"
+    }, 
+    {
+        "sentence": "The NCSC focuses on so, the capabilities of the armed forces contribute to the strengthening CERT capabilities in countries that request integrated approach proposed by the Netherlands.", 
+        "sentence_id,": "7fd8c8d7db"
+    }, 
+    {
+        "sentence": "its support in this matter.", 
+        "sentence_id,": "862ccd0c2b"
+    }, 
+    {
+        "sentence": "NATO may play an important role as a facilitator, The Netherlands also supports capability building in the including promoting national capability build-up, EU by means of, among other things, the implementation improved information exchange and interoperability and of the EU Cyber Security Strategy.", 
+        "sentence_id,": "447ba797ac"
+    }, 
+    {
+        "sentence": "The associated public-private cooperation.", 
+        "sentence_id,": "27911b0e52"
+    }, 
+    {
+        "sentence": "The Netherlands also strives objective is to create a basic level of security and a level to participate in exercises and to strengthen EU-NATO playing field.", 
+        "sentence_id,": "ef51486a6f"
+    }, 
+    {
+        "sentence": "Promoting the cyber security approach in cooperation, in which the overlap of capabilities should a European framework will be an important issue during be avoided.", 
+        "sentence_id,": "e237205c2e"
+    }, 
+    {
+        "sentence": "Particular themes promoted by the Netherands in a European context, Cooperation in the area of defence in an EU context in addition to the forementioned strenghtened CERT will be mostly aimed at crisis management, pan- cooperation, are: European exercises and the effective investigation and Maintaining open standards, content and prosecution of cyber crime.", 
+        "sentence_id,": "8c00d55e61"
+    }, 
+    {
+        "sentence": "In an international context, interoperability of the internet the Netherlands continues to promote the importance of Promoting innovation of secure ICT products (security a broader ratification of the Convention on Cybercrime by design) of the Council of Europe (Budapest Convention).", 
+        "sentence_id,": "4ae817a55b"
+    }, 
+    {
+        "sentence": "A good Security requirements for new and existing (embedded) cooperation between national Computer Emergency ICT.", 
+        "sentence_id,": "eb9cf4c065"
+    }, 
+    {
+        "sentence": "Response Teams (CERTs) is of vital importance for swift actions and an early detection of threats, vulnerabilities and incidents.", 
+        "sentence_id,": "3f7ba7a19f"
+    }, 
+    {
+        "sentence": "In the Netherlands, the NCSC fulfils this role.", 
+        "sentence_id,": "fa7b568dea"
+    }, 
+    {
+        "sentence": "A further expansion and strengthening of existing alliances like the EGC and FIRST is a priority for the Netherlands.", 
+        "sentence_id,": "c8cb919930"
+    }, 
+    {
+        "sentence": "Flexibility and mutual trust are of paramount importance in these alliances.", 
+        "sentence_id,": "6acb3aec55"
+    }, 
+    {
+        "sentence": "22 The starting point for the Netherlands in this context are the UNs Manifesto and the Geneva and The Hague Conventions.", 
+        "sentence_id,": "40a1970609"
+    }, 
+    {
+        "sentence": "National Cyber Security Strategy (NCSS) 2 From awareness to capability | 21 ----------------------- Page 22----------------------- Proficient users and a sufficient number of cyber security professionals are necessary for making optimal use of the opportunities offered by digitisation and for being resilient to the ever more advanced threats.", 
+        "sentence_id,": "de204454c0"
+    }, 
+    {
+        "sentence": "22 | National Cyber Security Strategy (NCSS) 2 From awareness to capability ----------------------- Page 23----------------------- 3 Approach The Dutch vision on cyber security is translated into 3.2 The neT herlandS iS reSilienT To cyber a concrete approach, and is described in this chapter.", 
+        "sentence_id,": "465cad8160"
+    }, 
+    {
+        "sentence": "aTTac KS and proT ecTS iTS viTal inT ereSTS in Section 3.1 states the Dutch ambitions in the area of cyber T he diGiTal do Main security and the strategic objectives that support cyber Our critical infrastructure increasingly depends on ICT security.", 
+        "sentence_id,": "3d921160ef"
+    }, 
+    {
+        "sentence": "Sections 3.2 up to and including 3.6 clarify the systems.", 
+        "sentence_id,": "031f8f12c1"
+    }, 
+    {
+        "sentence": "Disruptions to these systems or a violation NCSS2 objectives, and the most important focal points of the confidentiality of information stored in such are clarified per objective.", 
+        "sentence_id,": "d1953633cf"
+    }, 
+    {
+        "sentence": "The action programme is systems by states and criminals have a major impact.", 
+        "sentence_id,": "6fe2b8a8f5"
+    }, 
+    {
+        "sentence": "The action programme states the may even lead to social disruption.", 
+        "sentence_id,": "e8a07119d1"
+    }, 
+    {
+        "sentence": "There is an increased action items that are implemented in the NCSS2 context.", 
+        "sentence_id,": "f099f659f7"
+    }, 
+    {
+        "sentence": "interwovenness of military and civil dimensions, public and private dimensions, and national and international 3.1 aM biT ion and STraT eGic GoalS dimensions in the digital domain.", 
+        "sentence_id,": "c7b7b81223"
+    }, 
+    {
+        "sentence": "For instance, national Based on the vision, the government aims to realise the security may be threatened by a large-scale cyber attack following ambitions: on one or more private organisations23 .", 
+        "sentence_id,": "d302effad7"
+    }, 
+    {
+        "sentence": "The speed with which such attacks can occur and develop requires a The Netherlands is a leader in cyber security: swift, coordinated and flexible response and an early Dutch society knows how to make safe, optimal use of the involvement of the most important parties involved.", 
+        "sentence_id,": "a95aa45c2f"
+    }, 
+    {
+        "sentence": "advantages of digitisation.", 
+        "sentence_id,": "91ed8d3649"
+    }, 
+    {
+        "sentence": "Dutch businesses and the research community are pioneers Therefore, it is of major importance that we gain more in security by design and privacy by design.", 
+        "sentence_id,": "939520cd03"
+    }, 
+    {
+        "sentence": "insight into the critical processes and services, and in the Together with its international partners, the Netherlands risks they may run.", 
+        "sentence_id,": "2cdb5e85e4"
+    }, 
+    {
+        "sentence": "It is similarly important to critically is part of a progressive coalition that seeks to protect view the underlying ICT chain structure and legacy fundamental rights and values in the digital domain.", 
+        "sentence_id,": "4bce874fd0"
+    }, 
+    {
+        "sentence": "Based on this risk-based approach, we will increase the resilience of vital services and processes and The realisation of these ambitions is given shape based work to an effective joint public-private and civil-military on the strategic objectives below.", 
+        "sentence_id,": "a5d9fe273c"
+    }, 
+    {
+        "sentence": "These objectives are response, and with the help of our international partners.", 
+        "sentence_id,": "093ab12fdb"
+    }, 
+    {
+        "sentence": "the central themes of the 2014-2016 action programme.", 
+        "sentence_id,": "d49e9b52a3"
+    }, 
+    {
+        "sentence": "Annual progress reports will be drawn up and the action 1 Risk analyses, security requirements and information programme is updated when necessary.", 
+        "sentence_id,": "e0fbf1646b"
+    }, 
+    {
+        "sentence": "The Netherlands is resilient to cyber attacks and infrastructure, the government, working with vital protects its vital interests in the digital domain.", 
+        "sentence_id,": "64871d2e66"
+    }, 
+    {
+        "sentence": "The Netherlands tackles cyber crime.", 
+        "sentence_id,": "a0ac1a3624"
+    }, 
+    {
+        "sentence": "The Netherlands invests in secure ICT products and to a programme that will establish basic security services that protect privacy.", 
+        "sentence_id,": "5d01b2cb0f"
+    }, 
+    {
+        "sentence": "requirements on the basis of risk analyses.", 
+        "sentence_id,": "0a429a4957"
+    }, 
+    {
+        "sentence": "The Netherlands builds coalitions for freedom, security and peace in the digital domain.", 
+        "sentence_id,": "5b2ace784e"
+    }, 
+    {
+        "sentence": "The Netherlands has sufficient cyber security large-scale ICT incidents is set up.", 
+        "sentence_id,": "6f9ed4e212"
+    }, 
+    {
+        "sentence": "In cooperation with knowledge and skills and invests in ICT innovation its partners, the National Cyber Security Centre sets to attain cyber security objectives.", 
+        "sentence_id,": "eaaca4fe42"
+    }, 
+    {
+        "sentence": "up a national detection and response network for the central government and other vital sectors.", 
+        "sentence_id,": "8b5627a844"
+    }, 
+    {
+        "sentence": "Provided with safeguards related to confidentiality and privacy, these 23 Highly-publicised digital attacks that have caused major damage or that could have been substantially disruptive, such as DigiNotar in the Netherlands, Stuxnet in Iran and the cyber attack on Aramco in Saudi Arabia, were not aimed at military targets, but at strategic civil targets.", 
+        "sentence_id,": "9e7acee473"
+    }, 
+    {
+        "sentence": "National Cyber Security Strategy (NCSS) 2 From awareness to capability | 23 ----------------------- Page 24----------------------- networks will work to a real-time analysis and sharing key entity in the public-private cyber security network.", 
+        "sentence_id,": "8b2ab65aba"
+    }, 
+    {
+        "sentence": "At the same time and in part due to the large number of incidents, expectations regarding the role of the NCSC 2 More active approach to cyber espionage have grown.", 
+        "sentence_id,": "7e86f6d2cb"
+    }, 
+    {
+        "sentence": "In order to give shape to this, the position The Dutch government is committed to raising of the National Cyber Security Centre (NCSC) is bolstered awareness among citizens, businesses, organisation by means of a stronger structure for confidential and government bodies about information security information-sharing and analysis.", 
+        "sentence_id,": "3f1d2f7533"
+    }, 
+    {
+        "sentence": "Furthermore, in its and privacy.", 
+        "sentence_id,": "5ba2427b6e"
+    }, 
+    {
+        "sentence": "This means that awareness campaigns will capacity as the expert authority, the NCSC provides partly focus on increasing knowledge and insight into advice to private and public parties involved, both when the risks of cyber espionage.", 
+        "sentence_id,": "020bf9cd52"
+    }, 
+    {
+        "sentence": "On the other hand, the asked and at its own initiative.", 
+        "sentence_id,": "3fb8a4a665"
+    }, 
+    {
+        "sentence": "Finally, based on its own government also ensures that the issue is prioritised detection capability and its triage role in crises, the NCSC within the intelligence and security services, which are is developing into a Security Operations Centre (SOC), in given the tools to better document cyber threats and addition to its role as a Computer Emergency Response investigate and combat advanced attacks.", 
+        "sentence_id,": "15a9ab7dde"
+    }, 
+    {
+        "sentence": "To this end, Team (CERT)24 .", 
+        "sentence_id,": "a2874d9452"
+    }, 
+    {
+        "sentence": "the intelligence and security services have combined their cyber capabilities in the Joint Sigint Cyber Unit (JSCU).", 
+        "sentence_id,": "ac90d8c8a7"
+    }, 
+    {
+        "sentence": "3.3 The neT herlandS Tac KleS cyber cri Me Furthermore, the government will prioritise a better Cyber crime is a frequently occurring and increasing protection of data citizens share with the government threat for all citizens and organisations in the digital and being more transparent about data management.", 
+        "sentence_id,": "983f35b66c"
+    }, 
+    {
+        "sentence": "In order to offer adequate protection from cyber crime, the Netherlands will prioritise the fight against 3 Feasibility study on separate vital network cyber crime by means of strengthening the current An exploratory study is conducted to determine whether capabilities in the area of investigation and prosecution.", 
+        "sentence_id,": "87bfdbdfe7"
+    }, 
+    {
+        "sentence": "it is possible and useful, from both a technical and Updated legislation, a close cooperation and informa- organisational perspective, to create a separate ICT tion-exchange between the various players involved is network for public and private vital processes.", 
+        "sentence_id,": "edc4332ac7"
+    }, 
+    {
+        "sentence": "A separate of the utmost importance.", 
+        "sentence_id,": "5dc07ffe45"
+    }, 
+    {
+        "sentence": "The Netherlands will actively network widens the range of options for safeguarding pursue national and international alliances, for instance the continuity of vital processes.", 
+        "sentence_id,": "c5e9d199e3"
+    }, 
+    {
+        "sentence": "It also makes it possible in an EU framework, and deepen such alliances to achieve to set up private, cloud-based data storage, thus an all-encompassing and bold approach to cyber crime.", 
+        "sentence_id,": "2be84408b9"
+    }, 
+    {
+        "sentence": "strengthening the privacy and integrity of the data in storage or in the cloud concerned.", 
+        "sentence_id,": "c9c646e0b6"
+    }, 
+    {
+        "sentence": "6 International approach to cyber crime: updating and strengthening legislation (including the Criminal 4 Enhancing civil-military cooperation Code).", 
+        "sentence_id,": "00efd747d9"
+    }, 
+    {
+        "sentence": "Digital means increasingly form an integral part of There is a need for effective, swift and efficient military actions.", 
+        "sentence_id,": "f4eac5f88c"
+    }, 
+    {
+        "sentence": "In order to safeguard the deployability investigation of cyber crime in accordance with clear of the Netherlands armed forces and to increase rules.", 
+        "sentence_id,": "2b1e7c813b"
+    }, 
+    {
+        "sentence": "Scarce capabilities have to be targetedly deployed the effectiveness of the armed forces, the Defence among vulnerable sectors and groups.", 
+        "sentence_id,": "57ec64f893"
+    }, 
+    {
+        "sentence": "The Netherlands organisation is increasing its digital resilience and will assume a vanguard role in harmonising legislation is developing its own capabilities to conduct cyber governing international investigations, for instance in operations .", 
+        "sentence_id,": "08644dd358"
+    }, 
+    {
+        "sentence": "Civil and military domains within the digital the Council of Europe.", 
+        "sentence_id,": "93155b02bf"
+    }, 
+    {
+        "sentence": "The Netherlands will also work to domain have become more intertwined.", 
+        "sentence_id,": "bc513490b7"
+    }, 
+    {
+        "sentence": "Therefore, strengthen and expand international partnerships like options for deploying the digital capabilities of the the European Cyber Crime Centre EC3, at Europol.", 
+        "sentence_id,": "ace3a5b6b6"
+    }, 
+    {
+        "sentence": "This Netherlands Defence organisation on a national level international cooperation will also eventually include, in preventing and countering attacks on the civil in the long term, a detailed form of arbitration between infrastructure will be detailed.", 
+        "sentence_id,": "3f06c7636b"
+    }, 
+    {
+        "sentence": "The central question countries when they are not satisfied with the assistance is how to optimally share knowledge and expertise offered by the investigation process.", 
+        "sentence_id,": "10657005fd"
+    }, 
+    {
+        "sentence": "The Netherlands between civil parties and the Defence organisation.", 
+        "sentence_id,": "539f396015"
+    }, 
+    {
+        "sentence": "actively participates in international meetings and related activities, such as the Committee of Contracting States of 5 Strengthening the National Cyber Security Centre the Council of Europe, the Convention on Cybercrime, the In a short period of time, the NCSC has developed into the EU policy cycle on organised crime, and the discussions 24 In addition to response, SOC comprises other aspects from the cyber security chain, such as awareness, resilience, detection, alerting, reporting and crisis management.", 
+        "sentence_id,": "8aa35b3f91"
+    }, 
+    {
+        "sentence": "24 | National Cyber Security Strategy (NCSS) 2 From awareness to capability ----------------------- Page 25----------------------- within UNODC about a UN treaty in the area of cyber 3.5 The neT herlandS buildS coaliT ionS For crime.", 
+        "sentence_id,": "eb1b6ba431"
+    }, 
+    {
+        "sentence": "In the Netherlands itself, a bill is being passed that F reedoM, SecuriTy and peace in T he diGiTal will bestow more powers on the police service and the doMain Public Prosecution Service in investigating cyber crime in The Netherlands benefits from a stable, free and accessible the digital domain.", 
+        "sentence_id,": "01e19d39d2"
+    }, 
+    {
+        "sentence": "digital domain and therefore wants to continue to play a leading role in the protection of this domain.", 
+        "sentence_id,": "7068349218"
+    }, 
+    {
+        "sentence": "With The 3.4 The neT herlandS inveSTS in Secure icT Hague as the city of peace and security, the Netherlands producTS and ServiceS T haT proT ecT privacy aims to develop standards in a multi-stakeholder An increasing amount of ICT-based products and services context and to protect fundamental rights and values in are linked to public networks, such as the internet, which cyberspace.", 
+        "sentence_id,": "fa404b8ad2"
+    }, 
+    {
+        "sentence": "Furthermore, the Netherlands in cooperation for its part is linked to other products and services.", 
+        "sentence_id,": "7a4cbb28bf"
+    }, 
+    {
+        "sentence": "This with its international partners will work to preventing development offers many advantages, but also introduces and fighting conflicts in the digital domain.", 
+        "sentence_id,": "d66246bcc2"
+    }, 
+    {
+        "sentence": "Effectively new security risks.", 
+        "sentence_id,": "c30da895d1"
+    }, 
+    {
+        "sentence": "In the physical domain, it is customary responding to these conflicts is not only limited to the to set security and quality requirements to products and digital domain, but also requires an integrated approach, services before they are marketed.", 
+        "sentence_id,": "9636af3f9c"
+    }, 
+    {
+        "sentence": "However, in the digital as is the case with other security threats.", 
+        "sentence_id,": "cba9cef92a"
+    }, 
+    {
+        "sentence": "Use of traditional domain, this is not common practice yet.", 
+        "sentence_id,": "dfe225af30"
+    }, 
+    {
+        "sentence": "For instance, elements such as diplomacy, imposing sanctions, the impact and side-effects of ICT products or services capability building and Defence capabilities have to be such as online investments or online shopping are hardly adjusted to the specific character of the digital domain.", 
+        "sentence_id,": "55b2235bd0"
+    }, 
+    {
+        "sentence": "included in deliberations of whether or not to use them.", 
+        "sentence_id,": "54dcdcb76c"
+    }, 
+    {
+        "sentence": "In light of this objective, cyber capabilities that fit in with Security and privacy requirements help organisations and the 3D approach (Development, Diplomacy, Defence) are citizens with protecting themselves against security risks.", 
+        "sentence_id,": "192faf897a"
+    }, 
+    {
+        "sentence": "The governments digital service provision should set an example.", 
+        "sentence_id,": "6edea8542d"
+    }, 
+    {
+        "sentence": "8 Cyber diplomacy: hub for expertise for conflict prevention Innovation, security and privacy in the design phase The Netherlands aims to develop a hub for expertise on of products and services can not only be successfully international law and cyber security in order to promote combined, but they can also support these products and the peaceful use of the digital domain.", 
+        "sentence_id,": "6711ab69dc"
+    }, 
+    {
+        "sentence": "To this end, services in distinguishing them from the competition.", 
+        "sentence_id,": "1a12c57641"
+    }, 
+    {
+        "sentence": "the Netherlands combines knowledge from existing The efforts of the government and the business world centres.", 
+        "sentence_id,": "d5298007a1"
+    }, 
+    {
+        "sentence": "The centre brings together international experts should therefore be focused on making this rewarding.", 
+        "sentence_id,": "aab117bbe8"
+    }, 
+    {
+        "sentence": "and policymakers, diplomats, military personnel and Cooperation with international partners is an essential NGOs.", 
+        "sentence_id,": "9290a12145"
+    }, 
+    {
+        "sentence": "This creates a network that brings together element in this process.", 
+        "sentence_id,": "05614eb5a8"
+    }, 
+    {
+        "sentence": "multidisciplinary knowledge about subjects such as international standards for conflict prevention, civil- 7 Supported standards, security by design and privacy military cooperation and non-proliferation of cyber by design weapons in the digital domain.", 
+        "sentence_id,": "ffa7493a9a"
+    }, 
+    {
+        "sentence": "The network also Together with private sector partners, the government is contributes to discussions about this subject.", 
+        "sentence_id,": "fbddffa270"
+    }, 
+    {
+        "sentence": "This forms working to develop standards that can be used to protect the basis for a series of multi-stakeholder, high-level and improve the security of ICT products and services.", 
+        "sentence_id,": "34141f2f54"
+    }, 
+    {
+        "sentence": "this end, the government in an international context will also enter into a dialogue with relevant private parties 3.6 The neT herlandS ha S SuFFicienT cyber and will act in a framework-developing and standards- S ecuriTy KnowledGe and SKillS and inveSTS developing fashion to protect the privacy and security in icT innovaT ion To aTTain cyber SecuriTy of users.", 
+        "sentence_id,": "4510fef047"
+    }, 
+    {
+        "sentence": "Wherever possible, this also takes place in a obJ ecT iveS European or wider international context, and a link is Until now, cyber security has been underexposed in being sought with existing international standards and education.", 
+        "sentence_id,": "3a76e6bba5"
+    }, 
+    {
+        "sentence": "Proficient users and sufficient cyber security good practices25 .", 
+        "sentence_id,": "c57913ba09"
+    }, 
+    {
+        "sentence": "By including standards in tendering professionals are necessary for making optimal use of requirements stimulates the government to implement it the opportunities offered by digitisation and for being as a launching customer.", 
+        "sentence_id,": "de8f031568"
+    }, 
+    {
+        "sentence": "resilient to the ever more advanced threats.", 
+        "sentence_id,": "a3aa257aab"
+    }, 
+    {
+        "sentence": "Cyber 25 In Dutch society, the Forum and Standardisation Authority promote interoperability and the application of open standards through a list of recommended and compulsory standards for the (semi) public sector.", 
+        "sentence_id,": "60a79bce44"
+    }, 
+    {
+        "sentence": "National Cyber Security Strategy (NCSS) 2 From awareness to capability | 25 ----------------------- Page 26----------------------- security professionals are also needed to design and able to anticipate them is a vital element.", 
+        "sentence_id,": "56375f6f33"
+    }, 
+    {
+        "sentence": "Innovation build the cyber security solutions of the future.", 
+        "sentence_id,": "acccadc9ac"
+    }, 
+    {
+        "sentence": "The arises where creative people and experts meet.", 
+        "sentence_id,": "6c75164a78"
+    }, 
+    {
+        "sentence": "This Netherlands has plenty of talented IT workers.", 
+        "sentence_id,": "0d343ed4fd"
+    }, 
+    {
+        "sentence": "However, alone, however, is not enough.", 
+        "sentence_id,": "68c38c52bd"
+    }, 
+    {
+        "sentence": "There is a need for more their skills need to be honed as early as secondary coordination of supply and demand, which can be school and then continued in top degree programmes achieved by linking26 innovation initiatives to leading in senior secondary vocational education, at a university sector policy.", 
+        "sentence_id,": "65426ae80d"
+    }, 
+    {
+        "sentence": "In addition, the government, the business of applied sciences or in university education.", 
+        "sentence_id,": "bd8ce2dd7e"
+    }, 
+    {
+        "sentence": "For this community and the world of academia will launch a reason, the Netherlands has opted for a wide approach, cyber security innovation platform where start-ups, ranging from primary education to higher education, established companies, students and researchers can and from work-based training to university, and from connect and inspire one another.", 
+        "sentence_id,": "7463e6890e"
+    }, 
+    {
+        "sentence": "In organising a follow- the board room to the coal face.", 
+        "sentence_id,": "92693c857b"
+    }, 
+    {
+        "sentence": "In addition to education up to the SBIT research programme in 2012-2013, the and training, awareness campaigns remain important.", 
+        "sentence_id,": "83cffad693"
+    }, 
+    {
+        "sentence": "government contributes to this.", 
+        "sentence_id,": "2aabab99ec"
+    }, 
+    {
+        "sentence": "The farther-reaching PPP In order to be able to take the step from being aware to implementation of the second edition of the National becoming capable, these campaigns will be used in a Cyber Security Research Agenda (NCSRA) will also more targeted manner and more attention will be paid to contribute to this development.", 
+        "sentence_id,": "c4dae9ef9e"
+    }, 
+    {
+        "sentence": "the perspectives for action of the target group.", 
+        "sentence_id,": "ec0b169c51"
+    }, 
+    {
+        "sentence": "3.7 a JoinT e FForT An excellent cyber security knowledge infrastructure not The government and the Netherlands have big ambitions only works in support of our societys resilience, it also in the area of cyber security and comprise a broader offers opportunities for developing expertise and for long-term vision.", 
+        "sentence_id,": "00ecf94ab0"
+    }, 
+    {
+        "sentence": "This vision reflects the importance finding niches.", 
+        "sentence_id,": "fa7c83c689"
+    }, 
+    {
+        "sentence": "This requires an attractive research and of and opportunities offered by ICT to our society education climate to be created in which cyber security and our economy, as well as the current threats and plays a prominent role.", 
+        "sentence_id,": "1def90d2e1"
+    }, 
+    {
+        "sentence": "A multidisciplinary approach risks.", 
+        "sentence_id,": "9a9412eb7f"
+    }, 
+    {
+        "sentence": "A joint effort made by all parties involved is in which the non-technical sub-areas are also included required, in which each of the parties is expected to is needed to promote cyber security innovation.", 
+        "sentence_id,": "e7c5e43500"
+    }, 
+    {
+        "sentence": "The take own responsibility.", 
+        "sentence_id,": "ffbdc2780e"
+    }, 
+    {
+        "sentence": "Therefore, the government has innovative products and services that are developed in invited many organisations from government bodies this manner will help the Netherlands with anticipating and the business world to help with developing the swift technological and other developments in the digital strategy.", 
+        "sentence_id,": "44e7e88bc4"
+    }, 
+    {
+        "sentence": "Unfortunately, financial means are limited due domain.", 
+        "sentence_id,": "a7c0a84e21"
+    }, 
+    {
+        "sentence": "Dutch design (in security) can also become a to the current economic climate.", 
+        "sentence_id,": "c966dc6f94"
+    }, 
+    {
+        "sentence": "quality mark for security and privacy in ICT products and services, thereby contributing to economic growth.", 
+        "sentence_id,": "b917c14140"
+    }, 
+    {
+        "sentence": "In the present strategy, the long-term ambition has been given shape in the 2014-2016 action programme 9 Taskforce on cyber security education (see also Annexe 1), which is detailed within the scope To enlarge the pool of cyber security experts and enhance of the regular departmental budgets and the partners users proficiency with cyber security, the business budgets.", 
+        "sentence_id,": "8614dc44cb"
+    }, 
+    {
+        "sentence": "Entirely in line with the move initiated by the community and the government have joined forces to action programme, the government will implement the improve the quality and breadth of ICT education at all broader strategy through participation, reprioritisation, academic levels (primary, secondary and professional smart coalitions and an integrated approach, which in its education).", 
+        "sentence_id,": "bd658ba113"
+    }, 
+    {
+        "sentence": "A PPP taskforce on cyber security education entirety will respond to increased problems that threaten will be set up which will focus on giving advice about the our prosperity and wellbeing.", 
+        "sentence_id,": "bca72ead72"
+    }, 
+    {
+        "sentence": "The long-term ambition cyber security curriculum, in relation to the certification of also shows that realising a secure digital domain also information security experts and the further development in the long term is by no means an ambition that is of learning modules, among other things.", 
+        "sentence_id,": "8527e1c34e"
+    }, 
+    {
+        "sentence": "For the time free of obligations.", 
+        "sentence_id,": "82cb295fb0"
+    }, 
+    {
+        "sentence": "This ambition is given more shape being, connections are being sought with current initiatives in the future action programmes and will have to fall regarding information sciences education and the within the scope of the financial parameters that will be Technology Pact 2020. in place at that time.", 
+        "sentence_id,": "8428845eaf"
+    }, 
+    {
+        "sentence": "Therefore, the details regarding the implementation of the actions stated in the annexes take 10 Encouraging innovation in cyber security place in consultation and/or cooperation with private Technological developments in the digital domain are parties and the government bodies involved.", 
+        "sentence_id,": "21f87064b0"
+    }, 
+    {
+        "sentence": "taking place at an alarming rate.", 
+        "sentence_id,": "1f813d45f7"
+    }, 
+    {
+        "sentence": "This means that being 26 Such as the National Cyber Security Research Agenda (NCSRA) and The Hague Security Delta (HSD).", 
+        "sentence_id,": "32f6da50f5"
+    }, 
+    {
+        "sentence": "Cyber security is included in the vital infrastructure approach.", 
+        "sentence_id,": "a625e4ad01"
+    }, 
+    {
+        "sentence": "In consultation with line mi- 2014 and beyond An element of this approach will be periodically listing which nistries, vital sectors (including ICT-dependent systems, services and processes are vital.", 
+        "sentence_id,": "2e3b02cc1c"
+    }, 
+    {
+        "sentence": "This regional authorities) is linked to a resilience-enhancing programme and public- private crisis exercises.", 
+        "sentence_id,": "1aa8b2a651"
+    }, 
+    {
+        "sentence": "Developing a system of supported open (technological) Line ministries, NCSC, vital 2014 standards and minimum requirements for increasing the sectors digital security of vital processes.", 
+        "sentence_id,": "6d811eaf60"
+    }, 
+    {
+        "sentence": "Where possible, an alliance with existing national and international standards and best practices is pursued.", 
+        "sentence_id,": "f70c45116f"
+    }, 
+    {
+        "sentence": "Encouraging that privacy and security by design are included All ministries 2014-2016 in the tendering processes of products and services for the government.", 
+        "sentence_id,": "c29f567ee4"
+    }, 
+    {
+        "sentence": "Conducting an exploratory study into a separate ICT network Security and Justice, line mi- 2014 for (public-private) vital processes.", 
+        "sentence_id,": "4e98e211b5"
+    }, 
+    {
+        "sentence": "Building and expanding a national detection and response Security and Justice, Defence, 2013 and beyond network.", 
+        "sentence_id,": "b888de674f"
+    }, 
+    {
+        "sentence": "Strengthening the digital resilience of the Dutch defence Defence 2014-2015 systems as well as increasing the capability to conduct cyber operations.", 
+        "sentence_id,": "8087e2a25b"
+    }, 
+    {
+        "sentence": "Committing local governments to a strengthened approach Interior and Kingdom Relati- 2014 to information security.", 
+        "sentence_id,": "d3ffb144d3"
+    }, 
+    {
+        "sentence": "Formulating responsibilites and documenting procedures Interior and Kingdom Relati- 2015 (including upscaling) in case of organisation-transcending ons, Security and Justice, intel- incidents that are not crises.", 
+        "sentence_id,": "34ce835ce0"
+    }, 
+    {
+        "sentence": "Strengthening research and analysis capabilities to gain more Intelligence and security servi- 2014 insight into threats and risks in the digital domain.", 
+        "sentence_id,": "332775d57a"
+    }, 
+    {
+        "sentence": "Strengthening of NCSC, among other things, through the de- NCSC, intelligence and security 2014 velopment of a Cyber Security Operations Center, in addition services, vital sectors to its role as a CERT.", 
+        "sentence_id,": "534c0f3784"
+    }, 
+    {
+        "sentence": "27 In compliance with existing responsibilities.", 
+        "sentence_id,": "63cd2f91f8"
+    }, 
+    {
+        "sentence": "Mapping out risks of legacy systems in vital processes and Security and Justice, Interior 2014 services.", 
+        "sentence_id,": "22adeef000"
+    }, 
+    {
+        "sentence": "Strengthening of existing sectoral regulatory authorities by Sectoral regulatory authorities 2015 including cyber security requirements (and avoiding overlap).", 
+        "sentence_id,": "e346cbca71"
+    }, 
+    {
+        "sentence": "Exploring accreditation options of companies that can be Security & Justice/NCSC and 2015 called upon as digital fire brigades.", 
+        "sentence_id,": "b9864aede1"
+    }, 
+    {
+        "sentence": "Setting up a cyber reservists database.", 
+        "sentence_id,": "d2941dfeab"
+    }, 
+    {
+        "sentence": "Setting up a Defence Cyber Command for overall coordina- Defence 2014 tion and readiness of cyber capabilities.", 
+        "sentence_id,": "60a10b2a8e"
+    }, 
+    {
+        "sentence": "Updating and strengthening (international) criminal Security and Justice 2014-2016 legislation (including the Computer Crime Act III).", 
+        "sentence_id,": "100db8d56e"
+    }, 
+    {
+        "sentence": "Improving cooperation with Europols EC3 by exchanging Security and Justice 2014-2016 knowledge and personnel.", 
+        "sentence_id,": "92c4680ae2"
+    }, 
+    {
+        "sentence": "Include the strengthening of investigation and prosecution of Security and Justice, Public 2014 cyber crime as a subject in the discussion about new National Prosecution Service, police Priorities (the current subjects lapse on 1 January 2015).", 
+        "sentence_id,": "b38abf74e7"
+    }, 
+    {
+        "sentence": "Strengthening the fight against cyber crime in the financial Security and Justice, DNB, 2014 sector through cooperation.", 
+        "sentence_id,": "3d7ecc26a8"
+    }, 
+    {
+        "sentence": "Supervising the link to the investigation and prosecution Security and Justice Inspec- 2014 services in the digitisation of crime.", 
+        "sentence_id,": "52fdd701d4"
+    }, 
+    {
+        "sentence": "Strengthening the intake and registration process of cyber Police service 2014-2016 crimes reported to the police.", 
+        "sentence_id,": "5c42d2c4b9"
+    }, 
+    {
+        "sentence": "Improving and/or developing standards, in an international Line ministries and partners 2014 and beyond context where possible, that are used to promote the security and privacy of ICT products and services.", 
+        "sentence_id,": "d88ed39e1d"
+    }, 
+    {
+        "sentence": "Launching awareness campaigns, such as Alert Online, in Security and Justice, Dutch 2014-2016 which privacy also plays a part.", 
+        "sentence_id,": "bef5f09d90"
+    }, 
+    {
+        "sentence": "Giving shape to cyber diplomacy and in cooperation Foreign Affairs, Security and 2014-2016 with international partners developing standards and Justice trust-inspiring measures to counter conflict escalation in the digital domain.", 
+        "sentence_id,": "122e2d43e2"
+    }, 
+    {
+        "sentence": "Setting up a hub for expertise in the area of international law Foreign Affairs, Security and 2014-2015 and cyber security with the purpose of promoting conflict Justice prevention in the digital domain.", 
+        "sentence_id,": "31257f913d"
+    }, 
+    {
+        "sentence": "A series of high-level meetings will be organised as part of this.", 
+        "sentence_id,": "9dd4c11934"
+    }, 
+    {
+        "sentence": "Continue to be the international leader in the area of internet Foreign Affairs, Interior and 2014 and beyond freedom, for instance through the Freedom Online Coalition Kingdom Relations, Security (FOC), and working to establish a powerful European and Justice approach to privacy protection and fundamental rights and values with respect to third countries.", 
+        "sentence_id,": "de02623785"
+    }, 
+    {
+        "sentence": "The Dutch government will increase its participation in Economic Affairs, Foreign 2014 multi-stakeholder events such as the Cyberspace Conferences Affairs, Security and Justice and the IGF.", 
+        "sentence_id,": "05fe7fa2b1"
+    }, 
+    {
+        "sentence": "The Netherlands works to develop cyber security capability in Foreign Affairs, Defence, Secu- 2014-2016 third countries through bilateral or regional initiatives.", 
+        "sentence_id,": "167a612580"
+    }, 
+    {
+        "sentence": "Detailing options for national deployment of digital Defence 2014 capabilities of Defence at the request of civil authorities.", 
+        "sentence_id,": "45e690ba87"
+    }, 
+    {
+        "sentence": "A PPP taskforce on cyber security education will be set up Security and Justice Economic 2014 which will focus on giving advice about the cyber secu- Affairs, Research, Education rity curriculum.", 
+        "sentence_id,": "6420d95eab"
+    }, 
+    {
+        "sentence": "This includes certification and the further and Science development of learning modules.", 
+        "sentence_id,": "7946b57e05"
+    }, 
+    {
+        "sentence": "Realising more work placement opportunities and technical Security and Justice and 2015 traineeships in cyber security in the public sector.", 
+        "sentence_id,": "e1ea03cb92"
+    }, 
+    {
+        "sentence": "NL Agency and the Netherlands Organization for Scientific Economic Affairs, NWO 2014-2015 Research (NWO), as a follow-up to the 2012-2013 tender, (co-financed by line ministries) will issue new tenders to the value of about 6 million, to be roughly evenly distributed over an SBIR programme and long-term research.", 
+        "sentence_id,": "418db16a46"
+    }, 
+    {
+        "sentence": "Developing Cyber Defence training and education Defence 2014 programmes with private parties and Regional Training Centres.", 
+        "sentence_id,": "fda3ab0db0"
+    }, 
+    {
+        "sentence": "Drawing up a plan in order to better meet research needs in NWO/ Netherlands 2013, 2014 the business world through scientists on the job.", 
+        "sentence_id,": "e54203c361"
+    }, 
+    {
+        "sentence": "Launching a cyber security platform for start-ups and Economic Affairs, Security 2015 established companies, students and researchers.", 
+        "sentence_id,": "23e63e834c"
+    }, 
+    {
+        "sentence": "and Justice and the business community National Cyber Security Strategy (NCSS) 2 From awareness to capability | 33 ----------------------- Page 34----------------------- 34 | National Cyber Security Strategy (NCSS) 2 From awareness to capability ----------------------- Page 35----------------------- National Cyber Security Strategy (NCSS) 2 From awareness to capability | 35 ----------------------- Page 36----------------------- This is a publication of the national coordinator for Security and counterterrorism Visiting address Turfmarkt 147 2511 DP Den Haag Postal address Postbus 20301 2500 EH Den Haag T (070) 751 50 50 E info@nctv.minvenj.nl I www.nctv.nl", 
+        "sentence_id,": "2dd8da202e"
+    }
+]

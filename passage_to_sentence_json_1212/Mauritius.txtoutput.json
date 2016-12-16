@@ -1,0 +1,538 @@
+[
+    {
+        "sentence": "REPUBLIC OF MAURITIUS 5555555555555555555555555555555555555555555555555555555555 NATIONAL CYBER SECURITY STRATEGY 5555555555555555555555555555555555555555555555555555555555 2014 - 2019 The time has come for the protection mindset to be broadened to embrace the broader concept of resilience ...", 
+        "sentence_id,": "d55b00b47d"
+    }, 
+    {
+        "sentence": "The aim is to build a more resilient nation one where all Mauritians are better able to adapt to change, where we can reduce exposure to risks, and where we are all better able to bounce back from disaster.", 
+        "sentence_id,": "220a9c2bb5"
+    }, 
+    {
+        "sentence": "INTRODUCTION Societies are becoming increasingly more dependent on information and communication technologies which are globally interconnected.", 
+        "sentence_id,": "8179f9882c"
+    }, 
+    {
+        "sentence": "With these growing dependencies, information systems and networks are extremely vulnerable to disturbances which can affect their functioning.", 
+        "sentence_id,": "a64756bab0"
+    }, 
+    {
+        "sentence": "Cyber-security threats have become more sophisticated and have more serious repercussions than before.", 
+        "sentence_id,": "9fbbe09199"
+    }, 
+    {
+        "sentence": "There is a growing misuse of electronic networks for criminal purposes or for objectives that can adversely affect the integrity of a nations critical infrastructures.", 
+        "sentence_id,": "2a4b4f3107"
+    }, 
+    {
+        "sentence": "Cyber-attacks can be mounted at any time, against anyone and from anywhere.", 
+        "sentence_id,": "0749c3c2bf"
+    }, 
+    {
+        "sentence": "In a realm, where technology and change are speeding, responding effectively to cyber threats require a consistent and extensive effort.", 
+        "sentence_id,": "a6369a3e49"
+    }, 
+    {
+        "sentence": "To address the cyber security issues in Mauritius, a National Cyber Security Strategy is required which will define the main goals, guidelines and action plans to respond effectively to cyber threats.", 
+        "sentence_id,": "3b0903e741"
+    }, 
+    {
+        "sentence": "The strategy also recognizes the fundamental challenge of balancing the measures intended to protect security.", 
+        "sentence_id,": "9f342cdee8"
+    }, 
+    {
+        "sentence": "By following the strategic guidelines and measures, Mauritius will be able to manage deliberate and unintentional disturbances in the cyber space as well as respond to and recover from them.", 
+        "sentence_id,": "a08e1b4d47"
+    }, 
+    {
+        "sentence": "The aspiration is that the action plans outlined in this strategy will position Mauritius where citizens know what to do to protect them; law enforcement is tackling cyber criminals; effective cyber security is seen as positive for business in Mauritius; online public services are secure and the threats to our national infrastructure and national security have been confronted.", 
+        "sentence_id,": "9b003536b6"
+    }, 
+    {
+        "sentence": "The strategy provides an overview of what it takes to effectively protect information systems and networks and also gives an insight into the Governments approach and strategy for protection of cyberspace in the country.", 
+        "sentence_id,": "f0a1f239c3"
+    }, 
+    {
+        "sentence": "The cybersecurity strategic programmes which were set out in both NICTSP 2007-2011 and NICTSP 2011-2014 have been taken into account to build the cybersecurity strategic plan.", 
+        "sentence_id,": "2340f538c7"
+    }, 
+    {
+        "sentence": "The purpose of the survey was to assess the security posture of businesses in Mauritius.", 
+        "sentence_id,": "f30518cd01"
+    }, 
+    {
+        "sentence": "The cyber security policy is an evolving task and it caters to the whole spectrum of ICT users including home users and small, medium and large enterprises and Government & nonGovernment entities.", 
+        "sentence_id,": "e41d168072"
+    }, 
+    {
+        "sentence": "It serves as an umbrella framework for defining and guiding the actions related to the security of cyberspace.", 
+        "sentence_id,": "9a76abdf81"
+    }, 
+    {
+        "sentence": "It also enables individual sectors and organisations in designing appropriate cyber security policies to suit their needs.", 
+        "sentence_id,": "0bf987f6e7"
+    }, 
+    {
+        "sentence": "VISION, MISSION AND GOALS FOR CYBER SECURITY Vision Our Vision is to enhance the cyber threat preparedness of Mauritius and managing the disturbances caused by these threats Mission Our Mission is to integrate Information Security firmly into the basic structures of our information society Goals To achieve this vision, we want: Goal 1: To secure our Cyberspace and establish a front line of defense against Cybercrime.", 
+        "sentence_id,": "cf7bd79185"
+    }, 
+    {
+        "sentence": "Goal 2: To enhance our resilience to Cyber Attacks and be able to defend against the full spectrum of Threats.", 
+        "sentence_id,": "9a7a196245"
+    }, 
+    {
+        "sentence": "Goal 3: To develop an efficient collaborative model between the authorities and the business community for the purpose of advancing National Cyber Security and Cyber Defense.", 
+        "sentence_id,": "4e18ee7df7"
+    }, 
+    {
+        "sentence": "Goal 4: To improve the Cyber Expertise and the comprehensive Cyber Security Awareness of the society at all levels.", 
+        "sentence_id,": "18988d5a3b"
+    }, 
+    {
+        "sentence": "CYBER SECURITY MANAGEMENT AND THE MAURITIAN APPROACH Preparing for cyber threats and cyber defense involve immediate, transparent and better coordinated action from all parties in society, both individually and collectively.", 
+        "sentence_id,": "929d5bb07f"
+    }, 
+    {
+        "sentence": "It is important to provide political guidance and strategic guidelines for cyber security and take necessary decisions regarding the allocation of resources and prerequisites.", 
+        "sentence_id,": "0083a79c99"
+    }, 
+    {
+        "sentence": "Cyber Security management requires that the different stakeholders have a reliable, real-time cyber security situation depiction of the condition of societys key functions and the disturbances which can affect their functions.", 
+        "sentence_id,": "8a7c3ccf6e"
+    }, 
+    {
+        "sentence": "The natures of threats highlight the importance of cooperation as well as efficient and flexible coordination.", 
+        "sentence_id,": "837299ec03"
+    }, 
+    {
+        "sentence": "National cyber resilience will be tailored to ensure the preparedness and predictive capabilities required by the goals and to facilitate its operating capability during cyber conflicts and postconflict recovery.", 
+        "sentence_id,": "54f6282823"
+    }, 
+    {
+        "sentence": "Cyber security is a significant part of the comprehensive security of society.", 
+        "sentence_id,": "18df77c4a4"
+    }, 
+    {
+        "sentence": "The approach for the implementation of the national cyber strategic plan is based on the set of goals for cyber security.", 
+        "sentence_id,": "692c3165be"
+    }, 
+    {
+        "sentence": "Cyber Security relies on the information security preparedness of the whole nation.", 
+        "sentence_id,": "edb5c5cc9d"
+    }, 
+    {
+        "sentence": "The implementation of a CIIP framework will help in protecting the national critical information infrastructures.", 
+        "sentence_id,": "c34e314ea3"
+    }, 
+    {
+        "sentence": "This will also include developing and offering expertise and advice, support and implement responses to threats or incidents and strengthen crisis management.", 
+        "sentence_id,": "a3ead559a2"
+    }, 
+    {
+        "sentence": "The methodology for the implementation of national cyber strategic action plan is established on efficient and comprehensive collection of information, an analysis and gathering system along with common and shared situation awareness, national and international cooperation in preparedness.", 
+        "sentence_id,": "0a48a85a4b"
+    }, 
+    {
+        "sentence": "This requires the establishment of an AntiCyber Threat Monitoring System which will aid to better respond, monitor and coordinate cyber threats at national level by operating on a 24/7 basis.", 
+        "sentence_id,": "ccf92755a9"
+    }, 
+    {
+        "sentence": "Cyber security is being constructed to meet its functional and technical requirements.", 
+        "sentence_id,": "2f450145a3"
+    }, 
+    {
+        "sentence": "A comprehensive framework will be set up to monitor Internet traffic which might be harmful to the nation and society.", 
+        "sentence_id,": "faeb0ad63d"
+    }, 
+    {
+        "sentence": "In order to ensure cyber security development, Mauritius will see to it that appropriate legislations and incentives exist to support the business activities and their development in this field.", 
+        "sentence_id,": "2a24151da9"
+    }, 
+    {
+        "sentence": "3.2 Proposed Governance Structure To enable a collaborative working of all key players in public and private sector to safeguard the countrys information infrastructure, a partnership of government, corporate and private stakeholders is important and will lead to the success of the implementation of the strategy.", 
+        "sentence_id,": "2f1d93e2ea"
+    }, 
+    {
+        "sentence": "An effective public-private partnership for cyber security would provide the abilities to identify threats, anomalous behaviours, respond to them and will create a more secure network environment through better standardized security programs.", 
+        "sentence_id,": "a62f9d1eea"
+    }, 
+    {
+        "sentence": "This partnership will also set a stage to carry out research and development and find ways to mitigate security threats.", 
+        "sentence_id,": "8be30466c5"
+    }, 
+    {
+        "sentence": "Finally, this will also help to empower stakeholders to properly address cyber threats.", 
+        "sentence_id,": "bbbc6e7d99"
+    }, 
+    {
+        "sentence": "9|Page Republic of Mauritius - National Cyber Security Strategy Stakeholders and their Roles The different stakeholders and their roles towards this collaborative framework are described below: Stakeholders Ministry of ICT National Cyber Security Committee Roles Acts as the Project owner and is responsible for settingup of the necessary legal framework for strategy implementation.", 
+        "sentence_id,": "7cef0894cd"
+    }, 
+    {
+        "sentence": "The National Cyber Security Committee acts as the decision making body and will include representatives from the MICT, National CERT (CERT-MU), Law Enforcement and Regulatory Bodies, Critical Sectors, PMO, Data Protection Office, Vendors & Private sectors and Academia to oversee and monitor the implementation of the strategy.", 
+        "sentence_id,": "3330a1627d"
+    }, 
+    {
+        "sentence": "The role of the National Cyber Security Committee will be to: National CERT Lead activities associated with developing and managing national CIIP efforts, including coordinating policy development, outreach and awareness, risk assessment and management efforts, funding and support for the CIIP program efforts.", 
+        "sentence_id,": "95faf05adf"
+    }, 
+    {
+        "sentence": "Serve as an important escalation functions for resolving important issues and emergencies.", 
+        "sentence_id,": "4032ff5f27"
+    }, 
+    {
+        "sentence": "The National CERT (CERT-MU), a division of the National Computer Board is the advisory body for information security issues in the country.", 
+        "sentence_id,": "045c2f7a88"
+    }, 
+    {
+        "sentence": "The responsibilities of the National CERT will be: 10 | P a g e To implement the outputs generated from the cybersecurity committee.", 
+        "sentence_id,": "11814600f3"
+    }, 
+    {
+        "sentence": "To handle and coordinate cyber security incidents.", 
+        "sentence_id,": "48f5857d47"
+    }, 
+    {
+        "sentence": "To monitor and analyse the information security situation at national level.", 
+        "sentence_id,": "1485c50368"
+    }, 
+    {
+        "sentence": "To prevent occurrence and recurrence of cyber incidents by developing incentives for cyber security compliance and proactive actions To promote the adoption of best practices in information security and compliance.", 
+        "sentence_id,": "201d867fb9"
+    }, 
+    {
+        "sentence": "Republic of Mauritius - National Cyber Security Strategy Law Enforcement To interact with government agencies, industry, the research community, and others to analyse cyber threats and vulnerabilities, disseminate reasoned and actionable cyber security information such as mitigations to the public.", 
+        "sentence_id,": "cb4f0ccf38"
+    }, 
+    {
+        "sentence": "Law Enforcement will be represented by members of the Police.", 
+        "sentence_id,": "f5a8fd5176"
+    }, 
+    {
+        "sentence": "Their roles will be to: Regulatory Bodies Critical Sectors Enable effective prevention, investigation, and prosecution of various aspects of cybercrime that intend to steal information or compromise the integrity of critical operations.", 
+        "sentence_id,": "2cb2707fff"
+    }, 
+    {
+        "sentence": "The Regulatory bodies shall include the ICTA, IBA and the Bank of Mauritius (the financial sector regulator).", 
+        "sentence_id,": "ae1df64469"
+    }, 
+    {
+        "sentence": "The roles of the regulatory bodies will be to: Establish, control, inspect and enforce regulations with regard to cyber security Encourage organisations to adopt security best practices and guidelines The critical sectors will include members from different the financial services (FSC, MRA), Tourism (MTPA), CEB, CWA, ICT & Broadcasting, Health (MIH), Government Services (GOC, CISD), Manufacturing (MEXA), Transport & Logistics (AML, MPA), Sugar (MSA) and Customs (MRA).", 
+        "sentence_id,": "b5fd64b4a4"
+    }, 
+    {
+        "sentence": "The role of the critical sectors will be to facilitate identification, prioritization, assessment and protection of critical information infrastructure through information sharing and reporting.", 
+        "sentence_id,": "d2f6767855"
+    }, 
+    {
+        "sentence": "Prime Ministers Office (PMO) The Representatives of the PMO would be the PMO Security Division and Counter Terrorism Unit.", 
+        "sentence_id,": "e81286c5e2"
+    }, 
+    {
+        "sentence": "Their roles will be to advise and support the implementation of the strategy geared towards protecting Mauritius from cyber threats and attacks.", 
+        "sentence_id,": "563e6ef9a4"
+    }, 
+    {
+        "sentence": "IT Security Unit The IT Security Unit will establish IT Security best practices and promote implementation of information security standards within the Civil Service.", 
+        "sentence_id,": "f361777d6e"
+    }, 
+    {
+        "sentence": "The Data Protection Office will act as the advisory body on data protection and privacy issues.", 
+        "sentence_id,": "992ed7f857"
+    }, 
+    {
+        "sentence": "Data Protection Office 11 | P a g e Republic of Mauritius - National Cyber Security Strategy Academia Academia will consist of members from the Tertiary Education Commission, the Universities and Tertiary Education Institutions.", 
+        "sentence_id,": "e3306b53ac"
+    }, 
+    {
+        "sentence": "The roles of the academia will be to: Vendors and Private Sectors Vendors & Private Sectors will be represented through respective Associations.", 
+        "sentence_id,": "237b9d8bf2"
+    }, 
+    {
+        "sentence": "STRATEGIC GUIDELINES FOR CYBER SECURITY A national cyber security strategy is established in line with the strategic guidelines.", 
+        "sentence_id,": "9d40cf0b25"
+    }, 
+    {
+        "sentence": "This will create the conditions for the realization of the national cyber security vision.", 
+        "sentence_id,": "296d91ee60"
+    }, 
+    {
+        "sentence": "A separately prepared action plan will outline the measures to achieve the national cyber security goals.", 
+        "sentence_id,": "c48e201d5a"
+    }, 
+    {
+        "sentence": "The implementation of the strategic guidelines will reinforce national and international cooperation.", 
+        "sentence_id,": "e0ae289e25"
+    }, 
+    {
+        "sentence": "Such collaboration can best serve the whole society and support the stakeholders who play a significant role in the cyber security community.", 
+        "sentence_id,": "211e9909a4"
+    }, 
+    {
+        "sentence": "Cyber security is constructed on capabilities development over the long term, their convenience and flexible use and the resilience of societys key functions against the disturbances in cyber security.", 
+        "sentence_id,": "e47d352f85"
+    }, 
+    {
+        "sentence": "Strategic Guidelines Guidelines a To secure our Cyberspace and establish a front line of defense against Cybercrime This initiative is aimed at building an approach to cyber defense strategy that prevents interference and attack in cyberspace by improving capabilities, articulating roles and developing appropriate responses for public and private sector.", 
+        "sentence_id,": "cce17e7027"
+    }, 
+    {
+        "sentence": "By creating or enhancing shared situational awareness of network vulnerabilities, threats and events and the ability to act quickly to reduce our current vulnerabilities and prevent intrusions can help in securing our cyberspace.", 
+        "sentence_id,": "bb20b9b475"
+    }, 
+    {
+        "sentence": "Additionally, this strategic guideline also emphasizes on enhancing the capacity of law enforcement agencies to investigate and prosecute cybercrime.", 
+        "sentence_id,": "baf18a933a"
+    }, 
+    {
+        "sentence": "Cyber defense against cybercrime will be exercised and developed together through international cooperation and the exchange of information.", 
+        "sentence_id,": "ede4ae900b"
+    }, 
+    {
+        "sentence": "b To enhance our resilience to Cyber Attacks and be able to defend against the full spectrum of threats The strategic guidelines of the National Cyber Security Strategy are advanced by intensifying efforts to protect the critical infrastructure and networks in order to provide reasonable assurance of resilience and security to support national missions and economic stability.", 
+        "sentence_id,": "57b25973ca"
+    }, 
+    {
+        "sentence": "The well-being of the national economy, security and quality of life is becoming increasingly dependent on the safety and the robustness of critical infrastructures whose disruptions can affect a nations ability to function effectively in crisis.", 
+        "sentence_id,": "40baf1f7ca"
+    }, 
+    {
+        "sentence": "Key importance is being given to government information infrastructure & systems which will be protected against cyber threats through security audits and implementation of national and international Information Security standards.", 
+        "sentence_id,": "9253c3116c"
+    }, 
+    {
+        "sentence": "The goal is to detect and identify any disturbances to the vital functions and to respond to them in a manner which minimizes their detrimental effects.", 
+        "sentence_id,": "a22d55d6ee"
+    }, 
+    {
+        "sentence": "14 | P a g e Republic of Mauritius - National Cyber Security Strategy c To develop an efficient collaborative model between the authorities and the business community for the purpose of advancing National Cyber Security and Cyber Defense The strategic guidelines of the Cyber Security Strategy are reinforced by strengthening active collaboration between actors whose aim is to achieve a shared situation awareness and effective defense against the cyber threats.", 
+        "sentence_id,": "f41e6fb588"
+    }, 
+    {
+        "sentence": "A common set of criteria will be created to facilitate identification of critical IT infrastructures and systems.", 
+        "sentence_id,": "e6c999bef8"
+    }, 
+    {
+        "sentence": "A method will be devised for risk and vulnerability assessments.", 
+        "sentence_id,": "101231f2ea"
+    }, 
+    {
+        "sentence": "Cyber defense will be advanced by promoting the exchange of information and regulations as well as through cooperation between the authorities and the business community.", 
+        "sentence_id,": "79491eb76c"
+    }, 
+    {
+        "sentence": "d To improve the Cyber Expertise and the comprehensive Cyber Security Awareness of all societal actors Encouraging a cadre of cyber security professionals and building capacity to deter and defend against high-end threats In a secure information society, everyone must be aware of the information security risks of their actions and their responsibility in preventing those risks.", 
+        "sentence_id,": "c645fb9879"
+    }, 
+    {
+        "sentence": "This strategy is intended to raise the level of competence by investing in the expertise of information security professionals and in the general awareness of information security of all actors.", 
+        "sentence_id,": "17743293b3"
+    }, 
+    {
+        "sentence": "To continuously improve the competence and awareness of the actors, inputs will be made to promote the development of a cadre of skilled cyber security professionals and capacity building so that Mauritius can retain an edge in this area and development to keep producing innovative solutions operations in cyberspace.", 
+        "sentence_id,": "e07aaa269e"
+    }, 
+    {
+        "sentence": "By promoting awareness of the need for cyber security, the Strategy will encourage individuals, Industry and all levels of government to adapt behaviour and adopt the technology required to confront evolving cyber threats.", 
+        "sentence_id,": "164287cfc3"
+    }, 
+    {
+        "sentence": "The cooperation between industry and academia on knowledge sharing in information security areas will also be promoted by holding regular annual conferences on information security targeting major players and participants in the region.", 
+        "sentence_id,": "7cfef31267"
+    }, 
+    {
+        "sentence": "IMPORTANCE OF THE NATIONAL CYBER SECURITY STRATEGY AND ACTION PLAN The ICT sector is influencing the lives of people through direct or indirect contribution to the various socio-economic parameters such as employment and standard of living.", 
+        "sentence_id,": "325679f720"
+    }, 
+    {
+        "sentence": "It is playing a significant role in transforming Mauritius into a cyber-hub in the African region.", 
+        "sentence_id,": "40859fb13c"
+    }, 
+    {
+        "sentence": "The Government has also been a key driver for increased adoption and promotion of IT based 15 | P a g e Republic of Mauritius - National Cyber Security Strategy products and IT enabled services in the public services (e-Government services to citizens), education (e-learning, virtual classrooms) and financial services (mobile banking, Internet banking).", 
+        "sentence_id,": "89bd94cb6d"
+    }, 
+    {
+        "sentence": "Such initiatives have enabled increased IT adoption in the country.", 
+        "sentence_id,": "92e9be0c76"
+    }, 
+    {
+        "sentence": "In the light of the growth of the ICT sector in Mauritius, providing the right focus for creating a secure computing environment has become one of the compelling priorities for the country.", 
+        "sentence_id,": "7d38499d67"
+    }, 
+    {
+        "sentence": "Cyber space is vulnerable to a wide variety of incidents which could hamper economic, public health, safety and national security activities.", 
+        "sentence_id,": "25dcaa7d2c"
+    }, 
+    {
+        "sentence": "Reputation, trust and brand value can all be seriously affected by information loss and theft.", 
+        "sentence_id,": "7a4f602be7"
+    }, 
+    {
+        "sentence": "However, with rapid identification, information exchange, investigation and coordinated response and remediation, the damaged caused by malicious activities can be mitigated.", 
+        "sentence_id,": "2acd9ebfef"
+    }, 
+    {
+        "sentence": "The protection of information infrastructure and preservation of the confidentiality, integrity and availability of information is the essence of a secure cyberspace.", 
+        "sentence_id,": "e752019f5c"
+    }, 
+    {
+        "sentence": "Due to the dynamic nature of the cyberspace, there is a need to address the security challenges and issues.", 
+        "sentence_id,": "6f7072025f"
+    }, 
+    {
+        "sentence": "These actions are unified under a National Cyber Security Strategy which sets out guidelines, measures and action plans that will provide reasonable assurance of resilience and security to support national missions and economic stability.", 
+        "sentence_id,": "b325925289"
+    }, 
+    {
+        "sentence": "A secure society makes it easier for both individuals and businesses to plan their activities, which in turn boosts economic activity as well as improve the countrys appeal for international investors.", 
+        "sentence_id,": "cb73fc95a5"
+    }, 
+    {
+        "sentence": "NATIONAL CYBER SECURITY STRATEGIC ACTION PLAN 2014 - 2019 GOAL 1: TO SECURE OUR CYBERSPACE AND ESTABLISH A FRONT LINE OF DEFENSE AGAINST CYBER CRIME Approach Tackling cyber security Reducing online vulnerability Limiting criminal activity online Stimulating more effective partnerships Making it safer to do business in cyberspace Increasing awareness and visibility of threats Improving Incident Response Protecting Information and Services Fostering a culture that manages the risks Promoting confidence in cyberspace 1 Project Code CS1P11 CS1P2 CS1P3 CS1P4 CS1P5 Project Name Description Setting up of a Cyber Threat Monitoring System To better respond, monitor and coordinate cyber threats at national level.", 
+        "sentence_id,": "0cd502775c"
+    }, 
+    {
+        "sentence": "It will also include a cyber-forensics lab for carrying out forensic activities.", 
+        "sentence_id,": "9008eec0ac"
+    }, 
+    {
+        "sentence": "Setting up of a content filtering system to block illicit materials on ICT devices For controlling and blocking access to age-sensitive content on mobile devices.", 
+        "sentence_id,": "ed962da805"
+    }, 
+    {
+        "sentence": "Establish a mechanism for the removal of illegal contents This mechanism will help to remove online illegal child content after it has been identified.", 
+        "sentence_id,": "c84e545254"
+    }, 
+    {
+        "sentence": "Conducting Cyber Security Drills To conduct regular cyber security drills and exercises at national and organizational level to evaluate the security posture and level of emergency preparedness in resisting and dealing with cyber security incidents.", 
+        "sentence_id,": "a7e0e4d94b"
+    }, 
+    {
+        "sentence": "To develop new training, giving more capability to understand and investigate cybersecurity.", 
+        "sentence_id,": "48127ab40b"
+    }, 
+    {
+        "sentence": "Enhance Law Enforcement capability on cybersecurity CS1P1 Cyber Security Strategic Goal 1 Project 1 18 | P a g e Lead CERT-MU MICT CERT-MU CERT-MU ITSU POLICE Stakeholder(s) Priority End Date High Start Date 2014 MICT ICTA ITSU DPO POLICE PMO ISPs MICT CERT-MU ICTA ISPs DPO POLICE ITSU MICT ICTA POLICE MOGECFW NGOs High 2015 2016 High 2015 2016 High 2015 2017 High 2015 2019 2016 MICT ICTA POLICE CRITICAL SECTORS MICT SLO CERT-MU ICTA Republic of Mauritius - National Cyber Security Strategy CS1P6 CS1P7 CS1P8 International and Regional Cooperation on cybercrime Enhance the security of cyberspace Legal Framework Assessment To incorporate electronic evidence and introductory cybercrime training within the curriculum for law enforcement agencies.", 
+        "sentence_id,": "cd8e0f3cca"
+    }, 
+    {
+        "sentence": "To include training on cybercrime and electronic evidence for all new police recruits.", 
+        "sentence_id,": "daf56d75a6"
+    }, 
+    {
+        "sentence": "To promote greater levels of cooperation regionally and internationally and shared understanding on cyber-crime.", 
+        "sentence_id,": "8fa2e163e8"
+    }, 
+    {
+        "sentence": "To develop effective public private partnership and collaborative engagement through technical and operational cooperation between authorities and business community.", 
+        "sentence_id,": "ca428980e6"
+    }, 
+    {
+        "sentence": "19 | P a g e To develop a dynamic legal framework and its periodic review to address cyber security challenges arising out of technological developments in cyber space and its harmonization with international frameworks.", 
+        "sentence_id,": "34da83286d"
+    }, 
+    {
+        "sentence": "To introduce in the law the possibility to intercept communications on real- DPO CERT-MU CERT-MU MICT MICT ICTA ITSU DPO POLICE MOFARIIT High MICT ICTA ITSU DPO POLICE PMO ISPs CRITICAL SECTORS High 2014 2019 High 2014 2016 CERT-MU SLO ICTA ITSU DPO POLICE ISPs Ongoing Republic of Mauritius - National Cyber Security Strategy time and to retain traffic data for a specific period of time.", 
+        "sentence_id,": "f161ff6f5c"
+    }, 
+    {
+        "sentence": "GOAL 2: TO ENHANCE OUR RESILIENCE TO CYBER ATTACKS AND BE ABLE TO DEFEND AGAINST THE FULL SPECTRUM OF THREATS Approach Defending our national infrastructure from cyber attacks Reinforcing defenses in cyber space Improving resilience and reducing the impact of cyber attacks Project Code CS2P1 CS2P2 Ensuring that Mauritius has the capability to protect our interests in cyber space Improving our ability to detect threats in cyber space Increasing our capability to prevent and disrupt attacks on Mauritius 20 | P a g e CS2P3 CS2P4 Project Name Develop and Implement a CIIP Framework Development and Implementation of a Cyber Crisis Management Plan Provision for Fiscal Schemes and Incentives Creation of a national testbed for network security Description To protect the national critical information infrastructures and setting up of sectoral CERTs to coordinate and communicate actions within respective sectors for effective incident response and resolution and cyber crisis management.", 
+        "sentence_id,": "29f3584cd9"
+    }, 
+    {
+        "sentence": "To enable organisations to respond to cyber incidents and assess the preparedness of organisations to withstand cyberattacks.", 
+        "sentence_id,": "fd2c3fe45a"
+    }, 
+    {
+        "sentence": "To encourage organisations to install, reinforce and upgrade information infrastructure with regard to cyber security.", 
+        "sentence_id,": "3e34e5a8f4"
+    }, 
+    {
+        "sentence": "To provide a secure and resilient infrastructure by encouraging all organizations to periodically test and evaluate the adequacy and effectiveness of technical and operational security control measures implemented in IT systems and networks.", 
+        "sentence_id,": "c52cd72457"
+    }, 
+    {
+        "sentence": "Lead CERT-MU CERT-MU CERT-MU MICT MOFED Stakeholder(s) Priority High Start Date 2014 End Date 2015 MICT ICTA ISPs CRITICAL SECTORS DPO MITIA POLICE ITSU PRIVATE SECTORS ITSU ICTA DPO PMO ISPs CRITICAL SECTOR POLICE MICT MOFED SMEDA MOBEC CERT-MU ITSU ISPs VENDORS ACADEMIA CRITICAL SECTORS CISD High 2015 2018 Medium 2016 2017 Medium 2016 2019 Republic of Mauritius - National Cyber Security Strategy CS2P5 Adoption of a Cyber Security Controls Scheme for protection against cyber threats To mandate the implementation and accreditation of a Cyber Security Controls Scheme within organisations.", 
+        "sentence_id,": "5675fc7169"
+    }, 
+    {
+        "sentence": "This will provide the basic but essential level of protection within organizations IT systems in order to mitigate the risks emanating from cyber threats.", 
+        "sentence_id,": "994932536a"
+    }, 
+    {
+        "sentence": "CERT-MU MICT ITSU MOFED SMEDA MOBEC MSB High 2015 2019 GOAL 3: DEVELOP AN EFFICIENT COLLABORATIVE MODEL BETWEEN THE AUTHORITIES AND THE BUSINESS COMMUNITY FOR THE PURPOSE OF ADVANCING CYBER SECURITY Approach Helping to shape the development of cyber space Promoting an open and interoperable cyberspace Protecting our way of life Ensuring security without compromising our values Project Code CS3P1 CS3P2 CS3P3 CS3P4 CS3P5 21 | P a g e Project Name Description Promote Information Risk Management at National level To promote Information Risk Management using standard frameworks such as NISTs Framework for Cybersecurity within public and private sector.", 
+        "sentence_id,": "8b0ee00f0d"
+    }, 
+    {
+        "sentence": "To encourage secure software development processes based on global best practices.", 
+        "sentence_id,": "04e47991b7"
+    }, 
+    {
+        "sentence": "To encourage all organisations, private and public to designate member of a senior management as Chief Information Security Officer, IS Consultants, Information Security Experts responsible for security efforts and initiatives.", 
+        "sentence_id,": "6e69292cb2"
+    }, 
+    {
+        "sentence": "ISMS to be implemented for Ministries and Departments with Critical Information Systems Promote the universal adoption of Information Security standards at National level Promote Secure software Development Promote the designation of a Senior Information Security Personnel (CISO, IS Consultants, Information Security Experts) within organisations Promote the implementation of Information Security Standards in the Civil Service Lead Stakeholder(s) CERT-MU ITSU RISK MGT FIRMS CERT-MU CERT-MU CERT-MU ITSU & Line Ministries MSB ITSU SGS MICT ACADEMIA MITIA Priority High Start End Date Date Ongoing Medium Ongoing High 2015 2018 Medium 2017 2019 High 2014 2019 APPLICABLE TO ALL SECTORS MICT CIB CISD Republic of Mauritius - National Cyber Security Strategy CS3P6 CS3P7 To promote e-Government initiatives and ensure conformance to security best practices.", 
+        "sentence_id,": "a5ef4b2734"
+    }, 
+    {
+        "sentence": "Adoption of guidelines for procurement of ICT products To mandate the implementation of global security best practices, business continuity management and cyber crisis management plan for all e-Government initiatives to decrease the risk of disruption and improve the security posture.", 
+        "sentence_id,": "1c98a276bc"
+    }, 
+    {
+        "sentence": "To encourage organisations to adopt guidelines to procure trustworthy ICT products and provide the procurement of manufactured ICT products that have security implications.", 
+        "sentence_id,": "906da43fed"
+    }, 
+    {
+        "sentence": "MICT CERT-MU ITSU GOC CIB CISD High 2014 2019 MICT CERT-MU ITSU CIB CISD PUBLIC PROCUREMENT OFFICE MRA Ministry of Industry, Commerce & Consumer Protection Medium 2017 2019 High 2014 2016 MICT CERT-MU ITSU SLO ICTA CIB MOFED DPO BANK OF MAURITIUS Medium 2017 2019 CERT-MU MICT ITSU ACADEMIA MRC Industry Associations Line Ministries/ Department ICTA CS3P8 CS3P9 22 | P a g e Conducting mandatory Information Security Audit Collaboration with industry for research and development To make security audit mandatory on a periodic basis for assessing the organisations security posture, including critical information infrastructure.", 
+        "sentence_id,": "396f982068"
+    }, 
+    {
+        "sentence": "To collaborate jointly with industry and academia to support the application of research for building innovative cyber security solutions and enhance our technical capabilities to support our national security interests and Republic of Mauritius - National Cyber Security Strategy wider economic prosperity.", 
+        "sentence_id,": "c290cc5420"
+    }, 
+    {
+        "sentence": "CS3P10 To establish a collaborative framework with vendors and service providers to improve the visibility of the integrity of ICT products and testing and validating the security of such products.", 
+        "sentence_id,": "1639fc3bbb"
+    }, 
+    {
+        "sentence": "To enlarge and strengthen the cyber security research community by formalising the coordination and prioritisation of cyber security research and development activities.", 
+        "sentence_id,": "a3c7ed60c0"
+    }, 
+    {
+        "sentence": "To foster trusted relationships with product/system vendors and service providers for improving end-to-end supply chain security visibility.", 
+        "sentence_id,": "686d79fc5b"
+    }, 
+    {
+        "sentence": "To encourage a consortium of Government and private sector to enhance the availability of tested and certified IT products based on open standards.", 
+        "sentence_id,": "ee5a43ec7a"
+    }, 
+    {
+        "sentence": "ICTA MICT ITSU CERT-MU Industry Associations MICCP PROCUREMENT OFFICE MINISTRY OF INDUSTRY & COMMERCE 2017 2019 Medium GOAL 4: TO IMPROVE THE CYBER EXPERTISE AND THE COMPREHENSIVE CYBER SECURITY EDUCATION & AWARENESS OF ALL SOCIETAL ACTORS Approach Project Project Name Actions to Include Lead Stakeholder(s) Priority Start End Code Date Date Promote security To promote security certifications MICT Medium 2016 2019 Extending knowledge CS4P1 certifications and trainings from organisations such as ECITSU Building a from renowned Council, OWASP, ISC2, SANS ICTA coherent crossInternational organisations amongst others can be considered ACADEMIA CERT-MU sector agenda for security professionals.", 
+        "sentence_id,": "afc0e9328b"
+    }, 
+    {
+        "sentence": "INDUSTRY Deepening ASSOCIATIONS understanding of the threats, Establish cyber security To establish cyber security training Medium 2016 2019 vulnerabilities and CS4P2 MICT training programmes for programmes for SMEs.", 
+        "sentence_id,": "2b4cf19026"
+    }, 
+    {
+        "sentence": "This will risks MINISTRY OF NCB SMEs help to foster a culture of (CERT-MU) Enhancing skills BUSINESS information security within the Building a culture ENTERPRISE SMEDA SME sector.", 
+        "sentence_id,": "8ec83b9c40"
+    }, 
+    {
+        "sentence": "that makes people INDUSTRY 23 | P a g e Republic of Mauritius - National Cyber Security Strategy understand risks and enable them to use cyberspace securely.", 
+        "sentence_id,": "45e81c4c24"
+    }, 
+    {
+        "sentence": "Expanding capability Building technical capabilities Increasing ability to respond to incidents ASSOCIATION ICTA CS4P3 CS4P4 CS4P5 24 | P a g e Cyber Security Education To improve educational involvement with cyber security at all levels (primary, secondary and tertiary) through curriculum development and research.", 
+        "sentence_id,": "5c2fd709dc"
+    }, 
+    {
+        "sentence": "Cyber Security Awareness in Civil Service To improve Cyber Security Awareness and Education in Civil Service Organisation of International Cyber Security annual events To hold regular annual conferences on information security targeting major players and participants in the region.", 
+        "sentence_id,": "d97595b9c3"
+    }, 
+    {
+        "sentence": "TEC MOE/HR ITSU MICT MICT CERT-MU ICTA ITSU POLICE DEPT High 2014 2019 High 2014 2019 Medium 2015 2019 MICT MCSAR CERT-MU ICTA", 
+        "sentence_id,": "67bef1c207"
+    }
+]

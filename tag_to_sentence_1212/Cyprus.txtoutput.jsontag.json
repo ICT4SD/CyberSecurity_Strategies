@@ -1,0 +1,254 @@
+[
+    {
+        "sentence_id,": "537edebe96", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "the development of strategy and policy within a framework of cooperation between all competent authorities, taking into account the competences of each governmental stakeholder, ."
+    }, 
+    {
+        "sentence_id,": "9cd1eabdcf", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "STRATEGIC CONTEXT 2.1 European Policy Security matters form an important pillar of the Digital Agenda for Europe, and this specific European policy covers a number of important topics related to network and information security."
+    }, 
+    {
+        "sentence_id,": "d768cbba2e", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "This organisation is headquartered in Herakleion, Crete and it develops pan-European and international actions in the area of network and information security, helping the application of European policy, the dissemination of information and best practices, the harmonisation and coordination of common actions, the organisation and execution of European and international cyber exercises and also international cooperation and coordination."
+    }, 
+    {
+        "sentence_id,": "81e41e3fe7", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The Council, during its recent meetings, has examined policy and the actions to follow, including the preparation of new Directives in the area of security and especially for Critical Information Infrastructure Protection (CIIP)."
+    }, 
+    {
+        "sentence_id,": "c8fde42699", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Towards this end, a number of specific actions and policies have been promoted on the national level: 2 Based on the provisions of the legislation that pervades its operations, OCECPR is responsible for the security of electronic communications infrastructures, as well as for the information that is transmitted through or stored within them."
+    }, 
+    {
+        "sentence_id,": "77dee888a9", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "3 Policy Document on Network and Information security 2006 4 Policy Document on the Formation of Emergency Response Teams for Incidents related to Network and Information Security (CSIRT/CERT) 2010 (a) In 2006, the Ministry of Communications and Works (MCW) approved a policy document3, through which a number of specific actions in the area of network and information security are promoted, via OCECPR: the formation of Computer Emergency Response Teams (CERTs / CSIRTs), the creating of an institutional framework for the security and integrity of information infrastructures, and the raising of awareness of all stakeholders and Cypriot society about relevant security matters."
+    }, 
+    {
+        "sentence_id,": "51974be879", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "(b) In 2010, upon recommendations by OCECPR which were received favourably by ENISA, MCW also approved a detailed policy document4 regarding the operation of a governmental and an academic CERT."
+    }, 
+    {
+        "sentence_id,": "478be28bc6", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "2.3 Competent/Related Authorities and Observers of the Republic of Cyprus Beyond the policies and actions that are mentioned in section 2.2, there are a number of authorities within the Republic of Cyprus that are active in the security of networks, services, information technology systems and information itself, in addition to having direct or indirect input on critical security matters."
+    }, 
+    {
+        "sentence_id,": "6786144469", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "As a result of this, and in tandem with pushing forward with the immediate priorities based on current urgent national and European commitments and needs of the Republic of Cyprus, OCECPR, in cooperation with the other competent authorities in the Republic, will study and submit recommendations regarding new policy for its reorganisation to the Minister of Communications and Works, so that it will be in a position to fully coordinate the very large volume of work associated with the areas of network and information security and cybersecurity."
+    }, 
+    {
+        "sentence_id,": "eb58dea8a9", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Action 2 - Phase A OCECPR will, at the appropriate time and in cooperation with the other competent authorities, develop a report regarding new policy for its reorganisation, so that it will be in a position to fully coordinate the efforts of the Republic of Cyprus for optimum implementation, application and supervision of all of the actions and the effective response to threats that are prevalent in cyberspace today, as well as rising threats that will appear in the future."
+    }, 
+    {
+        "sentence_id,": "7687302239", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "International cooperation with other member states of the European Union, as well as third countries, will be required in the areas of network and information security and the protection of critical information infrastructures."
+    }, 
+    {
+        "sentence_id,": "200124ca3d", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "This framework must be developed based on international security standards and include the following (among others): ."
+    }, 
+    {
+        "sentence_id,": "295ab5932a", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "Given the target of integrating Cypriot CERTs/CSIRTs into these cooperation mechanisms, their full functionality must be ensured so that they may gain the necessary certifications to allow their participated in relevant European working groups."
+    }, 
+    {
+        "sentence_id,": "2225163d60", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "Necessary certifications and memberships will be obtained to allow their participation in relevant European working groups."
+    }, 
+    {
+        "sentence_id,": "35a373aeff", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "Identification of appropriate (and available) training programmes and certifications, ."
+    }, 
+    {
+        "sentence_id,": "583bbb46a3", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "Inclusion of relevant certifications and experience into job descriptions that relate to electronic security, ."
+    }, 
+    {
+        "sentence_id,": "51b9c2af1c", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "Action 13 - Phase B Development of suitable human resources that will have the necessary technical know-how and certifications to implement the provisions of this Strategy to a high level, in the mid- and long-term, and inclusion of these skills and certifications into the job descriptions for related positions."
+    }, 
+    {
+        "sentence_id,": "e4fa2061c4", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Action 15 International Cooperation ."
+    }, 
+    {
+        "sentence_id,": "8a265c9fbf", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "....................................................................................................................................................... 17 Action 2 - Phase A OCECPR will, at the appropriate time and in cooperation with the other competent authorities, develop a report regarding new policy for its reorganisation, so that it will be in a position to fully coordinate the efforts of the Republic of Cyprus for optimum implementation, application and supervision of all of the actions and the effective response to threats that are prevalent in cyberspace today, as well as rising threats that will appear in the future."
+    }, 
+    {
+        "sentence_id,": "e1fd3c9d28", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "Necessary certifications and memberships will be obtained to allow their participation in relevant European working groups."
+    }, 
+    {
+        "sentence_id,": "d9dd98d795", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "...... 24 Action 13 - Phase B Development of suitable human resources that will have the necessary technical know- how and certifications to implement the provisions of this Strategy to a high level, in the mid- and long-term, and inclusion of these skills and certifications into the job descriptions for related positions."
+    }
+]

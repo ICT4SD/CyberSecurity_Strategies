@@ -1,0 +1,297 @@
+[
+    {
+        "sentence_id,": "d0d52732ab", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }, 
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Logo Republik sterreich Logo Bundeskanzleramt sterreich Logo Republik sterreich, Bundesministerium fr Inneres Logo Bundesministerium fr europische und internationale Angelegenheiten Austrian Cyber Security Strategy Vienna, 2013 Publishing information: Media owner, publisher, editor: Federal Chancellery of the Republic of Austria Department IV - Coordination Division IV/6 Security Policy Affairs Ballhausplatz 2, 1014 Vienna Graphic design: Federal Chancellery | ARGE Grafik Printing: BM.I Digitalprintcenter Vienna, March 2013 Table of Contents 1 Introduction 4 2 Opportunities and risks in cyber space 6 3 Principles 7 4 Strategic goals 9 5 Fields of action and measures 10 Field of action 1 structures and processes 10 Field of action 2 - governance 12 Field of action 3 - cooperation between the government, economy and society 12 Field of action 4 protection of critical infrastructures 14 Field of action 5 awareness raising and training 14 Field of action 6 research and development 15 Field of action 7 international cooperation 16 6 Implementation 17 Annex 1 18 Annex 2 19 List of Abbreviations 19 Annex 3 20 Cyber Security Glossary 20 1 Introduction The digital revolution has been gaining ground in all spheres of life of the modern world."
+    }, 
+    {
+        "sentence_id,": "c28d87079f", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "3 Principles State-of-the-art cyber security policy is a cross-cutting issue which has to be taken into account in many spheres of life and policy."
+    }, 
+    {
+        "sentence_id,": "1becf28ea9", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "A comprehensive cyber security policy means that external and internal security as well as civilian and military security aspects are closely interlinked."
+    }, 
+    {
+        "sentence_id,": "dbe42f1084", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Cyber security goes beyond the purview of traditional security authorities and comprises instruments of numerous other policy areas."
+    }, 
+    {
+        "sentence_id,": "b94a5122b8", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "An integrated cyber security policy must place emphasis on task-sharing between the state, the economy, academia and the civil society."
+    }, 
+    {
+        "sentence_id,": "e2cc7e0816", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "An integrated cyber security policy has to be based on a cooperative approach both at national and international level."
+    }, 
+    {
+        "sentence_id,": "d764fb6911", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "A proactive cyber security policy means to work towards preventing threats to cyber space and the people in cyber space or mitigating their impact (configuring security)."
+    }, 
+    {
+        "sentence_id,": "ee4ce387bb", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "A cyber security policy based on solidarity takes account of the fact that due to the global nature of cyber space today the cyber security of Austria, the EU and the entire community of nations is interconnected very closely."
+    }, 
+    {
+        "sentence_id,": "635b4566d0", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "The following fundamental principles are in any case applicable to the area of cyber security: The rule of law: Governance in the area of cyber security has to meet the high standards of the rule of law of the Austrian administration and guarantee compliance with human rights, in particular privacy and data protection as well as the freedom of expression and the right to information."
+    }, 
+    {
+        "sentence_id,": "24bfe39e79", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards", 
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "Self-regulation: Efforts should in general be made to increase the level of protection through the actors own initiatives on the basis of code of conducts, standardisation and certification."
+    }, 
+    {
+        "sentence_id,": "0764f34b7c", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Based on these principles, a comprehensive and coherent cyber security policy is developed, which comprises all measures at national, European and international level to help shape cyber space in a positive way in the interest of the citizens, academia and the state, to prevent threats to cyber space and the people in cyber space from emerging or becoming effective (prevention) as well as to protect the legal asset cyber security against threats as well as to cope with them."
+    }, 
+    {
+        "sentence_id,": "2cce4ce04e", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Austria will play an active role in international cooperation at European and global level, particularly by exchanging information, formulating international strategies, developing voluntary schemes and legally binding regulations, prosecuting criminal cases, holding transnational exercises and conducting cooperation projects."
+    }, 
+    {
+        "sentence_id,": "6adb5a38a1", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "To avoid and prevent cyber crime as well as to facilitate operational international cooperation in this area, the role of the Cyber Crime Competence Center (C 4) of the Federal Ministry of the Interior will be enhanced."
+    }, 
+    {
+        "sentence_id,": "51d4853aca", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "6) Defining minimum standards Based on the interaction of all relevant stakeholders, minimum security standards must be defined to ensure effective prevention and to achieve a common understanding of current requirements."
+    }, 
+    {
+        "sentence_id,": "8089eae64d", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "The applicable norms, standards, codes of conducts, best practises and the like will be compiled in the Austrian Information Security Management Handbook, which will be updated regularly."
+    }, 
+    {
+        "sentence_id,": "9197b5a8df", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Moreover, cyber security standards should be defined for these enterprises based on a partnership approach."
+    }, 
+    {
+        "sentence_id,": "671a14a346", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "In joint projects, the relevant stakeholders in administration, economy and research will develop the conceptual framework and technological instruments to enhance Austrias cyber security standards."
+    }, 
+    {
+        "sentence_id,": "6eef50ac4b", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Field of action 7 international cooperation Objective: Global networking and international cooperation are key factors of the ACSS."
+    }, 
+    {
+        "sentence_id,": "920b5705e6", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Security in cyber space may be achieved only through a coordinated policy mix at national and international level."
+    }, 
+    {
+        "sentence_id,": "2a5f9b1887", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Austria will therefore engage in an active cyber foreign policy and pursue its interests in the framework of the EU, UN, OSCE, Council of Europe, OECD and NATO partnerships based on a coordinated and targeted approach."
+    }, 
+    {
+        "sentence_id,": "315a36ce79", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Furthermore, the international aspects of Austrias cyber policy will be coordinated consistently in other policy areas."
+    }, 
+    {
+        "sentence_id,": "21bad6c5cb", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Foreign policy measures relevant for cyber security are coordinated by the Federal Ministry for European and International Affairs."
+    }, 
+    {
+        "sentence_id,": "a2b6a018dd", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "SCADA) Manipulation ofcommunication and satellite connectionsIdentitytheft and manipulation ofcitizens id-dataBroken digitalsignature schemesDistributed denial of service attacksManipulationof GPS-time signalSystematic theft of digital identitiesSocial EngineeringManipulation ofenergy generationand supply IT-systemsManipulation of water supplysystems ITCyber espionage against the stateMissing strategic networkinfrastructure strategyMalicious softwareUnclear responsibility across governmental institutionsInadequateunderstanding ofthe cyber attack statusNo security sealof quality/auditsLack ofexpertsSocial networks and their manipulationIndustrial Cyber espionageUnknownIT-anomaliesIncomplete Cyber GovernanceVulnerability of IT- infrastructure againstnatural disastersManipuliated of unsecure hardwareCybercrimeCyberterrorism CyberwarFlawed and incompatible codes/softwareMissing focus on regulations for IT-securityNot enough incentives for security investmentsManipulation of cloud service systemsNo systematic technology impact assessmentLack of security awareness and standardsMissing or incomplete business continuity managementManipulation of trans- portation IT systems (air, train, road) Occurrence probabilityconsequencesvery lowdisastrousminimalconsiderableheavylowhighvery highNegligent behaviour of users in strategically important infrastructure providers Annex 2 List of Abbreviations ACI Austrian Critical Infrastructure / sterreichische kritische Infrastruktur ACSS Austrian Cyber Security Strategy / sterreichische Strategie fr Cyber Sicherheit (SCS) APCIP Austrian Programme for Critical Infrastructure Protection / sterreichisches Programm zum Schutz kritischer Infrastruktur A-SIT Secure Information Technology Centre - Austria / Zentrum fr sichere Informationstechnologie Austria ASS Austrian Security Strategy / sterreichischen Sicherheitsstrategie (SS) CERT Computer Emergency Response Team CERT.at Computer Emergency Response Team - Austria CII Critical Information Infrastructures / Kritische Informationsinfrastrukturen GovCERT Governmental Computer Emergency Response Team / Staatliches Computer Emergency Response Team ICT Information and communication technology MilCERT Military Computer Emergency Response Team / Militrisches Computer Emergency Response Team SCM Submission to the Council of Ministers / Ministerratsvortrag (MRV) SMEs Small and medium-sized enterprises PPP Public Private Partnership Annex 3 Cyber Security Glossary Awareness refers to the security awareness of all persons sharing responsibility for information security."
+    }, 
+    {
+        "sentence_id,": "5cffb1fa82", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Internet The Internet is a worldwide system of interconnected computers which applies the same protocol standard (TCP / IP Transmission Control Protocol / Internet Protocol) and is used by billions of people."
+    }
+]

@@ -1,0 +1,2378 @@
+[
+    {
+        "sentence": "PRIME MINISTER'S FOREWORD Singapore is an international centre of exchange and commerce.", 
+        "sentence_id,": "5c19ba5b00"
+    }, 
+    {
+        "sentence": "We must always be open to new technologies and know-how, in order to connect ideas, economies and cultures across the world.", 
+        "sentence_id,": "75ae6bd6c5"
+    }, 
+    {
+        "sentence": "Digitally, Singapore is one of the most connected nations in the world.", 
+        "sentence_id,": "a22b522977"
+    }, 
+    {
+        "sentence": "We have long embraced infocomm technologies for economic and social development.", 
+        "sentence_id,": "4113c7eab5"
+    }, 
+    {
+        "sentence": "Today, we have more phone lines than people.", 
+        "sentence_id,": "ebcc848dfd"
+    }, 
+    {
+        "sentence": "Almost all households have high-speed broadband Internet access.", 
+        "sentence_id,": "90b85b2dc2"
+    }, 
+    {
+        "sentence": "However, reliance on infocomm technologies also makes us vulnerable.", 
+        "sentence_id,": "b730ef061d"
+    }, 
+    {
+        "sentence": "Cyber threats and attacks are becoming more sophisticated, with more severe consequences.", 
+        "sentence_id,": "6e4b901bf3"
+    }, 
+    {
+        "sentence": "We cannot take cybersecurity for granted.", 
+        "sentence_id,": "ccd9cab00a"
+    }, 
+    {
+        "sentence": "The Cybersecurity Strategy outlines Singapores vision, goals and priorities.", 
+        "sentence_id,": "db144e49eb"
+    }, 
+    {
+        "sentence": "We are determined to protect essential services from cyber threats, and to create a secure cyberspace for businesses and communities.", 
+        "sentence_id,": "0f9650d16e"
+    }, 
+    {
+        "sentence": "The Cyber Security Agency of Singapore will take the lead, and work with other agencies and private sector partners to achieve this.", 
+        "sentence_id,": "1759be4384"
+    }, 
+    {
+        "sentence": "The Government cannot do it alone.", 
+        "sentence_id,": "c563deb7d1"
+    }, 
+    {
+        "sentence": "Businesses are responsible for protecting customers personal data.", 
+        "sentence_id,": "57e693955b"
+    }, 
+    {
+        "sentence": "Individuals need to practise good cyber hygiene to keep personal devices and data safe.", 
+        "sentence_id,": "f7472ae0e2"
+    }, 
+    {
+        "sentence": "If we each do our part to use our systems and devices responsibly, then collectively we can help to protect Singapores cyberspace.", 
+        "sentence_id,": "ae3ad3233b"
+    }, 
+    {
+        "sentence": "Cyber attackers do not respect jurisdictions.", 
+        "sentence_id,": "8a450e74da"
+    }, 
+    {
+        "sentence": "All countries, especially highlyconnected ones like Singapore, benefit from international cooperation in securing global infocomm infrastructures and responding to cyber threats.", 
+        "sentence_id,": "f007a1104e"
+    }, 
+    {
+        "sentence": "Singapore will work closely with other countries to build consensus in cyber norms, strengthen capacity and address cyber threats and crimes.", 
+        "sentence_id,": "29312200f6"
+    }, 
+    {
+        "sentence": "Singapores Cybersecurity Strategy Copyright 2016 by Cyber Security Agency of Singapore All rights reserved.", 
+        "sentence_id,": "d6b9337e04"
+    }, 
+    {
+        "sentence": "As an industry, cybersecurity offers opportunities and good jobs for Singaporeans.", 
+        "sentence_id,": "88605c8334"
+    }, 
+    {
+        "sentence": "The Government will provide education and training opportunities for Singaporeans who wish to pursue a career in cybersecurity.", 
+        "sentence_id,": "57b9deafd2"
+    }, 
+    {
+        "sentence": "Together, we will build a resilient and trusted cyber environment for Singapore one that harnesses the benefits of technology to improve the lives of Singaporeans.", 
+        "sentence_id,": "d0fe6af09f"
+    }, 
+    {
+        "sentence": "ISBN: 978-981110812-9 Cyber Security Agency of Singapore www.csa.gov.sg Design and layout by: APT811 Design & Innovation Agency www.apt811.com Lee Hsien Loong CONTENTS SINGAPORE'S CYBERSECURITY STRATEGY AT A GLANCE 4 INTRODUCTION 6 1 A RESILIENT INFRASTRUCTURE 8 Protect Our Essential Services 12 Respond Decisively to Cyber Threats 16 Strengthen Governance and Legislative Framework 19 Secure Government Networks 20 2 A SAFER CYBERSPACE 22 Combat Cybercrime 26 Enhance Singapores Standing as a Trusted Hub 30 Promote Collective Responsibility 32 3 A VIBRANT CYBERSECURITY ECOSYSTEM 34 Establish a Professional Cybersecurity Workforce 36 Extend Singapores Cybersecurity Advantage 38 Innovate to Accelerate 40 4 STRONG INTERNATIONAL PARTNERSHIPS 42 Forge International and ASEAN Cooperation to Counter Cyber Threats and Cybercrime 44 Champion International and ASEAN Cyber Capacity Building Initiatives 46 Facilitate International and Regional Exchanges on Cyber Norms and Legislation 47 SINGAPORE'S CYBERSECURITY STRATEGY AT A GLANCE Singapores Cybersecurity Strategy aims to create a resilient and trusted cyber environment.", 
+        "sentence_id,": "942702724a"
+    }, 
+    {
+        "sentence": "This will enable us to realise the benefits of technology and so secure a better future for Singaporeans.", 
+        "sentence_id,": "beb5d58166"
+    }, 
+    {
+        "sentence": "Four pillars underpin our strategy.", 
+        "sentence_id,": "a2df7fb91f"
+    }, 
+    {
+        "sentence": "We will strengthen the resilience of Critical Information Infrastructures (CIIs).", 
+        "sentence_id,": "e77c92699b"
+    }, 
+    {
+        "sentence": "We will mobilise businesses and the community to make cyberspace safer, by countering cyber threats, combating cybercrime and protecting personal data.", 
+        "sentence_id,": "d2dbc5f3f1"
+    }, 
+    {
+        "sentence": "Building a Resilient Infrastructure OUR STRATEGY: We will develop a vibrant cybersecurity ecosystem comprising a skilled workforce, technologically-advanced companies and strong research collaborations, so that it can support Singapores cybersecurity needs and be a source of new economic growth.", 
+        "sentence_id,": "c92d47da03"
+    }, 
+    {
+        "sentence": "Finally, given that cyber threats do not respect sovereign boundaries, we will step up efforts to forge strong international partnerships.", 
+        "sentence_id,": "c419d0e05b"
+    }, 
+    {
+        "sentence": "Creating a Safer Cyberspace OUR STRATEGY: Cybersecurity is a team effort, everyone has a part to play, and everyone has to play their part.", 
+        "sentence_id,": "8931ea987a"
+    }, 
+    {
+        "sentence": "The Government will take the lead to spearhead initiatives to enhance Singapores cybersecurity stance, and we will need everyones cooperation to reap long term benefits for the cyber ecosystem.", 
+        "sentence_id,": "3bd4227237"
+    }, 
+    {
+        "sentence": "We aim to build a Smart Nation one that will be enabled by trustworthy infrastructure and technology.", 
+        "sentence_id,": "553cd6e7e4"
+    }, 
+    {
+        "sentence": "Minister-in-charge of Cybersecurity, Dr Yaacob Ibrahim, GovernmentWare 2015 Developing a Vibrant Cybersecurity Ecosystem OUR STRATEGY: To secure our digitally-enabled economy and society, the Government will work with key stakeholders private sector operators and the cybersecurity community to strengthen the resilience of our CIIs.", 
+        "sentence_id,": "02d302f63c"
+    }, 
+    {
+        "sentence": "Cyber technology can enable and empower business and society, but only if it is safe and trustworthy.", 
+        "sentence_id,": "b0ef68555a"
+    }, 
+    {
+        "sentence": "A safer cyberspace is the collective responsibility of the Government, businesses, individuals and the community.", 
+        "sentence_id,": "c692247b1d"
+    }, 
+    {
+        "sentence": "Cybersecurity is both an imperative and an opportunity.", 
+        "sentence_id,": "9b94ac5cb6"
+    }, 
+    {
+        "sentence": "With advanced infrastructure and a highly-skilled IT workforce, Singapore is wellpositioned to build a vibrant cybersecurity ecosystem.", 
+        "sentence_id,": "3eb10b1a44"
+    }, 
+    {
+        "sentence": "First, we will enhance our CII Protection Programme to establish robust and systematic cyber risk management processes across all critical sectors.", 
+        "sentence_id,": "315037d945"
+    }, 
+    {
+        "sentence": "Second, we will improve our sectors response and recovery plans to breaches.", 
+        "sentence_id,": "258ba4e0b3"
+    }, 
+    {
+        "sentence": "We will mount multi-sector cybersecurity exercises to test cooperation across multiple sectors and address inter-dependencies during major cyber-attacks.", 
+        "sentence_id,": "4ff7cb7325"
+    }, 
+    {
+        "sentence": "We will also expand and beef up national resources such as the National Cyber Incident Response Team (NCIRT) and the National Cyber Security Centre (NCSC).", 
+        "sentence_id,": "84ba46028b"
+    }, 
+    {
+        "sentence": "Next, we will introduce the Cybersecurity Act to give the Cyber Security Agency of Singapore (CSA) greater powers to secure our CIIs.", 
+        "sentence_id,": "13b9f859b4"
+    }, 
+    {
+        "sentence": "Finally, as threats to government networks will continue to grow, we will expand efforts to secure government systems and networks, so as to protect citizens and official data.", 
+        "sentence_id,": "153be6350b"
+    }, 
+    {
+        "sentence": "First, to effectively deal with the threat of cybercrime, the Government will implement the recently launched National Cybercrime Action Plan.", 
+        "sentence_id,": "af724ac0af"
+    }, 
+    {
+        "sentence": "Second, we will enhance Singapores standing as a trusted hub by fostering a trusteddata ecosystem.", 
+        "sentence_id,": "80b3e58fc4"
+    }, 
+    {
+        "sentence": "We will work with global institutions, other governments, industry partnersand Internet Service Providers to quickly identify and reduce malicious traffic on our Internet infrastructure.", 
+        "sentence_id,": "9a43251787"
+    }, 
+    {
+        "sentence": "Finally, communities and business associations can play their part by fostering their members understanding of cybersecurity issues and promoting the adoption of good practices.", 
+        "sentence_id,": "329d0f8fca"
+    }, 
+    {
+        "sentence": "First, the Government will collaborate with industry partners and Institutes of Higher Learning (IHLs) to grow the cybersecurity workforce, including encouraging existing cybersecurity professionals to deepen their skills.", 
+        "sentence_id,": "d48db6ca8b"
+    }, 
+    {
+        "sentence": "Second, we will develop strong companies and nurture local start-ups to ensure that best-in-class solutions are available locally.", 
+        "sentence_id,": "0616b8ee96"
+    }, 
+    {
+        "sentence": "There are also opportunities for cybersecurity companies to leverage Singapores traditional strengths in areas such as financial and infocomm services to develop exportable solutions.", 
+        "sentence_id,": "e0dcf32a16"
+    }, 
+    {
+        "sentence": "Third, we will foster closer partnerships between academia and industry so as to harness cybersecurity R&D in a more targeted manner to deliver effective solutions.", 
+        "sentence_id,": "8741807081"
+    }, 
+    {
+        "sentence": "With skilled professionals, technologically-advanced companies and strong research collaborations, Singapore can be at the global forefront of cybersecurity innovation and create economic opportunities for Singaporeans and the industry.", 
+        "sentence_id,": "4642cf674a"
+    }, 
+    {
+        "sentence": "4 INTRO Strengthening International Partnerships OUR STRATEGY: Cybersecurity is a global issue.", 
+        "sentence_id,": "f4332c32ee"
+    }, 
+    {
+        "sentence": "Cyber threats do not respect sovereign boundaries; indeed, jurisdictional gaps are exploited to the cyber-attackers advantage.", 
+        "sentence_id,": "bf25ccbdb4"
+    }, 
+    {
+        "sentence": "Cyber-attacks disrupting one country can have serious spill-over effects on other countries as our inter-dependencies have increased through trade and global financial markets.", 
+        "sentence_id,": "180b5513bb"
+    }, 
+    {
+        "sentence": "Singapore is committed to strong international collaboration in cybersecurity for our collective global security.", 
+        "sentence_id,": "231b1d80b2"
+    }, 
+    {
+        "sentence": "Singapore will actively cooperate with the international community, particularly ASEAN, to address transnational cybersecurity and cybercrime issues.", 
+        "sentence_id,": "2589433ba3"
+    }, 
+    {
+        "sentence": "We will champion cyber capacity building initiatives, and facilitate exchanges on cyber norms and legislation.", 
+        "sentence_id,": "c2ebfff9f2"
+    }, 
+    {
+        "sentence": "Through international consensus, agreement, and cooperation, we can make cyberspace a safer and more secure place for all.", 
+        "sentence_id,": "87690d666d"
+    }, 
+    {
+        "sentence": "INTRO 5 INTRODUCTION Cybersecurity is important for Singapore given our high dependence on information technology and the Internet, and cybercrime is also growing.", 
+        "sentence_id,": "64cb905429"
+    }, 
+    {
+        "sentence": "Cyber-attacks can take many forms and come from many sources.", 
+        "sentence_id,": "daaa9ca57b"
+    }, 
+    {
+        "sentence": "They range from defacements of website and data theft, often by persons who hide behind the anonymity of cyberspace [and] can also include systemic threats Deputy Prime Minister Teo Chee Hean, Committee of Supply, 6 Mar 2013 Cyber-attacks are increasingly frequent, sophisticated and impactful.", 
+        "sentence_id,": "b619cef50d"
+    }, 
+    {
+        "sentence": "Globally, we have seen a surge in the number of cyber incidents, such as ransomware, cyber theft, banking fraud, cyber espionage and disruptions to Internet services.", 
+        "sentence_id,": "98cfcb5956"
+    }, 
+    {
+        "sentence": "Attacks on systems that run utility plants, transportation networks, hospitals and other essential services are more frequent.", 
+        "sentence_id,": "e5f23f2e7a"
+    }, 
+    {
+        "sentence": "Successful attacks result in disruptions which could cripple economies, and lead to loss of life.", 
+        "sentence_id,": "c2b8b09c86"
+    }, 
+    {
+        "sentence": "The advent of the Internet of Things will further increase the attack surface.", 
+        "sentence_id,": "9a8950eb72"
+    }, 
+    {
+        "sentence": "Left unchecked, malicious entities can find more ways to launch attacks, steal data and make cyberspace dangerous for all.", 
+        "sentence_id,": "a5f0c0a5a0"
+    }, 
+    {
+        "sentence": "The result is a cyberspace that is hostile, and where basic interactions and transactions cannot be trusted.", 
+        "sentence_id,": "df4d943666"
+    }, 
+    {
+        "sentence": "Singapore has consistently taken cyber threats seriously and developed timely responses.", 
+        "sentence_id,": "09a8f3f35d"
+    }, 
+    {
+        "sentence": "The Masterplan was a coordinated effort to secure Singapores digital environment and strengthen public sector cybersecurity capabilities.", 
+        "sentence_id,": "6305bc298e"
+    }, 
+    {
+        "sentence": "Since then, Singapores cybersecurity capabilities have grown.", 
+        "sentence_id,": "1412290f07"
+    }, 
+    {
+        "sentence": "With the formation of the Singapore Infocomm Technology Security Authority (SITSA) in 2009, we developed the capability to coordinate national-level responses against large-scale cyber-attacks, particularly against our critical information infrastructures.", 
+        "sentence_id,": "a2ff9754ef"
+    }, 
+    {
+        "sentence": "Our Smart Nation Journey 6 INTRO In 2015, the Cyber Security Agency of Singapore (CSA) was formed as the central agency to oversee and coordinate all aspects of cybersecurity for the nation.", 
+        "sentence_id,": "3838177be4"
+    }, 
+    {
+        "sentence": "CSA is empowered to develop and enforce cybersecurity regulations, policies, and practices.", 
+        "sentence_id,": "f177b9c602"
+    }, 
+    {
+        "sentence": "While much has been achieved so far, the threats have also become more sophisticated.", 
+        "sentence_id,": "f0e7514bda"
+    }, 
+    {
+        "sentence": "We are even more dependent on digital technology, especially as we develop a Smart Nation of digitally-enabled businesses and lives.", 
+        "sentence_id,": "5abd865abe"
+    }, 
+    {
+        "sentence": "Cybersecurity, beyond a necessity to defend and protect, is also an enabler for our future economy and society.", 
+        "sentence_id,": "701428eade"
+    }, 
+    {
+        "sentence": "This Strategy is a statement of Singapores vision and priorities for cybersecurity.", 
+        "sentence_id,": "f51778d657"
+    }, 
+    {
+        "sentence": "It aims to catalyse participation by all stakeholders - government agencies, the cyber industry, professionals and students, academia and researchers, and providers of essential services.", 
+        "sentence_id,": "d9d10dfb63"
+    }, 
+    {
+        "sentence": "Together, we will ensure the resilience of our national infrastructure and a safer cyberspace, supported by a vibrant ecosystem that provides good jobs and economic opportunities for Singaporeans.", 
+        "sentence_id,": "105b3c06aa"
+    }, 
+    {
+        "sentence": "It also signals Singapores willingness to forge strong partnerships with the international community to combat the transnational nature of cyber threats.", 
+        "sentence_id,": "74cae9e696"
+    }, 
+    {
+        "sentence": "Singapore is transforming to become a Smart Nation, where Singaporeans are empowered by technology to lead meaningful and fulfilling lives, where digital connectivity leads to stronger community bonds, and where the power of networks, data and infocomm technologies is harnessed to create economic opportunities.", 
+        "sentence_id,": "5045fd33ea"
+    }, 
+    {
+        "sentence": "Smart Nation is a whole-of-nation rallying call for citizens, companies, and government agencies to work handin-hand to seize the many possibilities of digital technology.", 
+        "sentence_id,": "aaf7a08260"
+    }, 
+    {
+        "sentence": "We are putting in place the necessary infrastructure and policies to build capabilities, and to create a conducive ecosystem where people and companies co-create innovative solutions to enhance the lives of our citizens.", 
+        "sentence_id,": "fce1252a6a"
+    }, 
+    {
+        "sentence": "OUR CYBERSECURITY JOURNEY SO FAR 2005 Infocomm Security Masterplan (ISMP) (2005-2007) The Info-communications Development Authority (IDA) launched Singapores first Infocomm Security Masterplan to coordinate cybersecurity efforts across the Government.", 
+        "sentence_id,": "8217eb9eff"
+    }, 
+    {
+        "sentence": "A key priority was building basic capabilities within the public sector to mitigate and respond to cyber threats.", 
+        "sentence_id,": "a67e7d7779"
+    }, 
+    {
+        "sentence": "2008 Infocomm Security Masterplan (2008-2012) The second Masterplan focused especially on the security of Singapores CIIs, with a vision of making Singapore a Secure and Trusted Hub.", 
+        "sentence_id,": "d26e09ab13"
+    }, 
+    {
+        "sentence": "2009 Singapore Infocomm Technology Security Authority (SITSA) SITSA was established under the Ministry of Home Affairs (MHA) to safeguard Singapore against cyber-attacks and cyber-espionage.", 
+        "sentence_id,": "b6728de15e"
+    }, 
+    {
+        "sentence": "SITSAs responsibilities as a national specialist authority included overseeing the preparation and securing of CIIs against cyber threats.", 
+        "sentence_id,": "8a83bdc8e4"
+    }, 
+    {
+        "sentence": "2013 National Cyber Security Masterplan (NCSM2018) The third Masterplan expanded to cover the wider infocomm ecosystem, which includes businesses and individuals, in addition to the previous focus on CIIs.", 
+        "sentence_id,": "fb9bc68d45"
+    }, 
+    {
+        "sentence": "It sought to make Singapore a Trusted and Robust Infocomm Hub.", 
+        "sentence_id,": "ec97f28e59"
+    }, 
+    {
+        "sentence": "2013 National Cybersecurity R&D (NCR) Programme The National Cybersecurity R&D Programme was established in October 2013 to develop R&D expertise and capabilities in cybersecurity for Singapore.", 
+        "sentence_id,": "9dafd55d33"
+    }, 
+    {
+        "sentence": "It aims to improve the trustworthiness of cyber infrastructure, with emphasis on security, reliability, resilience and usability.", 
+        "sentence_id,": "ebc278f37e"
+    }, 
+    {
+        "sentence": "It is now co-managed by the National Research Foundation and the Cyber Security Agency of Singapore.", 
+        "sentence_id,": "48a3a72c59"
+    }, 
+    {
+        "sentence": "2015 Cyber Security Agency of Singapore (CSA) CSA was established under the Prime Ministers Office (PMO) and is managed administratively by the Ministry of Communications and Information (MCI).", 
+        "sentence_id,": "0237e781ed"
+    }, 
+    {
+        "sentence": "With its formation, all agencies and initiatives related to cybersecurity the Singapore Computer Emergency Response Team (SingCERT), national cybersecurity master-planning and development functions from IDA, and SITSA were brought under a single agency.", 
+        "sentence_id,": "8b8afd2912"
+    }, 
+    {
+        "sentence": "CSA is dedicated to the development of cybersecurity, protection of CIIs and essential services, and coordination of national efforts against large-scale cyber incidents.", 
+        "sentence_id,": "d2558ba37c"
+    }, 
+    {
+        "sentence": "CSA is also empowered to develop and enforce cybersecurity regulations, policies, and practices.", 
+        "sentence_id,": "b8e3cca658"
+    }, 
+    {
+        "sentence": "It will coordinate efforts across government, industry, academia, businesses and the people sector, as well as internationally.", 
+        "sentence_id,": "510448972a"
+    }, 
+    {
+        "sentence": "2015 Cybercrime Command The Ministry of Home Affairs (MHA) established the Cybercrime Command as a unit within the Criminal Investigation Department (CID) of the Singapore Police Force (SPF).", 
+        "sentence_id,": "a70fbe1a8f"
+    }, 
+    {
+        "sentence": "The Command works closely with other law enforcement agencies and industry stakeholders, including the INTERPOL Global Complex for Innovation (IGCI) located in Singapore, to investigate cybercrimes.", 
+        "sentence_id,": "cd09e29a27"
+    }, 
+    {
+        "sentence": "The plan spells out the priorities needed in the fight against cybercrime.", 
+        "sentence_id,": "10884e8c6b"
+    }, 
+    {
+        "sentence": "These include a) the need for public education on staying safe in cyberspace; b) the development of capabilities to fight cybercrime; c) strengthening cybercrime laws; and d) building local and international partnerships.", 
+        "sentence_id,": "d8bccef4b1"
+    }, 
+    {
+        "sentence": "2014 National Cyber Security Centre (NCSC) The NCSC was formed as part of SITSA, to maintain cyber situational awareness, correlate cybersecurity events across sectors, and coordinate with the respective lead agencies to provide a national-level response to large-scale, cross-sector cyber incidents.", 
+        "sentence_id,": "812b6201dc"
+    }, 
+    {
+        "sentence": "INTRO 7 CHAPTER 1 A RESILIENT INFRASTRUCTURE The Government will work with key stakeholders - the CII operators and the cybersecurity community - in four major areas.", 
+        "sentence_id,": "b307459fe0"
+    }, 
+    {
+        "sentence": "We will: Step up the protection of our essential services.", 
+        "sentence_id,": "ca91a769e3"
+    }, 
+    {
+        "sentence": "We will implement a CII Protection Programme which emphasises robust and systematic cyber risk management processes, and the importance of a culture of cyber risk awareness across all levels of CII organisations.", 
+        "sentence_id,": "59e56c2538"
+    }, 
+    {
+        "sentence": "We will increase the adoption of Security-by-Design practices to address cybersecurity issues upstream and along the supply chain.", 
+        "sentence_id,": "464e447426"
+    }, 
+    {
+        "sentence": "Enhance our capability to respond decisively to cyber threats.", 
+        "sentence_id,": "682e4bb9ac"
+    }, 
+    {
+        "sentence": "We will enhance our national cyber situational awareness and conduct regular multi-sector cybersecurity exercises with more complex scenarios and involving more and more sectors.", 
+        "sentence_id,": "d5bd449570"
+    }, 
+    {
+        "sentence": "We will build up more National Cyber Incident Response Teams (NCIRT) and enhance the Disaster Recovery Plans (DRP) and Business Continuity Plans (BCP) of the critical sectors.", 
+        "sentence_id,": "01b7410215"
+    }, 
+    {
+        "sentence": "Behind the scenes, in every city (and Singapore is no exception), a gamut of essential services and infrastructure are needed to keep a modern metropolis running smoothly.", 
+        "sentence_id,": "328b85b2fb"
+    }, 
+    {
+        "sentence": "Essential services such as energy, banking, healthcare and transport are powered by infocomm technology.", 
+        "sentence_id,": "c66af44253"
+    }, 
+    {
+        "sentence": "Cyber-attacks on these Critical Information Infrastructures (CIIs) can interfere with these essential services.", 
+        "sentence_id,": "22bfb33732"
+    }, 
+    {
+        "sentence": "At best, they lead to inconveniences.", 
+        "sentence_id,": "1e8c002f2c"
+    }, 
+    {
+        "sentence": "At worst, they can result in significant disruptions to the economy and to our society.", 
+        "sentence_id,": "a19355ff46"
+    }, 
+    {
+        "sentence": "The effects of a cyber-attack on Singapore have ramifications beyond our shores.", 
+        "sentence_id,": "228ae8beed"
+    }, 
+    {
+        "sentence": "Singapore is an open economy and connected to the rest of the world.", 
+        "sentence_id,": "f6b0463f52"
+    }, 
+    {
+        "sentence": "It is a major international centre for trade, finance and logistics.", 
+        "sentence_id,": "bf482385ae"
+    }, 
+    {
+        "sentence": "A cyber-attack on Singapore could potentially impact the wider regional and global economy.", 
+        "sentence_id,": "d57d328fba"
+    }, 
+    {
+        "sentence": "Singapore has to ensure that its CIIs are not just resilient against physical threats, but also against cyber threats.", 
+        "sentence_id,": "663de091cd"
+    }, 
+    {
+        "sentence": "A cyber-resilient infrastructure will provide peace of mind to Singaporeans.", 
+        "sentence_id,": "fce796d850"
+    }, 
+    {
+        "sentence": "A cyber-resilient infrastructure will reinforce confidence in Singapore as a resilient and trusted global centre of trade and commerce.", 
+        "sentence_id,": "5a6980907f"
+    }, 
+    {
+        "sentence": "Strengthen our cybersecurity governance and legislative framework.", 
+        "sentence_id,": "379fca3576"
+    }, 
+    {
+        "sentence": "We will introduce a new Cybersecurity Act that will require CII owners and operators to take responsibility for securing their systems and networks.", 
+        "sentence_id,": "3f4fdc901d"
+    }, 
+    {
+        "sentence": "The Act will also facilitate the sharing of cybersecurity information with and by CSA, and empower CSA and sector regulators to work closely with affected parties to resolve cybersecurity incidents in a timely manner.", 
+        "sentence_id,": "7acefe4b97"
+    }, 
+    {
+        "sentence": "Make Government systems more secure.", 
+        "sentence_id,": "4883a4631f"
+    }, 
+    {
+        "sentence": "The Government will expand its efforts to secure its systems and networks.", 
+        "sentence_id,": "bec606d646"
+    }, 
+    {
+        "sentence": "This includes allocating 8 per cent of the total Government ICT expenditure to cybersecurity.", 
+        "sentence_id,": "4076ddeaf6"
+    }, 
+    {
+        "sentence": "We will also reduce the attack surface of Government systems, enhance cyber situational awareness in the government sector and sharpen cyber incident management.", 
+        "sentence_id,": "071b59c50b"
+    }, 
+    {
+        "sentence": "SINGAPORES CRITICAL INFORMATION INFRASTRUCTURE SECTORS The reliable supply of essential services depends on the security of the computer and network infrastructure in Singapores Critical Information Infrastructure (CII) sectors.", 
+        "sentence_id,": "1444c77d30"
+    }, 
+    {
+        "sentence": "Today, we have identified 11 CII sectors, which cut across utilities, transport, and services.", 
+        "sentence_id,": "0b5ee5001d"
+    }, 
+    {
+        "sentence": "Cyber-attacks on Singapores CIIs may have spill-over effects regionally and globally.", 
+        "sentence_id,": "a6c4591d63"
+    }, 
+    {
+        "sentence": "As an international financial, shipping and aviation hub, Singapore also houses critical systems that transcend national borders, such as global payment systems, port operations systems, and air-traffic control systems.", 
+        "sentence_id,": "98edd7414b"
+    }, 
+    {
+        "sentence": "Successful attacks on these supra-national CIIs can have disproportionate effects on the trade and banking systems beyond Singapores shores.", 
+        "sentence_id,": "3a88a31f50"
+    }, 
+    {
+        "sentence": "The Singapore Government is working with the operators of our CIIs to ensure they remain resilient in the face of cyber-attacks.", 
+        "sentence_id,": "dc680dcc62"
+    }, 
+    {
+        "sentence": "Sources: Department of Statistics \"Singapore in Figures 2016\" publication www.changiairport.com Air Traffic Statistics www.mpa.gov.sg Port Statistics www.mas.gov.sg MAS Electronic Payment System (MEPS+) Statistics SERVICES Singapore is a major financial centre that processes massive amounts of transactions every second.", 
+        "sentence_id,": "d62e6948e4"
+    }, 
+    {
+        "sentence": "For example, our local inter-bank payment systems handle millions of transactions totalling trillions of dollars annually.", 
+        "sentence_id,": "74cd5e6704"
+    }, 
+    {
+        "sentence": "Many of our public services government transactions, healthcare, emergency services are increasingly reliant on complex underlying computer systems to serve millions of users each year.", 
+        "sentence_id,": "3dd4800dcc"
+    }, 
+    {
+        "sentence": "The Government Technology Agency (GovTech), Ministry of Home Affairs (MHA), MOH Holdings (the holding company of Singapores public healthcare entities), Info-communications Media Development Authority (IMDA) and the Monetary Authority of Singapore (MAS) are committed to strengthening the cybersecurity of the systems delivering government and emergency services, healthcare, media, and banking and financial services.", 
+        "sentence_id,": "f0084f259f"
+    }, 
+    {
+        "sentence": "10 CHAPTER 1 UTILITIES Power, water and telecommunications are the lifeline of modern cities.", 
+        "sentence_id,": "7fa283a135"
+    }, 
+    {
+        "sentence": "In particular, the failure of power and telecommunications services can bring other services to a grinding halt.", 
+        "sentence_id,": "a36e4ecf0c"
+    }, 
+    {
+        "sentence": "The Energy Market Authority (EMA), Public Utilities Board (PUB) and Info-communications Media Development Authority (IMDA) will work closely with the private operators delivering these services to raise their cybersecurity posture and ensure the reliability of these services.", 
+        "sentence_id,": "b05942bb56"
+    }, 
+    {
+        "sentence": "TRANSPORT Singapore is an international logistics hub.", 
+        "sentence_id,": "d0d03621e4"
+    }, 
+    {
+        "sentence": "The Singapore Port and Changi Airport are among the worlds busiest.", 
+        "sentence_id,": "da8590f52e"
+    }, 
+    {
+        "sentence": "The Port is a major transhipment hub that handles more than 130,000 vessels and 30 million containers each year.", 
+        "sentence_id,": "eeedc7bf6b"
+    }, 
+    {
+        "sentence": "The Airport sees more than 340,000 flights, 55 million travellers, and 1.8 million tons of cargo annually.", 
+        "sentence_id,": "67ccf4d038"
+    }, 
+    {
+        "sentence": "Our public transport system handles 7.5 million passenger trips per day.", 
+        "sentence_id,": "8219e79733"
+    }, 
+    {
+        "sentence": "The Land Transport Authority (LTA), Maritime and Port Authority (MPA) and Civil Aviation Authority of Singapore (CAAS) have put in place governance frameworks and are building cybersecurity capability to ensure that our transport and logistics systems are robust.", 
+        "sentence_id,": "f12e799c42"
+    }, 
+    {
+        "sentence": "CHAPTER 1 11 PROTECT OUR ESSENTIAL SERVICES Operators increasingly rely on computer networks and the Internet to maintain essential services and to serve their businesses and consumers.", 
+        "sentence_id,": "65d1b033b7"
+    }, 
+    {
+        "sentence": "For CII operators, the gain in efficiency and productivity is significant but so are the increased vulnerabilities of essential services to cyber disruption.", 
+        "sentence_id,": "1f269823b7"
+    }, 
+    {
+        "sentence": "To ensure the continuous delivery of essential services, CII operators need both physical resilience and cyber resilience.", 
+        "sentence_id,": "81b01dedbf"
+    }, 
+    {
+        "sentence": "Cyber resilience is the ability of our CIIs to withstand cyber-attacks, allowing them to continue operating under the toughest conditions and recover quickly after a disruption.", 
+        "sentence_id,": "0d0c5b7a0b"
+    }, 
+    {
+        "sentence": "We must raise the cyber resilience of our essential services, and we can achieve this only with the trust and participation of all stakeholders the Government, CII operators, and the cybersecurity community.", 
+        "sentence_id,": "e8764ed627"
+    }, 
+    {
+        "sentence": "Singapore will: Implement across all critical sectors, a CII Protection Programme with robust and systematic cyber risk management processes.", 
+        "sentence_id,": "71d96ff57b"
+    }, 
+    {
+        "sentence": "A key part of the CII Protection Programme is to grow a culture of cyber risk awareness across all levels of a CII organisation.", 
+        "sentence_id,": "9924832f95"
+    }, 
+    {
+        "sentence": "From the CEO to the employee, cybersecurity must be seen as a business concern and not just one for the IT department.", 
+        "sentence_id,": "dffd7b117c"
+    }, 
+    {
+        "sentence": "Pre-empt cyber vulnerabilities by going upstream and promoting Security-by-Design practices.", 
+        "sentence_id,": "83f8eb25bc"
+    }, 
+    {
+        "sentence": "Cybersecurity will no longer be an afterthought, but will be consciously implemented throughout the lifecycle of technology systems.", 
+        "sentence_id,": "1bb920191b"
+    }, 
+    {
+        "sentence": "Implement CII Protection Programme The Government will roll out a holistic CII Protection Programme for government agencies and CII operators.", 
+        "sentence_id,": "005f109473"
+    }, 
+    {
+        "sentence": "It will build on the Cybersecurity Readiness Maturity Assessment programme implemented in 2012, which has enabled agencies and operators identify areas for improvement.", 
+        "sentence_id,": "b08540c683"
+    }, 
+    {
+        "sentence": "The CII Protection Programme will, firstly, establish the foundation to facilitate information exchange among CII operators through clear policies and guidelines.", 
+        "sentence_id,": "a008d0bffc"
+    }, 
+    {
+        "sentence": "Second, it will enable targeted and systematic improvements through clearer measurements of governance maturity and networks cybersecurity hygiene.", 
+        "sentence_id,": "edd2f4e2fd"
+    }, 
+    {
+        "sentence": "Third, it will require operators to foster a culture of cyber-risks literacy across all levels in organisations, proactively address cyber-risks and ensure that their practices are consistent with policies.", 
+        "sentence_id,": "4113eb6a70"
+    }, 
+    {
+        "sentence": "With a deep understanding of cyber risks, sectors take ownership and provide management focus to implement effective CII protection plans that are tailored to the unique circumstances of each sector.", 
+        "sentence_id,": "0b909021e8"
+    }, 
+    {
+        "sentence": "The goal is for all critical sectors to establish robust and systematic cyber risk management processes and capabilities that are effective against the evolving cyber threats.", 
+        "sentence_id,": "7a9a080cbc"
+    }, 
+    {
+        "sentence": "Systematic Cyber Risk Management A systematic cyber risk management framework comprises: 1 thorough identification and prioritisation of cyber risks and CIIs through risk assessments, vulnerability assessments and system reviews; 2 well-informed and conscious trade-offs in security, cost and functionality, decided at management levels of appropriate seniority; 3 sound systems and procedures to mitigate and manage these risks, including disaster recovery and business continuity plans; 4 effective implementation that encompasses awareness building and training across the organisation; and 5 continuous measurement of performance through process audits and cybersecurity exercises.", 
+        "sentence_id,": "6d9b488565"
+    }, 
+    {
+        "sentence": "Cybersecurity Maturity Assessment The Government has been using the Readiness Maturity Index (RMI) framework to assess the readiness of CII sectors in terms of their capabilities for risk-based mitigation, early detection of threats, and robustness of the response measures.", 
+        "sentence_id,": "55283578d2"
+    }, 
+    {
+        "sentence": "The RMI is the metaphorical health check that directs the CII sectors effort to manage cyber risks, and facilitates the development of action plans to improve governance and procedures.", 
+        "sentence_id,": "b07bf746f2"
+    }, 
+    {
+        "sentence": "12 CHAPTER 1 CHAPTER 1 13 Promote Security-by-Design Why is Security-by-Design important?", 
+        "sentence_id,": "e6b9c0d20d"
+    }, 
+    {
+        "sentence": "Security-by-Design is an approach in the system development lifecycle process to ensure that our applications and systems are built, deployed, maintained, upgraded and disposed of securely.", 
+        "sentence_id,": "3e6c3626dc"
+    }, 
+    {
+        "sentence": "The Government will promote the adoption of Security-by-Design in several ways: Progressively institutionalise Security-by-Design into the governance framework for CII protection; Promote the practice of penetration testing to discover vulnerabilities early for remediation at the design stage; Build a strong community of practice in product and system testing based on established international standards, such as the Common Criteria product assurance certification; and Continue to refine methodologies and develop new security validation tools to improve the efficacy of Security-by-Design.", 
+        "sentence_id,": "722698d167"
+    }, 
+    {
+        "sentence": "Opening of the CREST Examination Facility for Penetration Testing Certifications and Accreditations at the Singapore Institute of Technology The implementation of Security-by-Design has to be complemented with highly skilled professionals who can carry out security validation processes rigorously and proficiently.", 
+        "sentence_id,": "c6356e8360"
+    }, 
+    {
+        "sentence": "The introduction of CREST penetration testing certifications and accreditations in Singapore is one means of raising the professional competency standards.", 
+        "sentence_id,": "8d6c8a06f6"
+    }, 
+    {
+        "sentence": "Security-by-design is a best practice to ensure that system is developed with security consideration upfront and throughout its lifecycle.", 
+        "sentence_id,": "18cf13ef68"
+    }, 
+    {
+        "sentence": "By integrating risk assessment into the system development lifecycle, trade-offs between security, cost and functionality are deliberated.", 
+        "sentence_id,": "9271aee835"
+    }, 
+    {
+        "sentence": "The trade-off decisions should be made by well-informed management at the appropriate level of decision making.", 
+        "sentence_id,": "88dc2e33fd"
+    }, 
+    {
+        "sentence": "This ensures that the system is optimised for the conditions in which it is to be used.", 
+        "sentence_id,": "57b689e886"
+    }, 
+    {
+        "sentence": "Subscribing to Security-by-Design will reduce piecemeal implementation and the need for costly and often ineffective retrofitting.", 
+        "sentence_id,": "b751a5bcce"
+    }, 
+    {
+        "sentence": "Cybersecurity, when thoughtfully considered and incorporated at the design stage of a system will result in an organically robust system design that can better withstand cyber threats.", 
+        "sentence_id,": "837909ac48"
+    }, 
+    {
+        "sentence": "CHAPTER 1 Mr Ravi Menon, Managing Director, Monetary Authority of Singapore (MAS), Global Technology Law Conference, June 2015 Designing cybersecurity into FinTech The Monetary Authority of Singapore (MAS) has formed a Financial Technology & Innovation Group since August 2015 to drive the Smart Financial Centre initiatives.", 
+        "sentence_id,": "0e84339e86"
+    }, 
+    {
+        "sentence": "This Group is responsible for formulating regulatory policies and 1 2 3 14 The first priority on our journey towards a Smart Financial Centre is therefore to continually strengthen the industrys cybersecurity.", 
+        "sentence_id,": "9beb389598"
+    }, 
+    {
+        "sentence": "developing strategies to facilitate the use of technology and innovation to enhance efficiency and better manage risks in the financial sector.", 
+        "sentence_id,": "9163b97247"
+    }, 
+    {
+        "sentence": "Efforts by MAS to manage risks associated with FinTech include: Establishing a FinTech Innovation Lab that allows stakeholders to experiment with FinTech solutions, including security solutions; Establishing regulatory sandboxes that can be used to carve out a safe and conducive space to experiment with FinTech solutions, and where the consequences of failure can be contained; and Providing financial support through the Financial Sector Technology & Innovation scheme for projects that uplift the cybersecurity ecosystem in Singapore.", 
+        "sentence_id,": "f326e97eb3"
+    }, 
+    {
+        "sentence": "CHAPTER 1 15 RESPOND DECISIVELY TO CYBER THREATS An effective cyber defence must assume that there can and will be successful cyber-attacks.", 
+        "sentence_id,": "050ff66bb0"
+    }, 
+    {
+        "sentence": "When such attacks materialise, the cyber defenders must be able to mount a robust response and implement reliable recovery plans.", 
+        "sentence_id,": "5bb48917c8"
+    }, 
+    {
+        "sentence": "This can only be possible with a comprehensive framework for preparedness.", 
+        "sentence_id,": "f69400e4bb"
+    }, 
+    {
+        "sentence": "Singapore has developed a national cybersecurity response plan which allows for timely response and ground initiative at the local level, complemented with effective coordination and strategic support at the sectoral and national level.", 
+        "sentence_id,": "a1b35b1f6a"
+    }, 
+    {
+        "sentence": "The plan envisages three tiers of response Tier 1 for cyber campaigns that threaten national security, Tier 2 for cyber-attacks on a sector, and Tier 3 for cyber-attacks on a specific operator.", 
+        "sentence_id,": "94bd53b4ca"
+    }, 
+    {
+        "sentence": "The plan requires CSA to work closely with CII operators and the cybersecurity community to ensure an effective response.", 
+        "sentence_id,": "1130fbfa94"
+    }, 
+    {
+        "sentence": "Integration of Threat Discovery, Analysis and Incident Response The National Cyber Security Centre (NCSC) monitors and analyses the cyber threat landscape to maintain cyber situational awareness and anticipate future threats.", 
+        "sentence_id,": "70d0694ded"
+    }, 
+    {
+        "sentence": "In the event of large-scale cyber incidents involving multiple sectors, NCSC coordinates with the sector regulators to provide a national level response and facilitate quick alerts to cross-sector threats.", 
+        "sentence_id,": "3fa262d36b"
+    }, 
+    {
+        "sentence": "The Government is investing in technologies and systems that will strengthen and integrate the NCSCs three key functions of threat discovery, threat analysis and incident response.", 
+        "sentence_id,": "5dcf6fded3"
+    }, 
+    {
+        "sentence": "This will enable faster threat discovery and operational response for cross-sector cyber incidents.", 
+        "sentence_id,": "47186516f4"
+    }, 
+    {
+        "sentence": "16 CHAPTER 1 The national response to a cyber-attack will be led by an inter-agency Cybersecurity Crisis Management Group, or CMG (Cyber).", 
+        "sentence_id,": "f71f0cfec3"
+    }, 
+    {
+        "sentence": "It is led by the Permanent Secretary of the Ministry of Communications & Information, supported by CSA, and comprises senior policy decisionmakers from government agencies overseeing the different critical sectors.", 
+        "sentence_id,": "123f34aef0"
+    }, 
+    {
+        "sentence": "CMG (Cyber) serves dual functions: (a) it is responsible for the development of cybersecurity policies and standards, and oversees the implementation of cybersecurity protection measures in the critical sectors; and (b) in a cyber crisis, it mobilises the necessary resources and directs the operational responses to provide a coordinated response to the threat.", 
+        "sentence_id,": "6aa5891a55"
+    }, 
+    {
+        "sentence": "More Comprehensive Cybersecurity Exercises Cybersecurity exercises are important ways to raise the readiness of sectors, build incident response plans and capabilities, and improve communication and coordination between the CII operators and government agencies.", 
+        "sentence_id,": "50ff5d5a0b"
+    }, 
+    {
+        "sentence": "The Government will conduct these cybersecurity exercises at both the sector and national levels.", 
+        "sentence_id,": "1d4bdc933c"
+    }, 
+    {
+        "sentence": "Sector exercises will run with more complex scenarios and more sophisticated attack methods.", 
+        "sentence_id,": "f9b3cf3f01"
+    }, 
+    {
+        "sentence": "This will enhance the capability of the sectoral cyber response teams and the quality of incident management by the C-suite decision-makers in the CII operators.", 
+        "sentence_id,": "902297de27"
+    }, 
+    {
+        "sentence": "National-level exercises will encompass more and more sectors, with an emphasis on the interdependent nature of essential services.", 
+        "sentence_id,": "52fcdc6dd1"
+    }, 
+    {
+        "sentence": "This will facilitate the discovery and mitigation of the sectors inter-dependencies, and stress-test the coordination and communication capabilities at the national level.", 
+        "sentence_id,": "ff637b4407"
+    }, 
+    {
+        "sentence": "Singapore will: Enhance its national cyber situational awareness by integrating threat discovery, analysis and incident responses.", 
+        "sentence_id,": "34668a6411"
+    }, 
+    {
+        "sentence": "Conduct regular multi-sector cybersecurity exercises with more complex scenarios and involving more and more sectors.", 
+        "sentence_id,": "2173a4d8ef"
+    }, 
+    {
+        "sentence": "Through these exercises, we aim to identify vulnerabilities due to cross-sector interdependencies and stress-test coordination and communication across sectors.", 
+        "sentence_id,": "81cd33032d"
+    }, 
+    {
+        "sentence": "Build up more National Cyber Incident Response Teams (NCIRT) which can be mobilised to lend support to a sector or CII operator should they face an escalating cyber incident.", 
+        "sentence_id,": "c2ff4dda7f"
+    }, 
+    {
+        "sentence": "Strengthen the Disaster Recovery Plans (DRP) and Business Continuity Plans (BCP) of essential services, especially against a cyber-attack.", 
+        "sentence_id,": "884352eedd"
+    }, 
+    {
+        "sentence": "Expand the National Cyber Incident Response Team (NCIRT) National Cyber Incident Response Teams (NCIRT) are currently drawn from the incident response teams from CSA, Government Technology Agency (GovTech), the Ministry of Home Affairs (MHA) and the Ministry of Defence (MINDEF).", 
+        "sentence_id,": "e722c69c84"
+    }, 
+    {
+        "sentence": "They are part of the Tier 1 and Tier 2 response under the national cyber response plan.", 
+        "sentence_id,": "f77b1b9e1f"
+    }, 
+    {
+        "sentence": "The Government will further enhance the capability of the NCIRTs to deal with more complex and challenging attack scenarios.", 
+        "sentence_id,": "286c225854"
+    }, 
+    {
+        "sentence": "It will also build up more NCIRTs by upgrading certain sectoral CIRTs and also consider raising additional NCIRTs from industry and academia.", 
+        "sentence_id,": "8c20af61d3"
+    }, 
+    {
+        "sentence": "This will increase the national capacity to deal with large scale cyber-attacks.", 
+        "sentence_id,": "bbe2c49eb5"
+    }, 
+    {
+        "sentence": "Exercise Cyber Star Over the past years, the Government has conducted sector level exercises to exercise individual critical sectors in their readiness and incidence response plans against a cyberattack.", 
+        "sentence_id,": "de76a66997"
+    }, 
+    {
+        "sentence": "It brought together industry and Government representatives across the infocomm, Government, energy, and banking and finance sectors to exercise the response to a nationwide attack.", 
+        "sentence_id,": "88a41c8153"
+    }, 
+    {
+        "sentence": "The exercise was a milestone in building up cybersecurity readiness and validating the effectiveness of cross-sector cooperation.", 
+        "sentence_id,": "1fa0ce1963"
+    }, 
+    {
+        "sentence": "Recover, Restore, Remediate Resilience in essential services is especially applicable to CIIs, as a cyber-breach realistically cannot be prevented all the time.", 
+        "sentence_id,": "15a73b3c86"
+    }, 
+    {
+        "sentence": "A resilient system will need to put in place prevention activities that must be integrated with an expedient incident response plan and a comprehensive recovery strategy to mitigate the effects of cyber incidents.", 
+        "sentence_id,": "19946a1edd"
+    }, 
+    {
+        "sentence": "As such, an important aspect following a cyberattack is to be able to return affected CIIs to normal operations as soon as possible, or to facilitate their continued operations in sub-optimal conditions through a prolonged attack.", 
+        "sentence_id,": "b93114f933"
+    }, 
+    {
+        "sentence": "The Government will work with the sectors to ensure that robust Disaster Recovery Plans (DRP) and Business Continuity Plans (BCP) are built into their CII protection plans.", 
+        "sentence_id,": "6fcc503a9a"
+    }, 
+    {
+        "sentence": "CHAPTER 1 17 STRENGTHEN GOVERNANCE AND LEGISLATIVE FRAMEWORK The Cybersecurity Act The Government will introduce a new Cybersecurity Act.", 
+        "sentence_id,": "e395169de6"
+    }, 
+    {
+        "sentence": "This new legislation will equip CSA with the necessary powers to effectively address increasingly sophisticated threats to national cybersecurity.", 
+        "sentence_id,": "9286ebc9f0"
+    }, 
+    {
+        "sentence": "The new Cybersecurity Act will establish a comprehensive framework for the prevention and management of cyber incidents, and complement the existing Computer Misuse and Cybersecurity Act (CMCA), which will continue to govern the investigation of cybercrime.", 
+        "sentence_id,": "177b7ac446"
+    }, 
+    {
+        "sentence": "It will: Require CII owners and operators to take responsibility for securing their systems and networks.", 
+        "sentence_id,": "416ee70e6e"
+    }, 
+    {
+        "sentence": "This includes complying with policies and standards, conducting audits and risk assessments, and reporting cybersecurity incidents.", 
+        "sentence_id,": "d4f4ef243c"
+    }, 
+    {
+        "sentence": "CII owners and operators will also be required to participate in cybersecurity exercises to ensure their readiness in managing cyber incidents; and We will develop a standalone Cybersecurity Act that provides for stronger and more proactive powers.", 
+        "sentence_id,": "7c37e572f1"
+    }, 
+    {
+        "sentence": "Minister-in-charge of Cybersecurity, Dr Yaacob Ibrahim, 2015 Facilitate the sharing of cybersecurity information with and by CSA.", 
+        "sentence_id,": "42e9548830"
+    }, 
+    {
+        "sentence": "Recognising that cybersecurity breaches will happen despite our best efforts, the Act will empower CSA and sector regulators to work closely with affected parties to expeditiously resolve cybersecurity incidents and recover from disruptions.", 
+        "sentence_id,": "f89b03579b"
+    }, 
+    {
+        "sentence": "CSA has been and will continue to work closely with sector regulators, CII stakeholders and industry players in formulating detailed proposals for the new Act.", 
+        "sentence_id,": "cdc7e7c785"
+    }, 
+    {
+        "sentence": "A key principle is to adopt a risk-based approach to cybersecurity, and to build in sufficient flexibility to take into account the unique circumstances and regulations in each sector.", 
+        "sentence_id,": "a54e6890fa"
+    }, 
+    {
+        "sentence": "The need for stronger cybersecurity laws In 2013, the Government amended the then-Computer Misuse Act to strengthen Singapores capability in responding to national-level cyber threats.", 
+        "sentence_id,": "639f2df9cd"
+    }, 
+    {
+        "sentence": "This became the Computer Misuse and Cybersecurity Act (CMCA).", 
+        "sentence_id,": "52b432fee3"
+    }, 
+    {
+        "sentence": "When there is an actual or suspected cyber threat, the CMCA empowers the Minister of Home Affairs to direct affected parties to share vital information, and carry out necessary measures to mitigate the impact of the threat.", 
+        "sentence_id,": "40c0e0a240"
+    }, 
+    {
+        "sentence": "Additionally, some sector regulators have other legislative powers to enforce cybersecurity requirements on their licensees.", 
+        "sentence_id,": "9aa149326e"
+    }, 
+    {
+        "sentence": "These powers, however, vary from sector to sector, depending on the operating environment and level of technology adoption in each sector.", 
+        "sentence_id,": "42a163feb9"
+    }, 
+    {
+        "sentence": "18 CHAPTER 1 Today, cybersecurity threats have become more sophisticated.", 
+        "sentence_id,": "3c9524a367"
+    }, 
+    {
+        "sentence": "Essential services around the world, including Singapores, face a greater risk of being disrupted.", 
+        "sentence_id,": "36b49553ae"
+    }, 
+    {
+        "sentence": "In the recent past, cyber perpetrators have demonstrated attacks on a range of essential services, including the power grid and key banking systems.", 
+        "sentence_id,": "4f8ad73b6f"
+    }, 
+    {
+        "sentence": "There is a need to implement more robust laws that allow for a more proactive approach to national cybersecurity.", 
+        "sentence_id,": "55436de231"
+    }, 
+    {
+        "sentence": "Many countries have also strengthened their cybersecurity laws over the past few years, focusing on areas such as standards for essential service providers, information sharing, and cyber crisis management.", 
+        "sentence_id,": "4ecbdd4c99"
+    }, 
+    {
+        "sentence": "CHAPTER 1 19 SECURE GOVERNMENT NETWORKS Government systems are among the prime targets for cyber-attackers.", 
+        "sentence_id,": "ebe8767127"
+    }, 
+    {
+        "sentence": "Government systems contain sensitive data, including those about their citizens; they may be linked to essential services supplied by CII operators; they are used to support a gamut of public services including the maintenance of national security and sustaining the economy.", 
+        "sentence_id,": "8689705f36"
+    }, 
+    {
+        "sentence": "Hence, the Government will spare no effort in safeguarding its systems and networks.", 
+        "sentence_id,": "c90f8dd967"
+    }, 
+    {
+        "sentence": "The Government has undertaken, in this current term, to work towards a goal of setting aside 8 per cent of its ICT expenditure on cybersecurity.", 
+        "sentence_id,": "b4e6322eb0"
+    }, 
+    {
+        "sentence": "The Government sector is already identified as one of the eleven CII sectors in the national cyber response plan.", 
+        "sentence_id,": "cb55d75604"
+    }, 
+    {
+        "sentence": "The Governments plans as a CII sector lead incorporate many of the elements of the larger national plan.", 
+        "sentence_id,": "f59128f3a3"
+    }, 
+    {
+        "sentence": "They involve: Reducing the attack surface presented by Government systems and erecting multiple layers of security controls and network segmentation according to vulnerability and need; Expanding our capacity to detect, correlate and analyse threats, using automation and other technologies; and Sharpening the skills of our incident responders and stress-testing our systems through more complex and realistic attack scenarios.", 
+        "sentence_id,": "ae637a0318"
+    }, 
+    {
+        "sentence": "Cybersecurity professionals on duty at Cyber-Watch Centre (CWC) Reducing Attack Surface The Government has put in place long-term measures including on-going and proactive reviews of the ICT operating environments, to ensure that security controls are commensurate with rapidly evolving threats.", 
+        "sentence_id,": "114e483f44"
+    }, 
+    {
+        "sentence": "For example, in view of the increased frequency of targeted attacks on Government networks, the Civil Service will separate Internet surfing from the networks that hold classified data according to vulnerability, exposure and need.", 
+        "sentence_id,": "191f6cd581"
+    }, 
+    {
+        "sentence": "At the same time, the Government will continue its approach of adopting new technologies to deliver secure and resilient digital services.", 
+        "sentence_id,": "3fbc29d4b6"
+    }, 
+    {
+        "sentence": "It is also looking into risk reduction initiatives to minimise the potential loss of citizens data or prolonged outages of digital services.", 
+        "sentence_id,": "668eff9d76"
+    }, 
+    {
+        "sentence": "20 CHAPTER 1 Enhancing Situational Awareness through Technology The Monitoring and Operations Control Centre (MOCC), Cyber-Watch Centre (CWC), and Threat Analysis Centre (TAC) provide the Government with cyber situational awareness of its networks.", 
+        "sentence_id,": "22a46fd912"
+    }, 
+    {
+        "sentence": "We will continue to invest in technologies such as analytics, automation, artificial intelligence, and other state-of-the-art security technologies.", 
+        "sentence_id,": "16d4000549"
+    }, 
+    {
+        "sentence": "This will maintain the centres operational excellence, to enable timely detection and response to a cyber incident.", 
+        "sentence_id,": "2360c33231"
+    }, 
+    {
+        "sentence": "Preparing for Cyber Breaches The Government has expanded considerable effort in building a team of highly-skilled security incident responders.", 
+        "sentence_id,": "49b6848849"
+    }, 
+    {
+        "sentence": "However, we recognise that no system is 100 per cent foolproof and breaches may still occur even despite the best of our efforts.", 
+        "sentence_id,": "7b662ed631"
+    }, 
+    {
+        "sentence": "We will continue to hold regular cybersecurity exercises to stress test our procedures and capabilities for a realistic evaluation of our proficiency, and conduct redteaming sessions to validate the security of our systems.", 
+        "sentence_id,": "467265229d"
+    }, 
+    {
+        "sentence": "The Government will work with the sectors to ensure that CII protection plans are in place for expedient remediation to restore essential services.", 
+        "sentence_id,": "cbad96441e"
+    }, 
+    {
+        "sentence": "Cyber-Watch Centre (CWC) The Cyber-Watch Centre (CWC) was established by the Infocommunications Development Authority of Singapore (IDA) in 2007 to monitor cyber threats to government networks and provide early warning of impending cyberattacks.", 
+        "sentence_id,": "0c144625cf"
+    }, 
+    {
+        "sentence": "To improve the detection of malicious activities which could affect access to online public services, the CWC was upgraded in 2015 with a wider range of detection capabilities and enhanced correlation capabilities.", 
+        "sentence_id,": "63f87c5b3a"
+    }, 
+    {
+        "sentence": "This is an example of a proactive defence-in-depth security measure to mitigate increasingly sophisticated attacks and enhance infocomm infrastructure security.", 
+        "sentence_id,": "12a5010cc5"
+    }, 
+    {
+        "sentence": "CHAPTER 1 21 CHAPTER 2 A SAFER CYBERSPACE Digital connectivity has both empowered and endangered businesses and individuals.", 
+        "sentence_id,": "10c3d5e7e9"
+    }, 
+    {
+        "sentence": "It opens new social and commercial opportunities, yet also exposes citizens to criminal syndicates across the world.", 
+        "sentence_id,": "d55c9d50be"
+    }, 
+    {
+        "sentence": "By commandeering computing devices, these malicious actors can steal data, extort money, and attack networks, causing harm to others.", 
+        "sentence_id,": "786f944f64"
+    }, 
+    {
+        "sentence": "Cyberspace needs to be kept safe and trustworthy for businesses and individuals to benefit from it.", 
+        "sentence_id,": "82c861163d"
+    }, 
+    {
+        "sentence": "Keeping cyberspace safe requires a spectrum of actions from the international to individual levels.", 
+        "sentence_id,": "a8b9bd1d83"
+    }, 
+    {
+        "sentence": "Countries have to cooperate to take down criminals operating across borders, while businesses and individuals can take preventive measures to keep their systems and devices safe.", 
+        "sentence_id,": "26cedd4769"
+    }, 
+    {
+        "sentence": "Cybersecurity is the collective responsibility of everyone - the Government, businesses, individuals and the community.", 
+        "sentence_id,": "296e8955ac"
+    }, 
+    {
+        "sentence": "The Government will: Combat cybercrime through the National Cybercrime Action Plan (NCAP).", 
+        "sentence_id,": "89268f0053"
+    }, 
+    {
+        "sentence": "The National Cybercrime Action Plan (NCAP) was launched in July 2016 to establish a coordinated national effort to deal with cybercrime.", 
+        "sentence_id,": "02ab441ec2"
+    }, 
+    {
+        "sentence": "First, we will educate and empower the public to stay safe in cyberspace, as it is more effective to prevent a cybercrime from happening in the first place.", 
+        "sentence_id,": "2aa12c793d"
+    }, 
+    {
+        "sentence": "Second, we will enhance the Governments capacity and capability to combat cybercrime, in view of cybercrimes transnational nature, speed and scale.", 
+        "sentence_id,": "8f360ff1b8"
+    }, 
+    {
+        "sentence": "Next, we will strengthen legislation and the criminal justice framework.", 
+        "sentence_id,": "e1ce509b08"
+    }, 
+    {
+        "sentence": "This will support the investigation of cybercrimes and prosecution of cybercriminals.", 
+        "sentence_id,": "7c3f971913"
+    }, 
+    {
+        "sentence": "Finally, we will step up partnerships and international engagement to manage the rapidly evolving nature of cybercrime and tackle cross-border issues.", 
+        "sentence_id,": "5edd45d953"
+    }, 
+    {
+        "sentence": "Enhance Singapores standing as a trusted hub.", 
+        "sentence_id,": "2a0b94a92f"
+    }, 
+    {
+        "sentence": "We will build a trusted data ecosystem by fostering trust between organisations and users for data usage.", 
+        "sentence_id,": "20a3233c5f"
+    }, 
+    {
+        "sentence": "Next, we will develop Data Protection Officers as a professional career track to support the effective implementation of data protection measures.", 
+        "sentence_id,": "7e8444299e"
+    }, 
+    {
+        "sentence": "We will also strengthen Singapores position as a data hub by facilitating crossborder data flows and introducing Data Protection TrustMarks.", 
+        "sentence_id,": "02eb3176a8"
+    }, 
+    {
+        "sentence": "Finally, we will work with partners global institutions, other governments, industry partners and Internet Service Providers to achieve a cleaner internet by regularly measuring the health of the Internet, identifying cyber threats quickly and reducing malicious traffic.", 
+        "sentence_id,": "57f3fd6a66"
+    }, 
+    {
+        "sentence": "Promote collective responsibility for cybersecurity.", 
+        "sentence_id,": "cfa2d1a72b"
+    }, 
+    {
+        "sentence": "The actions of each business and individual can impact our collective safety in cyberspace.", 
+        "sentence_id,": "eb10f697d4"
+    }, 
+    {
+        "sentence": "Businesses and individuals need to stay informed and take preventive measures to secure their computer systems and digital devices, particularly to prevent malicious actors from hijacking their systems and devices to cause harm to others.", 
+        "sentence_id,": "924b9f0b9e"
+    }, 
+    {
+        "sentence": "Communities and business associations can take the lead to make cybersecurity a priority, and tap on government cybersecurity expertise to improve their members understanding of cybersecurity issues and encourage adoption of good practices.", 
+        "sentence_id,": "716a64f606"
+    }, 
+    {
+        "sentence": "With the right knowledge, expertise and attitude, we can all reap the full benefits and possibilities of technology.", 
+        "sentence_id,": "8b8fe0194d"
+    }, 
+    {
+        "sentence": "CYBERCRIME: THE NEW CRIMINAL FRONTIER The growth of the Internet has created numerous business and social opportunities.", 
+        "sentence_id,": "e10378638b"
+    }, 
+    {
+        "sentence": "However, where there are opportunities, there are also risks.", 
+        "sentence_id,": "2618818623"
+    }, 
+    {
+        "sentence": "Locally and internationally, the Internet has been exploited for cybercrimes like scams, hacks and thefts.", 
+        "sentence_id,": "07709fcfc3"
+    }, 
+    {
+        "sentence": "For businesses, malicious cyber activities may cause service disruptions and loss of data pertaining to customers, employees, and commercial entities.", 
+        "sentence_id,": "87750e9def"
+    }, 
+    {
+        "sentence": "These can result in substantial revenue losses, erosion of customer goodwill, and loss of reputation.", 
+        "sentence_id,": "e3de4b8ddb"
+    }, 
+    {
+        "sentence": "Inextricably, personal lives may also be affected.", 
+        "sentence_id,": "896e2c8390"
+    }, 
+    {
+        "sentence": "For individuals, poor personal cybersecurity habits can open doors to cybercrime and malicious activities.", 
+        "sentence_id,": "9d2b1b2a28"
+    }, 
+    {
+        "sentence": "Extortion, fraud, and adverse credit ratings are some of the detrimental consequences that individuals and their families may face, when their computers and mobile devices are compromised and personal data stolen.", 
+        "sentence_id,": "a9a9852a66"
+    }, 
+    {
+        "sentence": "Ransomware In May 2016, ransomware encrypted University of Calgarys computer systems on the eve of a conference.", 
+        "sentence_id,": "9a20c31841"
+    }, 
+    {
+        "sentence": "The conference organisers had to re-create processes and conference data by hand for the event to continue.", 
+        "sentence_id,": "df349e58e3"
+    }, 
+    {
+        "sentence": "To prevent the malware from spreading to the rest of the systems, the University had to shut down other IT services, causing a week-long, campuswide disruption that was more far-reaching than the impact of the malware.", 
+        "sentence_id,": "ef761f5d67"
+    }, 
+    {
+        "sentence": "The malicious actors behind this incident demanded the equivalent of Canadian $20,000 in Bitcoins to decrypt the data.", 
+        "sentence_id,": "d94b919cd4"
+    }, 
+    {
+        "sentence": "The University eventually gave in and paid the ransom to retrieve the research data.", 
+        "sentence_id,": "fcc9b34496"
+    }, 
+    {
+        "sentence": "Supply chain malware attack In 2013, more than 40 million credit card numbers were stolen through malware that was injected into the US retailer Targets Point-of-Sales system.", 
+        "sentence_id,": "06841996dc"
+    }, 
+    {
+        "sentence": "Although Target had multiple cybersecurity solutions in place, the malware slipped in through one of Targets vendors.", 
+        "sentence_id,": "d3f7d74b91"
+    }, 
+    {
+        "sentence": "Further investigations were hindered as the stolen data was sent offshore.", 
+        "sentence_id,": "a38945acd0"
+    }, 
+    {
+        "sentence": "Target incurred US$252 million of breach-related expenses and faced several lawsuits.", 
+        "sentence_id,": "7bfa00464a"
+    }, 
+    {
+        "sentence": "Targets CEO held himself personally accountable and resigned.", 
+        "sentence_id,": "f1c3e910e7"
+    }, 
+    {
+        "sentence": "24 CHAPTER 2 Distributed Denial of Service (DDoS) Smartphone hack In January 2016, online banking services for millions of HSBC UK customers were taken offline by a DDoS attack.", 
+        "sentence_id,": "6517b684b7"
+    }, 
+    {
+        "sentence": "The disruption happened on an important day for personal finances; it was the first pay-day of the year, and two days before the deadline for personal tax returns.", 
+        "sentence_id,": "f34de9890f"
+    }, 
+    {
+        "sentence": "Many HSBC customers took to social media to vent their anger.", 
+        "sentence_id,": "d6536aba81"
+    }, 
+    {
+        "sentence": "In 2015, 50 Singapore users had their smartphones infected by a malware that disguised itself as a banking application to steal credit card details and other user credentials.", 
+        "sentence_id,": "42aa88479f"
+    }, 
+    {
+        "sentence": "Todays smartphones are essentially computers that execute highly personal tasks while being always connected to the Internet, making them attractive targets for cybercrime.", 
+        "sentence_id,": "e16d32cc3f"
+    }, 
+    {
+        "sentence": "DDoS attacks work by overwhelming websites with Internet traffic.", 
+        "sentence_id,": "d309e2ecb4"
+    }, 
+    {
+        "sentence": "Globally, such attacks have become more frequent against even small businesses.", 
+        "sentence_id,": "b8f4fbfd9c"
+    }, 
+    {
+        "sentence": "Attacks can be used to protest against a company, take down a competitor temporarily, or be part of extortion threats.", 
+        "sentence_id,": "a91a60e7e3"
+    }, 
+    {
+        "sentence": "Online scams Malware enabled heist In February 2016, US$81 million was stolen from Bangladeshi Bank in a carefully coordinated hack.", 
+        "sentence_id,": "cf6ba4593e"
+    }, 
+    {
+        "sentence": "After using stolen credentials to initiate fraudulent bank transfers, the hackers used malware to hide the traces of the transactions, hindering remediation actions.", 
+        "sentence_id,": "08a24f67b9"
+    }, 
+    {
+        "sentence": "Traditional crime is increasingly migrating to where Singaporeans spend a good part of their time online.", 
+        "sentence_id,": "72ce8b07e0"
+    }, 
+    {
+        "sentence": "The number of e-commerce and online scam cases in Singapore doubled from 1,929 in 2014 to 3,759 in 2015, resulting in a loss of S$16.7 million.", 
+        "sentence_id,": "9976a302ce"
+    }, 
+    {
+        "sentence": "CHAPTER 2 25 COMBAT CYBERCRIME National Cybercrime Action Plan (NCAP) The Internet has afforded criminal elements the opportunity to commit cybercrimes quickly, easily and on a large scale.", 
+        "sentence_id,": "573bd38988"
+    }, 
+    {
+        "sentence": "Criminals have also exploited the anonymity provided by the Internet and the transnational nature of cybercrime to escape detection and prosecution.", 
+        "sentence_id,": "9616276344"
+    }, 
+    {
+        "sentence": "These characteristics of cybercrime pose significant challenges for law enforcement agencies around the world.", 
+        "sentence_id,": "f8c74c87e9"
+    }, 
+    {
+        "sentence": "As the use of the Internet becomes more prevalent in Singapore, the number of cybercrime cases has risen sharply.", 
+        "sentence_id,": "5bba41a03e"
+    }, 
+    {
+        "sentence": "The NCAP sets out the Governments key principles and priorities in combating cybercrime.", 
+        "sentence_id,": "f84aadfccf"
+    }, 
+    {
+        "sentence": "The Plan also details the Governments ongoing efforts and future plans to tackle cybercrime.", 
+        "sentence_id,": "96e0bf98ff"
+    }, 
+    {
+        "sentence": "The vision of the NCAP is to ensure a safe and secure online environment for Singapore.", 
+        "sentence_id,": "47ae7b2e88"
+    }, 
+    {
+        "sentence": "The NCAP has four priority areas: Educating and empowering the public to stay safe in cyberspace A Prevention is the best way to combat cybercrime; the majority of cybercrimes can be prevented if businesses and individuals are educated on the risks of cybercrime and adopt simple cybercrime prevention measures to protect themselves online.", 
+        "sentence_id,": "3690dd5f4b"
+    }, 
+    {
+        "sentence": "26 CHAPTER 2 (i) Conducting outreach to the general public (ii) Engagement of vulnerable groups in society In order to educate and empower the public to stay safe in cyberspace, the Singapore Police Force (SPF) regularly shares cybercrime prevention messages with the public via various media platforms, such as television, newspapers, social media, text messages and posters at public transport nodes and lifts in public housing blocks.", 
+        "sentence_id,": "960aa0a2a7"
+    }, 
+    {
+        "sentence": "At the local community level, SPFs Neighbourhood Police Centres frequently engage the residents through Community Safety & Security Programmes and roadshows.", 
+        "sentence_id,": "e8c69b7776"
+    }, 
+    {
+        "sentence": "Through its Public Cyber-Outreach & Resilience Programme (PCORP), SPF uses behavioural insights to nudge the general public to adopt good cyber hygiene practices.", 
+        "sentence_id,": "3d6fe70a21"
+    }, 
+    {
+        "sentence": "SPF has also tailored its cybercrime prevention outreach programmes to match the profile of different vulnerable groups in society, thereby ensuring that the message of cybercrime prevention is effectively communicated to all segments of society.", 
+        "sentence_id,": "01068fb412"
+    }, 
+    {
+        "sentence": "Through its Collaborative Social Programme (CoSP), SPF will work with schools and NonGovernmental Organisations (NGOs) to raise cybercrime prevention awareness among vulnerable groups.", 
+        "sentence_id,": "cf0abc33ec"
+    }, 
+    {
+        "sentence": "(iii) Providing a one-stop selfhelp portal against scams SPF has worked with the National Crime Prevention Council (NCPC) to transform the Scam Alert website (www.scamalert.sg) into a one-stop self-help portal against scams.", 
+        "sentence_id,": "c4aae6c494"
+    }, 
+    {
+        "sentence": "The portal will provide information to the public on the different types of scams, and empower the public to take steps to guard against them.", 
+        "sentence_id,": "1c523e1dd9"
+    }, 
+    {
+        "sentence": "B Enhancing the Governments capacity and capability to combat cybercrime The transnational nature of cybercrimes, coupled with the speed and scale at which such crimes are perpetrated, presents formidable challenges for traditional law enforcement approaches.", 
+        "sentence_id,": "6598749854"
+    }, 
+    {
+        "sentence": "In order to effectively combat cybercrime, the Government will (i) establish the SPF Cybercrime Command, (ii) boost cybercrime investigation capabilities, (iii) equip public officers with the relevant skills to combat cybercrime, and (iv) enhance coordination between SPF and government agencies.", 
+        "sentence_id,": "35c90e9e2d"
+    }, 
+    {
+        "sentence": "(i) Establishing the SPF Cybercrime Command The SPF Cybercrime Command was established in December 2015 to increase the agility and effectiveness of the SPF to respond to cybercrimes by integrating SPFs cyber-related investigation, forensics, intelligence and crime prevention capabilities within a single command.", 
+        "sentence_id,": "d535633300"
+    }, 
+    {
+        "sentence": "(ii) Boosting cybercrime investigation capabilities SPF has also embarked on several technology initiatives to improve its cybercrime investigation capabilities.", 
+        "sentence_id,": "a00d42bb93"
+    }, 
+    {
+        "sentence": "These efforts will enable SPF to effectively investigate the rising number of cybercrime cases and quickly process large volumes of digital information in order to sieve out necessary evidence for a successful prosecution.", 
+        "sentence_id,": "1a69f9cb65"
+    }, 
+    {
+        "sentence": "One such initiative is the DIGital Evidence Search Tool (DIGEST) that will automate the forensic processing of voluminous data.", 
+        "sentence_id,": "20cc04bc86"
+    }, 
+    {
+        "sentence": "This will in turn lighten the workload of investigation officers and allow them to focus their efforts on more specialised investigation functions.", 
+        "sentence_id,": "c54b375751"
+    }, 
+    {
+        "sentence": "The tool will also reduce the processing time for digital evidence, ensuring that investigation officers can follow up on leads expeditiously and solve cases in a shorter time.", 
+        "sentence_id,": "40b7e77e83"
+    }, 
+    {
+        "sentence": "(iii) Equipping public officers handling sensitive data with the relevant skills to combat cybercrime cybercrime.", 
+        "sentence_id,": "c5cb3e93f6"
+    }, 
+    {
+        "sentence": "To achieve this, a Cyber Security Lab (CSL) has been set up in the CCSS as a modern hands-on facility for familiarising trainees on approaches to mitigate cyber threats and investigate cyber incidents.", 
+        "sentence_id,": "d78b43545f"
+    }, 
+    {
+        "sentence": "CCSS will expand its curriculum to offer a variety of skills-based courses, ranging from cybersecurity fundamentals and cyber defence, to incident response, digital forensics and malware analysis.", 
+        "sentence_id,": "85d2ce3be1"
+    }, 
+    {
+        "sentence": "These courses are tailored to the needs of officers, depending on their professional roles and competency requirements.", 
+        "sentence_id,": "babbeac558"
+    }, 
+    {
+        "sentence": "(iv) Strengthening coordination between SPF and government agencies SPF also works closely with its partner agencies to ensure a coordinated response to cybercrimes.", 
+        "sentence_id,": "8fca700e63"
+    }, 
+    {
+        "sentence": "In recent years, AGC and SPF have worked closely together on sensitive and highprofile cybercrime cases, coming together right from the start of the investigations.", 
+        "sentence_id,": "b4fc709dc7"
+    }, 
+    {
+        "sentence": "AGCs expertise has helped SPF to ensure that crucial evidence is secured at an early stage and that police investigations are watertight.", 
+        "sentence_id,": "0962a8ec16"
+    }, 
+    {
+        "sentence": "Given the closely-related nature of cybersecurity and cybercrime, SPF and CSA will work together to ensure an effective response to cyber-related incidents and conduct exercises to stress-test existing workflows, coordination arrangements and procedures.", 
+        "sentence_id,": "c9b1e5afad"
+    }, 
+    {
+        "sentence": "In recognition of growing cybersecurity and cybercrime threats, the Centre for Cyber Security Studies (CCSS) was established in 2014 within the Home Team Academy (HTA).", 
+        "sentence_id,": "f71de0604a"
+    }, 
+    {
+        "sentence": "The CCSS facilitates the capability and capacity development of Home Team Departments and key stakeholders responsible for the protection and operations of infocomm systems across the public sector.", 
+        "sentence_id,": "7088ca93ce"
+    }, 
+    {
+        "sentence": "One of CCSS core functions is to equip Home Team officers with the necessary skills to deal with CHAPTER 2 27 Strengthening legislation and the criminal justice framework C The investigation of cybercrimes and prosecution of cybercriminals must be supported by a robust criminal justice framework.", 
+        "sentence_id,": "94cbed12cf"
+    }, 
+    {
+        "sentence": "Laws need to be updated to deal with new cyber-offences and traditional crimes committed online.", 
+        "sentence_id,": "29d7afa6ea"
+    }, 
+    {
+        "sentence": "Regulatory frameworks have to be constantly strengthened to prevent criminals from taking advantage of loopholes.", 
+        "sentence_id,": "f0bec14f56"
+    }, 
+    {
+        "sentence": "Stepping up partnerships and international engagement D Industry and Academic Partnerships Deep expertise to deal with cybercrimes need not just reside with the Government and can be found within the private sector and academia.", 
+        "sentence_id,": "21cd416c18"
+    }, 
+    {
+        "sentence": "Given the rapidly evolving nature of cybercrime, the Government will work closely with industry players and Institute of Higher Learning (IHLs) so that the necessary information and expertise to deal with the latest threat posed by cybercrime can be shared seamlessly.", 
+        "sentence_id,": "ae24c60e89"
+    }, 
+    {
+        "sentence": "28 CHAPTER 2 (i) Amending the Computer Misuse and Cybersecurity Act (iii) Strengthening regulatory frameworks MHA intends to amend the Computer Misuse and Cybersecurity Act (CMCA), to ensure that the Act continues to be effective in dealing with the transnational nature of cybercrimes, as well as the evolving tactics of cybercriminals.", 
+        "sentence_id,": "e06538ad67"
+    }, 
+    {
+        "sentence": "Aside from public education and outreach, a key method of cybercrime prevention is to increase the difficulty of committing such offences by plugging potential loopholes in digital platforms and processes.", 
+        "sentence_id,": "b03edfb119"
+    }, 
+    {
+        "sentence": "MHA will regularly review regulatory frameworks, to ensure that cybercriminals are not able to exploit vulnerabilities in technology.", 
+        "sentence_id,": "2eeddc931d"
+    }, 
+    {
+        "sentence": "(ii) Reviewing other laws In addition to amending the CMCA, MHA will review other related laws such as the Criminal Procedure Code to ensure that these laws remain relevant in dealing with traditional crimes that are committed in cyberspace.", 
+        "sentence_id,": "9905b9b8f5"
+    }, 
+    {
+        "sentence": "(i) Increasing cybercrime awareness in the private sector (ii) Developing capabilities to combat cybercrime MHA has partnered industry and IHLs to increase awareness of cybercrimes in the private sector.", 
+        "sentence_id,": "857d7fc2ca"
+    }, 
+    {
+        "sentence": "SPF regularly engages key private sector stakeholders, such as those from the Infocomm Technology and banking industries to enhance cybercrime prevention efforts, raise awareness of cybercrimes and encourage the adoption of good cyber hygiene practices.", 
+        "sentence_id,": "80dafb8b36"
+    }, 
+    {
+        "sentence": "The Government has also collaborated with the private sector to jointly develop capabilities to respond to the latest cyber threats.", 
+        "sentence_id,": "7454e38ca0"
+    }, 
+    {
+        "sentence": "For instance, SPF has partnered local research institutes to develop new cybercrime investigations and forensics capabilities.", 
+        "sentence_id,": "04196100cf"
+    }, 
+    {
+        "sentence": "MHA has also worked with IHLs to create conducive environments for the development of cyber-related innovations.", 
+        "sentence_id,": "eb43968246"
+    }, 
+    {
+        "sentence": "One example is MHA and Temasek Polytechnics joint establishment of the Temasek Advanced LEarning, Nurturing and Testing (TALENT) Lab, which serves as a platform for IHL students to design and validate innovations, to see if they are effective in dealing with cyber-threats.", 
+        "sentence_id,": "497747bb33"
+    }, 
+    {
+        "sentence": "Prevention is key in countering the threat of cybercrime The scale and complexity of cybercrime will continue to grow, with its transnational nature posing legal and operational difficulties for law enforcement agencies.", 
+        "sentence_id,": "aad72b4a7b"
+    }, 
+    {
+        "sentence": "Prevention is therefore still the key strategy to counter the threat of cybercrime.", 
+        "sentence_id,": "225bfc3843"
+    }, 
+    {
+        "sentence": "The NCAP will prioritise educating International engagement Strong international partnerships enable countries to deal with cybercrime more effectively.", 
+        "sentence_id,": "d57a0144dc"
+    }, 
+    {
+        "sentence": "Singapore will actively foster regional and global cooperation, partner INTERPOL and other countries in capacity building initiatives, and bring global experts and thought leaders together to discuss the latest threats, trends and solutions in the cyber domain, and share best practices and solutions.", 
+        "sentence_id,": "49b087df8a"
+    }, 
+    {
+        "sentence": "and empowering the public to be safe in cyberspace.", 
+        "sentence_id,": "64bc6fa435"
+    }, 
+    {
+        "sentence": "Through the various initiatives in the NCAP, the Government will build strong partnerships with industry, IHLs and the public, and forge a sense of shared responsibility in the fight against cybercrime.", 
+        "sentence_id,": "0333e0a2b7"
+    }, 
+    {
+        "sentence": "(i) Fostering regional and global cooperation Singapore is at the forefront of working with foreign countries to enhance our operational cooperation against cybercrime.", 
+        "sentence_id,": "6a00a22d6d"
+    }, 
+    {
+        "sentence": "At the regional level, Singapore is the Association of Southeast Asian Nations (ASEAN) Voluntary Lead Shepherd on Cybercrime.", 
+        "sentence_id,": "39398ce9c1"
+    }, 
+    {
+        "sentence": "This provides a platform for the ASEAN Member States (AMS) to coordinate the regional approach to cybercrime, and work together on capacity building, training and the sharing of information.", 
+        "sentence_id,": "6851ca374d"
+    }, 
+    {
+        "sentence": "At the international level, Singapore hosts the INTERPOL Global Complex for Innovation (IGCI), INTERPOLs global hub on cybercrime.", 
+        "sentence_id,": "627ab7e18f"
+    }, 
+    {
+        "sentence": "Singapore has led the IGCI Working Group and INTERPOL Operational Expert Group on Cybercrime, working with other INTERPOL member countries to define INTERPOLs cybercrime programme.", 
+        "sentence_id,": "d3e4fc9670"
+    }, 
+    {
+        "sentence": "Singapore will leverage INTERPOLs resources to strengthen our global operational networks and build new capabilities to tackle cybercrime.", 
+        "sentence_id,": "cd893b661d"
+    }, 
+    {
+        "sentence": "(ii) Building capacities and capabilities through collaboration at the regional and global levels Singapore has rolled out several programmes with partner countries and INTERPOL.", 
+        "sentence_id,": "86e9cce2ab"
+    }, 
+    {
+        "sentence": "This includes the two-year (2016 2018) ASEAN Cyber Capacity Development Project funded by Japan and implemented by INTERPOL, the Singapore-United States Third Country Training Programme, and the ASEAN Plus Three Cybercrime Workshop, involving the Peoples Republic of China, Japan and the Republic of Korea.", 
+        "sentence_id,": "f5c38f7f27"
+    }, 
+    {
+        "sentence": "The involvement of key Asian partners, AMS and INTERPOL facilitates a conducive environment for collaboration on cybercrime issues and sharing of best practices, and forging of effective operational links between countries and across the regions.", 
+        "sentence_id,": "3b36973dfc"
+    }, 
+    {
+        "sentence": "(iii) Bringing global experts and thought leaders together Since 2013, Singapore has been supporting thought leadership platforms that bring together public sector and industry partners on cybercrime.", 
+        "sentence_id,": "7520ae4095"
+    }, 
+    {
+        "sentence": "One such example is the RSA Conference Asia Pacific and Japan (RSAC APJ).", 
+        "sentence_id,": "e45efb11fe"
+    }, 
+    {
+        "sentence": "Held annually in Singapore, the RSAC APJ is Asia Pacifics leading conference on information security.", 
+        "sentence_id,": "9169f9f6ab"
+    }, 
+    {
+        "sentence": "CHAPTER 2 29 ENHANCE SINGAPORE'S STANDING AS A TRUSTED HUB Build a trustworthy data ecosystem The compromise of personal data can cause adverse disruptions to the affected individuals and businesses.", 
+        "sentence_id,": "1da3d1e4f6"
+    }, 
+    {
+        "sentence": "With increasing amounts of data migrating to computer systems and electronic devices, there is a need to secure these systems and safeguard individuals data against theft and misuse.", 
+        "sentence_id,": "d1ad6fc9b7"
+    }, 
+    {
+        "sentence": "At the same time, organisations can leverage good personal data management to gain a better understanding of their customers, increase business efficiency and effectiveness, and boost customer confidence.", 
+        "sentence_id,": "e0ddbb4168"
+    }, 
+    {
+        "sentence": "Trust is essential for a data-enabled economy and society.", 
+        "sentence_id,": "9fa4efc0e3"
+    }, 
+    {
+        "sentence": "To build a trusted data ecosystem, our organisations have to shift from compliance to accountability.", 
+        "sentence_id,": "f15fe45d60"
+    }, 
+    {
+        "sentence": "Singapore will: Work with organisations to embrace data protection as part of their corporate culture; Professionalise Data Protection Officers to support the effective implementation of data protection measures; and Enhance Singapores standing as a trusted data hub by introducing Data Protection Trustmarks and working with foreign Data Protection Authorities to facilitate crossborder data flows.", 
+        "sentence_id,": "6d5a59e759"
+    }, 
+    {
+        "sentence": "Build a relationship of trust A reliable and robust data ecosystem promotes trust and innovation.", 
+        "sentence_id,": "2f4089fcd0"
+    }, 
+    {
+        "sentence": "To help organisations take ownership in promoting trust and adopting a mindset of accountability, the Personal Data Protection Commission (PDPC) will develop a Data Protection Management Programme to help organisations embrace data protection as part of their corporate culture.", 
+        "sentence_id,": "abd8cefcf8"
+    }, 
+    {
+        "sentence": "Robust data protection processes are needed to enable organisations to better use data.", 
+        "sentence_id,": "4f0b77c17b"
+    }, 
+    {
+        "sentence": "To do so, organisations should adopt a DataProtectionby-Design approach, which factors data protection as a key consideration in the early stages of any product or service development.", 
+        "sentence_id,": "a7b351962e"
+    }, 
+    {
+        "sentence": "The rigour of this framework will also require that businesses conduct Data Protection Impact Assessment as part of the design, rollout and review of systems, 30 CHAPTER 2 Ongoing efforts for personal data protection Personal Data Protection Seminar 2016 applications and business processes.", 
+        "sentence_id,": "301041e0b1"
+    }, 
+    {
+        "sentence": "Given that data breaches can and will still happen despite organisations best efforts at securing personal data, PDPC is studying a mandatory breach notification for serious data breaches.", 
+        "sentence_id,": "4b109a7dd8"
+    }, 
+    {
+        "sentence": "Under the Personal Data Protection Act (PDPA), organisations are to take reasonable steps to manage and secure personal information that they hold.", 
+        "sentence_id,": "92bb39c053"
+    }, 
+    {
+        "sentence": "Today, the PDPC adopts a multi-pronged approach in supporting organisations, particularly the Small and Medium-sized Enterprises (SMEs).", 
+        "sentence_id,": "9d729d625a"
+    }, 
+    {
+        "sentence": "Through industry briefings, online training resources, and advisory guidelines, SMEs are equipped with information on the requirements of the PDPA and good data management practices to adopt.", 
+        "sentence_id,": "91e7a18d87"
+    }, 
+    {
+        "sentence": "Professionalise Data Protection Officers Enhance Singapores standing as a trusted data hub Today, Data Protection Officers (DPOs) hail from a range of occupations.", 
+        "sentence_id,": "4d4e64a87d"
+    }, 
+    {
+        "sentence": "PDPC will develop a Data Protection Competency Framework (DPCF) to grow DPOs as a professional career dedicated to overseeing data protection requirements of organisations.", 
+        "sentence_id,": "636422d92a"
+    }, 
+    {
+        "sentence": "This will ensure that DPOs are equipped with the relevant skills, competencies, and certifications needed to do their jobs.", 
+        "sentence_id,": "51dcbc39a0"
+    }, 
+    {
+        "sentence": "PDPC is currently developing a system of Data Protection Trustmarks to certify organisations data protection processes.", 
+        "sentence_id,": "f7080f3dc6"
+    }, 
+    {
+        "sentence": "By helping organisations gain mutual confidence in each others transactions involving personal information, the Trustmarks will increase compliance and reinforce Singapores standing as a trusted data hub.", 
+        "sentence_id,": "5d5801778f"
+    }, 
+    {
+        "sentence": "Another focus area is the facilitation of cross-border data flows.", 
+        "sentence_id,": "de1e0af6f9"
+    }, 
+    {
+        "sentence": "PDPC will identify areas of collaborations and cooperation with well-established foreign Data Protection Authorities.", 
+        "sentence_id,": "fb842d9d28"
+    }, 
+    {
+        "sentence": "It will participate in global multilateral networks to mutually recognise the adequacy of each economys data protection laws, thus enabling transfers of data across jurisdictions.", 
+        "sentence_id,": "c2d5a34e47"
+    }, 
+    {
+        "sentence": "Cleaner Internet The Internets ability in allowing anyone to send large volumes of any form of information data, voice, video - to another user has propelled it to be the worlds dominant communication platform.", 
+        "sentence_id,": "33415b528c"
+    }, 
+    {
+        "sentence": "However, this design exposes end-users' machines to malicious software that can hijack these devices to blast phishing emails and even launch cyber-attacks.", 
+        "sentence_id,": "a9489214ed"
+    }, 
+    {
+        "sentence": "The increasing number of infected machines spewing malicious traffic into the Internet has made cyberspace less safe for everyone.", 
+        "sentence_id,": "9abe4d1a37"
+    }, 
+    {
+        "sentence": "Just as we would stop people who eject sewage into clean water pipes, we will also have to block users who may be unwittingly polluting the Internet pipeline and alert them on measures for cleaning up their machines.", 
+        "sentence_id,": "7bba1bbbc8"
+    }, 
+    {
+        "sentence": "As gatekeepers managing the Internet gateways and enabling information flows across the Internet, local Internet Service Providers (ISPs) play an essential role to achieve a safer Internet space.", 
+        "sentence_id,": "e0702fb1bc"
+    }, 
+    {
+        "sentence": "In 2011, the Government issued the first Secure and Resilient Internet Infrastructure Code of Practice to designated ISPs to ensure that sound security is in place to deal with current and emerging cyber threats.", 
+        "sentence_id,": "d0a2b0d3a9"
+    }, 
+    {
+        "sentence": "The Info-communications Media Development Authority (IMDA) will continue working with the ISPs to secure Internet infrastructure for businesses and individuals.", 
+        "sentence_id,": "bf1c22a358"
+    }, 
+    {
+        "sentence": "Singapore will join the global community to measure and improve the health state of cyberspace, and CSA will collaborate with international organisations on this front.", 
+        "sentence_id,": "1335b37474"
+    }, 
+    {
+        "sentence": "To complement these efforts, the Singapore Computer Emergency Response Team (SingCERT) will continue to obtain early warning of cyber threats and alert users on the preventive measures they can adopt.", 
+        "sentence_id,": "eac0267290"
+    }, 
+    {
+        "sentence": "CHAPTER 2 31 PROMOTE COLLECTIVE RESPONSIBILITY The prevalence of ICT and the Internet has transformed the way we work, play, live, learn and connect with one another.", 
+        "sentence_id,": "3bd8519f90"
+    }, 
+    {
+        "sentence": "Just as we lock our doors and keep our keys safe in the physical world, we have a similar responsibility to stay safe in the cyber world.", 
+        "sentence_id,": "0b005cb131"
+    }, 
+    {
+        "sentence": "Individuals now keep more of their friends and families personal data than ever before on personal devices.", 
+        "sentence_id,": "0eac5d3afe"
+    }, 
+    {
+        "sentence": "The stakes are higher for businesses as they are custodians of computerised data that are vital to operations and impact customers lives.", 
+        "sentence_id,": "49b675c95a"
+    }, 
+    {
+        "sentence": "Cybersecurity is a collective responsibility and a way of putting Total Defence into action to keep Singapore safe.", 
+        "sentence_id,": "59525e609c"
+    }, 
+    {
+        "sentence": "Everyone, whether individuals or businesses, has a role in creating a safer cyberspace.", 
+        "sentence_id,": "6d83713810"
+    }, 
+    {
+        "sentence": "This needs to be a continuous effort as old technology gets upgraded with smart features.", 
+        "sentence_id,": "6db5f57d7b"
+    }, 
+    {
+        "sentence": "Today, 8 in 10 Singapore residents install anti-virus software on their computers but only 3 in 10 do so on their smartphones.", 
+        "sentence_id,": "f807172c18"
+    }, 
+    {
+        "sentence": "CSA will keep the public updated on new cybersecurity measures to keep pace with technological changes.", 
+        "sentence_id,": "9ddab4e2c5"
+    }, 
+    {
+        "sentence": "We will also broaden their reach across age groups, and to include both individuals and businesses.", 
+        "sentence_id,": "ccbc093650"
+    }, 
+    {
+        "sentence": "We will leverage national security awareness building platforms such as the Total Defence and Lets Stand Together campaigns to raise appreciation of the role of cybersecurity for a strong and prepared nation.", 
+        "sentence_id,": "b1a28083d7"
+    }, 
+    {
+        "sentence": "We will expand the range of resources on the GoSafeOnline web portal and other critical social media platforms.", 
+        "sentence_id,": "c45d7ff9d1"
+    }, 
+    {
+        "sentence": "Public education can be more effective through collaborative projects across the government, industry and community.", 
+        "sentence_id,": "3b0e76fbb9"
+    }, 
+    {
+        "sentence": "Another example is the Cyber Security Awareness Alliance, which brought together government agencies, private enterprises, and professional associations to promote the adoption of essential cybersecurity practices.", 
+        "sentence_id,": "aafa3c424e"
+    }, 
+    {
+        "sentence": "Since its formation in 2008, the Alliance has reached out to various audiences through exhibitions, clinics and talks.", 
+        "sentence_id,": "4648a64657"
+    }, 
+    {
+        "sentence": "\"Having strong security technology is not enough [] training employees in cybersecurity is critical. \"", 
+        "sentence_id,": "97dbe345b7"
+    }, 
+    {
+        "sentence": "Mr Teo Siong Seng, Singapore Business Federation Chairman, 2015 National Security Conference 2015, In Conversation - How ready are Singapore Companies?", 
+        "sentence_id,": "a0a4c7395b"
+    }, 
+    {
+        "sentence": "Make cybersecurity a business priority For sustained and sustainable cybersecurity adoption, cyber risks should be recognised and treated as important business risks.", 
+        "sentence_id,": "03520c9140"
+    }, 
+    {
+        "sentence": "Trade Associations and Chambers (TACs) play an important role in reaching out to businesses.", 
+        "sentence_id,": "9d3392abb5"
+    }, 
+    {
+        "sentence": "Trade Associations and Chambers (TACs) play an important role in improving the cybersecurity of their members business operations.", 
+        "sentence_id,": "80e50707ef"
+    }, 
+    {
+        "sentence": "The Government will continue engaging TACs to help their members tap on grants and resources to adopt cybersecurity measures and develop cybersecurity capabilities.", 
+        "sentence_id,": "a17e772837"
+    }, 
+    {
+        "sentence": "We will also work with TACs to advocate the Security-by-Design approach and incorporate cybersecurity holistically into business risk management.", 
+        "sentence_id,": "1a66ba640e"
+    }, 
+    {
+        "sentence": "Tap on government cybersecurity expertise Businesses may find it challenging to keep pace with new cyber threats.", 
+        "sentence_id,": "1a4aa474aa"
+    }, 
+    {
+        "sentence": "SingCERT, which was set up in 1997 to facilitate the detection, resolution and prevention of cybersecurity related incidents, will deepen its threat discovery and analysis capabilities to deal with the evolving local cyber threat environment.", 
+        "sentence_id,": "8e0cbb7d97"
+    }, 
+    {
+        "sentence": "SingCERT will expand its capacity to facilitate the sharing of cybersecurity information with the business community, while ensuring that sensitive corporate and personal data are protected.", 
+        "sentence_id,": "454dd2fd77"
+    }, 
+    {
+        "sentence": "It will also partner the industry and Institutes of Higher Learning (IHLs) to support cybersecurity resource centres for businesses and individuals.", 
+        "sentence_id,": "9aa1841357"
+    }, 
+    {
+        "sentence": "The Singapore Government introduced Total Defence in 1984 as a concept to involve every Singaporean in playing a part, individually and collectively, to build a strong, secure and cohesive nation.", 
+        "sentence_id,": "c9e287cff7"
+    }, 
+    {
+        "sentence": "It involves all Singaporeans in the following five aspects: military defence, civil defence, economic defence, psychological defence and social defence.", 
+        "sentence_id,": "38822e4862"
+    }, 
+    {
+        "sentence": "Infocomm Development Authority (IDA) Infocomm Usage by Households and Individuals Survey 2014 Ministry of Education (MOE) Press Release on 7th Call for Proposals on Cyber Wellness Projects 32 CHAPTER 2 CHAPTER 2 33 CHAPTER 3 A VIBRANT CYBERSECURITY ECOSYSTEM The Government will work with industry partners, professional associations, IHLs and research institutes in three main areas.", 
+        "sentence_id,": "4b56ba1a6b"
+    }, 
+    {
+        "sentence": "We will: Establish a professional workforce.", 
+        "sentence_id,": "a667fc3d19"
+    }, 
+    {
+        "sentence": "We will encourage existing cybersecurity professionals to develop their careers in the industry by defining clearer career pathways, promoting internationallyrecognised certifications, and building strong communities of practice.", 
+        "sentence_id,": "433be9c200"
+    }, 
+    {
+        "sentence": "To grow the workforce, we will attract promising students through scholarship and sponsorship programmes.", 
+        "sentence_id,": "39708d2fe5"
+    }, 
+    {
+        "sentence": "We will also support new entrants to the profession through industry-oriented curriculum for students as well as up-skilling and re-skilling opportunities for mid-career professionals.", 
+        "sentence_id,": "472a019665"
+    }, 
+    {
+        "sentence": "Extend Singapores cybersecurity advantage through strong local companies.", 
+        "sentence_id,": "f69b5418b8"
+    }, 
+    {
+        "sentence": "We will build up the industry by attracting and anchoring companies with advanced capabilities.", 
+        "sentence_id,": "198519841c"
+    }, 
+    {
+        "sentence": "We will also nurture start-ups to boost the development of niche and advanced solutions and grow local champions to sustain strategic areas of interest.", 
+        "sentence_id,": "6e2e831f4d"
+    }, 
+    {
+        "sentence": "We will also develop market opportunities to bring made-in-Singapore solutions into the global market.", 
+        "sentence_id,": "b32e4198f7"
+    }, 
+    {
+        "sentence": "With its advanced infrastructure and tech-savvy workforce, Singapore is well-positioned to develop a vibrant cybersecurity ecosystem comprising highly skilled professionals, companies with deep cybersecurity capabilities and strong translational research and development (R&D).", 
+        "sentence_id,": "caf96edc05"
+    }, 
+    {
+        "sentence": "The ecosystem will ensure a sustainable source of expertise and solutions to support our plans for a resilient national infrastructure and a safer cyberspace.", 
+        "sentence_id,": "4ec74f4556"
+    }, 
+    {
+        "sentence": "It will also bring economic opportunities to Singaporeans and Singapore-based companies.", 
+        "sentence_id,": "4dbc1d446a"
+    }, 
+    {
+        "sentence": "Furthermore, integrating cybersecurity service offerings with industry sectors that Singapore is traditionally strong in will enhance our competitive advantages in these areas.", 
+        "sentence_id,": "57cbf3f744"
+    }, 
+    {
+        "sentence": "Innovate to accelerate the industrys growth.", 
+        "sentence_id,": "ed326ebf31"
+    }, 
+    {
+        "sentence": "The National Cybersecurity R&D Programme has set aside S$190 million from 2013 to 2020 to support research into both technological and human-science aspects of cybersecurity.", 
+        "sentence_id,": "6dc6898bd5"
+    }, 
+    {
+        "sentence": "We will sustain this effort with world-class R&D facilities and focused talent development programmes.", 
+        "sentence_id,": "ca54a6e89e"
+    }, 
+    {
+        "sentence": "We will promote R&D collaborations between the Government, academia and industry to engender faster and more market-relevant R&D outcomes.", 
+        "sentence_id,": "5784c2d9c4"
+    }, 
+    {
+        "sentence": "ESTABLISH A PROFESSIONAL CYBERSECURITY WORKFORCE New entrants to the cybersecurity workforce will be supported by: Industry-oriented Curriculum Good security requires highly-skilled practitioners with deep expertise.", 
+        "sentence_id,": "89d9efe325"
+    }, 
+    {
+        "sentence": "Today, there is a shortage of cybersecurity manpower around the world.", 
+        "sentence_id,": "8c4009f6a3"
+    }, 
+    {
+        "sentence": "Qualified professionals are in great demand as businesses pay more attention to cyber risks.", 
+        "sentence_id,": "eac16a0d22"
+    }, 
+    {
+        "sentence": "This demand will only increase as the frequency and consequences of cyber threats continue to grow.", 
+        "sentence_id,": "860a7d869b"
+    }, 
+    {
+        "sentence": "To ensure that Singapore has an adequate and well-trained cybersecurity workforce, Singapore will: Encourage existing professionals to remain and further their development in the industry.", 
+        "sentence_id,": "1bd030d679"
+    }, 
+    {
+        "sentence": "We will institute clear career pathways, promote certification, and foster strong communities of practice; and Work with industry and IHLs to attract new graduates and convert existing professionals from related fields.", 
+        "sentence_id,": "1c90a2d261"
+    }, 
+    {
+        "sentence": "IHLs will update their curriculum to be relevant to industry needs so as to facilitate the transition of new entrants to the workforce.", 
+        "sentence_id,": "2948b6b905"
+    }, 
+    {
+        "sentence": "We will offer cybersecurity scholarships and sponsorships to attract promising students.", 
+        "sentence_id,": "160915157d"
+    }, 
+    {
+        "sentence": "We will also offer up-skilling and re-skilling opportunities to cross-train mid-career professionals in cybersecurity for better job prospects.", 
+        "sentence_id,": "a7e4d77c2c"
+    }, 
+    {
+        "sentence": "The cybersecurity profession is fast-paced and varied.", 
+        "sentence_id,": "0301abe91a"
+    }, 
+    {
+        "sentence": "There are opportunities to specialise in different areas.", 
+        "sentence_id,": "65995e4de1"
+    }, 
+    {
+        "sentence": "These include incident response, digital forensics and penetration testing for the technically inclined; threat and intelligence analysis for the analyst-atheart; and risk management and governance for the methodical change drivers.", 
+        "sentence_id,": "7cd265aa77"
+    }, 
+    {
+        "sentence": "Regardless of specialisation, cybersecurity professionals from entry-level to C-suite positions are highly sought after as companies across many industries seek to secure their systems and data.", 
+        "sentence_id,": "cf9db80436"
+    }, 
+    {
+        "sentence": "The Government is committed to developing the cybersecurity industry as a source of good jobs for Singaporeans.", 
+        "sentence_id,": "407efe434a"
+    }, 
+    {
+        "sentence": "Our universities and polytechnics already offer cybersecurity programmes for those keen to pursue a cybersecurity education.", 
+        "sentence_id,": "f6bed9f278"
+    }, 
+    {
+        "sentence": "For example, the Singapore Institute of Technology (SIT) offers a Bachelor of Engineering with Honours in Information and Communications Technology (Information Security), and Singapore University of Technology and Design (SUTD) offers a Masters in Cybersecurity.", 
+        "sentence_id,": "cbc5041533"
+    }, 
+    {
+        "sentence": "The Government will work with Institutes of Higher Learning (IHLs) and industry partners to ensure that these programmes and curriculums continue to be relevant to the industry, with students learning and acquiring practical skills.", 
+        "sentence_id,": "31a9bb0f86"
+    }, 
+    {
+        "sentence": "In particular, the Ministry of Education (MOE) is launching a co-operative degree programme where students alternate between campus and company on a semester basis.", 
+        "sentence_id,": "a0d76d691e"
+    }, 
+    {
+        "sentence": "The programme Scholarship and Sponsorship Programmes To strengthen the branding of cybersecurity, the Government will build on existing scholarship and sponsorship programmes.", 
+        "sentence_id,": "a37814d22d"
+    }, 
+    {
+        "sentence": "Overseas cybersecurity scholarships will be offered to promising students, and students with outstanding performance in IHLs will be given opportunities to further their education.", 
+        "sentence_id,": "79a578dfe2"
+    }, 
+    {
+        "sentence": "6th Singapore Cyber Conquest, Winner enables students to develop a deeper and practical understanding of their field of study by integrating work and study.", 
+        "sentence_id,": "c110fefe8a"
+    }, 
+    {
+        "sentence": "Students may even be hired by the company from the outset.", 
+        "sentence_id,": "e7f4b79424"
+    }, 
+    {
+        "sentence": "CSA will be one of the participating agencies in this programme and will be working with the partner universities to develop the cybersecurity degree curriculum and provide on-the-job training to successful applicants.", 
+        "sentence_id,": "291dd2428d"
+    }, 
+    {
+        "sentence": "Up-skill and Re-skill Opportunities We will facilitate the conversion of professionals in related fields to cybersecurity by building on the existing Cyber Security Associates and Technologies (CSAT) programme.", 
+        "sentence_id,": "81c404d7a0"
+    }, 
+    {
+        "sentence": "In line with SkillsFuture, these professionals will be able to up-skill and re-skill themselves and be cross-trained in cybersecurity for better job prospects.", 
+        "sentence_id,": "9c270e5c9a"
+    }, 
+    {
+        "sentence": "Current professionals can look forward to: Defined Career Trajectory The growth of a capable, adept and competent workforce is sustained by attractive career prospects and a respected professional status.", 
+        "sentence_id,": "7b3c2517b2"
+    }, 
+    {
+        "sentence": "This will allow professionals and employers to determine the types of skills and competencies required for different cybersecurity jobs, and to establish relevant training programmes and clearer career pathways accordingly.", 
+        "sentence_id,": "aa2b289ea9"
+    }, 
+    {
+        "sentence": "bring cybersecurity discussions into the boardroom.", 
+        "sentence_id,": "5f0acb6454"
+    }, 
+    {
+        "sentence": "Larger companies could also define apex cybersecurity positions at the C-suite level.", 
+        "sentence_id,": "bd1553c0b1"
+    }, 
+    {
+        "sentence": "Companies are also encouraged to work with the Government to help cybersecurity professionals develop complementary skills such as risk management and communication.", 
+        "sentence_id,": "658fbef92a"
+    }, 
+    {
+        "sentence": "These will facilitate professionals in translating cybersecurity issues into enterprise risk considerations, and To further improve the standing of cybersecurity professionals, the Cyber Security Agency of Singapore (CSA) will work with industry partners to reach out to more companies, especially Small and Medium-sized Enterprises (SMEs), to increase their awareness of what cybersecurity professionals do, and how they can contribute.", 
+        "sentence_id,": "7794f40c88"
+    }, 
+    {
+        "sentence": "The Government will take the lead in introducing a cybersecurity scheme of service for the public sector, with competitive remuneration and progression prospects.", 
+        "sentence_id,": "59d52b9129"
+    }, 
+    {
+        "sentence": "It will also train and develop cybersecurity specialists across the public sector.", 
+        "sentence_id,": "93530f82b0"
+    }, 
+    {
+        "sentence": "Internationally-recognised Certifications Cybersecurity professionals should deepen their skills and keep abreast of evolving technologies and best practices.", 
+        "sentence_id,": "a52e6f707c"
+    }, 
+    {
+        "sentence": "One way to do so is to adopt internationally-recognised certifications in areas such as digital forensics, malware analysis and incident response.", 
+        "sentence_id,": "8e8c0abcca"
+    }, 
+    {
+        "sentence": "CREST Singapore (Council of Registered Ethical Security Testers), for example, offers certification for practising penetration testers in Singapore.", 
+        "sentence_id,": "c66ebdcb92"
+    }, 
+    {
+        "sentence": "Strong Communities of Practice To build a common identity and foster trust within the profession, the Government will work with industry associations such as the Association of Information Security Professionals (AISP) to introduce and build strong Communities of Practice for cybersecurity professionals in Singapore.", 
+        "sentence_id,": "3b2d203275"
+    }, 
+    {
+        "sentence": "The Skills Framework is part of SkillsFuture, a national movement initiated by the Singapore Government in 2015 to help Singaporeans in skills development and skills mastery for the future.", 
+        "sentence_id,": "61fc641d68"
+    }, 
+    {
+        "sentence": "36 CHAPTER 3 CHAPTER 3 37 EXTEND SINGAPORES CYBERSECURITY ADVANTAGE The Government is committed to building up Singapores cybersecurity industry.", 
+        "sentence_id,": "ae183ebbaa"
+    }, 
+    {
+        "sentence": "Besides ensuring that best-in-class cybersecurity solutions are available to the Government and companies in Singapore, a vibrant cybersecurity industry will enhance Singapores traditional strengths in areas such as financial and infocomm services.", 
+        "sentence_id,": "fbb9c7515e"
+    }, 
+    {
+        "sentence": "These developments will translate to better job opportunities for cybersecurity professionals in Singapore.", 
+        "sentence_id,": "95c947e469"
+    }, 
+    {
+        "sentence": "To build a vibrant cybersecurity industry, Singapore will: Attract and anchor companies with advanced capabilities in Singapore to inject know-how and dynamism into the local cybersecurity community; Support start-ups to boost the development of niche and advanced solutions; Partner with local companies that possess strategic cybersecurity capabilities to develop advanced solutions for Singapore; and Develop opportunities for made-in-Singapore solutions in the global market and facilitate access to new market segments.", 
+        "sentence_id,": "da1fd1e6de"
+    }, 
+    {
+        "sentence": "% nd pou Com Market Value (Million S$) Singapore is home to many leading global cybersecurity companies and an emerging cluster of local start-ups.", 
+        "sentence_id,": "1733bab125"
+    }, 
+    {
+        "sentence": "The cybersecurity market in Singapore is worth about S$570 million today, based on estimates by PwC.", 
+        "sentence_id,": "7a64c3f97a"
+    }, 
+    {
+        "sentence": "It has the potential to double in value by 2020, with growth in segments such as identity access management, infrastructure protection and services.", 
+        "sentence_id,": "aeb098a30f"
+    }, 
+    {
+        "sentence": "Singapore is well positioned within ASEAN and its population of 625 million to support the growing demand for cybersecurity products and services.", 
+        "sentence_id,": "2187485be5"
+    }, 
+    {
+        "sentence": "al nnu th w Gro .3 f9 eo Rat A 216 201 188 Estimated growth of Singapores cybersecurity market, 2015-2020 176 163 154 617 417 464 511 673 562 LEGEND Cybersecurity Services (e.g.", 
+        "sentence_id,": "792ea99b39"
+    }, 
+    {
+        "sentence": "IT outsourcing, consulting) Cybersecurity Products (e.g.", 
+        "sentence_id,": "7be2272fb9"
+    }, 
+    {
+        "sentence": "Identity access management, network security equipment) Source: PwC analysis, Gartner, PwC interviews, desk research.", 
+        "sentence_id,": "4b6f79f291"
+    }, 
+    {
+        "sentence": "Attract and Anchor Advanced Capabilities The Government will leverage Singapores economic hub status and attract world class cybersecurity companies to base advanced operations, engineering and R&D activities in Singapore.", 
+        "sentence_id,": "8dc100899d"
+    }, 
+    {
+        "sentence": "This will increase our access to cutting-edge cybersecurity capabilities and create good jobs for Singaporeans.", 
+        "sentence_id,": "123a00b38e"
+    }, 
+    {
+        "sentence": "The Government will also work with these top companies and local champions to strengthen the cybersecurity of our critical sectors and facilitate knowledge exchange to build up local expertise.", 
+        "sentence_id,": "625f635d44"
+    }, 
+    {
+        "sentence": "38 CHAPTER 3 Support Start-ups Singapores cybersecurity ecosystem will benefit from more start-ups that diversify the industry and boost the development of niche and advanced solutions.", 
+        "sentence_id,": "28890579fb"
+    }, 
+    {
+        "sentence": "The Government and industry will work together to support a strong network of venture capitalists, accelerators and entrepreneurs to help Singapore-based cybersecurity start-ups to grow and scale.", 
+        "sentence_id,": "6d610dd5e7"
+    }, 
+    {
+        "sentence": "This will assist in bringing ideas to the market easily and quickly.", 
+        "sentence_id,": "2d18bdbfaf"
+    }, 
+    {
+        "sentence": "Grow Local Cybersecurity Champions The Government will grow local cybersecurity champions who can develop globally competitive capabilities in strategic areas of interest and sustain the long-term growth of a competent, professional workforce.", 
+        "sentence_id,": "0dbe1615e0"
+    }, 
+    {
+        "sentence": "The Partnership for the Advancement of the Cybersecurity Ecosystem (PACE) programme, initiated by CSA in 2016, is an example of a meaningful public-private partnership that co-develops customised solutions with industry partners for raising our cybersecurity posture while supporting workforce skills development.", 
+        "sentence_id,": "96845bdd4a"
+    }, 
+    {
+        "sentence": "Develop Market Opportunities We will facilitate access to new market segments for our cybersecurity companies and promote Made-In-Singapore solutions.", 
+        "sentence_id,": "e57f811986"
+    }, 
+    {
+        "sentence": "Government and industry will collaborate to set up a cybersecurity resource centre for users to explore and adopt innovative solutions.", 
+        "sentence_id,": "b6346989d8"
+    }, 
+    {
+        "sentence": "Together, we aim to bring Singapores cybersecurity capabilities to the global market.", 
+        "sentence_id,": "2b78da75dc"
+    }, 
+    {
+        "sentence": "CHAPTER 3 39 INNOVATE TO ACCELERATE For Singapore to be at the cutting-edge of cybersecurity, strong R&D capabilities, institutions and partnerships are necessary.", 
+        "sentence_id,": "c39aa7e9fa"
+    }, 
+    {
+        "sentence": "These contribute to the building of resilient infrastructure and the generating of new economic activities.", 
+        "sentence_id,": "155262959b"
+    }, 
+    {
+        "sentence": "New cybersecurity solutions must be tested in the real world as part of their development process.", 
+        "sentence_id,": "110b81fabf"
+    }, 
+    {
+        "sentence": "Singapore is an ideal test-bed, as a small and agile city state with strong rule of law.", 
+        "sentence_id,": "e4c07acc5d"
+    }, 
+    {
+        "sentence": "Pilot solutions can be quickly implemented and scaled in Singapore.", 
+        "sentence_id,": "a064127886"
+    }, 
+    {
+        "sentence": "Companies and research labs can leverage Singapores global position in sectors such as finance and logistics to develop solutions with international significance.", 
+        "sentence_id,": "b0628ffbc0"
+    }, 
+    {
+        "sentence": "As these developed sectors will seek to innovate, they could also serve as ready markets to test new cybersecurity products and solutions.", 
+        "sentence_id,": "f1f8619d77"
+    }, 
+    {
+        "sentence": "Singapore will: Support research into both technological and human-science aspects of cybersecurity through the S$190 million National Cybersecurity R&D (NCR) Programme; Establish world-class facilities in specialised research areas and develop local talent to sustain the community; and Collaborate more closely with academia and industry under the NCR Programme to develop innovative ideas and enhance translational capabilities.", 
+        "sentence_id,": "756bf62f85"
+    }, 
+    {
+        "sentence": "A stronger public-private partnership will ensure that R&D can address real-world problems in a more targeted manner, and move research products more quickly from the lab to the market.", 
+        "sentence_id,": "e143a5305a"
+    }, 
+    {
+        "sentence": "National Cybersecurity R&D Programme Singapores cybersecurity R&D journey has already started, with the aim of translating R&D capability in Singapore into operational strengths.", 
+        "sentence_id,": "63dd8487f7"
+    }, 
+    {
+        "sentence": "The S$130 million NCR was launched in 2013 by the National Research Foundation (NRF).", 
+        "sentence_id,": "2f8c6d5084"
+    }, 
+    {
+        "sentence": "This was further topped up in 2016 by an additional S$60 million as part of the Research, Innovation and Enterprise 2020 Plan (RIE 2020).", 
+        "sentence_id,": "b38102299e"
+    }, 
+    {
+        "sentence": "The NCR Programme has already awarded 13 projects covering research areas such as cyber-physical systems security and forensics.", 
+        "sentence_id,": "756dd7fcb8"
+    }, 
+    {
+        "sentence": "40 CHAPTER 3 World-Class R&D Facilities and Focused Talent Development Singapore will continue to establish world-class R&D facilities in specialised research areas to attract top researchers and international collaborators, and will promote the shared use of such facilities.", 
+        "sentence_id,": "244633a524"
+    }, 
+    {
+        "sentence": "The Government is funding S$8 million towards the National Cybersecurity R&D Laboratory at the National University of Singapore (NUS) that will be a shared resource for cybersecurity researchers from academia, industry and the Government.", 
+        "sentence_id,": "892c8d39dc"
+    }, 
+    {
+        "sentence": "We will also set up programmes to groom local talent for a sustainable and vibrant R&D community.", 
+        "sentence_id,": "d23e771444"
+    }, 
+    {
+        "sentence": "New R&D Facilities Our universities play a central role in R&D.", 
+        "sentence_id,": "cc9b4a3f5d"
+    }, 
+    {
+        "sentence": "Each university will become a cybersecurity centre of excellence, and we see each already developing its own area of specialisation.", 
+        "sentence_id,": "1890ee2ad5"
+    }, 
+    {
+        "sentence": "For example, the Singapore University of Technology and Design (SUTD) has a strong focus on cyber-physical systems, and the Singapore Management University (SMU) specialises in mobile security.", 
+        "sentence_id,": "eae5f37517"
+    }, 
+    {
+        "sentence": "In 2016, we also saw the launch of several public-private initiatives, such as the ST Electronics-SUTD Cyber Security Laboratory developed under the Corporate Laboratory @ University scheme administered by the National Research Foundation (NRF).", 
+        "sentence_id,": "a9b3532f0a"
+    }, 
+    {
+        "sentence": "This laboratory brings together industry and academia under one roof to perform cuttingedge cybersecurity research.", 
+        "sentence_id,": "9161b52231"
+    }, 
+    {
+        "sentence": "The Secure Water Treatment (SWaT) at SUTD is funded by the Ministry of Defence and NRF.", 
+        "sentence_id,": "a97a433768"
+    }, 
+    {
+        "sentence": "It will serve as a key asset for researchers in Singapore and abroad who are studying the design of secure cyber-physical systems.", 
+        "sentence_id,": "c4f38c8c4a"
+    }, 
+    {
+        "sentence": "R&D Collaborations between Government, Academia and Industry Public and private sector agencies can embark on new R&D projects to examine and address complex problems impeding the cybersecurity industrys growth.", 
+        "sentence_id,": "a366c7b75d"
+    }, 
+    {
+        "sentence": "One example is the Cyber Risk Management (CyRiM) project on cyber risk insurance, which was launched in 2016 by the Nanyang Technological University (NTU) with sponsorship support from the Monetary Authority of Singapore (MAS) and a consortium of insurance industry players.", 
+        "sentence_id,": "a8dc10ff48"
+    }, 
+    {
+        "sentence": "The project brings together academic expertise, industry knowledge, and policy know-how to address the data and standards gaps required for an efficient cyber risk insurance market place.", 
+        "sentence_id,": "2058f6dec3"
+    }, 
+    {
+        "sentence": "This Consortium will bring together Government, industry and academia to collaborate on research and seek out viable and practical solutions with commercialisation potential.", 
+        "sentence_id,": "ca018c21e4"
+    }, 
+    {
+        "sentence": "CHAPTER 3 41 CHAPTER 4 STRONG INTERNATIONAL PARTNERSHIPS Cyber threats do not respect sovereign boundaries and cyber-attacks can emanate from almost anywhere in the world.", 
+        "sentence_id,": "66167268ec"
+    }, 
+    {
+        "sentence": "Malicious actors have deliberately exploited jurisdictional gaps between countries to their advantage.", 
+        "sentence_id,": "4d2f3a77d1"
+    }, 
+    {
+        "sentence": "Moreover, with countries increasingly connected to one other through trade, global logistics and financial markets, cyber-attacks disrupting one country can and do have serious spill-over effects on other countries.", 
+        "sentence_id,": "e83660db3f"
+    }, 
+    {
+        "sentence": "International collaboration in cybersecurity is thus pivotal to our collective security.", 
+        "sentence_id,": "5b6adb7cda"
+    }, 
+    {
+        "sentence": "Singapore has been an active participant at international platforms on cybersecurity.", 
+        "sentence_id,": "b2d37daee0"
+    }, 
+    {
+        "sentence": "As an ASEAN member, we have supported and contributed to regional efforts to build cybersecurity capabilities.", 
+        "sentence_id,": "04fd3179d5"
+    }, 
+    {
+        "sentence": "Through consensus, agreement, and cooperation, cyberspace can be a safer and more secure place for all.", 
+        "sentence_id,": "89360efb96"
+    }, 
+    {
+        "sentence": "To achieve this, Singapore will: Forge international and ASEAN cooperation to counter cyber threats and cybercrime.", 
+        "sentence_id,": "f592d11f42"
+    }, 
+    {
+        "sentence": "We will continue working closely with the international community and ASEAN partners to strengthen platforms and procedures for cyber incident reporting and response.", 
+        "sentence_id,": "c4253fda52"
+    }, 
+    {
+        "sentence": "We will work with ASEAN Member States to coordinate the regional approach to cybercrime.", 
+        "sentence_id,": "bc484b1f80"
+    }, 
+    {
+        "sentence": "We will also leverage INTERPOLs resources to tap the global operational networks and capabilities to tackle cybercrime.", 
+        "sentence_id,": "99bfa93e45"
+    }, 
+    {
+        "sentence": "Champion international and ASEAN cyber capacity building initiatives in operational, technical, legislative, cyber policy and diplomatic areas.", 
+        "sentence_id,": "0c17706a66"
+    }, 
+    {
+        "sentence": "We will partner the international community, Dialogue Partners and ASEAN Member States to organise workshops, seminars and conference that seek to advance cooperation and build capabilities in these aspects.", 
+        "sentence_id,": "eed2ff3197"
+    }, 
+    {
+        "sentence": "Facilitate exchanges on cyber norms and legislation.", 
+        "sentence_id,": "681f4b5e5c"
+    }, 
+    {
+        "sentence": "We will continue to participate in global and regional discussions on cyber norms, cyber policy and legislation, cyber deterrence, and cybercrime cooperation.", 
+        "sentence_id,": "7ad89efe70"
+    }, 
+    {
+        "sentence": "We will host an annual Singapore International Cyber Week (SICW) with the inaugural session in October 2016 to catalyse, stimulate and promote exchanges on cybersecurity and cybercrime issues.", 
+        "sentence_id,": "7f3820ae02"
+    }, 
+    {
+        "sentence": "FORGE INTERNATIONAL AND ASEAN COOPERATION TO COUNTER CYBER THREATS AND CYBERCRIME The lightning-fast speed of cyber-attacks requires quick and coordinated actions both at national and international levels.", 
+        "sentence_id,": "b998e5b41d"
+    }, 
+    {
+        "sentence": "Singapore will work closely with the international community and ASEAN partners to strengthen the platforms and procedures for reporting cyber incidents, sharing information and responding to possible breaches.", 
+        "sentence_id,": "9a5883d825"
+    }, 
+    {
+        "sentence": "Singapore, provides global training and coordinates international operations on cybercrime for all INTERPOL member countries.", 
+        "sentence_id,": "f510e33c79"
+    }, 
+    {
+        "sentence": "Singapore is well-positioned and committed to cooperating with the IGCI and other countries through INTERPOL to conduct crossborder joint operations against cyber criminals.", 
+        "sentence_id,": "aa0fd0dfb5"
+    }, 
+    {
+        "sentence": "Singapore will also partner international organisations like INTERPOL to tackle cybercrime and the Asia Pacific Computer Emergency Response Team (APCERT) to enhance cyber incident reporting and response linkages.", 
+        "sentence_id,": "ab2d9276c4"
+    }, 
+    {
+        "sentence": "Singapore will continue to contribute at existing ASEAN channels for cooperation such as the annual ASEAN CERT Incident Drill (ACID), ASEAN Network Security Action Council (ANSAC), ASEAN Regional Forum (ARF) Mechanisms as well as ASEAN cybersecurity and cybercrime workshops.", 
+        "sentence_id,": "d32563a246"
+    }, 
+    {
+        "sentence": "For example, the INTERPOL Global Complex for Innovation (IGCI), which is based in Channels for cooperation The ASEAN Regional Forum (ARF) was established in 1994 to foster constructive dialogue and consultation on political and security issues of common interest and concern, and to make significant contributions towards confidence building and preventive diplomacy in the Asia-Pacific region.", 
+        "sentence_id,": "941a656cac"
+    }, 
+    {
+        "sentence": "The multi-stakeholder ASEAN Network Security Action Council (ANSAC) was set up in 2012 to promote CERT cooperation and sharing of expertise.", 
+        "sentence_id,": "dd4db54cde"
+    }, 
+    {
+        "sentence": "The ASEAN CERT Incident Drill (ACID) is an annual exercise aimed at strengthening cooperation among CERTs in ASEAN and its Dialogue Partners.", 
+        "sentence_id,": "051efdd889"
+    }, 
+    {
+        "sentence": "The exercise tests the coordination amongst the incident response teams and their incident handling procedures.", 
+        "sentence_id,": "100f059d3a"
+    }, 
+    {
+        "sentence": "The NCAP is available at www.mha.gov.sg.", 
+        "sentence_id,": "4252984291"
+    }, 
+    {
+        "sentence": "44 CHAPTER 4 CHAPTER 4 45 CHAMPION INTERNATIONAL AND ASEAN CYBER CAPACITY BUILDING INITIATIVES Cyber threats are borderless and no country can deal with the rapidly evolving threat landscape alone.", 
+        "sentence_id,": "46a4f3fcb5"
+    }, 
+    {
+        "sentence": "Singapore stays committed to build cybersecurity capacity within ASEAN in operational, technical, legislative, cyber policy and diplomatic areas.", 
+        "sentence_id,": "4b7363d446"
+    }, 
+    {
+        "sentence": "Singapore will focus on building understanding and raising awareness in these areas, as well as conducting training and exercises to raise capacity.", 
+        "sentence_id,": "8831d0d952"
+    }, 
+    {
+        "sentence": "To do so, Singapore will partner the international community, Dialogue Partners and ASEAN Member States (AMS) to organise workshops, seminars and conferences that advance international and regional cooperation in these aspects.", 
+        "sentence_id,": "35ecbb87ed"
+    }, 
+    {
+        "sentence": "We will also support the active role played by the ASEAN Regional Forum (ARF) countries in fostering cyber confidence building and capacity building measures.", 
+        "sentence_id,": "28aae976aa"
+    }, 
+    {
+        "sentence": "Singapore will establish an ASEAN Cyber Capacity Programme from 2017 to complement the various existing ASEAN initiatives.", 
+        "sentence_id,": "f7455e8134"
+    }, 
+    {
+        "sentence": "15th ASEAN Telecommunications and Information Technology Ministers Meeting and Related Meetings 46 CHAPTER 4 FACILITATE INTERNATIONAL AND REGIONAL EXCHANGES ON CYBER NORMS AND LEGISLATION GovernmentWare 2015 Conference Consensus and agreement among nations are key to ensuring the success of cybersecurity cooperation.", 
+        "sentence_id,": "8eb241ee5a"
+    }, 
+    {
+        "sentence": "Singapore aims to be an active participant in this area and will facilitate global and regional dialogues on cyber norms building and codes of conduct, cyber policy and legislation, cyber deterrence and cybercrime cooperation.", 
+        "sentence_id,": "82b2b43af3"
+    }, 
+    {
+        "sentence": "for high-level discussions among industry leaders and senior government officials from ASEAN and Dialogue Partner countries as well as relevant international organisations.", 
+        "sentence_id,": "3002e33b3f"
+    }, 
+    {
+        "sentence": "Singapore will host an annual Singapore International Cyber Week (SICW) to catalyse, stimulate and promote exchanges on current and emerging issues pertinent to the cyber community.", 
+        "sentence_id,": "24a7ab847c"
+    }, 
+    {
+        "sentence": "For example, the annual RSA Conference Asia Pacific and Japan includes public sector events such as the ASEAN Senior Officials Roundtable on Cybercrime (SORC).", 
+        "sentence_id,": "792f4b4e05"
+    }, 
+    {
+        "sentence": "The SORC provides a unique platform The first SICW, to be held in October 2016, will launch the inaugural ASEAN Ministerial Conference on Cybersecurity and the International Cyber Leaders Symposium as premier regional platforms to discuss key cybersecurity issues facing policymakers.", 
+        "sentence_id,": "27969be180"
+    }, 
+    {
+        "sentence": "As part of the SICW, the ASEAN Cybercrime Prosecutors Roundtable Meeting will bring together specialised cybercrime prosecutors from across ASEAN for the first time.", 
+        "sentence_id,": "3b9d478f61"
+    }, 
+    {
+        "sentence": "The meeting provides an opportunity for cybercrime prosecutors and law enforcement agencies to take stock of the legal capacities of ASEAN.", 
+        "sentence_id,": "e8fccd5612"
+    }, 
+    {
+        "sentence": "It will also address gaps to raise the overall capabilities in the region.", 
+        "sentence_id,": "7d5270d040"
+    }, 
+    {
+        "sentence": "Finally, the SICW incorporates the GovernmentWare conference, which has brought together thought leaders and practitioners to discuss practical cybersecurity issues over the last 25 years.", 
+        "sentence_id,": "f5746d7136"
+    }, 
+    {
+        "sentence": "CHAPTER 4 47 This Strategy is an initiative of the Cyber Security Agency of Singapore (CSA).", 
+        "sentence_id,": "647c01ce4c"
+    }, 
+    {
+        "sentence": "CSA was established under the Prime Ministers Office (PMO) and is managed by the Ministry of Communications and Information (MCI).", 
+        "sentence_id,": "ec26e68e40"
+    }, 
+    {
+        "sentence": "Over the course of a year, representatives from over 50 government agencies, business and professional associations, private companies and academic institutions were consulted.", 
+        "sentence_id,": "501e6dae52"
+    }, 
+    {
+        "sentence": "We are grateful to the associations which have engaged their members, and to the many prominent individuals who have graciously offered guidance and advice.", 
+        "sentence_id,": "bc82e71893"
+    }, 
+    {
+        "sentence": "Their valuable feedback served as a basis for this Strategy.", 
+        "sentence_id,": "37ab552107"
+    }
+]

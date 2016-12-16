@@ -1,0 +1,531 @@
+[
+    {
+        "sentence_id,": "600b8e34dc", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "We must therefore set ourselves the highest standards of cyber security and ensure we adhere to them, both as the cornerstone of the countrys national security and economic wellbeing and also as an example for others to follow."
+    }, 
+    {
+        "sentence_id,": "e0a8cf9616", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "To achieve these outcomes over the next five years, the UK Government intends to intervene more actively and use increased investment, while continuing National Cyber Security Strategy 2016 10 Section 1 EXECUTIVE SUMMARY to support market forces to raise cyber security standards across the UK."
+    }, 
+    {
+        "sentence_id,": "ad4d058af4", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The policies, institutions and initiatives developed over the last five years have helped to establish the UK as a leading global player in cyber security."
+    }, 
+    {
+        "sentence_id,": "52c4cf23c1", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Consistent with our assessment of the challenge we face and building on the achievements of the 2011 strategy, this document sets out: our updated assessment of the strategic context, including the current and evolving threats: who poses the most serious threat to our interests, and the tools at their disposal; a review of vulnerabilities and how these have developed over the last five years; the Governments vision for cyber security in 2021 and the key objectives to achieve that goal, including guiding principles, roles and responsibilities, and how and where government intervention will make a difference; how we intend to put our policy into practice: setting out where the Government will lead and where we expect to work in partnership with others; and how we intend to assess our progress towards our objectives."
+    }, 
+    {
+        "sentence_id,": "cb496d4651", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The UK has pursued policies and established institutions that have enhanced our defences and mitigated some of the threat we face in cyberspace."
+    }, 
+    {
+        "sentence_id,": "119a3f8f00", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "PRINCIPLES 4.5 In working towards these objectives, the Government will apply the following principles: our actions and policies will be driven by the need to both protect our people and enhance our prosperity; we will treat a cyber attack on the UK as seriously as we would an equivalent conventional attack and we will defend ourselves as necessary; we will act in accordance with national and international law and expect others to do the same; we will rigorously protect and promote our core values."
+    }, 
+    {
+        "sentence_id,": "4ae842e333", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "National Cyber Security Strategy 2016 27 Section 4 OUR NATIONAL RESPONSE and organisations what they need to do to protect themselves online, and where necessary, set the standards we expect key companies and organisations to meet."
+    }, 
+    {
+        "sentence_id,": "fbc602f3a2", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "The Government will also make use of all available levers, including the forthcoming General Data Protection Regulation (GDPR), to drive up standards of cyber security across the economy, including, if required, through regulation."
+    }, 
+    {
+        "sentence_id,": "339c777504", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Law enforcement agencies will collaborate closely with industry and the National Cyber Security Centre to provide dynamic criminal threat intelligence with which industry can better defend itself, and to promote protective security advice and standards."
+    }, 
+    {
+        "sentence_id,": "29d8c67713", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "This is known as Domain Name System (DNS) blocking / filtering; preventing phishing activity that relies on domain spoofing (where an email appears to be from a specific sender, such as a bank or government department, but is actually fraudulent) by deploying an email verification system on government networks as standard and encouraging industry to do likewise; promoting security best practice through multi-stakeholder internet governance organisations such as the Internet Corporation for Assigned Names and Numbers (ICANN) which coordinates the domain name system), the Internet Engineering Task Force (IETF) and the European Regional Internet Registry (RIPE) and engagement with stakeholders in the UN Internet Governance Forum (IGF); working with law enforcement channels in order to protect UK citizens from being targeted in cyber attacks from unprotected infrastructure overseas; 35 Section 5 DEFEND working towards the implementation of controls to secure the routing of internet traffic for government departments to ensure that it cannot be illegitimately re-routed by malicious actors; and investing in programmes in the Ministry of Defence, the NCA and GCHQ that will enhance the capabilities of these organisations to respond to, and disrupt, serious state-sponsored and criminal cyber activity targeting UK networks."
+    }, 
+    {
+        "sentence_id,": "b1fb8c3db9", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Some vendors are already doing this, but some are not yet taking these necessary steps; continue to develop an Internet Protocol (IP) reputation service to protect government digital services (this would allow online services to get information about an IP address connecting to them, helping the service make more informed risk management decisions in real time); seek to install products on government networks that will provide assurance that software is running correctly, and not being maliciously interfered with; look to expand beyond the GOV.UK domain into other digital services measures that notify users who are running out-of-date browsers; and invest in technologies like Trusted Platform Modules (TPM) and emerging industry standards such as Fast Identity Online (FIDO), which do not rely on passwords for user authentication, but use the machine and other devices in the users possession to authenticate."
+    }, 
+    {
+        "sentence_id,": "0c22ecebc8", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "We want to achieve the following outcomes: citizens use government online services with confidence: they trust that their sensitive information is safe and, in turn, understand their responsibility to submit their sensitive information online in a secure manner; the Government will set and adhere to the most appropriate cyber security standards, to ensure that all branches of government understand and meet their obligations to secure their networks, data and services; and the Governments critical assets, including those at the highest classification, are protected from cyber attacks."
+    }, 
+    {
+        "sentence_id,": "1d0f742643", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "The National Data Guardian for Health and Care has set new data security standards for the health and social care systems in England, alongside a new data consent/opt-out model for patients."
+    }, 
+    {
+        "sentence_id,": "efc74890e4", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "The Government will work with health and social care organisations to implement these standards."
+    }, 
+    {
+        "sentence_id,": "d8fa7d137a", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "The Government will measure its success in protecting government networks, systems and data by assessing progress towards the following outcomes: the Government has an in-depth understanding of the level of cyber security risk across the whole of government and the wider public sector; individual government departments and other bodies protect themselves in proportion to their level of risk and to an agreed government minimum standard; government departments and the wider public sector are resilient and can respond effectively to cyber incidents, maintaining functions and recovering quickly; new technologies and digital services deployed by government will be cyber secure by default; we are aware of, and actively mitigating, all known internet-facing vulnerabilities in government systems and services; and all suppliers to the Government meet appropriate cyber security standards."
+    }, 
+    {
+        "sentence_id,": "5565ae930f", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "The Government will: share threat information with industry that only the Government can obtain so they know what they must protect themselves against; produce advice and guidance on how to manage cyber risk and, working collaboratively with industry and academia, define what good cyber security looks like; stimulate the introduction of the highend security needed to protect the CNI, such as training facilities, testing labs, security standards and consultancy services; and conduct exercises with CNI companies to assist them in managing their cyber risks and vulnerabilities."
+    }, 
+    {
+        "sentence_id,": "fc79ae3ea3", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "We will seek to understand better why many organisations still fail to protect themselves adequately and then work in partnership with organisations such as professional standards bodies, to move beyond raising awareness to persuade companies to take action."
+    }, 
+    {
+        "sentence_id,": "26fe673acd", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "As part of this, we will seek to use levers, such as the GDPR, to drive up standards of cyber security and protect citizens."
+    }, 
+    {
+        "sentence_id,": "f84937318a", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "In 2015/16 an estimated 10 million adults and 1 million small businesses stated they were more likely to maintain priority sectors by assessing progress towards the following outcomes: the UK economys level of cyber security is as high as, or higher than, comparative advanced economies; the number, severity and impact of successful cyber attacks against businesses in the UK has reduced, because cyber hygiene standards have improved; and there is an improving cyber security culture across the UK because organisations and the public understand their cyber risk levels and understand the cyber hygiene steps they need to take to manage those risks."
+    }, 
+    {
+        "sentence_id,": "e9fa50d152", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Law enforcement agencies will also continue to help raise awareness and standards of cyber security, in collaboration with the NCSC."
+    }, 
+    {
+        "sentence_id,": "5e85a07cc4", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "We will have strategies, policies and priorities in place for each adversary, to ensure a proactive, well-calibrated and effective approach is taken to counter the threat and in order to drive down the number and severity of cyber incidents in the future."
+    }, 
+    {
+        "sentence_id,": "61cf4d886f", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards", 
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "We will define the long-term, coordinated set of actions needed by government, industry, education providers and academia to establish a sustained supply of competent cyber security professionals, who meet the requisite standards and certification to practise confidently and securely."
+    }, 
+    {
+        "sentence_id,": "1c3a4e344b", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "This work will help teachers, and others supporting learning, to understand cyber security education and provide a method of externally accrediting such individuals; developing the cyber security profession, including through achieving Royal Chartered status by 2020, reinforcing the recognised body of cyber security excellence within the industry and providing a focal point which can advise, shape and inform national policy; developing a Defence Cyber Academy as a centre of excellence for cyber training and exercise across the Ministry of Defence and wider Government, addressing specialist skills and wider education; 57 Section 7 DEVELOP developing opportunities for collaboration in training and education between government, the Armed Forces, industry and academia, together with facilities to maintain and exercise skills; and we will work with industry to expand the CyberFirst programme to identify and nurture the diverse young talent pool to defend our national security; and embedding cyber security and digital skills as an integral an integral part of relevant courses within the education system, from primary to postgraduate levels, setting standards, improving quality and providing a firm foundation for onwards progression into the field."
+    }, 
+    {
+        "sentence_id,": "70466c1de4", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "To create this ecosystem, we will: commercialise innovation in academia, providing training and mentoring to academics; establish two innovation centres, to drive the development of cutting-edge cyber products and dynamic new cyber security companies, which will sit at the heart of a programme of initiatives to give start-ups the support they need to get their first customers and attract further investment; allocate a proportion of the 165m Defence and Cyber Innovation Fund to support innovative procurement in defence and security; provide testing facilities for companies to develop their products, together with a fast-track form of assessment for the next generation of cyber security products and services as they emerge, enabling customers to be confident in their use; draw on the collective expertise of the industry-government Cyber Growth Partnership to help shape and focus further growth and innovation interventions; help companies of all sizes scale-up and access international markets; and promote agreed international standards that support access to the UK market."
+    }, 
+    {
+        "sentence_id,": "4d00cf62b8", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "We need horizon scanning programmes that generate recommendations to inform current and future government policy and programme planning."
+    }, 
+    {
+        "sentence_id,": "a291cf5c1b", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The Government will ensure that our horizon scanning programmes include a rigorous assessment of cyber risk, and that this is integrated into cyber security and other technology policy development areas, along with all-source assessment and other available evidence."
+    }, 
+    {
+        "sentence_id,": "e319c28557", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "We will join up horizon scanning between national security and other policy areas to ensure a holistic assessment of emerging challenges and opportunities."
+    }, 
+    {
+        "sentence_id,": "2707bd47a6", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Therefore, we will ensure that where we conduct horizon scanning of these other policy areas, we will take into account any cyber security implications."
+    }, 
+    {
+        "sentence_id,": "21a45a4cf3", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The Government will measure our success in establishing an effective horizon scanning capability by assessing progress towards the following outcomes: cross-government horizon scanning and all-source assessment are integrated into cyber policy making; and the impact of cyber security is factored into all cross-government horizon scanning."
+    }, 
+    {
+        "sentence_id,": "5ae131da59", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "8.2. International cooperation on cyber issues has become an essential part of wider global economic and security debates."
+    }, 
+    {
+        "sentence_id,": "a36f54824e", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "In order to reduce the threat to the UK and our interests, much of which originates overseas, we will seek to influence the decision-making of those engaging in cyber crime, cyber espionage, and disruptive or destructive cyber activity and continue to build frameworks to support international cooperation."
+    }, 
+    {
+        "sentence_id,": "e7325be662", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "To do this we will: strengthen and embed a common understanding of responsible state behaviour in cyberspace; build on agreement that international law applies in cyberspace; continue to promote the agreement of voluntary, non-binding, norms of responsible state behaviour; support the development and implementation of confidence-building measures; increase our ability to disrupt and prosecute cyber criminals based abroad, especially in hard-to-reach jurisdictions; help foster an environment which allows our law enforcement agencies to work together to ensure fewer places exist where cyber criminals can act without fear of investigation and prosecution; promote the resilience of cyberspace by shaping the technical standards governing emerging technologies National Cyber Security Strategy 2016 64 Section 8 INTERNATIONAL ACTION internationally (including encryption), making cyberspace more secure by design and promoting best practice; work to build common approaches amongst like-minded countries for capabilities such as strong encryption, which have cross-border implications; build the capacity of others to tackle threats to the UK, and our interests overseas; continue to help our partners develop their own cyber security since we share a single cyberspace, we collectively become stronger when each country improves its own defences; ensure that NATO is prepared for the conflicts of the 21st century, which will play out in cyberspace as well as on the battlefield; work with our allies to enable NATO to operate as effectively in cyberspace as it does on land, air and sea; and ensure that the London Process of Global Conferences on Cyberspace continues to promote global consensus towards a free, open, peaceful and secure cyberspace."
+    }, 
+    {
+        "sentence_id,": "00af4907da", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "These actors are crucial in informing and challenging international policy formulation, and strengthening political messages on a wide range of cyber issues."
+    }, 
+    {
+        "sentence_id,": "846da768ed", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The UK government is already planning and preparing for policy implementation in advance of future technologies and threats and is future proofed."
+    }, 
+    {
+        "sentence_id,": "b4770fd72b", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "UK Government policies, organisations and structures are simplified to maximise the coherence and effectiveness of the UKs response to the cyber threat."
+    }, 
+    {
+        "sentence_id,": "0c25dc50eb", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "longer term outcomes are allocated beyond 2021 to industry, regulators, auditors, insurers and other parts of the public and private sector, as the effective management of cyber security risks is integrated into standard management activity for all."
+    }, 
+    {
+        "sentence_id,": "6c3b944a0f", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "However, this strategy aims to provide a range of policies, tools and capabilities that will ensure we can respond quickly and flexibly to each new challenge as it arises."
+    }, 
+    {
+        "sentence_id,": "e620186a1f", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Internet a global computer network, providing a variety of information and communication facilities, consisting of interconnected networks using standardised communication protocols."
+    }, 
+    {
+        "sentence_id,": "ba9946e167", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Trusted Platform Module (TPM) an international standard for a secure cryptoprocessor, which is a dedicated microprocessor designed to secure hardware by integrating cryptographic keys into devices."
+    }, 
+    {
+        "sentence_id,": "a06a322c5a", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Individual government departments and other bodies protect themselves in proportion to their level of risk and to an agreed government minimum standard."
+    }, 
+    {
+        "sentence_id,": "e244464b45", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "We are aware of, and actively mitigating, all known internet-facing vulnerabilities in government systems and services; All government suppliers meet appropriate cyber security standards."
+    }, 
+    {
+        "sentence_id,": "f77eb56e1a", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "The number, severity and impact of successful cyber attacks against businesses in the UK has reduced, because cyber hygiene standards have been applied."
+    }, 
+    {
+        "sentence_id,": "c881438d18", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The UK government is already planning and preparing for policy implementation in advance of future technologies and threats and is 'future proofed'."
+    }, 
+    {
+        "sentence_id,": "84b83d14e2", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "UK Government policies, organisations and structures are simplified to maximise the coherence and effectiveness of the UK's response to the cyber threat."
+    }
+]

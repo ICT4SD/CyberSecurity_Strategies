@@ -1,0 +1,50 @@
+[
+    {
+        "sentence_id,": "f32e0f4b43", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Msurile proactive i reactive pot include politici, concepte, standarde i ghiduri de securitate, managementul riscului, activiti de instruire i contientizare, implementarea de soluii tehnice de protejare a infrastructurilor cibernetice, managementul identitii, managementul consecinelor; aprare cibernetic - aciuni desfurate n spaiul cibernetic n scopul protejrii, monitorizrii, analizrii, detectrii, contracarrii agresiunilor i asigurrii rspunsului oportun mpotriva ameninrilor asupra infrastructurilor cibernetice specifice aprrii naionale; operaii n reele de calculatoare - procesul complex de planificare, coordonare, sincronizare, armonizare i desfurare a aciunilor n spaiul cibernetic pentru protecia, controlul i utilizarea reelelor de calculatore n scopul obinerii superioritii informaionale, concomitent cu neutralizarea capabilitilor adversarului; ameninare cibernetic - circumstan sau eveniment care constituie un pericol potenial la adresa securitii cibernetice; atac cibernetic - aciune ostil desfurat n spaiul cibernetic de natur s afecteze securitatea cibernetic; incident cibernetic - eveniment survenit n spaiul cibernetic ale crui consecine afecteaz securitatea cibernetic; 7 / 17 ----------------------- Page 8----------------------- terorism cibernetic - activitile premeditate desfurate n spaiul cibernetic de ctre persoane, grupri sau organizaii motivate politic, ideologic ori religios ce pot determina distrugeri materiale sau victime, de natur s determine panic ori teroare; spionaj cibernetic - aciuni desfurate n spaiul cibernetic, cu scopul de a obine neautorizat informaii confideniale n interesul unei entiti statale sau nonstatale; criminalitatea informatic - totalitatea faptelor prevzute de legea penal sau de alte legi speciale care prezint pericol social i sunt svrite cu vinovie, prin intermediul ori asupra infrastructurilor cibernetice; vulnerabilitatea n spaiul cibernetic - slbiciune n proiectarea i implementarea infrastructurilor cibernetice sau a msurilor de securitate aferente care poate fi exploatat de ctre o ameninare; riscul de securitate n spaiul cibernetic - probabilitatea ca o ameninare s se materializeze, exploatnd o anumit vulnerabilitate specific infrastructurilor cibernetice; managementul riscului - un proces complex, continuu i flexibil de identificare, evaluare i contracarare a riscurilor la adresa securitii cibernetice, bazat pe utilizarea unor tehnici i instrumente complexe, pentru prevenirea pierderilor de orice natur; managementul identitii - metode de validare a identitii persoanelor cnd acestea acceseaz anumite infrastructuri cibernetice; reziliena infrastructurilor cibernetice - capacitatea componentelor infrastructurilor cibernetice de a rezista unui incident sau atac cibernetic i de a reveni la starea de normalitate; entiti de tip CERT - structuri specializate n nelesul art."
+    }, 
+    {
+        "sentence_id,": "3d444cc535", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "Promovarea i consolidarea culturii de securitate n domeniul cibernetic - derularea unor programe de contientizare a populaiei, a administraiei publice i a sectorului privat, cu privire la ameninrile, vulnerabilitile i riscurile specifice utilizrii spaiului cibernetic; - dezvoltarea de programe educaionale, n cadrul formelor obligatorii de nvmnt, privind utilizarea sigur a internetului i a echipamentelor de calcul; - formarea profesional adecvat a persoanelor care i desfoar activitatea n domeniul securitii cibernetice i promovarea pe scar larg a certificrilor profesionale n domeniu; - includerea unor elemente referitoare la securitatea cibernetic n programele de formare i perfecionare profesional a managerilor din domeniul public i privat."
+    }, 
+    {
+        "sentence_id,": "14dadd411c", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Msurile proactive vizeaz: - actualizarea i armonizarea cadrului naional de reglementare n domeniul securitii cibernetice n concordan cu evoluiile mediului de referin; - implementarea de politici, concepte, standarde i ghiduri de securitate; - colectarea de date i informaii referitoare la ameninri, vulnerabiliti i riscuri identificate n spaiul cibernetic; - analiza, anticiparea i prognoza evoluiei strii de securitate cibernetic; - realizarea i eficientizarea cooperrii ntre sectorul public i cel privat ntre deintorii infrastructurilor cibernetice i autoritile statului abilitate s ntreprind msuri de prevenire i contracarare a ameninrilor, precum i de minimizare a efectelor unui atac cibernetic; - ridicarea nivelului de instruire i contientizare a populaiei asupra riscurilor derivate din utilizarea spaiului cibernetic; - interoperabilitatea cu alte sisteme naionale i internaionale cu atribuii n domeniul securitii; - protejarea infrastructurilor cibernetice naionale i a celor aparinnd NATO sau UE aflate n administrarea unor instituii ori autoriti publice; - implementarea unui mecanism de management al riscului; 13 / 17 ----------------------- Page 14----------------------- - asigurarea unui grad ridicat de autoadaptabilitate, n funcie de evoluiile spaiului cibernetic; - asigurarea confidenialitii, integritii, disponibilitii, autenticitii i nonrepudierii informaiilor din spaiul cibernetic; - asigurarea managementului identitii n spaiul cibernetic; - operaionalizarea capabilitilor destinate managementului incidentelor de securitate cibernetic, inclusiv managementul consecinelor; - dezvoltarea mecanismelor pentru creterea nivelului de cultur de securitate."
+    }, 
+    {
+        "sentence_id,": "a7e67f3af1", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Este necesar implementarea, la nivel naional, a unor standarde minimale procedurale i de securitate pentru infrastructurile cibernetice, care s fundamenteze eficiena demersurilor de protejare fa de atacuri cibernetice i s limiteze riscurile producerii unor incidente cu potenial impact semnificativ."
+    }
+]
