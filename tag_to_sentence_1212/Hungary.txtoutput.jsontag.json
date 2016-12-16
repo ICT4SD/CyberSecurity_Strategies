@@ -1,0 +1,100 @@
+[
+    {
+        "sentence_id,": "064e691617", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Furthermore, it aims at protecting the activities and guaranteeing the security of national economy and society, securely adapting technological innovations to facilitate economic growth, and establishing international cooperation in this regard in line with Hungarys national interests."
+    }, 
+    {
+        "sentence_id,": "fc69fb7ab7", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "2012/2096(INI) on cyber security and defence, adopted on 22 November 2012, and with the joint communication published by the European Commission and the High Representative of the Common Foreign and Security Policy of the European Union on 7 February 2013 under the title Cybersecurity Strategy of the European Union: An Open, Safe and Secure Cyberspace."
+    }, 
+    {
+        "sentence_id,": "93cf624b94", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Furthermore, the Strategy is in line with the Strategic Concept of the NATO accepted in November 2010, the Cyber Security Policy of the Organisation adopted in June 2011 and its implementation plan, as well as with the cyber protection principles and objectives set forth in the documents of the NATO summits held on 19-20 November 2010 in Lisbon and on 20-21 May 2012 in Chicago."
+    }, 
+    {
+        "sentence_id,": "b2c889fe6f", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Hungary is interested in this allied international cooperation for the sake of its own security, too."
+    }, 
+    {
+        "sentence_id,": "77d6c24110", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards", 
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "In the interest of a free and secure use of cyberspace, Hungary lays downs the following objectives to be met by aligning the interests of national security, efficient crisis management and user protection: a) to have efficient capabilities to prevent, detect, manage (react), respond to and recover any malicious cyber activity, threat, attack or emergency, as well as accidental information leakage, b) to provide adequate protection for its national data assets, to ensure the operational safety of the parts of its critical infrastructures linked to cyberspace, and to have a rapid, efficient mitigating and recovery capability in case of a compromise, deployable also during a state of emergency, c) to ensure that the quality of IT and communication products and services necessary for the secure operation of the Hungarian cyberspace meet the requirements of international best practices, with special emphasis on compliance with international security certification standards, d) to ensure that the quality of education, training as well as research and development meets the requirements of international best practices, thus contributing to the establishment of a world-class national knowledge pool, e) to ensure that the establishment of a secure cyberspace for children and future generations meets the requirements of international best practices."
+    }, 
+    {
+        "sentence_id,": "9c350cd240", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "a) International cooperation projects."
+    }, 
+    {
+        "sentence_id,": "732b7f9317", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Hungary lays special emphasis on implementing activities that are, on the one hand specified by the Digital Agenda of the European Union for the Member States and, on the other hand, prescribed by the NATO Cyber Security Policy and its implementation plan for allies."
+    }, 
+    {
+        "sentence_id,": "c63d3fa4ec", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards", 
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "In determining cyber security requirements for public procurement tenders in information technology and communications, Hungary intends to encourage equipment manufacturers and service providers submitting bids to create the highest possible level of cybersecurity, with special emphasis on compliance with international certification standards."
+    }
+]

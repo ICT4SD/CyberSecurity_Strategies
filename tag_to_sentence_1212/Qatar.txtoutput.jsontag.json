@@ -1,0 +1,291 @@
+[
+    {
+        "sentence_id,": "a19589f9eb", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Qatars current capabilities to respond to the threatsfrom policy instruments such as the National Information Assurance Policy, and the Banking Supervision Rules to the technical and operational expertise in Qatars Computer Emergency Response Team (Q-CERT), a trusted authority that promotes the identifi- cation and prevention of cyber attacks for the government and critical sectorsprovide a strong foundation for continuing to improve Qatars cyber security."
+    }, 
+    {
+        "sentence_id,": "f5d2b3d3bb", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Qatars approach to cyber security is based on three guiding principles: The government will lead by example to safeguard government systems and networks, implementing cyber security requirements while building and adopting new technologies; Cyber security is a shared responsibility of all government entities, businesses, institutions, and individuals; and Qatar will pursue cyber security policies and initiatives that preserve societys fundamental rights and values, consistent with laws and regulations."
+    }, 
+    {
+        "sentence_id,": "7193930509", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "These technologies will allow Qatar to sustain economic growth and development, provide a higher standard of living for future generations, create significant employment opportunities, and drive innovation and entrepreneurship."
+    }, 
+    {
+        "sentence_id,": "a22e2948cd", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "These infrastructure The number of businesses with an ICT enhancements will rely heavily on innovative security policy increased from 37% in 2010 and sophisticated ICT, presenting not only great to 61% in 2012. opportunities for continued economic growth In 2012, skilled ICT professionals and expansion, but also opportunities to address represented approximately 2% of Qatars cyber security throughout the projectlifecycle."
+    }, 
+    {
+        "sentence_id,": "dc02f6a46d", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Among these efforts: Qatar has developed strategies and implemented policies to safeguard CII that is important to national security and economic prosperity, such as that used for power generation, oil and gas production, financial transactions, healthcare, and government operations."
+    }, 
+    {
+        "sentence_id,": "c9dff1173a", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The National Information Assurance Policy and the National ICS Security Standard provide important guidance on security controls and practices to protect CII and improve Internet security."
+    }, 
+    {
+        "sentence_id,": "8e757d4c1b", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Qatar has formed strong international alliances and is an active participant in global efforts to shape international standards and norms on cyber security, including efforts in the International Telecommunication Union (ITU), the Forum for Incident Response and Security Teams (FIRST), and Meridian Process.13 The Qatari government is proactively investing in people, developing policies and processes, and implementing technology to improve cyber security for government entities, businesses, institutions, and individuals."
+    }, 
+    {
+        "sentence_id,": "4d268c238e", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "While businesses are beginning to appreciate the risks in cyberspace and take actions to improve cyber security, many follow independent policies and cannot obtain the necessary skills and technologies to institute effective cyber security best practices."
+    }, 
+    {
+        "sentence_id,": "8183464a6b", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "To make progress against the objective, Qatar will: Assess the risk to CII; 14 Implement cyber security controls and standards to mitigate risk to CII; Analyze cyber security trends and threats to CII and provide timely reports to stakeholders; Foster the use of trustworthy technology products and services; and Continuously monitor the security posture of CII."
+    }, 
+    {
+        "sentence_id,": "1c5ba066bc", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "To make progress against the objective, Qatar will: Increase capabilities to combat cyber crime; Develop and implement laws, regulations, and national policies to address cyber security and cyber crime;17 Monitor and enforce compliance with cyber security and cyber crime laws, regulations, and national policies; and Build and maintain strong international relationships to establish cyber security norms and standards."
+    }, 
+    {
+        "sentence_id,": "68d405f95a", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Qatar will collaboratively consider the perspectives and input of relevant government entities and institutions to develop these laws, regulations, and national policies."
+    }, 
+    {
+        "sentence_id,": "85bdb92fbf", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Participation in international efforts to develop global cyber security standards and norms, identify and promote best practices, modernize and increase privacy protections, and maintain stable and effective Internet governance will further position Qatar to meet its obligations in cyberspace."
+    }, 
+    {
+        "sentence_id,": "2496beb75b", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards", 
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "Initiative Action Assess the risk to CII Develop a national CII risk management framework to guide the identification of CII assets and organizations; assessment of threats, vulnerabilities, and consequences; and development of risk profiles Conduct regular risk assessments of CSOs and other organizations with CII Conduct dependency and interdependency assessments to identify systemic risks that cut across critical sectors Implement cyber Establish and maintain a CII cyber security standard and security controls and maturity model, including specific cyber security controls standards to mitigate Conduct regular evaluations and audits of CSOs to measure the risk to CII effectiveness of cyber security programs and controls Develop risk management strategies to protect the most critical services, systems, and organizations and track implementation of those strategies Share information on risks and risk management strategies across sectors to enable the prioritization of mitigation actions and the investment of resources Analyze cyber security Create sector-specific or organizational security operations trends and threats to centers or threat intelligence centers CII and provide timely reports to stakeholders Ensure the use of Develop the capability to evaluate and certify ICT products and trustworthy technology systems for use in critical sectors products and services Develop guidelines that specify security requirements for ICT and cyber security service providers Continuously monitor Establish a capability to conduct continuous diagnostics and the security of CII monitoring of networks to better understand risks, promote preventive measures, detect and treat infected devices, and notify affected users 13 ----------------------- Page 22----------------------- QATAR NATIONAL CYBER SECURITY STRATEGY Objective 2: Respond to, resolve and recover from cyber incidents and attacks through timely information sharing, collaboration, and action."
+    }, 
+    {
+        "sentence_id,": "719e630917", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Initiative Action Enhance and maintain Establish and maintain a national cyber security coordination situational awareness capability to improve Qatars collective understanding of cyber capabilities security threats and incidents and help manage the response to national incidents Develop a national system for recording and monitoring cyber threats, incidents, and attacks Establish and Develop a process for coordinating and managing cyber continuously enhance incident response incident response Establish information exchanges between cyber operations capabilities centers to facilitate incident response, share information, and provide training opportunities Reduce cyber infections Conduct regular assessments of networks to identify and within CII remove malicious code on network infrastructure Develop and implement tools to detect APTs attacking CII Establish mechanisms Establish and operate systems and tools for disseminating and procedures to threat and vulnerability information among trusted facilitate timely action stakeholders and information sharing Establish additional sector partnerships to bring stakeholders among stakeholders together to address cyber threats and improve CII preparedness and resilience Establish a forum to bring together security practitioners from across critical sectors to address systemic risks Ensure preparedness Hold national cyber security exercises and incorporate lessons by conducting cyber learned into policies, procedures, and operational capabilities security exercises Conduct sector-specific cyber security exercises to assess and anddrills test CSOs incident response capabilities Participate in or host international cyber exercises to further establish relationships and test incident response coordination capabilities 14 ----------------------- Page 23----------------------- QATAR NATIONAL CYBER SECURITY STRATEGY Objective 3: Establish a legal and regulatory framework to enable a safe and vibrant cyberspace."
+    }, 
+    {
+        "sentence_id,": "6cba3804cb", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Initiative Action Increase capabilities to Create new abilities to investigate criminal activity through combat cyber crime training, new forensic techniques, and access to technology Enact a Cyber Crime Law to provide law enforcement with additional authority and define criminal acts Collect statistics on cyber crime trends and methods Develop and implement Conduct regular reviews of laws and other policies to laws, regulations, and ensure they remain adequate to address emerging cyber national policies to securityneeds address cyber security Enact proposed laws (e.g., Data Privacy and Protection Law, and cyber crime Critical Information Infrastructure Protection Law) to prevent misuse of personal information and protect CII Monitor and enforce Establish a scheme and process for determining if CSOs are compliance with cyber adhering to laws and regulations and if they have implemented security and cyber national policies crime laws, regulations, Develop guidance and resources for CSOs, such as training, and national policies tools, and audit workshops, to promote the adoption of cyber security best practices and facilitate compliance with requirements Evaluate the NCSS and report annually on government and CSO efforts to implement the NCSS and improve cyber security Build and maintain Engage regularly with international partners on policy and strong international operations to raise cyber security awareness, identify and relationships to address threats, and coordinate actions to improve cyber establish cyber security security worldwide norms and standards Enhance existing and establish new bilateral and multilateral agreements to promote information sharing, enable cyber crime investigations, and support cyber operations 15 ----------------------- Page 24----------------------- QATAR NATIONAL CYBER SECURITY STRATEGY Objective 4: Foster a culture of cyber security that promotes the safe and appropriate use of cyberspace."
+    }, 
+    {
+        "sentence_id,": "bb01cfbdc1", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Qatar will challenges; and pursue cyber security policies and initiatives Promote an environment that rewards that preserve societys values and expectations, investment in security and technology."
+    }, 
+    {
+        "sentence_id,": "65ac04c2ff", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The collection of tools, policies, security concepts, security safeguards, guidelines, risk man- agement approaches, actions, training, best practices, assurance, and technologies that can be used to protect the cyber environment and organization and users assets."
+    }, 
+    {
+        "sentence_id,": "12c97836a3", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Exercises provide an effective tool for testing incident response plans; validating policies, plans, and procedures; identifying vulnerabilities and reporting requirements; assessing risk and preparedness; discovering interdependencies and response gaps; creating a shared perspective and buy-in among diverse stakeholders; and building a common understanding of roles and responsibilities."
+    }, 
+    {
+        "sentence_id,": "b925902ab4", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "A type of instrument such as a strategy, standard, framework, guideline, or other document that establishes, implements, guides, describes, or explains organizational responsibilities, authorities, actions, and procedures."
+    }, 
+    {
+        "sentence_id,": "5624379c64", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "13 ITU is a United Nations agency that specializes in ICT issues, particularly infrastructure development, standardization, and international cooperation."
+    }, 
+    {
+        "sentence_id,": "f709ee24de", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "17 Policies include types of instruments such as strategies, standards, frameworks, guidelines, or other documents that establish, implement, guide, describe, or explain organizational responsibilities, authorities, actions, and procedures."
+    }
+]

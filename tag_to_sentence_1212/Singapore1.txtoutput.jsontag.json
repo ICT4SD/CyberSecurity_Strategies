@@ -1,0 +1,170 @@
+[
+    {
+        "sentence_id,": "62087ba3ee", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "MARCH 2011 JUNE 2010 The Stuxnet worm targets Irans Natanz nuclear facility, reportedly ruining a fifth of the countrys nuclear centrifuges JUNE 2010 Hackers used phishing emails to gain access to RSAs network and steal information relating to its SecurID authentication tokens MARCH 2011 JULY 2012 Hacker TibitXimer downloads an estimated 3 million Verizon customer entries, leaking 10% of them SEPTEMBER 2011 Duqu, a general purpose key logger, steals information and digital certificates, which can mask future viruses as secure software SEPTEMBER 2011 JULY 2012 FEBRUARY 2013 A malicious third party infected Bit9s customers after the security firm failed to install its own product on all their networks computers FEBRUARY 2013 MARCH 2013 A DDoS attack targets Spamhaus, taking it offline for two days MARCH 2013 8 / NATIONAL CYBER SECURITY MASTERPLAN 2018 NATIONAL CYBER SECURITY MASTERPLAN 2018 / 9 Focal Areas Government, CII, Businesses and Individuals To prepare and secure public sector infocomm infrastructure, systems and services so that the Government is resilient against increasingly sophisticated cyber attacks G ov er n m e n t em syst eco ty re tiv e cy be r s e c u ri uc tu E& S E C UR it Bring Your Own Devices (BYOD) is the practice of allowing the employees of an organisation to use their own computers, smartphones, or other devices for work purposes."
+    }, 
+    {
+        "sentence_id,": "5c48170d40", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "This has spurred the adoption of Bring-Your-Own-Device (BYOD)4 policies by businesses and organisations."
+    }, 
+    {
+        "sentence_id,": "d2d4000375", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "The Secure and Resilient Internet Infrastructure Code of Practice (SRII-CoP), aligned with international standards and best practices, has been issued by IDA to designated ISPs."
+    }, 
+    {
+        "sentence_id,": "b8e7ab48b7", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "A 5-year S$130 million fund has been committed to support research efforts into both technological and human-science aspects of cyber security, complemented by studies into cyberspace governance and policy research."
+    }, 
+    {
+        "sentence_id,": "6568d437ab", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Some of the features include: Events Calendar Lists Infocomm Security Events that will be held in Singapore Security News Features the latest infocomm securityrelated news and articles from Go Safe Online Portal Security Alerts Updates users on security vulnerabilities for commonly used software Password Checker Allows users to verify the strength of their passwords and set reminders for periodic changing of passwords 22 / NATIONAL CYBER SECURITY MASTERPLAN 2018 NATIONAL CYBER SECURITY MASTERPLAN 2018 / 23 International Collaborations Association of Infocomm Security Professionals (AISP) The Association of Infocomm Security Professionals (AISP), a collaboration between Government and Industry, aims to uplift infocomm security into a distinguished profession and build a critical pool of competent infocomm security professionals who subscribe to the highest professional standards."
+    }, 
+    {
+        "sentence_id,": "f98508749b", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "One outcome of the initiative is the development of a security framework and standards compliance for IT security hardening and attack protection for mobile devices, embedded systems and SCADA systems."
+    }, 
+    {
+        "sentence_id,": "9b741526dc", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "This is done through various activities such as the ASEAN Network Security Action Council (ANSAC), ASEAN-Japan Information Security Policy Meeting and the ASEAN CERT Incident Drill (ACID)."
+    }, 
+    {
+        "sentence_id,": "e42fc6df3e", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "24 / NATIONAL CYBER SECURITY MASTERPLAN 2018 NATIONAL CYBER SECURITY MASTERPLAN 2018 / 25 ASEAN-Japan Annual Engagements Singapore is an active participant in ASEAN-Japan engagements that range from awareness and outreach, policy research, information sharing to operational co-operation among CERTs/CSIRTs."
+    }, 
+    {
+        "sentence_id,": "be9f8ca988", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "These engagements are anchored by two annual events, namely the ASEAN-Japan Information Security Policy Meeting and the ASEANJapan Government Network Security Workshop that Singapore participates in."
+    }, 
+    {
+        "sentence_id,": "37a41fcafb", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The Policy Meeting is the platform for deliberation on strategic issues while the Workshop is primarily used to discuss initiatives for collaborations such as the annual Cyber Security Awareness Month."
+    }, 
+    {
+        "sentence_id,": "f2e4a6de3e", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Other Japan-led initiatives included the Tsubame project, an Internet threat monitoring system, and the annual Communications Check Exercises to build closer relationship between ASEAN member states and Japan as well as establish more effective information sharing processes to aid decisionmaking for policy makers."
+    }, 
+    {
+        "sentence_id,": "e44ed51d9f", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "In 2013 and 2014, SingCERT also participated in a Japan-led Communications Check Exercise, which aims to build better relationships between ASEAN member states and Japan, and establish more effective information sharing processes to aid in decision-making for policy makers."
+    }, 
+    {
+        "sentence_id,": "f4736e017a", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "FIRST members develop and share technical information, tools, methodologies, processes and best practices FIRST encourages and promotes the development of quality security products, policies & services FIRST develops and promulgates best computer security practices FIRST promotes the creation and expansion of Incident Response teams and membership from organisations from around the world FIRST members use their combined knowledge, skills and experience to promote a safer and more secure global electronic environment."
+    }, 
+    {
+        "sentence_id,": "dcd7bf291d", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The conference is a major programme of the international Meridian Process, which aims to: Build trust and establish international relations with senior government policy makers for Critical Information Infrastructure Protection (CIIP) Share strategic approaches and experiences in CIIP from around the world Explore benefits and opportunities for cooperation between governments The Meridian Process provides Governments worldwide with a means by which they can discuss how to work together at the policy level on CIIP."
+    }
+]

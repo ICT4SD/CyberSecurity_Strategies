@@ -1,0 +1,50 @@
+[
+    {
+        "sentence_id,": "b3fbd4f0cb", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "This document engages with these various threats and hazards, sets out the high level strategic goals that form the basis of national policy in this area and establishes the measures that will be taken in respect of each."
+    }, 
+    {
+        "sentence_id,": "6347cc409e", 
+        "tag": [
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "national legislation"
+                ]
+            }
+        ], 
+        "sentence": "Ensuring that each of these tasks are delivered is a prerequisite for open, free and safe access to cyberspace, and confidence that their personal data will be processed in accordance with data protection principles enshrined in law, notably national legislation, the European Union Treaties and the European Convention on Human Rights."
+    }, 
+    {
+        "sentence_id,": "913964c63f", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "responsible agency"
+                ]
+            }
+        ], 
+        "sentence": "The extant Computer Security and Incident Response Team (CSIRT-IE) within the Department of Communications, Energy and Natural Resources have been engaged in general emergency planning processes in the State with the Principal Response Agencies (including An Garda Sochna, the Health Service Executive and the Local Authorities), Government Departments and other agencies overseen by the Office of Emergency Planning (OEP) within the Department of Defence and the Government Task Force on Emergency Planning, chaired by the Minister for Defence."
+    }, 
+    {
+        "sentence_id,": "59d08b4a77", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "We will also engage at European and international levels with key partners in delivering policy measures to improve cyber security."
+    }
+]

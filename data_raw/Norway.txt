@@ -1,0 +1,1049 @@
+﻿----------------------- Page 1-----------------------
+
+Strategy 
+
+Cyber Security Strategy 
+for Norway 
+
+----------------------- Page 2-----------------------
+
+2 
+
+----------------------- Page 3-----------------------
+
+Strategy 
+
+Cyber Security Strategy 
+for Norway 
+
+----------------------- Page 4-----------------------
+
+4 
+
+----------------------- Page 5-----------------------
+
+Contents 
+
+Foreword                                                                                                                    6 
+
+1      Introduction                                                                                                                                            8 
+
+       1.1 Target Audience                                                                                                                              10 
+
+       1.2  Background                                                                                                                                       11 
+
+2      Security Challenges and Trends                                                                                          12 
+
+3       Roles and Responsibilities of Ministries for   
+       Cyber Security                                                                                                                                     15 
+
+4      Overarching Goals and Strategic Priorities                                                      17 
+
+       4.1 A More Comprehensive and Systematic Approach to   
+       Cyber Security                                                                                                                                           17 
+
+       4.2  Improve ICT Infrastructure                                                                                                    18 
+
+       4.3 A Common Approach to   
+       Information Security in Public Administration                                                              20 
+
+       4.4 Safeguard Society’s Ability to Detect,   
+       Alert and Handle Serious ICT Incidents                                                                                21 
+
+       4.5 Safeguard Society’s Ability to Prevent,   
+       Detect and Investigate cyber Crime                                                                                       22 
+
+       4.6 Continuous Efforts to Raise Awareness and Competence                          23 
+
+       4.7  High Quality National Research and Development   
+       within Information and Communications Security                                                     24 
+
+5      Responsibility for Implementation                                                                               26 
+
+6      Economic and Administrative Implications                                                     27 
+
+Appendix A: Terms and Expressions                                                                                      28 
+
+Appendix B: Selected National Contacts for   
+Information Security                                                                                                                                30 
+
+                                                                                                                                        5 
+
+----------------------- Page 6-----------------------
+
+   Foreword  
+
+   Information and communications technology (ICT)                                   Information security requires transboundary initiatives  
+   has caused major changes to society over the past                                 and encompasses technology, policies, attitudes and  
+   decades. There have been significant improvements                                 culture. This strategy has been developed jointly  
+   for individuals, businesses and society as a whole.                               by the Ministry of Defence, the Ministry of Justice  
+   ICT systems have become increasingly integrated                                   and Public Security, the Ministry of Transport and  
+   into all aspects of society. People have access to better                         Communications and the Ministry of Government  
+   and more diverse services. Technology is now the                                  Administration, Reform and Church Affairs. An  
+   foundation for all interaction across sectors, making                             advisory group with representatives from the public  
+   ICT a strategic security challenge. The infrastructure                            and private sectors has assisted the ministries in  
+   for these services has become critical for society to                             formulating this strategy. 
+   function normally. 
+                                                                                     To achieve a comprehensive approach to current chal- 
+  An increased use of ICT has made society more                                      lenges, the National Security Authority’s 2009 Cyber  
+  vulnerable. Threats to ICT systems are on the rise, and                            Security Strategy and related hearings, were used as  
+   attacks are increasingly more sophisticated. Therefore,                           important background material for this cyber security  
+   good preventive information security is increasingly                              strategy and accompanying action plan. 
+   important for national security. By information  
+  security, we mean that information is protected against                            ICT is a very dynamic field, and security challenges  
+   unauthorised access, that it is available when needed,                            are constantly changing. Therefore, this cyber security  
+   and that it is protected against unauthorised changes.                            strategy will be revised accordingly. 
+
+   Our networks and systems must be secure and stable at  
+   all times. Industry, government and the general public                             17 December 2012 
+   must all feel confident that the digital services our  
+   society relies on work. By publishing a national cyber                            Minister of Justice and Public Security, Grete Faremo  
+   security strategy, the Government is setting the direction                        Minister of Defence, Anne-Grete Strøm-Erichsen 
+   and priorities on which public authorities should base                            Minister of Transport and Communications,  
+   their information security efforts. The strategy describes                        Marit Arnstad 
+   current and future security challenges and points to                              Minister of Government Administration, Reform and  
+  where we should focus our efforts in order to meet                                 Church Affairs, Rigmor Aasrud 
+   those challenges. 
+
+P                                  P                                  P                                 P 
+h                                  h                                  h                                 h 
+o                                  o                                  o                                 o 
+t                                  t                                  t                                 t 
+o                                  o                                  o                                 o 
+:                                  :                                  :                                 : 
+                                                                                                          
+T                                  T                                  O                                 J 
+o                                  o                                  l                                 o 
+r                                  r                                  a                                 h 
+g                                  g                                  v                                 n 
+e                                  e                                   H                                n 
+i                                  i 
+r                                  r                                  e                                 y  
+H                                  H                                 g                                  S 
+a                                  a                                 g                                  y 
+u                                  u                                  ø                                 v 
+g                                  g                                                                    e 
+a                                  a                                                                    r 
+                                                                                                        s 
+a                                  a                                                                    e 
+r                                  r                                                                    n 
+d                                  d 
+
+ 6 
+
+----------------------- Page 7-----------------------
+
+7 
+
+----------------------- Page 8-----------------------
+
+ A   Introduction 
+
+ In recent decades, developments in information                The object of ICT security efforts is that Norway  
+ and communications technology (ICT) have caused               should be characterised by: 
+ significant changes to society. The Internet has  
+ brought great social gains to Norway. These gains              •  All stakeholders are familiar with risks and secure  
+ have been significant for individuals, businesses and            their systems and networks accordingly. 
+ society as a whole. ICT systems are increasingly  
+ important, integrated into all aspects of society, and         •  Public authorities work actively to ensure that  
+ critical for society to function normally. Technology is         national ICT infrastructure is secure, through  
+ an integral part of our work and everyday life. In many          proper organisation, resource allocation, good  
+ cases, the population is dependent on ICT in order to            general conditions, and effective measures. 
+ receive a service. ICT has become the foundation for  
+ all interaction across sectors, and can be considered a        •  Private and public organisations integrate security  
+ fundamental social infrastructure.                               and robustness into their information infrastructure  
+                                                                  to protect their operations and safeguard their  
+ The increased dissemination of ICT is a natural                  customers and users. 
+ consequence of these social gains. However, this has  
+ also made ICT a strategic security challenge.                  •  Individuals take the initiative to protect their  
+                                                                  identity, their privacy and their economic assets  
+ Society will continue to develop through more                    online. 
+ extensive use of ICT. This means that we need to  
+ protect information and ensure that our networks and  
+ systems are secure and stable at all times. The general  
+ public, industry and public administration must all feel  
+ confident that digital services are reliable. 
+
+8 
+
+----------------------- Page 9-----------------------
+
+9 
+
+----------------------- Page 10-----------------------
+
+                                                                     1.1 Target Audience  
+     Information security is about how to maintain the               Public authorities play a central role in facilitating  
+     confidentiality, integrity and availability of information      and influencing how ICT is developed and applied  
+                                                                     in society. This is also true for information security.  
+     Integrity –  Ensuring that information and information          This is achieved in part through the formulation and  
+     processing is comprehensive, accurate and valid, and            enforcement of laws and regulations, inspections,  
+     the result of authorised and controlled activities              sharing information, and through advice and  
+                                                                     guidance. This national Cyber Security Strategy,  
+     Confidentiality – Ensuring that information is not              with the accompanying action plan, complements  
+     disclosed to unauthorised persons, and that only                and points the direction for further development of  
+     authorised persons have access                                  existing regulations and measures. The strategy is an  
+                                                                     expression of the Government’s overarching priorities  
+     Availability – Ensuring that a service meets specific           in this area. 
+     stability requirements, so that the information is  
+     available when needed                                           The Government has the primary responsibility for  
+                                                                     public information security efforts. To fulfil this  
+     Integrity, confidentiality, and availability are all            responsibility, authorities must work closely with all  
+     important factors when it comes to safeguarding ICT             relevant stakeholders in the public and private sectors.  
+     security in society  Individual organisations will weigh        There are also a number of public bodies with ICT  
+     these factors differently depending on the scope of             security as a particular responsibility, see Appendix B. 
+     their business and the risks they face  
+                                                                     The ministries are responsible for ensuring that all  
+                                                                     relevant stakeholders in the sectors are included in  
+   Information security is an ongoing process. What was              the implementation of measures within the strategy’s  
+   considered good security yesterday is not necessarily             strategic priorities. 
+  good enough today or tomorrow. To realise the full  
+  benefits of information security measures, we must                 Leaders of counties, municipalities and businesses  
+   maintain and update technical knowledge and be                    have a responsibility, in line with their different roles,  
+   security conscious. New security challenges emerge as             to follow up information security efforts in their  
+  we see developments in technology, the introduction                own sector or business. They must, on their own  
+   of new products and changing usage patterns.                      responsibility and initiative, implement measures  
+                                                                     necessary to support the strategy’s strategic priorities. 
+  The Government’s primary objective in publishing  
+   a national strategy for information security is to set            Beyond this everyone has a personal responsibility to  
+  the direction and priorities that will form the basis              help safeguard and strengthen information security in  
+  for the government’s information security efforts in               society. Well-functioning everyday security is a basic  
+  the coming years. For each strategic priority, there is            prerequisite for being able to handle more serious  
+   a description of objectives for the initiative, a status          incidents effectively. 
+  update and a list of specific areas of focus. How the  
+   Government aims to follow up specific aspects of this  
+   strategy will be described in a detailed action plan,  
+  which will be published separately and revised as  
+   necessary. In addition, follow-up of the strategy will aid  
+   decision makers in the public and private sectors in  
+  particular, and the population in general, in increasing  
+  their awareness of the security challenges we face. 
+
+10 
+
+----------------------- Page 11-----------------------
+
+ 1.2 Background                                                 The committee’s recommendations were presented  
+The challenges related to information security are              in NOU 2006:6 When Security is Crucial. The  
+not new. They have been discussed and dealt with by             Infrastructure Committee’s recommendations were  
+changing governments for decades and include the                reviewed and followed up in St.meld. no. 22 (2007– 
+administration of personal information, as well as the          2008) Security for Society. This white paper supports  
+protection of state secrets and critical infrastructure.        and describes the national CERT function (Computer  
+A lot of work has been done both in the public and              Emergency Response Team). 
+private sectors to follow up various reports and  
+recommendations.                                                St.meld. no. 29 (2011–2012) Security for Society  
+                                                                determined that new developments, including the  
+The Vulnerability Committee’s report, NOU 2000:24               Internet, more mobile services, new service platforms  
+ The Vulnerable Society, determined that ICT systems            and a greater use of offshoring, have made ICT a  
+had become one of the pillars of society, and that              strategic security challenge. These developments place  
+society had become more vulnerable to their failure.            high demands on awareness and competence, and  
+In this context, the committee emphasised conveying             reinforce the need for cooperation and coordination  
+the significance of ICT vulnerability as part of society’s      across different sectors of society. 
+overall vulnerability. The committee suggested a  
+number of measures to mitigate security challenges,             The first national strategy for information security was  
+including the development of a national strategy to             issued in June 2003 and was a joint publication by the  
+reduce ICT vulnerability.                                       Ministry of Trade and Industry, the Ministry of Defence  
+                                                                and the Ministry of Justice and Public Security. During  
+The Vulnerability Committee’s work laid important               the strategy period of 2003–2006, several concrete  
+groundwork for St.meld. no. 17 (2001–2002) Security             measures and activities were executed. Protection  
+for Society. The Road to a Less Vulnerable Society.  This       of critical ICT infrastructure was prioritised. During  
+white paper included an overview of a number of                 that period, organisation of security efforts was also  
+recommended measures to reduce ICT vulnerability.               improved. This strategy was followed by the release of  
+                                                                National Guidelines for Improving Information Security  
+In 2004, the Infrastructure Committee initiated a study         2007–2010. 
+of the need for securing critical national infrastructure.  
+
+                                                                                                                            11 
+
+----------------------- Page 12-----------------------
+
+  B   Security Challenges and Trends   
+
+  ICT security challenges encompass all levels of              number of security and emergency challenges. For  
+  society, from protecting individual mobile phones to         example, local operating conditions and other national  
+  safeguarding essential systems for critical societal         regulations and practices may differ from Norwegian  
+  functions.                                                   ICT security requirements or regulations for privacy  
+                                                               and personal information. The lack of transparancy  
+  Some of the challenges and trends that characterise          also makes it difficult for Norwegian authorities to  
+  the current situation include:                               carry out inspections and control activities 
+
+  Internet and mobile devices. The increased use of the        A market for crime. The Internet and mobile devices  
+  Internet and new computer systems, industrial control        have led to a greater risk of being exposed to cyber  
+  systems, mobile phones, memory sticks, social media,         crime. Today, there is an underground market,  
+  and tablets has made us more efficient, but also more        easily accessible over the Internet, for buying and  
+  vulnerable.                                                  selling information and trading tools for cyber crime.  
+                                                               Criminals are exploiting this opportunity more and  
+  Downtime is increasingly critical. Society has become        more. 
+  more vulnerable to even short interruptions to  
+  systems and networks, increasing the importance of           Espionage and sabotage – a growing threat. The trend  
+  having a secure and robust ICT infrastructure.               toward targeted and professional hacking of critical  
+                                                               ICT systems is increasing. Targeted espionage attacks  
+  New service platforms and lack of clarity. The increased     against vital national security interests now constitute a  
+  use of new types of service platforms, such as online        significant challenge. Civil services, military units and  
+  and cloud computing means less transparent solutions         private companies are all vulnerable to espionage and  
+  and can make it more difficult for users to assess risk      sabotage. Many countries are developing capabilies for  
+  and vulnerability, and document their own security.          espionage and warfare against critical infrastructure.  
+                                                               We must assume that sophisticated sabotage and  
+  Increased use of offshoring. Norwegian companies are         attacks will be directed against critical information  
+  increasingly outsourcing operational and systems             resources, including the computer systems that  
+  development tasks to suppliers located in other              control industrial processes and critical infrastructure. 
+  countries and on other continents, resulting in a            Major requirements for awareness and competence.  
+
+12 
+
+----------------------- Page 13-----------------------
+
+13 
+
+----------------------- Page 14-----------------------
+
+  New services and devices place great demands on the              Disloyal employees. Internal vandalism, theft or  
+  competence of ordinary users. It is difficult for owners         misuse of the organisation’s ICT resources by its own  
+  of critical infrastructure to have sufficient awareness          employees can be difficult to detect. This is partly  
+  and knowledge of vulnerabilities, interdependencies              because many businesses have bad or poor operating  
+  between infrastructure components, and what                      and administrative procedures, or that management  
+  individual businesses must do to protect their                   is not entirely aware of what system privileges their  
+  infrastructure.                                                  employees actually have. Internal attacks against a  
+                                                                   computer network can also be harder to detect than  
+  Increased complexity. Most companies currently have              external attacks. 
+  a system portfolio that is far more complex than just  
+  a few years ago. ICT is now part of almost all new               Privacy and identity abuse. Personal privacy is also  
+  products and systems, and it is taken for granted that           threatened by new methods of communication and  
+  they will interact seamlessly with other systems and             ways to use information systems and the Internet.  
+  across organisations and sectors. It is a challenge to           Identity abuse is a growing challenge for individuals,  
+  keep track of all the interdependencies and potential            businesses and public authorities. 
+  vulnerabilities. The increasing complexity of systems  
+  and networks has also made it more difficult for                 International attention. Information security is an area  
+  procurers of ICT systems to set clear and precise                that many countries and international organisations  
+  security requirements.                                           emphasise as increasingly important for economic  
+                                                                   growth, societal security and national and international  
+                                                                   security policies. Many countries have developed their  
+                                                                   own cyber security strategies and guidelines. Each  
+                                                                   country’s reciprocal commitment to the community  
+                                                                   and to political alliances is a significant focus in this  
+                                                                   context. 
+
+                                                                   Information security weaknesses. The Office of the  
+                                                                   Auditor General has revealed major weaknesses in  
+                                                                   cyber security in public administration in Document  
+                                                                   1 (2010–2011). In the Report on Security 2011, The  
+                                                                   Norwegian National Security Authority asserts  
+                                                                   that crucial national ICT systems in many cases  
+                                                                   are insufficiently protected, and that threats to the  
+                                                                   organisations are on the rise. 
+
+                                                                   The Computer Crime Study of 2012 indicates that the  
+                                                                   gap between threats and security measures taken by  
+                                                                   both public an private organisations is increasing in  
+                                                                   parallel with an increase in their dependency on ICT.  
+
+                                                                   Security challenges and trends are described in more  
+                                                                   detail in the Government’s information security action  
+                                                                   plan.  
+
+14 
+
+----------------------- Page 15-----------------------
+
+C   Roles and Responsibilities  
+           of Ministries for Information  
+           Security 
+
+Company Responsibility                                           In practice, most of these tasks will be executed by the  
+ICT security is primarily a responsibility at the                departments or their subordinate departments because  
+company level. This follows the Principle of                     they are the ones most familiar with their dependence  
+Responsibility, in that whoever is responsible for               on key information systems and infrastructure. 
+an organisation under normal conditions is also  
+responsible in a crisis situation. In practice, this             Ministries with Special Responsibility for ICT  
+means that responsibility lies with the owner of the             Security 
+organisation, be it in the private or public sector.             Based on the above allocation of responsibility, most of  
+                                                                 the ICT security work is done in the individual sectors,  
+More comprehensive national ICT security measures                and primarily in the individual organisations. Beyond  
+are planned and implemented in a close collaboration             this, some ministries have a specific role related to ICT  
+between the authorities and the individual business.             security. 
+The state of national security is the sum of all security  
+initiatives taking place in businesses, in each sector           The Ministry of Justice and Public Security is  
+and at a national level. A good culture of security in the       responsible for coordinating civilian security. Besides  
+organisation will reduce the chance that employees are           initiating, developing and implementing measures  
+the weakest link in our security barriers.                       through its own channels, the ministry is a driver  
+                                                                 and coordinator for other sectorial authorities. The  
+Responsibilities of Sectoral Ministries                          Ministry of Justice and Public Security shall assume  
+The primary responsibility for safeguarding security             and develop responsibility for society’s information  
+in each sector’s ICT infrastructure, and for ensuring            security.  
+adequate preventive measures for information security,  
+lies with the sectoral ministries. This means that each          The Ministry of Government Administration, Reform  
+sectoral ministry has a responsibility to:                       and Church Affairs is responsible for coordinating  
+                                                                 the Government’s ICT policy. The ministry is also  
+•  Identifying critical infrastructure in their sector, and      responsible for promoting a stronger and more  
+   ensuring adequate security                                    comprehensive approach to information security in  
+                                                                 public administration. 
+•  Assess, determine and implement preventive  
+   measures in their sector                                      The Ministry of Defence is responsible for cyber  
+                                                                 security in the military sector. The Ministry of  
+•  Plan emergency measures with respect to various               Defence has ministerial responsibility for the National  
+   crisis situations                                             Security Authority, and administrative responsibility  
+                                                                 for the Security Act. 
+•  Plan for and, if necessary, initiate crisis  
+   management in their sector                                    The Ministry of Defence is responsible for cyber security in  
+                                                                 the military sector. The Ministry of Defence has ministerial  
+•  Supervise and monitor information security efforts            responsibility for the National Security Authority, and  
+   in their suborinate departments.                              administrative responsibility for the Security Act. 
+
+                                                                                                                              15 
+
+----------------------- Page 16-----------------------
+
+  The Ministry of Transport and Communications  
+  is responsible for ICT security in electronic  
+  communications networks and services, including  
+  Internet. The electronic communications sector is  
+  regulated by the Electronic Communications Act and  
+  its regulations. The Post and Telecommunications  
+  Authority, a government agency under the  
+  Ministry of Transport and Communications, has a  
+  special responsibility for security and emergency  
+  preparedness for electronic communication networks  
+  and services. 
+
+  Although information security is primarily an  
+  organisation and sector responsibility, our increasingly  
+  networked society demands a comprehensive  
+  approach. ICT infrastructure and security challenges  
+  cut across established businesses and sectors.  
+  Effective protection of ICT infrastructure will require  
+  good coordination between public authorities,  
+  business and individual users. 
+
+16 
+
+----------------------- Page 17-----------------------
+
+D   Overarching Goals and   
+            Strategic Priorities 
+
+This strategy mainly addresses the challenges that we                 through specific measures will be described in an  
+as a society must work together to solve. Based on the                action plan, which will be published separately and  
+security challenges and trends discussed in Chapter                   revised as necessary. 
+2 of this strategy, the Government has identified four  
+overarching goals for information security: 
+                                                                      4.1 A More Comprehensive and Systematic  
+                                                                      Approach to Information Security  
+   1   Better coordination and common situational  
+      understanding 
+   2   Robust and secure ICT infrastructure for everyone 
+                                                                        Private and public organisations shall safeguard  
+   3   Good ability to handle adverse ICT events 
+                                                                        information security comprehensively and systematically   
+   4   High level of competence and security awareness 
+                                                                        This entails a conscious use of information security  
+                                                                        management systems (ISMS) as a part of corporate  
+None of these overarching information security goals                    governance  Recognised standards must be applied   
+is more important than another, and are mutually                        Requirements must be tailored to the risk facing the  
+dependent success factors.                                              individual organisation  The nature, size and social  
+                                                                        significance of the organisation will dictate its level of  
+These overarching goals will be operationalised                         ambition and allocation of resources to security efforts   
+through seven strategic priorities: 
+
+                                                                      Several regulations require organisations to have  
+   •  Ensure a more comprehensive and systematic  
+                                                                      an information security management system, e.g.  
+     approach to information security 
+                                                                      Electronic Public Administration Regulations, which  
+   •  Improve ICT infrastructure 
+                                                                      apply to the entire public sector. Regulations relating  
+   •  Ensure a common approach to information security  
+                                                                      to the Personal Data Act apply to both the private and  
+     in public administration 
+                                                                      public sector. In addition, the Security Act applies to  
+   •  Safeguard society’s ability to detect, alert and handle  
+                                                                      the entire public sector and parts of the private sector.  
+     serious ICT incidents 
+                                                                      Several regulations state that security efforts must  
+   •  Safeguard society’s ability to prevent, detect and  
+                                                                      be tailored to the risk. Thus, it is crucial that public  
+     investigate cyber crime 
+                                                                      administration conduct good risk and vulnerability  
+   •  Continuous efforts to raise awareness and  
+                                                                      assessments. The Data Protection Authority, National  
+     competence 
+                                                                      Security Authority and Office of the Auditor General  
+   •  High quality national research and development in  
+                                                                      have revealed weaknesses in risk assessments  
+     the field of information security 
+                                                                      conducted by public administration. They point out  
+                                                                      that existing security measures are often unsystematic,  
+This strategy also contains a brief status report and                 fragmented, and that information security efforts  
+indicates specific areas that should be emphasised                    neither have enough support from management nor  
+in the future. Processes for further clarification of                 are they well integrated into business management.  
+strategic priorities and the implementation of specific              An increased use of international security standards  
+measures are described in chapter 5 of this strategy.                 in public administration could contribute to more  
+How the Government will follow up this strategy                       comprehensive and systematic security efforts.  
+
+                                                                                                                                       17 
+
+----------------------- Page 18-----------------------
+
+  Increased use of certified ICT products and systems               if necessary. Users must have sufficient expertise to  
+  may also help boost confidence in and improve the                 choose appropriate solutions and ensure that they  
+   security of public sector systems and services in                receive the level of quality and reliability that they  
+  Norway.                                                           require from their service providers. This means that  
+                                                                    organisations need to have good user guidelines. 
+  The following must be an area of focus: 
+   •  All departments and state-owned companies must                To ensure increased redundancy and a more robust  
+     have an information security management system.                infrastructure, security must be weighed against  
+     This management system must be based on                        environmental and economic considerations when  
+     recognised security standards. The system’s scope              planning and developing infrastructure. Environmental  
+     and level of detail must be tailored to the scope and          and economic considerations are often important  
+     nature of each organisation and the risk it faces.             when establishing an infrastructure, for example,  
+     Local governments and private companies should                 several companies using the same route for installing  
+     be encouraged to establish similar management                  cables, many companies sharing a communications  
+     systems.                                                       mast, and the co-location of technical equipment for  
+                                                                    several companies. Experience shows that this can be  
+                                                                    at the expense of security. On the other hand, security  
+  4.2 Improving ICT Infrastructure                                  measures for one type of infrastructure can help  
+                                                                    safeguard other infrastructure along the same route.  
+                                                                    For example, securing a road against landslides can  
+     ICT infrastructure that supports critical societal             also help protect cables that run along the same route. 
+     functions must be robust and reliable so that adverse  
+     events and actions are avoided to the greatest                 The implementation of changes to the the Security  
+     extent possible  The power grid and electronic                 Act’s asset security regulations is an important tool  
+     communications networks need particular attention              for identifying critical societal functions and revealing  
+     One primary objective is to require all stakeholders           mutual dependencies. This will strengthen national  
+     in the public and private sector to adhere to clear            ICT and societal security. 
+     requirements and provide them with appropriate  
+     advice and guidance to enable them to procure and              Selected areas of focus include: 
+     administrate electronic communications services with            •  Sectoral authorities must set requirements for the  
+     an adequate level of security based on the risk facing            operational continuity of systems that are crucial for  
+     the individual organisation  The same requirements                society.  
+     should apply to owners of businesses with important  
+     societal functions                                              •  Security measures for physical infrastructure must  
+                                                                       be coordinated across sectors so that different  
+                                                                       measures work together and do not conflict with  
+  Technological developments entail that ICT                           each other.  
+  infrastructure is constantly changing. Parts of it will  
+  be renewed continuously. The traditional telephone                 •  There should be regular drills for situations where  
+  network for voice communications is being replaced                   infrastructure has partially reduced capacity or drops  
+  by electronic communications networks used for                       out.  
+  all kinds of services. It is therefore difficult to label  
+  certain parts of ICT infrastructure as critical and other          •  Sectoral ministries must verify that the sector’s  
+  parts as less critical for national security.                        organisations identify and propose ICT functions  
+                                                                       and systems that can be classified as critical societal  
+  It is important to emphasise that there are many                     functions, in line with asset security regulations. 
+  electronic communications networks. Users who  
+  are dependent on electronic communication must  
+  be able to use alternative communication solutions  
+
+18 
+
+----------------------- Page 19-----------------------
+
+19 
+
+----------------------- Page 20-----------------------
+
+   4.3 A Common Approach to Information                              Ministries and directorates need to communicate  
+   Security in Public Administration                                 highly classified information with each other,  
+                                                                     both in daily work and in various crisis situations.  
+                                                                     Practical experience has revealed challenges related  
+     Digital communication should be the norm for                    to the ability of ministries to both administrate and  
+     communication with and within public administration             communicate such information. Evaluations of various  
+     Our citizens, industry and public administration                drills also indicate that there is a lack of joint systems  
+     must be confident that electronic services in the               in public administration for communicating sensitive,  
+     public sector, as well as sectoral systems and online           confidential and classified information. 
+     services, are secure and reliable  Therefore, we must  
+     establish comprehensive national solutions for secure           Several ministries and their departments have called  
+     communication and access to services  These kinds of            for a common set of requirements for public sector  
+     national solutions include ID-porten and government             security. There have been attempts to coordinate  
+     issued electronic IDs (eID) at a high level  In addition        regulations, but they have proven difficult. Regulation  
+     to security benefits, a centralised approach will also          administrators and other regulatory bodies, such as  
+     entail financial savings in the form of more unified            the Agency for Public Management and eGovernment  
+     development and operation of these systems  The                 (Difi), has done much work in this area, but the efforts  
+     public authorities must clarify which general legal,            have not been sufficiently coordinated. There is also  
+     organisational and technical security requirements              a need to secure electronic communication between  
+     apply to ministries and their subordinate organisations,        government agencies on the one hand and citizens and  
+     key infrastructure owners and owners of classified ICT          businesses on the other hand. 
+     systems for use in public administration  A common  
+     approach to information security will also put more             Selected areas of focus include: 
+     pressure on arriving at a common way to express                 •  Public authorities must clarify the general legal,  
+     risk, potential harm, and security level for public                organisational and technical security requirements  
+     administration  Risk and vulnerability analyses should             that apply to ministries and their departments, key  
+     form the basis for all implementation of ICT security in           infrastructure owners and owners of classified ICT  
+     public administration                                              systems in the public sector. These requirements  
+                                                                        must be the basis of all exchange of information  
+                                                                        in public administration. They should also include  
+  There are many regulations for information                            general requirements for suppliers of ICT products  
+   security, and various departments have regulatory                    and systems to the public sector. 
+   responsibilities. Currently, there is not one set of  
+   common minimum standards for the public sector                    •  Public organisations should be able to securely send  
+   with regard to security procedures and technical                     and receive documents electronically, such that the  
+   measures for individual organisations, or for owners of              confidentiality, integrity and authenticity can be  
+   critical infrastructure. This may contribute to business             guaranteed. 
+   systems not being compatible, or that organisations  
+   do not have confidence in each other’s security                   •  The need for specific systems and solutions to  
+   levels, such that they cannot communicate and share                  secure existing and new sectoral systems in public  
+   information securely. Since there is such a large                    administration must be reduced to a minimum. 
+   number of networks serving the public sector, it is  
+   difficult to establish secure, comprehensive solutions            •  Ministries must have ICT solutions that make  
+   for the flow of information between ministries and                   it possible to store, manage and communicate  
+   between ministries and directorates. In addition, such               sensitive and classified electronic information  
+   fragmented solutions do not facilitate a satisfactory                across ministries. These solutions must be  
+   level of security.                                                   compatible with corresponding systems in the  
+                                                                        defence sector. 
+
+20 
+
+----------------------- Page 21-----------------------
+
+4.4 Safeguard Society’s Ability to Detect,                       in close contact with NorCERT and businesses in  
+Alert and Handle Serious ICT Incidents                           their sector, or are in the process of doing so (for  
+                                                                 example, the defence, health and welfare, and justice  
+                                                                 sectors). Their sectoral expertise improves our overall  
+  Norway must be in a constant state of proactive                ability to handle incidents, and also ensures that the  
+  operational preparedness in order to prevent, detect           responsibility of sectoral authorities is safeguarded.  
+  and coordinate reactions to serious ICT incidents  In          More and more individual organisations are  
+  this context, relevant authorities and organisations           establishing internal response teams or outsourcing  
+  must work in close collaboration, with special emphasis        such services. NorCERT is jointly financed by public  
+  on working with those parts of the private sector that         and private funds.  
+  own or operate infrastructure  This collaboration must  
+  address both intentional and unintentional events,             For incidents affecting electronic communications,  
+  such as technical or human error, accidents, or natural        such as software errors, loss or interruption of  
+  disasters                                                      Internet services, mobile phone services or other  
+                                                                 electronic communication services, there are routines  
+                                                                 in place for network providers to notify the Post and  
+In this context, serious ICT incidents include: targeted        Telecommunications Authority. 
+attacks against critical ICT infrastructure and sensitive,  
+confidential and classified information. Together,               Selected areas of focus include: 
+the large volume of minor incidents can also have                •  There must be ICT alert teams with the basic  
+serious consequences (such as leaks of sensitive                    capacity to coordinate and manage ICT incidents for  
+business information or loss of confidential or sensitive           all sectors (such as a sectoral CSIRT), and for the  
+information). Currently, not all organisations know                 most important organisations that support critical  
+what to do if they have a major ICT incident, or do not             societal functions. These alert teams should be  
+have the necessary routines and detection mechanisms                structured such that they take into consideration  
+in place to prevent, detect, alert and manage ICT                  the use, architecture and governance of ICT  
+incidents. There is great variation in terms of what                infrastructure in the sector. 
+incidents are recorded and reported to national  
+authorities. In many cases, measures that make                   •  The national CERT function (NorCERT) must  
+ICT systems more robust and reduce the impact of                    actively collect and analyse information related  
+incidents, regardless of the cause, will be common for             to serious ICT incidents. NorCERT shall have  
+all organisations. It would be economically beneficial if          the national responsibility for coordinating the  
+such measures were coordinated. Organisations that                  management of such incidents and provide  
+are subject to the Security Act, are required to report to          relevant and timely information and guidance to  
+the National Security Authority if they detect incidents            sectoral response teams and response teams in  
+that threaten security, but this is not enough to get a             organisations that manage ICT infrastructure that is  
+comprehensive overview of the situation.                            critical or important for societal functions. 
+
+The Norwegian Computer Emergency Response                        •  Cooperation with the private sector must be  
+Team (NorCERT) in the National Security Authority,                  expanded and improved. NorCERT must analyse  
+with the help of the Early Warning System for Digital               and communicate relevant risk information in an  
+Infrastructure (VDI) and a national collaboration, have             appropriate and responsible manner to those who  
+the ability to prevent, detect and analyse data related             are responsible for taking action, whether it be  
+to serious incidents on the Internet. NorCERT works                 companies, sectoral authorities, the police, other  
+closely with other countries and similar services in                public authorities or at the political level. 
+international organisations. NorCERT also participates  
+in a Nordic CERT collaboration. Some key sectors                 •  Preparedness for dealing with malicious incidents  
+of society have established sectoral response teams                 (crime, espionage, sabotage, and terrorism)  
+
+                                                                                                                             21 
+
+----------------------- Page 22-----------------------
+
+      should be coordinated at all levels, with adequate            pranks” to serious organised crime. Criminals are  
+      preparedness for handling random events caused                also increasingly using new technology to commit  
+      by failures, accidents, the weather, and natural              traditional crimes. 
+      disasters.  
+                                                                    Some crimes may have consequences that may  
+   •  Notification and management procedures for faults,            require infrastructure providers, sectoral authorities  
+      failures and loss of electronic communication must            or companies themselves to implement crisis  
+      be improved. The Post and Telecommunications                  management (e.g. with assistance from NorCERT or  
+     Authority and NorCERT must establish procedures                sectoral CSIRT).  
+      for the prompt and effective exchange of  
+      information about adverse events.                             There is a need for information retrieval over the  
+                                                                    Internet and securing electronic leads during a crisis.  
+   •  Companies and sectors must plan and conduct                   The police must also investigate what (and who)  
+      drills designed to improve their ability to manage            caused the criminal offense that triggered the crisis. 
+      incidents. Furthermore, collaboration across sectors  
+      and international boundaries must also be drilled.             Criminals purchase tools for conducting various crimes  
+                                                                    over the Internet, such as software that can take control  
+                                                                    of other computers. Threat assessments and experience  
+   4.5 Safeguard society’s ability to prevent,                      indicate that organised crime in particular employs the  
+   detect and investigate cyber crime                               most modern computer tools to hide their activity from  
+                                                                    the police and impede investigations. All trend reports  
+                                                                    point to an expected increase in cyber crime as a result  
+     Cyber criminals should not be able to plan or execute          of technological developments in general and the  
+     crimes without a significant risk of being detected            increase in mobile devices such as mobile phones and  
+     and prosecuted  Society’s ability to prevent, detect           computers in particular. 
+     and investigate cyber crime must be prioritised  All  
+     stakeholders should, on their own initiative, implement        Police are largely dependent on tips or complaints from  
+     crime prevention measures in their own organisations,          the public to detect cyber crime. It is a challenge that  
+     and seek to minimise losses or damage as a result              for certain types of cyber crime there is a gap between  
+     of cyber crime  Public authorities shall achieve this          public perception of what is right and wrong and the  
+     through increased expertise, and improving specialist          relevant regulations. Copyright infringement and peer- 
+     expertise and the skills of police generalists  The police     to-peer file sharing is one example of this challenge. 
+     must make this a priority and increase their capacity  
+     to give them a greater ability to prevent, detect and          The Norwegian Business Security Council’s cyber  
+     investigate cyber crime  Public authorities will continue      crime survey for 2012 indicates that the gap between  
+     to increase their capacity in this field in order to detect    threats and security measures taken by both public  
+     cyber crime that directly or indirectly may have an            and private organisations is increasing. At the same  
+     impact on national security or vital national interests        time, there is an increase in their dependency on ICT.  
+                                                                    Norwegian companies, especially at the executive  
+                                                                    level, lack knowledge about information security and  
+   Cyber crime includes crime aimed at computer                     do not have an overview of threats and incidents. In  
+   systems and networks, and crime in which key                     many cases, companies will not be aware that their  
+   elements of the chain of events are committed using              server/network identity has been compromised. In  
+   computers or computer networks. There is no clear                addition, companies experience that the police don’t  
+   division between the two. Hackers often have a goal              have the capacity to prioritise cyber crime other than  
+   of gaining access to information that could be used              in very serious cases. 
+   to commit traditional crimes at a later time. In recent  
+   years, cyber crime has evolved from “troublesome  
+
+22 
+
+----------------------- Page 23-----------------------
+
+Prevention, detection, investigation and legal                  4.6 Continuous Efforts to Raise Awareness  
+prosecution of cyber crime is challenging. This work            and Competence 
+is often time consuming and requires specialised  
+expertise and tools. In addition, there are often  
+considerable challenges in identifying the criminal/              Our citizens, staff and executives in Norwegian  
+source. There are currently few police units with the             companies must be security conscious and increase  
+necessary expertise for this type of investigation in             their information security skills  Everyone should have  
+Norway, as evidenced by the relatively low number                 access to information about security challenges and  
+of convictions related to cyber crime. The danger is              countermeasures  Everyone should understand that  
+that applicable legislation could lose its general and            measures must be taken  Companies must have the  
+individual preventive effect, since the chances of being          necessary procurement expertise for purchasing new  
+convicted are perceived as small.                                 ICT tools and services, employing external consultants  
+                                                                  or outsourcing services  CIO’s must have adequate  
+Selected areas of focus include:                                  knowledge of ICT security, vulnerabilities and the need  
+•  All stakeholders must take initiative to help prevent          for redundancy in conjunction with the acquisition and  
+   and mitigate losses or damage resulting from cyber             operation of ICT systems  All children and young people  
+   crime and identity theft and abuse.                            should have basic information security skills  
+
+•  The police must have sufficient expertise and  
+   capacity to detect, identify and deal with cyber             Security incidents happen daily. In some cases,  
+   crime.                                                       they have significant consequences for individuals  
+                                                                or for society as a whole. Established activities  
+•  Police must be present on the Internet, both openly          organised by the Centre for Information Security  
+   and covertly, in order to prevent, avert and, when           (NorSIS), the Business Security Council, the  
+   necessary, investigate and try to bring this type of         Norwegian Data Protection Authority, the Post  
+   crime to justice.                                            and Telecommunications Authority and the Media  
+                                                                Authority an increasing need for awareness and  
+•  There must be clear procedures for collaboration             education. Data can be lost, abused and manipulated  
+   and sharing knowledge both within the police, and            without it being the result of a deliberate attack. There  
+   between the police, government agencies and key              has also been an increase in targeted attacks, and  
+   security environments.                                       attackers increasingly exploit end-users in order to  
+                                                                achieve their ends. This suggests that the focus on  
+                                                                education, skills and awareness must increase. 
+
+                                                                Authorities responsible for security and emergency  
+                                                                preparedness are responsible for collecting and  
+                                                                communicating information about threats on national  
+                                                                and macro level. There are also many organisations in  
+                                                                the public and private sectors striving to improve the  
+                                                                general public’s security skills. These organisations  
+                                                                collaborate on various levels, working with various  
+                                                                segments of the population. This work could be  
+                                                                improved with an increased coordination of activities.  
+                                                                The goal of this coordination is to give everyone  
+                                                                access to the same information about threats and  
+                                                                measures for reducing the likelihood of attacks being  
+                                                                successful. 
+
+                                                                                                                            23 
+
+----------------------- Page 24-----------------------
+
+  Selected areas of focus include: 
+   •  Public authorities and business associations should        Selected areas of focus include: 
+     have joint or coordinated programmes for building            •  Information security research must maintain a  
+     awareness, training and developing a culture of                high international level, and be quick to snap  
+     cyber security. Government participation in relevant           up changes in technology, infrastructure, and  
+     networks will ensure good exchange of information              methods. Allocation of funding should be based on  
+     both nationally and internationally.                           international cooperation and close collaboration  
+                                                                    between academia, infrastructure owners, relevant  
+   •  All owners and suppliers of components for critical           user groups, and the authorities. ICT security  
+     ICT infrastructure in the public and private sector            should also be integrated with other relevant  
+     should be invited to share information in public               research programmes. Information security should  
+     forums.                                                        be a priority field in the Research Council of  
+                                                                    Norway’s portfolio. 
+   •  Public authorities should survey the level of  
+     competence of the general population and                     •  All stakeholders should strive to facilitate productive  
+     businesses. The effect of initiatives must be                  interaction between both basic and applied research  
+     measured to determine their effectiveness or if                groups, and leading ICT companies and academic  
+     efforts can be improved.                                       environments across sectors. The public and private  
+                                                                    sectors should facilitate opportunities for students  
+   4.7 High quality national cyber security                         of information security at the master’s level or  
+   research and development                                         higher to work with current relevant security issues  
+                                                                    within a sector, or a single business, by proposing  
+                                                                    topics with concrete applications for master’s and  
+     Norwegian researchers should be at the forefront of            doctoral theses in information security. 
+     numerous aspects of information and communication  
+     security, such as robustness and reliability, risk           •  Public authorities should employ R & D groups  
+     management, encryption technology, distributed                 actively in its role as customer of various products,  
+     systems and the law  This should be in close                   development projects and services. Public  
+     collaboration with universities and colleges, with             authorities should facilitate information sharing  
+     industry and other user groups and the Research                with the research community. 
+     Council of Norway  Norwegian participation in  
+     international forums should be encouraged                    •  Norwegian cyber security researchers and affected  
+                                                                    businesses in the public and private sector should  
+                                                                    be encouraged to participate actively in projects  
+   Research related to information and communication                within the various EU research programmes  
+   security is being conducted at a number of institutions          and other international research programmes of  
+  in Norway. ICT security is also a key priority in                 national interest. 
+  the Research Council of Norway’s large-scale ICT  
+  programme – VERDIKT (Core Competence and Value  
+   Creation in ICT) – which started in 2005 and will run  
+  throught 2014. 
+
+   ICT security is also a priority in EU research  
+  programmes (including the Seventh Framework  
+   Programme for Research and Technological  
+   Development and Horizon 2020). The EU’s research  
+   and innovation budget will trigger coordinated efforts  
+  by member states and countries participating through  
+   separate agreements, including Norway. 
+
+24 
+
+----------------------- Page 25-----------------------
+
+25 
+
+----------------------- Page 26-----------------------
+
+   E   Responsibility for  
+             Implementation 
+
+  Although information security is first and foremost             security measures. A detailed action plan describing  
+   a company responsibility, a successful follow-up               how the strategy’s priorities should be followed up will  
+   of this strategy requires effective collaboration              be developed and published separately and revised  
+  between private sector stakeholders, central and local          as necessary. Sectoral ministries should include  
+   authorities, and individual users. ICT development             sector stakeholders during the development and  
+   is on a global level and extensive international               implementation of action plan initiatives. 
+   collaboration on information security is an essential  
+   prerequisite for the success of information security           Specific measures in various priority areas should be  
+   efforts. At the same time, we must also address purely         initiated as part of the work on the ministries’ annual  
+   national interests in this area.                               allocation letters to subsidiaries. These letters define  
+                                                                  goals and priorities for the coming year. Measures  
+   Each sectoral ministry must – in line with the Principle       affecting the private sector should be implemented  
+   of Responsibility – ensure that the strategy’s priorities      in close collaboration with private sector bodies.  
+   are followed up in their sector. This follow-up must           Measures affecting consumers should be implemented  
+  be in accordance with a nationally adopted action               in collaboration with consumer organisations. Prior  
+   plan. In this regard, ministries must work closely with        to implementing new measures, a privacy impact  
+   subordinate organisations and sector stakeholders so           assessment should be conducted and, if necessary,  
+  that planned security measures are coordinated with             the Norwegian Data Protection Authority should be  
+   other ministries as necessary. Each ministry should            involved in planning and implementation. 
+   actively involve stakeholders in the private sector as  
+  they develop initiatives for the action plan. Ministries        To assess the current status during follow-up of the  
+   must establish whether measures initiated in their             strategy’s priority areas, the Government will regularly  
+   sector contribute to achieving the goals formulated as         request a status update for sectoral implementations  
+   strategic priorities.                                          of action plan initiatives, in order to monitor  
+                                                                  developments in information security. The Ministry  
+  The Ministry of Justice and Public Security will be             of Justice and Public Security is responsible for this  
+   primarily responsible for following up the strategy.           work. An inter-ministerial group will be appointed to  
+                                                                  monitor the strategy continuously over the long-term.  
+  As old security problems are solved, new ones arise             The group’s work will include following developments  
+   as a result of the introduction of new technology,             in security challenges and trends, and assessing  
+   changes in use patterns, and changes in the threats.           whether those developments will trigger a need to  
+   Consequently, security measures that are appropriate           revise all or part of the national strategy on an ongoing  
+  today may be outdated tomorrow. The Government                  basis. The group will also be a driver for updating and  
+  has therefore decided to develop an overarching                 developing the action plan further. 
+   strategy, and describe areas of focus rather than specific  
+
+26 
+
+----------------------- Page 27-----------------------
+
+F   Economic and Administrative  
+          Implications 
+
+Primary responsibility for securing information            frameworks. The cost of measures to promote  
+systems and networks lies with the owner or operator,      information security must be proportionate to  
+and is management’s responsibility. Security work          the estimated risk to individual areas of public  
+must be a daily routine and financed within the            administration. If risk mitigation measures are not  
+framework of the normal operations. Each sectoral          implemented, the risk of unfortunate consequences  
+ministry has a sectoral responsibility. Sectoral           and losses must be considered.  
+initiatives must be funded within current budget  
+
+                                                                                                                   27 
+
+----------------------- Page 28-----------------------
+
+   Appendix A:  
+  Terms and Expressions 
+
+    Accessibility                   Assurance that a service meets certain requirements for stability, such that the  
+                                    information is available when needed. 
+
+    CERT                            Computer Emergency Response Team. A team of experts that handles security  
+                                    incidents. CERT is a registered trademark of Carnegie Mellon University. Many  
+                                    therefore use the abbreviation C(S)IRT; Computer (Security) Incident Response  
+                                    Team. 
+
+    Cloud computing                 A collective term for services provided over the Internet and which are set up to  
+    (cloud services)                work with other services. A designation for everything from data processing and  
+                                    storage to software on servers in remote server farms connected to the Internet. 
+
+    Confidentiality                 Assurance that specific information is not disclosed to unauthorised persons, and  
+                                    that only authorised persons have access. 
+
+    Critical ICT                    Critical ICT infrastructure is defined as critical infrastructure for electronic  
+    infrastructure                  communications. See also ICT infrastructure. 
+
+    Critical infrastructure         Society’s functional ability is highly dependent on a number of physical and  
+                                    technical infrastructures. In the event of a failure in these infrastructures,  
+                                    society will be unable to maintain the supply of goods and services on which the  
+                                    population depends (cf. critical societal functions). These infrastructures can be  
+                                    described as critical to society. 
+
+    Critical societal               Functions that fulfil society’s basic needs and people’s sense of security,  
+    functions                       e.g. banking and financial services, health services, etc. See also critical  
+                                    infrastructure. 
+
+    CSIRT                           Computer Security Incident Response Team (CSIRT) is a group of experts who  
+                                    handle ICT security incidents. 
+
+    Cyber security                  Protection of data and systems connected to the Internet.  
+
+    ECOMM network                   An ECOMM network is an electronic communications network. 
+
+    ICT infrastructure              Electronic systems that process data or communicate with other equipment, on  
+                                    which a unit or organisation is dependent to function effectively. 
+
+    ICT security                    How business-critical electronic networks and systems that process data or  
+                                    communicate with each other are protected. 
+
+    ICT systems                     See Information systems. 
+
+    Information security            Protection of the confidentiality, integrity and availability of information. 
+
+28 
+
+----------------------- Page 29-----------------------
+
+Information security           A management system and guide for organisations with regard to information  
+management system               security. May include tools such as: 
+                                •  Information security handbook 
+                                •  Risk and vulnerability analysis 
+                                •  Compliance audits 
+                                •  Emergency plans 
+                                •  E-learning about information security for the entire organisation 
+
+Information systems             System for collecting, storing, processing, transmitting and presenting data. 
+
+Infrastructure                 The basic structures and systems* necessary for an organisation, a collection of  
+                                organisations, or a country to function effectively. 
+                                *structures and systems: “Technical installations and equipment, and related  
+                                administrative and organisational measures.” 
+
+Integrity                      Assurance that information and information processing is comprehensive,  
+                                accurate and valid, and the result of authorised and controlled activities.  
+
+Sensitive information           Used in this strategy as a collective term for information that must be protected  
+                               for various reasons, cf. Personal Data Act, Freedom of Information Act, Public  
+                               Administration Act, Security Act, etc. 
+
+Threat                         An entity that constitutes a real or potential threat to an identifiable goal or in a  
+                                limited and identifiable context. 
+
+Vulnerability                  The challenges a system will have to face to function when subjected to an  
+                                adverse event, and challenges related to resuming normal system operation  
+                                after the event has occurred. The vulnerability of a system is an expression of  
+                                its weaknesses and flaws and special circumstances that would increase the  
+                                likelihood that threats will materialise into a security incident (examples of  
+                                special circumstances can include size, complexity, that many stakeholders are  
+                                involved, geographical distribution, frequent changes, and exposed location). A  
+                                system’s vulnerability is reduced by increasing the system’s robustness.  
+
+                                                                                                                        29 
+
+----------------------- Page 30-----------------------
+
+   Appendix B:  
+   Selected National Contacts for  
+   Information Security 
+
+   The Norwegian National Security Authority                           The Norwegian Centre for Information Security  
+   (NSM)                                                               (NorSIS) 
+   The central directorate for the protection of information           A resource centre created through an initiative by the  
+   and infrastructure crucial for critical societal functions          Ministry of Government Administration, Reform and  
+   – Protects information, information systems and other               Church Affairs  The centre offers consultancy services  
+   assets against espionage, sabotage, and terrorism through           for information security for all Norwegian private and  
+   inspections in accordance with the Security Act; develops           public entities  All levels of society should be able to take  
+   security initiatives; provides advice and guidance; detects         advantage of these services  NorSIS also runs the web site  
+   and manages countermeasures for serious cyber attacks               slettmeg.no which gives advice to those who feel offended  
+   (see NorCERT)  Driving force for improving security                 online. 
+   conditions                                                          www.norsis.no 
+   www.nsm.stat.no                                                     www.slettmeg.no 
+
+   NorCERT – the national centre for notification of and  
+   countermeasure coordination for serious cyber attacks  
+   and other ICT security incidents targeting important ICT            Norwegian Directorate for Civil Protection (DSB) 
+   infrastructure for critical societal functions                      Driver, advisor and coordinator for preventive and crisis  
+   www.cert.no                                                         measures nationally, regionally and locally  Capacity and  
+                                                                       aid supplier to support higher authorities and all other  
+                                                                       authorities in the event of major emergencies or when  
+                                                                       needed  
+   The Norwegian Post and Telecommunications                           www.dsb.no 
+   Authority (PT)                                                      www.kriseinfo.no 
+   Monitors companies providing electronic communications  
+   services, electronic communications networks and postal  
+   services, and issuers of official eSignature certificates  PT  
+   shall contribute to secure and robust networks and services         Kripos (National Criminal Investigation Service) 
+   www.npt.no                                                          The national service for combating organised and other  
+                                                                       serious crime  The main objective of Kripos is to combat  
+   Nettvett.no – A web site run by PT providing information,           organised and other serious crime  
+   advice and guidance about safe Internet use  Information            www.politiet.no/kripos 
+   is aimed at both consumers and small and medium sized  
+   companies  
+   www.nettvett.no 
+
+30 
+
+----------------------- Page 31-----------------------
+
+Norwegian Intelligence Service (NIS) 
+Responsible for detecting and analyzing external threats  
+and the motives, capabilities and methods of foreign actors,  
+cf  the Norwegian Intelligence Service Act  The objective of  
+intelligence activities is to contribute to counteract threats  
+and to provide Norwegian authorities with a solid basis for  
+foreign, security and defense policy decisions  
+
+Norwegian Police Security Service (PST) 
+Responsible for the nation’s internal security   
+Prevents and investigates crimes that threaten national  
+security, including collecting information on individuals  
+and groups who may pose a threat, developing various  
+analyses and threat assessments, investigations and other  
+operational countermeasures and advice  
+www.pst.politiet.no 
+
+The Norwegian Data Protection Authority (DT) 
+The Norwegian Data Protection Authority oversees a  
+number of laws and regulations, where information security  
+is an important part of the regulation  The overall regulatory  
+framework affects much of the public and private sectors   
+The Norwegian Data Protection Authority has developed a  
+number of guidelines on information security and provides  
+guidance on compliance with legislated requirements  
+www.datatilsynet.no 
+
+                                                                                                                                    31 
+
+----------------------- Page 32-----------------------
+
+Published by: 
+The Ministry of Government Administration, Reform and  
+Church Affairs 
+  
+Public institutions can order additional copies from: 
+Government Administration Services 
+Internet: www.publikasjoner.dep.no 
+E-mail: publikasjonsbestilling@dss.dep.no 
+Tel.: +47 22 24 20 00 
+
+Publication code: P-0976 
+Design: Melkeveien Designkontor AS 
+Photo: ©Fotolia.com 
+Printed by: Norwegian Government Administration Services  
+04/2013 - impression 500 

@@ -1,0 +1,386 @@
+[
+    {
+        "sentence_id,": "45827f3fb6", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "A disruptive, manipulative, or destructive cyberattack could present a significant risk to U.S. economic and national security if lives are lost, property destroyed, policy objectives harmed, or economic interests affected."
+    }, 
+    {
+        "sentence_id,": "018c9933fa", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "While cyberattacks are assessed on a case-by-case and factspecific basis by the President and the U.S. national security team, significant consequences may include loss of life, significant damage to property, serious adverse U.S. foreign policy consequences, or serious economic impact on the United States."
+    }, 
+    {
+        "sentence_id,": "62694ee870", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Any decision to conduct cyber operations outside of DoD networks is made with the utmost care and deliberation and under strict policy and operational oversight, and in accordance with the law of armed conflict."
+    }, 
+    {
+        "sentence_id,": "c30128df73", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "As it makes its investments and builds cyber capabilities to defend U.S. national interests, the Defense Department will always be attentive to the potential impact of defense policies on state and non-state actors behavior."
+    }, 
+    {
+        "sentence_id,": "d9749e37a7", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Defense Department law enforcement, intelligence, counterintelligence, and policy organizations all have an active role, as do the men and women that build and operate DoDs networks and information technology systems."
+    }, 
+    {
+        "sentence_id,": "bd72066f74", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "DoD will focus on ensuring that its forces are trained and ready to operate using the capabilities and architectures they need to conduct cyber operations, continue to build policy and legal frameworks to govern CMF employment, and integrate the CMF into DoDs overall planning and force development."
+    }, 
+    {
+        "sentence_id,": "2a96176e1f", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Because of the variety and number of state and non-state cyber actors in cyberspace and the relative availability of destructive cyber tools, an effective deterrence strategy requires a range of policies and capabilities to affect a state or non-state actors behavior."
+    }, 
+    {
+        "sentence_id,": "4cdeb2ad49", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "As DoD builds its Cyber Mission Force and overall capabilities, DoD assumes that the deterrence of cyberattacks on U.S. interests will not be achieved through the articulation of cyber policies alone, but through the totality of U.S. actions, including declaratory policy, substantial indications and warning capabilities, defensive posture, effective response procedures, and the overall resiliency of U.S. networks and systems."
+    }, 
+    {
+        "sentence_id,": "625ea48abe", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The United States has articulated this declaratory policy in the 2011 United States International Strategy for Cyberspace, in the Department of Defense Cyberspace Policy Report to Congress of 2011, and through public statements by the President and the Secretary of Defense."
+    }, 
+    {
+        "sentence_id,": "d71a166b4b", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "READY FORCES AND CAPABILITIES To operate effectively in cyberspace, DoD requires forces and personnel that are trained to the highest standard, ready, and equipped with best-in-class technical capabilities."
+    }, 
+    {
+        "sentence_id,": "6aa0d758cd", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Consistent with all applicable laws and policies, DoD requires granular, detailed, predictive, and actionable intelligence about global networks and systems, adversary capabilities, and malware brokers and markets."
+    }, 
+    {
+        "sentence_id,": "ce6f2e4628", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "U.S. Cyber Command will work with other components, agencies, and military departments to define the requirements for and create a training environment that will enable the total cyber force to conduct joint training (including exercises and mission rehearsals), experimentation, certification, as well as the assessment and development of cyber capabilities and tactics, techniques, and procedures for missions that cross boundaries and networks."
+    }, 
+    {
+        "sentence_id,": "2e5046e79b", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "DoD will develop policies to support the National Initiative for Cybersecurity Education."
+    }, 
+    {
+        "sentence_id,": "3babccc881", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Working with interagency partners, one or more educational institutions, as well as state and private sector partners, DoD will continue to support innovative workforce development partnerships focused on both the technical and policy dimensions of cybersecurity and cyber defense."
+    }, 
+    {
+        "sentence_id,": "76bd3c02d9", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The Defense Department will integrate cybersecurity requirements and assessments into the DoD Mission Assurance program and update DoD policy appropriately."
+    }, 
+    {
+        "sentence_id,": "69037ed55f", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "For all future weapons systems that DoD will acquire or procure, DoD will mandate specific cybersecurity standards for weapons systems to meet."
+    }, 
+    {
+        "sentence_id,": "83e7ad5db1", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Acquisition and procurement policy and practice will be updated to promote effective cybersecurity throughout a systems life cycle."
+    }, 
+    {
+        "sentence_id,": "6ae8c67c9e", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Beyond implementing policies and protocols, leaders will strive to create a culture of awareness to anticipate, detect, and respond to insider threats before they have an impact."
+    }, 
+    {
+        "sentence_id,": "3397398237", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The Defense Department will ensure that policies and any associated federal rules or contract language requirements have been implemented to require DIB companies to report data theft and loss to the Defense Cyber Crime Center."
+    }, 
+    {
+        "sentence_id,": "2d579cd897", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "o DoD will continue to assess Defense Federal Acquisition Regulation Supplement (DFARS) rules and associated guidance to ensure they mature over time in a manner consistent with known standards for protecting data from cyber adversaries, to include standards promulgated by the National Institute of Standards and Technology (NIST)."
+    }, 
+    {
+        "sentence_id,": "887e87573a", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "o As the certification authority for DIB cleared defense contractor sites, the Defense Security Service will expand education and training programs to include material for DoD personnel and DIB contractors to enhance their cyber threat awareness."
+    }, 
+    {
+        "sentence_id,": "fd7b3668f3", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Strengthen DoDs procurement and acquisition cybersecurity standards."
+    }, 
+    {
+        "sentence_id,": "ed5a6d3fc3", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "To defend DoD networks, DoD must strengthen the cybersecurity requirements of DoDs network acquisition and procurement items by integrating cybersecurity standards into contract vehicles for research, development, and procurement."
+    }, 
+    {
+        "sentence_id,": "ade9beeedb", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "DoD will specify additional cybersecurity standards for industry to meet for components of any DoD procurement item."
+    }, 
+    {
+        "sentence_id,": "161af373e3", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "o The DoD CIO, in collaboration with the Office of the Under Secretary of Defense for Acquisition, Technology, and Logistics, will assess and update specific information system security controls that underpin the DFARs for defense contractors within the NIST and DFARS standards."
+    }, 
+    {
+        "sentence_id,": "38c08c9b3b", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Support whole-of-government policies and capabilities to counter intellectual property theft."
+    }, 
+    {
+        "sentence_id,": "e16bc5f529", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "To improve shared situational awareness DoD will partner with DHS and other agencies to develop continuous, automated, standardized mechanisms for sharing information with each of its critical partners in the U.S. government, key allied and partner militaries, state and local governments, and the private sector."
+    }, 
+    {
+        "sentence_id,": "6f3f501288", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Building off of the Defense Science Boards Task Force on Cyber Deterrence, U.S. Strategic Command (USSTRATCOM), in coordination with the Joint Staff and the Office of the Secretary of Defense, will assess the Department of Defenses ability to deter specific state and non-state actors from conducting cyberattacks of significant consequence on the U.S. homeland and against U.S. interests, to 25 The Department of Defense Cyber Strategy include loss of life, significant destruction of property, or significant impact on U.S. foreign and economic policy interests."
+    }, 
+    {
+        "sentence_id,": "806b518427", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "In addition, the Principal Cyber Advisor will govern the development of DoD cyberspace policy and strategy for the DoD enterprise."
+    }, 
+    {
+        "sentence_id,": "f48f3264ce", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Develop DoDs cyber operations and cybersecurity policy framework."
+    }, 
+    {
+        "sentence_id,": "562982cd66", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Consistent with Presidential guidance, DoD will align and simplify its cyber operations and cybersecurity policy management and identified gaps, overlaps, seams, conflicts, and areas in need of revision in current documentation."
+    }, 
+    {
+        "sentence_id,": "4566ae69ac", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "This effort will help translate national and departmental guidance and policy into tactical operations."
+    }
+]

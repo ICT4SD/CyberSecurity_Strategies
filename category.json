@@ -1,0 +1,53 @@
+[
+    {
+        "category": "legal measures", 
+        "subcategory": [
+            "criminal legislation", 
+            "regulation and compliance"
+        ]
+    }, 
+    {
+        "category": "technical measures", 
+        "subcategory": [
+            "cirt", 
+            "standards", 
+            "certification"
+        ]
+    }, 
+    {
+        "category": "organization measures", 
+        "subcategory": [
+            "policy", 
+            "roadmap for governance", 
+            "responsible agency", 
+            "national benchmarking"
+        ]
+    }, 
+    {
+        "category": "capacity building", 
+        "subcategory": [
+            "standardisation development", 
+            "manpower development", 
+            "professional certification", 
+            "agency certification"
+        ]
+    }, 
+    {
+        "category": "cooperation", 
+        "subcategory": [
+            "intra-state cooperation", 
+            "intra-agency cooperation", 
+            "public sector partnership", 
+            "international cooperation"
+        ]
+    }, 
+    {
+        "category": "child online protection", 
+        "subcategory": [
+            "national legislation", 
+            "un convention and protocol", 
+            "institutional support", 
+            "reporting mechanism"
+        ]
+    }
+]

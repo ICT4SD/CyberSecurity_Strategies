@@ -1,0 +1,1910 @@
+[
+    {
+        "sentence": "THIS PAGE LEFT INTENTIONALLY BLANK THE DEPARTMENT OF DEFENSE CYBER STRATEGY April 2015 THIS PAGE LEFT INTENTIONALLY BLANK THIS PAGE LEFT INTENTIONALLY BLANK TABLE OF CONTENTS I.", 
+        "sentence_id,": "c109509f49"
+    }, 
+    {
+        "sentence": "INTRODUCTION .................................................................................................................................1 II.", 
+        "sentence_id,": "8619c5050e"
+    }, 
+    {
+        "sentence": "STRATEGIC CONTEXT ......................................................................................................................9 III.", 
+        "sentence_id,": "e730b34389"
+    }, 
+    {
+        "sentence": "STRATEGIC GOALS ......................................................................................................................13 I.", 
+        "sentence_id,": "ccb3a33e0c"
+    }, 
+    {
+        "sentence": "Build and maintain ready forces and capabilities to conduct cyberspace operations.", 
+        "sentence_id,": "8f0e15c84a"
+    }, 
+    {
+        "sentence": "......................... 13 II.", 
+        "sentence_id,": "57b828ff45"
+    }, 
+    {
+        "sentence": "Defend the DoD information network, secure DoD data, and mitigate risks to DoD missions ......... 13 III.", 
+        "sentence_id,": "36fbbc7454"
+    }, 
+    {
+        "sentence": "Be prepared to defend the U.S. homeland and U.S. vital interests from disruptive or destructive cyberattacks of significant consequence.", 
+        "sentence_id,": "a7f4b51ecf"
+    }, 
+    {
+        "sentence": ".................................................................................................... 14 IV.", 
+        "sentence_id,": "04dbf89f83"
+    }, 
+    {
+        "sentence": "Build and maintain viable cyber options and plan to use those options to control conflict escalation and to shape the conflict environment at all stages.", 
+        "sentence_id,": "10eccd4966"
+    }, 
+    {
+        "sentence": "............................................................... 14 V. Build and maintain robust international alliances and partnerships to deter shared threats and increase international security and stability.", 
+        "sentence_id,": "4e4a754a77"
+    }, 
+    {
+        "sentence": "............................................................................................. 15 IV.", 
+        "sentence_id,": "2acac00baf"
+    }, 
+    {
+        "sentence": "IMPLEMENTATION OBJECTIVES ..................................................................................................17 STRATEGIC GOAL I.", 
+        "sentence_id,": "8e927a7fa2"
+    }, 
+    {
+        "sentence": "....................................................................................................................................... 17 STRATEGIC GOAL II ....................................................................................................................................... 19 STRATEGIC GOAL III ...................................................................................................................................... 24 STRATEGIC GOAL IV.", 
+        "sentence_id,": "c88f597c29"
+    }, 
+    {
+        "sentence": ".................................................................................................................................... 26 STRATEGIC GOAL V ....................................................................................................................................... 26 V. MANAGING THE STRATEGY..........................................................................................................29 CONCLUSION ......................................................................................................................................32 THIS PAGE LEFT INTENTIONALLY BLANK The Department of Defense Cyber Strategy We live in a wired world.", 
+        "sentence_id,": "e52fa8be88"
+    }, 
+    {
+        "sentence": "Companies and countries rely on cyberspace for everything from financial transactions to the movement of military forces.", 
+        "sentence_id,": "95fb014d1a"
+    }, 
+    {
+        "sentence": "Computer code blurs the line between the cyber and physical world and connects millions of objects to the Internet or private networks.", 
+        "sentence_id,": "f844a09049"
+    }, 
+    {
+        "sentence": "Electric firms rely on industrial control systems to provide power to the grid.", 
+        "sentence_id,": "9be3279163"
+    }, 
+    {
+        "sentence": "Shipping managers use satellites and the Internet to track freighters as they pass through global sea lanes, and the U.S. military relies on secure networks and data to carry out its missions.", 
+        "sentence_id,": "13c511b684"
+    }, 
+    {
+        "sentence": "The United States is committed to an open, secure, interoperable, and reliable Internet that enables prosperity, public safety, and the free flow of commerce and ideas.", 
+        "sentence_id,": "3d316f1cc0"
+    }, 
+    {
+        "sentence": "These qualities of the Internet reflect core American values of freedom of expression and privacy, creativity, opportunity, and innovation.", 
+        "sentence_id,": "6c6a651755"
+    }, 
+    {
+        "sentence": "And these qualities have allowed the Internet to provide social and economic value to billions of people.", 
+        "sentence_id,": "201f5c1e88"
+    }, 
+    {
+        "sentence": "Within the U.S. economy alone, anywhere from three to 13 percent of business sector value-added is derived from Internet-related businesses.", 
+        "sentence_id,": "1791c6db53"
+    }, 
+    {
+        "sentence": "Over the last ten years Internet access increased by over two billion people across the globe..", 
+        "sentence_id,": "38a0ef82c7"
+    }, 
+    {
+        "sentence": "Yet these same qualities of openness and dynamism that led to the Internets rapid expansion now provide dangerous state and non-state actors with a means to undermine U.S. interests.", 
+        "sentence_id,": "61c072f2b6"
+    }, 
+    {
+        "sentence": "We are vulnerable in this wired world.", 
+        "sentence_id,": "11825669f7"
+    }, 
+    {
+        "sentence": "Today our reliance on the confidentiality, availability, and integrity of data stands in stark contrast to the inadequacy of our cybersecurity.", 
+        "sentence_id,": "23d20d36e9"
+    }, 
+    {
+        "sentence": "The Internet was not originally designed with security in mind, but as an open system to allow scientists and researchers to send data to one another quickly.", 
+        "sentence_id,": "36f183a1e3"
+    }, 
+    {
+        "sentence": "Without strong investments in cybersecurity and cyber defenses, data systems remain open and susceptible to rudimentary and dangerous forms of exploitation and attack.", 
+        "sentence_id,": "10e032f784"
+    }, 
+    {
+        "sentence": "Malicious actors use cyberspace to steal data and intellectual property for their own economic or political goals.", 
+        "sentence_id,": "c007008423"
+    }, 
+    {
+        "sentence": "And an actor in one region of the globe can use cyber capabilities to strike directly at a network thousands of miles away, destroying data, disrupting businesses, or shutting off critical systems.", 
+        "sentence_id,": "c3083ee8ee"
+    }, 
+    {
+        "sentence": "State and non-state actors conduct cyber operations to achieve a variety of political, economic, or military objectives.", 
+        "sentence_id,": "c8db37bb6c"
+    }, 
+    {
+        "sentence": "In conducting their operations, they may strike at a nations values as well as its interests or purposes.", 
+        "sentence_id,": "d520e51578"
+    }, 
+    {
+        "sentence": "As one example, in November, 2014, likely in retaliation for the 1 The Department of Defense Cyber Strategy planned release of a satirical film, North Korea conducted a cyberattack against Sony Pictures Entertainment, rendering thousands of Sony computers inoperable and breaching Sonys confidential business information.", 
+        "sentence_id,": "1e173843aa"
+    }, 
+    {
+        "sentence": "In addition to the destructive nature of the attacks, North Korea stole digital copies of a number of unreleased movies, as well as thousands of documents containing sensitive data regarding celebrities, Sony employees, and Sonys business operations.", 
+        "sentence_id,": "f7c15d8b12"
+    }, 
+    {
+        "sentence": "North Korea accompanied their cyberattacks with coercion, intimidation, and the threat of terrorism.", 
+        "sentence_id,": "d15bed1f9c"
+    }, 
+    {
+        "sentence": "The North Korean attack on Sony was one of the most destructive cyberattacks on a U.S. entity to date.", 
+        "sentence_id,": "232f3ec0af"
+    }, 
+    {
+        "sentence": "The attack further spurred an already ongoing national discussion about the nature of the cyber threat and the need for improved cybersecurity.", 
+        "sentence_id,": "4db867bbc2"
+    }, 
+    {
+        "sentence": "The increased use of cyberattacks as a political instrument reflects a dangerous trend in international relations.", 
+        "sentence_id,": "fdf72ab0b7"
+    }, 
+    {
+        "sentence": "Vulnerable data systems The Red Flag 14-1 Cyber Protection Team works on cyber defense procedures inside the Combined Air and Space Operations Center-Nellis, present state and non-state actors with an Nellis, NV.", 
+        "sentence_id,": "81b4afe07a"
+    }, 
+    {
+        "sentence": "The CPT's primary goal is to find and thwart potential space, enticing opportunity to strike the United States cyberspace and missile threats against U.S. and allied forces.", 
+        "sentence_id,": "a3f0a58318"
+    }, 
+    {
+        "sentence": "(U.S. Air and its interests.", 
+        "sentence_id,": "9968d50d93"
+    }, 
+    {
+        "sentence": "During a conflict, the Defense Force photo by Senior Airman Brett Clashman) Department assumes that a potential adversary will seek to target U.S. or allied critical infrastructure and military networks to gain a strategic advantage.", 
+        "sentence_id,": "855a8916a1"
+    }, 
+    {
+        "sentence": "Beyond the attacks described above, a sophisticated actor could target an industrial control system (ICS) on a public utility to affect public safety, or enter a network to manipulate health records to affect an individuals well-being.", 
+        "sentence_id,": "bd4e4d5376"
+    }, 
+    {
+        "sentence": "A disruptive, manipulative, or destructive cyberattack could present a significant risk to U.S. economic and national security if lives are lost, property destroyed, policy objectives harmed, or economic interests affected.", 
+        "sentence_id,": "45827f3fb6"
+    }, 
+    {
+        "sentence": "Leaders must take steps to mitigate cyber risks.", 
+        "sentence_id,": "fd2ad9dd30"
+    }, 
+    {
+        "sentence": "Governments, companies, and organizations must carefully prioritize the systems and data that they need to protect, assess risks and hazards, and make prudent investments in cybersecurity and cyber defense capabilities to achieve their security goals and objectives.", 
+        "sentence_id,": "5dc8218b12"
+    }, 
+    {
+        "sentence": "Behind these defense investments, organizations of every kind must build business continuity plans and be ready to operate in a degraded cyber environment where access to networks and data is uncertain.", 
+        "sentence_id,": "7d87ce1f22"
+    }, 
+    {
+        "sentence": "To mitigate risks in cyberspace requires a comprehensive strategy to counter and if necessary withstand disruptive and destructive attacks.", 
+        "sentence_id,": "95f55ebdda"
+    }, 
+    {
+        "sentence": "Defending the United States in Cyberspace In concert with other agencies, the United States Department of Defense (DoD) is responsible for defending the U.S. homeland and U.S. interests from attack, including attacks that may occur in cyberspace.", 
+        "sentence_id,": "276e3f9286"
+    }, 
+    {
+        "sentence": "In a manner consistent with U.S. and international law, the Department of Defense seeks to deter attacks and defend the United States against any adversary that seeks to harm U.S. national interests during times of peace, crisis, or conflict.", 
+        "sentence_id,": "808e848bfb"
+    }, 
+    {
+        "sentence": "To this end the Defense Department has developed capabilities for cyber operations and is integrating those capabilities into the full array of tools that the United States government uses to defend U.S. national interests, including diplomatic, informational, military, economic, financial, and law enforcement tools.", 
+        "sentence_id,": "26e3033294"
+    }, 
+    {
+        "sentence": "2 The Department of Defense Cyber Strategy The May 2011 Department of Defense Strategy for Operating in Cyberspace guided the Defense Departments cyber activities and operations in support of U.S. national interests over the last four years.", 
+        "sentence_id,": "9f975377f6"
+    }, 
+    {
+        "sentence": "This new strategy sets prioritized strategic goals and objectives for DoDs cyber activities and missions to achieve over the next five years.", 
+        "sentence_id,": "bef059a16e"
+    }, 
+    {
+        "sentence": "It focuses on building capabilities for effective cybersecurity and cyber operations to defend DoD networks, systems, and information; defend the nation against cyberattacks of significant consequence; and support operational and contingency plans.", 
+        "sentence_id,": "5241be51b9"
+    }, 
+    {
+        "sentence": "This strategy builds on previous decisions regarding DoDs Cyber Mission Force and cyber workforce development and provides new and specific guidance to mitigate anticipated risks and capture opportunities to strengthen U.S. national security.", 
+        "sentence_id,": "03348b86f3"
+    }, 
+    {
+        "sentence": "As a matter of first principle, cybersecurity is a team effort within the U.S. Federal government.", 
+        "sentence_id,": "0983526140"
+    }, 
+    {
+        "sentence": "To succeed in its missions the Defense Department must operate in partnership with other Departments and Agencies, international allies and partners, state and local governments, and, most importantly, the private sector.", 
+        "sentence_id,": "3382c92713"
+    }, 
+    {
+        "sentence": "Cybersecurity Activities To support its missions in cyberspace, the Defense Department conducts a range of activities outside of cyberspace to improve collective cybersecurity and protect U.S. interests.", 
+        "sentence_id,": "69a199cad8"
+    }, 
+    {
+        "sentence": "For example, the Defense Department cooperates with agencies of the U.S government, with the private sector, and with our international partners to share information, build alliances and partnerships, and foster norms of responsible behavior to improve global strategic stability.", 
+        "sentence_id,": "82edaa942b"
+    }, 
+    {
+        "sentence": "Information sharing and interagency coordination.", 
+        "sentence_id,": "0b8b926309"
+    }, 
+    {
+        "sentence": "To secure and advance U.S. interests in cyberspace, DoD seeks to share information and coordinate with U.S. government agencies in an integrated fashion on a range of cyber activities.", 
+        "sentence_id,": "baad06c7f7"
+    }, 
+    {
+        "sentence": "For example, if DoD learns of malicious cyber activities that will affect important U.S. networks and systems that are vital for U.S. national and economic security or public safety, DoD supports agencies like the Department of Homeland Security (DHS) and the Federal Bureau of Investigation (FBI) as they reach out to U.S. entities, and often other countries, to share threat information such as technical indicators of a potential attack.", 
+        "sentence_id,": "c1b344bd63"
+    }, 
+    {
+        "sentence": "Such information sharing can significantly improve an organizations ability to defend itself against a broad range of cyberattacks.", 
+        "sentence_id,": "5c8c7f8278"
+    }, 
+    {
+        "sentence": "In addition to sharing information, DoD partners with other agencies of the U.S. government to synchronize operations and to share lessons-learned and cybersecurity bestpractices.", 
+        "sentence_id,": "445db3118f"
+    }, 
+    {
+        "sentence": "This includes incident management and network defense response.", 
+        "sentence_id,": "5ce2e0ab59"
+    }, 
+    {
+        "sentence": "Build bridges to the private sector.", 
+        "sentence_id,": "98d89ba179"
+    }, 
+    {
+        "sentence": "From application developers to Internet Services Providers, private companies provide the goods and services that make up cyberspace.", 
+        "sentence_id,": "a6eb917ba9"
+    }, 
+    {
+        "sentence": "The Defense Department relies on the private sector to build its networks, provide cybersecurity services, and research and Mr. Joe Sciabica and Maj. Gen. J. Kevin McLaughlin sign an Air Force Civil Engineer Center-Air Forces Cyber collaboration agreement.", 
+        "sentence_id,": "9e55264817"
+    }, 
+    {
+        "sentence": "The initiative is designed to enhance the security of industrial control systems that support critical Air Force infrastructures around the world.", 
+        "sentence_id,": "1ea20dd65c"
+    }, 
+    {
+        "sentence": "(U.S. Air Force photo by Shannon Carabajal) 3 The Department of Defense Cyber Strategy develop advanced capabilities.", 
+        "sentence_id,": "5f0a9ac437"
+    }, 
+    {
+        "sentence": "The Defense Department has benefited from private sector innovation throughout its history.", 
+        "sentence_id,": "f51cd1d783"
+    }, 
+    {
+        "sentence": "Going forward, DoD will work closely with the private sector to validate and commercialize new ideas for cybersecurity for the Department.", 
+        "sentence_id,": "0b179121df"
+    }, 
+    {
+        "sentence": "Building alliances, coalitions, and partnerships abroad.", 
+        "sentence_id,": "bd10fac062"
+    }, 
+    {
+        "sentence": "The Defense Department engages in a broad array of activities to improve cybersecurity and cyber operations capacity abroad.", 
+        "sentence_id,": "8151f9bb35"
+    }, 
+    {
+        "sentence": "DoD helps U.S. allies and partners to understand the cyber threats they face and to build the cyber capabilities necessary to defend their networks and data.", 
+        "sentence_id,": "1dcee39421"
+    }, 
+    {
+        "sentence": "Allies and partners also often have complementary capabilities that can augment those of the United States, and the United States seeks to build strong alliances and coalitions to counter potential adversaries cyber activities.", 
+        "sentence_id,": "3710f8f2c8"
+    }, 
+    {
+        "sentence": "Strategically, a unified coalition sends a message that the United States and its allies and partners are aligned in collective defense.", 
+        "sentence_id,": "b0d3db2380"
+    }, 
+    {
+        "sentence": "In addition to the Five Eyes treaty partners, DoD works closely with key partners in the Middle East, the Asia-Pacific, and Europe to understand the cybersecurity environment and build cyber defense capacity.", 
+        "sentence_id,": "6ea8fe6abc"
+    }, 
+    {
+        "sentence": "Three Primary Missions in Cyberspace The President has established principles and processes for governing cyber operations.", 
+        "sentence_id,": "3f7a6311db"
+    }, 
+    {
+        "sentence": "The purpose of these principles and processes is to plan, develop, and use U.S. capabilities effectively, and to ensure that cyber operations occur in a manner consistent with the values that the United States promotes domestically and internationally.", 
+        "sentence_id,": "5c210e8858"
+    }, 
+    {
+        "sentence": "The Defense Department has three primary cyber missions.", 
+        "sentence_id,": "6c35d15eeb"
+    }, 
+    {
+        "sentence": "First, DoD must defend its own networks, systems, and information.", 
+        "sentence_id,": "c49af1691d"
+    }, 
+    {
+        "sentence": "The U.S. militarys dependence on cyberspace for its operations led the Secretary of Defense in 2011 to declare cyberspace as an operational domain for purposes of organizing, training, and equipping U.S. military forces.", 
+        "sentence_id,": "60e1c3cd7d"
+    }, 
+    {
+        "sentence": "The Defense Department must be able to secure its own networks against attack and recover quickly if security measures fail.", 
+        "sentence_id,": "d41764dc8e"
+    }, 
+    {
+        "sentence": "To this end, DoD conducts network defense operations on an ongoing basis to securely operate the Department of Defense Information Network (DoDIN).", 
+        "sentence_id,": "281cdf9911"
+    }, 
+    {
+        "sentence": "If and when DoD detects indications of hostile activity within its networks, DoD has quick-response capabilities to close or mitigate vulnerabilities and secure its networks and systems.", 
+        "sentence_id,": "0a7bc09d16"
+    }, 
+    {
+        "sentence": "Network defense operations on DoD networks constitute the vast majority of DoDs operations in cyberspace.", 
+        "sentence_id,": "5a62f235ff"
+    }, 
+    {
+        "sentence": "In addition to defense investments, DoD must prepare and be ready to operate in an environment where access to cyberspace is contested.", 
+        "sentence_id,": "829daaa81d"
+    }, 
+    {
+        "sentence": "During the Cold War, forces prepared to operate in an environment where access to communications could be interrupted by the adversarys advanced capabilities, to include the potential use of an electromagnetic pulse that could disrupt satellite and other global communications capabilities.", 
+        "sentence_id,": "5a94d80a17"
+    }, 
+    {
+        "sentence": "Commanders conducted periodic exercises that required their teams to operate without access to communications systems.", 
+        "sentence_id,": "ab0804124b"
+    }, 
+    {
+        "sentence": "Through years of practice and exercise, a culture of resilience took root in the military and units were ready and prepared to operate in contested environments.", 
+        "sentence_id,": "cf1f8abbc5"
+    }, 
+    {
+        "sentence": "Since the end of the Cold War, however, a younger generation has grown increasingly more accustomed to an environment of connectivity.", 
+        "sentence_id,": "0f556596d4"
+    }, 
+    {
+        "sentence": "The generation of military men and women that grew up since the end of the Cold War have had near constant access to information and communications, and the information revolution has led to a more agile and globally adaptive force.", 
+        "sentence_id,": "680462576a"
+    }, 
+    {
+        "sentence": "In the face of an escalating cyber threat, the lessons of the previous generations must now be passed down.", 
+        "sentence_id,": "f02ba133d2"
+    }, 
+    {
+        "sentence": "The Defense Department must be able to carry out its missions to defend the 4 The Department of Defense Cyber Strategy country.", 
+        "sentence_id,": "4d53024992"
+    }, 
+    {
+        "sentence": "Organizations must exercise and learn to operate without the tools that have become such a vital part of their daily lives and operations.", 
+        "sentence_id,": "f00902da23"
+    }, 
+    {
+        "sentence": "For its second mission, DoD must be prepared to defend the United States and its interests against cyberattacks of significant consequence.", 
+        "sentence_id,": "6c1ef3902e"
+    }, 
+    {
+        "sentence": "While cyberattacks are assessed on a case-by-case and factspecific basis by the President and the U.S. national security team, significant consequences may include loss of life, significant damage to property, serious adverse U.S. foreign policy consequences, or serious economic impact on the United States.", 
+        "sentence_id,": "018c9933fa"
+    }, 
+    {
+        "sentence": "If directed by the President or the Secretary of Defense, the U.S. military may conduct cyber operations to counter an imminent or on-going attack against the U.S. homeland or U.S. interests in cyberspace.", 
+        "sentence_id,": "abb8a4b1d6"
+    }, 
+    {
+        "sentence": "The purpose of such a defensive Navy Petty Officer 1st Class Joel Melendez, Naval Network Warfare measure is to blunt an attack and prevent the Command information systems analysis, Air Force Staff Sgt.", 
+        "sentence_id,": "666fa3827e"
+    }, 
+    {
+        "sentence": "Rogerick Montgomery, U.S. Cyber Command network analysis, and Army destruction of property or the loss of life.", 
+        "sentence_id,": "b0c79b4e43"
+    }, 
+    {
+        "sentence": "Jacob Harding, 780th Military Intelligence Brigade cyber to synchronize its capabilities with other systems analysis, at an exercise during Cyber Flag 13-1 at Nellis Air Force Base, NV.", 
+        "sentence_id,": "98d93e8eb0"
+    }, 
+    {
+        "sentence": "(U.S. Air Force photo by Senior Airman Matthew government agencies to develop a range of options Lancaster) and methods for disrupting cyberattacks of significant consequence before they can have an impact, to include law enforcement, intelligence, and diplomatic tools.", 
+        "sentence_id,": "c9bcb8f082"
+    }, 
+    {
+        "sentence": "As a matter of principle, the United States will seek to exhaust all network defense and law enforcement options to mitigate any potential cyber risk to the U.S. homeland or U.S. interests before conducting a cyberspace operation.", 
+        "sentence_id,": "a3b9539c2a"
+    }, 
+    {
+        "sentence": "The United States government has a limited and specific role to play in defending the nation against cyberattacks of significant consequence.", 
+        "sentence_id,": "e68bd4a868"
+    }, 
+    {
+        "sentence": "The private sector owns and operates over ninety percent of all of the networks and infrastructure of cyberspace and is thus the first line of defense.", 
+        "sentence_id,": "58278d1421"
+    }, 
+    {
+        "sentence": "One of the most important steps for improving the United States overall cybersecurity posture is for companies to prioritize the networks and data that they must protect and to invest in improving their own cybersecurity.", 
+        "sentence_id,": "ed883b498e"
+    }, 
+    {
+        "sentence": "While the U.S. government must prepare to defend the country against the most dangerous attacks, the majority of intrusions can be stopped through relatively basic cybersecurity investments that companies can and must make themselves.", 
+        "sentence_id,": "9f5517974b"
+    }, 
+    {
+        "sentence": "Third, if directed by the President or the Secretary of Defense, DoD must be able to provide integrated cyber capabilities to support military operations and contingency plans.", 
+        "sentence_id,": "bddea3bf90"
+    }, 
+    {
+        "sentence": "There may be times when the President or the Secretary of Defense may determine that it would be appropriate for the U.S. military to conduct cyber operations to disrupt an adversarys militaryrelated networks or infrastructure so that the U.S. military can protect U.S. interests in an area of operations.", 
+        "sentence_id,": "0447893a85"
+    }, 
+    {
+        "sentence": "For example, the United States military might use cyber operations to terminate an ongoing conflict on U.S. terms, or to disrupt an adversarys military systems to prevent the use of force against U.S. interests.", 
+        "sentence_id,": "d5d72685d1"
+    }, 
+    {
+        "sentence": "United States Cyber Command (USCYBERCOM) may also be directed to conduct cyber operations, in coordination with other U.S. government agencies as appropriate, to deter or defeat strategic threats in other domains.", 
+        "sentence_id,": "34b5c8e56f"
+    }, 
+    {
+        "sentence": "5 The Department of Defense Cyber Strategy To ensure that the Internet remains open, secure, and prosperous, the United States will always conduct cyber operations under a doctrine of restraint, as required to protect human lives and to prevent the destruction of property.", 
+        "sentence_id,": "2a7566ed9c"
+    }, 
+    {
+        "sentence": "As in other domains of operations, in cyberspace the Defense Department will always act in a way that reflects enduring U.S. values, including support for the rule of law, as well as respect and protection of the freedom of expression and privacy, the free flow of information, commerce, and ideas.", 
+        "sentence_id,": "2e84c96f1d"
+    }, 
+    {
+        "sentence": "Any decision to conduct cyber operations outside of DoD networks is made with the utmost care and deliberation and under strict policy and operational oversight, and in accordance with the law of armed conflict.", 
+        "sentence_id,": "62694ee870"
+    }, 
+    {
+        "sentence": "As it makes its investments and builds cyber capabilities to defend U.S. national interests, the Defense Department will always be attentive to the potential impact of defense policies on state and non-state actors behavior.", 
+        "sentence_id,": "c30128df73"
+    }, 
+    {
+        "sentence": "A New Cyber Mission Force The Defense Department requires the commitment and coordination of multiple leaders and communities across DoD and the broader U.S. government to carry out its missions and execute this strategy.", 
+        "sentence_id,": "203fe18bce"
+    }, 
+    {
+        "sentence": "Defense Department law enforcement, intelligence, counterintelligence, and policy organizations all have an active role, as do the men and women that build and operate DoDs networks and information technology systems.", 
+        "sentence_id,": "d9749e37a7"
+    }, 
+    {
+        "sentence": "Every organization needs to play its part.", 
+        "sentence_id,": "06ed7ed085"
+    }, 
+    {
+        "sentence": "For example, network service providers across DoD must be adaptive and active to follow cybersecurity best-practices and cyber defense orders.", 
+        "sentence_id,": "1d7814bed9"
+    }, 
+    {
+        "sentence": "U.S. Cyber Command must synchronize its activities with other DoD organizations, particularly combatant commands, to respond to emerging challenges and opportunities.", 
+        "sentence_id,": "0d3970c241"
+    }, 
+    {
+        "sentence": "Installation owners and operators must partner with the Military Departments Computer Emergency Response Teams (CERTs), DHS, and USCYBERCOM to build adaptive defenses and continuity plans for mission-critical systems and the civil systems that support them.", 
+        "sentence_id,": "e0b7d0c1c7"
+    }, 
+    {
+        "sentence": "Success requires creative and strong intra-Departmental and interagency partnerships.", 
+        "sentence_id,": "256573eb39"
+    }, 
+    {
+        "sentence": "Among DoDs cyber personnel and forces, the Cyber Mission Force (CMF) has a unique role within the Department.", 
+        "sentence_id,": "609d31fca3"
+    }, 
+    {
+        "sentence": "In 2012, DoD began to build a CMF to carry out DoDs cyber missions.", 
+        "sentence_id,": "edaff35c76"
+    }, 
+    {
+        "sentence": "Once fully operational, the CMF will include nearly 6,200 military, civilian, and contractor support personnel from across the military departments and defense components.", 
+        "sentence_id,": "f166fa6c82"
+    }, 
+    {
+        "sentence": "The Cyber Mission Force represents a major investment by the Department of Defense and the United States as whole, and a central aim of this strategy is to set specific goals and objectives to guide the development of the Cyber Mission Force and DoDs wider cyber workforce to protect and defend U.S. national interests.", 
+        "sentence_id,": "d545b7c2c7"
+    }, 
+    {
+        "sentence": "The Cyber Mission Force will be comprised of cyber operators organized into 133 teams, primarily aligned as follows: Cyber Protection Forces will augment traditional defensive measures and defend priority DoD networks and systems against priority threats; National Mission Forces and their associated support teams will defend the United States and its interests against cyberattacks of significant consequence; and Combat Mission Forces and their associated support teams will support combatant commands by generating integrated cyberspace effects in support of operational plans and contingency operations.", 
+        "sentence_id,": "22bb692806"
+    }, 
+    {
+        "sentence": "Combatant commands integrate Combat Mission Forces and Cyber Protection Teams into plans and operations and employ them in cyberspace, while the National Mission Force operates under the Commander of USCYBERCOM.", 
+        "sentence_id,": "0afb40a331"
+    }, 
+    {
+        "sentence": "Outside of this construct, teams can also be used to support other missions as required by the Department.", 
+        "sentence_id,": "9677e55347"
+    }, 
+    {
+        "sentence": "6 The Department of Defense Cyber Strategy In 2013 the Department began to integrate the CMF into the larger multi-mission U.S. military force to achieve synergy across domains, assure the CMFs readiness within the force, and restructure the military and civilian workforce and infrastructure to execute DoDs missions.", 
+        "sentence_id,": "c33784da5f"
+    }, 
+    {
+        "sentence": "During the course of implementing this strategy, DoD will continue to build the CMF, and will continue to mature the necessary command, control, and enabling organizations required for effective operations.", 
+        "sentence_id,": "43c20e2f42"
+    }, 
+    {
+        "sentence": "DoD will focus on ensuring that its forces are trained and ready to operate using the capabilities and architectures they need to conduct cyber operations, continue to build policy and legal frameworks to govern CMF employment, and integrate the CMF into DoDs overall planning and force development.", 
+        "sentence_id,": "bd72066f74"
+    }, 
+    {
+        "sentence": "This strategy recognizes that effective cybersecurity will require close collaboration within DoD and across the federal government, U.S. Strategic Command serves as the Defense Departments global synchronizer for capabilities that affect every combatant command.", 
+        "sentence_id,": "2fab1bb011"
+    }, 
+    {
+        "sentence": "Here the with industry, with international allies and sun sets over some of the assets that provide capabilities at Forward partners, and with state and local governments.", 
+        "sentence_id,": "cae74e38be"
+    }, 
+    {
+        "sentence": "Operating Base Sharana in Afghanistans Paktika province.", 
+        "sentence_id,": "6ef76a98ff"
+    }, 
+    {
+        "sentence": "Raymond Schaeffer) The pursuit of security in cyberspace requires a whole-of-government and international approach due to the number and variety of stakeholders in the domain, the flow of information across international borders, and the distribution of responsibilities, authorities, and capabilities across governments and the private sector.", 
+        "sentence_id,": "5f0e542792"
+    }, 
+    {
+        "sentence": "For each of DoDs missions, DoD must continue to develop routine relationships and processes for coordinating its cyber operations.", 
+        "sentence_id,": "90bc5bc034"
+    }, 
+    {
+        "sentence": "Specific risks and opportunities inform this new strategy.", 
+        "sentence_id,": "38825053c2"
+    }, 
+    {
+        "sentence": "For example, DoDs own network is a patchwork of thousands of networks across the globe, and DoD lacks the visibility and organizational structure required to defend its diffuse networks effectively.", 
+        "sentence_id,": "476373e794"
+    }, 
+    {
+        "sentence": "The Defense Department must further develop adequate warning intelligence of adversary intentions and capabilities for conducting destructive and disruptive cyberattacks against DoD and the United States.", 
+        "sentence_id,": "2634f8bc47"
+    }, 
+    {
+        "sentence": "Beyond its own networks, DoD relies on civil critical infrastructure across the United States and overseas for its operations, yet the cybersecurity of such critical infrastructure is uncertain.", 
+        "sentence_id,": "ae15c2202b"
+    }, 
+    {
+        "sentence": "To mitigate these and other risks and improve U.S. national security, this strategy sets strategic goals for the Department to achieve, and prescribes objectives and metrics for meeting each goal.", 
+        "sentence_id,": "5392af8ae5"
+    }, 
+    {
+        "sentence": "All of the goals and objectives within this strategy reflect the goals of the 2015 United States National Security Strategy and the 2014 Quadrennial Defense Review.", 
+        "sentence_id,": "14b16f326d"
+    }, 
+    {
+        "sentence": "Build and maintain robust international alliances and partnerships to deter shared threats and increase international security and stability.", 
+        "sentence_id,": "3d32977449"
+    }, 
+    {
+        "sentence": "Potential state and non-state adversaries conduct malicious cyber activities against U.S. interests globally and in a manner intended to test the limits of what the United States and the international community will tolerate.", 
+        "sentence_id,": "5bf573f5c3"
+    }, 
+    {
+        "sentence": "Actors may penetrate U.S. networks and systems for a variety of reasons, such as to steal intellectual property, disrupt an organizations operations for activist purposes, or to conduct disruptive and destructive attacks to achieve military objectives.", 
+        "sentence_id,": "acb9823dfb"
+    }, 
+    {
+        "sentence": "Potential adversaries have invested significantly in cyber as it provides them with a viable, plausibly deniable capability to target the U.S. homeland and damage U.S. interests.", 
+        "sentence_id,": "9b64c43392"
+    }, 
+    {
+        "sentence": "Russia and China have developed advanced cyber capabilities and strategies.", 
+        "sentence_id,": "bbf8cfe739"
+    }, 
+    {
+        "sentence": "Russian actors are stealthy in their cyber tradecraft and their intentions are sometimes difficult to discern.", 
+        "sentence_id,": "e6e3167853"
+    }, 
+    {
+        "sentence": "China steals intellectual property (IP) from global businesses to benefit Chinese companies and undercut U.S. competitiveness.", 
+        "sentence_id,": "e5073a6f10"
+    }, 
+    {
+        "sentence": "While Iran and North Korea have less developed cyber capabilities, they have displayed an overt level of hostile intent towards the United States and U.S. interests in cyberspace.", 
+        "sentence_id,": "d4e939b8e5"
+    }, 
+    {
+        "sentence": "In addition to state-based threats, non-state actors like the Islamic State in Iraq and the Levant (ISIL) use cyberspace to recruit fighters and disseminate propaganda and have declared their intent to acquire disruptive and destructive cyber capabilities.", 
+        "sentence_id,": "d77b3112b5"
+    }, 
+    {
+        "sentence": "Criminal actors pose a considerable threat in cyberspace, particularly to financial institutions, and ideological groups often use hackers to further their political objectives.", 
+        "sentence_id,": "7be94b14d2"
+    }, 
+    {
+        "sentence": "State and non-state threats often also blend together; patriotic entities often act as cyber surrogates for states, and non-state entities can provide cover for state-based operators.", 
+        "sentence_id,": "bbbc0962b2"
+    }, 
+    {
+        "sentence": "This behavior can make attribution more difficult and increases the chance of miscalculation.", 
+        "sentence_id,": "3f7ff586da"
+    }, 
+    {
+        "sentence": "Malware Proliferation The global proliferation of malicious code or software (malware) increases the risk to U.S. networks and data.", 
+        "sentence_id,": "7888ec1328"
+    }, 
+    {
+        "sentence": "To conduct a disruptive or destructive cyber operation against a military system or industrial control system requires expertise, but a potential adversary need not spend 9 The Department of Defense Cyber Strategy billions of dollars to develop an offensive capability.", 
+        "sentence_id,": "251ef085d1"
+    }, 
+    {
+        "sentence": "A nation-state, non-state group, or individual actor can purchase destructive malware and other capabilities on the black market.", 
+        "sentence_id,": "01d084bb03"
+    }, 
+    {
+        "sentence": "State and non-state actors also pay experts to search for vulnerabilities and develop exploits.", 
+        "sentence_id,": "54defeda9d"
+    }, 
+    {
+        "sentence": "This practice has created a dangerous and uncontrolled market that serves multiple actors within the international system, often for competing purposes.", 
+        "sentence_id,": "8a5a5d302f"
+    }, 
+    {
+        "sentence": "As cyber capabilities become more readily available over time, the Department of Defense assesses that state and non-state actors will continue to seek and develop cyber capabilities to use against U.S. interests.", 
+        "sentence_id,": "34e80ce228"
+    }, 
+    {
+        "sentence": "Risk to DoD Networks and Infrastructure The Defense Departments own networks and systems are vulnerable to intrusions and attacks.", 
+        "sentence_id,": "2c776725fc"
+    }, 
+    {
+        "sentence": "In addition to DoDs own networks, a cyberattack on the critical infrastructure and key resources on which DoD relies for its operations could impact the U.S. militarys ability to operate in a contingency.", 
+        "sentence_id,": "9636ea7059"
+    }, 
+    {
+        "sentence": "DoD has made gains in identifying cyber vulnerabilities of its own critical assets through its Mission Assurance Program for many key assets, DoD has identified its physical network infrastructure on which key physical assets depend but more must be done to secure DoDs cyber infrastructure.", 
+        "sentence_id,": "d0cf6af7a1"
+    }, 
+    {
+        "sentence": "In addition to destructive and disruptive attacks, cyber actors steal operational information and intellectual property from a range of U.S. government and commercial entities that impact the Defense Department.", 
+        "sentence_id,": "8b32127d35"
+    }, 
+    {
+        "sentence": "Victims include weapons developers as well as commercial firms that support force movements through U.S. Transportation Command (USTRANSCOM).", 
+        "sentence_id,": "2160bb15d3"
+    }, 
+    {
+        "sentence": "State actors have stolen DoDs intellectual property to undercut the United States strategic and technological advantage and to benefit their own military and economic development.", 
+        "sentence_id,": "e50c9d67c1"
+    }, 
+    {
+        "sentence": "Finally, the Defense Department faces a risk from the U.S. governments continued budgetary uncertainty.", 
+        "sentence_id,": "3ab5dc8499"
+    }, 
+    {
+        "sentence": "Although DoD has prioritized the allocation of resources in its budget to develop cyber capabilities, continued fiscal uncertainty requires that DoD plan to build its cyber capabilities under a declining overall defense budget.", 
+        "sentence_id,": "6b66c91da5"
+    }, 
+    {
+        "sentence": "DoD must continue to prioritize its cyber investments and develop the capabilities required to defend U.S. interests at home and overseas.", 
+        "sentence_id,": "2cb5b761f5"
+    }, 
+    {
+        "sentence": "Deterrence in the Future Security Environment In the face of an escalating threat, the Department of Defense must contribute to the development and implementation of a comprehensive cyber deterrence strategy to deter key state and non-state actors from conducting cyberattacks against U.S. interests.", 
+        "sentence_id,": "8c65f43f78"
+    }, 
+    {
+        "sentence": "Because of the variety and number of state and non-state cyber actors in cyberspace and the relative availability of destructive cyber tools, an effective deterrence strategy requires a range of policies and capabilities to affect a state or non-state actors behavior.", 
+        "sentence_id,": "2a96176e1f"
+    }, 
+    {
+        "sentence": "As DoD builds its Cyber Mission Force and overall capabilities, DoD assumes that the deterrence of cyberattacks on U.S. interests will not be achieved through the articulation of cyber policies alone, but through the totality of U.S. actions, including declaratory policy, substantial indications and warning capabilities, defensive posture, effective response procedures, and the overall resiliency of U.S. networks and systems.", 
+        "sentence_id,": "4cdeb2ad49"
+    }, 
+    {
+        "sentence": "The deterrence of state and non-state groups in cyberspace will thus require the focused attention of multiple U.S. government departments and agencies.", 
+        "sentence_id,": "8ade3007d5"
+    }, 
+    {
+        "sentence": "The Department of Defense has a number of specific roles to play in this equation.", 
+        "sentence_id,": "ba18b3b98a"
+    }, 
+    {
+        "sentence": "10 The Department of Defense Cyber Strategy Deterrence is partially a function of perception.", 
+        "sentence_id,": "ccb7402e39"
+    }, 
+    {
+        "sentence": "It works by convincing a potential adversary that it will suffer unacceptable costs if it conducts an attack on the United States, and by decreasing the likelihood that a potential adversarys attack will succeed.", 
+        "sentence_id,": "a74e223184"
+    }, 
+    {
+        "sentence": "The United States must be able to declare or display effective response capabilities to deter an adversary from initiating an attack; develop effective defensive capabilities to deny a potential attack from succeeding; and strengthen the overall resilience of U.S. systems to withstand a potential attack if it penetrates the United States defenses.", 
+        "sentence_id,": "fc357100c3"
+    }, 
+    {
+        "sentence": "In addition, the United States requires strong intelligence, forensics, and indications and warning capabilities to reduce anonymity in cyberspace and increase confidence in attribution.", 
+        "sentence_id,": "1350dd3c63"
+    }, 
+    {
+        "sentence": "Response: The United States has been clear that it will respond to a cyberattack on U.S. interests through its defense capabilities.", 
+        "sentence_id,": "9b8e02c7c2"
+    }, 
+    {
+        "sentence": "The United States has articulated this declaratory policy in the 2011 United States International Strategy for Cyberspace, in the Department of Defense Cyberspace Policy Report to Congress of 2011, and through public statements by the President and the Secretary of Defense.", 
+        "sentence_id,": "625ea48abe"
+    }, 
+    {
+        "sentence": "The United States will continue to respond to cyberattacks against U.S. interests at a time, in a manner, and in a place of our choosing, using appropriate instruments of U.S. power and in accordance with applicable law.", 
+        "sentence_id,": "968bc68d00"
+    }, 
+    {
+        "sentence": "Denial: While DoD has made progress in building the Cyber Mission Force, DoD must increase its defensive capabilities to defend DoD networks and defend the nation from sophisticated cyberattacks, and must work with other departments, agencies, international allies and partners, and the private sector to strengthen deterrence by denial through improved cybersecurity.", 
+        "sentence_id,": "50593d6c61"
+    }, 
+    {
+        "sentence": "Resilience: Because the Defense Departments capabilities cannot necessarily guarantee that every cyberattack will be denied successfully, Airman 1st Class Nate Hammond adjusts the frequency of a Roll-On Beyond Line of Sight Enhancement, or ROBE, data link system at the the Defense Department must invest in Transit Center at Manas, Kyrgyzstan.", 
+        "sentence_id,": "478192e096"
+    }, 
+    {
+        "sentence": "A ROBE connects manpower assets resilient and redundant systems so that it on the ground to other ground or airborne units.", 
+        "sentence_id,": "721332d466"
+    }, 
+    {
+        "sentence": "(U.S. Air Force may continue its operations in the face of photo/Senior Airman Brett Clashman) disruptive or destructive cyberattacks on DoD networks.", 
+        "sentence_id,": "904fc4a81a"
+    }, 
+    {
+        "sentence": "The Defense Department cannot, however, foster resilience in organizations that fall outside of its authority.", 
+        "sentence_id,": "4252662a1b"
+    }, 
+    {
+        "sentence": "In order for resilience to succeed as a factor in effective deterrence, other agencies of the government must work with critical infrastructure owners and operators and the private sector more broadly to develop resilient and redundant systems that can withstand a potential attack.", 
+        "sentence_id,": "dc265bcd1e"
+    }, 
+    {
+        "sentence": "Effective resilience measures can help convince potential adversaries of the futility of commencing cyberattacks on U.S. networks and systems.", 
+        "sentence_id,": "25b3c4019a"
+    }, 
+    {
+        "sentence": "Attribution is a fundamental part of an effective cyber deterrence strategy as anonymity enables malicious cyber activity by state and non-state groups.", 
+        "sentence_id,": "014ea76a0f"
+    }, 
+    {
+        "sentence": "On matters of intelligence, attribution, and warning, DoD and the intelligence community have invested significantly in all source 11 The Department of Defense Cyber Strategy collection, analysis, and dissemination capabilities, all of which reduce the anonymity of state and non-state actor activity in cyberspace.", 
+        "sentence_id,": "4f3e9bece4"
+    }, 
+    {
+        "sentence": "Intelligence and attribution capabilities help to unmask an actors cyber persona, identify the attacks point of origin, and determine tactics, techniques, and procedures.", 
+        "sentence_id,": "ad2f9824c5"
+    }, 
+    {
+        "sentence": "Attribution enables the Defense Department or other agencies to conduct response and denial operations against an incoming cyberattack.", 
+        "sentence_id,": "64fabaaed3"
+    }, 
+    {
+        "sentence": "Public and private attribution can play a significant role in dissuading cyber actors from conducting attacks in the first place.", 
+        "sentence_id,": "33c83f3346"
+    }, 
+    {
+        "sentence": "The Defense Department will continue to collaborate closely with the private sector and other agencies of the U.S. government to strengthen attribution.", 
+        "sentence_id,": "ffd027f631"
+    }, 
+    {
+        "sentence": "This work will be especially important for deterrence as activist groups, criminal organizations, and other actors acquire advanced cyber capabilities over time.", 
+        "sentence_id,": "22d38026fe"
+    }, 
+    {
+        "sentence": "Finally, cyber capabilities present state and non-state actors with the ability to strike at U.S. interests in a manner that may or may not necessarily warrant a purely military response by the United States, but which may nonetheless present a significant threat to U.S. national security and may warrant a non-military response of some kind.", 
+        "sentence_id,": "6543502747"
+    }, 
+    {
+        "sentence": "In response to certain attacks and intrusions, the United States may undertake diplomatic actions, take law enforcement actions, and consider economic sanctions.", 
+        "sentence_id,": "66b4b212d3"
+    }, 
+    {
+        "sentence": "For example, the United States used verifiable and attributable data to engage China about the risks posed by its economic espionage.", 
+        "sentence_id,": "cb035a294b"
+    }, 
+    {
+        "sentence": "The attribution of this data allowed the United States to express concerns regarding the impact of Chinese intellectual property theft on U.S. economic competitiveness, and the potential risks posed to strategic stability by Chinese activity.", 
+        "sentence_id,": "6dc15ec90f"
+    }, 
+    {
+        "sentence": "Because they broke the law and to deter China from conducting future cyber espionage, the Justice Department indicted five members of the Peoples Liberation Army for stealing U.S. intellectual property to directly benefit Chinese companies.", 
+        "sentence_id,": "fc6e181152"
+    }, 
+    {
+        "sentence": "The Defense Department will support the Justice Department and other agencies in exploring new tools and capabilities to help deter such activity in cyberspace.", 
+        "sentence_id,": "38c103b742"
+    }, 
+    {
+        "sentence": "12 The Department of Defense Cyber Strategy III.", 
+        "sentence_id,": "dcb4664313"
+    }, 
+    {
+        "sentence": "STRATEGIC GOALS To mitigate risks and defend U.S. interests in the current and future security environment, the Defense Department outlines five strategic goals and specific objectives for its activities and missions.", 
+        "sentence_id,": "cd32082563"
+    }, 
+    {
+        "sentence": "STRATEGIC GOAL I: BUILD AND MAINTAIN TO CONDUCT CYBERSPACE OPERATIONS.", 
+        "sentence_id,": "66ae190db3"
+    }, 
+    {
+        "sentence": "READY FORCES AND CAPABILITIES To operate effectively in cyberspace, DoD requires forces and personnel that are trained to the highest standard, ready, and equipped with best-in-class technical capabilities.", 
+        "sentence_id,": "d71a166b4b"
+    }, 
+    {
+        "sentence": "In 2013 DoD initiated a major investment in its cyber personnel and technologies by initiating the CMF; now DoD must make good on that investment by training its people, building effective organizations and command and control systems, and fully developing the capabilities that DoD requires to operate in cyberspace.", 
+        "sentence_id,": "9971241873"
+    }, 
+    {
+        "sentence": "This strategy sets specific objectives for DoD to meet as it mans, trains, and equips its forces and personnel over the next five years and beyond.", 
+        "sentence_id,": "6599de8e77"
+    }, 
+    {
+        "sentence": "STRATEGIC GOAL II: DEFEND THE DOD INFORMATION DOD DATA, AND MITIGATE RISKS TO DOD MISSIONS.", 
+        "sentence_id,": "7251da6a14"
+    }, 
+    {
+        "sentence": "NETWORK, SECURE While DoD cannot defend every network and system against every kind of intrusion DoDs total network attack surface is too large to defend against all threats and too vast to close all vulnerabilities DoD must take steps to identify, prioritize, and defend its most important networks and data so that it can carry out its missions effectively.", 
+        "sentence_id,": "3696171d94"
+    }, 
+    {
+        "sentence": "DoD must also plan and exercise to operate within a degraded and disrupted cyber environment in the event that an attack on DoDs networks and data succeeds, or if aspects of the critical infrastructure on which DoD relies for its operational and contingency plans are disrupted.", 
+        "sentence_id,": "fc3b2fac2f"
+    }, 
+    {
+        "sentence": "Finally, DoD must raise the bar on technology and innovation to stay ahead of the threat by enhancing its cyber defense capabilities, including by building and employing a more defendable network architecture in the Joint Information Environment (JIE).", 
+        "sentence_id,": "bf1a9e99b1"
+    }, 
+    {
+        "sentence": "Outside of DoD networks, DoD must work with the private sector to help secure defense industrial base trade 13 The Department of Defense Cyber Strategy data, and be prepared to assist other agencies in hardening U.S. networks and data against cyberattacks and cyber espionage.", 
+        "sentence_id,": "d218e48548"
+    }, 
+    {
+        "sentence": "STRATEGIC GOAL III: BE PREPARED TO DEFEND THE U.S.", 
+        "sentence_id,": "09e4e4bf97"
+    }, 
+    {
+        "sentence": "HOMELAND AND U.S. VITAL INTERESTS FROM DISRUPTIVE OR DESTRUCTIVE CYBERATTACKS OF SIGNIFICANT CONSEQUENCE.", 
+        "sentence_id,": "9bcd0ca8e2"
+    }, 
+    {
+        "sentence": "Cyber Flag 14-1 participants analyze an exercise scenario in the Red Flag building at Nellis Air Force Base, NV.", 
+        "sentence_id,": "093a4c55b6"
+    }, 
+    {
+        "sentence": "Cyber Flag focuses on exercising USCYBERCOMs mission of operating and defending DoD networks across the full spectrum of operations against a realistic adversary in a virtual environment.", 
+        "sentence_id,": "38be090424"
+    }, 
+    {
+        "sentence": "(U.S. Air Force photo by Airman 1st Class Christopher Tam) STRATEGIC GOAL IV: BUILD The Department of Defense must work with its interagency partners, the private sector, and allied and partner nations to deter and if necessary defeat a cyberattack of significant consequence on the U.S. homeland and U.S. interests.", 
+        "sentence_id,": "aadbe6c0e5"
+    }, 
+    {
+        "sentence": "The Defense Department must develop its intelligence, warning, and operational capabilities to mitigate sophisticated, malicious cyberattacks before they can impact U.S. interests.", 
+        "sentence_id,": "13a0148282"
+    }, 
+    {
+        "sentence": "Consistent with all applicable laws and policies, DoD requires granular, detailed, predictive, and actionable intelligence about global networks and systems, adversary capabilities, and malware brokers and markets.", 
+        "sentence_id,": "6aa0d758cd"
+    }, 
+    {
+        "sentence": "To defend the nation, DoD must build partnerships with other agencies of the government to prepare to conduct combined cyber operations to deter and if necessary defeat aggression in cyberspace.", 
+        "sentence_id,": "e67f1f42a8"
+    }, 
+    {
+        "sentence": "The Defense Department is focused on building the capabilities, processes, and plans necessary to succeed in this mission.", 
+        "sentence_id,": "5ac822ebc1"
+    }, 
+    {
+        "sentence": "AND MAINTAIN VIABLE CYBER OPTIONS AND PLAN TO USE THOSE OPTIONS TO CONTROL CONFLICT ESCALATION AND TO SHAPE THE CONFLICT ENVIRONMENT AT ALL STAGES.", 
+        "sentence_id,": "b2e01ed726"
+    }, 
+    {
+        "sentence": "During heightened tensions or outright hostilities, DoD must be able to provide the President with a wide range of options for managing conflict escalation.", 
+        "sentence_id,": "6445e91eca"
+    }, 
+    {
+        "sentence": "If directed, DoD should be able to use cyber operations to disrupt an adversarys command and control networks, military-related critical infrastructure, and weapons capabilities.", 
+        "sentence_id,": "425811b933"
+    }, 
+    {
+        "sentence": "As a part of the full range of tools available to the United States, DoD must develop viable cyber options and integrate those options into Departmental plans.", 
+        "sentence_id,": "65723e69c4"
+    }, 
+    {
+        "sentence": "DoD will develop cyber capabilities to achieve key security objectives with precision, and to minimize loss of life and destruction of property.", 
+        "sentence_id,": "e40809dd05"
+    }, 
+    {
+        "sentence": "To ensure unity of effort, DoD will enable combatant commands to plan and synchronize cyber operations with kinetic operations across all domains of military operations.", 
+        "sentence_id,": "d419dc22ac"
+    }, 
+    {
+        "sentence": "14 The Department of Defense Cyber Strategy STRATEGIC GOAL V: BUILD AND MAINTAIN ROBUST INTERNATIONAL ALLIANCES AND PARTNERSHIPS TO DETER SHARED THREATS AND INCREASE INTERNATIONAL SECURITY AND STABILITY.", 
+        "sentence_id,": "43b48615e7"
+    }, 
+    {
+        "sentence": "All three of DoDs cyber missions require close collaboration with foreign allies and partners.", 
+        "sentence_id,": "cddef535b6"
+    }, 
+    {
+        "sentence": "In its international cyber engagement DoD seeks to build partnership capacity in cybersecurity and cyber defense, and to deepen operational partnerships where appropriate.", 
+        "sentence_id,": "0dd7dc4324"
+    }, 
+    {
+        "sentence": "Given the high demand and relative scarcity of cyber resources, the Department of Defense must make hard choices and focus its partnership capacity initiatives on areas where vital U.S. national interests are stake.", 
+        "sentence_id,": "f3cd10e655"
+    }, 
+    {
+        "sentence": "Over the next five years, in addition to ongoing partner capacity building efforts in other regions, DoD will focus its international engagement on: the Middle East, the Asia-Pacific, and key NATO allies.", 
+        "sentence_id,": "1d8ecdfeb2"
+    }, 
+    {
+        "sentence": "Through the course of this strategy DoD will constantly assess the international environment and develop innovative partnerships to respond to emerging challenges and opportunities.", 
+        "sentence_id,": "e5cfa07c41"
+    }, 
+    {
+        "sentence": "15 The Department of Defense Cyber Strategy THIS PAGE LEFT INTENTIONALLY BLANK 16 The Department of Defense Cyber Strategy IV.", 
+        "sentence_id,": "58e49361ba"
+    }, 
+    {
+        "sentence": "IMPLEMENTATION OBJECTIVES Each of DoDs strategic goals requires specific, measurable objectives for the Department to achieve.", 
+        "sentence_id,": "f99a2b178f"
+    }, 
+    {
+        "sentence": "The Office of the Principal Cyber Advisor to the Secretary of Defense, the Office of the Under Secretary of Defense for Acquisition, Technology, and Logistics, and the Joint Staff will work with DoD components to prioritize and oversee the implementation of this strategy and its objectives and to assign offices of primary and support responsibility for managing each objective.", 
+        "sentence_id,": "2c47ef5519"
+    }, 
+    {
+        "sentence": "The office of primary responsibility will develop a project plan for each objective; the Principal Cyber Advisor will track progress in achieving each objective and ultimately the success of each strategic goal.", 
+        "sentence_id,": "1ca505ed98"
+    }, 
+    {
+        "sentence": "STRATEGIC GOAL I: BUILD AND MAINTAIN TO CONDUCT CYBERSPACE OPERATIONS.", 
+        "sentence_id,": "e32a7a1d54"
+    }, 
+    {
+        "sentence": "READY FORCES AND CAPABILITIES Build the cyber workforce.", 
+        "sentence_id,": "40ba993b86"
+    }, 
+    {
+        "sentence": "To make good on DoDs significant investment in cyber personnel, and to help achieve many of the objectives in this strategy, DoDs first priority is to develop a ready Cyber Mission Force and associated cyber workforce.", 
+        "sentence_id,": "524a0b7d35"
+    }, 
+    {
+        "sentence": "This workforce will be built on three foundational pillars: enhanced training; improved military and civilian recruitment and retention; and stronger private sector support.", 
+        "sentence_id,": "32c58d8bae"
+    }, 
+    {
+        "sentence": "o Maintain a persistent training environment.", 
+        "sentence_id,": "406d87b565"
+    }, 
+    {
+        "sentence": "DoD requires an individual and collective training capability to achieve the goals outlined in this strategy and to meet future operational requirements.", 
+        "sentence_id,": "eff601566a"
+    }, 
+    {
+        "sentence": "U.S. Cyber Command will work with other components, agencies, and military departments to define the requirements for and create a training environment that will enable the total cyber force to conduct joint training (including exercises and mission rehearsals), experimentation, certification, as well as the assessment and development of cyber capabilities and tactics, techniques, and procedures for missions that cross boundaries and networks.", 
+        "sentence_id,": "ce6f2e4628"
+    }, 
+    {
+        "sentence": "17 The Department of Defense Cyber Strategy o Build viable career paths.", 
+        "sentence_id,": "8b7c8c1199"
+    }, 
+    {
+        "sentence": "Throughout the course of this strategy, and following the CMF decisions of 2013, DoD will continue to foster viable career paths for all military personnel performing and supporting cyber operations.", 
+        "sentence_id,": "6a64bcf32d"
+    }, 
+    {
+        "sentence": "o Draw on the National Guard and Reserve.", 
+        "sentence_id,": "4dbf6fa7b3"
+    }, 
+    {
+        "sentence": "Throughout the course of this strategy, DoD will draw on the National Guard and Reserve Components as a resource for expertise and to foster creative solutions to cybersecurity problems.", 
+        "sentence_id,": "672e05ef87"
+    }, 
+    {
+        "sentence": "The Reserve Component offers a unique capability for supporting each of DoDs missions, including for engaging the defense industrial base and the commercial sector.", 
+        "sentence_id,": "ed8539e002"
+    }, 
+    {
+        "sentence": "It represents DoDs critical surge capacity for cyber responders.", 
+        "sentence_id,": "49afd98984"
+    }, 
+    {
+        "sentence": "o Improve civilian recruitment and retention.", 
+        "sentence_id,": "466b66d614"
+    }, 
+    {
+        "sentence": "In addition to developing highly-skilled military personnel, DoD must recruit and retain highly-skilled civilian personnel, including technical personnel for its total cyber workforce.", 
+        "sentence_id,": "b857c85bd1"
+    }, 
+    {
+        "sentence": "Civilians must follow a welldeveloped career development and advancement track and be provided with best-inclass opportunities to develop and succeed within the workforce.", 
+        "sentence_id,": "d5035bb120"
+    }, 
+    {
+        "sentence": "o Develop and implement exchange programs with the private sector.", 
+        "sentence_id,": "53f3a7d13e"
+    }, 
+    {
+        "sentence": "To supplement DoDs civilian cyber workforce, DoD must be able to employ technical subject matter experts from the best cybersecurity and information technology companies in the country to perform unique engineering and analytic roles within DoD.", 
+        "sentence_id,": "c3a32693a4"
+    }, 
+    {
+        "sentence": "The Defense Department will implement successful private sector exchange programs to bring measurable benefits to the Department of Defense through the design and development of new operational concepts for DoDs cyberspace missions.", 
+        "sentence_id,": "7df4f1ee99"
+    }, 
+    {
+        "sentence": "o Support the National Initiative for Cyberspace Education.", 
+        "sentence_id,": "297a31e5fb"
+    }, 
+    {
+        "sentence": "DoD will develop policies to support the National Initiative for Cybersecurity Education.", 
+        "sentence_id,": "2e5046e79b"
+    }, 
+    {
+        "sentence": "Working with interagency partners, one or more educational institutions, as well as state and private sector partners, DoD will continue to support innovative workforce development partnerships focused on both the technical and policy dimensions of cybersecurity and cyber defense.", 
+        "sentence_id,": "3babccc881"
+    }, 
+    {
+        "sentence": "Build technical capabilities for cyber operations.", 
+        "sentence_id,": "f22d64685a"
+    }, 
+    {
+        "sentence": "In 2013, DoD developed a model for achieving CMF readiness and for developing viable cyber military options to present to the President and Secretary of Defense.", 
+        "sentence_id,": "1e91746407"
+    }, 
+    {
+        "sentence": "DoD must have the technical tools available to conduct operations in support of combatant command missions.", 
+        "sentence_id,": "f0a66d61e5"
+    }, 
+    {
+        "sentence": "Key initiatives include the following: o Develop the Unified Platform.", 
+        "sentence_id,": "2b6db21247"
+    }, 
+    {
+        "sentence": "On the basis of planning requirements, DoD will develop the detailed requirements for integrating disparate cyber platforms and building an interoperable and extendable network of cyber capabilities.", 
+        "sentence_id,": "5e6637cf33"
+    }, 
+    {
+        "sentence": "This Unified Platform will enable the CMF to conduct full-spectrum cyberspace operations in support of national requirements.", 
+        "sentence_id,": "5244f8112d"
+    }, 
+    {
+        "sentence": "o Accelerate research and development.", 
+        "sentence_id,": "e555811c0e"
+    }, 
+    {
+        "sentence": "The Defense Department will continue to accelerate innovative cyber research and development to build cyber capabilities.", 
+        "sentence_id,": "1d48c7ec1c"
+    }, 
+    {
+        "sentence": "The 18 The Department of Defense Cyber Strategy DoD research and development community as well as established and emerging private sector partners can provide DoD and the nation with a significant advantage in developing leap-ahead technologies to defend U.S. interests in cyberspace.", 
+        "sentence_id,": "43384c9dda"
+    }, 
+    {
+        "sentence": "In addition to supporting current and planned investments, DoD will focus its basic and applied research agenda on developing cyber capabilities to expand the capacity of the CMF and the broader DoD cyber workforce.", 
+        "sentence_id,": "7762fd50da"
+    }, 
+    {
+        "sentence": "Validate and continually refine an adaptive command and control mechanism for cyber operations.", 
+        "sentence_id,": "93a9293408"
+    }, 
+    {
+        "sentence": "DoD has made significant progress in recent years in developing command and control for all three of its missions, but its command and control model must be finalized, resourced, and tested to ensure effectiveness.", 
+        "sentence_id,": "383c827868"
+    }, 
+    {
+        "sentence": "The command and control model must support USCYBERCOM and the combatant commands.", 
+        "sentence_id,": "c7ff6d05b8"
+    }, 
+    {
+        "sentence": "It must be efficient and practical, and must promote unity of effort of effort across all three cyber missions.", 
+        "sentence_id,": "8befceee23"
+    }, 
+    {
+        "sentence": "Establish an enterprise-wide cyber modeling and simulation capability.", 
+        "sentence_id,": "0cc49fec93"
+    }, 
+    {
+        "sentence": "DoD will work in collaboration with the intelligence community to develop the data schema, databases, algorithms, and modeling and simulation (M&S) capabilities necessary to assess the effectiveness of cyber operations.", 
+        "sentence_id,": "50d1851dfd"
+    }, 
+    {
+        "sentence": "Assess Cyber Mission Force capacity.", 
+        "sentence_id,": "a52f4afe3d"
+    }, 
+    {
+        "sentence": "Assess the capacity of the projected Cyber Mission Force to achieve its mission objectives when confronted with multiple contingencies.", 
+        "sentence_id,": "f27bc3fcc4"
+    }, 
+    {
+        "sentence": "o The Joint Staff, with support from USCYBERCOM and other DoD components, will propose, collect, analyze, and report a set of appropriate metrics to the Principal Cyber Advisor to measure the operational capacity of the Air Force Tech Sgt.", 
+        "sentence_id,": "71f229a236"
+    }, 
+    {
+        "sentence": "Kevin Garner and Air Force Senior Airman David cyber transport technicians assigned to the 354 th Communications CMF.", 
+        "sentence_id,": "bd33a18588"
+    }, 
+    {
+        "sentence": "These metrics will include updates Solnok, Squadron, hook cables in to the new Air Force Network router system at on the status of USCYBERCOM Eielson Air Force Base, AK.", 
+        "sentence_id,": "e882b5dfd0"
+    }, 
+    {
+        "sentence": "(U.S. Air Force photo by Staff Sgt.", 
+        "sentence_id,": "12479ce536"
+    }, 
+    {
+        "sentence": "Christopher contingency capabilities, to include Boitz) capability development and proficiency as well as accesses and tools that may be required in a contingency.", 
+        "sentence_id,": "aec39f4547"
+    }, 
+    {
+        "sentence": "In response to this analysis, DoD will develop a plan for ensuring that the CMF has the appropriate capacity and flexibility available to respond to changes in the strategic environment.", 
+        "sentence_id,": "01cbd94e48"
+    }, 
+    {
+        "sentence": "STRATEGIC GOAL II: DEFEND THE DOD INFORMATION DOD DATA, AND MITIGATE RISKS TO DOD MISSIONS.", 
+        "sentence_id,": "d07d0b9214"
+    }, 
+    {
+        "sentence": "NETWORK, SECURE Build the Joint Information Environment (JIE) single security architecture.", 
+        "sentence_id,": "75185fa9d6"
+    }, 
+    {
+        "sentence": "The Defense Department will build DoD information networks to meet the JIEs single security 19 The Department of Defense Cyber Strategy architecture.", 
+        "sentence_id,": "0dc4356ed9"
+    }, 
+    {
+        "sentence": "The single security architecture will adapt and evolve to mitigate cyber threats; it will help DoD to develop and follow best-in-class cybersecurity practices, and its small network footprint will allow USCYBERCOM, combatant commands, and DoD components to maintain comprehensive situational awareness of network threats and mitigations.", 
+        "sentence_id,": "95d2f978a8"
+    }, 
+    {
+        "sentence": "o The JIEs single security architecture will enable a robust network defense and shift the focus from protecting service-specific networks and systems to securing the DoD enterprise in a unified manner.", 
+        "sentence_id,": "78d295f76d"
+    }, 
+    {
+        "sentence": "The JIEs single security architecture must be developed with enhanced cyber situational awareness, deployed in response to validated requirements, and able to accommodate future defensive measures.", 
+        "sentence_id,": "dbfea2d77c"
+    }, 
+    {
+        "sentence": "o As a part of JIE planning DoD will develop a framework for developing and integrating new defensive techniques into DoDs cybersecurity architecture, to include anomalybased detection capabilities, data analytics to identify vulnerabilities and threats, and advanced encryption methods.", 
+        "sentence_id,": "bb4fb237ab"
+    }, 
+    {
+        "sentence": "Assess and ensure the effectiveness of the Joint Force Headquarters for DoD information network (DoDIN) operations.", 
+        "sentence_id,": "91dcf62f96"
+    }, 
+    {
+        "sentence": "Operating under USCYBERCOM, the Joint Force Headquarters-DoDIN will coordinate network defense and mitigate cyber risks to DoD operations and missions across the defense enterprise.", 
+        "sentence_id,": "b2dbe7ffab"
+    }, 
+    {
+        "sentence": "DoD will assess, validate, and fully implement the Joint Force Headquarters-DoDIN concept to operate DoD networks securely, defend DoD networks, and mitigate cyber risks to DoD missions.", 
+        "sentence_id,": "280d1ada87"
+    }, 
+    {
+        "sentence": "Mitigate known vulnerabilities.", 
+        "sentence_id,": "9a17e2bb27"
+    }, 
+    {
+        "sentence": "The Defense Department will implement a capability to mitigate all known vulnerabilities that present a high risk to DoD networks and data.", 
+        "sentence_id,": "7aa0eed18d"
+    }, 
+    {
+        "sentence": "In addition to zero-day vulnerabilities, one of the greatest threats to DoD networks and systems lies in known, high-risk vulnerabilities that potential adversaries can exploit.", 
+        "sentence_id,": "4d51f4f6cd"
+    }, 
+    {
+        "sentence": "DoD often finds itself rushing to close vulnerabilities once an adversary has penetrated a system.", 
+        "sentence_id,": "9c477b7387"
+    }, 
+    {
+        "sentence": "The DoD Chief Information Officer (CIO) will lead an effort to implement an automated patch management capability to distribute software and configuration patches, updates, and fixes to mitigate known, major vulnerabilities on DoD networks and systems against threats.", 
+        "sentence_id,": "ebd8c822ec"
+    }, 
+    {
+        "sentence": "Assess DoDs cyber defense forces.", 
+        "sentence_id,": "9b3343a9cf"
+    }, 
+    {
+        "sentence": "The Defense Department will assess its cyber defense forces ability to conduct integrated, adaptive, and dynamic defensive operations.", 
+        "sentence_id,": "413c5e3863"
+    }, 
+    {
+        "sentence": "Enterprise-level and Cyber Protection Team (CPT) network defenders must be able to discover, detect, analyze, and mitigate threats and vulnerabilities to defend the DoD information network.", 
+        "sentence_id,": "b802d96acb"
+    }, 
+    {
+        "sentence": "Improve the effectiveness of the current DoD Computer Network Defense Service Provider (CNDSP) construct in defending and protecting DoD networks.", 
+        "sentence_id,": "181c87f7d2"
+    }, 
+    {
+        "sentence": "Computer network defense service providers deliver cybersecurity solutions for DoD networks, to include monitoring, detection, and protection capabilities.", 
+        "sentence_id,": "36b0855db3"
+    }, 
+    {
+        "sentence": "The Defense Department will determine whether current CNDSP processes are sufficient to defend networks against known and projected threats in cyberspace and whether current CNDSP forces are adequately trained and equipped to defend against advanced threats.", 
+        "sentence_id,": "6dafb320a6"
+    }, 
+    {
+        "sentence": "Finally, DoD will 20 The Department of Defense Cyber Strategy determine whether its CNDSP forces can integrate into the broader cyberspace command and control construct and how that integrated construct will perform in the face of cyber threats that span CNDSP and CPT protected networks and data.", 
+        "sentence_id,": "9b2ba8cdd2"
+    }, 
+    {
+        "sentence": "Plan for network defense and resilience.", 
+        "sentence_id,": "eb92734db1"
+    }, 
+    {
+        "sentence": "The Defense Department must identify and plan to defend the networks that support key DoD missions.", 
+        "sentence_id,": "f3cbdc2bd3"
+    }, 
+    {
+        "sentence": "The Department must make a careful assessment of the priority assets that it must defend in cyberspace to assure DoD missions and exercise to defend those assets effectively.", 
+        "sentence_id,": "63c801796d"
+    }, 
+    {
+        "sentence": "o Integrate cyber into mission assurance assessments.", 
+        "sentence_id,": "85589dd42c"
+    }, 
+    {
+        "sentence": "The Defense Department will integrate cybersecurity requirements and assessments into the DoD Mission Assurance program and update DoD policy appropriately.", 
+        "sentence_id,": "76bd3c02d9"
+    }, 
+    {
+        "sentence": "Currently DoD components take varying approaches to measuring and assessing cyber risks for mission assurance.", 
+        "sentence_id,": "e4642f6fcc"
+    }, 
+    {
+        "sentence": "DoD will develop a Joint Mission Assurance Assessment Program that includes the integration of cybersecurity assessments, cybersecurity requirements, and cyber operations requirements.", 
+        "sentence_id,": "fd85c1bde8"
+    }, 
+    {
+        "sentence": "o Assess Cyber Protection Team (CPT) capabilities.", 
+        "sentence_id,": "4d3bf38c80"
+    }, 
+    {
+        "sentence": "DoD will complete an assessment of CPT capacity, capability, and employment model in regard to mission assurance priorities as set by combatant command requirements.", 
+        "sentence_id,": "460bc59b4d"
+    }, 
+    {
+        "sentence": "Soldiers monitor networks in the Cyber Mission Unit Operations Center at the Army's Cyber Center of Excellence, Fort Gordon, GA. (Photo by Michael L. Lewis) o Improve weapons systems cybersecurity.", 
+        "sentence_id,": "fc8f5fd5ce"
+    }, 
+    {
+        "sentence": "DoD will assess and initiate improvements to the cybersecurity of current and future weapons systems, doing so on the basis of operational requirements.", 
+        "sentence_id,": "6787294d98"
+    }, 
+    {
+        "sentence": "For all future weapons systems that DoD will acquire or procure, DoD will mandate specific cybersecurity standards for weapons systems to meet.", 
+        "sentence_id,": "69037ed55f"
+    }, 
+    {
+        "sentence": "Acquisition and procurement policy and practice will be updated to promote effective cybersecurity throughout a systems life cycle.", 
+        "sentence_id,": "83e7ad5db1"
+    }, 
+    {
+        "sentence": "o Build and exercise continuity plans.", 
+        "sentence_id,": "3756c9d8ae"
+    }, 
+    {
+        "sentence": "All DoD components will identify and build resiliency plans to maintain continuity of their most critical operations in the event of network disruption and degradation.", 
+        "sentence_id,": "576127a352"
+    }, 
+    {
+        "sentence": "Military campaign plans must fully incorporate the ability to operate in a degraded cyber environment; military forces must exercise and be able to conduct military campaigns in a degraded cyber environment where access to networks and data is uncertain.", 
+        "sentence_id,": "156ca9d183"
+    }, 
+    {
+        "sentence": "Components must balance cyber risks effectively to ensure that they can continue to carry out their missions in the physical world.", 
+        "sentence_id,": "cfd174bb84"
+    }, 
+    {
+        "sentence": "Red team DoDs network defenses.", 
+        "sentence_id,": "248828199e"
+    }, 
+    {
+        "sentence": "The Defense Department has developed mature red team capabilities to test vital networks and mission systems for vulnerabilities and to better 21 The Department of Defense Cyber Strategy prepare its cyber defense forces.", 
+        "sentence_id,": "cdde7027d8"
+    }, 
+    {
+        "sentence": "Going forward, DoD must focus its red team capabilities on priority networks and mission systems to assure DoDs ability to carry out its most critical missions.", 
+        "sentence_id,": "bcda43dbd0"
+    }, 
+    {
+        "sentence": "As a part of this work, every major DoD exercise should include a cyber red team to test DoD's cyber defenses in a realistic scenario where the Department could have its operations disrupted by an adversary.", 
+        "sentence_id,": "b053d698b6"
+    }, 
+    {
+        "sentence": "Components will be audited regularly to ensure progress in incorporating red team findings and improving their cybersecurity posture.", 
+        "sentence_id,": "4ab25391a6"
+    }, 
+    {
+        "sentence": "Mitigate the risk of insider threats.", 
+        "sentence_id,": "7fc6e7d391"
+    }, 
+    {
+        "sentence": "The nation's defense depends upon the fidelity of those entrusted with the nation's secrets.", 
+        "sentence_id,": "ddabe5ecbf"
+    }, 
+    {
+        "sentence": "The Defense Department has invested in the technological and personnel solutions necessary to identify threats before they can impact U.S. national security.", 
+        "sentence_id,": "a2deb9c54d"
+    }, 
+    {
+        "sentence": "The Defense Department continues to deploy and implement these solutions through continuous network monitoring, improved cybersecurity training for the workforce, and improved methods for identifying, reporting, and tracking suspicious behavior.", 
+        "sentence_id,": "893f54868b"
+    }, 
+    {
+        "sentence": "o This work extends beyond information technology and includes matters of personnel and reliability.", 
+        "sentence_id,": "0b567361ba"
+    }, 
+    {
+        "sentence": "Mitigating the insider threat requires good leadership and accountability throughout the workforce.", 
+        "sentence_id,": "1a3b1d590b"
+    }, 
+    {
+        "sentence": "Beyond implementing policies and protocols, leaders will strive to create a culture of awareness to anticipate, detect, and respond to insider threats before they have an impact.", 
+        "sentence_id,": "6ae8c67c9e"
+    }, 
+    {
+        "sentence": "Exercise to provide Defense Support of Civil Authorities.", 
+        "sentence_id,": "d9974f7392"
+    }, 
+    {
+        "sentence": "Under its existing and planned force structure, DoD will develop a framework and exercise its Defense Support of Civil Authorities (DSCA) capabilities in support of DHS and other agencies and with state and local authorities to help defend the federal government and the private sector in an emergency if directed.", 
+        "sentence_id,": "13a4db4934"
+    }, 
+    {
+        "sentence": "o DoDs annual exercise program, to include Cyber Guard, will include exercising with DHS and the FBI for contingencies that may require emergency allocation of forces to help protect critical infrastructure, under partner agencies lead.", 
+        "sentence_id,": "4763ad980d"
+    }, 
+    {
+        "sentence": "This framework will describe how combatant commands and combat support agencies can partner with DHS and FBI and other agencies to improve integration, training and support.", 
+        "sentence_id,": "6af862922c"
+    }, 
+    {
+        "sentence": "Members of the Ohio National Guard Computer Network Defense Team conduct cyber defense operations during exercise Cyber Shield 2015 at Camp Atterbury, IN.", 
+        "sentence_id,": "7d15418f7b"
+    }, 
+    {
+        "sentence": "(Ohio National Guard photo by Staff Sgt.", 
+        "sentence_id,": "9d7d69cb74"
+    }, 
+    {
+        "sentence": "George Davis) Define and refine the National Guards role in supporting law enforcement, Homeland Defense, and Defense Support of Civil Authorities missions.", 
+        "sentence_id,": "ce8dfb9ffd"
+    }, 
+    {
+        "sentence": "Under its existing and planned force structure, 22 The Department of Defense Cyber Strategy National Guard forces will exercise to coordinate, train, advise, and assist state and local agencies and domestic critical infrastructure and to provide support to law enforcement, Homeland Defense, and Defense Support of Civil Authorities activities in support of national objectives.", 
+        "sentence_id,": "7191e2a669"
+    }, 
+    {
+        "sentence": "Improve accountability and responsibility for the protection of data across DoD and the DIB.", 
+        "sentence_id,": "2fb09c6299"
+    }, 
+    {
+        "sentence": "The Defense Department will ensure that policies and any associated federal rules or contract language requirements have been implemented to require DIB companies to report data theft and loss to the Defense Cyber Crime Center.", 
+        "sentence_id,": "3397398237"
+    }, 
+    {
+        "sentence": "o DoD will continue to assess Defense Federal Acquisition Regulation Supplement (DFARS) rules and associated guidance to ensure they mature over time in a manner consistent with known standards for protecting data from cyber adversaries, to include standards promulgated by the National Institute of Standards and Technology (NIST).", 
+        "sentence_id,": "2d579cd897"
+    }, 
+    {
+        "sentence": "o DoD will continue to expand companies' participation in threat information sharing programs, such as the Cyber Security/Information Assurance program.", 
+        "sentence_id,": "e6f49c07be"
+    }, 
+    {
+        "sentence": "o As the certification authority for DIB cleared defense contractor sites, the Defense Security Service will expand education and training programs to include material for DoD personnel and DIB contractors to enhance their cyber threat awareness.", 
+        "sentence_id,": "887e87573a"
+    }, 
+    {
+        "sentence": "o In addition, the Office of the Under Secretary of Defense for Intelligence will review the sufficiency of current classification guidance for critical acquisition and technology programs to protect information on contractor networks.", 
+        "sentence_id,": "0c16496a4d"
+    }, 
+    {
+        "sentence": "Strengthen DoDs procurement and acquisition cybersecurity standards.", 
+        "sentence_id,": "fd7b3668f3"
+    }, 
+    {
+        "sentence": "To defend DoD networks, DoD must strengthen the cybersecurity requirements of DoDs network acquisition and procurement items by integrating cybersecurity standards into contract vehicles for research, development, and procurement.", 
+        "sentence_id,": "ed5a6d3fc3"
+    }, 
+    {
+        "sentence": "DoD will specify additional cybersecurity standards for industry to meet for components of any DoD procurement item.", 
+        "sentence_id,": "ade9beeedb"
+    }, 
+    {
+        "sentence": "Build collaboration between the acquisition, intelligence, counterintelligence, law enforcement, and operations communities to prevent, mitigate, and respond to data loss.", 
+        "sentence_id,": "86bbc1401c"
+    }, 
+    {
+        "sentence": "DoD will establish a Joint Acquisition Protection and Exploitation Cell (JAPEC) to link intelligence, counterintelligence, and law enforcement agents with acquisition program managers to prevent and mitigate data loss and theft.", 
+        "sentence_id,": "5ba6aeaeec"
+    }, 
+    {
+        "sentence": "DoD will conduct comprehensive risk and damage assessments of cyber espionage and theft to inform requirements, acquisition, programmatic, and counterintelligence courses of action.", 
+        "sentence_id,": "c2e402e362"
+    }, 
+    {
+        "sentence": "o The DoD CIO, in collaboration with the Office of the Under Secretary of Defense for Acquisition, Technology, and Logistics, will assess and update specific information system security controls that underpin the DFARs for defense contractors within the NIST and DFARS standards.", 
+        "sentence_id,": "161af373e3"
+    }, 
+    {
+        "sentence": "23 The Department of Defense Cyber Strategy o To safeguard critical programs and technologies DoD will work with companies to develop alert capabilities and build layered cyber defenses.", 
+        "sentence_id,": "1607d689c0"
+    }, 
+    {
+        "sentence": "o Finally, the Defense Cyber Crime Center, the Principal Cyber Advisor to the Secretary of Defense, and the Office of the Under Secretary of Defense for Acquisition, Technology, and Logistics will collaborate with the Services' Damage Assessment Management Offices to streamline risk and damage assessment processes to better inform decisions to maintain, modify, or cancel penetrated programs.", 
+        "sentence_id,": "8384008a2a"
+    }, 
+    {
+        "sentence": "Use DoD counterintelligence capabilities to defend against intrusions.", 
+        "sentence_id,": "14640afd2e"
+    }, 
+    {
+        "sentence": "The Military Departments and the Under Secretary of Defense for Intelligence, in consultation with the Principal Cyber Advisor, will develop a strategy for the Secretary of Defenses approval that maximizes the capabilities and authorities of the military departments counterintelligence agencies to identify, attribute, and defend against cyber intruders.", 
+        "sentence_id,": "e732c131c0"
+    }, 
+    {
+        "sentence": "o Counterintelligence authorities are uniquely positioned to improve our insight into and frustrate and defeat cyber espionage.", 
+        "sentence_id,": "b7c8696668"
+    }, 
+    {
+        "sentence": "The strategy will specify how DoDs counterintelligence agencies will collaborate more effectively with the broader U.S. intelligence and law enforcement communities on investigations and human and technical operations to thwart cyber-enabled intellectual property theft against the United States and its allies and partners.", 
+        "sentence_id,": "63a8d625dd"
+    }, 
+    {
+        "sentence": "Support whole-of-government policies and capabilities to counter intellectual property theft.", 
+        "sentence_id,": "38c08c9b3b"
+    }, 
+    {
+        "sentence": "The Defense Department will continue to work with other agencies of the U.S. government to counter the threat posed by intellectual property theft through cyberspace.", 
+        "sentence_id,": "cb56d69db5"
+    }, 
+    {
+        "sentence": "STRATEGIC GOAL III: BE PREPARED TO DEFEND THE U.S.", 
+        "sentence_id,": "dbb8774db5"
+    }, 
+    {
+        "sentence": "HOMELAND AND U.S. VITAL INTERESTS FROM DISRUPTIVE OR DESTRUCTIVE CYBERATTACKS OF SIGNIFICANT CONSEQUENCE.", 
+        "sentence_id,": "64c165495f"
+    }, 
+    {
+        "sentence": "Continue to develop intelligence and warning capabilities to anticipate threats.", 
+        "sentence_id,": "852821d6db"
+    }, 
+    {
+        "sentence": "To defend the nation against cyberattacks of significant consequence, DoD will work with the broader intelligence community to develop intelligence capabilities about adversary activities and prepare to disrupt cyberattacks before they can impact the U.S. homeland and U.S. interests.", 
+        "sentence_id,": "1fd185ce71"
+    }, 
+    {
+        "sentence": "To meet combatant command contingency requirements, DoD will expand its intelligence of key adversary human and technical networks.", 
+        "sentence_id,": "558decf291"
+    }, 
+    {
+        "sentence": "To operate effectively in cyberspace DoD requires cyber intelligence and warning and shared situational awareness through all phases of a potential operation.", 
+        "sentence_id,": "46ac7eb90e"
+    }, 
+    {
+        "sentence": "All intelligence collection will follow the law and guidance outlined in executive orders.", 
+        "sentence_id,": "fb2d4e7b6e"
+    }, 
+    {
+        "sentence": "Develop and exercise capabilities to defend the nation.", 
+        "sentence_id,": "4233321755"
+    }, 
+    {
+        "sentence": "The National Mission Force and other relevant DoD components will train and partner with key interagency organizations 24 The Department of Defense Cyber Strategy to prepare to conduct cyber operations to defend the nation from cyberattacks of significant consequence.", 
+        "sentence_id,": "3d72690623"
+    }, 
+    {
+        "sentence": "In addition, DoD will practice emergency procedures through regular exercises at all levels of the Department and support interagency exercises to practice emergency and deliberate cyber action procedures.", 
+        "sentence_id,": "e7d3bd6740"
+    }, 
+    {
+        "sentence": "o Build partnerships to defend the nation.", 
+        "sentence_id,": "70a9d12ece"
+    }, 
+    {
+        "sentence": "DoD will have a framework in place to cooperate with other government agencies to conduct defend the nation operations.", 
+        "sentence_id,": "dba9a7c9b8"
+    }, 
+    {
+        "sentence": "DoD will work with FBI, CIA, DHS and other agencies to build relationships and integrate capabilities to provide the President with the widest range of options available to respond to a cyberattack of significant consequence to the United States.", 
+        "sentence_id,": "760da604eb"
+    }, 
+    {
+        "sentence": "o Conduct an annual comprehensive review of DoDs defend the nation The Defense Advanced Research Projects Agency (DARPA) Plan X capabilities.", 
+        "sentence_id,": "4065f5319f"
+    }, 
+    {
+        "sentence": "The Defense Departments program is a foundational cyber warfare program that is developing requirements and capabilities for its platforms for the Defense Department.", 
+        "sentence_id,": "ace108a713"
+    }, 
+    {
+        "sentence": "DARPA uses advanced touch-table displays to use finger gestures and motions to advance the state of the art mission to defend the nation against in cyber operations.", 
+        "sentence_id,": "628a48ecf9"
+    }, 
+    {
+        "sentence": "(Photo courtesy of DARPA) cyberattacks of significant consequence will evolve over time.", 
+        "sentence_id,": "ec2ff7acfb"
+    }, 
+    {
+        "sentence": "On an annual basis, DoD will conduct an in-depth review of the capabilities available and required for the mission.", 
+        "sentence_id,": "9d3e68581d"
+    }, 
+    {
+        "sentence": "As a part of this review, DoD will validate new requirements and identify gaps and initiatives to pursue.", 
+        "sentence_id,": "0f88d5ab8d"
+    }, 
+    {
+        "sentence": "Develop innovative approaches to defending U.S. critical infrastructure.", 
+        "sentence_id,": "dfe9ca7228"
+    }, 
+    {
+        "sentence": "DoD will work with DHS to improve the Enhanced Cybersecurity Services program and encourage additional critical infrastructure entities to participate, with a particular emphasis on increasing the number of defense critical infrastructure participants.", 
+        "sentence_id,": "9a3a9967cd"
+    }, 
+    {
+        "sentence": "Develop automated information sharing tools.", 
+        "sentence_id,": "9f06c8c785"
+    }, 
+    {
+        "sentence": "To improve shared situational awareness DoD will partner with DHS and other agencies to develop continuous, automated, standardized mechanisms for sharing information with each of its critical partners in the U.S. government, key allied and partner militaries, state and local governments, and the private sector.", 
+        "sentence_id,": "e16bc5f529"
+    }, 
+    {
+        "sentence": "In addition, DoD will work with other U.S. government agencies and Congress to support legislation that enables information sharing between the U.S. government and the private sector.", 
+        "sentence_id,": "aa95f3ed65"
+    }, 
+    {
+        "sentence": "Assess DoDs cyber deterrence posture and strategy.", 
+        "sentence_id,": "997fefd415"
+    }, 
+    {
+        "sentence": "Building off of the Defense Science Boards Task Force on Cyber Deterrence, U.S. Strategic Command (USSTRATCOM), in coordination with the Joint Staff and the Office of the Secretary of Defense, will assess the Department of Defenses ability to deter specific state and non-state actors from conducting cyberattacks of significant consequence on the U.S. homeland and against U.S. interests, to 25 The Department of Defense Cyber Strategy include loss of life, significant destruction of property, or significant impact on U.S. foreign and economic policy interests.", 
+        "sentence_id,": "6f3f501288"
+    }, 
+    {
+        "sentence": "o In conducting its analysis, USSTRATCOM must determine whether DoD is building the capabilities required for attributing and deterring key threats from conducting such attacks and recommend specific actions that DoD can take to improve its cyber deterrence posture.", 
+        "sentence_id,": "976af9c1b0"
+    }, 
+    {
+        "sentence": "Careful attention should be devoted also to deterring non-state actors that may fall outside of traditional deterrence frameworks but which could pose a considerable threat to U.S. interests.", 
+        "sentence_id,": "2f3a85f942"
+    }, 
+    {
+        "sentence": "STRATEGIC GOAL IV: BUILD AND MAINTAIN VIABLE CYBER OPTIONS AND PLAN TO USE THOSE OPTIONS TO CONTROL CONFLICT ESCALATION AND TO SHAPE THE CONFLICT ENVIRONMENT AT ALL STAGES.", 
+        "sentence_id,": "25931941e6"
+    }, 
+    {
+        "sentence": "Integrate cyber options into plans.", 
+        "sentence_id,": "85857e649f"
+    }, 
+    {
+        "sentence": "To meet strategic end-states as defined by the Guidance for the Employment of the Force, combatant command plans, and other strategic guidance documents, DoD will work with agencies of the U.S. government as well as U.S. allies and partners to integrate cyber options into combatant command planning.", 
+        "sentence_id,": "d78556bbc0"
+    }, 
+    {
+        "sentence": "o Accelerate the integration of cyber requirements into plans.", 
+        "sentence_id,": "e48b8cee4e"
+    }, 
+    {
+        "sentence": "The Defense Department will accelerate the integration of cyber requirements into combatant command plans.", 
+        "sentence_id,": "a27076eff2"
+    }, 
+    {
+        "sentence": "Plans must outline and define specific cyberspace effects against targets.", 
+        "sentence_id,": "26b93fe316"
+    }, 
+    {
+        "sentence": "To facilitate this work, the Joint Staff will work with USSTRATCOM to synchronize and integrate requirements into planning and provide recommendations to the Chairman of the Joint Chiefs of Staff on the alignment, allocation, assignment, and apportionment of Cyber Mission Forces.", 
+        "sentence_id,": "7f59cfa9df"
+    }, 
+    {
+        "sentence": "STRATEGIC GOAL V: BUILD AND MAINTAIN ROBUST INTERNATIONAL ALLIANCES AND PARTNERSHIPS TO DETER SHARED THREATS AND INCREASE INTERNATIONAL SECURITY AND STABILITY.", 
+        "sentence_id,": "47b6604cdd"
+    }, 
+    {
+        "sentence": "Build partner capacity in key regions.", 
+        "sentence_id,": "55a306c9fa"
+    }, 
+    {
+        "sentence": "Under its existing and planned force structure, DoD will work with key allies and partners to build partner capacity and help secure the critical infrastructure and key resources on which DoD missions and U.S. interests depend.", 
+        "sentence_id,": "019b30cd49"
+    }, 
+    {
+        "sentence": "The Defense Department will work regularly with other agencies of the U.S. government, to include the Department of State, in building partner capacity.", 
+        "sentence_id,": "160aeaeb41"
+    }, 
+    {
+        "sentence": "Priority regions include the Middle East, Asia-Pacific, and Europe.", 
+        "sentence_id,": "7c18dabfd0"
+    }, 
+    {
+        "sentence": "o Support the hardening and resiliency of Middle Eastern allies and partners networks and systems.", 
+        "sentence_id,": "83f7ebb562"
+    }, 
+    {
+        "sentence": "As a part of its cyber dialogue and partnerships, DoD will work with key Middle Eastern allies and partners to improve their ability to secure their military networks as well as the critical infrastructure and key resources upon which U.S. interests depend.", 
+        "sentence_id,": "a88b7ffd70"
+    }, 
+    {
+        "sentence": "Key initiatives include improved information sharing to establish a 26 The Department of Defense Cyber Strategy unified understanding of the cyber threat, an assessment of our mutual cyber defense posture, and collaborative approaches to building cyber expertise.", 
+        "sentence_id,": "fd473b7336"
+    }, 
+    {
+        "sentence": "o Support the hardening and resiliency of Northeast Asian allies networks and systems.", 
+        "sentence_id,": "1bd7c0b1c8"
+    }, 
+    {
+        "sentence": "As a part of its broader cyber dialogue with Asian allies, DoD will work with key allies and partners to improve their ability to secure their military networks and critical infrastructure and key resources upon which U.S. and allied interests depend.", 
+        "sentence_id,": "52179b7713"
+    }, 
+    {
+        "sentence": "o Build new strategic partnerships in the Asia-Pacific region.", 
+        "sentence_id,": "24333b27e0"
+    }, 
+    {
+        "sentence": "The Defense Department will work with key states across the Asia-Pacific to build cyber capacity and minimize risk to U.S. and allied interests, in a manner consistent with DoDs International Cyberspace Security Cooperation Guidance.", 
+        "sentence_id,": "b1d107c180"
+    }, 
+    {
+        "sentence": "(Photo by Petty Officer 2nd Class David A. Brandenburg, U.S.", 
+        "sentence_id,": "c087ddf7ed"
+    }, 
+    {
+        "sentence": "o Work with key NATO allies to mitigate cyber risks to DoD and U.S. national interests.", 
+        "sentence_id,": "f9d0679324"
+    }, 
+    {
+        "sentence": "The Defense Department will develop these partnerships through the defense consultations that DoD holds with its key NATO allies.", 
+        "sentence_id,": "14410e114b"
+    }, 
+    {
+        "sentence": "o DoD will remain flexible and agile as it builds alliances and partnerships to best respond to shifts in the strategic environment.", 
+        "sentence_id,": "6a068214a7"
+    }, 
+    {
+        "sentence": "Develop solutions to counter the proliferation of destructive malware.", 
+        "sentence_id,": "5f96e38603"
+    }, 
+    {
+        "sentence": "State and non-state actors seek to acquire destructive malware.", 
+        "sentence_id,": "a571265266"
+    }, 
+    {
+        "sentence": "The uncontrolled spread of destructive malware to hostile actors presents a significant risk to the international system.", 
+        "sentence_id,": "fd58e5123c"
+    }, 
+    {
+        "sentence": "Working with the Department of State and other agencies of the U.S. government as well as U.S. allies and partners, the Defense Department will draw on best-practices to counter the proliferation of destructive malware within the international system.", 
+        "sentence_id,": "18ceb1b7d9"
+    }, 
+    {
+        "sentence": "In addition to international regimes and best-practices, the U.S. government has a range of domestic export control regimes for governing dual-use technologies that can be used to prevent proliferation.", 
+        "sentence_id,": "93a2d9b0bd"
+    }, 
+    {
+        "sentence": "Work with capable international partners to plan and train for cyber operations.", 
+        "sentence_id,": "06814bddfc"
+    }, 
+    {
+        "sentence": "Throughout the course of this strategy, DoD will strengthen its international alliances and partnerships to develop combined capabilities to achieve cyber effects in support of combatant command plans.", 
+        "sentence_id,": "a5661ad30f"
+    }, 
+    {
+        "sentence": "27 The Department of Defense Cyber Strategy Strengthen the United States cyber dialogue with China to enhance strategic stability.", 
+        "sentence_id,": "4387a3574a"
+    }, 
+    {
+        "sentence": "Through the course of this strategy, as part of the U.S.-China Defense Consultative Talks and related dialogues, such as the Cyber Working Group, DoD will continue to hold discussions with China to bring greater understanding and transparency of each nations military doctrine, policy, roles and missions in cyberspace.", 
+        "sentence_id,": "57e0fbe166"
+    }, 
+    {
+        "sentence": "The goal of this work is to reduce the risks of misperception and miscalculation that could contribute to escalation and instability.", 
+        "sentence_id,": "4c352b2f59"
+    }, 
+    {
+        "sentence": "DoD will support U.S. government efforts to strengthen confidence-building measures to bring a greater level of trust to the U.S.-China relationship.", 
+        "sentence_id,": "9eb6030b5c"
+    }, 
+    {
+        "sentence": "In addition, DoD will continue to raise concerns about Chinas cyber enabled theft of U.S. intellectual property, trade secrets, and confidential business information.1 If and when U.S.-Russia military relations resume, as a part of broader interagency efforts DoD will seek to develop a military-to-military cyber dialogue with Russia to foster strategic stability in cyberspace.", 
+        "sentence_id,": "f62bea7336"
+    }, 
+    {
+        "sentence": "1 28 The Department of Defense Cyber Strategy V. MANAGING THE STRATEGY To achieve the goals and objectives outlined in this strategy will require hard choices regarding cyber forces and personnel, organizations, and capabilities.", 
+        "sentence_id,": "7826ac2b00"
+    }, 
+    {
+        "sentence": "The financial choices that DoD makes in the course of implementing this strategy will have national and global implications for years to come, and DoD must operate in an effective and cost-efficient manner to guarantee the best return on its investments.", 
+        "sentence_id,": "ada196e595"
+    }, 
+    {
+        "sentence": "To that end, DoD will pursue the following management objectives to govern its cyber activities and missions.", 
+        "sentence_id,": "5e24b5e4d4"
+    }, 
+    {
+        "sentence": "Establish the Office of the Principal Cyber Advisor to the Secretary of Defense.", 
+        "sentence_id,": "f27ad0293c"
+    }, 
+    {
+        "sentence": "In the National Defense Authorization Act (NDAA) of 2014, Congress required the Defense Department to designate a Principal Cyber Advisor to the Secretary of Defense to review military cyberspace activities, cyber mission forces, and offensive and defensive cyber operations and missions.", 
+        "sentence_id,": "e32ca959c7"
+    }, 
+    {
+        "sentence": "In addition, the Principal Cyber Advisor will govern the development of DoD cyberspace policy and strategy for the DoD enterprise.", 
+        "sentence_id,": "806b518427"
+    }, 
+    {
+        "sentence": "o The 2014 NDAA also stipulated that this Principal Cyber Advisor integrate the cyber expertise and perspectives of key organizations to build an intradepartmental team of key players to ensure effective governance of cyber issues within DoD.", 
+        "sentence_id,": "2ffd03ed8f"
+    }, 
+    {
+        "sentence": "The Principal Cyber Advisor responsibilities assigned by the FY14 NDAA shall not be interpreted to affect the existing responsibilities and authorities of the Under Secretary of Defense for Acquisition, Technology, and Logistics; the Under Secretary of Defense for Policy; the Under Secretary of Defense for Intelligence; the Under Secretary of Defense for Personnel and Readiness; or any other Principal Staff Assistant (PSA) in the office of the Secretary of Defense in cyber-related responsibilities and authorities.", 
+        "sentence_id,": "747a59b8de"
+    }, 
+    {
+        "sentence": "o An intradepartmental team.", 
+        "sentence_id,": "f1b9be560b"
+    }, 
+    {
+        "sentence": "The Principal Cyber Advisor will work with DoD components through the Cyber Investment and Management Board (CIMB) to review DoDs cyber management.", 
+        "sentence_id,": "024066dda8"
+    }, 
+    {
+        "sentence": "The CIMB will be a forum for synchronization, coordination, and project management.", 
+        "sentence_id,": "dce2a94d2b"
+    }, 
+    {
+        "sentence": "It will not replicate existing programmatic and budgetary mechanisms or interfere with previously defined Principal Staff Assistant roles and authorities, nor will it interfere in any way with the military chain of command; rather, it will provide a single forum to integrate cyber initiatives, it will manage projects through 29 The Department of Defense Cyber Strategy completion, and streamline DoDs cyber governance structures.", 
+        "sentence_id,": "451f37a33e"
+    }, 
+    {
+        "sentence": "The PCA will work with the Office of the Under Secretary of Defense for Acquisition, Technology, and Logistics and the Joint Staff to build an intradepartmental team of DoD representatives to support the CIMB in this work.", 
+        "sentence_id,": "4ae1e312e2"
+    }, 
+    {
+        "sentence": "o A senior executive forum.", 
+        "sentence_id,": "10548a1637"
+    }, 
+    {
+        "sentence": "Subordinate and reporting to the CIMB, a senior executive forum will provide initial senior-level coordination on key cyber issues.", 
+        "sentence_id,": "30ac41f76e"
+    }, 
+    {
+        "sentence": "The senior executive forum will recommend courses of action to the CIMB and will coordinate with other OSD and Joint Staff governance bodies to facilitate unity of effort and resolve management issues at appropriate levels.", 
+        "sentence_id,": "ec98d89a78"
+    }, 
+    {
+        "sentence": "o If and when a budgetary or financial matter comes into play during the Program and Budget Review process, the Principal Cyber Advisor will use the senior executive forum and the CIMB to coordinate recommendations for the Deputys Management Action Group or other financial and budgetary organizations, vetting options and alternatives through the issue teams as appropriate.", 
+        "sentence_id,": "3a687650a9"
+    }, 
+    {
+        "sentence": "Improve cyber budgetary management.", 
+        "sentence_id,": "ba9dfa89b7"
+    }, 
+    {
+        "sentence": "DoD will develop an agreed-upon method to more transparently and effectively manage the DoD cyber operations budget.", 
+        "sentence_id,": "de22fd0e82"
+    }, 
+    {
+        "sentence": "Today cyber funding is spread across the DoD budget, to include the Military Intelligence Program (MIP), in multiple appropriations, budget lines, program elements, and projects.", 
+        "sentence_id,": "85cdf56b5a"
+    }, 
+    {
+        "sentence": "In addition, the Under Secretary of Defense for Intelligence, on behalf of DoD, ensures that all National Intelligence Program (NIP) investments are aligned to support DoD missions.", 
+        "sentence_id,": "e8e11a5be8"
+    }, 
+    {
+        "sentence": "The diffuse nature of the DoD cyber budget presents DoD with a challenge for effective budgetary management; DoD must develop a new method for managing cross-program funding to improve mission effectiveness and achieve management efficiencies.", 
+        "sentence_id,": "36c36178e6"
+    }, 
+    {
+        "sentence": "Sailors conduct an exercise at Fleet Cyber Command's headquarters in the Frank B. Rowlett Building, Fort George G. Meade, MD.", 
+        "sentence_id,": "3aad69a13d"
+    }, 
+    {
+        "sentence": "This exercise features members of Fleet Cyber Command's Joint Force Headquarters-Cyber (JFHQ-C).", 
+        "sentence_id,": "0d014aede0"
+    }, 
+    {
+        "sentence": "Develop DoDs cyber operations and cybersecurity policy framework.", 
+        "sentence_id,": "f48f3264ce"
+    }, 
+    {
+        "sentence": "Consistent with Presidential guidance, DoD will align and simplify its cyber operations and cybersecurity policy management and identified gaps, overlaps, seams, conflicts, and areas in need of revision in current documentation.", 
+        "sentence_id,": "562982cd66"
+    }, 
+    {
+        "sentence": "This effort will help translate national and departmental guidance and policy into tactical operations.", 
+        "sentence_id,": "4566ae69ac"
+    }, 
+    {
+        "sentence": "It is essential to clarifying conflicts in existing documentation that currently complicate cyber operations and cybersecurity governance.", 
+        "sentence_id,": "84336fc801"
+    }, 
+    {
+        "sentence": "Conduct an end-to-end assessment of DoDs cyber capabilities.", 
+        "sentence_id,": "66d48ce813"
+    }, 
+    {
+        "sentence": "U.S. Cyber Command will lead a comprehensive operational assessment of its posture.", 
+        "sentence_id,": "242bfb4c47"
+    }, 
+    {
+        "sentence": "In coordination with the Principal Cyber Advisor to the Secretary of Defense, the Office of the Under Secretary of Defense for Acquisition, Technology, and Logistics, and the Office of the Director of Coast Assessment and Program Evaluation, USCYBERCOM will provide short- and long-term recommendations through the CIMB to provide to the Secretary of 30 The Department of Defense Cyber Strategy Defense regarding organizational structure, command and control mechanism, rules of engagement, personnel, capabilities, tools, and potential operational gaps.", 
+        "sentence_id,": "0ca672f80b"
+    }, 
+    {
+        "sentence": "The goal of this posture assessment will be to provide a clear understanding of the future operational environment; key stakeholder views; as well as strategic priorities, choices, and resources for planning and operations.", 
+        "sentence_id,": "40c03122e9"
+    }, 
+    {
+        "sentence": "31 The Department of Defense Cyber Strategy THIS PAGE LEFT INTENTIONALLY BLANK 32 The Department of Defense Cyber Strategy CONCLUSION We live in a time of growing cyber threats to U.S. interests.", 
+        "sentence_id,": "eab949e4d1"
+    }, 
+    {
+        "sentence": "State and non-state actors threaten disruptive and destructive attacks against the United States and conduct cyber-enabled theft of intellectual property to undercut the United States technological and military advantage.", 
+        "sentence_id,": "d61116ae61"
+    }, 
+    {
+        "sentence": "We are vulnerable in cyberspace, and the scale of the cyber threat requires urgent action by leaders and organizations across the government and the private sector.", 
+        "sentence_id,": "c7ba76d3cd"
+    }, 
+    {
+        "sentence": "Since developing its first cyber strategy in 2011, the Defense Department has made significant progress in building its cyber capabilities, developing its organizations and plans, and fostering the partnerships necessary to defend the country and its interests.", 
+        "sentence_id,": "626b11fbb6"
+    }, 
+    {
+        "sentence": "Stemming from the goals and objectives outlined in this strategy, appropriate resources must be aligned and managed to ensure progress.", 
+        "sentence_id,": "bdb3ceeb30"
+    }, 
+    {
+        "sentence": "This strategy presents an aggressive, specific plan for achieving change.", 
+        "sentence_id,": "a0362fb6cf"
+    }, 
+    {
+        "sentence": "For DoD to succeed in its mission of defending the United States and its interests in cyberspace, leaders from across the Department must take action to achieve the objectives outlined in this document.", 
+        "sentence_id,": "374b25eb69"
+    }, 
+    {
+        "sentence": "They must also hold their organizations accountable.", 
+        "sentence_id,": "d3ed05f4d8"
+    }, 
+    {
+        "sentence": "Because of the nature of networks and computer code, no single organization can be relied upon to do this work.", 
+        "sentence_id,": "c8b99dfff5"
+    }, 
+    {
+        "sentence": "Success requires close collaboration across DoD, between agencies of the U.S. government, with the private sector, and with U.S. allies and partners.", 
+        "sentence_id,": "4b2013ec75"
+    }, 
+    {
+        "sentence": "The strategic environment can change quickly.", 
+        "sentence_id,": "a259e828a7"
+    }, 
+    {
+        "sentence": "That is especially true in cyberspace.", 
+        "sentence_id,": "443b4e0096"
+    }, 
+    {
+        "sentence": "We must be dynamic, flexible, and agile in this work.", 
+        "sentence_id,": "19472f690d"
+    }, 
+    {
+        "sentence": "We must anticipate emerging threats, identify new capabilities to build, and determine how to enhance our partnerships and planning.", 
+        "sentence_id,": "6935dc78b1"
+    }, 
+    {
+        "sentence": "As always, our women and men both uniformed and civilian personnel will be our greatest and most enduring strength and a constant source of inspiration.", 
+        "sentence_id,": "18ba74300e"
+    }, 
+    {
+        "sentence": "By working together we will help protect and defend the United States and its interests in the digital age.", 
+        "sentence_id,": "84ce2cc62d"
+    }
+]

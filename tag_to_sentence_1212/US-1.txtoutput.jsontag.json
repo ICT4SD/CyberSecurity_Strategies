@@ -1,0 +1,896 @@
+[
+    {
+        "sentence_id,": "7cfb1169d1", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The policy of the United States is to protect against the debilitating disruption of the operation of information systems for critical infrastructures and, thereby, help to protect the people, economy, and national security of the United States."
+    }, 
+    {
+        "sentence_id,": "64b9caf97b", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": ".5 National Policy and Guiding Principles ."
+    }, 
+    {
+        "sentence_id,": "fe34ef981e", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "This standard is especially important in cases where there are viable private sector solutions for addressing any potential threat or vulnerability."
+    }, 
+    {
+        "sentence_id,": "e90dd26d65", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "A lack of trained personnel and the absence of widely accepted, multi-level certification programs for cybersecurity professionals complicate the task of addressing cyber vulnerabilities."
+    }, 
+    {
+        "sentence_id,": "c232b3bf1f", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "Promote private-sector support for well-coordinated, widely recognized professional cybersecurity certifications."
+    }, 
+    {
+        "sentence_id,": "a52d06526c", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Enabling our ability to do so requires a system of international cooperation to facilitate information sharing, reduce vulnerabilities, and deter malicious actors."
+    }, 
+    {
+        "sentence_id,": "78f5901187", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "(See, National Policy and Guiding Principles.)"
+    }, 
+    {
+        "sentence_id,": "657821f47f", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "A lack of trained personnel and the absence of widely accepted, multi-level certifications for personnel further complicate the task of reducing vulnerabilities."
+    }, 
+    {
+        "sentence_id,": "4e96b833ca", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "It will further address shortfalls in the numbers of trained and certified cybersecurity personnel."
+    }, 
+    {
+        "sentence_id,": "d3168b60d8", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Facilitating our ability to do so requires a system of international cooperation to enable the information sharing, reduce vulnerabilities, and deter malicious actors."
+    }, 
+    {
+        "sentence_id,": "44508a1744", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Enterprises require clearly articulated, active T H E N AT I O N A L S T R AT E G Y T O S E C U R E C Y B E R S PA C E 7 C Y B E R S P A C E T H R E A T S information security policies and programs to audit compliance with cybersecurity best practices."
+    }, 
+    {
+        "sentence_id,": "42232f94e6", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "Enterprises can also reduce cyber risks by participating in groups that develop best practices, evaluate technological offerings, certify products and services, and share information."
+    }, 
+    {
+        "sentence_id,": "d67670aa3d", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "Additionally, the lack of trained and certified cybersecurity professionals also merits nationallevel concern."
+    }, 
+    {
+        "sentence_id,": "57d17d50eb", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Internationally shared standards enable interoperability among the worlds computer systems."
+    }, 
+    {
+        "sentence_id,": "8ec9dc3b32", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "We therefore rely on international cooperation to share information related to cyber issues and, further, to prosecute cyber criminals."
+    }, 
+    {
+        "sentence_id,": "7ae3b98fbd", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "T H E N A T I O N A L S T R A T E G Y T O S E C U R E C Y B E R S P A C E 11 C Y B E R S P A C E T H R E A T S A N D 12 T H E N A T I O N A L S T R A T E G Y T O S E C U R E C Y B E R S P A C E V U L N E R A B I L I T I E S N A T I O N A L P O L I C Y A N D G U I D I N G P R I N C I P L E S National Policy and Guiding Principles National Policy, Principles, and Organization This section describes the national policy that shapes the National Strategy to Secure Cyberspace and the basic framework of principles within which it was developed."
+    }, 
+    {
+        "sentence_id,": "1c4b422529", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "National Policy The information technology revolution has changed the way business is transacted, government operates, and national defense is conducted."
+    }, 
+    {
+        "sentence_id,": "a6332b2880", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "It is the policy of the United States to prevent or minimize disruptions to critical information infrastructures and thereby protect the people, the economy, the essential human and government services, and the national security of the United States."
+    }, 
+    {
+        "sentence_id,": "15cc8061cd", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The policy requires a continuous effort to secure information systems for critical infrastructure and includes voluntary public-private partnerships involving corporate and nongovernmental organizations."
+    }, 
+    {
+        "sentence_id,": "0438213e97", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The federal government will lead by example in implementing strong privacy policies and practices in the agencies."
+    }, 
+    {
+        "sentence_id,": "2d63c2a653", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "In addition, the Office of Science and Technology Policy (OSTP) coordinates research and development to support critical infrastructure protection."
+    }, 
+    {
+        "sentence_id,": "12fc988c02", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The Office of Management and Budget (OMB) oversees the implementation of governmentwide policies, principles, standards, and guidelines for federal government computer security programs."
+    }, 
+    {
+        "sentence_id,": "0884d03c15", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Within the White House a number offices have responsibilities, including the Office of Science and Technology Policy, which is responsible for executing emergency telecommunications authorities, the National Security Council, which coordinates all matters related to national security and international cooperation, and the Office of Management and Budget."
+    }, 
+    {
+        "sentence_id,": "d818914ca4", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "It allows routing information to be exchanged between networks that may have separate administrators, administrative policies, or protocols."
+    }, 
+    {
+        "sentence_id,": "7cf3c953ae", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "For operators of DCS/SCADA systems, these efforts should include developing and deploying training and certification of DCS/SCADA-oriented software and hardware security."
+    }, 
+    {
+        "sentence_id,": "56c504c009", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "In addition, DHS will work with the private sector to promote voluntary standards efforts, and security policy creation."
+    }, 
+    {
+        "sentence_id,": "2b7b31adb0", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "In addition to the vulnerabilities in existing information technology systems, there are at least two other major barriers to users and managers acting to improve cybersecurity: (1) a lack of familiarity, knowledge, and understanding of the issues; and (2) an inability to find sufficient numbers of adequately trained and/or appropriately certified personnel to create and manage secure systems."
+    }, 
+    {
+        "sentence_id,": "f45b28244c", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "Among the components of this priority are the following: Promote a comprehensive national awareness program to empower all Americansbusinesses, the general workforce, and the general population to secure their own parts of cyberspace; Foster adequate training and education programs to support the Nations cybersecurity needs; T H E N A T I O N A L S T R A T E G Y T O S E C U R E C Y B E R S P A C E 37 P R I O R I T Y Increase the efficiency of existing federal cybersecurity training programs; and Promote private sector support for wellcoordinated, widely recognized professional cybersecurity certification."
+    }, 
+    {
+        "sentence_id,": "9a7f6bd5bd", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "Key to any successful national effort to enhance cybersecurity must be a national effort to raise awareness (of users and managers at all levels) and maintain an adequate pool of well trained and certified IT security specialists."
+    }, 
+    {
+        "sentence_id,": "4b265402ef", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Effectively mitigating the insider threat requires policies, practices, and continued training."
+    }, 
+    {
+        "sentence_id,": "3265a0c338", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Three common policy areas which can reduce insider threat include: (1) access controls, (2) segregation of duties, and, (3) effective policy enforcement."
+    }, 
+    {
+        "sentence_id,": "84883117e9", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Effective enforcement of an enterprise security policy can be challenging and requires regular auditing."
+    }, 
+    {
+        "sentence_id,": "bf1588a5f5", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "These programs allow the input of policy in human terms, translation to machine code, and then monitoring at the packet level of all data transactions within, and outbound from, the network."
+    }, 
+    {
+        "sentence_id,": "0e07fc441c", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Significantly, through this effort, top university presidents have adopted a 5-point Framework for Action that commits them to giving IT security high priority and to adopting the policies and measures necessary to realize greater system security: (1) Make IT security a priority in higher education; (2) Revise institutional security policy and improve the use of existing security tools; (3) Improve security for future research and education networks; (4) Improve collaboration between higher education, industry, and government; and (5) Integrate work in higher education with the national effort to strengthen critical infrastructure."
+    }, 
+    {
+        "sentence_id,": "07932138a1", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "(A/R 3-6) e. State and Local Governments DHS will implement plans to focus key decision makers in state and local governmentssuch as governors, state legislatures, I I I mayors, city managers, and county commissioners/boards of supervisorsto support investment in information systems security measures and adopt enforceable management policies and practices."
+    }, 
+    {
+        "sentence_id,": "f2e8681b37", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "DHS will also encourage private efforts to ensure that adequate opportunities exist for continuing education and advanced training in the workplace to maintain high skills standards and the capacity to innovate."
+    }, 
+    {
+        "sentence_id,": "ea7a3fe7f6", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "Promote Private Sector Support for Wellcoordinated Widely Recognized Professional Cybersecurity Certifications Related to education and training is the need for certification of qualified persons."
+    }, 
+    {
+        "sentence_id,": "54bf262ede", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "Certification can provide employers and consumers with greater information about the capabilities of potential employees or security consultants."
+    }, 
+    {
+        "sentence_id,": "0e523acd43", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "Currently, some certifications for cybersecurity workers exist; however, they vary greatly in the requirements they impose."
+    }, 
+    {
+        "sentence_id,": "fbc79ca341", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "No one certification offers a level of assurance about a persons practical and academic qualifications, similar to those offered by the medical and legal professions."
+    }, 
+    {
+        "sentence_id,": "9551843daf", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "To address this issue, a number of industry stakeholders including representatives of both consumers and providers of IT security certifications are beginning to explore approaches to developing nationally recognized certifications and guidelines for certification."
+    }, 
+    {
+        "sentence_id,": "cb431ca9b4", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "Aspects that warrant consideration by these organizations include levels of education and experience, peer recognition, continuing education requirements, testing guidance, as applicable for various levels of certification that may be established, and models for administering a certification for IT security professionals similar to those successfully employed in other professions."
+    }, 
+    {
+        "sentence_id,": "f30ba5c093", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "DHS and other federal agencies, as downstream consumers (prospective employers of certified personnel), can aid these efforts by effectively articulating the needs of the federal IT security community."
+    }, 
+    {
+        "sentence_id,": "8c73ebb971", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "DHS will encourage efforts that are needed to build foundations for the development of security certification programs that will be broadly accepted by the public and private sectors."
+    }, 
+    {
+        "sentence_id,": "c920955200", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "This approach is reflected in OMB security policies, and is featured in FISMA."
+    }, 
+    {
+        "sentence_id,": "04b0a43734", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "To overcome deficiencies in cybersecurity, OMB established a governmentwide IT security program, as required by law, to set IT security policies and perform oversight of federal agency compliance with security requirements."
+    }, 
+    {
+        "sentence_id,": "5d469fc3c5", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "OMB policy stipulates that specific lifecycle security costs be identified, built into, and funded as part of each system investment."
+    }, 
+    {
+        "sentence_id,": "d27c20bb9b", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Identify and Document Enterprise Architectures OMB policy requires each agency to identify and document their enterprise architecture, including an authoritative inventory of all operations and assets, all agency IT systems, critical business processes, and their interrelationships with other organizations."
+    }, 
+    {
+        "sentence_id,": "142cdbb04f", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "For example, controlling system configuration I V permits agencies to more effectively and efficiently enforce policies and permissions and more easily install antivirus definitions and other software updates and patches across an entire system or network."
+    }, 
+    {
+        "sentence_id,": "1ed352b821", 
+        "tag": [
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "Continuously Assess Threats and Vulnerabilities Commercially available automated auditing and reporting mechanisms should be used to validate the effectiveness of the security controls across a system and are essential to continuously understand risks to those systems."
+    }, 
+    {
+        "sentence_id,": "f0f602521b", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Federal agencies will continue to expand the use of automated, enterprise-wide security assessment and security policy enforcement tools and actively deploy threat management tools to deter attacks."
+    }, 
+    {
+        "sentence_id,": "19189c2099", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The federal government will determine whether specific actions are necessary (e.g., through the policy or budget processes) to promote the greater use of these tools."
+    }, 
+    {
+        "sentence_id,": "b05e677f00", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "The National Institute of Standards and Technology (NIST) notes that wireless communications can be intercepted and that wireless networks can also experience denial-of-service attacks."
+    }, 
+    {
+        "sentence_id,": "9cda32597f", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Agency policy and procedures should reflect careful consideration of additional risk reduction measures, including the use of strong encryption, bi-directional authentication, shielding standards and other technical security considerations, configuration management, intrusion detection, incident handling, and computer security awareness and training programs."
+    }, 
+    {
+        "sentence_id,": "0ce82e9b04", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "This review will include lessons learned from implementation of the Defense Departments July 2002 policy requiring the acquisition of products reviewed under the NIAP or similar evaluation processes."
+    }, 
+    {
+        "sentence_id,": "dd1e0036af", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "(A/R 4-4) Department of Defense (DOD) policy stipulates that if an evaluated product of the type being sought is available for use, then the DOD component must procure the evaluated product."
+    }, 
+    {
+        "sentence_id,": "bba00371ba", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "Develop Specific Criteria for Independent Security Reviews and Reviewers and Certification With the growing emphasis on security comes the corresponding need for expert independent verification and validation of agency security programs and practices."
+    }, 
+    {
+        "sentence_id,": "4d03378f4a", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "The federal government will explore whether private sector security service providers to the federal government should be certified as meeting certain minimum capabilities, including the extent to which they are adequately independent."
+    }, 
+    {
+        "sentence_id,": "4daf9a372e", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "These mechanisms are continually modified and improved as new policy emerges and as technological solutions become available."
+    }, 
+    {
+        "sentence_id,": "f79a9c24dd", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "DHS will Work with State and Local Governments and Encourage them to Consider Establishing IT Security Programs and to Participate in ISACs with Similar Governments State and local governments are encouraged to establish IT security programs for their departments and agencies, including awareness, audits, and standards; and to participate in the established ISACs with similar governments."
+    }, 
+    {
+        "sentence_id,": "a5f07e8097", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Global efforts require raising awareness, promoting stronger security standards, and aggressively investigating and prosecuting cybercrime."
+    }, 
+    {
+        "sentence_id,": "1f61a8c912", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "INTERNATIONAL COOPERATION The Department of State will lead federal efforts to enhance international cyberspace security cooperation."
+    }, 
+    {
+        "sentence_id,": "87c319c3ab", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Securing global cyberspace will require international cooperation to raise awareness, increase information sharing, promote security standards, and investigate and prosecute those who engage in cybercrime."
+    }, 
+    {
+        "sentence_id,": "3b948a2f4e", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "We will encourage the development and adoption of international technical standards and facilitate collaboration and research among the worlds best scientists and researchers."
+    }, 
+    {
+        "sentence_id,": "99ad000bca", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Encourage Other Nations to Accede to the Council of Europe Convention on Cybercrime, or to Ensure that their Laws and Procedures are at Least as Comprehensive The United States will actively foster international cooperation in investigating and prosecuting cybercrime."
+    }, 
+    {
+        "sentence_id,": "83020edaac", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "A/R 3-9: DHS will encourage efforts that are needed to build foundations for the development of security certification programs that will be broadly accepted by the public and private sectors."
+    }, 
+    {
+        "sentence_id,": "cfd8306da2", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Priority IV: Securing Governments Cyberspace A/R 4-1: Federal agencies will continue to expand the use of automated, enterprise-wide security assessment and security policy enforcement tools and actively deploy threat management tools to deter attacks."
+    }, 
+    {
+        "sentence_id,": "ff5bedc664", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The federal government will determine whether specific actions are necessary (e.g., through the policy or budget processes) to promote the greater use of these tools."
+    }, 
+    {
+        "sentence_id,": "28d07e782a", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Agency policy and procedures should reflect careful consideration of additional risk reduction measures, including the use of strong encryption, bi-directional authentication, shielding standards and other technical security 58 T H E N A T I O N A L S T R A T E G Y T O S E C U R E C Y B E R S P A C E A P P E N D I X considerations, configuration management, intrusion detection, incident handling, and computer security awareness and training programs."
+    }, 
+    {
+        "sentence_id,": "93d21362d4", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "This review will include lessons-learned from implementation of the Defense Departments July 2002 policy requiring the acquisition of products reviewed under the NIAP or similar evaluation processes."
+    }, 
+    {
+        "sentence_id,": "1582223e8f", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "A/R 4-5: The federal government will explore whether private sector security service providers to the federal government should be certified as meeting certain minimum capabilities, including the extent to which they are adequately independent."
+    }, 
+    {
+        "sentence_id,": "078521fb8f", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "A/R 4-6: State and local governments are encouraged to establish IT security programs for their departments and agencies, including awareness, audits, and standards; and to participate in the established ISACs with similar governments."
+    }
+]

@@ -1,0 +1,968 @@
+[
+    {
+        "sentence_id,": "4dd783b885", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Contents Ministers Foreword Executive Summary Part One - Introduction Background Purpose and Scope The Pre-Launch of the Strategy Part Two Overall Direction Prelude What is meant by Cyber security Guiding Principles Overall Vision A Cyber Security Strategy Model Part Three The Strategy The Goals and accompanying Measures The Goals The Proposed Measures Goal: Establish a governance framework Goal: Combat Cybercrime Goal: Strengthen National cyber defence Goal: Secure Cyberspace Goal: Cyber security Awareness and Education Goal: National and International Cooperation Conclusion The Cyber Security Strategy Model Revisited The Way Forward References Endnotes Ministers Foreword In todays globalised world, the extensive and efficient use of Information and Communications Technologies (ICTs) is increasingly critical for the effective functioning and growth of our economy."
+    }, 
+    {
+        "sentence_id,": "7a83fad4ef", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "It also aims to stimulate use of standards and best practices that guarantee security whilst allowing for interoperability."
+    }, 
+    {
+        "sentence_id,": "68d69eb097", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Goal: National and International Cooperation which aims to ensure effective consultation, cooperation and collaboration on a national level, on a European and on a global basis, enabled by EU and international institutions and activities, based on the understanding that cyber security has no bounds."
+    }, 
+    {
+        "sentence_id,": "98ee803e8c", 
+        "tag": [
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "national legislation"
+                ]
+            }
+        ], 
+        "sentence": "GUIDING PRINCIPLES Data in transit and at rest on the networks Within this context, the Strategy, in its lifecycle, shall be guided by a number of principles as follows: Connected users Logical connections established among them Rule of Law In view of the above , the following definition of cyber security is being adopted: 3 The approach on cyber security shall respect and promote fundamental rights and freedoms as chartered within European Union and national legislation."
+    }, 
+    {
+        "sentence_id,": "1bed5db0e1", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Policy Legislation Risk Management Culture Education Civil Society Public Sector Private Sector Risk Management Policy Legislation Devising cyber security policy and strategy that sets the direction on a national level."
+    }, 
+    {
+        "sentence_id,": "680b55e398", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Controlling risks through organisation, standards and technology."
+    }, 
+    {
+        "sentence_id,": "23caa74cb9", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "It also implies close communication and coordination of the CSIRT with the proposed strategy implementation function, given that it would need to be involved on: The governance framework covers the necessary key functions and corresponding roles and responsibilities, as well as policies and processes necessary9 to constitute a robust foundation for an effective national cyber security strategy."
+    }, 
+    {
+        "sentence_id,": "0fabc14848", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Ensure clear delineation and communication of roles and responsibilities take a leading, active role in the implementation of the National Cyber security strategy, keeping in view of policy and planning developments within the realm of Maltas digital economy and society as well as further cyber security related developments on a national, EU and international perspective Cyber related roles and responsibilities - such as those identified above and potentially those arising from the proposed measures, as well as those resulting from relevant EU legal requirements15, need to be clearly delineated and agreed upon accordingly."
+    }, 
+    {
+        "sentence_id,": "ef6587b108", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Security The Government of Malta Information Security Policy is expected to come into force in the near future."
+    }, 
+    {
+        "sentence_id,": "62eefd9610", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "It is based upon ISO 27001 Information Security international standard and applies to all of the Public Sector."
+    }, 
+    {
+        "sentence_id,": "a0fc877fa9", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The Forum aims to: Share knowledge Monitor developments Put forward policy ideas Represent Malta on European bodies working in this field This Forum could potentially help out in reviewing the Cyber security strategy itself with respect to combating cybercrime activity."
+    }, 
+    {
+        "sentence_id,": "fc0d99b32b", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "Analyse new trends and identify opportunities and emerging threats Work to strengthen cyber security Provide framework for sharing best practice22 Potentially improve professionalism in information assurance and cyber defence across the private and public sector through schemes for certifying related competence and specialist training."
+    }, 
+    {
+        "sentence_id,": "3c380a87ae", 
+        "tag": [
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "national legislation"
+                ]
+            }
+        ], 
+        "sentence": "Within this light, the notion of having one national legislation for cyber security, merits active consideration."
+    }, 
+    {
+        "sentence_id,": "0f58023cd1", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Apart from technical considerations, cyber simulation exercises should also assess non-technical areas both at an operational, tactical as well as at a strategic level such as testing national and international coordination and any relevant Standard Operational Practices."
+    }, 
+    {
+        "sentence_id,": "baa5208785", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Establish regulation and voluntary selfcommitment for guaranteeing cyber security The current scenario analysis of cyber security in Malta indicates areas of regulation and policy particularly within the local regulated industry sectors."
+    }, 
+    {
+        "sentence_id,": "0ee3027eaf", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Focus appears to be mainly on policy frameworks covering the licensing approaches which seek to mitigate risk."
+    }, 
+    {
+        "sentence_id,": "56efdb9f04", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Regulation within sectors may also include conformance to internationally recognised security standards or industry led cyber security related standards or practices, with the aim of bolstering cyber security as well as establishing centres of excellence within the sectors themselves."
+    }, 
+    {
+        "sentence_id,": "cba854995d", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Stimulate use of interoperable and secure standards on the basis of good practice Digital Malta, through Action 42 Standards and Good Practice, states Governments intention to collaborate with stakeholders to support and promote 22 MALTA CYBER SECURITY STRATEGY 2016 Part Three The Strategy A chain is only as strong as its weakest link."
+    }, 
+    {
+        "sentence_id,": "3e2d28759c", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "National and EU cross-border interoperability, ICT standards based on industry best practices and Green ICT."
+    }, 
+    {
+        "sentence_id,": "fbc9a9b12e", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "The implementation of internationally recognised information security standard35 controls within the public sector36 and potentially within the private sector should contribute to cyber security on the local scenario."
+    }, 
+    {
+        "sentence_id,": "dd950da70d", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "However consideration of industry led standards and guidance that put in place a series of measures specifically aimed to address cyber threats37 are also to be encouraged for use."
+    }, 
+    {
+        "sentence_id,": "2736b8d130", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "In such areas, related standards and security controls, may still be in the very early stages of maturity and may thus pose cyber security vulnerability challenges for interoperability which need to be carefully assessed."
+    }, 
+    {
+        "sentence_id,": "9f01aa28f7", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "The applicability of interoperable and secure standards, as referred to in Measure 4 (ii), may potentially contribute for the attainment of such measure.It also calls for an emphasis to ensure security and privacy in the design For example, ways may potentially be sought with business service providers (e.g."
+    }, 
+    {
+        "sentence_id,": "b2955489c5", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "This includes the proper handling and use of the technologies being applied for interaction Cyber security related training and certification programmes are to be further encouraged, as an opportunity to effectively increase security level42 of organisations and maintaining such increased level of security in the long term."
+    }, 
+    {
+        "sentence_id,": "84c972fe87", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "It is highly recommended that a concerted, ongoing strategic approach is undertaken, potentially through a nationwide Communications strategy for cyber security; aimed at addressing the various strata of society, business and public sector along with their corresponding needs, expectations, and potential ICTs and concepts applied The establishment could potentially be enabled through: Agreement of overseas cooperation on related matters Related EU supporting initiatives Inclusion of existing internationally certified local expertise in cyber security."
+    }, 
+    {
+        "sentence_id,": "c66b555c82", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "professional certification"
+                ]
+            }
+        ], 
+        "sentence": "Having a maintained comprehensive list of professionals certified under internationally recognised certification programs in cyber security49 A source of promotion of related best practice iv."
+    }, 
+    {
+        "sentence_id,": "f2f2591f9e", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Furthermore, the possibility of a national responsible disclosure policy framework that enables wellintentioned system users to safely inform Government, businesses or institutions about detected vulnerabilities in their ICT systems or services may also be explored."
+    }, 
+    {
+        "sentence_id,": "4c7de9a29d", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Goal: National and International Cooperation cooperation, openness and understanding is the success to effective cyber security i."
+    }, 
+    {
+        "sentence_id,": "8d5390ddcf", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "GOAL Policy Legislation Devising national cyber security policy and strategy that addresses the needs of the various stakeholders."
+    }, 
+    {
+        "sentence_id,": "f975f5994e", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Risk Management Controlling risks through organisation, standards and technology."
+    }, 
+    {
+        "sentence_id,": "016909e6d6", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "GOAL Policy Legislation Devising national cyber security policy and strategy that addresses the needs of the various stakeholders."
+    }, 
+    {
+        "sentence_id,": "f69282343c", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Risk Management Controlling risks through organisation, standards and technology."
+    }, 
+    {
+        "sentence_id,": "29e0e16d12", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "GOAL Legislation Devising national cyber security policy and strategy that addresses the needs of the various stakeholders."
+    }, 
+    {
+        "sentence_id,": "d6a4767cdd", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Risk Management Controlling risks through organisation, standards and technology."
+    }, 
+    {
+        "sentence_id,": "c3dda742ca", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "MEASURE 3(i) Establish a collective approach for sharing cyber security knowledge and intelligence 3(ii) Review existing legislation and provide measures through legislation and regulation to ensure relevance and effectiveness to the cyber world 3(iii) Ensure the countrys digital resilience to cyber attack as well as the capability to protect its interests 3(iv) Conduct cyber defence exercises 4(i) Establish regulation and voluntary self commitment for guaranteeing cyber security 4(ii) Stimulate use of interoperable and secure standards on the basis of good practice 4(iii) Promote robust levels of cyber security in online public services 4(iv) Consolidate support to the private sector on cyber security 5(i) Encourage cyber security education and training Strengthen national cyber defence Secure cyberspace Cyber Security Awareness and Education Policy 30 MALTA CYBER SECURITY STRATEGY 2016 Culture Education Fostering awareness to encourage a responsible cyber culture throughout society."
+    }, 
+    {
+        "sentence_id,": "8ffe7e847e", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }, 
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "GOAL Cyber Security Awareness and Education National and International cooperation Policy Legislation Devising national cyber security policy and strategy that addresses the needs of the various stakeholders."
+    }, 
+    {
+        "sentence_id,": "5cf4b24992", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Risk Management Controlling risks through organisation, standards and technology."
+    }, 
+    {
+        "sentence_id,": "7d32c8647a", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "31 MALTA CYBER SECURITY STRATEGY 2016 REFERENCES BSA| The Software Alliance (www.bsa.org), European Union Cybersecurity Maturity Dashboard (2015) A Path to a Secure European Cyberspace Council of the European Union (7 October 2015), EU Cyber Security Strategy: Roadmap Development, Brussels Council of the European Union (11 February 2015), Council Conclusions on Cyber Diplomacy, Outcome of Proceedings, Brussels, 6122/15 Council of the European Union (12 March 2015), Global Conference on Cyberspace 2015, The Hague Natherlands, 6181/3/5/15 REV 3 Council of the European Union (28 May 2015), Non-Paper on Fostering Cyber Security and Cyber Defence in Europe by means of Responsible Disclosure Polices, Meeting Document, Brussels, DS 1340/15 Council of the European Union (18 December 2015), Proposal for a Directive of the European Parliament and of the Council concerning measures to ensure a high common level of network and information security across the Union, Examination of the final compromise text in view to agreement, Brussels 15229/2/15 REV 2 Council of the European Union (May, 2016), Improving cyber security across the EU, http//www.consilium.europa.eu/en/policies/cybersecurity [Accessed on 23/5/2016] Cyber Security Raad (CSR) Nederland (2016) Cyber Security Council (CSR) Magazine 2016, Year 2, No."
+    }, 
+    {
+        "sentence_id,": "6f7158a214", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "One of the action items of the EU Cyber Security Strategy specifically calls for work on further development of globally interoperable standards and their promotion for their wider use by industry."
+    }, 
+    {
+        "sentence_id,": "89dbccc7eb", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Public consultation preliminary results on information and communication technologies published by the European Commission in early 2016, reveals cyber security as being one of the areas requiring common standards if completion of a single digital market is to be achieved."
+    }, 
+    {
+        "sentence_id,": "c3dbdca4b6", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "This may be complemented by related policies, best practices and processes (including those on proper data handling) applied within the context itself."
+    }, 
+    {
+        "sentence_id,": "bb403dde09", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Such policy is currently mainly applied by a number of organisations European and worldwide, and also by some EU member states such as the Netherlands."
+    }, 
+    {
+        "sentence_id,": "345da2e2c7", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Sophisticated ICT implementations carry little value if citizens and businesses are not able to use public services or participate in the policy making process in meaningful ways."
+    }, 
+    {
+        "sentence_id,": "99ae85fc7a", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Technology is continually advancing so this strategic plan will not, in the conventional jargon of management, be limited only to rational policy interventions."
+    }, 
+    {
+        "sentence_id,": "3fd33e84d6", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "It also constitutes a framework, permitting policy makers, business leaders and entrepreneurs to take decisions now knowing they will be supported by policy that is responsive to the technological advances of the coming years."
+    }, 
+    {
+        "sentence_id,": "392c51f802", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Government adopted policies favouring the consolidation of its investments, as well as standards to support such policies."
+    }, 
+    {
+        "sentence_id,": "745077341e", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "This Data Centre is the fifth data centre in Western Europe and one of only 34 data centres worldwide certified to reach the Tier III Facility Certification."
+    }, 
+    {
+        "sentence_id,": "4b647a4d85", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "Tier III Facility Certification verifies that each and every component within the MITA Data Centre can be maintained, replaced or upgraded without disrupting the service."
+    }, 
+    {
+        "sentence_id,": "e33826ac7c", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "It nurtures the concept of connected government through the alignment of departmental processes, standardisation, discovery and reuse of ICT assets and continuous rigour in improving the level of trust in the services provided by the public sector."
+    }, 
+    {
+        "sentence_id,": "e207e8c14b", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Combining industrial innovation with educational policies and focusing on areas of strength (smart specialisation) increases the chances of Malta and its industrial base (both ICT and non-ICT) gaining a competitive advantage through differentiation."
+    }, 
+    {
+        "sentence_id,": "40b6475470", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "3.1 STRATEGIC THEMES Digital Malta will take ICT policy development and implementation to a higher gear, meeting the expectations of all - the Citizen and civil society, Business and government."
+    }, 
+    {
+        "sentence_id,": "3c1dee2ca0", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Everyone, including vulnerable and minority groups, will benefit from a higher standard of living."
+    }, 
+    {
+        "sentence_id,": "d47513540f", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "These vertical strategic pillars need to be supported by a suite of enabling / driving forces: Regulation & Legislation Of central importance will be governments direction and priorities at a Strategic and Digital Policy level."
+    }, 
+    {
+        "sentence_id,": "f96372c8fc", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Adopting an open and experimental mindset, capitalising on lessons learned from success stories and respecting best practices and international standards."
+    }, 
+    {
+        "sentence_id,": "e7494eabb0", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Everyone, including vulnerable and minority groups, will benefit from a higher standard of living."
+    }, 
+    {
+        "sentence_id,": "320f8f7ec4", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Accessibility and Assistive Technology Internet accessibility standards will be promoted to enable everyone, irrespective of disability, to navigate and access content to access and use of assistive technologies will be promoted and facilitated to help independent living of the elderly and vulnerable groups."
+    }, 
+    {
+        "sentence_id,": "0341afaa3e", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Widening horizons Government, working with industry bodies, will develop policies and incentives to: Enable ICT clusters to flourish."
+    }, 
+    {
+        "sentence_id,": "022e028123", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Government will adopt open standards, encouraging the exchange of information and innovation, while seeking healthy competition and lower costs."
+    }, 
+    {
+        "sentence_id,": "518b1bee8e", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Industry standards for records and information management and business classification scheme will be adopted."
+    }, 
+    {
+        "sentence_id,": "5921b3d205", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Innovative policies will improve procurement cycles and deliver better value."
+    }, 
+    {
+        "sentence_id,": "26e9ba0bec", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The goals of the actions under this strategic enabler are to: 7.2 GUIDING PRINCIPLES A. ICT legislation and policy will be nondiscriminatory and technology neutral."
+    }, 
+    {
+        "sentence_id,": "60d1971fc2", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "INTEROPERABILITY AND STANDARDS The fast pace of ICT development requires continuous review of industry standards."
+    }, 
+    {
+        "sentence_id,": "bbcaa427ab", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "It must ensure standards and policies produce optimal returns on investment in systems architecture and data that is open and interoperable."
+    }, 
+    {
+        "sentence_id,": "bfb3dc80f1", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Standards and Good Practice Government will collaborate with stakeholders to support and promote: National and EU cross-border interoperability."
+    }, 
+    {
+        "sentence_id,": "857cc09bd1", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "ICT standards based on industry best practices."
+    }, 
+    {
+        "sentence_id,": "e7287309bf", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "The design and implementation of government network infrastructure and applications will be based on open standards to ensure interoperability and collaboration at national and international level."
+    }, 
+    {
+        "sentence_id,": "1915a32608", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Government will lead by example, adopting high quality standards and embracing important technology principles such as abstraction, loose coupling, cohesiveness and generality."
+    }, 
+    {
+        "sentence_id,": "c8cd24b262", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Bring authentication services into alignment with EU standards and allow fellow European citizens access using their national electronic identity."
+    }, 
+    {
+        "sentence_id,": "f329f4e551", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "Trust Services Services will be provided to facilitate the creation, verification, validation, handling and preservation of electronic signatures, electronic seals, electronic time stamps, electronic documents, electronic delivery services, website authentication, and electronic certificates."
+    }, 
+    {
+        "sentence_id,": "b2b5f88bb1", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The STEM skills and employment policy must be an integral chapter in national educational and employment strategies and policies."
+    }, 
+    {
+        "sentence_id,": "b80015caa8", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Update the eCompetence Framework Continue investing in the Standards for ITalent, as the eCompetence framework for providing defined, visible career streams for individuals in the ICT profession."
+    }, 
+    {
+        "sentence_id,": "bddcdd4951", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "The framework will be updated to reflect European and international developments standards and reflect feedback from stakeholders."
+    }, 
+    {
+        "sentence_id,": "574021e0e3", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "The standards will be promoted as occupational guidelines with easy-to-use tools for professionals and aspiring practitioners to map their skills portfolio with career development."
+    }, 
+    {
+        "sentence_id,": "71c7cccd39", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The Cabinet, headed by the Prime Minister, will champion the attainment of Digital Malta through political will, supportive policy and adequate funding."
+    }, 
+    {
+        "sentence_id,": "5c59943bf1", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "It will enable management of the dependencies and interactions between players and mitigate the risks associated with adopting different policies and implementing various actions."
+    }, 
+    {
+        "sentence_id,": "22c7832692", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The Forum will look at eInclusion, digital citizenship and Internet safety; it will propose policy to government and encourage industry self-regulation."
+    }, 
+    {
+        "sentence_id,": "d628ff13ee", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The Forum will put forward policy ideas and represent Malta on European bodies working in this field."
+    }, 
+    {
+        "sentence_id,": "36bb19a5b2", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "The FITA will be given a stronger role to build and promote accessibility standards across government and industry."
+    }
+]

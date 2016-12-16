@@ -1,0 +1,171 @@
+[
+    {
+        "sentence_id,": "e41d168072", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The cyber security policy is an evolving task and it caters to the whole spectrum of ICT users including home users and small, medium and large enterprises and Government & nonGovernment entities."
+    }, 
+    {
+        "sentence_id,": "0bf987f6e7", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "It also enables individual sectors and organisations in designing appropriate cyber security policies to suit their needs."
+    }, 
+    {
+        "sentence_id,": "0a48a85a4b", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "The methodology for the implementation of national cyber strategic action plan is established on efficient and comprehensive collection of information, an analysis and gathering system along with common and shared situation awareness, national and international cooperation in preparedness."
+    }, 
+    {
+        "sentence_id,": "a62f9d1eea", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "An effective public-private partnership for cyber security would provide the abilities to identify threats, anomalous behaviours, respond to them and will create a more secure network environment through better standardized security programs."
+    }, 
+    {
+        "sentence_id,": "95faf05adf", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The role of the National Cyber Security Committee will be to: National CERT Lead activities associated with developing and managing national CIIP efforts, including coordinating policy development, outreach and awareness, risk assessment and management efforts, funding and support for the CIIP program efforts."
+    }, 
+    {
+        "sentence_id,": "f361777d6e", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "IT Security Unit The IT Security Unit will establish IT Security best practices and promote implementation of information security standards within the Civil Service."
+    }, 
+    {
+        "sentence_id,": "e0ae289e25", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "The implementation of the strategic guidelines will reinforce national and international cooperation."
+    }, 
+    {
+        "sentence_id,": "ede4ae900b", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Cyber defense against cybercrime will be exercised and developed together through international cooperation and the exchange of information."
+    }, 
+    {
+        "sentence_id,": "9253c3116c", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Key importance is being given to government information infrastructure & systems which will be protected against cyber threats through security audits and implementation of national and international Information Security standards."
+    }, 
+    {
+        "sentence_id,": "325679f720", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "IMPORTANCE OF THE NATIONAL CYBER SECURITY STRATEGY AND ACTION PLAN The ICT sector is influencing the lives of people through direct or indirect contribution to the various socio-economic parameters such as employment and standard of living."
+    }, 
+    {
+        "sentence_id,": "8b0ee00f0d", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "CERT-MU MICT ITSU MOFED SMEDA MOBEC MSB High 2015 2019 GOAL 3: DEVELOP AN EFFICIENT COLLABORATIVE MODEL BETWEEN THE AUTHORITIES AND THE BUSINESS COMMUNITY FOR THE PURPOSE OF ADVANCING CYBER SECURITY Approach Helping to shape the development of cyber space Promoting an open and interoperable cyberspace Protecting our way of life Ensuring security without compromising our values Project Code CS3P1 CS3P2 CS3P3 CS3P4 CS3P5 21 | P a g e Project Name Description Promote Information Risk Management at National level To promote Information Risk Management using standard frameworks such as NISTs Framework for Cybersecurity within public and private sector."
+    }, 
+    {
+        "sentence_id,": "a5ef4b2734", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "ISMS to be implemented for Ministries and Departments with Critical Information Systems Promote the universal adoption of Information Security standards at National level Promote Secure software Development Promote the designation of a Senior Information Security Personnel (CISO, IS Consultants, Information Security Experts) within organisations Promote the implementation of Information Security Standards in the Civil Service Lead Stakeholder(s) CERT-MU ITSU RISK MGT FIRMS CERT-MU CERT-MU CERT-MU ITSU & Line Ministries MSB ITSU SGS MICT ACADEMIA MITIA Priority High Start End Date Date Ongoing Medium Ongoing High 2015 2018 Medium 2017 2019 High 2014 2019 APPLICABLE TO ALL SECTORS MICT CIB CISD Republic of Mauritius - National Cyber Security Strategy CS3P6 CS3P7 To promote e-Government initiatives and ensure conformance to security best practices."
+    }, 
+    {
+        "sentence_id,": "ee5a43ec7a", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards", 
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "To encourage a consortium of Government and private sector to enhance the availability of tested and certified IT products based on open standards."
+    }, 
+    {
+        "sentence_id,": "afc0e9328b", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "ICTA MICT ITSU CERT-MU Industry Associations MICCP PROCUREMENT OFFICE MINISTRY OF INDUSTRY & COMMERCE 2017 2019 Medium GOAL 4: TO IMPROVE THE CYBER EXPERTISE AND THE COMPREHENSIVE CYBER SECURITY EDUCATION & AWARENESS OF ALL SOCIETAL ACTORS Approach Project Project Name Actions to Include Lead Stakeholder(s) Priority Start End Code Date Date Promote security To promote security certifications MICT Medium 2016 2019 Extending knowledge CS4P1 certifications and trainings from organisations such as ECITSU Building a from renowned Council, OWASP, ISC2, SANS ICTA coherent crossInternational organisations amongst others can be considered ACADEMIA CERT-MU sector agenda for security professionals."
+    }
+]

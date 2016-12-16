@@ -1,0 +1,212 @@
+[
+    {
+        "sentence_id,": "46689bf921", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The Ministry of Communications and Information Technology (MCIT) was the first among the sectoral government entities in Afghanistan to design new strategies and policies, enabling private sector to make huge investment in the telecommunication and IT sectors."
+    }, 
+    {
+        "sentence_id,": "908cbfeab4", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "These systems improve the quality and the speed of the services delivery -thus helping organizations work more productively, efficiently and contributing to the improvement of living standards."
+    }, 
+    {
+        "sentence_id,": "210adf8cfe", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }, 
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "InformationSystemsSecurityDirectorate--MCIT VISION To establish and achieve a Safe -Secure and Resilient cyber space for the government, businesses and citizens of Afghanistan MISSION To protect and assure data, information and IT infrastructure security in Afghanistans cyberspace, enhance capacities to prevent and response to cyber threats, protect the children and youth of Afghanistan in cyberspace, mitigate the risk of vulnerability, damage from cyber threats and incidents through a variety of standardized institutional structures, policies, procedures, people, technologies and administrative process InformationSystemsSecurityDirectorate--MCIT OBJECTIVES 1) To protect government ICT infrastructure, secure cyberspace for the citizens, improve and retain cybersecurity professional skills, encourage public -private partnerships, boost and maintain international cooperation."
+    }, 
+    {
+        "sentence_id,": "4ee5c3664b", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "c) Encourage both public and private sectors to draft and develop their information security policies aligned with their business profile and services in compliance with international standards and best practices."
+    }, 
+    {
+        "sentence_id,": "c4a0ab7b1d", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Policies should be comprehensive, up to date with various data security methodologies, include Disaster Recovery Plan and business continuity."
+    }, 
+    {
+        "sentence_id,": "0a5c27baa5", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "f) MCIT from security point of view will certify and approve any IT related procurement within the government, MCIT will come up with new guidelines and policies for the webhosting companies, software developers and IT services provider."
+    }, 
+    {
+        "sentence_id,": "f48f5d1a61", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Establishing a framework for information safety, assurance, information security policies a) ISSD of MCIT should enforce the adaptation of international standards, information security best practices, and compliance in order to ensure Confidentiality, Accessibility and Integrity of information throughout government networks."
+    }, 
+    {
+        "sentence_id,": "55852038d6", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "InformationSystemsSecurityDirectorate--MCIT b) Through the ISSD of MCIT enforce the adaptation of ISO 2700 series and other International standards for Information Security Management System (ISMS), information assurance, Information Systems and IT infrastructure audits, Vulnerability assessment, Risk management of the critical information infrastructures (CII), Business continuity, ensure Application security through Software Development Life Cycle (SDLC) and best practices and Penetration testing of IT infrastructures."
+    }, 
+    {
+        "sentence_id,": "47ebc744da", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "d) Periodically conduct risk assessment and security standard compliance of the critical information infrastructures (CII)."
+    }, 
+    {
+        "sentence_id,": "a1f6f45e03", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Establishing a regulatory framework a) MCIT will work together with the Ministry of Justice (MoJ) to develop legal framework and conduct for addressing cybersecurity issues b) Develop the Cyber Law of Afghanistan and Child Online Protection policy with support and cooperations of US-DOC, CLDP, European Commission, UNCITRAL and International Multilateral Partnership Against Cyber Threats (IMPACT) c) Develop legal framework for private Certification Authority (CA) and secure electronic transaction system for business and financial institutes d) Develop legal framework and policies to assure secure mobile computing, cloud computing, mobile governance and internet governance e) Develop regulatory framework for auditing and certifying IT infrastructures for the sack of cyber security within the government and for those Solution providers (SPs) who are providing IT services to the government f) Organize awareness campaign for all regulatory frameworks and periodically update the regulatory frameworks with the evolving technological advancements."
+    }, 
+    {
+        "sentence_id,": "2e689cfff4", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "Establishing certification and testing body a) MCIT will dedicate an additional line and recruit a team of professional programmers solely to test and certify software and applications."
+    }, 
+    {
+        "sentence_id,": "e81feb0d19", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "The testing processes must be in compliance with all international standards, security has to be part of software developing life cycle."
+    }, 
+    {
+        "sentence_id,": "2ad3b33b04", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "This does not only promote a healthy competitive market but will also boost ICT economy in the government and build trust between both sectors b) Facilitate collaboration and cooperation between stakeholders (Government and private sector) in the field of cybersecurity, protection of Critical information infrastructure, especially in implementation of cybersecurity action plan, implementation of international security standards and best practices 10. International Cooperations a) MCIT will work closely with MFA in order to develop and enhance multilateral relationship in cybersecuiry with the region and other countries through CERTs, information security agencies, law enforcement and Judicial entities b) MCIT should keep close engagement and cooperation with IMPACT, ITU, ICANN, APT and other domestic and international organizations in order to fight against cyber crimes InformationSystemsSecurityDirectorate--MCIT Pressure Makes Diamonds!"
+    }, 
+    {
+        "sentence_id,": "b321de22d4", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The deadline for some of the actions are determined and those actions which are envisioned to be repeated periodically and/or are of chronic occurrence are highlighted in particular InformationSystemsSecurityDirectorate--MCIT NO Action Responsible and Relevant Entity Supporting Organization Deadline Remarks 1 Draft Cybercrime Law MCIT, ISSD, MoJ, Parliament US-DOC, CLDP, Council of Europe, IMPACT, UNCITRAL December 2014 Kickoff meeting started in August 2014 2 Draft e-Transaction and e-Signature Law MCIT, ISSD, MoJ, Parliament US-DOC, CLDP, Council of Europe, UNCITRAL December 2014 Kickoff meeting started in March 2014 3 Draft National Cyber/Information security Policy MCIT, ISSD, National Security Council MCIT December 2014 Kickoff meeting started in March 2014 4 Draft ICT Law MCIT, ISSD, MoJ, Parliament US-DOC, CLDP, UNCITRAL, IMPACT, Council of Europe December 2014 Kickoff meeting started in March 2014 5 Draft Intergovernmental IT security, Router, Switch, Firewall Policies MCIT, ISSD MCIT December 2014 Kickoff meeting started in August 2014 6 Draft Computer crime incident response procedure MCIT, ISSD MCIT December 2014 Kickoff meeting started in March 2014 7 Draft IT security training curriculum/schedule MCIT, ISSD MCIT December 2014 Kickoff meeting started in March 2014 8 Auditing Financial institutes MCIT, ISSD, Central Bank, MCIT and Attorney Generals Office August 2015 Kickoff meeting starts in December 2014 9 Guidelines for forensic investigation MCIT, MoJ and Attorney Generals Office MCIT, MoJ and Attorney Generals Office August 2015 Kickoff meeting starts in November 2014 10 Child Online Protection Policy MCIT, MoE, NGOs MCIT and IMPACT August 2015 Kickoff meeting starts in December 2014 InformationSystemsSecurityDirectorate--MCIT Definitions The terms used in this document, refer to the following meanings: Information systems: The systems involved in providing services, processes and data by means of information and communication technologies."
+    }
+]

@@ -1,0 +1,267 @@
+[
+    {
+        "sentence_id,": "d76d85173c", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Cyberspace has increasingly become the domain through which the citizens fundamental liberties of information, expression and association are fulfilled, the transparency of public policies is pursued and the efficiency of public administrations is stimulated, growth and innovation are attained."
+    }, 
+    {
+        "sentence_id,": "ce7db4c5db", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "These guidelines include: the enhancement of the technical, operational and analytic expertise of all institutions concerned with cybersecurity; the strengthening of the cyber protection of ICT networks and computer systems supporting our critical and strategic infrastructure; the facilitation of public-private partnerships; the promotion of a Culture of Security and of cyber hygiene; the improvement of our skills to effectively contrast online criminal activities; the full support to international cooperation initiatives in the field of cybersecurity."
+    }, 
+    {
+        "sentence_id,": "1fa40cb610", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "The cyber threat and its actors Definition We define the cyber threat as the complex of malicious conducts that can be 12 The Nature and the Evolving Trends of the Cyber Threat and of the Vulnerabilities of the National ICT Infrastructures The intrinsic nature of the cyber threat, therefore, limits the scope of deterrence, favors the attack over defence, and requires that all major stakeholders, both public and private, implement a continuous process of analysis so as to be able to update their security standards and procedures to the evolving operational and technical circumstances."
+    }, 
+    {
+        "sentence_id,": "cf502db484", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "In principle, key requirements of the cyber security policy should extend to: Control of the access to physical installations: in order to minimize the risk of damage, tampering or theft of hardware assets, only traceable and authorized personnel should be granted access to the installations warehouse; Exclusive use of certified products in order to exclude from the supply chain foreign retailers considered at risk; use of up-to-date antivirus software; encryption of data and digital signature; identification and authentication of connected users; monitoring and logging of instances; updating of the access privileges of every user (logical measures); Norms and procedures instructing all phases and aspects of the security processes; definition of roles, tasks and responsibilities within the risk assessment, mitigation and management plan; adoption of specific measures that complete and reinforce the technological preparedness; recurring controls on the consistency and reliability of the ICT assets (procedural measures)."
+    }, 
+    {
+        "sentence_id,": "baf58d2fc3", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "These guidelines include: 19 National strategic framework for cyberspace security The enhancement of the technical, operational and analytic capabilities of all institutions concerned with cybersecurity, so as to leverage the national capability to analyze, prevent, mitigate and effectively react to the multi-dimensional cyber threat; The promotion of the Culture of Security among citizens and institutions, also leveraging the expertise of the academia, so as to raise awareness of the cyber threats among users; The strengthening of our capabilities to protect critical infrastructure and strategic assets from cyber attacks, with the aim also to ensure their business continuity and the full compliance with international requirements, security standards and protocols The reinforcement of our capability to effectively contrast online criminal activities, in compliance with national and international norms; The facilitation of all publicprivate partnerships designed to actively promote the protection of the national intellectual property and technological innovation; The full support to international cooperation in the field of cybersecurity, with a special attention to initiatives underway in the International Organizations of which Italy is a member and with its Allies."
+    }, 
+    {
+        "sentence_id,": "18b5d85fb7", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "With the support of the academia, finalize measures to improve and disseminate security standards and requirements for ICT systems and networks."
+    }, 
+    {
+        "sentence_id,": "e28e921566", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "conduct and rules of behavior that clearly identify what is legitimate under international law; At the European level, reinforcing the protection of critical and strategic ICT communications supporting the single market; achieving a common cyber resilience capability; curbing cybercrime; developing a cyberdefence policy and the Tools and Procedures to Strengthen National Cyber Defence Capability related operational capabilities, in line with the goals and means of the Common Security and Defence Policy; stimulating a solid technological and industrial base for ICT and computer products, in line with the principles set out in the EU cybersecurity strategy and with the commitments made in the European Council and OSCE; At the Trans-Atlantic level, ensuring the efficiency and the interoperability of assets devoted to common defence, and supporting the full integration of the cyber domain in NATO defence planning process and in the military doctrine, so as to ensure the deployment of a robust capability against cyber attacks targeting the vital and Attaining the full operational capability of the National Computer Emergency Response Team (CERT, as already identified by Article no."
+    }, 
+    {
+        "sentence_id,": "a3b5be9ada", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Participation in cybersecurity exercises organized by ENISA and NATO, with the aim of testing and improving national preparedness, also in dealing with cybersecurity events requiring international cooperation."
+    }, 
+    {
+        "sentence_id,": "42ef44cca1", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Establishment of security standards and requirements for products and systems implementing security protocols."
+    }, 
+    {
+        "sentence_id,": "b07a750e2c", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards", 
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "Introduction of processes to certify the compliance to these security standards and, where appropriate, implementation of new procedures for the procurement of ICT products on the national territory."
+    }, 
+    {
+        "sentence_id,": "1028971ffe", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "These standards and procedures should always guarantee international interoperability, especially with NATO and UE countries."
+    }, 
+    {
+        "sentence_id,": "e9a40c3645", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "swift process of procurement, evaluation, verification and certification of ICT products, which has to keep the pace with the rapid innovations that characterizes the sector."
+    }, 
+    {
+        "sentence_id,": "564e8ef80b", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "25 National strategic framework for cyberspace security Implementation of a national integrated system of information risk management which is able to: Identify potential risks; Elaborate risk management policies and procedures."
+    }, 
+    {
+        "sentence_id,": "49a07b62e8", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The Prime Minister is supported in this endeavor by the Committee for the Security of the Republic (CISR), which may propose the adoption of legislative initiatives, approves the guidelines to foster public-private partnerships, the policies for enhancing info-sharing arrangements and the endorsement of best practices, and approves other measures to strengthen cybersecurity."
+    }, 
+    {
+        "sentence_id,": "65376502ba", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "221/2012; Is in charge of planning and coordinating all strategic initiatives aimed at providing access to Public Administrations online services to citizens and firms in the most effective way; objectives, technical Identifies regulations, and guidelines regarding IT security and taxonomy, as well as procedures and standards (including open standards), so as to guarantee full interoperability and cooperation among the Public Administration computer systems and between these and the EUs (Decree Law no."
+    }, 
+    {
+        "sentence_id,": "03e27c3446", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Encourages every initiative aimed at promoting and spreading the knowledge and the awareness of the cyber threats and the measures to mitigate them, also following the recommendations of the Scientific Committee; Composes the national security document highlighting the activities for the defense of the critical, physical and intangible infrastructures, the national cyberspace protection and IT security, that is annexed to the Annual Report to the Parliament on national security strategy and policies."
+    }, 
+    {
+        "sentence_id,": "0009b92776", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "soft law, CSBM); Coordinates Italian participation and efforts in the various multilateral forums of discussion on cybersecurity issues, also encompassing the contribution of the private sector and of the academia; Coordinates and ensure the services and the activities - also with respect to the education and awareness raising of its employees - for enhancing the protection, the resiliency and the efficiency of ICT systems of the Ministry and the diplomatic and consular ICT network; Negotiates, involving other national relevant authorities, all international agreements and arrangements on the subject matter, verifying their coherence and their suitability with respect to the wider national strategic guidelines for the projection of national interest in its various international formulations (security policies, human rights and fundamental liberties protection, countering of transnational threats, safeguard and development of the financial, economic and commercial exchanges, etc."
+    }, 
+    {
+        "sentence_id,": "1f8be45b4b", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Defines and coordinates the military policies and strategies, the cyber governance and the military capabilities in the cyber domain; Supports the prevention and the contrast of terrorist activities and of support to terrorism executed by means of computer systems and ICT networks against the Armed Forceson the national territory and in-theatre, as foreseen in Law no."
+    }, 
+    {
+        "sentence_id,": "122a191618", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "259/2003 and cooperates with other national and international bodies in this subject; Is the Certification Authority of IT Security (OCSI); Participates in the activities promoted by ENISA for the protection of critical IT infrastructures; Participates in the works of several international and European bodies involved in the issue of Internet Governance; Is in the charge of the surveillance of country-code top-level domains in the context of the Italian Registry of ccTLD .it; Is involved in the European program safer Internet; Carries out research activities in cooperation with research centers and Universities in various fields regarding electronic As set in the above mentioned law, the Ministry of Economic Development: Identifies technical and organization measures for the security and integrity of the networks and verifies that the networks operators and the suppliers of ITC services comply with them; Collects from the networks operators and the suppliers of ITC services notifications of severe cyber incidents and forward them to the EU Commission and ENISA; Operates the national CERT (CERT-N); Represents Italy at ENISA - through the Director of the Institute for 38 Public Stakeholders Roles and Mandates communications so as to highlight concrete actions for the implementation of the objectives pursued by the European Digital Agenda."
+    }, 
+    {
+        "sentence_id,": "7eefb9c6e3", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "BYOD Bring Your Own Device A policy allowing company employees to bring their own mobile devices (laptops, smart phones, tablets, etc.)"
+    }, 
+    {
+        "sentence_id,": "990f841440", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "The emails are designed to convince the receivers to open an attachment or TCP/IP Transmission Control Protocol/ Internet Protocol A set of standard protocol developed in the second half of the' 70s by the Defence Advanced Research Project 43 National strategic framework for cyberspace security consisting of a firewall, an antivirus software, and systems to filter spam and its contents."
+    }
+]

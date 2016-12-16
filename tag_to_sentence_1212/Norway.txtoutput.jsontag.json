@@ -1,0 +1,116 @@
+[
+    {
+        "sentence_id,": "015179457a", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "----------------------- Page 1----------------------- Strategy Cyber Security Strategy for Norway ----------------------- Page 2----------------------- 2 ----------------------- Page 3----------------------- Strategy Cyber Security Strategy for Norway ----------------------- Page 4----------------------- 4 ----------------------- Page 5----------------------- Contents Foreword 6 1 Introduction 8 1.1 Target Audience 10 1.2 Background 11 2 Security Challenges and Trends 12 3 Roles and Responsibilities of Ministries for Cyber Security 15 4 Overarching Goals and Strategic Priorities 17 4.1 A More Comprehensive and Systematic Approach to Cyber Security 17 4.2 Improve ICT Infrastructure 18 4.3 A Common Approach to Information Security in Public Administration 20 4.4 Safeguard Societys Ability to Detect, Alert and Handle Serious ICT Incidents 21 4.5 Safeguard Societys Ability to Prevent, Detect and Investigate cyber Crime 22 4.6 Continuous Efforts to Raise Awareness and Competence 23 4.7 High Quality National Research and Development within Information and Communications Security 24 5 Responsibility for Implementation 26 6 Economic and Administrative Implications 27 Appendix A: Terms and Expressions 28 Appendix B: Selected National Contacts for Information Security 30 5 ----------------------- Page 6----------------------- Foreword Information and communications technology (ICT) Information security requires transboundary initiatives has caused major changes to society over the past and encompasses technology, policies, attitudes and decades."
+    }, 
+    {
+        "sentence_id,": "c7f7582ffd", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "emphasise as increasingly important for economic growth, societal security and national and international security policies."
+    }, 
+    {
+        "sentence_id,": "d8072810b3", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "2 of this strategy, the Government has identified four overarching goals for information security: 4.1 A More Comprehensive and Systematic Approach to Information Security 1 Better coordination and common situational understanding 2 Robust and secure ICT infrastructure for everyone Private and public organisations shall safeguard 3 Good ability to handle adverse ICT events information security comprehensively and systematically 4 High level of competence and security awareness This entails a conscious use of information security management systems (ISMS) as a part of corporate None of these overarching information security goals governance Recognised standards must be applied is more important than another, and are mutually Requirements must be tailored to the risk facing the dependent success factors."
+    }, 
+    {
+        "sentence_id,": "7a303c1855", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "strategic priorities and the implementation of specific An increased use of international security standards measures are described in chapter 5 of this strategy."
+    }, 
+    {
+        "sentence_id,": "023095385b", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "17 ----------------------- Page 18----------------------- Increased use of certified ICT products and systems if necessary."
+    }, 
+    {
+        "sentence_id,": "7eb1bdc157", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "infrastructure, security must be weighed against This management system must be based on environmental and economic considerations when recognised security standards."
+    }, 
+    {
+        "sentence_id,": "82f856f296", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Currently, there is not one set of common minimum standards for the public sector Public organisations should be able to securely send with regard to security procedures and technical and receive documents electronically, such that the measures for individual organisations, or for owners of confidentiality, integrity and authenticity can be critical infrastructure."
+    }, 
+    {
+        "sentence_id,": "1ef74f23c6", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "international cooperation and close collaboration between academia, infrastructure owners, relevant All owners and suppliers of components for critical user groups, and the authorities."
+    }, 
+    {
+        "sentence_id,": "87bb9a314c", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "conditions www.norsis.no www.nsm.stat.no www.slettmeg.no NorCERT the national centre for notification of and countermeasure coordination for serious cyber attacks and other ICT security incidents targeting important ICT Norwegian Directorate for Civil Protection (DSB) infrastructure for critical societal functions Driver, advisor and coordinator for preventive and crisis www.cert.no measures nationally, regionally and locally Capacity and aid supplier to support higher authorities and all other authorities in the event of major emergencies or when needed The Norwegian Post and Telecommunications www.dsb.no Authority (PT) www.kriseinfo.no Monitors companies providing electronic communications services, electronic communications networks and postal services, and issuers of official eSignature certificates PT shall contribute to secure and robust networks and services Kripos (National Criminal Investigation Service) www.npt.no The national service for combating organised and other serious crime The main objective of Kripos is to combat Nettvett.no A web site run by PT providing information, organised and other serious crime advice and guidance about safe Internet use Information www.politiet.no/kripos is aimed at both consumers and small and medium sized companies www.nettvett.no 30 ----------------------- Page 31----------------------- Norwegian Intelligence Service (NIS) Responsible for detecting and analyzing external threats and the motives, capabilities and methods of foreign actors, cf the Norwegian Intelligence Service Act The objective of intelligence activities is to contribute to counteract threats and to provide Norwegian authorities with a solid basis for foreign, security and defense policy decisions Norwegian Police Security Service (PST) Responsible for the nations internal security Prevents and investigates crimes that threaten national security, including collecting information on individuals and groups who may pose a threat, developing various analyses and threat assessments, investigations and other operational countermeasures and advice www.pst.politiet.no The Norwegian Data Protection Authority (DT) The Norwegian Data Protection Authority oversees a number of laws and regulations, where information security is an important part of the regulation The overall regulatory framework affects much of the public and private sectors The Norwegian Data Protection Authority has developed a number of guidelines on information security and provides guidance on compliance with legislated requirements www.datatilsynet.no 31 ----------------------- Page 32----------------------- Published by: The Ministry of Government Administration, Reform and Church Affairs Public institutions can order additional copies from: Government Administration Services Internet: www.publikasjoner.dep.no E-mail: publikasjonsbestilling@dss.dep.no Tel."
+    }
+]
