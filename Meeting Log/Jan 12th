@@ -1,0 +1,54 @@
+Work done so far (by Jan 10th):
+1.	Set up folders and files on Github
+2.	Identified two UK documents and load raw text data into group folder
+3.	Got familiar with project goals, data sources and code
+4.	Self-started on python and machine learning review
+5.	Had a meeting and phone call with outside support on machine learning prospective for the project
+6.	Read data file in python environment
+7.	Debugging on sentence ID assignment
+
+Meeting Content:
+Labeling by name so that can see who did it
+2k sentences found
+Word based in current stage, look at single words for classification
+3-5 words together
+Sentences not captured bc of key words, i.e., 
+Children
+Child
+Young people 
+Infant
+<- ML
+Category file based on human analysis profiles
+10 categories 
+Strategic areas, will be put on the repository, can make comments to show to the whole team
+How to categorized the sentences, supervised
+Unsupervised to find the topics, from the content not from the supervised categorized 
+A list of sentences to look at categories
+So far topics not specific
+Sentiment analysis
+Structure of each doc <- human analysis, supervised classification
+More weight to 1st paragraph or leave the last doc
+UK – new one/US
+Make a list 
+Improve supervised model
+Expand dictionary
+Try unsupervised on topics
+Improve the results
+How do you category sentences?
+What is the reason to categorize?
+Unsupervised? And analysis, come up with some conclusions
+How many sentences in one category? How do subcategory split (in each sentence)?
+Java script
+Send our emails to get the docs
+Clustering
+Report
+
+Cybersecurity financial crisis
+
+Achieve milestones in the next few weeks
+
+Timeline ITU
+Mid -June, start writing the guide
+End-April with deliverable
+August for wrapping
+(Miya will graduate in December)
