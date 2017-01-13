@@ -73,4 +73,7 @@ For example this could be a reulting dashboard, but please don't limit your crea
 
 **Includes a search engine and a rich visualization** https://unite.un.org/ideas/content/whs-explorer
 **Text analysis offline and just created a visualization of the results**
-https://unite.un.org/ideas/content/links-sustainable-cities
+https://unite.un.org/ideas/content/links-sustainable-cities  
+
+The screenshot below was built using data from the Fordham Design Lab branch: https://github.com/ICT4SD/CyberSecurity_Strategies/tree/Fordham_DesignLab  
+![screenshot](visual_demo.JPG)
