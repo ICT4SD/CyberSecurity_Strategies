@@ -1,0 +1,662 @@
+[
+    {
+        "sentence": "Icelandic National Cyber Security Strategy 20152026 Plan of action 20152018 Summary in English of the Icelandic National Cyber Security Strategy approved by the Minister of the Interior in April 2015 Ministry of the Interior June 2015 Contents Future vision and strategy regarding cyber security ....................................................................... 3 Future Vision 2026 ............................................................................................................................... 3 Main strategy aims ............................................................................................................................... 3 Introduction ............................................................................................................................................ 4 Strategy and action in Iceland: Taking the initiative on security .................................................. 5 Review of the strategy and action plan ......................................................................................... 6 2 Future vision and strategy regarding cyber security This is a summary of Icelands Future Vision 2026 on National Cyber Security and Main Strategy Aims.", 
+        "sentence_id,": "f63a6a7613"
+    }, 
+    {
+        "sentence": "The Introduction describes the work of the task force which prepared the strategy and action plan; subsequently presenting a survey of various cyber security threats and stressing the importance of tackling them.", 
+        "sentence_id,": "c31bdf2794"
+    }, 
+    {
+        "sentence": "This is followed by a discussion of how well Iceland is prepared to deal with these threats and what can be done to take the initiative and use cyber security as a means of promoting progress and welfare.", 
+        "sentence_id,": "3c287bfcd9"
+    }, 
+    {
+        "sentence": "Future Vision 2026 Iceland should have an Internet culture that is sound, promotes human rights, protects the individual and respects freedom of action to support economic prosperity and development.", 
+        "sentence_id,": "c6f5ed3bc1"
+    }, 
+    {
+        "sentence": "Security in cyber space should be one of the main cornerstones of economic prosperity in Iceland, resting on a foundation of sophisticated awareness of security issues and adequate legislation.", 
+        "sentence_id,": "36faf912e0"
+    }, 
+    {
+        "sentence": "At the same time, Iceland must be prepared to tackle cybercrime, respond to cyber-threats and take measures to prevent espionage and the abuse of personal and commercial data.", 
+        "sentence_id,": "eb9bda71f8"
+    }, 
+    {
+        "sentence": "The public, enterprises and government should have the knowledge, skills and equipment needed to cope with cyber security threats.", 
+        "sentence_id,": "d49f095e0b"
+    }, 
+    {
+        "sentence": "Key factors in enhanced resilience are greater capacity in the fields of assessment, preparedness and response.", 
+        "sentence_id,": "5cb1d98c44"
+    }, 
+    {
+        "sentence": "The aim is to raise the resilience of Icelands information systems and their preparedness to a level comparable with that of the other Nordic countries.", 
+        "sentence_id,": "e7dfc94222"
+    }, 
+    {
+        "sentence": "This should be done through, amongst other things, improving capacity in threat assessment, enhanced cooperation and making security concerns an integral part of the maintenance of cyber systems.", 
+        "sentence_id,": "db53ec90a3"
+    }, 
+    {
+        "sentence": "Icelandic legislation should reflect the international demands and obligations the country undertakes regarding cyber security and the protection of personal data.", 
+        "sentence_id,": "62c58626f5"
+    }, 
+    {
+        "sentence": "Furthermore, legislation must also support innovation and the development of security-related services, e.g.", 
+        "sentence_id,": "e20b633eb6"
+    }, 
+    {
+        "sentence": "The police should have, or have access to, the professional knowledge, skills and equipment needed to resolve issues concerning cyber security.", 
+        "sentence_id,": "ec36e4b6d3"
+    }, 
+    {
+        "sentence": "Its main task is to formulate government strategy on cyber security and the protection of IT infrastructure elements that are relevant to national security, i.e.", 
+        "sentence_id,": "fd00357850"
+    }, 
+    {
+        "sentence": "the IT systems of key institutions in Icelandic society.", 
+        "sentence_id,": "a63a4e3210"
+    }, 
+    {
+        "sentence": "Most of these systems are in turn linked to other IT systems in one way or another via the Internet.", 
+        "sentence_id,": "5cff628d87"
+    }, 
+    {
+        "sentence": "Demarcation of the strategy The strategy is intended to address the protection of important elements of the infrastructure in Iceland and the responses called for in view of the growing cyber-threats which pose a hazard to the government, the economy and the ordinary citizen.", 
+        "sentence_id,": "fa25d61d43"
+    }, 
+    {
+        "sentence": "The Internet has already become an integral part of the daily life of almost all people in Iceland and will continue to do so to an ever-greater degree.", 
+        "sentence_id,": "4fd99ef22b"
+    }, 
+    {
+        "sentence": "In this environment, security is of paramount importance; hence, the strategy covers all use of the Internet and Information Technology.", 
+        "sentence_id,": "7f6fca6fe4"
+    }, 
+    {
+        "sentence": "The social aims of the strategy are as follows: To enhance the security of individuals and groups in society by increasing cyber security.", 
+        "sentence_id,": "4e84a76cc5"
+    }, 
+    {
+        "sentence": "To promote the integrated functioning of important elements of the infrastructure of society by increasing the resilience of cyber systems to cope with hazards.", 
+        "sentence_id,": "9d0de8425a"
+    }, 
+    {
+        "sentence": "To establish closer collaboration and coordination on cyber security between Icelandic and international authorities.", 
+        "sentence_id,": "c68a76c67f"
+    }, 
+    {
+        "sentence": "Efficient collaboration must be established between Icelandic and international authorities, with a demarcation of the division of responsibilities and tasks between them in the field of cyber security.", 
+        "sentence_id,": "8656cce55c"
+    }, 
+    {
+        "sentence": "In drawing up the strategy, attention was given to various other strategies in this field, both in Iceland and in the other Nordic countries and also those of international organisations of which Iceland is a member.", 
+        "sentence_id,": "6968b0bd7d"
+    }, 
+    {
+        "sentence": "The task force consists of: Sigurur Emil Plsson, a specialist at the Ministry of the Interior (Chairman); Gubjrg Sigurardttir, Head of Department in charge of the Information Society Project at the Ministry of the Interior; Pll Heiar Halldrsson and Ott V. Winther, specialists at the Ministry of the Interior, Jn F. Bjartmarz, Detective Chief Superintendent and gst Finnsson (from January 2014), specialist, at the Office of the National Commissioner of the Icelandic Police, Hrafnkell V. Gslason, Director of the Post and Telecom Administration, Stefn Snorri Stefnsson, Head of the National CERT - CERT-S at the Post and Telecom Administration, Jnas Haraldsson, specialist at the Ministry of Foreign Affairs and orsteinn Arnalds (from May 2014), specialist at the Data Protection Authority (Persnuvernd).", 
+        "sentence_id,": "6e7b737c1f"
+    }, 
+    {
+        "sentence": "The task force focused on reviewing the general foundations and recommendations on which strategies in this area have been based.", 
+        "sentence_id,": "c082fec26c"
+    }, 
+    {
+        "sentence": "The strategies of some of the other Nordic countries were examined and discussions were held with domestic and foreign parties, consultants and government officials on various aspects of information security.", 
+        "sentence_id,": "0c1b5cdb45"
+    }, 
+    {
+        "sentence": "The task force also discussed the threats and opportunities that have been defined and the experience gained from the plans of action already been put into practice in other Nordic countries.", 
+        "sentence_id,": "c8581a5faf"
+    }, 
+    {
+        "sentence": "Those present included about 80 representatives of some 60 institutions and enterprises.", 
+        "sentence_id,": "6b21f66137"
+    }, 
+    {
+        "sentence": "Another similar meeting, 4 held on 15 January 2015, was attended by about 60 people.", 
+        "sentence_id,": "e22f137e21"
+    }, 
+    {
+        "sentence": "The views voiced at these meetings were taken into consideration in drawing up the strategy.", 
+        "sentence_id,": "eee6ad88aa"
+    }, 
+    {
+        "sentence": "Connection with other strategies and parliamentary resolutions Direct and indirect links exist between the strategy on cyber security and many other official strategies and resolutions, e.g.", 
+        "sentence_id,": "394a9f44d3"
+    }, 
+    {
+        "sentence": "the national strategy on civil protection and public security, law enforcement, telecommunications, the planned strategy on national security and the Icelandic State and Municipal Policy on the Information Society 2013-2016: e-Power Expansion: create, connect, participate Strategy and action in Iceland: Taking the initiative on security The threats and challenges outlined above call for responses.", 
+        "sentence_id,": "28db15c98d"
+    }, 
+    {
+        "sentence": "As a whole, the situation presents an important opportunity to forge ahead and make Icelands IT environment more secure and more competitive in the international context.", 
+        "sentence_id,": "a55dca831a"
+    }, 
+    {
+        "sentence": "Generally, prioritising security straight away at the initial planning stage means that expensive situations can be avoided later on.", 
+        "sentence_id,": "4571fe9428"
+    }, 
+    {
+        "sentence": "Integrating security considerations in the initial plan makes it possible to design reliable computer systems, just as sound foundations make it possible to build a skyscraper: without them, the project remains a castle in the air.", 
+        "sentence_id,": "911eb64d12"
+    }, 
+    {
+        "sentence": "Priority must be given to security by design and privacy by design, i.e.", 
+        "sentence_id,": "c7175581a1"
+    }, 
+    {
+        "sentence": "the inclusion of security and privacy considerations from the outset in the design process.", 
+        "sentence_id,": "f9849cefd4"
+    }, 
+    {
+        "sentence": "Cyber security must form a part of computer-related studies at all levels of the educational system.", 
+        "sentence_id,": "144c71eaac"
+    }, 
+    {
+        "sentence": "Moreover, such studies at university level must be upgraded, with closer collaboration with universities abroad to enable students graduating from Icelandic universities to undertake postgraduate studies in cyber security.", 
+        "sentence_id,": "6a4bbbb851"
+    }, 
+    {
+        "sentence": "It is likely that ever more stringent security requirements will be made on the market for software and software-related services.", 
+        "sentence_id,": "935a90de02"
+    }, 
+    {
+        "sentence": "Many states intend to make use of this opportunity to create for themselves a competitive advantage over others and offer an IT environment supporting the needs of commerce, industry and private individuals.", 
+        "sentence_id,": "8de35237be"
+    }, 
+    {
+        "sentence": "This could involve both a more secure environment for e-commerce and also being in the forefront of cyber security and making it into a valuable export product.", 
+        "sentence_id,": "e20fc6e205"
+    }, 
+    {
+        "sentence": "Defence against industrial espionage is also an important aspect of this, since such espionage constitutes a large part of the economic damage caused by cyber security threats.", 
+        "sentence_id,": "1c27569607"
+    }, 
+    {
+        "sentence": "Consultancies are starting to use nations cyber security status as a factor in their advice on choice of location for enterprises which intend to set up data centres or other computer-related services.", 
+        "sentence_id,": "7aa7bd122b"
+    }, 
+    {
+        "sentence": "The legal environment in Iceland must also support software-related development and provide protection against cybercrime in order to deter criminal organisations from seeing the country as a suitable venue for their activities because of low level of cyber security.", 
+        "sentence_id,": "d526c3529c"
+    }, 
+    {
+        "sentence": "At any given time, steps must be taken to evaluate how Icelands legislation stands in comparison with that of the other Nordic countries.", 
+        "sentence_id,": "c4a0376469"
+    }, 
+    {
+        "sentence": "Furthermore, the police must have the powers to enforce this legislation.", 
+        "sentence_id,": "43467e79ef"
+    }, 
+    {
+        "sentence": "Particular attention must be given to the protection of personal data: technical developments and standards can change very rapidly and it is important that the level of protection in Iceland is not lower than in other Nordic countries.", 
+        "sentence_id,": "599c2d653e"
+    }, 
+    {
+        "sentence": "Considerable results can also be achieved through simple awareness-raising.", 
+        "sentence_id,": "0bc294a61e"
+    }, 
+    {
+        "sentence": "By employing relatively simple precautionary measures, it is believed that hazards both to private individuals and enterprises can be reduced significantly.", 
+        "sentence_id,": "d3a1f0360b"
+    }, 
+    {
+        "sentence": "A great deal is at stake when it comes to combating cybercrime.", 
+        "sentence_id,": "5bd7169ebb"
+    }, 
+    {
+        "sentence": "Defences must be raised around important elements in the infrastructure in Iceland.", 
+        "sentence_id,": "83f108b58b"
+    }, 
+    {
+        "sentence": "This is a manyfaceted task.", 
+        "sentence_id,": "539964c6f3"
+    }, 
+    {
+        "sentence": "It is important to have a high-capacity cyber security team capable of analysing and evaluating cyber-attacks of various types and providing assistance in the case of attacks.", 
+        "sentence_id,": "c2407db5bb"
+    }, 
+    {
+        "sentence": "5 Telecommunications systems and the primary data transmission networks must be reliable.", 
+        "sentence_id,": "5168191517"
+    }, 
+    {
+        "sentence": "IT and IT security in public administration must be enhanced, for example regarding coordination, education and awareness-raising.", 
+        "sentence_id,": "93baf0fa5f"
+    }, 
+    {
+        "sentence": "The main basis of Icelands security and defence lies in the countrys collaboration with NATO, active collaboration with other Nordic countries and the Defence Agreement with the United States.", 
+        "sentence_id,": "7f71543787"
+    }, 
+    {
+        "sentence": "It also includes the IT infrastructures mentioned above.", 
+        "sentence_id,": "0acc26d691"
+    }, 
+    {
+        "sentence": "The protection of the infrastructures on which these activities rely in Iceland is therefore one of the most important aspects of Icelands national defence.", 
+        "sentence_id,": "c013ca1be9"
+    }, 
+    {
+        "sentence": "In view of this, the agreement signed recently with NATOs Cyber Defence Management Board will lead to increased collaboration in this field.", 
+        "sentence_id,": "5693278fc1"
+    }, 
+    {
+        "sentence": "As an indication of the importance attached by NATO to cyber security, it was decided that cyber-attacks could be classified under Article 5 of the NATO Treaty.", 
+        "sentence_id,": "efc478e599"
+    }, 
+    {
+        "sentence": "Increased collaboration with other international organisations such as the United Nations, the Council of Europe, the European Union and the Organisation for Security and Cooperation in Europe can also promote cyber security in Iceland.", 
+        "sentence_id,": "562dac8077"
+    }, 
+    {
+        "sentence": "A great deal can be gained from taking the initiative and forging ahead in this area.", 
+        "sentence_id,": "7a1cddce17"
+    }, 
+    {
+        "sentence": "Building up cyber security is a challenge that no single entity in our society can undertake.", 
+        "sentence_id,": "8cd6fc0772"
+    }, 
+    {
+        "sentence": "To ensure optimum results it is necessary to approach the task in a comprehensive manner, involving as many IT users as possible.", 
+        "sentence_id,": "2db124c52c"
+    }, 
+    {
+        "sentence": "Both government institutions and private companies in addition to individuals should be included in this process..", 
+        "sentence_id,": "3241da5e8e"
+    }, 
+    {
+        "sentence": "It is important to begin this work immediately and create a common forum for development and collaboration, e.g.", 
+        "sentence_id,": "4d73bf864a"
+    }, 
+    {
+        "sentence": "regarding security standards, coordination, identification of cyber security threats and the organisation of responses.", 
+        "sentence_id,": "4423e945b3"
+    }, 
+    {
+        "sentence": "Last but not least it is important to be aware of the fact that this will be an on-going process subject to continual review as it progresses, with new challenges calling for new solutions.", 
+        "sentence_id,": "356c233010"
+    }, 
+    {
+        "sentence": "The strategy envisages the development of cyber security along the same lines as other aspects of civil protection and security.In the event of a catastrophe or cyber-threat, the emphasis will be on the rapid exchange of information between the parties concerned in order to minimise and mitigate damage, after which work will proceed on the next steps to be taken; assessment and recovery measures will follow the same pattern as is described in the civil defence programme.", 
+        "sentence_id,": "0f7bcdb900"
+    }, 
+    {
+        "sentence": "Furthermore, the event will be analysed in order to learn as much as possible from it.", 
+        "sentence_id,": "9004634544"
+    }, 
+    {
+        "sentence": "If the event is caused by human agents, then it must also be guaranteed that an efficient police investigation can go ahead.", 
+        "sentence_id,": "551a448ed9"
+    }, 
+    {
+        "sentence": "Review of the strategy and action plan This strategy shall be examined and reviewed as necessary, at minimum every four years.", 
+        "sentence_id,": "59cceed8e4"
+    }, 
+    {
+        "sentence": "Measures based on the strategy shall be designed to cover shorter periods and shall be reviewed at least once a year.", 
+        "sentence_id,": "625ac73b57"
+    }, 
+    {
+        "sentence": "Procedure in implementing the strategy shall be in the spirit of public administration.", 
+        "sentence_id,": "7645814ce7"
+    }, 
+    {
+        "sentence": "6 Action plan 20152018 In order to put the cyber security strategy into action, it is proposed that a special cyber security council shall be appointed, consisting of representatives of the government bodies involved in the implementation of the strategy., Moreover, a cyber security forum should be set up, representing stakeholders both public and private entities.", 
+        "sentence_id,": "4131046b7b"
+    }, 
+    {
+        "sentence": "The Cyber Security Council Supervision of implementation of the strategy is to be the responsibility of the Cyber Security Council, which will be appointed by the Minister of the Interior.", 
+        "sentence_id,": "db455f1ffa"
+    }, 
+    {
+        "sentence": "The Cyber Security Council will coordinate measures, particularly those involving government bodies.", 
+        "sentence_id,": "d5b232cb2c"
+    }, 
+    {
+        "sentence": "It will review the action plan at least once a year and make proposals on the prioritisation and funding of measures taken.", 
+        "sentence_id,": "523348b177"
+    }, 
+    {
+        "sentence": "The Cyber Security Council will submit a report to the Minister of the Interior every year on implementation of the strategy.", 
+        "sentence_id,": "88e3f5acc1"
+    }, 
+    {
+        "sentence": "The Cyber Security Forum This is a collaborative venue for representatives of public bodies who sit on the Cyber Security Council and of private entities.", 
+        "sentence_id,": "fce9e8366b"
+    }, 
+    {
+        "sentence": "The forum will be able to coordinate projects involving stakeholders, in part or in their entirety, and create a basis for collaboration on specific projects, addressing cyber security in demarcated areas.", 
+        "sentence_id,": "1044b653f0"
+    }, 
+    {
+        "sentence": "Cyber Security Forum Cyber Security Council Ministry of the Interior Data Protection Authority Ministry for Foreign Affairs Telecommunications (including Defence) Financial systems Information Society Project Public Adiministration Ministry of Education, Culture and Science Ministry of Industries and Innovation Utilities National Commissioner of the Icelandic Police Ministry of Finance and Economic Affairs CERT-IS Transport and communications Information technology Health services Post and Telecom Administration Universities 7 The measures planned for the first period will call for a special effort to establish the broad collaboration needed between the government and stakeholders According to the plan these measures will be reviewed annually; in subsequent periods procedure will be harmonised with normal standards of other strategy applications.", 
+        "sentence_id,": "15230bca55"
+    }, 
+    {
+        "sentence": "The strategy is intended to form the basis of collaboration and development in cyber security.", 
+        "sentence_id,": "9c0abf7d86"
+    }, 
+    {
+        "sentence": "The strategy itself will not change the responsibilities and duties of those involved in cyber security even though proposals may be made for measures that may involve changes in these areas.", 
+        "sentence_id,": "931e96593e"
+    }, 
+    {
+        "sentence": "The forum is the venue for planning individual measures in detail with cost estimates.", 
+        "sentence_id,": "28a57cf202"
+    }, 
+    {
+        "sentence": "As many of these measures involve coordination in the work of various entities, special funding is not needed to begin this development.", 
+        "sentence_id,": "1dd691d07b"
+    }, 
+    {
+        "sentence": "Nevertheless to ensure the effort will have sufficient capacity, about ISK 20 million will probably be needed to pay for coordination, reports and educational/training/awareness-raising work.", 
+        "sentence_id,": "0208061dcc"
+    }, 
+    {
+        "sentence": "It is envisaged that enterprises (companies) will provide the funds to meet part of the costs of some of the projects.", 
+        "sentence_id,": "3ba2bfc58d"
+    }, 
+    {
+        "sentence": "Proposals for projects requiring public funding will be submitted to the Cyber Security Council, which will make proposals on priority ranking of projects, following consultation with stakeholders.", 
+        "sentence_id,": "46c6974801"
+    }, 
+    {
+        "sentence": "At the end of each period, the Cyber Security Council will compile a report based on summaries submitted by those responsible for all the measures, give an account of the results of the work and submit proposals, following consultation with stakeholders, on a plan of action for the next three years.", 
+        "sentence_id,": "f4b84e68f2"
+    }, 
+    {
+        "sentence": "The aim is that the work of the Cyber Security Council will be transparent: minutes of meetings and other materials will be published except where publication would be contrary to law, e.g.", 
+        "sentence_id,": "78ecec8a9c"
+    }, 
+    {
+        "sentence": "in view of personal data protection considerations.", 
+        "sentence_id,": "bc404accf0"
+    }, 
+    {
+        "sentence": "1: Capacity building The public, enterprises and government should have the knowledge, skills and equipment needed to cope with cyber security threats.", 
+        "sentence_id,": "0b8f8b0f25"
+    }, 
+    {
+        "sentence": "Knowledge is the prerequisite for being able to build up capacity in cyber security.", 
+        "sentence_id,": "bca5af69e6"
+    }, 
+    {
+        "sentence": "The challenge is similar to that in raising the level of traffic safety: There is a technical side, similar to having the highest possible standards of vehicle safety and well-constructed roads, etc.", 
+        "sentence_id,": "d1ba371998"
+    }, 
+    {
+        "sentence": "The ordinary person does not need to be a qualified mechanic to enjoy traffic safety, but he does need to be an active participant in traffic, with a certain knowledge of what constitutes safe vehicles and safe behaviour this applying both to his own and to others for his own good and that of other road-users.", 
+        "sentence_id,": "f60a21a72c"
+    }, 
+    {
+        "sentence": "An active interest in security need not be daunting or difficult; on the contrary, it makes things easier for everyone.", 
+        "sentence_id,": "dfba3b1b74"
+    }, 
+    {
+        "sentence": "Security issues must be a part of peoples use of computers and other equipment from the outset when children are first introduced to them and so on up through the school system.", 
+        "sentence_id,": "1e1a8a4eff"
+    }, 
+    {
+        "sentence": "Awareness-raising is a key component in the cyber security strategies of most of our neighbouring countries.", 
+        "sentence_id,": "8de1bc14b9"
+    }, 
+    {
+        "sentence": "It must extend to the design and use of equipment and respect for personal data.", 
+        "sentence_id,": "ba1e3a020d"
+    }, 
+    {
+        "sentence": "In Iceland as elsewhere, part of this knowledge involves how we speak about the subject, i.e.", 
+        "sentence_id,": "cc58f077d6"
+    }, 
+    {
+        "sentence": "the vocabulary and use of terminology.", 
+        "sentence_id,": "24270055da"
+    }, 
+    {
+        "sentence": "If the subject is to thrive and develop, it will be necessary to standardise and coordinate this terminology.", 
+        "sentence_id,": "cae0b45b2a"
+    }, 
+    {
+        "sentence": "There must also be a clear division of responsibilities, defining who is to do what, how much responsibility lies with each user and what expectations can reasonably be made of others.", 
+        "sentence_id,": "06bfe1283b"
+    }, 
+    {
+        "sentence": "Iceland has experts who have worked successfully together for many years.", 
+        "sentence_id,": "e1c03b6f10"
+    }, 
+    {
+        "sentence": "Nevertheless it is a major challenge to develop a reliable foundation on which to build a cyber security culture.", 
+        "sentence_id,": "55cff5d046"
+    }, 
+    {
+        "sentence": "The degree to which such a culture is established is one of the factors that investors take into account when they assess countries as potential locations for new projects.", 
+        "sentence_id,": "adaced44e8"
+    }, 
+    {
+        "sentence": "Awareness-raising Enhancement of general awareness of cyber security issues.", 
+        "sentence_id,": "f34649fed1"
+    }, 
+    {
+        "sentence": "Terminology Relevant international definitions of important terms in cyber security to be collected and translated into Icelandic where necessary.", 
+        "sentence_id,": "a30bc7fc9b"
+    }, 
+    {
+        "sentence": "Education Cyber security to be included in all computer-related studies at all school levels.", 
+        "sentence_id,": "e4a802aec1"
+    }, 
+    {
+        "sentence": "Postgraduate studies Students with first degrees from Icelandic universities to have access to postgraduate studies in cyber security meeting requirements comparable to those made in the other Nordic countries.", 
+        "sentence_id,": "5d1ac0884e"
+    }, 
+    {
+        "sentence": "Design values Secure design and personal data protection to be included in the basic values observed in Icelandic software development.", 
+        "sentence_id,": "b998473143"
+    }, 
+    {
+        "sentence": "Personal data protection International standards and obligations regarding personal data protection to be taken into account when developing cyber security.", 
+        "sentence_id,": "eeae69f783"
+    }, 
+    {
+        "sentence": "2: Increased resilience An upgrading of the resilience of information systems.", 
+        "sentence_id,": "d0316720ec"
+    }, 
+    {
+        "sentence": "Greater capacity in the fields of assessment, preparedness and response as key factors in increased resilience.", 
+        "sentence_id,": "86f4307750"
+    }, 
+    {
+        "sentence": "Monitoring and response capacity must be increased so as to respond to abnormal situations on the Internet.", 
+        "sentence_id,": "d9da95b9a4"
+    }, 
+    {
+        "sentence": "Nevertheless, full regard must be given to appropriate considerations of personal data integrity.", 
+        "sentence_id,": "81a7e3eedf"
+    }, 
+    {
+        "sentence": "It must be possible for key entities to exchange information about possible threats quickly.", 
+        "sentence_id,": "454f909c0d"
+    }, 
+    {
+        "sentence": "Therefore it is important to establish one or more collaborative forums on which information on cyber security threats can be shared in a clearly defined manner without infringement of competition or personal data considerations.", 
+        "sentence_id,": "9dcc013526"
+    }, 
+    {
+        "sentence": "This could require mediation through a public body to ensure that it is possible to share information on cyber-threats quickly without revealing the identity of the target.", 
+        "sentence_id,": "1739fe0a85"
+    }, 
+    {
+        "sentence": "The pace of development in the field of cyber security is very rapid.", 
+        "sentence_id,": "df752c46f8"
+    }, 
+    {
+        "sentence": "For this reason it is important that all entities involved are active in international collaboration, each in its respective area.", 
+        "sentence_id,": "e1d7ddfddd"
+    }, 
+    {
+        "sentence": "Close collaboration between stakeholders in Iceland, with efficient exchange of information, will make it possible to respond jointly to rapid change.", 
+        "sentence_id,": "40af321267"
+    }, 
+    {
+        "sentence": "Active participation in international collaboration is also necessary to maintain flexibility, skills and contacts and be able to work with other national and supranational authorities when a crisis on the Internet looms.", 
+        "sentence_id,": "081bef0fdb"
+    }, 
+    {
+        "sentence": "It is also vital that Iceland presents a single coordinated strategy in cyber security matters when the country takes part in international collaboration.", 
+        "sentence_id,": "f5edaff09e"
+    }, 
+    {
+        "sentence": "Increased resilience in information systems will depend on reliable design.", 
+        "sentence_id,": "682cd55ca7"
+    }, 
+    {
+        "sentence": "Reliable design must be a crucial consideration in the purchase and development of software, particularly in the case of key elements in IT infrastructure.", 
+        "sentence_id,": "7be5f098d8"
+    }, 
+    {
+        "sentence": "This applies at the national, corporate and individual level.", 
+        "sentence_id,": "ffffd470ea"
+    }, 
+    {
+        "sentence": "A collaborative forum A forum must be established where representatives of government and private enterprises can work together on cyber security issues.", 
+        "sentence_id,": "d9bc00602f"
+    }, 
+    {
+        "sentence": "Security yardsticks Choice of appropriate yardsticks (standards and others) for cyber security.", 
+        "sentence_id,": "7d6ef5d6b7"
+    }, 
+    {
+        "sentence": "9. International collaboration Icelands involvement in cyber security abroad must be increased and coordinated.", 
+        "sentence_id,": "25910ef865"
+    }, 
+    {
+        "sentence": "Reliability of primary data systems Telecommunications systems and the primary data transmission networks must offer support, with a defined degree of reliability, the Internet and IT networks of key elements in Icelands infrastructure, both as regards connections within the country and their interface with other countries.", 
+        "sentence_id,": "f7e15f7995"
+    }, 
+    {
+        "sentence": "Public administration Cyber security in the field of public administration must be upgraded by means of increased training, coordination and collaboration.", 
+        "sentence_id,": "7f44721894"
+    }, 
+    {
+        "sentence": "Analysis Principal cyber security threats must be analysed and key elements in the Icelandic infrastructure identified.", 
+        "sentence_id,": "acbcf57fd0"
+    }, 
+    {
+        "sentence": "Protection of the infrastructure The capacity of the cyber security team to raise the level of protection and assist important elements in the national infrastructure must be increased, and an active response mechanism must be in place on a round-the-clock basis every day of the year.", 
+        "sentence_id,": "55fbe2dc60"
+    }, 
+    {
+        "sentence": "Particular emphasis should be placed on telecoms, utilities and financial companies and the systems necessary for international aviation.", 
+        "sentence_id,": "8511aa90a6"
+    }, 
+    {
+        "sentence": "Response Response contingency plans to deal with cyber security threats must be developed and tested by means of exercises.", 
+        "sentence_id,": "1dc2963bbb"
+    }, 
+    {
+        "sentence": "The focus must be on protecting important elements in the national infrastructure.", 
+        "sentence_id,": "681d60e116"
+    }, 
+    {
+        "sentence": "3: Strengthened legislation Icelandic legislation should reflect the international demands and obligations the country undertakes regarding cyber security and the protection of personal data.", 
+        "sentence_id,": "ad64c3c4e9"
+    }, 
+    {
+        "sentence": "Furthermore, legislation must also support innovation and the development of security related services, e.g.", 
+        "sentence_id,": "377c1f49c5"
+    }, 
+    {
+        "sentence": "Good legislation is a crucial factor for developing cyber security.", 
+        "sentence_id,": "c210e2798b"
+    }, 
+    {
+        "sentence": "Its importance is clear in many contexts: Iceland is a member of international agreements under which it is obliged to meet certain requirements in its domestic legislation.", 
+        "sentence_id,": "3cecd1951c"
+    }, 
+    {
+        "sentence": "As the Internet is international, it is important that Icelands legislation should be compatible with that of its neighbours as far as possible.", 
+        "sentence_id,": "c92c1ef50f"
+    }, 
+    {
+        "sentence": "Legislation must ensure personal data safety and serve as a basis to create an attractive environment for IT companies to operate and develop in.", 
+        "sentence_id,": "25adcb2468"
+    }, 
+    {
+        "sentence": "Legislation must not contain loopholes that might attract criminal organisations.", 
+        "sentence_id,": "8a29a95e72"
+    }, 
+    {
+        "sentence": "The European Unions strategy on cyber security must be taken into account in Icelands legislation.", 
+        "sentence_id,": "ff6bde7ed7"
+    }, 
+    {
+        "sentence": "The use of cloud technology entails various legal implications and challenges.", 
+        "sentence_id,": "d7b9252bfd"
+    }, 
+    {
+        "sentence": "Attention must be given to what other countries, and the EU, are doing in this area and what legal interpretations they follow.", 
+        "sentence_id,": "a98f844069"
+    }, 
+    {
+        "sentence": "The reporting of cyber security incidents must be made obligatory.", 
+        "sentence_id,": "bf51109f27"
+    }, 
+    {
+        "sentence": "It would be desirable to have this obligation expressed in such a way that entities see it as being in their interest, as well as being obligatory, to report these incidents.", 
+        "sentence_id,": "61609e010c"
+    }, 
+    {
+        "sentence": "For example steps must be taken to avoid the impression that reporting might damage the image or competitive position of a company and that competitors might gain an advantage by staying silent.", 
+        "sentence_id,": "2ae5e4dbc7"
+    }, 
+    {
+        "sentence": "The arrangement already in place regarding traffic accidents could be used as a frame of reference for this, as appropriate.", 
+        "sentence_id,": "e6aa8b56f8"
+    }, 
+    {
+        "sentence": "Strengthened legislation A review of Icelandic legislation should be made to ensure that it conforms to the countrys international obligations and makes it possible to tackle cyber security threats in the same way as is done in other Nordic countries.", 
+        "sentence_id,": "e2a3ea8338"
+    }, 
+    {
+        "sentence": "At the same time, it must be ensured that cyber security threats can be appropriately tackled in the same way as other threats.", 
+        "sentence_id,": "4fbd2c7cc1"
+    }, 
+    {
+        "sentence": "4: Tackling cybercrime The police should have, or have access to, the professional knowledge, skills and equipment needed to resolve issues concerning cyber security Issues of various types may arise in connection with law-enforcement and the investigation of cybercrime due to the international nature of the Internet.", 
+        "sentence_id,": "106cdcea3a"
+    }, 
+    {
+        "sentence": "Questions of national jurisdiction and the increasing use of cloud solutions are relevant examples The Icelandic police must have the capacity to investigate cybercrime.", 
+        "sentence_id,": "1d30c2d64d"
+    }, 
+    {
+        "sentence": "To ensure that this is the case, sufficient attention must be given to the training of specialists, but also for ordinary police officers, covering how to recognise and respond to offences in this area.", 
+        "sentence_id,": "458f8174d0"
+    }, 
+    {
+        "sentence": "The police must have access to experts in Iceland and abroad, as appropriate, not least to the resources of Europol.", 
+        "sentence_id,": "0b10ac4388"
+    }, 
+    {
+        "sentence": "Capacity to offer protection against espionage on the Internet and other abnormal data collection must be increased.", 
+        "sentence_id,": "a054a4d49a"
+    }, 
+    {
+        "sentence": "The ability to deal with cybercrime is a pre-requisite for Icelands being able to make the full use of the social and economic opportunities offered by the Internet.", 
+        "sentence_id,": "b3da3667ff"
+    }, 
+    {
+        "sentence": "Law-enforcement capacity to tackle cybercrime is one of the factors which companies take into account when choosing a safe operating environment.", 
+        "sentence_id,": "457fa7768f"
+    }, 
+    {
+        "sentence": "Having a visible capacity in this area may therefore be of distinct advantage for Iceland.", 
+        "sentence_id,": "9a5f839a4f"
+    }, 
+    {
+        "sentence": "Tackling cybercrime The ability of the police to tackle cybercrime should be upgraded in the form of skills based on training and awareness-raising, increased domestic and international collaboration and acquisition of the necessary equipment.", 
+        "sentence_id,": "59fea63d7f"
+    }
+]

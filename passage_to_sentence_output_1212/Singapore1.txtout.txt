@@ -1,0 +1,574 @@
+[
+    {
+        "sentence": "2 / NATIONAL CYBER SECURITY MASTERPLAN 2018 NATIONAL CYBER SECURITY MASTERPLAN 2018 / 3 Introduction Brief History of the Masterplans The cyber landscape evolves rapidly, and so too must Singapores efforts to foster a secure and resilient national infocomm environment.", 
+        "sentence_id,": "792a0f5656"
+    }, 
+    {
+        "sentence": "Singapores Infocomm Security Masterplans are reviewed every 3 5 years.", 
+        "sentence_id,": "bd105a4e85"
+    }, 
+    {
+        "sentence": "This ensures that Singapore continues to be a secure and trusted Since 2005, infocomm security masterplans have provided Singapore with strategic directions in securing its infocomm environment, while taking a balanced approach between security requirements and ease of conducting business or daily activities.", 
+        "sentence_id,": "819f98fb27"
+    }, 
+    {
+        "sentence": "The National Cyber Security Masterplan 2018 (NCSM2018) is the latest five-year plan to enhance the cyber security of Singapores public, private and people sectors.", 
+        "sentence_id,": "1a6756c0a2"
+    }, 
+    {
+        "sentence": "In addition to Government and Critical Infocomm Infrastructure (CII), its scope has now been broadened to take into consideration businesses and individuals.", 
+        "sentence_id,": "76512fc10c"
+    }, 
+    {
+        "sentence": "Infocomm Security Masterplan 2 (2008-2012) The first Infocomm Security Masterplan (ISMP) initiated Singapores concerted efforts towards a secured infocomm environment by first making the Governments infocomm environment more secure.", 
+        "sentence_id,": "fa7f289e97"
+    }, 
+    {
+        "sentence": "In 2008, the ISMP was succeeded by a second Masterplan (MP2), a five-year roadmap that built upon the achievements of its predecessor and expanded coverage to include Critical Infocomm Infrastructure (CII) to make Singapore a Secure and Trusted Hub.", 
+        "sentence_id,": "6d26c2a6e8"
+    }, 
+    {
+        "sentence": "ISMP MP2 GOVT NCSM 2018 SIN BU Under the guidance of the National Infocomm Security Committee (NISC), and led by IDA, its Whole-ofGovernment approach aligns the efforts of multiple government agencies in strengthening resilience against cyber threats.", 
+        "sentence_id,": "7e3318763d"
+    }, 
+    {
+        "sentence": "This will help Singapore realise the vision of becoming a Trusted and Robust Infocomm Hub.", 
+        "sentence_id,": "01ab7ebc2b"
+    }, 
+    {
+        "sentence": "Infocomm Security Masterplan (2005-2007) CII ESSE S AND INDIVI A LS With infocomm technologies playing an increasing role in enhancing key economic sectors and building a wellconnected society, the importance of a comprehensive masterplan cannot be overstated.", 
+        "sentence_id,": "f1546bae66"
+    }, 
+    {
+        "sentence": "infocomm environment, capable of mitigating cyber threats and meeting long-term societal and economic needs.", 
+        "sentence_id,": "bba92b95d5"
+    }, 
+    {
+        "sentence": "DU 4 / NATIONAL CYBER SECURITY MASTERPLAN 2018 NATIONAL CYBER SECURITY MASTERPLAN 2018 / 5 National Cyber Security Masterplan 2018 Strategic Drivers Focus group discussions were held with companies such as Microsoft, Symantec, McAfee and associations such as SITF, AISP, (ISC)2 to identify the strategic directions for NCSM2018 The National Cyber Security Masterplan (NCSM2018) builds on the work undertaken in the earlier masterplans.", 
+        "sentence_id,": "60f8fede24"
+    }, 
+    {
+        "sentence": "It seeks to bring Singapores infocomm security to the next level of maturity and sophistication.", 
+        "sentence_id,": "8f27d2fdb2"
+    }, 
+    {
+        "sentence": "In addition to Government and CII, the NCSM2018 will expand its scope to cover the wider infocomm ecosystem, including businesses and individuals.", 
+        "sentence_id,": "5e58a5bba3"
+    }, 
+    {
+        "sentence": "In order to craft a holistic strategy, IDA conducted extensive consultation and gathered feedback from the industry through numerous avenues, such as focus group discussions and IDAs annual Business Infocomm Usage Survey.", 
+        "sentence_id,": "135ec1fb80"
+    }, 
+    {
+        "sentence": "In total, over 60 agencies, local enterprises and industry associations were consulted for ideas and input for the masterplan.", 
+        "sentence_id,": "2671caa1c2"
+    }, 
+    {
+        "sentence": "Rising Sophistication of Cyber Threats With an ever-increasing number of threats and adversaries, the cyber environment is a volatile one.", 
+        "sentence_id,": "c1826504d7"
+    }, 
+    {
+        "sentence": "The advancements in ICT have also created more pathways for malicious actors to exploit.", 
+        "sentence_id,": "611cf93172"
+    }, 
+    {
+        "sentence": "Cyber attacks have also become more sophisticated, with social engineering1 and spear phishing2 attacks becoming commonplace.", 
+        "sentence_id,": "1fb723ff1e"
+    }, 
+    {
+        "sentence": "The malware industry continues to thrive.", 
+        "sentence_id,": "6d8cd6193d"
+    }, 
+    {
+        "sentence": "In Q1 2014 alone, McAfee reported more than 30 million new malware samples in their database.", 
+        "sentence_id,": "1523780c92"
+    }, 
+    {
+        "sentence": "In addition, Distributed Denial of Service (DDoS) attacks continue to disrupt organisations and businesses.", 
+        "sentence_id,": "8a19dfeca8"
+    }, 
+    {
+        "sentence": "In March 2013, anti-spamming organisation Spamhaus was hit by one of the biggest DDoS attacks thus far, peaking at 300 Gigabits per second.", 
+        "sentence_id,": "84f1d7aeda"
+    }, 
+    {
+        "sentence": "An even greater menace has arrived in the form of Advanced Persistent Threats (APTs)3, featuring highly sophisticated and targeted malware such as Stuxnet and Duqu.", 
+        "sentence_id,": "85e597b319"
+    }, 
+    {
+        "sentence": "APTs can circumvent typical cyber security measures and have compromised organisations thought to be better equipped to defend against them, such as network security company RSA and defence contractor Lockheed Martin.", 
+        "sentence_id,": "a54ea97f6b"
+    }, 
+    {
+        "sentence": "Social engineering, in the context of information security, refers to psychological manipulation of people into performing actions or divulging confidential information.", 
+        "sentence_id,": "d16283f086"
+    }, 
+    {
+        "sentence": "1 2 Spear Phishing is a way of attempting to acquire information by masquerading as a trustworthy source in an electronic communication.", 
+        "sentence_id,": "e4bf45bdeb"
+    }, 
+    {
+        "sentence": "3 An advanced persistent threat (APT) is a targeted attack in which an unauthorized person gains access to a network and stays there undetected for a long period of time.", 
+        "sentence_id,": "a4cdfa0e2a"
+    }, 
+    {
+        "sentence": "6 / NATIONAL CYBER SECURITY MASTERPLAN 2018 Supply Chain as Conduits to Attack High Value Targets Cyber security is only as strong as its weakest link.", 
+        "sentence_id,": "4bddbfba9c"
+    }, 
+    {
+        "sentence": "Increasingly, small and medium-sized enterprises (SMEs) are being exploited and used as conduits to attack higher-value targets in their supply chain.", 
+        "sentence_id,": "9aac12de17"
+    }, 
+    {
+        "sentence": "The 2012 Verizon Data Breach Investigations report also found that a majority of the 855 data breaches it had analysed targeted smaller firms.", 
+        "sentence_id,": "29d2b6165d"
+    }, 
+    {
+        "sentence": "In 2012, Verizon itself made headlines when a hacker stole and posted 300,000 of its customer records on the Internet.", 
+        "sentence_id,": "8ca2c0af63"
+    }, 
+    {
+        "sentence": "The data had been stolen from a third-party marketing firm that Verizon used.", 
+        "sentence_id,": "2288096fbd"
+    }, 
+    {
+        "sentence": "In Singapore, it was reported in December 2013 that information belonging to nearly 650 private banking customers were stolen after the vendor contracted by the bank to print statements was hacked.", 
+        "sentence_id,": "900a0fbff0"
+    }, 
+    {
+        "sentence": "Another form of supply chain hacking was to attack the firms providing protection, such as the March 2011 attack on RSA that was subsequently used to infiltrate the Virtual Private Networks of American defence company Lockheed Martin.", 
+        "sentence_id,": "b6531bfd49"
+    }, 
+    {
+        "sentence": "In February 2013, security firm Bit9 was similarly hacked and its encryption keys were used to send malware to its clients, among which included the U.S. government and at least 30 Fortune 100 firms.", 
+        "sentence_id,": "7b7c273ba1"
+    }, 
+    {
+        "sentence": "Supply chains thus represent an extension of the attack surface of high value targets.", 
+        "sentence_id,": "f2b04444d8"
+    }, 
+    {
+        "sentence": "MARCH 2011 JUNE 2010 The Stuxnet worm targets Irans Natanz nuclear facility, reportedly ruining a fifth of the countrys nuclear centrifuges JUNE 2010 Hackers used phishing emails to gain access to RSAs network and steal information relating to its SecurID authentication tokens MARCH 2011 JULY 2012 Hacker TibitXimer downloads an estimated 3 million Verizon customer entries, leaking 10% of them SEPTEMBER 2011 Duqu, a general purpose key logger, steals information and digital certificates, which can mask future viruses as secure software SEPTEMBER 2011 JULY 2012 FEBRUARY 2013 A malicious third party infected Bit9s customers after the security firm failed to install its own product on all their networks computers FEBRUARY 2013 MARCH 2013 A DDoS attack targets Spamhaus, taking it offline for two days MARCH 2013 8 / NATIONAL CYBER SECURITY MASTERPLAN 2018 NATIONAL CYBER SECURITY MASTERPLAN 2018 / 9 Focal Areas Government, CII, Businesses and Individuals To prepare and secure public sector infocomm infrastructure, systems and services so that the Government is resilient against increasingly sophisticated cyber attacks G ov er n m e n t em syst eco ty re tiv e cy be r s e c u ri uc tu E& S E C UR it Bring Your Own Devices (BYOD) is the practice of allowing the employees of an organisation to use their own computers, smartphones, or other devices for work purposes.", 
+        "sentence_id,": "c7654fb438"
+    }, 
+    {
+        "sentence": "ividuals o va en v t Trusted & robust Infocomm Hub i Cr To raise awareness of cyber risks and use of security measures among businesses so that they can better prevent, respond and recover from cyber attacks, particularly focusing on businesses within CII and Government supply chains l In t infocomm nm e n t& nn il ien Ind re s Vi b ra n ic a 4 To raise awareness of cyber risks among users so that they appreciate the need to adopt the right behaviour and security practices to protect themselves from cyber threats ir o At the same time, the way in which infocomm services are delivered has also changed.", 
+        "sentence_id,": "0f09b62aaa"
+    }, 
+    {
+        "sentence": "Organisations are increasingly Singapores security measures must thus evolve and keep pace with the changing infocomm environment.", 
+        "sentence_id,": "976a19d8e6"
+    }, 
+    {
+        "sentence": "Guided by NCSM2018, the government will work closely with the private and people sectors, further upgrading and strengthening cyber security capabilities to ensure that Singapore will be able to deal with cyber threats effectively.", 
+        "sentence_id,": "56fece3ed2"
+    }, 
+    {
+        "sentence": "The NCSM2018s mission is to enhance Singapores cyber security capabilities in four focal areas Government, Critical Infocomm Infrastructure (CII), Businesses and Individuals.", 
+        "sentence_id,": "2af9dd50ec"
+    }, 
+    {
+        "sentence": "ES The growth of mobile infocomm technology has created a paradigm shift in how people engage with digital information.", 
+        "sentence_id,": "b23862d6c7"
+    }, 
+    {
+        "sentence": "Many users are now used to accessing data and infocomm services anywhere, anytime.", 
+        "sentence_id,": "563f6c4fdd"
+    }, 
+    {
+        "sentence": "This has spurred the adoption of Bring-Your-Own-Device (BYOD)4 policies by businesses and organisations.", 
+        "sentence_id,": "6081156457"
+    }, 
+    {
+        "sentence": "Mobile malware has also risen substantially as hackers turn their attention towards the increasing number of mobile device users.", 
+        "sentence_id,": "625da7db03"
+    }, 
+    {
+        "sentence": "leveraging on cloud computing technology and shared services.", 
+        "sentence_id,": "7d4d09617b"
+    }, 
+    {
+        "sentence": "With the global Cloud services market experiencing growth from US$93 billion in 2011 to US$110 billion in 2012, and potentially up to US$210 billion in 2016, we can only expect greater exposure of our information assets to risks posed by the Internet.", 
+        "sentence_id,": "ddee04bb7f"
+    }, 
+    {
+        "sentence": "BUSINESS Changing Infocomm Technology Environment f oc o m In fr astr m To systemically harden the infocomm systems of critical infrastructure so that they will have a high level of security and resilience against increasingly sophisticated cyber attacks 10 / NATIONAL CYBER SECURITY MASTERPLAN 2018 NATIONAL CYBER SECURITY MASTERPLAN 2018 / 11 Key Strategic Imperatives Key Enablers - Manpower, Industry, R&D, Domestic/ International Collaboration To achieve the outcomes mentioned in the focal areas, the following key enablers will be implemented: Develop Human Capital: Increase domestic and international collaboration: To ensure co-ordinated action against cyber threats To enlarge the pool of experts with sophisticated infocomm security skills and provide more facilities to sharpen their skills To realise the NCSM2018 vision of Singapore becoming a Trusted and Robust Secure Infocomm Hub by 2018, three key strategic imperatives have been identified.", 
+        "sentence_id,": "4d19ee38cb"
+    }, 
+    {
+        "sentence": "Cultivate Research & Development: To cultivate innovative and forwardlooking infocomm security research and development capabilities Catalyse industry development: To ensure up-to-date infocomm security solutions are available to Government, businesses and individuals 12 / NATIONAL CYBER SECURITY MASTERPLAN 2018 NATIONAL CYBER SECURITY MASTERPLAN 2018 / 13 Enhance security and resilience of CII to deal with sophisticated attacks New and sophisticated threats, such as APTs, complicate the task of prevention.", 
+        "sentence_id,": "fc87385269"
+    }, 
+    {
+        "sentence": "Hence, there is a need to enhance the security and resilience of CII to deal with such sophisticated attacks.", 
+        "sentence_id,": "5efa26b4e6"
+    }, 
+    {
+        "sentence": "Critical infocomm infrastructure As part of the continuous efforts to enhance the protection of critical infocomm infrastructure (CII) and improve cross-sector response to mitigate widespread cyber attacks, the Government works closely with critical sectors on cyber security exercises, as well as to assess critical infrastructure for vulnerabilities and ensure that security capabilities and measures are in place to mitigate cyber threats.", 
+        "sentence_id,": "18adb6a742"
+    }, 
+    {
+        "sentence": "The Critical Infocomm Infrastructure (CII) Protection Assessment programme assesses the security of infocomm systems that are critical to the operation of CII in Singapore, ensuring that CIIs remain secure and resilient.", 
+        "sentence_id,": "95fcd06b61"
+    }, 
+    {
+        "sentence": "The Critical Infocomm Infrastructure Security Assessment (CII-SA) appraises the infocomm security readiness of Singapores Critical Infocomm Infrastructure (CII) and ascertains the adequacy of infocomm protection measures, implemented by infrastructure owners and operators.", 
+        "sentence_id,": "8e5313afc0"
+    }, 
+    {
+        "sentence": "The Secure and Resilient Internet Infrastructure Code of Practice (SRII-CoP), aligned with international standards and best practices, has been issued by IDA to designated ISPs.", 
+        "sentence_id,": "62726d192a"
+    }, 
+    {
+        "sentence": "The Code of Practice has been incorporated into the telecommunications regulatory framework and sets specific security controls and outcomes to ensure that essential security is maintained to mitigate current and emerging cyber threats.", 
+        "sentence_id,": "64a35d90fe"
+    }, 
+    {
+        "sentence": "Periodic audits are conducted by IDA to ensure that ISPs observe the Code of Practice.", 
+        "sentence_id,": "12fd782f25"
+    }, 
+    {
+        "sentence": "The National Cyber Security Exercise programme uses exercises to assess the capability and readiness of critical sectors, aiming to improve the overall resilience of our national infrastructure and services to significant cyber attacks at the national level.", 
+        "sentence_id,": "edb0b9b8c4"
+    }, 
+    {
+        "sentence": "Government As part of the continuous efforts to enhance the security and resilience of its infocomm infrastructure, and public sector capabilities, the Government will focus on proactive defence-in-depth to mitigate increasingly sophisticated attacks.", 
+        "sentence_id,": "f1f1623654"
+    }, 
+    {
+        "sentence": "These include upgrading of existing detection and analysis capabilities and strengthening preventive and recovery measures at the Whole-ofGovernment level.", 
+        "sentence_id,": "97e4de499e"
+    }, 
+    {
+        "sentence": "The enhanced Cyber Watch Centre (CWC) will leverage on advanced tools and techniques, better detection and correlation to improve the overall effectiveness of security monitoring for the public sector.", 
+        "sentence_id,": "e508b571c7"
+    }, 
+    {
+        "sentence": "The enhanced Threat Analysis Centre (TAC) will utilise state-of-the-art analytical tools to assess larger volumes of data from a wider range of sources, to provide public agencies with detailed cyber threat analysis, advisories and recommendations so that they can take timely preventive actions.", 
+        "sentence_id,": "f062c2ac7c"
+    }, 
+    {
+        "sentence": "14 / NATIONAL CYBER SECURITY MASTERPLAN 2018 NATIONAL CYBER SECURITY MASTERPLAN 2018 / 15 Increase efforts to promote adoption of infocomm security measures among individuals and businesses Due to the inter-connectivity forged through infocomm technologies, cyber attacks could potentially ripple beyond the immediate victims amongst businesses and individuals given their roles as supply chain and employees respectively.", 
+        "sentence_id,": "c812e12ea9"
+    }, 
+    {
+        "sentence": "SMEs and individuals are perceived to have weaker capabilities and lower resistance to cyber attacks.", 
+        "sentence_id,": "2f78da5669"
+    }, 
+    {
+        "sentence": "As such, current efforts will be reinforced to raise infocomm security awareness and adoption among businesses and individuals.", 
+        "sentence_id,": "8749380c08"
+    }, 
+    {
+        "sentence": "The Cyber Security Awareness and Outreach programme aims to augment existing outreach channels and explore new avenues that offer wider coverage and reach to users, such as broadcast media.", 
+        "sentence_id,": "4b0f037c6a"
+    }, 
+    {
+        "sentence": "This will give viewers a better understanding of cyber threats such as identity theft and social engineering and encourage them to adopt safe online practices.", 
+        "sentence_id,": "a523423c4d"
+    }, 
+    {
+        "sentence": "For example, cyber security awareness videos in both English and Mandarin could be uploaded onto popular video sharing websites.", 
+        "sentence_id,": "ce552adf04"
+    }, 
+    {
+        "sentence": "Winning videos from the National Infocomm Security Competitions Multimedia Design segment will also be shown on local television channels to promote cyber security best practices.", 
+        "sentence_id,": "7b9fdd18dd"
+    }, 
+    {
+        "sentence": "Cybercrime cases will be featured in Crimewatch, a regular public education television programme that re-enacts In addition, the NCSM2018 will also include initiatives to facilitate information sharing between the Government and private sector, as well as collaborations with industry and trade associations to promote cyber security.", 
+        "sentence_id,": "73e12138b8"
+    }, 
+    {
+        "sentence": "Information such as security advisories and threat information can be shared to enhance businesses ability to assess risks, make security investments and take protective actions.", 
+        "sentence_id,": "26afe72012"
+    }, 
+    {
+        "sentence": "16 / NATIONAL CYBER SECURITY MASTERPLAN 2018 NATIONAL CYBER SECURITY MASTERPLAN 2018 / 17 Grow Singapores Pool of Infocomm Security Experts The threat posed by increasingly sophisticated cyber attacks is exacerbated by a shortage of highly skilled defenders.", 
+        "sentence_id,": "98c5e1a580"
+    }, 
+    {
+        "sentence": "This shortage is not unique to Singapore.", 
+        "sentence_id,": "fea676359d"
+    }, 
+    {
+        "sentence": "More than half (56%) of the respondents in the 2013 Global Information Security Workforce Study (GISWS) indicated that their security functions were short-staffed.", 
+        "sentence_id,": "5a08975e02"
+    }, 
+    {
+        "sentence": "There is a pressing need to explore new initiatives to boost the numbers and skill levels of cyber security professionals, as well as to retain them in Singapore.", 
+        "sentence_id,": "aa245708b3"
+    }, 
+    {
+        "sentence": "To alleviate this situation, the NCSM2018 will push further to develop human and intellectual capital within Singapores infocomm industry.", 
+        "sentence_id,": "94f1867525"
+    }, 
+    {
+        "sentence": "As of 2013, the number of cyber security professionals comprised less than 1% of the total infocomm industry workforce in Singapore Promotion of R&D to attract and cultivate more cyber security expertise The National Cybersecurity R&D Programme seeks to develop R&D expertise in cyber security and improve cyber infrastructure with an emphasis on security, reliability, resiliency and usability.", 
+        "sentence_id,": "a07b6d1c62"
+    }, 
+    {
+        "sentence": "The programme, involving NRF, MINDEF, MHA, NSCS, IDA and EDB, aims to promote collaboration among agencies, academia, research institutes and private sector.", 
+        "sentence_id,": "ef3a6355b6"
+    }, 
+    {
+        "sentence": "A 5-year S$130 million fund has been committed to support research efforts into both technological and human-science aspects of cyber security, complemented by studies into cyberspace governance and policy research.", 
+        "sentence_id,": "ac8310940d"
+    }, 
+    {
+        "sentence": "<1% total infocomm industry manpower TRAINING PROGRAMME to develop Infocomm Security Specialists The Company-Led Training (CLT) Programme for Fresh Professionals is an initiative by IDA, in collaboration with CLT Partners.", 
+        "sentence_id,": "b0b7aeb13a"
+    }, 
+    {
+        "sentence": "CLT aims to recruit, mentor and train fresh professionals in areas and technologies relevant to the local infocomm industry, including Software Security Administration, which is essential to an organisations cyber security.", 
+        "sentence_id,": "c04a9c73e4"
+    }, 
+    {
+        "sentence": "Currently, various infocomm security companies provide in-house training for entrant-level professionals, and some have indicated a willingness to train these professionals beyond their own needs.", 
+        "sentence_id,": "eaefad4722"
+    }, 
+    {
+        "sentence": "CLT thus aims to fast-track fresh infocomm security professionals toward specialist-level jobs.", 
+        "sentence_id,": "ac657fd94c"
+    }, 
+    {
+        "sentence": "Trainees will receive fundamental training in infocomm security in the CLT Partners business unit.", 
+        "sentence_id,": "7ec596da17"
+    }, 
+    {
+        "sentence": "This offers them the opportunity to apply what they have learned and recommend solutions in live projects.", 
+        "sentence_id,": "2387ac48ef"
+    }, 
+    {
+        "sentence": "Feedback will be provided by mentors and the training duration will span up to a year.", 
+        "sentence_id,": "c70f2c97df"
+    }, 
+    {
+        "sentence": "CYBER TRAINING FACILITY for testing / training of cyber security experts The DigiSAFE Cyber Security Centre, officially opened in June 2014, offers highly sophisticated operations-centric cyber security training that better prepares cyber security professionals in detecting and responding to cyber attacks.", 
+        "sentence_id,": "7aaea05fc6"
+    }, 
+    {
+        "sentence": "The Centres training programmes allow trainees to experience realistic simulations of real-world malicious attacks.", 
+        "sentence_id,": "8c54e0d7cb"
+    }, 
+    {
+        "sentence": "18 / NATIONAL CYBER SECURITY MASTERPLAN 2018 NATIONAL CYBER SECURITY MASTERPLAN 2018 / 19 Strategic Collaborations National-Level Committee The importance of a collaborative approach towards cyber security cannot be overstated, as it enables the pooling and sharing of resources and knowledge across different entities to achieve greater synergy and more refined solutions.", 
+        "sentence_id,": "b608bedf56"
+    }, 
+    {
+        "sentence": "In Singapore, domestic collaboration spanning across government agencies, and between the government and private sector, is complemented by conscientious efforts to engage other countries in international collaborations.", 
+        "sentence_id,": "a3732272c4"
+    }, 
+    {
+        "sentence": "The National Infocomm Security Committee (NISC) comprises of senior leadership from multiple government agencies including the Agency for Science, Technology and Research (A*STAR), Infocomm Development Authority of Singapore (IDA), Ministry of Communications and Information (MCI), Ministry of Home Affairs (MHA) and its agencies, Ministry of Defence MINDEF) and its agencies, Ministry of Finance (MOF), National Security Coordination Secretariat (NSCS) and National Research Foundation (NRF).", 
+        "sentence_id,": "fbd400b2f0"
+    }, 
+    {
+        "sentence": "The multi-agency committee takes a risk-based approach to cyber security, balancing the advantages of using new technologies and capabilities against the related security risks.", 
+        "sentence_id,": "ead9a90abc"
+    }, 
+    {
+        "sentence": "While recognising that infocomm technology and the Internet can enhance service quality and create new opportunities, these technologies can also potentially be exploited for malicious activities such as data or identity theft that will significantly impact businesses.", 
+        "sentence_id,": "ede7dcd6cf"
+    }, 
+    {
+        "sentence": "NISC A*STAR IDA MCI MHA & agencies MINDEF & agencies MOF NRF NSCS 20 / NATIONAL CYBER SECURITY MASTERPLAN 2018 NATIONAL CYBER SECURITY MASTERPLAN 2018 / 21 Public-Private Partnerships Cyber Security Awareness Alliance The Cyber Security Awareness Alliance was formed in 2008 by IDA and other like-minded partners from the Government, private enterprises, trade associations and non-profit organisations.", 
+        "sentence_id,": "462ef31f29"
+    }, 
+    {
+        "sentence": "The Alliance amalgamates the efforts of its members by utilising their collective resources and bringing together different strengths.", 
+        "sentence_id,": "7af616fbab"
+    }, 
+    {
+        "sentence": "It aims to: Build a positive culture in Singapore where cyber security becomes second nature to all infocomm users; and Promote and enhance awareness and adoption of essential infocomm security practices for the private and people sectors Over the years, the Alliance had been reaching out to the People and Private sectors through exhibitions, talks, as well as flagship events to promote awareness and adoption of essential security measures.", 
+        "sentence_id,": "9cf3321a63"
+    }, 
+    {
+        "sentence": "Some of its key flagship events are: The Cyber Security Awareness Campaign has been held annually since 2011 to reinforce security awareness messages to Government, business and individual users.", 
+        "sentence_id,": "a8272807fa"
+    }, 
+    {
+        "sentence": "Through the years, the Campaign has in turn focused on Computer Security, Mobile Security, Wireless Security and Online Security.", 
+        "sentence_id,": "45d0f1d4f5"
+    }, 
+    {
+        "sentence": "From 2011 to 2013, the Campaign prompted an average of 600,000 pledges per year by businesses and individuals responding to the call-to-actions to secure their computers, wireless equipment, mobile devices and online identities.", 
+        "sentence_id,": "14d38c6637"
+    }, 
+    {
+        "sentence": "Advertisements were also placed in national newspapers such as The Straits Times, TODAY and MyPaper.", 
+        "sentence_id,": "be3fad8620"
+    }, 
+    {
+        "sentence": "In addition, exhibitions, roadshows and talks were held at public locations such as libraries and residential hubs to promote the call-to-actions.", 
+        "sentence_id,": "1806980410"
+    }, 
+    {
+        "sentence": "The National Infocomm Security Competition (NISEC), a feature of the Cyber Security Awareness Campaign since 2013, aims to educate the public about cyber security and the need to adopt simple yet secure online practices.", 
+        "sentence_id,": "8f6aa32b21"
+    }, 
+    {
+        "sentence": "NISEC engages the younger generations, ranging from primary to tertiary levels, in competitions such as poster design, model design, multimedia video creation, secure coding and penetration of web applications.", 
+        "sentence_id,": "56600a575d"
+    }, 
+    {
+        "sentence": "The Alliance maintains a web portal https://www.gosafeonline.sg to promote and inculcate safe infocomm practices for the public, private and people sectors.", 
+        "sentence_id,": "ff335edf96"
+    }, 
+    {
+        "sentence": "The Alliance also leverages on popular social media and networking websites to connect with its target audience.", 
+        "sentence_id,": "c4289c5eff"
+    }, 
+    {
+        "sentence": "For the rising numbers of mobile device users, the Alliance is planning to launch a mobile application for Android and iOS platforms.", 
+        "sentence_id,": "97bb024703"
+    }, 
+    {
+        "sentence": "Some of the features include: Events Calendar Lists Infocomm Security Events that will be held in Singapore Security News Features the latest infocomm securityrelated news and articles from Go Safe Online Portal Security Alerts Updates users on security vulnerabilities for commonly used software Password Checker Allows users to verify the strength of their passwords and set reminders for periodic changing of passwords 22 / NATIONAL CYBER SECURITY MASTERPLAN 2018 NATIONAL CYBER SECURITY MASTERPLAN 2018 / 23 International Collaborations Association of Infocomm Security Professionals (AISP) The Association of Infocomm Security Professionals (AISP), a collaboration between Government and Industry, aims to uplift infocomm security into a distinguished profession and build a critical pool of competent infocomm security professionals who subscribe to the highest professional standards.", 
+        "sentence_id,": "615ad10275"
+    }, 
+    {
+        "sentence": "The first of such associations in Asia, the AISP plans to: Promote, develop, support and enhance the integrity, technical competence, management expertise, status and interests of information security professionals in Singapore Promote the development, increase and spread of information security knowledge and of any related subject Ambient Networks Secure Eco system The Ambient Network Secure Eco System (ANSES) is an initiative to enhance the secure interoperability of pervasively deployed smart devices in large networks.", 
+        "sentence_id,": "c6836ffa16"
+    }, 
+    {
+        "sentence": "One outcome of the initiative is the development of a security framework and standards compliance for IT security hardening and attack protection for mobile devices, embedded systems and SCADA systems.", 
+        "sentence_id,": "1a6747bcec"
+    }, 
+    {
+        "sentence": "Products developed include a secure and encrypted USB flash storage solution for mobile workers named Secure USB for Roaming Users (SURU), and a Secure Printing System to send print jobs securely over a network.", 
+        "sentence_id,": "e1a90542b0"
+    }, 
+    {
+        "sentence": "To foster publicprivate partnership and collaboration, a series of outreach events known as ANSES RahRah seminars were also held on a quarterly basis to share ideas and showcase solutions to industry players, academia and the public and private sectors.", 
+        "sentence_id,": "8543bfbf0f"
+    }, 
+    {
+        "sentence": "The Singapore Government continues to engage other countries and contribute to global efforts in combating cyber threats.", 
+        "sentence_id,": "ec20c2434d"
+    }, 
+    {
+        "sentence": "Some of these engagements include: ASEAN TELMIN The ASEAN Telecommunications and IT Ministers Meeting (TELMIN) was established in 2001 to serve as the main regional platform to discuss and enhance cooperation and collaboration among ASEAN member states.", 
+        "sentence_id,": "a90da9096a"
+    }, 
+    {
+        "sentence": "Held annually to discuss the key focus and direction of regional cooperation, TELMIN also aims to strengthen cooperation with ASEAN Dialogue Partners such as the Peoples Republic of China, Japan and the Republic of Korea.", 
+        "sentence_id,": "aee746e34e"
+    }, 
+    {
+        "sentence": "Singapore contributes actively to the TELMIN and its various sub-meetings to make ICT an engine of growth for ASEAN and to support the building of an ASEAN community.", 
+        "sentence_id,": "8bccb17fb2"
+    }, 
+    {
+        "sentence": "A key contribution from Singapore is the building of confidence and trust in network and information security infrastructure to further promote trade and the use of ICT, as well as to protect the flow of information.", 
+        "sentence_id,": "7441800791"
+    }, 
+    {
+        "sentence": "This is done through various activities such as the ASEAN Network Security Action Council (ANSAC), ASEAN-Japan Information Security Policy Meeting and the ASEAN CERT Incident Drill (ACID).", 
+        "sentence_id,": "dab48b9de9"
+    }, 
+    {
+        "sentence": "24 / NATIONAL CYBER SECURITY MASTERPLAN 2018 NATIONAL CYBER SECURITY MASTERPLAN 2018 / 25 ASEAN-Japan Annual Engagements Singapore is an active participant in ASEAN-Japan engagements that range from awareness and outreach, policy research, information sharing to operational co-operation among CERTs/CSIRTs.", 
+        "sentence_id,": "2da41edfc7"
+    }, 
+    {
+        "sentence": "These engagements are anchored by two annual events, namely the ASEAN-Japan Information Security Policy Meeting and the ASEANJapan Government Network Security Workshop that Singapore participates in.", 
+        "sentence_id,": "91ee2b93df"
+    }, 
+    {
+        "sentence": "The Policy Meeting is the platform for deliberation on strategic issues while the Workshop is primarily used to discuss initiatives for collaborations such as the annual Cyber Security Awareness Month.", 
+        "sentence_id,": "28179c4b9b"
+    }, 
+    {
+        "sentence": "Peka, Selamat, Waspada Hiu bit, Bo v, Cnh gic , , ASEAN-JAPAN JOINT INFORMATION SECURITY AWARENESS RAISING INITIATIVES Peka, Selamat, Waspada Be Aware, Secure, and Vigilant.", 
+        "sentence_id,": "a866b98974"
+    }, 
+    {
+        "sentence": "http://www.nisc.go.jp/aj-sec/ Mengetahui, Mengamankan, serta Singapore is a member of the Proactive Response Against Cyber-attacks Through International Collaborative Exchange (PRACTICE) project, led by the Ministry of Internal Affairs and Communications of Japan, that is trying to establish a global monitoring and analysis framework to protect users from malware infection and malicious activities in cyberspace.", 
+        "sentence_id,": "73351506b1"
+    }, 
+    {
+        "sentence": "Other Japan-led initiatives included the Tsubame project, an Internet threat monitoring system, and the annual Communications Check Exercises to build closer relationship between ASEAN member states and Japan as well as establish more effective information sharing processes to aid decisionmaking for policy makers.", 
+        "sentence_id,": "a9807c61bc"
+    }, 
+    {
+        "sentence": "SingCERT represents Singapore in both initiatives.", 
+        "sentence_id,": "67adc0f777"
+    }, 
+    {
+        "sentence": "In 2013 and 2014, SingCERT also participated in a Japan-led Communications Check Exercise, which aims to build better relationships between ASEAN member states and Japan, and establish more effective information sharing processes to aid in decision-making for policy makers.", 
+        "sentence_id,": "a040720790"
+    }, 
+    {
+        "sentence": "The APCERT AGM aims to create a safe, clean and reliable cyber space in the Asia Pacific region.", 
+        "sentence_id,": "f6457812a9"
+    }, 
+    {
+        "sentence": "The APCERT Cyber Drills involve global coordination to conduct drills including CII protection, APT mitigation and mitigation of large scale DoS attacks.", 
+        "sentence_id,": "29897f12cc"
+    }, 
+    {
+        "sentence": "Asia Pacific CERT (APCERT) ASEAN CERT Incident Drill (ACID) APCERT was established to encourage and support the cooperation between national CERTs in the Asia Pacific region by maintaining a trusted network of computer security experts in the region who can collectively improve the regions awareness and competency in relation to computer security incidents.", 
+        "sentence_id,": "9e025bfed3"
+    }, 
+    {
+        "sentence": "Singapore is one of the founding members of the APCERT and participates actively in the annual APCERT AGM & Conference and SingCERT actively promotes collaboration among the CERTs in ASEAN.", 
+        "sentence_id,": "54b7d8493a"
+    }, 
+    {
+        "sentence": "For example, SingCERT developed the Minimum Performance Guideline for Setting up of a National CERT and Guidelines on Information Sharing.", 
+        "sentence_id,": "72be407a09"
+    }, 
+    {
+        "sentence": "Both documents have been accepted by ASEAN as reference materials for all members.", 
+        "sentence_id,": "9ac8120021"
+    }, 
+    {
+        "sentence": "Since 2006, SingCERT plans and runs ACID on an annual basis.", 
+        "sentence_id,": "01104bd242"
+    }, 
+    {
+        "sentence": "This drill is meant to strengthen cooperation among CERTs of ASEAN members and dialogue partners, and test the points of contact in each incident response team and their incident handling procedures.", 
+        "sentence_id,": "5a1a87ba12"
+    }, 
+    {
+        "sentence": "26 / NATIONAL CYBER SECURITY MASTERPLAN 2018 NATIONAL CYBER SECURITY MASTERPLAN 2018 / 27 Conclusion FIRST (Forum of Incident Response and Security Team) FIRST is an international confederation of trusted computer incident response teams who cooperate to handle computer security incidents and promote incident prevention programmes.", 
+        "sentence_id,": "ef9ea517f0"
+    }, 
+    {
+        "sentence": "FIRST members develop and share technical information, tools, methodologies, processes and best practices FIRST encourages and promotes the development of quality security products, policies & services FIRST develops and promulgates best computer security practices FIRST promotes the creation and expansion of Incident Response teams and membership from organisations from around the world FIRST members use their combined knowledge, skills and experience to promote a safer and more secure global electronic environment.", 
+        "sentence_id,": "819e4276c2"
+    }, 
+    {
+        "sentence": "SingCERT is one of the participating teams in FIRST.", 
+        "sentence_id,": "d24f2f367e"
+    }, 
+    {
+        "sentence": "Meridian Process Singapore is a regular participant in the annual Meridian Conference.", 
+        "sentence_id,": "ce4ebc2626"
+    }, 
+    {
+        "sentence": "The conference is a major programme of the international Meridian Process, which aims to: Build trust and establish international relations with senior government policy makers for Critical Information Infrastructure Protection (CIIP) Share strategic approaches and experiences in CIIP from around the world Explore benefits and opportunities for cooperation between governments The Meridian Process provides Governments worldwide with a means by which they can discuss how to work together at the policy level on CIIP.", 
+        "sentence_id,": "70e5e3d94c"
+    }, 
+    {
+        "sentence": "The Infocomm Security Masterplans will continue to serve as strategic blueprints to guide Singapores efforts to foster a secure and resilient national infocomm environment, while taking a balanced approach between security requirements and ease of conducting business or daily activities.", 
+        "sentence_id,": "0ae38f42cc"
+    }, 
+    {
+        "sentence": "With cyber threats expected to become ever more sophisticated, it is vital for the Government, businesses and individuals to exercise vigilance and continually strengthen Singapores infocomm infrastructure and systems.", 
+        "sentence_id,": "94b4bf20f6"
+    }, 
+    {
+        "sentence": "Our nations resilience against cyber threats will also appeal to investors by boosting their confidence in selecting Singapore as a strategic and secure location for their investments.", 
+        "sentence_id,": "329b5b1ad5"
+    }, 
+    {
+        "sentence": "Given our heavy reliance on infocomm, Singapore needs to build up our pool of infocomm security professionals and develop their competencies.", 
+        "sentence_id,": "044c2ce680"
+    }, 
+    {
+        "sentence": "Only then can we better mitigate cyber threats and provide a trusted and secure online environment for businesses and individuals.", 
+        "sentence_id,": "570d5c68bb"
+    }
+]

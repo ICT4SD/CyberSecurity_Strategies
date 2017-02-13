@@ -1,0 +1,188 @@
+[
+    {
+        "sentence_id,": "c14f87a964", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The Georgian Cyber Security Strategy is a principal document outlining state policy in the area of cyber-security, reflecting strategic goals and guiding principles, and laying down action plans and tasks."
+    }, 
+    {
+        "sentence_id,": "568c958c0d", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Basic Principles of Implementing the Georgian Cyber Security Policy The National Security Concept of Georgia defines cyber security as one of the principal directions of its security policy."
+    }, 
+    {
+        "sentence_id,": "172d6545ed", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The Government of Georgia attaches great importance to the security policy as well as institutionalization of mechanisms for implementation of the policy components."
+    }, 
+    {
+        "sentence_id,": "6059a0eac3", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Active international cooperation."
+    }, 
+    {
+        "sentence_id,": "f032b3ddfd", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Therefore, planning and implementation of the Georgian security policy should pay significant attention to the following threats and challenges in cyberspace: Cyber war."
+    }, 
+    {
+        "sentence_id,": "d685a75ebd", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }, 
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Major Directions of the Georgian Cyber Security Policy The main directions of the Georgian Cyber Security policy are as follows: Research and analysis; New legislative and regulatory framework; Institutional coordination for ensuring cyber security; Public awareness and education; International cooperation."
+    }, 
+    {
+        "sentence_id,": "e4cae9ff33", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "In this regard, the following directions of research and analysis are necessary to implement state policy in cyber security: Study of other states' best practices and sharing experience; Research the criteria and standards to identify objects of critical information systems; Resilience analysis of critical information systems; Analysis of the problems in the region regarding the cyber security."
+    }, 
+    {
+        "sentence_id,": "816487993d", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "To improve legislative framework in the field cyber security, it is necessary to undertake the following steps: 5 Introduction of legislative acts on information security; Development of the regulatory framework to identify the critical information systems and actions necessary for ensuring cyber security; Introduction of the legal basis for Computer Emergency Response Team operations; Ratification of the 2001 Council of Europe Convention Against Cybercrime; Legal identification of an agency or agencies responsible for designation of information security policies and undertaking coordinating functions; Development of the contingency plans and recovery procedures."
+    }, 
+    {
+        "sentence_id,": "f746bd8b53", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "In this regard, it is important to undertake the following actions: Establishment of the public awareness and educational programs on cyber security; 6 Training of the staff and technical personnel of the critical information system subjects and other interested organizations in order to learn international and local standards of information security; Training of the specialized cybercrime experts in the area of handling electronic evidence (cyber forensics); Support the science and research projects in cyber security; Creation of the research lab."
+    }, 
+    {
+        "sentence_id,": "6ff7492ed2", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "4.5. International cooperation To develop the international cooperation in cyber security Georgia undertakes the following actions: Strengthening relations on cyber security issues with international organizations (OECD, EU, OSCE, NATO, UN, ITU) working in cyber security field as well as relevant national authorities; Active participation in international activities related to cyber security and support of the relevant initiatives on a regional scale; Initiating bilateral and multilateral cooperation with national CERTs in the area of cyber security."
+    }, 
+    {
+        "sentence_id,": "1cc99f9f91", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Agencies responsible for implementation of the Strategy will take into account actions necessary for implementing this Strategy within relevant policy areas."
+    }, 
+    {
+        "sentence_id,": "984a5736aa", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "responsible agency"
+                ]
+            }
+        ], 
+        "sentence": "8 Draft Action Plan for the Cyber Security Strategy of Georgia (20122015) # Goal Activity Period Responsible agency 1 Research and analysis 1.1 Study of other states' best practices and sharing 2012 experience 1.2 Research into criteria and standards for identifying Agency 2012 objects of critical information systems 1.3 Resiliency analysis of critical information systems Data Exchange Data Exchange Agency 2012 Data Exchange Agency 1.4 Analysis of the problems in the region regarding the 2012- Data Exchange cyber security."
+    }, 
+    {
+        "sentence_id,": "f9db0ff1aa", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }, 
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "2013 Agency 2.1 Initiating legislative acts on information security 2012 Ministry of Justice 2.2 Laying down regulatory framework for identifying 2012- Ministry of Justice critical information systems and actions necessary for 2013 2 New legislative framework ensuring cyber security 9 Draft 2.3 Ensuring legal basis for Computer Emergency Response 2012 Ministry of Justice 2012 Parliament Identifying, by legal act, an agency or agencies whose 2012- Relevant state competence includes designation of information security 2013 agencies Developing cyber security disaster recovery plans and 2013- Relevant state procedures 2015 agencies Further development of the Computer Emergency 2012 Data Exchange Team operations 2.4 Ratification of the 2001 Council of Europe Convention Against Cybercrime 2.5 policies and undertaking coordinating functions 2.6 3 Institutional coordination in cyber security 3.1 Response Team (CERT.GOV.GE) 3.2 Agency Establishment of the 24/7 high-tech crime (cybercrime) 2012- Ministry of international contact point as required by the 2013 Internal Affairs 2013 Relevant state 2001Convention against Cybercrime 3.3 Designation of the expert support team/unit in cybercrime cases 3.4 4 agencies Establishing format and modalities for public-private 2013- Data Exchange cooperation 2014 Agency Public awareness and 10 Draft education 4.1 Establishment of public awareness and educational 2012- Data Exchange programs on cyber security 2015 Agency, Ministry of Education and Science and international assistance 4.2 Training of staff and technical personnel of critical 2012- Data Exchange information system subjects and other interested 2015 Agency and organizations in international and local standards of international information security 4.3 assistance Specialized training of cybercrime experts in handling 2012- Relevant state digital evidence (cyber forensics) 2015 agencies and international assistance 4.4 Facilitating science and research projects in cyber 2012- Data Exchange security 2015 Agency, Ministry of Education and Science and international assistance 4.5 Creation of the research lab 2014- Relevant state 2015 agencies and international 11 Draft assistance 5 International cooperation 5.1 Strengthening relations in cyber security matters with 2012- Ministry of international organizations working in cyber security 2015 Foreign Affairs, (OECD, EU, OSCE, NATO, UN, ITU) as well as relevant Data Exchange national authorities Agency, National Security Council administration, other state agencies 5.2 Active participation in international activities related to 2012- Ministry of cyber security and supporting relevant initiatives on a 2015 Foreign Affairs, regional scale Data Exchange Agency, National Security Council administration, other state agencies 5.3 Initiating bilateral and multilateral cooperation with 2012- Data Exchange national CERTs in the area of cyber security 2015 Agency and CERT Georgia 12"
+    }
+]

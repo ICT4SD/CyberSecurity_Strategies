@@ -1,0 +1,94 @@
+[
+    {
+        "sentence": "2010. : a , , ; ; , , ; , : , , , ; , .", 
+        "sentence_id,": "d7c02b4b25"
+    }, 
+    {
+        "sentence": "( , 13/10); a , - ( , 55/09) : ( , 135/04) .", 
+        "sentence_id,": "091edf574e"
+    }, 
+    {
+        "sentence": "44/03, 36/06 50/09-); ( , 41/09); ( , .", 
+        "sentence_id,": "45a5b35fb3"
+    }, 
+    {
+        "sentence": "97/08 104/09); ( , 19/09).", 
+        "sentence_id,": "e1bf000f3d"
+    }, 
+    {
+        "sentence": "4 2009. , 36,7% , 3,5 2008. , 22,9% , 7,4 2008. .", 
+        "sentence_id,": "7719bf1fb6"
+    }, 
+    {
+        "sentence": "65% , 2008. , 56% , 2008. .", 
+        "sentence_id,": "c9ca5f87ad"
+    }, 
+    {
+        "sentence": "-, - - 2020. , , , , , , .", 
+        "sentence_id,": "bcdf398ede"
+    }, 
+    {
+        "sentence": "- : 1) ; 2) -; 3) ; 4) ; 5) , ; 6) , , ; 7) ; 8 8) ; 9) .", 
+        "sentence_id,": "9637d6cd75"
+    }, 
+    {
+        "sentence": ": ; ; ; - , , , ; ; , ; 9 , , ; , , , , , , ; , ; ; , ; .", 
+        "sentence_id,": "aea742846f"
+    }, 
+    {
+        "sentence": ", - ( , 55/09) 2.4. e , : , , .", 
+        "sentence_id,": "36b9dbb376"
+    }, 
+    {
+        "sentence": "( , 44/06), , ( ), : ; ( , , ); ; , , .", 
+        "sentence_id,": "bf0d601268"
+    }, 
+    {
+        "sentence": "( , ), e , : ; ; , (); ; ; ; .", 
+        "sentence_id,": "49de2ffc30"
+    }, 
+    {
+        "sentence": "3. , 2020. , , , , , , , .", 
+        "sentence_id,": "0d96ef6f94"
+    }, 
+    {
+        "sentence": ": ; ; ; ; , ; - ; , , ; ; , , .", 
+        "sentence_id,": "fe33b24a7c"
+    }, 
+    {
+        "sentence": "B2B (Business-to-Business) B2C (Business-to-Consumer), C2C (Consumer-to-Consumer), B2A (Business-toAdministration) C2B (Consumer-to-Business).", 
+        "sentence_id,": "10652d9691"
+    }, 
+    {
+        "sentence": "B2B - , B2C - , C2C - ( ), B2A - , C2B - .", 
+        "sentence_id,": "574266292b"
+    }, 
+    {
+        "sentence": "18/09, 109/09 6/10), 52610 ( ).", 
+        "sentence_id,": "fe5f17464b"
+    }, 
+    {
+        "sentence": "84/04, 86/04, 61/05 61/07), ( , 36/09) .", 
+        "sentence_id,": "b541ff32f7"
+    }, 
+    {
+        "sentence": "cloud computinga - ( : -).", 
+        "sentence_id,": "15541be6ae"
+    }, 
+    {
+        "sentence": "85/05, 88/05, 107/05, 72/09 111/09).", 
+        "sentence_id,": "84f65c490a"
+    }, 
+    {
+        "sentence": "116/07,88/09, 104/09) , , .", 
+        "sentence_id,": "c7abccfee9"
+    }, 
+    {
+        "sentence": "CSIRT (Computer Security Incident Response Team), .", 
+        "sentence_id,": "297f9a2cdc"
+    }, 
+    {
+        "sentence": "55/05, 71/05, 101/07 65/08), .", 
+        "sentence_id,": "3edffeb201"
+    }
+]

@@ -1,0 +1,654 @@
+[
+    {
+        "sentence": "Shkresa-KokaColor R E P U B L I K A E S H Q I P R I S MINISTRIA E MBROJTJES STRATEGJIA PR MBROJTJEN KIBERNETIKE (CYBER DEFENSE ) HYRJE N Strategjin e Siguris Kombtare prcaktohet se: Shqipria renditet ndr vendet ku zhvillimi i telekomunikacionit, qasja n internet dhe informatizimi i shoqris prparon shum shpejt.", 
+        "sentence_id,": "5455c09d8a"
+    }, 
+    {
+        "sentence": "Rritja e komunikimit prbn nj vler t shtuar n zhvillimin ekonomik dhe shoqror t vendit, por n t njjtn koh, ajo e ekspozon at ndaj rreziqeve t natyrs kibernetike me aktor shtetror dhe jo shtetror.", 
+        "sentence_id,": "4c09124106"
+    }, 
+    {
+        "sentence": "Sulmet kibernetike kan potencial pr t dmtuar rnd shkmbimin e informacionit n institucionet publike, t telekomunikacionit dhe sistemin financiar e bankar, duke shkaktuar edhe ndrprerje t shrbimeve jetike.1 1Strategjia e Siguris Kombtare, Tiran , Korrik 2014 , faqe 23 2Hapsir kibernetike konsiderohet hapsira virtuale globale e t gjith sistemeve t Informacionit t ndrlidhur n nivel global t dhnash .", 
+        "sentence_id,": "f331ca0a55"
+    }, 
+    {
+        "sentence": "(sipas draftit t strategjis Kombtare) Asetet dixhitale n rritje jan pjes integrale e operacioneve ushtarake, ndrkoh, rritja e varsis s puns nga asetet dixhitale, krijon krcnime t mjedisit t siguris kibernetike.", 
+        "sentence_id,": "a966c950cc"
+    }, 
+    {
+        "sentence": "Me Siguri Kibernetike do t kuptojm: kushtet n t cilat hapsira kibernetike2 sht e mbrojtur n lidhje me ngjarjet aksidentale ose me vetdashje t cilat konsistojn n marrjen dhe transferimin e t dhnave, n modifikimin e tyre, shkatrrimin ose bllokimin e paligjshm t sistemeve t komunikimit e t informacionit, pr shkak t masave t paprshtatshme t siguris.", 
+        "sentence_id,": "0817c1c652"
+    }, 
+    {
+        "sentence": "Fusha dixhitale e hapsirs kibernetike sht fusha e pest e operacioneve ushtarake n bot, s bashku me ajrin, detin, tokn dhe hapsirn.", 
+        "sentence_id,": "2779e54af3"
+    }, 
+    {
+        "sentence": "Teknologjia e komunikimit dhe e informacionit i mundson Ministris s Mbrojtjes dhe Forcave t Armatosura (MM/FA) efikasitetin n Komandim - Kontroll (C2), mbshtetje logjistike dhe shrbime t tjera t cilat jan t mbshtetura n sistemet e komunikimit dhe informacionit.", 
+        "sentence_id,": "297f2415f0"
+    }, 
+    {
+        "sentence": "Kjo strategji e promovuar nga MM synon: mbajtjen e nj mjedisi operimi elektronik t sigurt, t qndrueshm dhe t besueshm, i cili mbshtet sigurin n strukturat e MM/FA dhe rrit prfitimet e mjedisit dixhital pr to; vendosjen e standardeve pr prdorimin e sigurt t hapsirs kibernetike; inkurajimin pr nj zbatim gjithprfshirs; garantimin e siguris dhe progresit pr strukturat dhe sistemet e ndrlidhjes dhe informacionit (SNI) t MM.", 
+        "sentence_id,": "c0c1e407a9"
+    }, 
+    {
+        "sentence": "Strategjia e Siguris Kibernetike prshkruan sfidat aktuale n shtje t siguris t sistemeve t ndrlidhjes dhe informacionit (SNI) dhe pikat kryesore me qllim pr t prballuar kto sfida.", 
+        "sentence_id,": "d13e73184d"
+    }, 
+    {
+        "sentence": "Nj sr faktorsh si shpejtsia e zhvillimeve teknologjike, dinamika dhe kompleksiteti i shfrytzimit t hapsirs kibernetike, e vendosin Ministrin e Mbrojtjes dhe FA prpara sfidave reale pr ngritjen e kapaciteteve pr mbrojtjen kibernetike, t shoqruar me politika, udhzime, procedura koordinuese e monitoruese.", 
+        "sentence_id,": "5008123b68"
+    }, 
+    {
+        "sentence": "Pr rrjedhoj, Strategjia e Mbrojtjes Kibernetike do t rishikohet n prshtatje me kto ndryshime.", 
+        "sentence_id,": "ad47f761cf"
+    }, 
+    {
+        "sentence": "I. T PRGJITHSHME Prparsia kryesore e Strategjis s Mbrojtjes kibernetike do t jet trajtimi i hapsirs kibernetike si nj fush (domain) operacionale me qllim pr tu organizuar, trajnuar dhe pajisur me mjete, n mnyr q MM/FA t mund t veproj n potencialin e hapsirs kibernetike pr mbrojtjen e sistemeve t ndrlidhjes dhe t informacionit.", 
+        "sentence_id,": "4f836d4589"
+    }, 
+    {
+        "sentence": "Qllimi kryesor i saj sht t siguroj orientime, koherenc dhe fokus, pr nj qasje gjithprfshirse, pr t zhvilluar kapacitetet ushtarake n hapsirn kibernetike n tre vitet e ardhshme.", 
+        "sentence_id,": "6a48c00168"
+    }, 
+    {
+        "sentence": "Ministria e Mbrojtjes prcakton sigurin kibernetike nprmjet masave n lidhje me konfidencialitetin, disponibilitetin dhe integritetin e informacionit q trajtohet, prpunohet, ruhet, transmetohet dhe komunikohet me mjetet elektronike.", 
+        "sentence_id,": "6a366dad1a"
+    }, 
+    {
+        "sentence": "Vendosja dhe zbatimi i ktij prioriteti pr MM/FA, prcakton nevojn n: - Menaxhimin e riskut t hapsirs kibernetike prmes prpjekjeve t vazhdueshme pr rritjen e nivelit t trajnimit, sigurimin e informacionit, informimit m t konsoliduar pr situatn dhe duke krijuar mjedis t sigurt dhe sisteme t qndrueshme.", 
+        "sentence_id,": "e9ed4710ba"
+    }, 
+    {
+        "sentence": "- Garantimin e integritetit dhe disponibilitetit t sistemeve nprmjet bashkpunimit dhe mbrojtjes kolektive duke mbajtur pamje operacionale t prbashkt.", 
+        "sentence_id,": "9870f3577c"
+    }, 
+    {
+        "sentence": "- Garantimin e kapaciteteve t integruara, duke bashkpunuar ngusht me Komandat e FA, Shrbimet dhe Agjencit pr vendosjen e kapaciteteve t reja atje ku ato nevojiten m shum.", 
+        "sentence_id,": "b6c7c57377"
+    }, 
+    {
+        "sentence": "Strukturat prkatse t sistemeve t ndrlidhjes dhe informacionit (SNI) t MM/FA punojn n mnyr aktive pr t siguruar infrastruktur t sigurt pr kto sisteme, nprmjet organizimit, alokimit t burimeve t duhura, kushteve t prgjithshme t mira dhe masa efektive.", 
+        "sentence_id,": "db94e086cc"
+    }, 
+    {
+        "sentence": "Kto struktura integrojn sigurin dhe forcat n infrastrukturn e informacionit pr t mbrojtur veprimtarin e MM dhe FA si dhe t gjith prdoruesit e ktyre sistemeve.", 
+        "sentence_id,": "149edf6b66"
+    }, 
+    {
+        "sentence": "Strategjia e Mbrojtjes Kibernetike do t ket prputhshmri me krkesat q shtrohen vazhdimisht n kt fush dhe do t respektoj t gjitha parimet e parashikuara n konventat, marrveshjet ndrkombtare, iniciativat q do t ndrmerren, me synimin q t mbroj dhe parandaloj ndrhyrjen ose dmet n Sistemet e Ndrlidhjes dhe Informacionit (SNI).", 
+        "sentence_id,": "8e48189d8c"
+    }, 
+    {
+        "sentence": "Kjo Strategji do t fokusohet n : .", 
+        "sentence_id,": "d1f758acb2"
+    }, 
+    {
+        "sentence": "Masa pr t adresuar krcnimet q drejtohen ndaj sistemeve t ndrlidhjes dhe informacionit (SNI) t MM dhe FA.", 
+        "sentence_id,": "06a53d130e"
+    }, 
+    {
+        "sentence": "Masa ndrgjegjsuese pr krimin kibernetik.", 
+        "sentence_id,": "4e64263c64"
+    }, 
+    {
+        "sentence": "Masa pr t ndrtuar besimin dhe sigurin n prdorimin e sistemeve t ndrlidhjes dhe informacionit (SNI) t MM dhe FA.", 
+        "sentence_id,": "7bd1fc4b7e"
+    }, 
+    {
+        "sentence": "Zhvillimi, rishikimi dhe rifreskimi i politikave, rregullave, udhzimeve dhe procedurave ekzistuese pr t siguruar prputhshmri me krkesat aktuale.", 
+        "sentence_id,": "5daae91448"
+    }, 
+    {
+        "sentence": "SFIDAT E SIGURIS Sfidat e siguris pr Sistemet e Ndrlidhjes dhe Informacionit (SNI) prfshijn t gjitha nivelet e strukturave t MM dhe FA duke filluar nga pajisjet individuale, q prdoren n mjediset zyrtare t puns, deri n sigurimin e sistemeve themelore, t cilat jan kritike pr mbarvajtjen e puns.", 
+        "sentence_id,": "11296ab4a8"
+    }, 
+    {
+        "sentence": "Disa nga sfidat q karakterizojn kt situat dhe orientimi i tyre pr t ardhmen prfshijn: Interneti dhe pajisjet mobile: Prdorimi gjithnj e n rritje i internetit dhe i sistemeve t reja kompjuterike, sistemet industriale t kontrollit, telefonat mobile, pajisjet magazinuese t lvizshme (memory stick), mediat sociale dhe tabletat, na bjn m shum efient por edhe m shum t pambrojtur n mjedisin ku ushtrojm detyrat funksionale.", 
+        "sentence_id,": "0f8dcc30da"
+    }, 
+    {
+        "sentence": "Shkputja - ndrprerja e sistemeve gjithnj n rritje sht nj shtje kritike: Strukturat e MM dhe t FA, si e gjith shoqria, jan br shum t pambrojtur kundrejt shkputjeve, ndrprerjeve t shkurtra t sistemeve ose rrjeteve, duke rritur kshtu rndsin e t pasurit nj infrastruktur t sigurt dhe t fuqizuar pr sistemet e ndrlidhjes dhe informacionit (SNI).", 
+        "sentence_id,": "8812943279"
+    }, 
+    {
+        "sentence": "Platformat me shrbime t reja dhe mungesa e qartsis pr to: Prdorimi gjithnj e n rritje i platformave t reja t shrbimeve, si jan mnyrat dhe mjetet kompjuterike online ose cloud, me zgjidhje jo t qarta dhe transparente, e bjn shum m t vshtir vlersimin e rrezikut nga ana e prdoruesve, n sistemet q ata prdorin.", 
+        "sentence_id,": "57da556af8"
+    }, 
+    {
+        "sentence": "Prdorimi gjithnj e n rritje i komunikimit dhe transmetimit t informacionit jasht mjedisit t puns: MM dhe FA nuk jan rrjete t mbyllura n nj mjedis t kufizuar.", 
+        "sentence_id,": "ff6ef5821e"
+    }, 
+    {
+        "sentence": "Puna dhe funksionet e strukturave jan t lidhura me struktura t tjera t administrats publike por edhe prtej kufijve t vendit edhe n kontinente t tjera.", 
+        "sentence_id,": "71f7e17e95"
+    }, 
+    {
+        "sentence": "Kjo prbn nj sfid m vete pr shkak t kushteve, rrezikut t dyanshm, ligjeve e rregullave t ndryshme, mungess s transparencs n lidhje me kto rregulla, t cilat e bjn shum t vshtir q strukturat e MM dhe FA t ushtrojn kontroll mbi to.", 
+        "sentence_id,": "90b323e882"
+    }, 
+    {
+        "sentence": "Krijimi i marketit t krimit kibernetik: Interneti dhe pajisjet mobile kan krijuar dhe drejtuar n nj rrezik m t madh, duke qen t zbuluar ndaj krimit kibernetik.", 
+        "sentence_id,": "167df89a45"
+    }, 
+    {
+        "sentence": "Sot sht zhvilluar nj market i nndheshm, i padukshm, i aksesueshm lehtsisht n internet, pr blerje dhe shitje informacioni si dhe tregtimin e mjeteve pr krimin kibernetik.", 
+        "sentence_id,": "9e1ebf6828"
+    }, 
+    {
+        "sentence": "Kriminelt po e shfrytzojn kt mundsi gjithnj e m shum.", 
+        "sentence_id,": "354cff28a2"
+    }, 
+    {
+        "sentence": "Nj krcnim n rritje sht spiunazhi dhe sabotazhi, nj drejtimi i ndrhyrjeve (hacking) profesionale ndaj sistemeve t ndrlidhjes dhe informacionit.", 
+        "sentence_id,": "66511e4b47"
+    }, 
+    {
+        "sentence": "Objektivat ushtarak jan e do t jen gjithnj e m shum piksynim i sulmeve, pr kt arsye shum vende kan ose jan duke zhvilluar kapacitete pr spiunazh dhe luft elektronike ndaj sistemeve t informacionit dhe t komunikimit.", 
+        "sentence_id,": "f976fba22c"
+    }, 
+    {
+        "sentence": "Punonjs jo korrekt dhe t besueshm.", 
+        "sentence_id,": "ae3d5b448d"
+    }, 
+    {
+        "sentence": "Shkeljet e brendshme, vjedhja ose keqprdorimi i burimeve t sistemeve t komunikimit dhe informacionit nga vet punonjsit e institucionit jan vshtir t zbulohen.", 
+        "sentence_id,": "2c7a723bad"
+    }, 
+    {
+        "sentence": "Kjo vjen pr shum arsye, duke prfshir procedura t dobta operimi dhe menaxhimi t sistemeve, nj mos prcaktim t qart dhe t sakt t prgjegjsive n kt fush, privilegjet q duhet t ken punonjsit n sisteme etj.", 
+        "sentence_id,": "295e0a83b4"
+    }, 
+    {
+        "sentence": "Sulmi i brendshm n sisteme e bn edhe m t vshtir zbulimin e sulmeve t jashtme.", 
+        "sentence_id,": "5b31f869ba"
+    }, 
+    {
+        "sentence": "Abuzimi me privatsin dhe identitetin: Privatsia personale sht gjithashtu e krcnuar pr shkak t metodave t reja t komunikimit dhe mnyrave t prdorimit t sistemeve t informacionit dhe internetit.", 
+        "sentence_id,": "7128c98958"
+    }, 
+    {
+        "sentence": "Abuzimi me identitetin sht nj sfid n rritje pr do individ dhe autoritetet institucional.", 
+        "sentence_id,": "5f57ed3278"
+    }, 
+    {
+        "sentence": "OBJEKTIVAT KRYESOR DHE PRIORITETET STRATEGJIKE Mbshtetur n sfidat e siguris ndaj sistemeve t ndrlidhjes dhe t informacionit, Ministria e Mbrojtjes ka identifikuar katr objektiva kryesor pr sigurin e informacionit dhe t sistemeve t komunikimit, n t cilat ky informacion trajtohet, prpunohet, ruhet apo transmetohet: .", 
+        "sentence_id,": "18e56ddb87"
+    }, 
+    {
+        "sentence": "Koordinim m t mir dhe kuptim t prbashkt t situats kibernetike.", 
+        "sentence_id,": "7a93bd0d04"
+    }, 
+    {
+        "sentence": "Kryerja e vlersimit dhe analizs s riskut brenda vitit 2015, pr t prcaktuar masat e nevojshme pr mbrojtjen minimale.", 
+        "sentence_id,": "0c41ca4638"
+    }, 
+    {
+        "sentence": "Krijimi i aftsive dhe kapaciteteve m t mira pr t trajtuar situata t ndryshme n sistemet e komunikimit e t informacionit.", 
+        "sentence_id,": "50fa7d3726"
+    }, 
+    {
+        "sentence": "Zbatimi i detyrimeve pr krijimin dhe funksionimin e sistemeve t ruajtjes s informacionit, vazhdueshmris s puns dhe marrveshjeve t nivelit t shrbimit.", 
+        "sentence_id,": "9ada69f217"
+    }, 
+    {
+        "sentence": "Kto objektiva t prgjithshme pr sigurin e sistemeve t komunikimit dhe t informacionit do t trajtohen njkohsisht, t ndrvarur nga njri-tjetri si faktor suksesi.", 
+        "sentence_id,": "c3e1fc3cbe"
+    }, 
+    {
+        "sentence": "Adoptimi i nj qasjeje gjithprfshirse dhe sistematike n sigurin e Sistemeve t Ndrlidhjes dhe Informacionit.", 
+        "sentence_id,": "38dfb50f47"
+    }, 
+    {
+        "sentence": "Forcimi i mbrojtjes kibernetike t M/M dhe FA nprmjet prmirsimit t infrastrukturs s Sistemeve t komunikimit dhe t informacionit.", 
+        "sentence_id,": "bd3ff633f4"
+    }, 
+    {
+        "sentence": "Forcimi i pozits s njohurive dhe inovacionit t Ministris s Mbrojtjes pr Hapsirn Kibernetike nprmjet ndryshimit t kulturs, ndrgjegjsimit dhe edukimit t t gjith punonjsve n strukturat e MM/FA, mjeteve praktike pr t mbrojtur sistemet e komunikimit dhe t informacionit q ata prdorin pr t kryer detyrat funksionale.", 
+        "sentence_id,": "dfe0a892a4"
+    }, 
+    {
+        "sentence": "Ruajtja dhe zhvillimi i aftsive t prdoruesve dhe specialistve pr t zbuluar, trajtuar, lajmruar dhe reaguar ndaj incidenteve q ndodhin n Sistemet e Ndrlidhjes dhe Informacionit.", 
+        "sentence_id,": "1792dc0efb"
+    }, 
+    {
+        "sentence": "Forcimi i pozicionit t inteligjencs n Hapsirn Kibernetike.", 
+        "sentence_id,": "f9ab0efad6"
+    }, 
+    {
+        "sentence": "Intensifikimi i bashkpunimit n nivel kombtar dhe ndrkombtar, partneritetit me biznesin e TI pr t garantuar siguri dhe qndrueshmri n infrastruktur, n rrjetet kompjuterike, n produktet q merren dhe n shrbimet q ofrohen.", 
+        "sentence_id,": "746951c5c2"
+    }, 
+    {
+        "sentence": "Adoptimi i nj qasje gjithprfshirse.", 
+        "sentence_id,": "ee6f6c1cd0"
+    }, 
+    {
+        "sentence": "Objektivi i ksaj shtylle deri n vitin 2017, do t jet mbshtetja dhe riformimi i kapaciteteve operacionale kibernetike, nprmjet fuqizimit t aseteve kibernetike, n t gjith veprimtarit e FARSH si: komandim-kontrolli; logjistik; inteligjenc; menaxhim i burimeve t mbrojtjes dhe t fushave t ndryshme funksionale.", 
+        "sentence_id,": "6b7abaa3e1"
+    }, 
+    {
+        "sentence": "N qendr t ktij objektivi do t jen: Sistemet e ndrlidhjes dhe informacionit (SNI), arkitektura e tyre komplekse teknologjike, ndrveprimi midis elementeve dhe fushave funksionale t automatizuara dhe integrimi midis tyre.", 
+        "sentence_id,": "17dbe35e90"
+    }, 
+    {
+        "sentence": "Operacionet ushtarake do t prfshijn gjithnj e m shum prdorimin e aftsive operative kibernetike, kryesisht n mbshtetje t operacioneve t rregullta t forcave t armatosura, por edhe si nj kapacitet i veant.", 
+        "sentence_id,": "a88eeb0f08"
+    }, 
+    {
+        "sentence": "Aftsit kibernetike operative duhet t bhen pjes integrale e aftsis s prgjithshme ushtarake t FARSH dhe pr realizimin e ktij objektivi, investimi i MM do t prqendrohet tek prforcimi i aftsive t saj kibernetike nprmjet burimeve njerzore, materiale dhe financiare.", 
+        "sentence_id,": "f099cb7ab7"
+    }, 
+    {
+        "sentence": "Strukturat e MM dhe FA, si dhe personeli, duhet t prfshihen n mbrojtjen e siguris t sistemeve t komunikimit dhe t informacionit n mnyr sistematike.", 
+        "sentence_id,": "649a6eba24"
+    }, 
+    {
+        "sentence": "Kjo do t sjell nj prdorim dhe menaxhimi t ndrgjegjshm t ktyre sistemeve, si pjes e drejtimit t prgjithshm t institucionit nprmjet aplikimit dhe zbatimit t standardeve t njohura.", 
+        "sentence_id,": "972a3ebf94"
+    }, 
+    {
+        "sentence": "N situatn aktuale sht e domosdoshme dhe kritike t kryhet vlersimi i riskut pr sistemet e MM dhe t FA mbi baza reale.", 
+        "sentence_id,": "66335072e4"
+    }, 
+    {
+        "sentence": "Pr t realizuar kt vlersim krkohet nj angazhim serioz dhe gjithprfshirs i strukturave drejtuese t fushs n MM dhe SHPFA.", 
+        "sentence_id,": "5906cc0cdf"
+    }, 
+    {
+        "sentence": "Aktualisht, vlersimi i riskut sht jo i plot.", 
+        "sentence_id,": "10a39a154c"
+    }, 
+    {
+        "sentence": "Nga verifikimet mbi zbatueshmrin e masave t siguris n sistemet e informacionit ato jan josistematike, jan fragmentare, jo t shtrira n t gjith mjedisin e sistemeve dhe nuk kan mbshtetje n drejtimin e administrimit.", 
+        "sentence_id,": "123f7d7ebb"
+    }, 
+    {
+        "sentence": "Zbatimi dhe prdorimi i standardeve aktuale dhe ato ndrkombtare do t kontribuoj m shum, pr t vendosur sigurin e sistemeve t ndrlidhjes dhe informacionit mbi baza gjithprfshirse dhe sistematike.", 
+        "sentence_id,": "bb184cfac5"
+    }, 
+    {
+        "sentence": "Strukturat e MM dhe FA, q administrojn sistemet e komunikimit dhe t informacionit, duhet t ken nj sistem t menaxhimit t siguris.", 
+        "sentence_id,": "acb67ab848"
+    }, 
+    {
+        "sentence": "Ky menaxhim duhet t ndrtohet dhe t zbatohet mbshtetur n standarde t njohura t siguris s sistemeve dhe n prputhje me iniciativat dhe angazhimet ndrkombtare t vendit ton.", 
+        "sentence_id,": "5690354df2"
+    }, 
+    {
+        "sentence": "Menaxhimi i sistemeve t ndrlidhjes dhe informacionit do t organizohet mbshtetur n rreziqet q prballen aktualisht sistemet e MM dhe FA.", 
+        "sentence_id,": "74e1b709fe"
+    }, 
+    {
+        "sentence": "Gjithashtu n fokus do t jet vendosja e kapaciteteve n dispozicion t komandimit operacional brenda vitit 2017, pr t prthithur aftsit e inteligjencs, pr t mbledhur dhe proceduar informacionin kibernetik, n mnyr q t realizohet procesi i vendim-marrjes n koh reale.", 
+        "sentence_id,": "9f291fd6a2"
+    }, 
+    {
+        "sentence": "Ky objektiv do t mundsoj prballimin e dy krcnimeve, si kundr rrjeteve dhe sistemeve miqsore, si edhe shfrytzimin e dobsive t kundrshtarit.", 
+        "sentence_id,": "7af024e093"
+    }, 
+    {
+        "sentence": "Ndrgjegjsimi i mir i situats pr hapsirn kibernetike sht pjes e ndrgjegjsimit t situats s prgjithshme t linjs s komandimit.", 
+        "sentence_id,": "1f1b6b8829"
+    }, 
+    {
+        "sentence": "Forcimi i mbrojtjes kibernetike t M/M dhe FA nprmjet prmirsimit t infrastrukturs s Sistemeve t komunikimit dhe t informacionit.", 
+        "sentence_id,": "7625dca98e"
+    }, 
+    {
+        "sentence": "N prgjithsi, Sistemet e Ndrlidhjes dhe Informacionit t MM/FA jan konceptuar dhe ndrtuar n prputhje me kriteret themelore: teknologji moderne pr menaxhimin e informacionit, funksionim dhe shfrytzim i integruar dhe ndrveprueshmri me Sistemet e NATO-s dhe t vendeve t tjera antare t saj.", 
+        "sentence_id,": "21c0612d15"
+    }, 
+    {
+        "sentence": "Funksionimi i sistemeve t FA sht i lidhur ngusht me aplikimin dhe zbatimin e masave t siguris s informacionit.", 
+        "sentence_id,": "a29aabc6d6"
+    }, 
+    {
+        "sentence": "Ktij qllimi i kan shrbyer konceptimi i arkitekturs dhe ndrtimi i sistemeve sipas dy nnkategorive kryesore; krijimi i infrastrukturs s komunikimit/transmetimit me mjedise transmetimi pron e MM/FA dhe monitorimi i funksionimit t rrjeteve, akreditimi, hartimi i politikave dhe procedurave t operimit n sistem.", 
+        "sentence_id,": "0c5728d630"
+    }, 
+    {
+        "sentence": "Forcimi i mbrojtjes kibernetike t MM dhe FA konsiston n Mbrojtjen e rrjeteve dhe sistemeve t cilt jan t krcnuar ndaj sulmeve dhe ndrprerjeve n dy drejtime, si nga jasht dhe nga brenda, nprmjet monitorimit, analizs s trafikut t t dhnave, detektimit t sulmeve kibernetike dhe prgjigjen ndaj tyre.", 
+        "sentence_id,": "7f9d9e3a98"
+    }, 
+    {
+        "sentence": "Pavarsisht arritjeve n fushn e mbrojtjes s sistemeve dhe t rrjeteve, duhet t prqendrohemi te menaxhimi i infrastrukturs s komunikimit dhe informacionit n trsi, n lidhjet midis rrjeteve, kontrollit t hyrjeve t autorizuara ose t paautorizuara dhe mbajtjen n kontroll t vijueshm t kapaciteteve t transmetimit t MM/FA, t cilat sigurohen nga kompanit publike dhe private t telekomunikacionit.", 
+        "sentence_id,": "114a3fb110"
+    }, 
+    {
+        "sentence": "Zhvillimi teknologjik bn t mundur q infrastruktura e sistemeve t informacionit dhe t komunikimit t jet vazhdimisht n ndryshim.", 
+        "sentence_id,": "437f92d5ae"
+    }, 
+    {
+        "sentence": "Pr kt arsye, sht shum e vshtir t prcaktosh pjes t infrastrukturs s sistemeve t informacionit si pjes kritike dhe t tjera m pak kritike, rrjedhimisht ato ndikojn n sigurin e prgjithshme t MM dhe FA dhe n at kombtare.", 
+        "sentence_id,": "abe8f83fe0"
+    }, 
+    {
+        "sentence": "- Zbatimi dhe verifikimi i nj pakete t plot t masave t siguris, duke prfshir personelin, sigurin fizike dhe t sistemeve t informacionit.", 
+        "sentence_id,": "3fd461486c"
+    }, 
+    {
+        "sentence": "- Ngritja e kapaciteteve njerzore, duke prmirsuar njohurit dhe deprtimin n dobsit dixhitale dhe duke forcuar mbikqyrjen e zhvillimit, zinxhirin e furnizimit dhe prdorimin e komponentve t IT-s. - Ndrtimi i sistemit t menaxhimit t sistemeve t ndrlidhjes dhe informacionit, duke u prqendruar si tek mbrojtja e infrastrukturs kibernetike (pasiv) dhe tek prgjigjja ndaj do sulmi (aktiv) duke prdorur burimet njerzore, logjistike apo financiare q kemi n dispozicion.", 
+        "sentence_id,": "3bb0dc93dd"
+    }, 
+    {
+        "sentence": "- Ndrgjegjsimi pr Sigurin kibernetike, duhet t bhet nj pjes e integruar e t gjitha trajnimeve t personelit t Ministris s Mbrojtjes.", 
+        "sentence_id,": "af3ef7c164"
+    }, 
+    {
+        "sentence": "- Investimet n infrastruktur dhe pajisjet e sistemeve t ndrlidhjes dhe informacionit, do t shoqrohen me investimet e duhura n fushn e siguris s sistemeve dhe rrjeteve (pr software dhe hardware t veant dhe pr mbrojtjen kriptografike).", 
+        "sentence_id,": "6d054fe3cd"
+    }, 
+    {
+        "sentence": "- Prokurimi apo zhvillimi i sistemeve t reja, t bhet duke marr n konsiderat rreziqet e mundshme t prcaktuara m par, t cilat lidhen me besueshmrin e ktyre sistemeve dhe krkesat operacionale q mbshtesin sigurin dhe masat konkrete t siguris.", 
+        "sentence_id,": "394ed09753"
+    }, 
+    {
+        "sentence": "Forcimi i pozits s njohurive dhe inovacionit t Ministris s Mbrojtjes pr Hapsirn Kibernetike nprmjet ndryshimit t kulturs, ndrgjegjsimit dhe edukimit t t gjith punonjsve n strukturat e MM/FA, mjeteve praktike pr t mbrojtur sistemet e komunikimit dhe t informacionit q ata prdorin pr t kryer detyrat funksionale.", 
+        "sentence_id,": "e692082530"
+    }, 
+    {
+        "sentence": "Krcnimi m i rrezikshm q on tek humbja (potenciale) ose kompromentimi i informacionit, shkaktohet nga veprimet e paqllimshme nga ana e personelit ashtu si edhe nga pakujdesia e prdorimit t aseteve t IT.", 
+        "sentence_id,": "6b60fdb126"
+    }, 
+    {
+        "sentence": "Personeli i mbrojtjes duhet t jet i vetdijshm pr rrezikun q shoqron prdorimi i aseteve dixhitale.", 
+        "sentence_id,": "1c994bc4c7"
+    }, 
+    {
+        "sentence": "N kuadr t ksaj duhet theksuar: - Zotrim i njohurive t nevojshme pr t ndjekur zhvillimet prkatse dhe pr tiu prgjigjur sulmeve n mnyr t shpejt dhe efektive.", 
+        "sentence_id,": "407136d6a1"
+    }, 
+    {
+        "sentence": "Ky objektiv realizohet nprmjet investimit n njerz, teknologji, krkim dhe zhvillim, me qllim q t jet i aft t prokuroj, zhvilloj dhe zbatoj kapacitetet e nevojshme kibernetike n koh reale.", 
+        "sentence_id,": "1fac639604"
+    }, 
+    {
+        "sentence": "- Garantimin e funksionimit normal t sistemeve, rrjeteve t komunikimit dhe t informacionit brenda vitit 2017, nprmjet rishikimit, modifikimit, zhvillimit dhe zbatimit t nj sistemi masash sigurie.", 
+        "sentence_id,": "52fbdbb3de"
+    }, 
+    {
+        "sentence": "Ky orientim duhet t prqendrohet n: prcaktimin e masave shtes t siguris n mnyr q t garantohet vijimsia e funksionimit t sistemeve t komunikimit dhe t informacionit (prve atyre t prcaktuara n krkesat e siguris dhe mbrojtjes s sistemeve); prcaktimin e funksionalitetit minimal t krkuar pr infrastrukturn dhe sigurimin e funksionimit n nj situat krize; prcaktimin e kundrmasave t lejuara gjat nj situate emergjence n t ciln sistemet mund t jen nn sulm; prcaktimin e metodave optimale dhe t zbatueshme pr garantimin e siguris s informacionit; prcaktimin e metodave testuese pr masat e siguris dhe veprimet e nevojshme pr ti zbatuar ato; prmirsimin e sistemeve t monitorimit dhe identifikimit t ndrhyrjeve n infrastrukturn kritike n nivel t FA; prcaktimin e krkesave t sakta t siguris n marrdhnie me siguruesit publik dhe privat t shrbimeve; krijimin dhe fuqizimin e sistemeve rezerv t t dhnave, etj.", 
+        "sentence_id,": "b028be95d1"
+    }, 
+    {
+        "sentence": "- N vlersimin dhe prcaktimin prfundimtar t masave pr sigurin n rrjetet kompjuterike, i rndsishm sht dhe certifikimi i tyre.", 
+        "sentence_id,": "605b500fa7"
+    }, 
+    {
+        "sentence": "Akreditimi i rrjeteve dhe sistemeve mbetet nj drejtim i rndsishm dhe urgjent i puns s strukturave q administrojn sigurin n rrjete dhe sisteme.", 
+        "sentence_id,": "139fe51d24"
+    }, 
+    {
+        "sentence": "Duhet ndryshuar konceptimi i masave t siguris s informacionit nga ai statik n dinamik dhe reagues.", 
+        "sentence_id,": "45125ffd08"
+    }, 
+    {
+        "sentence": "Rritja e mundsive t prdorimit t produkteve t certifikuara, pr sistemet n pronsi t MM dhe t FA gjithashtu do t ndihmoj n rritjen e besimit dhe prmirsimin e siguris s Sistemeve te Ndrlidhjes dhe t Informacionit (SNI) dhe shrbimet q u ofrohen strukturave nprmjet ktyre sistemeve.", 
+        "sentence_id,": "1b726650a5"
+    }, 
+    {
+        "sentence": "- Garantimin e besueshmris s aseteve dhe proceseve operative brenda vitit 2017, nprmjet mnyrs s trajtimit, q karakteri hibrid dhe i ndryshueshm i procedurave t tenderimit dhe t prokurimit pr materialet dhe shrbimet n fushn e Cyber-it t jet proaktiv.", 
+        "sentence_id,": "7c7d1cd734"
+    }, 
+    {
+        "sentence": "- Prfitimin nga krkim-zhvillimi brenda organizmit t mbrojtjes, por edhe hulumtimi shtes pr ndikimin e aseteve kibernetike, si nj kapacitet operativ, si edhe pr krcnimin q paraqesin pr Forcat e Armatosura; teknikisht, ligjrisht dhe n drejtim t rregullimit t mundshm t proceseve.", 
+        "sentence_id,": "59a9f45998"
+    }, 
+    {
+        "sentence": "Ndaj MM/FA, duhet t vazhdoj, t lidhet me kto zhvillime n fushn kibernetike, n nivel kombtar dhe ndrkombtar, por gjithashtu t kryej krkime n mnyr t pavarur.", 
+        "sentence_id,": "b5fc4fe93d"
+    }, 
+    {
+        "sentence": "- Organizimin e mbrojtjes nprmjet rekrutimit, trajnimit dhe mbajtjes s personelit t kualifikuar, t cilt duhet t jen t aft t veprojn n nj mjedis ushtarak.", 
+        "sentence_id,": "c7e7c37930"
+    }, 
+    {
+        "sentence": "Gjithashtu hartimi i politikave dhe trajtimi i personelit, pr t marr edhe pr t mbajtur (ruajtur) njohurit e nevojshme, kompetencat dhe aftsit organizative brenda sektorit t mbrojtjes.", 
+        "sentence_id,": "96400f84f1"
+    }, 
+    {
+        "sentence": "Sigurisht q mund t merren n konsiderat modele t veanta t karriers, pr t zhvilluar, kultivuar njohurit dhe ekspertizn n fushn kibernetike, nprmjet shkmbimeve t personelit, promovimit dhe duke bashkpunuar me organizma dhe shrbime t tjera.", 
+        "sentence_id,": "26d208276e"
+    }, 
+    {
+        "sentence": "Kjo bn t mundur q personeli t fitoj prvojn e duhur dhe n t njjtn koh u jep atyre nj perspektiv interesante t karriers.", 
+        "sentence_id,": "12e5ed1888"
+    }, 
+    {
+        "sentence": "Ruajtja dhe zhvillimi i aftsive t prdoruesve dhe specialistve pr t zbuluar, trajtuar, lajmruar dhe reaguar ndaj incidenteve q ndodhin n Sistemet e Ndrlidhjes dhe Informacionit.", 
+        "sentence_id,": "4d7b935c2d"
+    }, 
+    {
+        "sentence": "Ministria e Mbrojtjes dhe FA duhet t jen n gjendje t vazhdueshme dhe t prgatitur operacionalisht, me qllim q t parandalojn, zbulojn dhe koordinojn reagimin ndaj incidenteve serioze n sistemet e ndrlidhjes dhe informacionit.", 
+        "sentence_id,": "9262178d72"
+    }, 
+    {
+        "sentence": "N kt kontekst, drejtorit prgjegjse pr sigurin e informacionit dhe t sistemeve t ndrlidhjes duhet t ken nj bashkpunim sa m t ngusht ndrmjet tyre.", 
+        "sentence_id,": "7307ffd931"
+    }, 
+    {
+        "sentence": "Ky bashkpunim duhet t adresoj me qartsi ngjarjet e ndodhura aksidentalisht ose qllimisht, duke i klasifikuar n teknike, gabimet njerzore, aksidente ose fatkeqsi t natyrs.", 
+        "sentence_id,": "2e90a0de3c"
+    }, 
+    {
+        "sentence": "Incidentet n sisteme prfshijn sulme t drejtuara ndaj infrastrukturs dhe ndaj informacionit t klasifikuar n trsi.", 
+        "sentence_id,": "e43e50a9d9"
+    }, 
+    {
+        "sentence": "S bashku, incidente t vogla ose t mdha n volum, mund t ken pasoja serioze (si rrjedhje t informacionit zyrtar ose humbje t konfidencialitetit t informacionit).", 
+        "sentence_id,": "0c4bb14939"
+    }, 
+    {
+        "sentence": "Strukturat q administrojn logjikisht dhe fizikisht sistemet e ndrlidhjes dhe informacionit duhet t garantojn nj proces t qart t trajtimit dhe reagimit ndaj incidenteve dhe sulmeve.", 
+        "sentence_id,": "84fad1ece6"
+    }, 
+    {
+        "sentence": "Nprmjet procedurave t sakta duhet t vendoset se far do t trajtohet si incident n sistem, kush, kujt, kur dhe si do t raportohet etj.", 
+        "sentence_id,": "c6e65320fc"
+    }, 
+    {
+        "sentence": "Zbatimi i ktyre procedurave do t shoqrohet me mekanizmat e nevojshm t zbulimit t vendosura n sistemet e ndrlidhjes dhe informacionit pr t parandaluar, zbuluar, njoftuar dhe menaxhuar incidentet n sisteme.", 
+        "sentence_id,": "3111d2399c"
+    }, 
+    {
+        "sentence": "Fushat ku duhet t prqendrohemi prfshijn: - Drejtorit prgjegjse duhet t prcaktojn qart se kush do t jet grupi i njoftimit- alarmit me kapacitetet baz pr t koordinuar dhe menaxhuar incidentet n sisteme, t cilat do t mbshtesin funksionet kritike t MM dhe FA.", 
+        "sentence_id,": "7cfe2ce481"
+    }, 
+    {
+        "sentence": "Ky ose kto grupe alarmi duhet t strukturohen-prcaktohen n at mnyr, q ata t marrin n konsiderat prdorimin, arkitekturn dhe drejtimin e sistemeve t ndrlidhjes dhe informacionit n MM dhe FA.", 
+        "sentence_id,": "4599f69f7f"
+    }, 
+    {
+        "sentence": "- T prcaktohet qart se ku dhe kush do t kryej funksionin pr t mbledhur dhe analizuar informacionin e lidhur me incidentet serioze q ndodhin n sistemet e ndrlidhjes dhe informacionit t MM dhe FA.", 
+        "sentence_id,": "319a20633f"
+    }, 
+    {
+        "sentence": "sht e prcaktuar q incidentet e ndodhura n sistemet e klasifikuara raportohen n DSIK, por duhet prcaktuar si do t raportohen incidentet n rrjetet e paklasifikuar, kujt do ti raportohet, si do t analizohen dhe si do t bhet koordinimi me agjencit kombtare t fushs (ALCIRT).", 
+        "sentence_id,": "6f84e5c0b2"
+    }, 
+    {
+        "sentence": "Pr rrjedhoj, sht i domosdoshm prcaktimi i autoriteti i cili do t ket prgjegjsin t koordinoj dhe menaxhoj kto incidente, t siguroj koh pas kohe informacion dhe udhzime pr grupet prgjegjse ndaj incidenteve dhe strukturave q administrojn logjikisht e fizikisht sistemet e ndrlidhjes dhe informacionit.", 
+        "sentence_id,": "825e93b5e5"
+    }, 
+    {
+        "sentence": "Prgatitja pr t prballuar incidentet si krimi kiberentik, spiunazhi, sabotazhi dhe terrorizmi, duhet t merret n konsiderat me qllim formimin e kapaciteteve minimale pr kt qllim.", 
+        "sentence_id,": "50476e5da2"
+    }, 
+    {
+        "sentence": "Forcimi i pozicionit t inteligjencs n Hapsirn Kibernetike.", 
+        "sentence_id,": "c53a49319a"
+    }, 
+    {
+        "sentence": "Shpejtsia e rritjes s hapsirs kibernetike dhe e sistemeve t ndrlidhura, ka zgjeruar me t njjtn mas edhe mundsit e grumbullimit t informacionit.", 
+        "sentence_id,": "e80f8b3d2f"
+    }, 
+    {
+        "sentence": "Duke qen se hapsira kibernetike ka nj nivel t lart inteligjence sht e nevojshme q t kemi nj mbrojtje t infrastrukturs dhe t operacioneve q zhvillohen n kt fush.", 
+        "sentence_id,": "13b9e6fd71"
+    }, 
+    {
+        "sentence": "Parsore pr strukturat e mbrojtjes sht pasqyrimi i qart i t gjitha sulmeve dhe krcnimeve kibernetike q mund t ndodhin, nprmjet zhvillimit t njohurive t vet krcnimit teknik, si edhe pasqyrimit t qart t parashikimeve t synimeve dhe qllimeve t kundrshtarve apo sulmuesve t ndryshm.", 
+        "sentence_id,": "c6d1303f51"
+    }, 
+    {
+        "sentence": "Agjencia e Inteligjencs dhe Siguris s Mbrojtjes (AISM) duhet t krijoj nj struktur brenda saj pr mbledhjen, analizimin dhe raportimin e informacionit n hapsirn kibernetike brenda vitit 2017, nprmjet aftsive dhe kapaciteteve q posedohen, duke ndrprer apo ndaluar aktivitetet e paligjshme n kt fush.", 
+        "sentence_id,": "8316807fc5"
+    }, 
+    {
+        "sentence": "Informacioni i mbledhur do t prdoret pr paralajmrime t produkteve (informacione) t inteligjencs, kompozimin e nj kornize t qart t krcnimeve kibernetike, zhvillimin e mtejshm t produktit n prgjithsi dhe kryerjen e aktiviteteve t kundrzbulimit.", 
+        "sentence_id,": "318b44af12"
+    }, 
+    {
+        "sentence": "Intensifikimi i bashkpunimit n hapsirn kibernetike nprmjet bashkrendimit/ koordinimit t kapaciteteve t inteligjencs kibernetike, si SIGINT (Signal Intelligence) dhe HUMINT (Human Intelligence), apo kapacitete t kundrzbulimit, pr t rritur efikasitetin operacional, duke kombinuar t gjitha asetet q jan n dispozicion.", 
+        "sentence_id,": "9341e5554a"
+    }, 
+    {
+        "sentence": "Ky objektiv realizohet duke prfshir t gjith strukturat si, DAI, J-6, J-2, ASNI, AISM si edhe Sektor t tjer t IT-s. Me an t ktij bashkpunimi sigurohet, nj faktor inteligjence m efikas dhe m frytdhns.", 
+        "sentence_id,": "d88ef9e928"
+    }, 
+    {
+        "sentence": "Kuptohet q, ky efikasitet do t ket influencn e tij pozitive si brenda hierarkis n strukturat e mbrojtjes ashtu edhe n Sigurin Kombtare.", 
+        "sentence_id,": "03b577a81c"
+    }, 
+    {
+        "sentence": "Nj sfid m komplekse ka t bj me zbulimin e sulmeve dhe sulmeve t mbetura n tentativ.", 
+        "sentence_id,": "4be3d8212f"
+    }, 
+    {
+        "sentence": "N rast pamundsie t identifikimit t origjins, autorit dhe objektivi i nj sulmi, ku mundsit pr tu kundrprgjigjur do t jen t kufizuara, lind nevoja pr prdorimin e t gjitha burimeve t inteligjencs q kemi n dispozicion si edhe zhvillimin e hetimeve t ndryshme pr t prmirsuar dhe rritur n mnyr t ndjeshme mundsit pr t bashkpunuar me strukturat e menaxhimit t informacionit, me strukturat e siguris, duke krijuar kshtu nj ndihmes n shrbimet investiguese kriminale.", 
+        "sentence_id,": "48215447c4"
+    }, 
+    {
+        "sentence": "Prve ksaj, bashkpunimi intensiv konfidencial kombtar do t jet themelor dhe ky, pr mundsin e prcaktimit sa m t sakt t identitetit t sulmuesit, si edhe marrjen e masave mbrojtse sa m t efektshme.", 
+        "sentence_id,": "d314b38073"
+    }, 
+    {
+        "sentence": "Intensifikimi i bashkpunimit n nivel kombtar dhe ndrkombtar, partneritetit me biznesin e TI pr t garantuar siguri dhe qndrueshmri n infrastruktur, n rrjetet kompjuterike, n produktet q merren dhe n shrbimet q ofrohen.", 
+        "sentence_id,": "6142748303"
+    }, 
+    {
+        "sentence": "- Kombtar Siguria kibernetike varet nga aftsia e shteteve dhe institucioneve pr t mbrojtur hapsirn e tyre kibernetike, si n mnyre kolektive dhe individuale.", 
+        "sentence_id,": "39d021d158"
+    }, 
+    {
+        "sentence": "Hapsira kibernetike sht nj fush n t ciln si aktort privat dhe publik, civil dhe ushtarak, kombtar dhe ndrkombtar, duhet t veprojn n t njjtn koh dhe t jen reciprokisht t varur nga njri - tjetri.", 
+        "sentence_id,": "c2c042c1d4"
+    }, 
+    {
+        "sentence": "Teknikat e prdorura nga sulmuesit kryesisht jan t ngjashme dhe t dizenjuara pr t shfrytzuar dobsit e prgjithshme t rrjeteve dhe sistemeve.", 
+        "sentence_id,": "1bbfe8b429"
+    }, 
+    {
+        "sentence": "Si menaxher i rrjeteve dhe i sistemeve dixhitale t veta, MM/FA, sht nj partner i rndsishm me njohuri dhe kapacitete specifike.", 
+        "sentence_id,": "0cc62e2573"
+    }, 
+    {
+        "sentence": "Mnyra sesi kapacitetet do t vihen n dispozicion pr operacionet kibernetike do t jen shum t detajuara.", 
+        "sentence_id,": "8279a044f0"
+    }, 
+    {
+        "sentence": "Prandaj, sht i rndsishm hartimi i marrveshjeve me aktort e tjer shtetror pr prfshirjen e aseteve kibernetike t Ministris s Mbrojtjes, si pjes e intensifikimit t politiks s bashkpunimit civil-ushtarak si dhe pr garantimin e Siguris Kombtare.", 
+        "sentence_id,": "0911f17c52"
+    }, 
+    {
+        "sentence": "Vendosja e kapaciteteve t mbrojtjes dhe kontributit t tyre, do t ndikoj n prmirsimin e siguris dhe rritjen e besueshmris s t gjith hapsirs kibernetike n Shqipri.", 
+        "sentence_id,": "65182bd5fa"
+    }, 
+    {
+        "sentence": "Ky objektiv do t realizohet nprmjet organizimit t nj metode gjithprfshirse duke prcaktuar qart rolet, detyrat dhe prgjegjsit, si dhe nj konsultimi t prbashkt pr mbajtjen n kontroll t sistemeve t ndryshme n nivel kombtar.", 
+        "sentence_id,": "0b725d71ac"
+    }, 
+    {
+        "sentence": "Gjithashtu, n nivel kombtar merr rndsi bashkpunimi me sektorin publik, si universitetet, dhe me sektorin privat n fushn e krkimit, zhvillimit dhe trajnimit t personelit.", 
+        "sentence_id,": "8f4c9da68c"
+    }, 
+    {
+        "sentence": "Si rezultat i prballjes me sfida t tilla, si buxhetet e kufizuara dhe mungesa e personelit t kualifikuar, realizimi i ktij bashkpunimi do t jet efikas n kuadrin e intensifikimit t bashkpunimit n nivel kombtar.", 
+        "sentence_id,": "28e21c1398"
+    }, 
+    {
+        "sentence": "Duke qen se organizmat e Mbrojtjes kontribuojn n Axhendn Kombtare t Siguris dhe si pjes integrale e politikave t qeveris lidhur me sektorin privat, prioriteti i dhn pr sigurin kibernetike nga industria e teknologjis s lart, sht nj hap m tej n kuadrin e bashkpunimit me ministrit e tjera, ALCIRT dhe sektorin privat.", 
+        "sentence_id,": "642354120b"
+    }, 
+    {
+        "sentence": "N kt kuadr sht prgatitur dhe nj plan veprimi pr CDMB (Cyber Defence Management Board) n nivel kombtar, n t cilin MM, do t mbshtetet pas miratimit t ksaj strategjie.", 
+        "sentence_id,": "33b7099bc8"
+    }, 
+    {
+        "sentence": "MM do t bashkpunoj me NATO-n pr forcimin e mbrojtjes kibernetike, nprmjet kontributit n zhvillimin dhe zbatimin e politikave t NATO-s dhe prmirsimit t mbrojtjes s sistemeve dhe rrjeteve t veta, si dhe ato t aleatve.", 
+        "sentence_id,": "e142213247"
+    }, 
+    {
+        "sentence": "Trajnimi i specialistve mbetet nj drejtim i rndsishm pr t formuar kapacitetet e nevojshme pr mbrojtjen kibernetike.", 
+        "sentence_id,": "8a78e5a1a0"
+    }, 
+    {
+        "sentence": "Pr kt do t synohet pjesmarrja e vijueshme n veprimtarit q organizon NATO pr mbrojtjen kibernetike duke u trajnuar n struktura t mirfillta si Qendra e Ekselencs pr Mbrojtjen Kibernetike apo njohja e prvojave t vendeve t tjera t NATO-s, q kan ngritur struktura t veanta pr kt qllim.", 
+        "sentence_id,": "4bbe8eb337"
+    }, 
+    {
+        "sentence": "Specialistt e trajnuar jasht vendit do t shfrytzohen pr organizimin e trajnimeve n nivelin e MM/FA.", 
+        "sentence_id,": "2a08b012a7"
+    }, 
+    {
+        "sentence": "ROLET DHE PRGJEGJSIT PR IMPLEMENTIMIN Megjithse siguria e informacionit sht prgjegjsia e par dhe kryesore e strukturave t caktuara t MM dhe FA, ndjekja dhe zbatimi me sukses i ksaj strategjie krkon bashkpunim efektiv midis strukturave prgjegjse, me agjencit e tjera kombtare t fushs dhe t gjith prdoruesit individual.", 
+        "sentence_id,": "5d72eeff43"
+    }, 
+    {
+        "sentence": "do struktur e MM dhe FA duhet t jet n nj linj me parimin e prgjegjsis dhe t siguroj se prioritetet e strategjis zbatohen n vijimsi n t gjitha drejtimet.", 
+        "sentence_id,": "3f797e3264"
+    }, 
+    {
+        "sentence": "N kt kontekst, do struktur prgjegjse n MM dhe FA duhet t punoj ngusht me strukturat e tjera t vartsis, q masat e siguris t jen t koordinuara me t gjith aktort.", 
+        "sentence_id,": "f2561e6de8"
+    }, 
+    {
+        "sentence": "Drejtoria e Automatizimit dhe Inovacionit dhe Drejtoria J-6 do t jen prgjegjsit kryesor pr t ndjekur zbatimin e ksaj strategjie dhe duhet t prfshijn t gjith aktort e nevojshm n sigurin e informacionit gjat zhvillimit dhe implementimit t prioriteteve t vendosura n planin e veprimit.", 
+        "sentence_id,": "59042410fd"
+    }, 
+    {
+        "sentence": "Drejtorit prgjegjse n MM dhe SHPFA duhet t qartsojn krkesat ligjore dhe rregullatore t prgjithshme q zbatohen n institucion, kush jan zotruesit ky t sistemeve t klasifikuara dhe t paklasifikuara dhe t vendosin krkesa t qarta pr menaxhimin, administrimin fizik dhe logjik t sistemeve t ndrlidhjes dhe informacionit.", 
+        "sentence_id,": "fe90ac363d"
+    }, 
+    {
+        "sentence": "Agjencia e Sistemeve t Ndrlidhjes dhe t Informacionit (ASNI) dhe degt e ndrlidhjes n Forca duhet t bashkpunojn, t vendosin dhe t prcaktojn krkesat pr vazhdueshmrin operacionale t sistemeve t cilat jan shum t rndsishme pr veprimtarin e MM dhe FA.", 
+        "sentence_id,": "5819ffe182"
+    }, 
+    {
+        "sentence": "Prdoruesit e sistemeve n MM dhe FA duhet t garantohen q t marrin dhe drgojn dokumente elektronikisht n mnyr t sigurt q konfidencialiteti, integriteti dhe autenticiteti t mos cnohen.", 
+        "sentence_id,": "e9ced94aa0"
+    }, 
+    {
+        "sentence": "Nga ana e tyre prdoruesit duhet t zbatojn me korrektsi rregullat dhe procedurat pr prdorimin e ktyre sistemeve.", 
+        "sentence_id,": "bd437274f6"
+    }, 
+    {
+        "sentence": "Pr t vlersuar realisht gjendjen aktuale pr zhvillimin dhe zbatimin e fushave prioritare t strategjis, duhet krkuar rregullisht nj rifreskim i masave pr zbatimin e planit t veprimit.", 
+        "sentence_id,": "1accd125d6"
+    }, 
+    {
+        "sentence": "Prgjegjsia kryesore pr sigurin e sistemeve t komunikimit dhe t informacionit lidhet me zotruesit e ktyre sistemeve, administratorin logjik dhe fizik t sistemit si dhe me prgjegjsit e menaxhimit t sistemeve.", 
+        "sentence_id,": "9b9a757206"
+    }, 
+    {
+        "sentence": "Puna e siguris duhet t jet nj veprim i prditshm, i mbshtetur dhe kontrolluar nga do struktur.", 
+        "sentence_id,": "d11faa5cb5"
+    }, 
+    {
+        "sentence": "Kostot e masave pr t promovuar siguri t informacionit n sistemet elektronike duhet t jen proporcionale me riskun e vlersuar pr sistemet e komunikimit e t informacionit n MM dhe FA.", 
+        "sentence_id,": "12bbd032a3"
+    }, 
+    {
+        "sentence": "Drejtimet dhe shtyllat kryesore ku mbshtet Strategjia pr Mbrojtjen Kibernetike sigurojn q Ministria e Mbrojtjes do t jet n gjendje t veproj n mnyr efikase n hapsirn kibernetike.", 
+        "sentence_id,": "9c2a57a83d"
+    }, 
+    {
+        "sentence": "Duke investuar n mbrojtjen kibernetike dhe aftsit operacionale, do t jemi n gjendje t garantojm sisteme t teknologjis s lart pr Forcat e Armatosura, q ato t kryejn me sukses detyrat e tyre.", 
+        "sentence_id,": "35a4661e07"
+    }, 
+    {
+        "sentence": "Nj plan veprimi m i detajuar, i cili do t prshkruaj se si do t ndiqen dhe zbatohen n t ardhmen prioritetet strategjike, objektivat dhe parimet baz pr politikat e siguris t sistemeve t ndrlidhjes dhe informacionit, do t botohet i veant dhe do t rishikohet kur paraqitet e nevojshme.", 
+        "sentence_id,": "59a24d3db9"
+    }
+]

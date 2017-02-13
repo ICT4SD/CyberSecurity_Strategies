@@ -1,0 +1,406 @@
+[
+    {
+        "sentence_id,": "8fd3177b60", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "All countries, especially highlyconnected ones like Singapore, benefit from international cooperation in securing global infocomm infrastructures and responding to cyber threats."
+    }, 
+    {
+        "sentence_id,": "b84a5dbfba", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "cirt"
+                ]
+            }
+        ], 
+        "sentence": "We will also expand and beef up national resources such as the National Cyber Incident Response Team (NCIRT) and the National Cyber Security Centre (NCSC)."
+    }, 
+    {
+        "sentence_id,": "9ccea65136", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "CSA is empowered to develop and enforce cybersecurity regulations, policies, and practices."
+    }, 
+    {
+        "sentence_id,": "63c7e3c464", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "We are putting in place the necessary infrastructure and policies to build capabilities, and to create a conducive ecosystem where people and companies co-create innovative solutions to enhance the lives of our citizens."
+    }, 
+    {
+        "sentence_id,": "afbfeaeaa1", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "CSA is also empowered to develop and enforce cybersecurity regulations, policies, and practices."
+    }, 
+    {
+        "sentence_id,": "b7437fcb1c", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "cirt"
+                ]
+            }
+        ], 
+        "sentence": "We will build up more National Cyber Incident Response Teams (NCIRT) and enhance the Disaster Recovery Plans (DRP) and Business Continuity Plans (BCP) of the critical sectors."
+    }, 
+    {
+        "sentence_id,": "dc59dab2da", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The CII Protection Programme will, firstly, establish the foundation to facilitate information exchange among CII operators through clear policies and guidelines."
+    }, 
+    {
+        "sentence_id,": "a77151d840", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Third, it will require operators to foster a culture of cyber-risks literacy across all levels in organisations, proactively address cyber-risks and ensure that their practices are consistent with policies."
+    }, 
+    {
+        "sentence_id,": "086eadc136", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards", 
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "The Government will promote the adoption of Security-by-Design in several ways: Progressively institutionalise Security-by-Design into the governance framework for CII protection; Promote the practice of penetration testing to discover vulnerabilities early for remediation at the design stage; Build a strong community of practice in product and system testing based on established international standards, such as the Common Criteria product assurance certification; and Continue to refine methodologies and develop new security validation tools to improve the efficacy of Security-by-Design."
+    }, 
+    {
+        "sentence_id,": "394a0f694b", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "Opening of the CREST Examination Facility for Penetration Testing Certifications and Accreditations at the Singapore Institute of Technology The implementation of Security-by-Design has to be complemented with highly skilled professionals who can carry out security validation processes rigorously and proficiently."
+    }, 
+    {
+        "sentence_id,": "0336501994", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards", 
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "The introduction of CREST penetration testing certifications and accreditations in Singapore is one means of raising the professional competency standards."
+    }, 
+    {
+        "sentence_id,": "f943375c7d", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "This Group is responsible for formulating regulatory policies and 1 2 3 14 The first priority on our journey towards a Smart Financial Centre is therefore to continually strengthen the industrys cybersecurity."
+    }, 
+    {
+        "sentence_id,": "95b73849e6", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "It is led by the Permanent Secretary of the Ministry of Communications & Information, supported by CSA, and comprises senior policy decisionmakers from government agencies overseeing the different critical sectors."
+    }, 
+    {
+        "sentence_id,": "3458637bd3", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "CMG (Cyber) serves dual functions: (a) it is responsible for the development of cybersecurity policies and standards, and oversees the implementation of cybersecurity protection measures in the critical sectors; and (b) in a cyber crisis, it mobilises the necessary resources and directs the operational responses to provide a coordinated response to the threat."
+    }, 
+    {
+        "sentence_id,": "253ce09319", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "cirt"
+                ]
+            }
+        ], 
+        "sentence": "Build up more National Cyber Incident Response Teams (NCIRT) which can be mobilised to lend support to a sector or CII operator should they face an escalating cyber incident."
+    }, 
+    {
+        "sentence_id,": "4139cb8b94", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "cirt"
+                ]
+            }
+        ], 
+        "sentence": "Expand the National Cyber Incident Response Team (NCIRT) National Cyber Incident Response Teams (NCIRT) are currently drawn from the incident response teams from CSA, Government Technology Agency (GovTech), the Ministry of Home Affairs (MHA) and the Ministry of Defence (MINDEF)."
+    }, 
+    {
+        "sentence_id,": "d657e38459", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "cirt"
+                ]
+            }
+        ], 
+        "sentence": "The Government will further enhance the capability of the NCIRTs to deal with more complex and challenging attack scenarios."
+    }, 
+    {
+        "sentence_id,": "c30308fbb0", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "cirt"
+                ]
+            }
+        ], 
+        "sentence": "It will also build up more NCIRTs by upgrading certain sectoral CIRTs and also consider raising additional NCIRTs from industry and academia."
+    }, 
+    {
+        "sentence_id,": "6e0a949e22", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "This includes complying with policies and standards, conducting audits and risk assessments, and reporting cybersecurity incidents."
+    }, 
+    {
+        "sentence_id,": "b7c6fafe45", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Many countries have also strengthened their cybersecurity laws over the past few years, focusing on areas such as standards for essential service providers, information sharing, and cyber crisis management."
+    }, 
+    {
+        "sentence_id,": "ab4ff525a8", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "This will ensure that DPOs are equipped with the relevant skills, competencies, and certifications needed to do their jobs."
+    }, 
+    {
+        "sentence_id,": "0b031fa087", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "PDPC is currently developing a system of Data Protection Trustmarks to certify organisations data protection processes."
+    }, 
+    {
+        "sentence_id,": "bf30219666", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "We will encourage existing cybersecurity professionals to develop their careers in the industry by defining clearer career pathways, promoting internationallyrecognised certifications, and building strong communities of practice."
+    }, 
+    {
+        "sentence_id,": "17decb204e", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "We will institute clear career pathways, promote certification, and foster strong communities of practice; and Work with industry and IHLs to attract new graduates and convert existing professionals from related fields."
+    }, 
+    {
+        "sentence_id,": "ea3fd421ef", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "Internationally-recognised Certifications Cybersecurity professionals should deepen their skills and keep abreast of evolving technologies and best practices."
+    }, 
+    {
+        "sentence_id,": "435c147c9b", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "One way to do so is to adopt internationally-recognised certifications in areas such as digital forensics, malware analysis and incident response."
+    }, 
+    {
+        "sentence_id,": "278e5a0d46", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "CREST Singapore (Council of Registered Ethical Security Testers), for example, offers certification for practising penetration testers in Singapore."
+    }, 
+    {
+        "sentence_id,": "ea4582e4d9", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The project brings together academic expertise, industry knowledge, and policy know-how to address the data and standards gaps required for an efficient cyber risk insurance market place."
+    }, 
+    {
+        "sentence_id,": "3e235cb5f9", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Champion international and ASEAN cyber capacity building initiatives in operational, technical, legislative, cyber policy and diplomatic areas."
+    }, 
+    {
+        "sentence_id,": "d596f21ab7", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "We will continue to participate in global and regional discussions on cyber norms, cyber policy and legislation, cyber deterrence, and cybercrime cooperation."
+    }, 
+    {
+        "sentence_id,": "66425d0ac6", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Singapore stays committed to build cybersecurity capacity within ASEAN in operational, technical, legislative, cyber policy and diplomatic areas."
+    }, 
+    {
+        "sentence_id,": "2be6f5aa0b", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Singapore aims to be an active participant in this area and will facilitate global and regional dialogues on cyber norms building and codes of conduct, cyber policy and legislation, cyber deterrence and cybercrime cooperation."
+    }
+]

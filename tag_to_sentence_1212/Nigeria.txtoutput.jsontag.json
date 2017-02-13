@@ -1,0 +1,722 @@
+[
+    {
+        "sentence_id,": "0a675d8905", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "The strategy recognizes three key approaches to a successful national cybersecurity engagement: public private sector partnership; stakeholders collaborations and international cooperation."
+    }, 
+    {
+        "sentence_id,": "4eacf27562", 
+        "tag": [
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "manpower development"
+                ]
+            }
+        ], 
+        "sentence": "6.3 Mission of CIIPR.. 6.4 Strategic Objectives 6.5 Strategic Imperatives to Achieve Aims and Objectives 6.6 Initiative 1.. 6.7 Initiative 2.. 6.8 Initiative 3.. 6.9 Initiative 4.. 6.10 Success Criteria and Review of CIIP Strategy... Chapter Seven: STRATEGY ON ASSURANCE & MONITORING 7.1 Introduction 7.2 Strategic Objective 7.3 The Cybersecurity Assurance Context .. 7.4 Focal Points 7.5 Strategy...... Chapter Eight: NATIONAL CYBERSECURITY SKILL & MANPOWER DEVELOPMENT 8.1 Introduction... 8.2 Objectives."
+    }, 
+    {
+        "sentence_id,": "7f7bcce893", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "It includes a new national mechanism on cybersecurity assurance, adoption of fit for purpose standards for Governance, Risk and Control, Core Assurance Capabilities, National Enterprise Architecture Framework."
+    }, 
+    {
+        "sentence_id,": "3371930df7", 
+        "tag": [
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "manpower development"
+                ]
+            }
+        ], 
+        "sentence": "The introduction of a sustainable strategy to develop, maintain and ensure Nigerians are informed and equipped to deal with cybersecurity events by establishing a mechanism for Cybersecurity Skill and Manpower Development initiatives."
+    }, 
+    {
+        "sentence_id,": "9d73cde062", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "It introduces a model for certification of individuals to ensure quality of competence in the field of cybersecurity relevant to the nation."
+    }, 
+    {
+        "sentence_id,": "6d00cdacbc", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "----------------------- Page 9----------------------- The strategy for protecting Nigerian Children from Online Child Exploitation and Sexual Abuse includes initiatives, such as the national awareness programmes through multi-stakeholder engagement, and international cooperation in the countermeasures."
+    }, 
+    {
+        "sentence_id,": "aa8bb3a9f2", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "1.1.4 The NCSS articulates, coordinates and guides the country in the implementation of National Cybersecurity Policy and cohesive counter-threat measures for the protection, security and defence of National Cyberspace."
+    }, 
+    {
+        "sentence_id,": "8be2ee729d", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "manpower development"
+                ]
+            }
+        ], 
+        "sentence": "1.1.5 The Strategy provides various initiatives for the focused areas and national mechanisms for developing and implementing Legal & Policy Measures, National Incident Management, Critical Information Infrastructure Protection, Cybersecurity Assurance Framework, Manpower Development, Child Online ----------------------- Page 11----------------------- Abuse & Exploitation, National Internet Safety, Public Awareness, Multi- Stakeholder Partnership and Global Cooperation on Cybersecurity."
+    }, 
+    {
+        "sentence_id,": "941b857be4", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "National Cybersecurity Vision: The National Cybersecurity Policy has set out a clear purpose, direction and outcome of the countrys engagement in cybersecurity."
+    }, 
+    {
+        "sentence_id,": "3841771a41", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Culled from National Cybersecurity Policy 2014 1.4.6 Why is Cyberspace important to the National Government?"
+    }, 
+    {
+        "sentence_id,": "03406411cd", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "This is the strategic rationale for the development of National Cybersecurity Policy and the context within which National Cybersecurity Strategy is articulated for national security readiness."
+    }, 
+    {
+        "sentence_id,": "3ea582ca93", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "----------------------- Page 14----------------------- CHAPTER TWO UNDERSTANDING NATIONAL CYBER-RISK EXPOSURE 2.1 Introduction In line with the national doctrine on cyber-risk exposure as reflected in the National Cybersecurity Policy document, the country presence in cyberspace exposes it to a new dimension of risk."
+    }, 
+    {
+        "sentence_id,": "e325cad23c", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "2.2.8 The National Cybersecurity Policy document has identified and classified five (5) major cyber threats as inimical to the national security strategy."
+    }, 
+    {
+        "sentence_id,": "a92269046b", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "----------------------- Page 21----------------------- CHAPTER THREE NATIONAL READINESS STRATEGY 3.1 National Cybersecurity Policy Direction 3.1.1 The National Cybersecurity Strategy defines the nations readiness to safeguard and prepare the whole Nation in advance for global economic competitiveness in cyberspace."
+    }, 
+    {
+        "sentence_id,": "954be0eec5", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "3.1.4 The direction of the policy of government on cybersecurity is in agreement with regional and global direction on securing cyberspace."
+    }, 
+    {
+        "sentence_id,": "9f9964b5d7", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "3.3.2 The Strategy is further aligned with National Security Strategy and other relevant government documents most especially National ICT policy and National broadband plan."
+    }, 
+    {
+        "sentence_id,": "3e8222a7be", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "3.6.3 Central coordination model is adopted in line with international best practices and has recommended in the global framework for cooperation on cybersecurity 3.6.4 The sustainability and critical success factor of this governance model is anchored on public-private sector partnership, multi-stakeholder engagement as well as regional and international cooperation."
+    }, 
+    {
+        "sentence_id,": "b4b1066a85", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "----------------------- Page 25----------------------- CHAPTER FOUR LEGAL FRAMEWORK INITIATIVES 4.1 Objective 4.1.1 The objective of the Cyber Security Legal Framework is to identify the strategy required to ensure areas defined in the Cyber security Policy are implemented, managed, sustained and effective in combating cybercrime in Nigeria."
+    }, 
+    {
+        "sentence_id,": "cd79d9e21d", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "4.2 Approach The approach takes the form of referencing aspects of the Legal Framework in the cyber security policy with a view to prescribing the initiatives that will allow for the implementation of each of the detailed areas."
+    }, 
+    {
+        "sentence_id,": "e95e47be7b", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Cyber CrimeLegal Framework Judicial Review International Cooperation Public Private Sector Collaboration Raising Awareness NCSS Fig 2 Initiatives Pyramid 4.3 Initiatives: 4.3.1 Initiave1: Enacting Fit for Purpose Cybercrime Legislation ----------------------- Page 26----------------------- As prescribed in the cyber security policy, fit for purpose legislation will need to be enacted and implemented to combat cybercrime."
+    }, 
+    {
+        "sentence_id,": "6932e05e0f", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The objective of this exercise will be to identify any gaps between what is currently available and what has been proposed in the Cyber security policy with a view to updating any omissions or redundancies so that when the legislation is enacted , it will be adequately effective , workable and flexible enough to deter and prosecute cybercrime activities This initiative supports a strategy to enact a number of separate and distinct legislations that will make up the cybercrime legislative framework as opposed to a single legislation that has the banner of cybercrime legislation."
+    }, 
+    {
+        "sentence_id,": "598b87970b", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "This will be achieved by developing a home grown fit for purpose certified programme of training courses, capacity building, awareness programmes and materials for current Nigerian judges and lawyers."
+    }, 
+    {
+        "sentence_id,": "935fd08812", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "International cooperation to combat cybercrime IV."
+    }, 
+    {
+        "sentence_id,": "081b025f12", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The legislative, technical and policy initiatives to fulfil this aim will consist of the following: ----------------------- Page 31----------------------- i."
+    }, 
+    {
+        "sentence_id,": "343a087866", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Defining minimum policy and standards requirements for handling personal information iii."
+    }, 
+    {
+        "sentence_id,": "bfe10fd4b7", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Government agencies directly involved in CIP are able to better represent stakeholder interests in the various machineries of government that are used to develop and implement Government policy and act as critical infrastructure advocates in the broader policy debate."
+    }, 
+    {
+        "sentence_id,": "67d9bfd33b", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Accordingly, Government agencies that have a role in implementing the CIP Strategy are able to influence or shape government policy initiatives that have impact on critical infrastructure organizations and their ability to achieve CIP."
+    }, 
+    {
+        "sentence_id,": "6d88400a95", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "----------------------- Page 46----------------------- Approach : Using TSIN and ngCERT frameworks, constant rehearsals and practice of defined crisis management strategies NCSS Figure 5: Four Pillars of Critical Infrastructure Protection [adapted from ITUs A Generic National Framework for Critical Information Infrastructure Protection (CIIP)] 6.9 Initiative 4: Identify, analyse and manage cross-sectorial dependencies The identification and analysis of cross-sectorial dependencies assists the risk management decision making of critical infrastructure organizations and helps to inform the Governments policy on CIP."
+    }, 
+    {
+        "sentence_id,": "ee18de580f", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "CIPMA also helps government shape policies on national security and critical infrastructure resilience."
+    }, 
+    {
+        "sentence_id,": "b2eec7a312", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "6.10.1 Mechanism for Measuring Success: Success will be measured through following mechanisms: Effective Critical Information Infrastructure Protection is reliant on a strong, collaborative partnership between governments and critical infrastructure owners and operators to deliver the Governments policy aim of the continued operation of critical infrastructure in the face of all cyber threats."
+    }, 
+    {
+        "sentence_id,": "672b3e61e2", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Coordination of Nigerias international engagement with periodic updates provided to NCCC as required In order to ensure Governments policy settings remain appropriate, the CIP Strategy will undergo a comprehensive review after five years of operation."
+    }, 
+    {
+        "sentence_id,": "28868c3791", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "To harness, profile, harmonize and priorities various technology neutral information security frameworks that will help determine best standards and guidelines suitable to the national peculiarity and in line with international best practices."
+    }, 
+    {
+        "sentence_id,": "ca51132266", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The Regulatory/Legal environment The Cybersecurity bill, National Cyber Security Policy and other laws, policies and regulations will be periodically reviewed to ensure that they continue to be relevant, properly streamlined and serve as a good legal foundation to support the initiatives to secure the nation's cyberspace."
+    }, 
+    {
+        "sentence_id,": "1ebd10ac57", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "7.4.3 Encourage, monitor and review the adoption of national and international best practices as codified in the international frameworks and standards to ensure ----------------------- Page 54----------------------- national cybersecurity practices that compare well with international standards and practices and also serve as a basis for benchmarking our maturity level."
+    }, 
+    {
+        "sentence_id,": "0e5e198e84", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Thus, this Strategy provides adoptable and adaptable fit-for-purpose International Standards and frameworks for information Security Governance, Risk and Control in line with globally consensus."
+    }, 
+    {
+        "sentence_id,": "2631cc5672", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "This strategy will facilitate cooperation among stakeholders responsible for ensuring the security and safety of our cyberspace and other critical infrastructure towards ensuring commonality in approaches to cybersecurity and standardization."
+    }, 
+    {
+        "sentence_id,": "e6dc51cbaf", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "This initiative recommends consensus driven international standards and multi-stakeholders frameworks on information security assurance."
+    }, 
+    {
+        "sentence_id,": "5158d67661", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Initiative 6 The Strategy implements an Enterprise Application Security Testing regimen with standardized processes and procedures within application lifecycle development processes to help identify vulnerabilities and weaknesses in custom and source code, web applications and databases deployed to support cybersecurity in the nation."
+    }, 
+    {
+        "sentence_id,": "0db2047232", 
+        "tag": [
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "manpower development"
+                ]
+            }
+        ], 
+        "sentence": "----------------------- Page 57----------------------- CHAPTER EIGHT NATIONAL CYBERSECURITY SKILL & MANPOWER DEVELOPMENT 8.1 Introduction: Nigeria presently lacks sufficient specialised cybersecurity skilled personnel required for driving national cybersecurity capabilities and empowerment."
+    }, 
+    {
+        "sentence_id,": "f210a74022", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "The framework will involve designing, developing, and implementing level of skills, requirement, coordination, certifications, regulations, capabilities and expertise to be possessed by the personnel that will be charged with ----------------------- Page 59----------------------- the responsibility of securing and maintaining the nation's presence in cyberspace, who will essentially be Nigerian citizens."
+    }, 
+    {
+        "sentence_id,": "b3d00b394a", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "8.5.4 The NIOC will be expected to be built on nationwide standards with the aim of harmonizing, developing, promoting and enhancing multidisciplinary professional skills capacity and standards in the development of Cybersecurity industry, while providing opportunity for the citizen positive engagement in cyberspace."
+    }, 
+    {
+        "sentence_id,": "72ef519fd9", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "8.5.5 It is expected that by promoting national dignity, preserving national security and economic values, including international standards on multidisciplinary professionalism and expertise, the institution will serve the human resources needs of the country in both the government and private sectors covering all ----------------------- Page 60----------------------- aspect of cybersecurity as defined through the international framework of cooperation on cybersecurity and other widely recognized international best practices."
+    }, 
+    {
+        "sentence_id,": "f1c29e6c12", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "8.6.2 The NIOC will develop professional career standard, minimum entry requirement, based on categorizations acceptable to the government and local industry."
+    }, 
+    {
+        "sentence_id,": "cff66d4ccc", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "8.6.3 It will develop unified scheme for national certifications, training in cybersecurity, capacity building and granting recognized professional status level correspondence to professional categorization."
+    }, 
+    {
+        "sentence_id,": "1ebf6db13f", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "8.6.4 NIOC will develop professional syllabus standardizations, and prospectus for short term and career focused professional skills development."
+    }, 
+    {
+        "sentence_id,": "20c9914a6c", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "8.6.5 NIOC will prepare, coordinate, regulate and conduct NIOC professional examinations in different categories of certification nationwide in collaboration with the industry."
+    }, 
+    {
+        "sentence_id,": "6ca3898ea7", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "8.6.11 NIOC will develop industry acceptable conversion programs for young Nigeria graduates in any recognized and approved discipline or, and equivalent in line with the NIOC approved levels of certifications and categorization of membership."
+    }, 
+    {
+        "sentence_id,": "b2d5591660", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "8.6.12 NIOC will promote federal government and industry acceptance of certifications Nation-wide."
+    }, 
+    {
+        "sentence_id,": "c674af7ceb", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "8.6.14 NIOC will secure international best practices approval and relevant international standards from global institutions."
+    }, 
+    {
+        "sentence_id,": "93fa8b794b", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "In order to address these issues of child online exploitation and its disastrous consequences, the National Cybersecurity Policy viewed it as one of the critical areas of focus."
+    }, 
+    {
+        "sentence_id,": "c970888aab", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "9.2 Rationale for COAEP 9.2.1 The National Cybersecurity Policy framework provides a rationale and philosophy to guide development of strategy for Nigerian Child Online Abuse and Exploitation."
+    }, 
+    {
+        "sentence_id,": "76c04aca87", 
+        "tag": [
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "national legislation"
+                ]
+            }
+        ], 
+        "sentence": "Integration of Child Online Abuse and Exploitation into National legislation on cybercrime and cybersecurity."
+    }, 
+    {
+        "sentence_id,": "dd40371c41", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Ensure that a mechanism is established and is widely promoted to provide a readily understood means for reporting illegal content found on the internet , for example , a national hotline which has the capacity to respond rapidly and have illegal material removed or rendered inaccessible 9.2.4 It is the intention of government to harness counter-measures through a legislative framework, policy and strategic actions to address cyber abuse and online exploitation of Nigerian Child in a manner that will prevent and curtail cybercriminal intents and related malicious acts inimical to the national dignity, security and economic interests of the country."
+    }, 
+    {
+        "sentence_id,": "4566e7d220", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The National Cybersecurity Strategy approach adopts multi-stakeholder and multi-sectorial collaboration through partnership and alliances of government and key actors with clearly defined and specific guidelines for policy makers, law enforcement and security agencies."
+    }, 
+    {
+        "sentence_id,": "1a3a7dff31", 
+        "tag": [
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "9.6.2 NCCC will ensure various security and law enforcement agencies in the country implement abuse report mechanisms which will be prominently displayed on relevant parts of any web site that allows user generated content to appear."
+    }, 
+    {
+        "sentence_id,": "248aec8e1d", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Private sector provides technology innovations, critical resources and technical standards that the government needs to drive National Cybersecurity Strategy."
+    }, 
+    {
+        "sentence_id,": "a5d49fc0ef", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "While government provides enabling mechanisms, instruments and authorities to transform industry best practices and standards into the ----------------------- Page 75----------------------- framework of National Cybersecurity Strategy, thus, PPPMF will assist government to address structural weaknesses."
+    }, 
+    {
+        "sentence_id,": "35757e298f", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The strategy marshalled counter-measure policy guidelines, roadmap strategy, local ideas, tested tools and materials for the delivery of the initiative."
+    }, 
+    {
+        "sentence_id,": "41fe63bfc0", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The initiative helps reawaken the nation to its statutory role within the framework of National Cybersecurity Policy towards safeguarding Nigerian Online Presence, developing and implementing local strategies, guidelines and mobilization of all stakeholders to achieve this cause through enterprise and unified platform of National Cybersecurity Coordinating Center."
+    }
+]

@@ -1,0 +1,2118 @@
+[
+    {
+        "sentence": "----------------------- Page 1----------------------- Philippine National Cyber Security Plan 2005 EXECUTIVE SUMMARY The initiative to formulate a National Cyber Security Plan is part and parcel of the current national effort to address critical infrastructure protection concerns.", 
+        "sentence_id,": "7c9975de44"
+    }, 
+    {
+        "sentence": "It forms part of the National Critical Infrastructure Protection Plan (NCIPP) which outlines the strategies and programs to be pursued in protecting the nations critical infrastructures.", 
+        "sentence_id,": "dc4a400995"
+    }, 
+    {
+        "sentence": "This Plan addresses the cyber aspect of critical infrastructure protection.", 
+        "sentence_id,": "c8304e1ef7"
+    }, 
+    {
+        "sentence": "While it focuses on the nature and characteristics of information and communication technology it takes into account important physical aspects and dimensions of critical infrastructure protection to achieve more effective measures to respond to the challenges of cyber threats.", 
+        "sentence_id,": "5d071eedbe"
+    }, 
+    {
+        "sentence": "In formulating this Plan, it was deemed necessary to determine the nature and characteristics of the Philippine Cyberspace.", 
+        "sentence_id,": "4421764d89"
+    }, 
+    {
+        "sentence": "Here, it is defined as the total apparatus (elements and systems) that enables people and network/computer systems to communicate with each other.", 
+        "sentence_id,": "24b60f0a59"
+    }, 
+    {
+        "sentence": "It is the space where information is posted, exploited, manipulated, traded, accessed and created by the interaction, communication and collaboration of people and organizations via the network of information and communication system infrastructures.", 
+        "sentence_id,": "5744995f35"
+    }, 
+    {
+        "sentence": "The components of the Philippine Cyberspace include (1) Enterprise Networks/ Intranets, (2) Local Internet Service Provider (ISP), (3) Regional Network Providers (RNP), (4) Internet Backbone, (5) User Services, (6) Online Content, (7) Source of Online Content, (8) End-Users, and (9) Telecommunication Services.", 
+        "sentence_id,": "aea31a035b"
+    }, 
+    {
+        "sentence": "The cyberspace continues to face a myriad of challenges.", 
+        "sentence_id,": "5ca7657d01"
+    }, 
+    {
+        "sentence": "These challenges include threats in the form of events, situations and conditions that tend to disrupt, degrade and destroy cyber infrastructures.", 
+        "sentence_id,": "a52417af45"
+    }, 
+    {
+        "sentence": "Generally, threats originate either from accidental and deliberate sources such as (1) accidents and malfunctions, (2) hacktivism, (3) cyberterrorism, (4) information warfare, (5) foreign intelligence, (6) technoterrorism, and (7) cybercrimes.", 
+        "sentence_id,": "ad6fbc1700"
+    }, 
+    {
+        "sentence": "This plan is also consistent with our existing international commitment with the United Nations, APEC and the ASEAN where each member state or economy agreed to jumpstart collective efforts to secure the cyberspace against terrorism.", 
+        "sentence_id,": "b7d65772fd"
+    }, 
+    {
+        "sentence": "The primary goals of this Plan include: (1) assuring the continuous operation of our nations critical cyber infrastructures, (2) implementing capacity-building measures to enhance our ability to respond to threats before, during and after attacks, (3) effective law enforcement and administration of justice, and (4) a cyber security-conscious society.", 
+        "sentence_id,": "a6eb34141b"
+    }, 
+    {
+        "sentence": "There are four (4) strategies identified which are necessary to protect critical cyber infrastructures namely: (1) Understanding the Risk, (2) Controlling the Risk, (3) Organizing and Mobilizing for Cybersecurity, and (4) Institutional and Policy Build-Up.", 
+        "sentence_id,": "485d53e72b"
+    }, 
+    {
+        "sentence": "Each strategy has specific programs to be implemented.", 
+        "sentence_id,": "05f81b16a1"
+    }, 
+    {
+        "sentence": "In general, this Plan seeks to institutionalize the necessary capabilities in the government and in the private sector to adequately meet and respond to challenges and threats against cyber infrastructures that are critical to the national way of life and well-being.", 
+        "sentence_id,": "7f56599ee7"
+    }, 
+    {
+        "sentence": "Protecting the future is the primary responsibility of each and every Filipino today.", 
+        "sentence_id,": "542831d770"
+    }, 
+    {
+        "sentence": "If the Philippines intends to join the ranks of nations that have become information-based societies, security of the of the nations digital infrastructures cyberspace must be pursued with urgency.", 
+        "sentence_id,": "e532f72b2b"
+    }, 
+    {
+        "sentence": "It should be made a vital component of the over-all strategic, operational and tactical priorities of our national security ----------------------- Page 2----------------------- strategy .", 
+        "sentence_id,": "486174385b"
+    }, 
+    {
+        "sentence": "INTRODUCTION Consistent with the Presidents agenda of national development through the utilization and development of information and communication technology, is the protection of digital infrastructures which should be pursued urgently.", 
+        "sentence_id,": "dc346cf776"
+    }, 
+    {
+        "sentence": "The importance of information and communications technology (ICT) is underwritten in the fact that it has been identified as the \"foundation of the Philippines future economic development.\"", 
+        "sentence_id,": "aa2e34400f"
+    }, 
+    {
+        "sentence": "ICT has become an integral component in the operation and management of the economy and government.", 
+        "sentence_id,": "9d1d6e82a3"
+    }, 
+    {
+        "sentence": "ICT is important to our nations capacity to carry out information-based public and private enterprises.", 
+        "sentence_id,": "a84e201ee9"
+    }, 
+    {
+        "sentence": "Most of these information-based enterprises like those telecommunication companies, banks, transportation and government agencies among others are considered as critical infrastructures.", 
+        "sentence_id,": "1f8a2c9308"
+    }, 
+    {
+        "sentence": "The importance of ICT is also underscored by the fact that mutual dependencies and interconnectedness among the various critical infrastructures are enabled through ICT, or sometimes referred to as digital or cyber infrastructures.", 
+        "sentence_id,": "64c1410a20"
+    }, 
+    {
+        "sentence": "Digital infrastructures are the platforms through which the Philippine cyberspace spans.", 
+        "sentence_id,": "3262104261"
+    }, 
+    {
+        "sentence": "It is utilized by economic enterprises to improve productivity, hasten delivery of products and services, and increase competitiveness.", 
+        "sentence_id,": "756a0273f5"
+    }, 
+    {
+        "sentence": "They are also used extensively not only to facilitate the exchange and delivery of information such as those spanning a wide range of resources for research, education, entertainment, etc., but also those that involve crucial public services and government functions.", 
+        "sentence_id,": "a718ef1e57"
+    }, 
+    {
+        "sentence": "Our dependence on ICT, however, has opened up vulnerabilities that can be exploited by criminals and terrorist organizations and other forms of malicious exploitations and lawless activities.", 
+        "sentence_id,": "df7be0ab7c"
+    }, 
+    {
+        "sentence": "The successful exploitation of these vulnerabilities can cause tremendous damages and major disruptions to the normal operation of the economy and government, thereby posing serious implications to national security and to the welfare of our people.", 
+        "sentence_id,": "ce1a8bbda7"
+    }, 
+    {
+        "sentence": "While ICT provides opportunities for national development, it also brought along new kinds of threats that challenge national interest and security.", 
+        "sentence_id,": "7898b7b922"
+    }, 
+    {
+        "sentence": "ICT has also become a weapon or new ways and means to wage wars and perpetrate crimes and terrorism.", 
+        "sentence_id,": "4def0febd5"
+    }, 
+    {
+        "sentence": "This plan is a response to these challenges.", 
+        "sentence_id,": "1477a2be66"
+    }, 
+    {
+        "sentence": "It shall be called the National Cyber Security Plan (NCSP), and will form part of the National Critical Infrastructure Protection Plan (NCIPP) to protect our critical cyber or digital infrastructures, referred to in this volume as the cyber aspect of critical infrastructure protection.", 
+        "sentence_id,": "377599ccf4"
+    }, 
+    {
+        "sentence": "It will serve as the guide upon which our actions will be based to help assure the resiliency of our critical infrastructures.", 
+        "sentence_id,": "6922468f8b"
+    }, 
+    {
+        "sentence": "While it can stand as a separate program, the NCSP shall support and enhance the physical aspect of critical infrastructure protection.", 
+        "sentence_id,": "fdc5677606"
+    }, 
+    {
+        "sentence": "It will address the information and communication technology security or cyber security requirements of critical infrastructures.", 
+        "sentence_id,": "d6f4e6e109"
+    }, 
+    {
+        "sentence": "The NCSP outlines the strategies and programs necessary to protect the nations critical cyber infrastructures.", 
+        "sentence_id,": "fd06e4428c"
+    }, 
+    {
+        "sentence": "It highlights the necessary and specific cyber security measures in accordance with the strategies, guiding principles and basic framework set and defined in the NCIPP.", 
+        "sentence_id,": "f5791f5868"
+    }, 
+    {
+        "sentence": "As recognized in the NCIPP, the protection of critical cyber infrastructures necessitates the need to implement the concept of shared responsibility that requires coordination, cooperation and collaboration between the private and the public sectors.", 
+        "sentence_id,": "9ffcef7d9e"
+    }, 
+    {
+        "sentence": "Nonetheless, it still falls to the government ----------------------- Page 3----------------------- the primary task of creating a conducive environment for the protection of critical cyber infrastructures.", 
+        "sentence_id,": "6258262e90"
+    }, 
+    {
+        "sentence": "PART ONE - DEFINING THE CYBERSPACE The formulation of plans and strategies to secure the cyberspace is hinged upon the proper understanding of the nature and characteristics of our cyber or digital infrastructures.", 
+        "sentence_id,": "53072af75d"
+    }, 
+    {
+        "sentence": "Thus, this section shall provide an brief description and importance of the cyberspace.", 
+        "sentence_id,": "b39c7a0e98"
+    }, 
+    {
+        "sentence": "THE PHILIPPINE CYBERSPACE At present, the term cyberspace is conventionally described as the non-physical terrain created by computer systems.", 
+        "sentence_id,": "b7f5c3f9f5"
+    }, 
+    {
+        "sentence": "In technical terms, cyberspace consists of computer networks as well as the worldwide network of computer networks that use the Transmission Control/Internet network protocols to facilitate data transmission and exchange.", 
+        "sentence_id,": "277414e715"
+    }, 
+    {
+        "sentence": "Cyberspace is differentiated from physical space such that the latter refers to an aspect of reality visible to the naked eye, while the former refers to an ethereal reality in which information in the form of communicated messages coexist and are transmitted.", 
+        "sentence_id,": "ad4b425475"
+    }, 
+    {
+        "sentence": "Cyberspace, therefore, should not be confused as being imaginary; it is real and exhibit physical reality through servers, routers, cables, switches, computers and electronic messages.", 
+        "sentence_id,": "02e8baf0b3"
+    }, 
+    {
+        "sentence": "For the purposes of this Plan, cyberspace is the consequence of the operation of the total apparatus (elements and systems) that enables people and network/computer systems to communicate with each other.", 
+        "sentence_id,": "a78a55d315"
+    }, 
+    {
+        "sentence": "These apparatus are called information and communication system infrastructures.", 
+        "sentence_id,": "2ad48d45e4"
+    }, 
+    {
+        "sentence": "Hence, the protection of cyberspace requires securing this total apparatus.", 
+        "sentence_id,": "707428c973"
+    }, 
+    {
+        "sentence": "Cyberspace resides in the information and communication system infrastructures of Internet Service Providers (ISPs), gateways, independent networks of corporations, and telecommunication companies represented by domain names, Internet Protocol (IP) addresses, MAC addresses, e-mail addresses and telephone numbers.", 
+        "sentence_id,": "045f88d2dc"
+    }, 
+    {
+        "sentence": "These stress the inextricable importance of the physical components (hardware) in the protection of the Philippine Cyberspace.", 
+        "sentence_id,": "b3d41d866d"
+    }, 
+    {
+        "sentence": "The Philippine Cyberspace is therefore the space where information is posted, exploited, manipulated, traded and accessed, created by the interaction, communication and collaboration of people and organizations via the network of information and communication system infrastructures.", 
+        "sentence_id,": "2220f51e69"
+    }, 
+    {
+        "sentence": "It is a consequence of the use of these networks of physical infrastructures.", 
+        "sentence_id,": "d1d92ac629"
+    }, 
+    {
+        "sentence": "Today, they are now called digital or cyber infrastructures.", 
+        "sentence_id,": "a92d1e099e"
+    }, 
+    {
+        "sentence": "SIGNIFICANCE OF THE DIGITAL INFRASTRUCTURES Digital infrastructures are the platforms to the Philippine Cyberspace which are critical for key social, political, military and economic functions such as the managing, and operating of the countrys power plants and dams, the electric power grid, the transportation and air traffic control systems including financial institutions.", 
+        "sentence_id,": "a1fc46e071"
+    }, 
+    {
+        "sentence": "They are also vital in the day-to-day operations of business, government and non-government institutions.", 
+        "sentence_id,": "0df3ccf205"
+    }, 
+    {
+        "sentence": "Business establishments, large and small, rely on them to manage communication and payroll, track inventory and sales, as well as perform research and development functions, generate food production and many others.", 
+        "sentence_id,": "1c690e6d38"
+    }, 
+    {
+        "sentence": "Digital infrastructures are keys to our nations capacity to carry out information-based public and private enterprises.", 
+        "sentence_id,": "53a6b4ffae"
+    }, 
+    {
+        "sentence": "Most of these information-based enterprises are considered critical infrastructures vital to the operation of the government and the economy.", 
+        "sentence_id,": "d387c8f227"
+    }, 
+    {
+        "sentence": "----------------------- Page 4----------------------- Critical infrastructures have been revolutionized by advances in information technology in the form of digital infrastructures.", 
+        "sentence_id,": "7a12d72cff"
+    }, 
+    {
+        "sentence": "Taking advantage of the speed, efficiency and effectiveness of computers and digital communications, all critical infrastructures are now increasingly being connected and interdependent.", 
+        "sentence_id,": "1f25b6967a"
+    }, 
+    {
+        "sentence": "Over the years, the reliance of critical infrastructures on digital infrastructures has tremendously increased to cope with the demand for better business processes and competitiveness aside from better public service and national security.", 
+        "sentence_id,": "444cc724e1"
+    }, 
+    {
+        "sentence": "Today, digital infrastructures are crucial for banking, local and international communication services, generation and distribution of water and power, production and distribution of good and services, transportation and travel, entertainment, security, education and many other applications that have changed the way we do things as individuals or organizations.", 
+        "sentence_id,": "6e0b325e58"
+    }, 
+    {
+        "sentence": "With the rapid increase of digital infrastructures, they are now considered as strategic resources and assets that play an important role in the nations economic development and competitiveness, security and well-being.", 
+        "sentence_id,": "6ab13e54fd"
+    }, 
+    {
+        "sentence": "Their disruption or destruction will have debilitating impacts to national security.", 
+        "sentence_id,": "ae549ba056"
+    }, 
+    {
+        "sentence": "COMPONENTS OF THE PHILIPPINE CYBERSPACE Basically, the components of the countrys cyberspace are those digital infrastructures that interconnect national, regional and global information and communications networks.", 
+        "sentence_id,": "ffa593f6a1"
+    }, 
+    {
+        "sentence": "Enterprise Networks/ Intranets Enterprise Networks or intranets pertain to independent networks, local area networks (LAN) and wide area networks (WAN) that are connected through the telecommunication channels.", 
+        "sentence_id,": "2d45896a35"
+    }, 
+    {
+        "sentence": "Said networks cater to their organizations business applications, critical infrastructures included.", 
+        "sentence_id,": "ab7cdb03b4"
+    }, 
+    {
+        "sentence": "Local Internet Service Provider (ISP) These are organizations that provide gateways between packet-switching networks and Public Switching Telephone Networks (PSTN).", 
+        "sentence_id,": "07a9963334"
+    }, 
+    {
+        "sentence": "These are networks through which most customers gain access to the Internet using telephone lines.", 
+        "sentence_id,": "f5248cc940"
+    }, 
+    {
+        "sentence": "They are sometimes referred to as second level ISPs.", 
+        "sentence_id,": "1d46502e94"
+    }, 
+    {
+        "sentence": "Examples of these are Infocom, Mozcom and Pacific Internet.", 
+        "sentence_id,": "69092301a3"
+    }, 
+    {
+        "sentence": "Regional Network Providers (RNP) These entities provide WANs across large geographic areas.", 
+        "sentence_id,": "698e2b5bfc"
+    }, 
+    {
+        "sentence": "They function as client/server systems integrator, value-added reseller, and/or provider of Internet services to a wide geographic market.", 
+        "sentence_id,": "bca880d57d"
+    }, 
+    {
+        "sentence": "Internet Backbone Composed of organizations that provide major interconnection between different networks, they consist of: Network Service Providers (NSP) These are organizations that provide the foundation of the Internet backbone, which is largely based upon the architecture of the Internets precursors.", 
+        "sentence_id,": "bd54c508d8"
+    }, 
+    {
+        "sentence": "Considered as peering centers, NSP offers national and international interconnecting Internet services to wholesale level RNPs and large ISPs through so-called priority Network Access Points (NAP).", 
+        "sentence_id,": "2185675610"
+    }, 
+    {
+        "sentence": "----------------------- Page 5----------------------- Network Access Points (NAP) Network Access Points offer a mechanism for NSPs and ISPs to interconnect.", 
+        "sentence_id,": "b352f4550b"
+    }, 
+    {
+        "sentence": "Collectively, they operate as the Public Internet Backbone that connects to ISPs, POP and hosts.", 
+        "sentence_id,": "1aa4fe4d71"
+    }, 
+    {
+        "sentence": "Long Distance Carriers They supply a national network of communication channels for the Internet and long distance voice and data communications.", 
+        "sentence_id,": "03d4692fdc"
+    }, 
+    {
+        "sentence": "In general, the NAPs contract the long distance carriers for the channels needed for their backbone.", 
+        "sentence_id,": "429cf9439b"
+    }, 
+    {
+        "sentence": "User Services These are organizations that provide domain names, email hosting, newsgroups, telnet, FTP, and storage.", 
+        "sentence_id,": "e2c2de8db4"
+    }, 
+    {
+        "sentence": "Source of Online Content Sources of Online content are materials where information or data are generated and transformed into digital form.", 
+        "sentence_id,": "0369f10cc2"
+    }, 
+    {
+        "sentence": "They include books, files, pictures, recordings, video financial data and etc.", 
+        "sentence_id,": "603275ccbf"
+    }, 
+    {
+        "sentence": "End-Users End-users pertain to people and organizations that utilize the network for their personal and business purposes.", 
+        "sentence_id,": "34b15a3463"
+    }, 
+    {
+        "sentence": "Telecommunication Services These are comprised of the facilities that provide connection of communication channels to ISPs, independent networks, and individual subscribers and users.", 
+        "sentence_id,": "6a56118d0b"
+    }, 
+    {
+        "sentence": "PART TWO: CHALLENGES IN CRITICAL CYBER INFRASTRUCTURE PROTECTION The Philippine cyberspace is challenged by a myriad of threats each day.", 
+        "sentence_id,": "ccdd61dfc0"
+    }, 
+    {
+        "sentence": "These challenges, both actual and potential, brought unprecedented reshaping to our national security preparations and requirements.", 
+        "sentence_id,": "9fb687a0cf"
+    }, 
+    {
+        "sentence": "Enhancing our countrys ability to understand and recognize these challenges is necessary in order to adequately manage the growing threats to our critical infrastructure I.", 
+        "sentence_id,": "8c1359e4f9"
+    }, 
+    {
+        "sentence": "CATEGORIES OF CYBER THREATS Cyber threats are events, situations and conditions that tend to reduce, disrupt, degrade and destroy digital infrastructures.", 
+        "sentence_id,": "4ef18cefd5"
+    }, 
+    {
+        "sentence": "Generally, threats originate either from accidental and deliberate sources.", 
+        "sentence_id,": "05fa379caa"
+    }, 
+    {
+        "sentence": "In general, accidental causes are natural (e.g., a lightning surge that destroys a power supply in a network that causes part of the network to fail) or human but non-deliberate (e.g., faulty design, usage of infested media or accidental cutting of data cables).", 
+        "sentence_id,": "fd9fda4a69"
+    }, 
+    {
+        "sentence": "Accidental causes may also be attributed to situations that directly relate to safety, reliability and trustworthiness.", 
+        "sentence_id,": "ce3f8add48"
+    }, 
+    {
+        "sentence": "Deliberate problems are the result of conscious human behaviour.", 
+        "sentence_id,": "f48e2fa30b"
+    }, 
+    {
+        "sentence": "In dealing with deliberate ----------------------- Page 6----------------------- problems, one is faced with malicious intent.", 
+        "sentence_id,": "ec3287ada1"
+    }, 
+    {
+        "sentence": "A malicious human may seek to hide his or her tracks, making it difficult to identify the nature of the problem caused (or even to identify that a problem has been caused).", 
+        "sentence_id,": "9f62387d47"
+    }, 
+    {
+        "sentence": "A malicious human can, in principle, tailor actions to produce a desired effect beyond the damage to the actual system attacked -- unlike an accidental problem whose effects are randomly determined.", 
+        "sentence_id,": "7c188f7e4c"
+    }, 
+    {
+        "sentence": "There are seven (7) more specific categories of threats to the cyberspace.", 
+        "sentence_id,": "9a723d5568"
+    }, 
+    {
+        "sentence": "These are accidents and malfunctions, hacktivism, cybercrimes, techno-terrorism, cyberterrorism, foreign intelligence and information warfare.", 
+        "sentence_id,": "b07faaf4a6"
+    }, 
+    {
+        "sentence": "Accidents and Malfunctions This category includes operator error, hardware malfunctions, software bugs, data errors, damage to physical facilities, inadequate system performance and system malfunctions.", 
+        "sentence_id,": "02d3968e94"
+    }, 
+    {
+        "sentence": "An example of this is the famous Y2K or millennium bug.", 
+        "sentence_id,": "38b88e6b99"
+    }, 
+    {
+        "sentence": "Occurrences of these threats are attributed to disaster, calamities, and lack of knowledge, as well as lack of maintenance, factory defects and faulty designs.", 
+        "sentence_id,": "f3fd4f14b3"
+    }, 
+    {
+        "sentence": "Hacktivism Considered as the marriage of hacking with activism, it covers operations that use hacking techniques against a target Internet site with the intent of disrupting normal operations but without causing serious damage.", 
+        "sentence_id,": "6f11e94048"
+    }, 
+    {
+        "sentence": "It also includes electronic civil disobedience, which brings methods of civil disobedience to cyberspace like virtual sit-ins and blockades, automated e-mail bombs, web hacks and computer break-ins including the use of malicious codes.", 
+        "sentence_id,": "045b79eaa8"
+    }, 
+    {
+        "sentence": "Cyberterrorism The exploitation of digital infrastructures for terrorist ends, it comprises of politically-motivated hacking operations designed to cause grave harm such as loss of life or severe economic damage.", 
+        "sentence_id,": "412f7dd397"
+    }, 
+    {
+        "sentence": "An example would be an intrusion into an air traffic control system and causing two planes to collide.", 
+        "sentence_id,": "5eee557220"
+    }, 
+    {
+        "sentence": "Technoterrorism This is the intermediate step between \"conventional\" terrorism and \"cyberterrorism.\"", 
+        "sentence_id,": "b05b33d7a2"
+    }, 
+    {
+        "sentence": "Unlike the cyberterrorist, the technoterrorist will attack those systems that exist in the physical world to disrupt cyberspace.", 
+        "sentence_id,": "a77e8b6c97"
+    }, 
+    {
+        "sentence": "Thus, the computer itself (hardware rather than software) is the target of the technoterrorist.", 
+        "sentence_id,": "ccd15fb799"
+    }, 
+    {
+        "sentence": "The technoterrorist will use \"conventional\" weapons such as bombs and physical destruction to disable or destroy digital infrastructures.", 
+        "sentence_id,": "0b76683aa9"
+    }, 
+    {
+        "sentence": "Information Warfare Defined as being concerned with the defensive and offensive use of information and information systems to exploit, corrupt, or destroy an adversarys information and information system while protecting ones own.47 Winn Schwartau, a pioneer on the topic of information warfare has developed three classes: personal information warfare which is characterized by the electronic attack against an individuals privacy; corporate information warfare where corporations use information and its associated technology to destroy or win against their competitors; and, global information warfare which targets entire industries, nations and global economic forces.", 
+        "sentence_id,": "3bd1bfeabe"
+    }, 
+    {
+        "sentence": "Foreign Intelligence The cyberspace is a potentially lucrative source of strategic and competitive intelligence that can be collected by intelligence agencies of governments and their military and police organizations.", 
+        "sentence_id,": "7d2915ce1b"
+    }, 
+    {
+        "sentence": "Intelligence that can be collected in the cyberspace include reports on current events, analytic ----------------------- Page 7----------------------- political and economic assessments and plans, as well as programs and operations of government, political organizations, non-government organizations/peoples organizations (NGOs/POs) and business organizations.", 
+        "sentence_id,": "e5738827d6"
+    }, 
+    {
+        "sentence": "It encompasses monitoring, eavesdropping and interception of communications or electronic messages.", 
+        "sentence_id,": "88e7be109e"
+    }, 
+    {
+        "sentence": "Cyber Crimes Synonymously referred to as computer crimes, they are characterized by hacking or unauthorized access to computer systems or networks, or forcibly taking over a computer network to destroy and/or modify data and programs including stealing information that can cause disruption to the network.", 
+        "sentence_id,": "8b0a0cacd2"
+    }, 
+    {
+        "sentence": "Reasons may vary from personal gains to political reasons.", 
+        "sentence_id,": "1f4282b245"
+    }, 
+    {
+        "sentence": "Cyber crimes include theft, sabotage, vandalism, cyberstalking, child pornography, copyright violations, piracy, trademark counterfeiting, Internet fraud and others.", 
+        "sentence_id,": "f9e727d22b"
+    }, 
+    {
+        "sentence": "Likewise, acts which disrupt or interfere with the normal conduct of transactions over the cyberspace are regarded as cyber crimes.", 
+        "sentence_id,": "e4136cb5d9"
+    }, 
+    {
+        "sentence": "According to the Tenth United Nations Congress on the Prevention of Crime and the Treatment of Offenders, in Vienna on April 10-17 2000, Cyber crime is defined as any crime capable of being committed in an electronic environment, where crime refers to behavior generally defined as illegal or likely to be criminalized.", 
+        "sentence_id,": "973a0fc4fb"
+    }, 
+    {
+        "sentence": "Specific cyber crimes have already been identified by the international community as well as the Philippine legislative body, and will be elaborated in the latter parts of this section.", 
+        "sentence_id,": "1e86452374"
+    }, 
+    {
+        "sentence": "TOOLS FOR CYBER ATTACKS In carrying out these threats, several tools and weapons are used by perpetrators of cyber attacks.", 
+        "sentence_id,": "79a868a862"
+    }, 
+    {
+        "sentence": "Back Door / Trap Door This is a set of instructions that permits an unauthorized or authorized user to bypass the systems security measures (usually a network firewall), usually referred to as backdoor entrances.", 
+        "sentence_id,": "2036ab796a"
+    }, 
+    {
+        "sentence": "These program codes are placed by developers and vendors to make it easier for them to modify or repair system parameters.", 
+        "sentence_id,": "d9a2dd00b6"
+    }, 
+    {
+        "sentence": "Because they are usually compromised, they are used as entry points for hacking.", 
+        "sentence_id,": "304b2f74b3"
+    }, 
+    {
+        "sentence": "These can also be program codes that have been planted by an attacker into a computer systems firewall in the form of a trojan horse.", 
+        "sentence_id,": "07111e2b21"
+    }, 
+    {
+        "sentence": "The Trojan horse acts as a slave waiting for a command to be executed and controlled remotely by a master (usually the attacker).", 
+        "sentence_id,": "4bba99f061"
+    }, 
+    {
+        "sentence": "Trojan Horses These are programs that appear to be valid and useful but usually contain hidden instructions that can cause damage to the system.", 
+        "sentence_id,": "5fae50e4cc"
+    }, 
+    {
+        "sentence": "A destructive software that disguises itself as a benign application, they are usually utilized in order to place a backdoor/trap door into a compromised system.", 
+        "sentence_id,": "4a0137cc0e"
+    }, 
+    {
+        "sentence": "Virus This is a special type of Trojan horse that can replicate itself and spread, just like a biological virus, causing damage to a computer system or network.", 
+        "sentence_id,": "9643b0b764"
+    }, 
+    {
+        "sentence": "Depending on the authors motive, a program infected with virus may cause damage immediately upon execution, or it may wait until a certain event has occurred, such as a particular date, time or command.", 
+        "sentence_id,": "92cbd2be7c"
+    }, 
+    {
+        "sentence": "It should be noted that computer virus infection is increasing by 47% per year perpetrated by hackers who maintain 30,000 hacker- ----------------------- Page 8----------------------- oriented sites on the Internet.", 
+        "sentence_id,": "7eed1c0a65"
+    }, 
+    {
+        "sentence": "Logic Bomb This is a type of Trojan horse whose destructive actions are set to occur when a particular condition occurs, such as reaching a particular clock-time of the initiation of a particular program.", 
+        "sentence_id,": "4bcd014a4d"
+    }, 
+    {
+        "sentence": "Logic bombs are sometimes used for computerized vandalism and revenge.", 
+        "sentence_id,": "fbcc170523"
+    }, 
+    {
+        "sentence": "They are designed to go off long after the programmer has left the organization.", 
+        "sentence_id,": "80dcd382c6"
+    }, 
+    {
+        "sentence": "Worm A worm is a program that replicates itself via a permanent or dial-up network connection.", 
+        "sentence_id,": "22b541cf04"
+    }, 
+    {
+        "sentence": "Unlike a virus, which seeds itself within the computers hard disk for file system, a worm is a self-supporting program.", 
+        "sentence_id,": "8df91d62ab"
+    }, 
+    {
+        "sentence": "It can also be used to spread time bombs, viruses Trojan horses and etc.", 
+        "sentence_id,": "b778b627fe"
+    }, 
+    {
+        "sentence": "Packet Storming This is a form of attack that involves the flooding of ports with large number of packets with the intent to deny service to the network.", 
+        "sentence_id,": "512e509f25"
+    }, 
+    {
+        "sentence": "It can be repeated in rapid fire succession generating enough traffic to shut major networks.", 
+        "sentence_id,": "c71148e1e2"
+    }, 
+    {
+        "sentence": "This is sometimes called the smurf attack.", 
+        "sentence_id,": "b639b53558"
+    }, 
+    {
+        "sentence": "E-mail Bombs More commonly known as email spamming, this is the bombardment of email accounts with thousands of messages, distributed with the aid of an automated tool, causing a recipients incoming email box to jam.", 
+        "sentence_id,": "9b606e497a"
+    }, 
+    {
+        "sentence": "Packet Sniffing These are program utilities that easily permit unauthorized persons to capture packet data and examine this data.", 
+        "sentence_id,": "88cd0c3860"
+    }, 
+    {
+        "sentence": "Sniffers monitor network data and can be a self-contained software program of hardware devices which usually act as network probes or snoops examining network traffic but without intercepting or altering it.", 
+        "sentence_id,": "3e865ebdcc"
+    }, 
+    {
+        "sentence": "The two kinds of packet sniffing are PASSIVE and ACTIVE.", 
+        "sentence_id,": "c2e8776db7"
+    }, 
+    {
+        "sentence": "Passive sniffing is usually done in a local area network environment within the same subnet while ACTIVE sniffing is done in a larger- scale environment, usually over a routed wide-area network.", 
+        "sentence_id,": "339f8b7eb9"
+    }, 
+    {
+        "sentence": "Software Robots These are programs that automatically traverse the webs hypertext structure designed to retrieve documents from a site, and reference all documents in a recursive manner.", 
+        "sentence_id,": "72debf7885"
+    }, 
+    {
+        "sentence": "Sometimes called web wanderers, crawlers or spiders, software robots are usually used to carry out search tasks but they can also be designed to steal information, destroy data, violate copyright or strain resources on another site and also overload networks and servers.", 
+        "sentence_id,": "366cbd6e8e"
+    }, 
+    {
+        "sentence": "Chipping This pertains to the installation of microchips in the production of integrated circuits by manufacturers that can be used for sabotage, by serving as control and locator for some future undertaking.", 
+        "sentence_id,": "7e2f3a3018"
+    }, 
+    {
+        "sentence": "Nano-Machines and Microbes These are tiny robots that are smaller than ants and are used to attack computer hardware by crawling and entering computers through slots and shutting down electronic circuits.", 
+        "sentence_id,": "41d20ccc16"
+    }, 
+    {
+        "sentence": "A special breed of microbes can also be used to destroy integrated circuits.", 
+        "sentence_id,": "02c28bc8b0"
+    }, 
+    {
+        "sentence": "Electronic Jamming This is the deliberate radiation, re-radiation and reflection of electromagnetic energy for the purpose of disrupting or prevent the use of electronic devices, equipment, or systems.", 
+        "sentence_id,": "588c154b82"
+    }, 
+    {
+        "sentence": "High Energy Radio Frequency (HERF) GunsEMP Bombs HERF guns are radio transmitters that can shoot a high-power radio signal at an electronic target to disable it.", 
+        "sentence_id,": "e45e865812"
+    }, 
+    {
+        "sentence": "EMP bombs are weapons that use electromagnetic pulse that can be detonated near electronic devices.", 
+        "sentence_id,": "e95e255b40"
+    }, 
+    {
+        "sentence": "It can destroy all computer and communication systems in a large area.", 
+        "sentence_id,": "b85aef3e13"
+    }, 
+    {
+        "sentence": "Distributed Denial of Service (DDoS) DDoS attacks employ armies of \"zombie\" machines that are controlled by a single master server.", 
+        "sentence_id,": "32b27f3d6e"
+    }, 
+    {
+        "sentence": "These machines will then inundate a target server with thousands of packets of data, in an attempt to overwhelm the server and cause it to crash.", 
+        "sentence_id,": "1ee2370e0b"
+    }, 
+    {
+        "sentence": "DDoS attacks have always been a tool of choice for attackers in taking down entire networks.", 
+        "sentence_id,": "345939420d"
+    }, 
+    {
+        "sentence": "Steganography Steganography is simply taking one piece of information and hiding it within another picture or document.", 
+        "sentence_id,": "a6dbdf47ad"
+    }, 
+    {
+        "sentence": "Computer files such as images, sound recordings, and disks contain unused or insignificant areas of data.", 
+        "sentence_id,": "55580bca44"
+    }, 
+    {
+        "sentence": "Steganography takes advantage of these areas, replacing them with information like encrypted mail, for instance.", 
+        "sentence_id,": "b28c099314"
+    }, 
+    {
+        "sentence": "Cyber terrorists can use information-hiding to assist them in their plot to destroy infrastructures and cause damage to key government sites and services.", 
+        "sentence_id,": "ccbb664a8e"
+    }, 
+    {
+        "sentence": "These attackers can embed full messages and communications inside pictures that people would never suspect.", 
+        "sentence_id,": "7299f42698"
+    }, 
+    {
+        "sentence": "Information-hiding can also be used for hiding Trojans, spreading viruses, concealing backdoors, hiding destructive wiping programs, imbedding links, and passing secret information.", 
+        "sentence_id,": "aaf565ee6a"
+    }, 
+    {
+        "sentence": "MODES OF OPERATION The usual modes of operations are the following: Hacking is defined as the unauthorized access to a computer system to gain knowledge about a particular computer system and how it operates.", 
+        "sentence_id,": "9db2c617eb"
+    }, 
+    {
+        "sentence": "Cracking, on the other hand, is the unauthorized access to computer systems to sabotage, steal information, and modify data or congest information traffic into the computer network for personal or political gains.", 
+        "sentence_id,": "a0fa7ba821"
+    }, 
+    {
+        "sentence": "Phreaking is the unauthorized entry to or hacking of a telecommunication system in order to gain access to a telephone line or make free calls.", 
+        "sentence_id,": "03d7c38331"
+    }, 
+    {
+        "sentence": "It is also a means to gain control of a phone switch in ----------------------- Page 10----------------------- order to add additional phone lines and modify billing information.", 
+        "sentence_id,": "f72ed107d2"
+    }, 
+    {
+        "sentence": "POTENTIAL THREAT SOURCES Threats to critical cyber infrastructure will increase as development of these infrastructures also progresses.", 
+        "sentence_id,": "36e1415be7"
+    }, 
+    {
+        "sentence": "These threats may come from a variety of sources which may be either internal or external to the cyber infrastructure per se.", 
+        "sentence_id,": "159b607fb1"
+    }, 
+    {
+        "sentence": "Threat sources include, among others: Nations (hostile or non-hostile) - for economic, political and security reasons Foreign Intelligence Service for information superiority through collection of strategic intelligence and information warfare Business Competitors for competitive advantage through industrial espionage and competitive intelligence Terrorist Organizations for disruption and destruction through cyber terrorism among others.", 
+        "sentence_id,": "37c3126af8"
+    }, 
+    {
+        "sentence": "Organized Crime Groups for personal and organizational gain through all forms of cyber crimes Insiders for revenge or economic gain through sabotage and theft V. VIEW OF THE THREAT Threats to critical cyber infrastructure will rapidly increase in terms of frequency and lethality as development and use of these infrastructures also increases.", 
+        "sentence_id,": "2d2579f293"
+    }, 
+    {
+        "sentence": "The US Department of Defense came up with a projection on how these threats will be in the future as shown in the table below: PERPETRATOR Validated Existence Existence Likely but Not validated Likely By 2005 Beyond 2005 Incompetent W Hacker W Disgruntled Employee W Crook W Organized Crime L W ----------------------- Page 11----------------------- Political Dissidents W Terrorists Groups L W Foreign Espionage L W Tactical Countermeasures W Orchestrated Tactical IW L W Major Strategic Disruption L Source: IW (Defense) by DoD, USA, 1995 Where: W WIDESPREAD L - LIMITED VI.", 
+        "sentence_id,": "1f0d253b6c"
+    }, 
+    {
+        "sentence": "MOTIVATIONS Threat sources likewise have diverse individual and collective motivations or intentions.", 
+        "sentence_id,": "9f268837fe"
+    }, 
+    {
+        "sentence": "While some perpetrators do not intend to cause large-scale damage to cyber infrastructures, many do engage in these activities to realize political and economic ends such as achieving competitive advantage, instituting revenge, deliberately invading privacy, spreading ideologies and others.", 
+        "sentence_id,": "c9dfdcd320"
+    }, 
+    {
+        "sentence": "The identification of potential threat sources and the understanding of their motivations are crucial to knowing what type of preparedness and security requirements must be organized to minimize, avert or eliminate potential exposure.", 
+        "sentence_id,": "4feb0ea115"
+    }, 
+    {
+        "sentence": "INCREASING RISK ----------------------- Page 12----------------------- Despite the benefits, the increasing use and rapid growth of critical cyber infrastructures have amplified the risks in our national security environment.", 
+        "sentence_id,": "a5257ffcbb"
+    }, 
+    {
+        "sentence": "Dependency Increasing dependence on the use of information and information and communication systems for individual and corporate undertakings.", 
+        "sentence_id,": "df7a87fe03"
+    }, 
+    {
+        "sentence": "Interdependency Digital infrastructures are interdependent in terms of system configurations, connectivity and applications.", 
+        "sentence_id,": "29bc9728b3"
+    }, 
+    {
+        "sentence": "The failure of one digital infrastructure can cause the failure of another infrastructure or vice versa.", 
+        "sentence_id,": "b75e044bd0"
+    }, 
+    {
+        "sentence": "Globalization The globalization of business operations and processes requires the need for real- time information and information resources.", 
+        "sentence_id,": "7d72e11fbe"
+    }, 
+    {
+        "sentence": "Inability to perform these functions can constitute substantial income and opportunity losses.", 
+        "sentence_id,": "043b615ad3"
+    }, 
+    {
+        "sentence": "Standardization of Technology - Standardization of technology for interoperability and system efficiency opens up windows of vulnerabilities that will be common to all systems and to the knowledge of everyone.", 
+        "sentence_id,": "32562417f0"
+    }, 
+    {
+        "sentence": "Technology as a Force Multiplier Information and communication technology provided equal opportunity to government, military and police organizations as well as to individuals, criminal and terrorist organizations.", 
+        "sentence_id,": "2d1f37fd3e"
+    }, 
+    {
+        "sentence": "ICT provides the advantage of speed, stealth, wide coverage in terms of distance and target, anonymity, low cost, and high success potential among others.", 
+        "sentence_id,": "61d0b4ebe4"
+    }, 
+    {
+        "sentence": "It only takes a personal computer connected to a network and a computer virus to inflict tremendous damage on a global scale.", 
+        "sentence_id,": "e8e88a0a38"
+    }, 
+    {
+        "sentence": "ICT is also an effective medium for propaganda.", 
+        "sentence_id,": "0cb60c7e08"
+    }, 
+    {
+        "sentence": "PART THREE: INTERNATIONAL AND DOMESTIC CYBER SECURITY REGIME The pervasiveness of threats to critical cyber infrastructure has long been considered an international problem.", 
+        "sentence_id,": "3b67d9f19e"
+    }, 
+    {
+        "sentence": "This prompted the international community to draft guidelines and implement measures to curb its increasing potential to undermine the peaceful world order.", 
+        "sentence_id,": "7756bc2a34"
+    }, 
+    {
+        "sentence": "The Philippines, being a member of different international organizations, recognizes and subscribes to these guidelines as essential ingredients in its own cyber security planning and programs.", 
+        "sentence_id,": "17480951ac"
+    }, 
+    {
+        "sentence": "UNITED NATIONS ----------------------- Page 13----------------------- The importance of dealing with cybersecurity concerns attained international status and character owing to its pervasiveness and capability to undermine the peaceful world order.", 
+        "sentence_id,": "aa7c7dd49e"
+    }, 
+    {
+        "sentence": "This resolution provided an annex wherein it recognized nine complementary elements in creating a global cybersecurity culture and set Member-States individual responsibilities.", 
+        "sentence_id,": "fc9e7e6e0f"
+    }, 
+    {
+        "sentence": "For the purposes of this Plan, extensively quoted hereunder is the content of the annex of Resolution 57/239 which enumerates the said elements.", 
+        "sentence_id,": "38e6e62b8b"
+    }, 
+    {
+        "sentence": "Participants should be aware of the need for security of information systems and ----------------------- Page 14----------------------- networks and what they can do to enhance security; (b) Responsibility.", 
+        "sentence_id,": "04e63110dd"
+    }, 
+    {
+        "sentence": "Participants are responsible for the security of information systems and networks in a manner appropriate to their individual roles.", 
+        "sentence_id,": "18486a5ada"
+    }, 
+    {
+        "sentence": "They should review their own policies, practices, measures and procedures regularly, and should assess whether they are appropriate to their environment; (c) Response.", 
+        "sentence_id,": "89783380ea"
+    }, 
+    {
+        "sentence": "Participants should act in a timely and cooperative manner to prevent, detect and respond to security incidents.", 
+        "sentence_id,": "3d284a5298"
+    }, 
+    {
+        "sentence": "They should share information about threats and vulnerabilities, as appropriate, and implement procedures for rapid and effective cooperation to prevent, detect and respond to security incidents.", 
+        "sentence_id,": "bd0110f02f"
+    }, 
+    {
+        "sentence": "This may involve cross-border information-sharing and cooperation; (d) Ethics.", 
+        "sentence_id,": "7965b946bc"
+    }, 
+    {
+        "sentence": "Given the pervasiveness of information systems and networks in modern societies, participants need to respect the legitimate interests of others and recognize that their action or inaction may harm others; (e) Democracy.", 
+        "sentence_id,": "e851253012"
+    }, 
+    {
+        "sentence": "Security should be implemented in a manner consistent with the values recognized by democratic societies, including the freedom to exchange thoughts and ideas, the free flow of information, the confidentiality of information and communication, the appropriate protection of personal information, openness and transparency; (f) Risk assessment.", 
+        "sentence_id,": "d49371b763"
+    }, 
+    {
+        "sentence": "All participants should conduct periodic risk assessments that identify threats and vulnerabilities; are sufficiently broad-based to encompass key internal and external factors, such as technology, physical and human factors, policies and third-party services with security implications; allow determination of the acceptable level of risk; and assist in the selection of appropriate controls to manage the risk of potential harm to information systems and networks in the light of the nature and importance of the information to be protected; (g) Security design and implementation.", 
+        "sentence_id,": "4a91eabc9c"
+    }, 
+    {
+        "sentence": "Participants should incorporate security as an essential element in the planning and design, operation and use of information systems and networks; (h) Security management.", 
+        "sentence_id,": "aaa9e117cc"
+    }, 
+    {
+        "sentence": "Participants should adopt a comprehensive approach to security management based on risk assessment that is dynamic, encompassing all levels of participants activities and all aspects of their operations; (i) Reassessment.", 
+        "sentence_id,": "90b15788d0"
+    }, 
+    {
+        "sentence": "Participants should periodically review and reassess the security of information systems and networks and should make appropriate modifications to security policies, practices, measures and procedures that include addressing new and changing threats and vulnerabilities.", 
+        "sentence_id,": "526444525c"
+    }, 
+    {
+        "sentence": "B. APEC CYBERSECURITY STRATEGY On October 21, 2001 the APEC Leaders issued their Statement on Counter-Terrorism that condemned terrorist attacks and deemed it imperative to strengthen cooperation at all levels in combating terrorism in a comprehensive manner.", 
+        "sentence_id,": "a569be279b"
+    }, 
+    {
+        "sentence": "As part of this statement, the leaders called for strengthening APEC activities in the area of critical infrastructure protection, including ----------------------- Page 15----------------------- telecommunications.", 
+        "sentence_id,": "5c8f2c1d6c"
+    }, 
+    {
+        "sentence": "On May 30, 2002, the Telecommunications and Information Ministers of the APEC economies issued the Shanghai Declaration that included a Statement on the Security of Information and Communications Infrastructures and a Program of Action.", 
+        "sentence_id,": "73b1c6106c"
+    }, 
+    {
+        "sentence": "The expansion and potential effects on individual member-economies of computers and information networks have made it important for them to coordinate their cyber crime and infrastructure protection efforts more rapidly and efficiently.", 
+        "sentence_id,": "df46c92964"
+    }, 
+    {
+        "sentence": "Issues and activities in the following areas namely legal developments, information-sharing and cooperation, security and technical guidelines, public awareness, training and education and wireless security, serve as the basis for APECs efforts on cyber crime and critical infrastructure protection.", 
+        "sentence_id,": "affde35805"
+    }, 
+    {
+        "sentence": "Said concerns could also form the basis of meeting the stated objectives of Leaders and Ministers.", 
+        "sentence_id,": "e90198d4f9"
+    }, 
+    {
+        "sentence": "APEC recognizes that the fight against cyber crime and the protection of critical infrastructures is built upon the legal frameworks of every economy.", 
+        "sentence_id,": "01a22f8b2a"
+    }, 
+    {
+        "sentence": "In particular, cyber security depends on every economy having (1) substantive laws that criminalize attacks on networks, (2) procedural laws to ensure that law enforcement officials have the necessary authorities to investigate and prosecute offenses facilitated by technology, and (3) laws and policies that allow for international cooperation with other parties in the struggle against computer-related crimes.", 
+        "sentence_id,": "008d5838ff"
+    }, 
+    {
+        "sentence": "C. ASEAN CYBER SECURITY INITIATIVE During the Third ASEAN Telecommunications and Information Technology Ministers Meeting (3rd ASEAN TELMIN), ASEAN Ministers, in a joint statement, vowed to enhance regional cooperation in cybersecurity.", 
+        "sentence_id,": "2eff62048a"
+    }, 
+    {
+        "sentence": "All member countries will also, by 2004, shall have established a common framework for sharing cybersecurity threat and vulnerability assessment information.", 
+        "sentence_id,": "95823203e4"
+    }, 
+    {
+        "sentence": "Cybersecurity expertise and information will be shared among member countries to help develop cybersecurity policies and exchange real-time information on cybersecurity issues.", 
+        "sentence_id,": "173820fc22"
+    }, 
+    {
+        "sentence": "LEGAL REGIME IN THE FIELD OF CYBER SECURITY IN THE PHILIPPINES The government has to have laws instituted to help protect companies and consumers from abuses and to address internet security in a global context.", 
+        "sentence_id,": "b5f1dbc202"
+    }, 
+    {
+        "sentence": "The Philippines is governed by the following legislations pertaining to the utilization, development and protection of the Philippine cyberspace: - Republic Act 7935 or the Philippine Public Telecommunications Policy Act enacted on March 1, 1995 which regulated the telecommunications industry in the country; - Republic Act 8484 entitled Access Devices Regulation Act of 1998 dated February 11, 1998 which regulated the issuance and use of certain access devices.", 
+        "sentence_id,": "b470453194"
+    }, 
+    {
+        "sentence": "It defined access device fraud as a ----------------------- Page 16----------------------- criminal offense; - Executive Order No 467 dated March 17 1998 which set forth guidelines that will govern the operation and use of satellite telecommunications facilities and services in the country; - Republic Act 8747 or the Philippine Year 2000 Readiness and Disclosure Act which was approved on June 01, 1999, setting the necessary guidelines to ensure the readiness of Philippine computer systems, products and services against the Y2K bug; - Executive Order 269 dated January 12 2004 which created the Commission on Information and Communications Technology as the governing body in all ICT-related activities in the country.", 
+        "sentence_id,": "69a8c5d667"
+    }, 
+    {
+        "sentence": "While Section 33 of RA 8792 now lays out how hacking, cracking and piracy should be punished, the government still need to pass another law on cyber crime, cyber fraud and similar offenses.", 
+        "sentence_id,": "521bf78021"
+    }, 
+    {
+        "sentence": "At present the Congress still has to pass the consolidated version of four cyber crime bills (House Bill Nos.", 
+        "sentence_id,": "e631052a3e"
+    }, 
+    {
+        "sentence": "1310, 3241, 4083 and 5560) that were filed during the Twelfth Congress.", 
+        "sentence_id,": "ece72ef47b"
+    }, 
+    {
+        "sentence": "The consolidated version AN ACT DEFINING CYBERCIME, PROVIDING FOR PREVENTION, SUPPRESSION AND IMPOSITION OF PENALTIES THEREFOR AND FOR OTHER PURPOSES OR THE CYBERCRIME PREVENTION ACT OF 2003 shall have to re-submitted to congress for enactment.", 
+        "sentence_id,": "ed22c1f618"
+    }, 
+    {
+        "sentence": "PART FOUR: THE NATIONAL PLAN FOR CRITICAL CYBER INFRASTRUCTURE SECURITY This National Cyber Security Plan seeks to institutionalize the necessary capabilities in the government and the private sector to adequately meet and respond to challenges and threats against critical cyber infrastructures.", 
+        "sentence_id,": "03aab70667"
+    }, 
+    {
+        "sentence": "Programs laying the necessary foundations to provide an assurance of continuous operation of our critical cyber infrastructures and ensure business continuity are outlined in this section.", 
+        "sentence_id,": "be1104003a"
+    }, 
+    {
+        "sentence": "I. CYBER INFRASTRUCTURE PROTECTION REQUIREMENTS ----------------------- Page 17----------------------- The nature and characteristics of cyber threats have made the challenge of protecting the critical cyber infrastructure all the more difficult for stakeholders.", 
+        "sentence_id,": "1b1278023c"
+    }, 
+    {
+        "sentence": "Meeting this challenge requires technological expertise, concerted action from national and local agencies, the private sector, the citizenry and international community.", 
+        "sentence_id,": "00aee9c638"
+    }, 
+    {
+        "sentence": "Thus, the following are necessary in order to meet such challenges: A focal point that will coordinate and integrate all efforts at the national level; Laws and regulations to control and deter cyber threats; Public-private sector and international partnerships; Well-informed and active citizenry; Effective law enforcement capabilities; Robust systems Generation of resources for sustainability of programs.", 
+        "sentence_id,": "4b80228f66"
+    }, 
+    {
+        "sentence": "GENERAL DIRECTION AND GOALS The general direction of the national cyber security plan is focused on how to achieve the following: Assuring the continuous operation of our critical cyber infrastructures.", 
+        "sentence_id,": "7a19604a90"
+    }, 
+    {
+        "sentence": "Capability-building measures to respond before, during and after attacks.", 
+        "sentence_id,": "92d20da40c"
+    }, 
+    {
+        "sentence": "Effective law enforcement and administration of justice Cyber security conscious society III.", 
+        "sentence_id,": "d6d7cd90d7"
+    }, 
+    {
+        "sentence": "Promoting Secure Environment Identification and elimination of threats.", 
+        "sentence_id,": "4d652aabdd"
+    }, 
+    {
+        "sentence": "It involves knowing the threats and their effective neutralization.", 
+        "sentence_id,": "bfcfe94337"
+    }, 
+    {
+        "sentence": "Eliminating vulnerabilities.", 
+        "sentence_id,": "b812c64fbc"
+    }, 
+    {
+        "sentence": "It entails the identification and removal of weaknesses and increased level of resiliency.", 
+        "sentence_id,": "88ae5abcde"
+    }, 
+    {
+        "sentence": "----------------------- Page 18----------------------- Defeating attacks.", 
+        "sentence_id,": "f7e61b3a05"
+    }, 
+    {
+        "sentence": "It requires the application of appropriate and adequate countermeasures.", 
+        "sentence_id,": "29061a9bc4"
+    }, 
+    {
+        "sentence": "Reducing losses or damages.", 
+        "sentence_id,": "ae2b30ccb7"
+    }, 
+    {
+        "sentence": "It necessitates the implementation of contingency plans and other actions to mitigate potential losses and damages.", 
+        "sentence_id,": "2eec2a58ff"
+    }, 
+    {
+        "sentence": "Implementing effective law enforcement programs and proactive legal and policy regime.", 
+        "sentence_id,": "9cdbfb5fd0"
+    }, 
+    {
+        "sentence": "CYBER SECURITY STRATEGIES There are four (4) strategies that were formulated which are necessary to protect critical cyber infrastructures: Understanding the Risk, Controlling the Risk, Organizing and Mobilizing for Cybersecurity, and Institutional and Policy Build-Up.", 
+        "sentence_id,": "36e641b8cc"
+    }, 
+    {
+        "sentence": "Every strategy has corresponding programs to be undertaken.", 
+        "sentence_id,": "45a28230bd"
+    }, 
+    {
+        "sentence": "STRATEGY 1 - UNDERSTANDING THE RISK The most fundamental strategy in protecting the nations critical cyber infrastructures is to first understand the nature of threats to Philippine cyberspace.", 
+        "sentence_id,": "eeee6d9030"
+    }, 
+    {
+        "sentence": "This strategy involves a national and continuing threat assessment.", 
+        "sentence_id,": "f5eb972210"
+    }, 
+    {
+        "sentence": "It also necessitates assessing the vulnerabilities of digital infrastructures given their current protective measures.", 
+        "sentence_id,": "661d1c5cfc"
+    }, 
+    {
+        "sentence": "This strategy also entails the need for a cyber intelligence capability as a proactive measure of understanding and overcoming these threats.", 
+        "sentence_id,": "026801f4fe"
+    }, 
+    {
+        "sentence": "NATIONAL ASSESSMENT The Assessment Program shall consist of two primary programs: the national cyber geography analysis and the risk assessment.", 
+        "sentence_id,": "bd6524c63e"
+    }, 
+    {
+        "sentence": "Philippine Cyber Geography Program a.", 
+        "sentence_id,": "65bac6734d"
+    }, 
+    {
+        "sentence": "Inventory This program calls for the identification and accounting of digital infrastructures in order to determine the extent or degree of criticality as a means to prioritize and allocate resources.", 
+        "sentence_id,": "ec053c44e5"
+    }, 
+    {
+        "sentence": "This will include accounting of physical facilities, hardware, software and people.", 
+        "sentence_id,": "43bc2989e3"
+    }, 
+    {
+        "sentence": "b. Cyber-Geography This program will undertake acquisition of knowledge pertaining to demographics, traffic, statistics and other relevant information which may be used to map out the Philippine Cyberspace for program formulation and implementation.", 
+        "sentence_id,": "89d6d504d9"
+    }, 
+    {
+        "sentence": "Risk Assessment ----------------------- Page 19----------------------- Risk assessment represents an important step in understanding the threats, vulnerabilities, countermeasures and impacts to national security.", 
+        "sentence_id,": "2590a4ce9d"
+    }, 
+    {
+        "sentence": "It will have the following components: a.", 
+        "sentence_id,": "a3f6dc16d1"
+    }, 
+    {
+        "sentence": "National Threat Assessment National threat assessment program will be implemented to provide basis for and continuing understanding of the nature of cyber threats and how they can be addressed effectively from operational and strategic perspectives.", 
+        "sentence_id,": "b527cd3ecb"
+    }, 
+    {
+        "sentence": "Likewise, a cyber or digital intelligence program will be created specifically designed for pro-active measures.", 
+        "sentence_id,": "3723cdeb22"
+    }, 
+    {
+        "sentence": "It shall be accomplished to get acquainted with the hackers world, its personalities, operations and plans.", 
+        "sentence_id,": "949e9b5cba"
+    }, 
+    {
+        "sentence": "Cyber intelligence is defined as the process of acquiring and utilizing threat-related knowledge in the cyberspace that pertains, but not limited, to the nature and characteristics of cyber threats, their modus operandis, plans, organizations, personalities and other relevant information.", 
+        "sentence_id,": "93471a514c"
+    }, 
+    {
+        "sentence": "Vulnerability Assessment Vulnerability assessment programs shall be implemented to identify weaknesses in CI protective programs and to institute appropriate corrective measures on a periodic basis.", 
+        "sentence_id,": "a6e8dea45f"
+    }, 
+    {
+        "sentence": "Formulation of a Vulnerability Assessment Framework and Checklist This framework and checklist shall be used to gather essential information on IT security threats and measures, critical security policies and practices on networks, systems, applications, and data and its classification, and external systems; cyber attacks and glitches experiences; and cyber attacks and glitches recovery plan.", 
+        "sentence_id,": "6ff8bb66f0"
+    }, 
+    {
+        "sentence": "Security audit, survey and inspection This will entail the conduct of a periodic security audit, survey and inspection as way to ensure implementation of security programs as well as a means to identify weaknesses.", 
+        "sentence_id,": "03077534df"
+    }, 
+    {
+        "sentence": "c. Impact Analysis It shall be implemented to determine the implications of any attack to digital infrastructures on the operations of government and the economy.", 
+        "sentence_id,": "407e77f905"
+    }, 
+    {
+        "sentence": "STRATEGY 2 - RISK CONTROL Risk control requires comprehensive security planning, effective resolution of crisis and risk monitoring.", 
+        "sentence_id,": "0204b130e3"
+    }, 
+    {
+        "sentence": "This strategy shall address the aspects of mitigating or reducing vulnerabilities, likelihood of threat occurrence and potential losses or damages.", 
+        "sentence_id,": "76b5335a77"
+    }, 
+    {
+        "sentence": "----------------------- Page 20----------------------- A.", 
+        "sentence_id,": "6043307d3d"
+    }, 
+    {
+        "sentence": "Cyber Intelligence The cyber-intelligence program will be designed to conduct intelligence operations against potential threats as a way to better know them in terms of organization, modus operandi, plans and linkages.", 
+        "sentence_id,": "76f4bcd578"
+    }, 
+    {
+        "sentence": "This program shall be able to provide periodic assessment and address information requirements of law enforcement and military units in the interdiction of terrorists, spies and criminals.", 
+        "sentence_id,": "b0367bef08"
+    }, 
+    {
+        "sentence": "This program entails the following: a.", 
+        "sentence_id,": "76ce04f6e3"
+    }, 
+    {
+        "sentence": "Creation of a Cyber Special Operations Unit to be managed and supervised by TFSCI.", 
+        "sentence_id,": "527ad211fe"
+    }, 
+    {
+        "sentence": "Monthly National Intelligence Estimates (NIE) that will embody strategic and operational intelligence on cyber crimes, cyber terrorism and foreign and competitive intelligence operations.", 
+        "sentence_id,": "cfe557b3af"
+    }, 
+    {
+        "sentence": "c. Development and management of a Hackers Database d. Development and implementation of a specialized cyber-intelligence training curriculum for the AFP and PNP intelligence training institutions.", 
+        "sentence_id,": "ac59c1cd69"
+    }, 
+    {
+        "sentence": "This training shall form part of the development of their cyber intelligence capability.", 
+        "sentence_id,": "151121be10"
+    }, 
+    {
+        "sentence": "Warnings & Advisories This program seeks to provide necessary information on threats and security alerts and other related matters to all critical infrastructure owners and operators and the general public in order for them to take precautionary measures as well as strengthen their security measures.", 
+        "sentence_id,": "851b8f00de"
+    }, 
+    {
+        "sentence": "These warnings and advisories shall include computer attack information, trends or modus operandi, wanted cyber criminals and terrorists and updates on patches and protective measures among others.", 
+        "sentence_id,": "4349b7d8c0"
+    }, 
+    {
+        "sentence": "Building Robust Systems Building robust systems that will eliminate redundancies as well as back-up systems that can withstand attacks.", 
+        "sentence_id,": "b0b6bb976d"
+    }, 
+    {
+        "sentence": "It shall embrace the adoption of reconstitution and rehabilitation measures to ensure immediate recovery from attacks.", 
+        "sentence_id,": "72ea299fb6"
+    }, 
+    {
+        "sentence": "Also included is the implementation of a comprehensive ICT security programs covering robustness in terms of system design, security systems, personnel and physical security, information and document security among others.", 
+        "sentence_id,": "a7c52eee29"
+    }, 
+    {
+        "sentence": "This shall also incorporate the formulation and issuance of security standards that can help in guiding IT security managers.", 
+        "sentence_id,": "b78489b87d"
+    }, 
+    {
+        "sentence": "Intrusion Detection This program envisions monitoring intrusions as a way to arrest or prevent the occurrence of an attack.", 
+        "sentence_id,": "ea4cb8c312"
+    }, 
+    {
+        "sentence": "This will be a function of the RP-CERT, Regional/Sectoral CERTs and monitoring points.", 
+        "sentence_id,": "aef5e7a9f7"
+    }, 
+    {
+        "sentence": "Operations Security (OPSEC) Program ----------------------- Page 21----------------------- a.", 
+        "sentence_id,": "9f75922b98"
+    }, 
+    {
+        "sentence": "Information Security Program for the government focused in the proper handling of classified and critical information b.", 
+        "sentence_id,": "8abd1b5606"
+    }, 
+    {
+        "sentence": "Implementation of an encryption system to protect critical information.", 
+        "sentence_id,": "d68f7258f8"
+    }, 
+    {
+        "sentence": "Consumer Protection Program This program envisions putting up mechanisms to address consumer protection issues which include the following: a.", 
+        "sentence_id,": "a81a8ed1d2"
+    }, 
+    {
+        "sentence": "Establishment of Computer Security Response Units a.", 
+        "sentence_id,": "fb56d4ef6a"
+    }, 
+    {
+        "sentence": "The RP-CERT The G-CSIRT will be restructured as a national computer emergency response team and will be renamed RP-CERT.", 
+        "sentence_id,": "158c099607"
+    }, 
+    {
+        "sentence": "It shall be a public-private partnership to protect the nation's cyber critical infrastructures.", 
+        "sentence_id,": "fbef9cd653"
+    }, 
+    {
+        "sentence": "Besides recovery and reconstitution, the RP-CERT shall be the focal point for incident and consequence management, which embraces prevention and protection of and response to attacks against critical infrastructures.", 
+        "sentence_id,": "5c137bb712"
+    }, 
+    {
+        "sentence": "Regional / Sectoral CERTS To support the RP-CERT, this program entails the establishment of regional or sectoral computer emergency response teams across the country which will enable faster and more localized response to cyber incidents.", 
+        "sentence_id,": "5fa24c633f"
+    }, 
+    {
+        "sentence": "They may be housed in any government regional or local units as may be determined, or in designated private sector organizations that have the capability to undertake this program.", 
+        "sentence_id,": "3affbe7fd1"
+    }, 
+    {
+        "sentence": "These regional sectoral CERTS shall serve as immediate points of contact for government agencies, local government units and private sector entities.", 
+        "sentence_id,": "9abf0cccfa"
+    }, 
+    {
+        "sentence": "It shall coordinate with the RP-CERT for purposes of monitoring and coordination of responses.", 
+        "sentence_id,": "f344d709a9"
+    }, 
+    {
+        "sentence": "c. Establishment of Cyber Crime Complaint Center (C4) This program envisions to provide a mechanism to receive and develop Internet-related criminal complaints and refer the same to law enforcement agencies for any investigation they deem to be ----------------------- Page 22----------------------- appropriate.", 
+        "sentence_id,": "a815a25b01"
+    }, 
+    {
+        "sentence": "A website shall be developed and maintained as the primary complaint reporting nexus.", 
+        "sentence_id,": "919ef87c3e"
+    }, 
+    {
+        "sentence": "Cyber Cops This program projects enhancing the current law enforcement capability of the PNP and NBI.", 
+        "sentence_id,": "47e3e74003"
+    }, 
+    {
+        "sentence": "It shall be able to deploy at least 1 or 2 forensic investigators and incident responders in every provincial and regional command and office of the PNP and NBI.", 
+        "sentence_id,": "6ed7ff828a"
+    }, 
+    {
+        "sentence": "It shall provide local and international trainings on forensic and investigation, incident response, preservation of evidence, data recovery/retrieval and analysis, digital intelligence and other relevant courses.", 
+        "sentence_id,": "c954164873"
+    }, 
+    {
+        "sentence": "Establishment of National Forensic Laboratory This program seeks to establish a decent national forensic laboratory that will be called the National Computer Forensic Laboratory (NCFL), serving as a processing laboratory and center for computer crime evidence repository.", 
+        "sentence_id,": "3101cda62a"
+    }, 
+    {
+        "sentence": "It shall provide support to law enforcement operations in addition to conducting training on computer forensics and investigation.", 
+        "sentence_id,": "f38080299f"
+    }, 
+    {
+        "sentence": "Establishment of Regional Forensic Laboratory This program aims to establish strategic regional forensic laboratory that can provide localized support for law enforcement units.", 
+        "sentence_id,": "1ac0927273"
+    }, 
+    {
+        "sentence": "Capacity-Building for Judges and Prosecutors This program is centered on providing trainings for judges, prosecutors and lawyers to help them in the effective handling of cyber crimes and in the administration of justice.", 
+        "sentence_id,": "603b512ea7"
+    }, 
+    {
+        "sentence": "E. BUSINESS CONTINUITY / RESILIENCY PROGRAM This program endeavours to provide measures and mechanism to mitigate losses/damages and allow critical infrastructures to recover and reconstitute immediately to arrest further disruption in their operations.", 
+        "sentence_id,": "9417e8c423"
+    }, 
+    {
+        "sentence": "Establishment of Corporate Disaster and Recovery Plan This requires all CIs to craft and adopt a Corporate Disaster and Recovery Plan which will define contingency measures in case of attack or disaster aside from outlining immediate recovery and resumption procedures for their normal operations.", 
+        "sentence_id,": "152d9792a5"
+    }, 
+    {
+        "sentence": "This plan should include: a. Redundancy and back-up systems ----------------------- Page 23----------------------- b.", 
+        "sentence_id,": "604f092e45"
+    }, 
+    {
+        "sentence": "Rapid Assessment of attack and extent of damages, determination of vulnerabilities exploited and conduct of rehabilitation procedures to avert or deter similar attacks previously experienced by the system c. Adoption of standard operating procedures, techniques and tools for common cyber security problems.", 
+        "sentence_id,": "b9ec196d8b"
+    }, 
+    {
+        "sentence": "d. Establishment of a coordination mechanism with RP-CERT and law enforcement units.", 
+        "sentence_id,": "a6e6df0890"
+    }, 
+    {
+        "sentence": "F. REMEDIATION PROGRAM This program is focused on developing security remedies and solutions to cyber attacks through private sector partnership.", 
+        "sentence_id,": "d1947ecdd5"
+    }, 
+    {
+        "sentence": "This will require the participation of competent business, educational and other relevant organizations and institutions to provide support and solution during and after cyber attacks.", 
+        "sentence_id,": "2789731112"
+    }, 
+    {
+        "sentence": "STRATEGY 3 - ORGANIZATION AND MOBILIZATION FOR CYBER SECURITY This strategy requires the organization and mobilization of human, financial, and relevant resources for implementing the National Cyber Security programs.", 
+        "sentence_id,": "75b1aec5f3"
+    }, 
+    {
+        "sentence": "Mobilization, as used in this section, involves not only the determination of roles or functions each stakeholder or partner has to play but also setting up mandates and responsibilities that will form the basis of such roles.", 
+        "sentence_id,": "edd0a4607f"
+    }, 
+    {
+        "sentence": "Cybersecurity, being the indispensable component of critical infrastructure protection, draw strength from each stakeholders recognition of the urgency and immediacy of their active participation.", 
+        "sentence_id,": "5d491b8f39"
+    }, 
+    {
+        "sentence": "ESTABLISHMENT OF A FOCAL POINT The TFSCI will serve as the focal point for all policy and convergence effort and shall lead in the formulation and implementation all national cyber security programs and other related program.", 
+        "sentence_id,": "c454ecabf2"
+    }, 
+    {
+        "sentence": "CREATION OF A NATIONWIDE MONITORING POINTS The establishment of monitoring points that will serve as listening posts for intrusions requires that they be set up at strategic points around the country.", 
+        "sentence_id,": "3ab4e5734a"
+    }, 
+    {
+        "sentence": "They will detect, gather and help analyze information with regards to cyber threats.", 
+        "sentence_id,": "10407419de"
+    }, 
+    {
+        "sentence": "Envisioned as a public-private sector partnership, it will give the nation a clear picture of the threat situation in the Philippine cyberspace.", 
+        "sentence_id,": "704fb0a2d0"
+    }, 
+    {
+        "sentence": "Public-Private Partnership Forum This program seeks to establish a strong public-private sector partnership forum on cyber security by requiring the mobilization and cooperation of the private sector, especially the owners and operators of critical infrastructures as well as the industry associations.", 
+        "sentence_id,": "1270f252e2"
+    }, 
+    {
+        "sentence": "This partnership shall include among others sharing of information and expertise.", 
+        "sentence_id,": "d6c9f4ec68"
+    }, 
+    {
+        "sentence": "Public private partnership shall be in the form of: ----------------------- Page 24----------------------- a. Capacity-Building b. Information-Sharing c. Threat Assessment d. Joint Management of Cyber Security Programs e. Digital Intelligence f. Counter-Intelligence g. Remediation h. Utilization of the Reserve or Auxiliary Force i.", 
+        "sentence_id,": "1d36db77c1"
+    }, 
+    {
+        "sentence": "Advocacy 2. International Partnership / Cooperation This program aims to forge partnerships with foreign governments and international organizations for exchanging information, sharing of best practices, capacity-building and capability development aside from law enforcement.", 
+        "sentence_id,": "dc212e1903"
+    }, 
+    {
+        "sentence": "D. ADVOCACY AND PUBLIC AWARENESS This program envisions implementing a Cyber security advocacy program that will rally the general public to protect the Philippine cyberspace.", 
+        "sentence_id,": "c371f82655"
+    }, 
+    {
+        "sentence": "Incident Reporting The awareness program shall be incorporated in the educational curricula of DepEd and CHED and TESDA.", 
+        "sentence_id,": "ff4d2a4c1b"
+    }, 
+    {
+        "sentence": "STRATEGY 4 - INSTITUTIONAL BUILD-UP This strategy calls for institutional reforms that are necessary to address the challenges of cyber threats.", 
+        "sentence_id,": "f25c464e0a"
+    }, 
+    {
+        "sentence": "To provide the necessary legal regime and policy environment, this demands for regulatory and legislative agenda.", 
+        "sentence_id,": "b493ce3bd0"
+    }, 
+    {
+        "sentence": "The Cyber Crime Bill that will define and criminalize cyber offenses, to be certified as an urgent bill.", 
+        "sentence_id,": "50d7bea3ce"
+    }, 
+    {
+        "sentence": "Actively lobby for the passage of the Cyber Crime Bill.", 
+        "sentence_id,": "59614882b3"
+    }, 
+    {
+        "sentence": "Creation of special court to administer cyber crimes.", 
+        "sentence_id,": "0c66275e76"
+    }, 
+    {
+        "sentence": "Mandatory and continuing educational program for lawyers and judges to better equip them in the ----------------------- Page 25----------------------- prosecution of cyber crimes.", 
+        "sentence_id,": "9558bc9839"
+    }, 
+    {
+        "sentence": "The resolution of issues and problems related to Evidence Law, or more specifically, the acceptability of electronic evidence in computer crime prosecutions.", 
+        "sentence_id,": "7ea3a0ab5c"
+    }, 
+    {
+        "sentence": "The adoption of an Information Security Management System (ISMS) as a requirement in the Integrated Information Systems Plan of each government agency.", 
+        "sentence_id,": "bab5a13979"
+    }, 
+    {
+        "sentence": "Training of law enforcement agencies on computer forensic and investigation and handling of digital evidences.", 
+        "sentence_id,": "8d743bcc58"
+    }, 
+    {
+        "sentence": "Integrate and institute relevant cyber security courses in government educational programs.", 
+        "sentence_id,": "40c25d8c45"
+    }, 
+    {
+        "sentence": "4 Establish partnership with foreign governments and international organizations on cyber security training.", 
+        "sentence_id,": "321f97cebd"
+    }, 
+    {
+        "sentence": "E. KNOWLEDGE MANAGEMENT (KM) This program is centered on adopting Knowledge Management as a way to get the right information to the right person at the right time.", 
+        "sentence_id,": "56e21a437b"
+    }, 
+    {
+        "sentence": "Existing technological innovations and best practices on cyber security have to be captured, stored, analyzed and disseminated to end-users to improve their security programs.", 
+        "sentence_id,": "72fb8a5cf4"
+    }, 
+    {
+        "sentence": "Vulnerability Assessment This shall be jointly undertaken with the private sector, with an incentive scheme to generate support from them.", 
+        "sentence_id,": "ff8ce8d316"
+    }, 
+    {
+        "sentence": "PART FIVE: THE WAY AHEAD The threats to our critical cyber infrastructures are real.", 
+        "sentence_id,": "087f71a368"
+    }, 
+    {
+        "sentence": "The growing exploitation of information and communication technology to improve the lives of Filipinos, coupled with our increasing dependence to these infrastructures for the operation of our economy and government, poses greater risk given the threats that are inherent to these opportunities.", 
+        "sentence_id,": "1d5b2facb5"
+    }, 
+    {
+        "sentence": "It is therefore imperative that the protection of these infrastructures should be a strategic component in national security programs to ensure the protection of our national interests.", 
+        "sentence_id,": "d1c21cd944"
+    }, 
+    {
+        "sentence": "No feasible combination of domestic or international policy options can make us completely invulnerable to cyber attacks in the future.", 
+        "sentence_id,": "3be3721f54"
+    }, 
+    {
+        "sentence": "Nevertheless, enhancing security in our critical cyber infrastructures can prepare the country to all forms of malicious activities or threats that lay ahead in the cyberspace.", 
+        "sentence_id,": "5fe59dd1c6"
+    }, 
+    {
+        "sentence": "The private sector has to assume a major and supportive role in organizing and mobilizing communities, business and supportive organizations and groups towards our national goal of securing our critical infrastructures.", 
+        "sentence_id,": "b48d4021bf"
+    }, 
+    {
+        "sentence": "We have to communicate and advocate for strong public support to this program by educating and partnering with stakeholders.", 
+        "sentence_id,": "ca624a4a83"
+    }, 
+    {
+        "sentence": "In todays security environment, cyber threats whether individual, organization or nation-sponsored, are designed to cripple a nations capacity to carry out its information-based enterprises.", 
+        "sentence_id,": "e010015281"
+    }, 
+    {
+        "sentence": "Threats metamorphose faster than our capability to implement counter-measures.", 
+        "sentence_id,": "4abee18010"
+    }, 
+    {
+        "sentence": "Being caught unprepared to meet these challenges might prove disastrous for the country.", 
+        "sentence_id,": "92fdf877e7"
+    }, 
+    {
+        "sentence": "Protecting the future is the primary responsibility of each and every Filipino today.", 
+        "sentence_id,": "113365875d"
+    }, 
+    {
+        "sentence": "If the Philippines intends to join the ranks of nations that have become information-based societies, security of the Philippine cyberspace must be pursued with urgency.", 
+        "sentence_id,": "2a95ca697c"
+    }, 
+    {
+        "sentence": "It should be made a vital component of the over-all strategic, operational and tactical priorities of our national security strategy.", 
+        "sentence_id,": "cb4ec70c2a"
+    }, 
+    {
+        "sentence": "APPENDICES ----------------------- Page 27----------------------- APPENDIX 1 CSWG WORKSHOP OUTPUT APPENDIX 2 - CYSWG WORKSHOP OUTPUT The TFSCI-CySWG Implementation Master Plan A project of The Task Force for the Security of Critical Infrastructure (TFSCI) Cyber Security Work Group Asst Sec Angelo Timoteo Diaz de Rivera Head, TFSCI Cyber Security Work Group 28 June 2004 INTRODUCTION Terrorism, cyber and otherwise, continues to be one of the most serious threats facing the security of countries all over the world.", 
+        "sentence_id,": "b13c739b09"
+    }, 
+    {
+        "sentence": "No country is immune to attack or exploitation by terrorists and no one can afford to retreat from the problem.", 
+        "sentence_id,": "ce0d3a8663"
+    }, 
+    {
+        "sentence": "The Philippines is no exception.", 
+        "sentence_id,": "7e69d18eda"
+    }, 
+    {
+        "sentence": "Its government, therefore, should step-up its defense program to safeguard the nation not only from physical terrorist attack, in general, but from cyber threats to its major, critical infrastructure nationwide.", 
+        "sentence_id,": "2c5a89c927"
+    }, 
+    {
+        "sentence": "The nations critical infrastructures, such as: telecommunications, banking, agriculture, and industrial centers, and their mutual dependencies and interconnectedness as enabled through information and communications technology (ICT) is a prime target, vulnerable at the moment, even to the most basic of virus attacks and malicious conduct.", 
+        "sentence_id,": "4966f72230"
+    }, 
+    {
+        "sentence": "The high dependencies of these critical infrastructures on ICT have made them highly vulnerable to the malevolent intention of lawless elements through cyber exploits and terrorism.", 
+        "sentence_id,": "d69b905aa7"
+    }, 
+    {
+        "sentence": "The threats of attacks to critical infrastructure have serious ramifications to the nations immediate economic survival.", 
+        "sentence_id,": "8b68795a8b"
+    }, 
+    {
+        "sentence": "With a new mandate from the people, the President, Her Excellency Gloria Macapagal-Arroyo, is in the best position to take the lead in recognizing the urgency and immediacy of providing a short, as well as, a long term solution to the protection of critical infrastructures and tapping both the private and public sector to collaborate in this shared national responsibility.", 
+        "sentence_id,": "95e9b6c312"
+    }, 
+    {
+        "sentence": "Through a resolution submitted during the First National Summit on Critical ICT Protection at the EDSA Shangrila on 16 April 2004, to the office of the President, through Executive Secretary Romulo, the joint public-private Task Force on Security for Critical Infrastructure (TFSCI) has put forth the development and implementation of a RP National Cyber Security Strategy (RP-NCCS) in the soonest possible time to include but not limited to the following: a. Formulation, fast-tracking and pro-active advocacy of related regulatory and legislative agenda in order to provide the necessary legal regime and policy environment.", 
+        "sentence_id,": "65cd0cc0cb"
+    }, 
+    {
+        "sentence": "----------------------- Page 28----------------------- b.", 
+        "sentence_id,": "526fe86857"
+    }, 
+    {
+        "sentence": "Conduct of a nationwide cyber security awareness program to promote a common understanding among stakeholders; c. Conduct of risk and vulnerability assessment in order to identify risk areas and effect the establishment and adoption of internationally-accepted cyber security standards; d. Institutionalization of cyber-security capability-building programs in order to produce a critical mass of RP cyber-security professionals; and e. Establishment of a National and Sectoral Computer Security and Incident Response Team to ensure that the country is able to immediately respond to all possible forms of cyber threats and incidents.", 
+        "sentence_id,": "4f7a60b6f5"
+    }, 
+    {
+        "sentence": "To set the tone and initiate action, the Task Force, after a March workshop in DAP, Tagaytay agreed to pursue subsequent planning activities through the creation of five (5) planning teams.", 
+        "sentence_id,": "5f64549765"
+    }, 
+    {
+        "sentence": "THE CYSWG EFFORTS In 13 January 2004, the NCC CySWG crafted its preliminary Work Plan which was submitted and approved by the COC-IS thru the TFSCI In this preliminary work plan the CySWG identified the following priority programs/ projects: A database of critical cyber infrastructure Establishment of national, regional and sectoral Computer Security Incident Response Teams (CSIRT) A nationwide adoption of Information Security Standards Cyber security policies and implementation plans (National Cyber Security Strategy) On March 28-29, 2004, a CySWG organizational workshop was conducted at DAP, Tagaytay to decide on the final organizational setup, identify short and long- term programs and activities, and define functions and tasks of the various CySWG committees under the Task Force for the Security of Critical Infrastructure (TFSCI).", 
+        "sentence_id,": "3e7456b052"
+    }, 
+    {
+        "sentence": "Incident Intervention and Consequence Management Committee (I-ICON) An Oversight Committee chaired by DG Tim De Rivera was also formed to oversee and monitor the planning and implementation process to be followed by the CySWG Task Force committees.", 
+        "sentence_id,": "535a11657a"
+    }, 
+    {
+        "sentence": "THE 5 TFSCI-CYSWG PLANNING COMMITTEES The various committees are depicted as shown below The major objective and function of each committee is shown in the following table: ----------------------- Page 29----------------------- Committee Major Objective FISPOL Formulate and implement policies, regulations and rules of conduct for CySWG members and affected parties or industries.", 
+        "sentence_id,": "4e5cc6e074"
+    }, 
+    {
+        "sentence": "RVAC Identify and assess risk and vulnerabilities of critical infrastructures SAWAT Promote security awareness training to ciritical infrastructure and affected publics T-TRAIN Develop competent security professionals to protect and support cyber infrastructure I-ICON Provide coordination, response and exchange of incident information among the various in- government, private and regional/global incident response teams on a 24x7 basis O-OVER Oversee the planning and implementation of the various CySWG committee efforts SUB-COMMITTEE WORK The organizational workshop was soon followed by the following sub-committee workshops to finalize the individual sub-committee plans and programs: April 15 & 16 - to kick off the TFSCI-CSWG activities, a National Cyber Security Summit was conducted with an end view to increase awareness on the CySWG plans and programs, and to foster public and private partnership April 30 & May 1 planning workshop at DAP, Tagaytay for the Risk and Vulnerability Assessment Committee (R/VAC) May 26 & 27 planning workshop at Las Brisas, Antipolo for the Formulation and Implementation of Cyber Security Policies Committee (FISPOL) May 28 & 29 planning workshop at Las Brisas, Antipolo for the Security Awareness and Advocacy Committee (SAWAT) June 15 & 16 planning workshop at DAP, Tagaytay for the Training and Education Committee (T-TRAIN) June 17 & 18 planning workshop at DAP, Tagaytay for the Incident Intervention and Consequence Management Committee (I-ICON) In between, several other small group meetings took place among the various members of the committees to work on after-workshop assignments and other unfinished business as needed.", 
+        "sentence_id,": "e95af6dbb8"
+    }, 
+    {
+        "sentence": "THE TFSCI-CYSWG IMPLEMENTATION PLAN This plan therefore is a result of the planning efforts of the various committees of the Cyber Security Work Group (CySWG) under the auspices of the Task Force on the Security of Critical Infrastructure (TFSCI).", 
+        "sentence_id,": "a8034e7946"
+    }, 
+    {
+        "sentence": "The plan is being presented as an initial working plan based on the perspective of the committee members under the influence of their respective agency training, orientation and bias.", 
+        "sentence_id,": "e369110671"
+    }, 
+    {
+        "sentence": "It is suggested that the plan undergo validation by the senior members of the TFSCI and from the overall view of a composite Physical Security and Cyber Security perspective.", 
+        "sentence_id,": "bd0e2cd854"
+    }, 
+    {
+        "sentence": "There were also the consideration of funding, executive preference, and other national prioritization issues that were not taken into account during the CySWG planning workshops.", 
+        "sentence_id,": "a4021a7e9f"
+    }, 
+    {
+        "sentence": "THE CYBER SECURITY WORK GROUP (CYSWG) MISSION To ensure that the critical infrastructure of the country is 99.9% safe and protected in cyberspace THE CYBER SECURITY WORK GROUP FUNCTION The information and process flow among the various CySWG functions are envisioned as follows: ----------------------- Page 30----------------------- CYSWG GOALS AND OBJECTIVES The objectives, strategies and action plans submitted and recommended by the five (5) committees under the CySWG Task Force are detailed in the Appendix of this report.", 
+        "sentence_id,": "0efd68f9e8"
+    }, 
+    {
+        "sentence": "These are consolidated and summarized in table form in the following pages.", 
+        "sentence_id,": "1477c693ee"
+    }, 
+    {
+        "sentence": "Conduct continuing training and upgrading of personnel.", 
+        "sentence_id,": "df49c624b1"
+    }, 
+    {
+        "sentence": "Develop and implement promotions advocacy campaign (plans and programs) through PIA and/or outsourced public relations agencies.", 
+        "sentence_id,": "2bbee83285"
+    }, 
+    {
+        "sentence": "Determine extent and complexity of database sourcing, storage and access system.", 
+        "sentence_id,": "21852403dc"
+    }, 
+    {
+        "sentence": "Pilot and/or implement as deemed fit.", 
+        "sentence_id,": "342cd3fab9"
+    }, 
+    {
+        "sentence": "Monitor effectiveness of assessment instruments and methodology.", 
+        "sentence_id,": "28819cb341"
+    }, 
+    {
+        "sentence": "Forge assessment and certification working partnerships with technology owners and providers ORGANIZATIONAL REQUIREMENTS: HOW TO PROCEED FROM HERE Considering that the members of the Task Force Committees consist of volunteer government and private employees who may not be available to commit their time and effort in a continuing, as- needed and sustained basis, the CySWG must convert itself or seek the set up or organization of a permanent body with an official charter.", 
+        "sentence_id,": "15b826dade"
+    }, 
+    {
+        "sentence": "This body must, as a minimum have full-time, knowledgeable and qualified ICT professionals and managers who will polish and fine-tune the plan and carry out its implementation based on their (new people) respective capacities and capabilities.", 
+        "sentence_id,": "b8c85c309b"
+    }, 
+    {
+        "sentence": "Where extra hands and know how are needed, the managers and leaders of the renewed permanent body can simply tap the talents and abilities of either the current members of the CySWG committees or outsourced to experts in the field.", 
+        "sentence_id,": "dfdef6bc7f"
+    }, 
+    {
+        "sentence": "All the committees agreed to the formation of a permanent body to implement the TFSCI master plan.", 
+        "sentence_id,": "bffab6147e"
+    }, 
+    {
+        "sentence": "Each member realized his role was temporary and his responsibility self-imposed, if at all.", 
+        "sentence_id,": "5896be0667"
+    }, 
+    {
+        "sentence": "Some members have expressed their willingness to be part of the new body, if at all formed, depending on their assigned roles and individual working arrangements.", 
+        "sentence_id,": "2252854777"
+    }, 
+    {
+        "sentence": "Although no formal organizational structure or composition of the new permanent organization was discussed and submitted during the various planning meetings and workshops, the consensus was that the permanent body will have to be formed depending on the political and financial situation at the time of formation.", 
+        "sentence_id,": "478ac0a0cd"
+    }, 
+    {
+        "sentence": "Some functions though are critical and have to be manned by experts in these fields.", 
+        "sentence_id,": "3347e01346"
+    }, 
+    {
+        "sentence": "The two most critical functions of the new organized permanent body (New-CySWG) are: Technical Training (T-TRAIN) Incident Response (I-ICON) THE TECHNICAL TRAINING (T-TRAIN) FUNCTION The T-Train function will have to be done professionally and on a continuing, sustained basis.", 
+        "sentence_id,": "7de2e73694"
+    }, 
+    {
+        "sentence": "At the moment, the necessary expertise and know how, in terms of course content and delivery mechanisms are not available in one single entity or training institution.", 
+        "sentence_id,": "3b76236ef5"
+    }, 
+    {
+        "sentence": "It is suggested that the training be formalized initially under the NCC, considering that NCC already has the training facilities and the mandate to do ICT and related training.", 
+        "sentence_id,": "7ef4c16bcb"
+    }, 
+    {
+        "sentence": "The NCC facility can be part of the permanent New-CySWG organization until such time that the plans of NCC or the New-CySWG will say otherwise.", 
+        "sentence_id,": "c713034496"
+    }, 
+    {
+        "sentence": "NCC, as the New-T-Train can now implement and upgrade the T-Train plan which includes tapping outside expertise on an as-needed basis.", 
+        "sentence_id,": "0b98fa4ec3"
+    }, 
+    {
+        "sentence": "The first order of the day is for NCC to organize a train- the-trainor program and carry out the certification process for its newly trained ICT Security mentors and instructors.", 
+        "sentence_id,": "68b03f6733"
+    }, 
+    {
+        "sentence": "The New-T-Train can follow the plan of action of the T-Train committee as follows: Identify training gaps Outsource and tap applicable programs/technologies, courseware and trainors Implement training and delivery programs The T-Train committee has also identified as a resulting business or output, consulting, curriculum development and certification as among its potential product or services to follow.", 
+        "sentence_id,": "b20ae500c8"
+    }, 
+    {
+        "sentence": "Since the critical ----------------------- Page 33----------------------- need for the immediate time frame is for training on ICT security of government and the critical infrastructure, the auxiliary business of T-Train may have to wait and its pursuit subject to the will and wherewithal of the permanent officers or managers to be designated.", 
+        "sentence_id,": "6c9a81a2b4"
+    }, 
+    {
+        "sentence": "Training, per se, is already a full-time job and a major undertaking concern for most managers.", 
+        "sentence_id,": "0cb7d125db"
+    }, 
+    {
+        "sentence": "It will take a leader with an insatiable business sense and acumen to expand into the complex world of consultancy and courseware development as an add-on business.", 
+        "sentence_id,": "d80d37c54e"
+    }, 
+    {
+        "sentence": "For the certification, this may be better done in cooperation with TESDA and the ICT-Industry Working Group who are now in the process of professionalizing the certification so these can be brought to a stage where the industry and the business community can look at a certified ICT worker with pride and confidence rather than with doubt and distrust.", 
+        "sentence_id,": "0d82c19840"
+    }, 
+    {
+        "sentence": "THE INCIDENT RESPONSE (I-ICON) FUNCTION The incident response function has to be a permanent and fully funded function of the New-CySWG.", 
+        "sentence_id,": "034b6297c5"
+    }, 
+    {
+        "sentence": "This is and will be the heart of the cyber protection capability of the country.", 
+        "sentence_id,": "7b23c2b1a2"
+    }, 
+    {
+        "sentence": "If the new I-ICON fails to beat, the whole body or network of data, information and processing of such, stops.", 
+        "sentence_id,": "fa1d5b60f7"
+    }, 
+    {
+        "sentence": "The I-ICON function and for that matter the task of providing response and protection to the information community is proposed by the CySWG through the creation of a National Computer Security Incident Response Team (NCSIRT).", 
+        "sentence_id,": "2958d357d1"
+    }, 
+    {
+        "sentence": "It is also referred to as the Government CSIRT or G- CSIRT.", 
+        "sentence_id,": "c3eae3c8a4"
+    }, 
+    {
+        "sentence": "If an agency, these can be referred to as the National Information Security Agency (NISA) to encompass all forms of security issues and concerns whether LAN-based, Cyber-based or simply a corporate misdemeanor or crime against a standalone information system in a private or government enclave.", 
+        "sentence_id,": "302586900c"
+    }, 
+    {
+        "sentence": "The I-ICON function is a coordination and feeding center for the countrys input and output of cyber nuances.", 
+        "sentence_id,": "df04f7cb66"
+    }, 
+    {
+        "sentence": "Into its bowels and veins will flow the various threats and incidents of intrusions, viruses, attacks and even simply misuse or abuse of computer use.", 
+        "sentence_id,": "568cfc9768"
+    }, 
+    {
+        "sentence": "Contrary to the notion of border patrol and control, the I-ICON will never have direct control or supervision over any other cybersite, whether on-country or off-country.", 
+        "sentence_id,": "4e1c44e03b"
+    }, 
+    {
+        "sentence": "The major function and significance of a government incident response coordinating center, however, is its ability and capability to warn, monitor, and inform the cybercommunity of threats and incidents so all those within reach and coordinating with the center will be fully warned and therefore can arm themselves accordingly.", 
+        "sentence_id,": "5caf83f70d"
+    }, 
+    {
+        "sentence": "The only reason a threat or attack can materialize and succeed is when its intended target is uninformed, misinformed or incapable of defending itself.", 
+        "sentence_id,": "1e35d7b10d"
+    }, 
+    {
+        "sentence": "These inadequacies can be overcome by proper training and preparation and a reliable, dependable, 24x7 alert system.", 
+        "sentence_id,": "ab78642bd4"
+    }, 
+    {
+        "sentence": "THE OTHER FUNCTIONS For the other functions, these can continue as committee work and eventually can be absorbed by the New-CySWG, G-CSIRT or NISA to be formed.", 
+        "sentence_id,": "b6e273b004"
+    }, 
+    {
+        "sentence": "Once a new set of permanent employees are employed, the other tasks and function may be relegated to inhouse experts or simply outsourced on an as needed basis.", 
+        "sentence_id,": "2406347f00"
+    }, 
+    {
+        "sentence": "The Risk Assessment (RVAC) function can be done on a quarterly or continuing basis by outsourced third party assessors.", 
+        "sentence_id,": "5857775288"
+    }, 
+    {
+        "sentence": "The New-CySWG only have to come up with standards by which critical infrastructure and institutions are to be assessed.", 
+        "sentence_id,": "fcfa328f36"
+    }, 
+    {
+        "sentence": "The Awareness function and activities (SAWAT) can be implemented inhouse or outsourced to a public relations agency, once the marketing advocacy plan is done.", 
+        "sentence_id,": "18614121f2"
+    }, 
+    {
+        "sentence": "Marketing, and especially advocacy efforts like those required for cybersecurity are better in the hands of marketing-oriented professionals than in ICT peoples hands.", 
+        "sentence_id,": "abd156a222"
+    }, 
+    {
+        "sentence": "Technical people, and we will have the more technically inclined in the New-CySWG, will be the wrong people to advocate security.", 
+        "sentence_id,": "3e887cf97a"
+    }, 
+    {
+        "sentence": "They will either scare the hell out of their constituents or droop them to sleep with their technical litanies.", 
+        "sentence_id,": "59cc376020"
+    }, 
+    {
+        "sentence": "Lastly, the Policies function (FISPOL) shall eventually become the responsibility of the New-CySWG management and not an adhoc committee from the outside.", 
+        "sentence_id,": "b4abf75de4"
+    }, 
+    {
+        "sentence": "Once the business of the permanent organization is installed, any policy, guidelines, directions and the like, will have to emanate from the management and/or their direct superiors.", 
+        "sentence_id,": "47ff4dd329"
+    }, 
+    {
+        "sentence": "----------------------- Page 34----------------------- The oversight function will also have to be relinquished to the New-CySWG leadership.", 
+        "sentence_id,": "fe7abca7bd"
+    }, 
+    {
+        "sentence": "Theirs will be the responsibility and accountability of making this country, safely, securely and soundly functioning in LAN or Cyber space.", 
+        "sentence_id,": "11788ae4da"
+    }, 
+    {
+        "sentence": "SHORT-TERM PLAN For the short-term (up to the end of the year), the various committees have put up their action plans in terms of activities and deliverables.", 
+        "sentence_id,": "25e68dbacf"
+    }, 
+    {
+        "sentence": "Details of these plans and activities are in the attachments.", 
+        "sentence_id,": "c7f48f1792"
+    }, 
+    {
+        "sentence": "The attachments though reflect a first draft resulting from the sentiments of those who were present and participated during the workshops.", 
+        "sentence_id,": "73b0c619db"
+    }, 
+    {
+        "sentence": "Only the more implementable or doable activities were selected from the long list of recommended actions produced by the five (5) committees during their respective planning workshops.", 
+        "sentence_id,": "07f701727c"
+    }, 
+    {
+        "sentence": "The individual committee worksheets with all their detailed computations and assumptions are included in the hard copy outputs as well as in the accompanying CD for those who may want to review them at a later date.", 
+        "sentence_id,": "d1d0e08025"
+    }, 
+    {
+        "sentence": "Form the G-CSIRT or NISA as soon as possible.", 
+        "sentence_id,": "dabce8483c"
+    }, 
+    {
+        "sentence": "From the findings of the workshop, there is a need to formalize the creation of a Response Team at the least.", 
+        "sentence_id,": "531bbae089"
+    }, 
+    {
+        "sentence": "And these team has to have the necessary mandate and authority to work with, negotiate and represent the national interest on matters of information security as a whole.", 
+        "sentence_id,": "9aa8bfbd7e"
+    }, 
+    {
+        "sentence": "Formalize the development and implementation of a National Strategy for Information Security as a whole (not just Cyber Security).", 
+        "sentence_id,": "915224df46"
+    }, 
+    {
+        "sentence": "With the passage of the E-commerce Law in 2000 and the formation of the ITECC and the CICS, the National Strategy for Information Security will be a boon and welcomed protective mantel to the many other ICT plans and strategies adopted and adapted by the ICT community in the last decade.", 
+        "sentence_id,": "0f2b4edeea"
+    }, 
+    {
+        "sentence": "Cyber as well as inhouse or local information security breach can damage a business or even whole government more than it can any breach of physical security.", 
+        "sentence_id,": "0e2a1abe83"
+    }, 
+    {
+        "sentence": "Some companies with headquarters in the collapsed Twin Towers as a result of the 9-11 tragedy continue to do business simply they had backups and contingency provisions for their data and information systems.", 
+        "sentence_id,": "a6ada5c269"
+    }, 
+    {
+        "sentence": "But no business can continue once their mass of data and their ability to process and compute is wiped out by a virus or malicious attack.", 
+        "sentence_id,": "25dcb16413"
+    }, 
+    {
+        "sentence": "CONCLUSION Implementing the plans and programs herein proposed or revised as needed, will require a different set of knowledge, attitude and skills set.", 
+        "sentence_id,": "f2a59b22b0"
+    }, 
+    {
+        "sentence": "It is recommended that the final composition of staff and / or committee members who will carry out these plans and programs be selected based on their knowledge, attitude, skills and availability to carry out plans and programs and not just to plan!", 
+        "sentence_id,": "f487ed4e7a"
+    }, 
+    {
+        "sentence": "APPENDIX 2 SAMPLE RISK ASSESSMENT QUESTIONNAIRE III.", 
+        "sentence_id,": "da4f35d86e"
+    }, 
+    {
+        "sentence": "ORGANIZATION INFORMATION A.", 
+        "sentence_id,": "0b97f7450a"
+    }, 
+    {
+        "sentence": "Contact Information (Optional) Respondent Name : Email Address : Job Function : Name of Immediate Supervisor : Job Function of Supervisor : B.", 
+        "sentence_id,": "d6be34cd7d"
+    }, 
+    {
+        "sentence": "Organization Information ----------------------- Page 35----------------------- Company Name : Address : Sector : Agriculture and Food Banking and Finance Emergency Services Energy Government Services Information and Communication Manufacturing Public Health Strategic Commercial Centers Transportation Water Supply In which geographic locations is the organization, or its products/services, present?", 
+        "sentence_id,": "4864aa2373"
+    }, 
+    {
+        "sentence": "What is the main purpose or mission of your organization?", 
+        "sentence_id,": "4355816d05"
+    }, 
+    {
+        "sentence": "What are the products/services being offered by your organization?", 
+        "sentence_id,": "d1392909e6"
+    }, 
+    {
+        "sentence": "How does your organizations product or services affect the people, economy, and the government?", 
+        "sentence_id,": "b47dc0ff78"
+    }, 
+    {
+        "sentence": "What is your organizations gross income?", 
+        "sentence_id,": "34e4607a32"
+    }, 
+    {
+        "sentence": "Less than 10 M 10 M to 50 M 50 M to 100 M 100 M to 500 M 500 M to 1,000 M More than 1,000 M How many employees are in your entire organization?", 
+        "sentence_id,": "d048a34455"
+    }, 
+    {
+        "sentence": "Less than 500 501 to 1,000 1,001 to 2,500 2,501 to 10,000 10,001 to 50,000 50,001 to 100,000 More than 100,000 Approximately, what is your organizations information technology budget for this year?", 
+        "sentence_id,": "68903c114d"
+    }, 
+    {
+        "sentence": "IT budget covers software, hardware, implementations, salaries, consultants, and other expenses?", 
+        "sentence_id,": "3e726a5464"
+    }, 
+    {
+        "sentence": "Less than 1M 1M to 5M 5M to 10 M 10M to 50M 50M to 100M More than 100M ----------------------- Page 36----------------------- Who is primarily responsible for Information Security in your organization?", 
+        "sentence_id,": "57d74ffb79"
+    }, 
+    {
+        "sentence": "Chief Executive Officer (CEO) Chief Operating Officer (COO) Chief Financial Officer (CFO) Chief Information Security Officer (CISO) Chief Security Officer (CSO) Chief Privacy Officer (CPO) Chief Risk Officer (CRO) General Counsel Business Unit Executive/ Vice President Information Technology Executive Information Security Executive Network/System Administrator Internal Audit Director Other (please specify) IV.", 
+        "sentence_id,": "c2b971652e"
+    }, 
+    {
+        "sentence": "SYSTEM-RELATED INFORMATION A.", 
+        "sentence_id,": "c554dd1fde"
+    }, 
+    {
+        "sentence": "What are the mission critical data or information of your organization that will have a high or medium level of impact if the data or information is destroyed, altered, or compromised?", 
+        "sentence_id,": "02162a7f33"
+    }, 
+    {
+        "sentence": "What are the consequences if data or information is destroyed, altered, or compromised?", 
+        "sentence_id,": "5e08e72881"
+    }, 
+    {
+        "sentence": "Does your organization have an information classification system?", 
+        "sentence_id,": "c1c3083e69"
+    }, 
+    {
+        "sentence": "Does your company maintain an inventory of assets?", 
+        "sentence_id,": "f4d742b303"
+    }, 
+    {
+        "sentence": "An inventory of the following assets are maintained: Information assets, e.g.databases Software assets Hardware assets Others: _________________________________ Responsibility for the maintenance of inventory records are assigned and documented Yes No ----------------------- Page 37----------------------- B.", 
+        "sentence_id,": "9c8690452b"
+    }, 
+    {
+        "sentence": "What are the mission critical application systems that process your organizations data and information?", 
+        "sentence_id,": "4e5ae1980a"
+    }, 
+    {
+        "sentence": "What is the purpose of the system?", 
+        "sentence_id,": "883ca0bc3d"
+    }, 
+    {
+        "sentence": "What are the functions of the system?", 
+        "sentence_id,": "15be0caa27"
+    }, 
+    {
+        "sentence": "What are the features of the system?", 
+        "sentence_id,": "69e9eb12f3"
+    }, 
+    {
+        "sentence": "5. Who are the user groups of the system?", 
+        "sentence_id,": "32903b3bcc"
+    }, 
+    {
+        "sentence": "What are the internal and external interfaces of they system?", 
+        "sentence_id,": "5e58663d47"
+    }, 
+    {
+        "sentence": "NOTE: Internal interfaces refer to the other IT systems within the organization that the system needs to connect with.", 
+        "sentence_id,": "5e30ce2f46"
+    }, 
+    {
+        "sentence": "External interfaces refer to the other IT systems outside the organization the system needs to connect with.", 
+        "sentence_id,": "b4aa45c68a"
+    }, 
+    {
+        "sentence": "What is the sensitivity and criticality level of the information processed by the system?", 
+        "sentence_id,": "c7317f92f9"
+    }, 
+    {
+        "sentence": "What is the impact of the loss of integrity, loss of availability and loss of confidentiality of the mission critical data or systems to the security, health, safety, public welfare or economic well-being of the citizens or on the delivery of basic services of the government?", 
+        "sentence_id,": "899f66ef51"
+    }, 
+    {
+        "sentence": "What is the impact of a temporary, short-term or minor disruption, destruction or breach in operations or security of the system to the security, health, safety, public welfare or economic well- being of the citizens or on the delivery of basic services of the government?", 
+        "sentence_id,": "b4491849d6"
+    }, 
+    {
+        "sentence": "What is the impact of a permanent or major disruption, destruction or breach in operations or security of the system to the security, health, safety, public welfare or economic well-being of the citizens or on the delivery of basic services of the government?", 
+        "sentence_id,": "81955519db"
+    }, 
+    {
+        "sentence": "What are the other sectors (based on the list of sectors refer to III.B) that will be significantly affected by the system?", 
+        "sentence_id,": "019ed52af8"
+    }, 
+    {
+        "sentence": "Application System Information Sensitivity Level (H- High, M- Medium, L- Low) Information Criticality Level (H- High, M- Medium, L- Low) Impact of temporary or short-tem disruption (H- High, M- Medium, L- Low) Impact of permanent or major disruption (H- High, ----------------------- Page 38----------------------- M- Medium, L- Low) Affected Sectors H M L H M L H M L H M L H M L H M L H M L H M L H M L H M L H M L H M L H M L H M L H M L H M L H M L H M L H M L H M L D. Technical Infrastructure Answering the following questions below shall attempt to establish the following: a.", 
+        "sentence_id,": "203619a2db"
+    }, 
+    {
+        "sentence": "Identification of different operating systems that host corporate application systems b.", 
+        "sentence_id,": "a899c2f21d"
+    }, 
+    {
+        "sentence": "What types of hardware are being used to support the organizations critical applications?", 
+        "sentence_id,": "250e81ebb4"
+    }, 
+    {
+        "sentence": "What operating systems are used to host the organizations critical applications?", 
+        "sentence_id,": "22adfc982e"
+    }, 
+    {
+        "sentence": "What network infrastructure media are used to support the Companys application systems?", 
+        "sentence_id,": "02c876d84e"
+    }, 
+    {
+        "sentence": "What are the other support infrastructures/ facilities that the system depends on?", 
+        "sentence_id,": "1b88131c61"
+    }, 
+    {
+        "sentence": "Generally, what security technologies are utilized in your organization?", 
+        "sentence_id,": "be88b6d5b0"
+    }, 
+    {
+        "sentence": "Digital Ids Intrusion Detection PCMCIA Physical Security Controls Encrypted Login Firewalls Reusable Passwords Anti-virus Software Encrypted Files Biometrics Access Control V. SECURITY / CONTROLS ANALYSIS A.", 
+        "sentence_id,": "5707b15021"
+    }, 
+    {
+        "sentence": "Does your organization have information security infrastructure?", 
+        "sentence_id,": "d715a891ce"
+    }, 
+    {
+        "sentence": "Does your organization have information security policies?", 
+        "sentence_id,": "ba777be426"
+    }, 
+    {
+        "sentence": "A central person/group maintains, reviews, and updates information security policies (i.e.", 
+        "sentence_id,": "f1d8648a36"
+    }, 
+    {
+        "sentence": "Does your organization follow laws, international standards, best practices, or frameworks for implementing information security?", 
+        "sentence_id,": "d74ea9899a"
+    }, 
+    {
+        "sentence": "Does your organization practice standard system name conventions?", 
+        "sentence_id,": "ade58a5ab3"
+    }, 
+    {
+        "sentence": "Would your organization consider hiring reformed hackers as consultants?", 
+        "sentence_id,": "be925e7773"
+    }, 
+    {
+        "sentence": "Does your organization have a program for reviewing and testing security controls?", 
+        "sentence_id,": "edca0e711f"
+    }, 
+    {
+        "sentence": "Program includes: Internal Audit External Audit Security Consulting Others: ________________________________________ Security assessments are performed at least once a year Security assessment procedures and methodologies are documented Access to security testing tools and utilities are restricted to authorized personnel Security assessments include: Security specialists to perform penetration testing Vulnerability scanners Policy compliance checking tools Performance tools Independent review and audit of security policies and controls Yes No B.", 
+        "sentence_id,": "50a2b860ed"
+    }, 
+    {
+        "sentence": "Does your organization have personnel security measures with respect to security?", 
+        "sentence_id,": "45f2e30280"
+    }, 
+    {
+        "sentence": "Does your organization have an information security awareness program?", 
+        "sentence_id,": "292ff16a14"
+    }, 
+    {
+        "sentence": "Users have undergone an information security awareness training program Users are regularly updated in organizational policies, standards, guidelines, and procedures.", 
+        "sentence_id,": "2a1e13521f"
+    }, 
+    {
+        "sentence": "Does your organization have a process for responding to security incidents?", 
+        "sentence_id,": "3efece185e"
+    }, 
+    {
+        "sentence": "Reporting guidelines and procedure is documented for reporting security incidents, security weaknesses, or software malfunctions Users are made aware and trained on handling social engineering attempts or attacks The methods of social engineering and recognizing possible attack.", 
+        "sentence_id,": "c069b4888c"
+    }, 
+    {
+        "sentence": "Has there been any security breaches, system intrusions or incidents that have occurred in the organization within the last 12 months?", 
+        "sentence_id,": "470f010667"
+    }, 
+    {
+        "sentence": "In an event of a detected security incident, what actions did management take?", 
+        "sentence_id,": "74e97b902f"
+    }, 
+    {
+        "sentence": "What are probable reason/s that your organization would not report security incidents to law enforcement agencies?", 
+        "sentence_id,": "7b195299ea"
+    }, 
+    {
+        "sentence": "Does your organization have physical controls in place to protect sensitive areas/rooms?", 
+        "sentence_id,": "f16aebd517"
+    }, 
+    {
+        "sentence": "The following controls are utilized Secure IDs/Swipe Cards Biometric controls are used to access data centers ----------------------- Page 42----------------------- CCTV/Surveillance cameras and guards are in place to monitor premises Others: ___________________________________ A list of persons authorized to access rooms are maintained and periodically reviewed.", 
+        "sentence_id,": "3da3105b5f"
+    }, 
+    {
+        "sentence": "Does your organization take steps to prevent loss, damage or compromise of equipment and interruption to business activities?", 
+        "sentence_id,": "196362c55e"
+    }, 
+    {
+        "sentence": "servers) are located in secure areas to minimize exposure from fire, flooding, water damage, corrosive agents, electromagnetic radiation and smoke Equipment are protected from power failure, e.g.", 
+        "sentence_id,": "18d7f923ee"
+    }, 
+    {
+        "sentence": "Does your organization implement general measures to protect the company's information from interception?", 
+        "sentence_id,": "2b56812ce2"
+    }, 
+    {
+        "sentence": "There is a \"clear desk\" policy in operation Paper and computer media are locked away when not in use Computer monitors are located to prevent viewing by unauthorized persons Password protected screensavers are activated when the computer is left unattended.", 
+        "sentence_id,": "7baf411700"
+    }, 
+    {
+        "sentence": "Does your organizations systems have documentation?", 
+        "sentence_id,": "a5af6b4104"
+    }, 
+    {
+        "sentence": "Does your organization maintain system logs?", 
+        "sentence_id,": "5739f23a70"
+    }, 
+    {
+        "sentence": "System logs are maintained for the following: Internet connections Access attempts Critical Applications Internal network devices (e.g.", 
+        "sentence_id,": "1f18777b69"
+    }, 
+    {
+        "sentence": "Does your organization review logs for security related events?", 
+        "sentence_id,": "6bb13ba0fc"
+    }, 
+    {
+        "sentence": "Does your organization have backup and restore procedures in place?", 
+        "sentence_id,": "38f3b87d90"
+    }, 
+    {
+        "sentence": "Does your organization have a Business Continuity Management Process?", 
+        "sentence_id,": "f5140a8f88"
+    }, 
+    {
+        "sentence": "The Business Continuity Plan (BCP) is: Documented Managed by a dedicated group Addresses different events that could cause interruptions to business processes (i.e.", 
+        "sentence_id,": "f13196d6f6"
+    }, 
+    {
+        "sentence": "Does you organization have a process for managing user accounts?", 
+        "sentence_id,": "c76edae0ad"
+    }, 
+    {
+        "sentence": "Does your organization enforce a patch management process?", 
+        "sentence_id,": "3b4855bfcf"
+    }, 
+    {
+        "sentence": "Is the security of critical systems tested prior to production deployment?", 
+        "sentence_id,": "34cb1abf64"
+    }, 
+    {
+        "sentence": "Does your organization have a password policy?", 
+        "sentence_id,": "671dc4cfee"
+    }, 
+    {
+        "sentence": "Are logical controls implemented within your organizations network design?", 
+        "sentence_id,": "02f593ecea"
+    }, 
+    {
+        "sentence": "Firewalls Intrusion Detection/Prevention Systems (IDP) Network Honeypots Anti-virus systems Anti-spyware and Anti-adware systems Web filtering mechanisms (i.e.", 
+        "sentence_id,": "0f71bde51c"
+    }, 
+    {
+        "sentence": "Are the internal systems secured?", 
+        "sentence_id,": "70b1a07261"
+    }, 
+    {
+        "sentence": "Are the systems in your Internet/DMZ environment secured?", 
+        "sentence_id,": "d0745716c3"
+    }, 
+    {
+        "sentence": "Publicly accessible systems are tested for vulnerabilities and hardened prior to being deployed in production All essential protocols (i.e.", 
+        "sentence_id,": "14f4bdfd10"
+    }, 
+    {
+        "sentence": "Are there security configuration baselines documented and implemented for systems in your organization?", 
+        "sentence_id,": "26e9096c69"
+    }, 
+    {
+        "sentence": "Does your organization have virus protection software in place?", 
+        "sentence_id,": "ae9cc20ed2"
+    }, 
+    {
+        "sentence": "Is data encryption being used in your organization for sensitive systems?", 
+        "sentence_id,": "55de4620ee"
+    }, 
+    {
+        "sentence": "What type of network connection is viewed or cited as a frequent point of attack?", 
+        "sentence_id,": "24ecc27990"
+    }, 
+    {
+        "sentence": "Are controls in place to secure network access?", 
+        "sentence_id,": "636e8f2c84"
+    }, 
+    {
+        "sentence": "Are remote access connections secured?", 
+        "sentence_id,": "a45d1dac29"
+    }, 
+    {
+        "sentence": "Remote access connections are authenticated Remote access are connected via VPN Remote access is limited to only the needed applications and systems There are procedures in place for approving and processing vendor requests for remote access in the network VI.", 
+        "sentence_id,": "b68c13a5a1"
+    }, 
+    {
+        "sentence": "What are the possible threat actions or events that may be conducted by threat sources?", 
+        "sentence_id,": "4a4903138f"
+    }, 
+    {
+        "sentence": "What is the likelihood (High, Medium, Low) of occurrence for the possible threat actions?", 
+        "sentence_id,": "45ea836a1c"
+    }, 
+    {
+        "sentence": "What are the possible motivations for attack by the human threat sources?", 
+        "sentence_id,": "d781e037a9"
+    }, 
+    {
+        "sentence": "Ego/Challenge Revenge Destruction Exploitation Monetary gain Competitive advantage/Intelligence Unintentional errors and omissions (e.g.", 
+        "sentence_id,": "46a585215a"
+    }, 
+    {
+        "sentence": "What are likely sources of attack?", 
+        "sentence_id,": "48251b43a9"
+    }, 
+    {
+        "sentence": "What are the types of attack or misuse detected in the last 12 months?", 
+        "sentence_id,": "e0f73a1464"
+    }, 
+    {
+        "sentence": "How much cost did your organization incur due to the types of attack or misuse detected in the last 12 months?", 
+        "sentence_id,": "e827d11ffb"
+    }, 
+    {
+        "sentence": "Has your organizations web site been attacked or misused within the last 12 months?", 
+        "sentence_id,": "3110d03dc6"
+    }, 
+    {
+        "sentence": "Yes (If yes, how many incidents?", 
+        "sentence_id,": "58083060ba"
+    }, 
+    {
+        "sentence": "If your organizations web site had been attacked, where did the attacks originate?", 
+        "sentence_id,": "ed9ed452fe"
+    }, 
+    {
+        "sentence": "What types of attacks had been detected on your organizations web site?", 
+        "sentence_id,": "16b101b9b0"
+    }, 
+    {
+        "sentence": "What are the possible vulnerabilities that may be exploited by the identified threat sources?", 
+        "sentence_id,": "1b87d63a30"
+    }, 
+    {
+        "sentence": "Lack of or inadequate management and personnel security controls Lack of information security policies Lack of security orientation and awareness for personnel Lack of or insufficient training of personnel on proper use of equipment Lack of or insufficient training of personnel on job-related activities Poor employer-employee relationship Lenient hiring and screening procedures Others: ________________________________________ Lack of or inadequate physical and procedural security controls Lack of or inadequate monitoring of data centers Lenient implementation of ID policy Inadequate protection of computer processing facilities from damage against fire, water, electrical failure Inadequate incident reporting and response procedures Lack of backup and recovery procedures Lack of or inadequate operating procedures for systems Lack of business continuity or disaster recovery planning Poor user access management procedures Others: ________________________________________ Lack of or inadequate technical and logical security controls Lack of or inadequate access control management Use of weak passwords Lack of or inadequate virus protection controls Lack of system updates and patches Poor network design", 
+        "sentence_id,": "2b2d4fb7aa"
+    }
+]

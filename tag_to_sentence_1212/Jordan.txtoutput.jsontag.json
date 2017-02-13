@@ -1,0 +1,500 @@
+[
+    {
+        "sentence_id,": "ff30d97ab4", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "However, these approaches: are generally basic; not systematic; subjective; have no clear definition or boundaries, are not thorough; do not meet international standards; and do not deal effectively with threats emerging from cyberspace."
+    }, 
+    {
+        "sentence_id,": "e50e3676b6", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Strategies and policies developed by the private sector should augment, comply, and be consistent with this strategy."
+    }, 
+    {
+        "sentence_id,": "ddd832b614", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "security policy and role-based security responsibilities will have a higher rate of success in protecting critical information."
+    }, 
+    {
+        "sentence_id,": "b8ea57d517", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Develop National Information Security Standards and Policies An authorized government entity, National Information Assurance and Security Agency (NIACSA) (Section 5), will develop and or customize nationwide cyberspace security overarching standards considering current The efforts of implementing nationwide overarching standards and policies will be assigned or managed by NIACSA (Section 5)."
+    }, 
+    {
+        "sentence_id,": "4f1b76c1a1", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "NIACSA will also audit and evaluate the compliance with these standards and policies."
+    }, 
+    {
+        "sentence_id,": "d299f96eaa", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "international standards, policies, and best practices, such as encryption algorithms, encryption keys management, software development, physical and logical access control, and networks security."
+    }, 
+    {
+        "sentence_id,": "2ac42f483e", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "NIACSA will develop the Information Security Policy must be developed and enforced to meet optimum information security requirements for government organizations and private sector."
+    }, 
+    {
+        "sentence_id,": "d01d5ac366", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "necessary guidelines and training programs to guarantee that related entities can implement such standards and policies Individual government entities and private sector that have different security requirements will have the ability to develop their own security policies that do not contradict with the nationwide security policy."
+    }, 
+    {
+        "sentence_id,": "b59f95a206", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "NIACSA, Government entities and private sector must co-operate to ensure that their policies augment, comply, and be consistent with the nationwide policies."
+    }, 
+    {
+        "sentence_id,": "07d03073fe", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Page 10 of 20 National Information Assurance and Cyber Security Strategy (NIACSS) 2012 A nationwide policy should be developed, published and communicated to provide direction and support for information security per this strategy, relevant laws, regulations and international information security standards."
+    }, 
+    {
+        "sentence_id,": "68ffb06d80", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The resulting information security standards and policies should be reviewed at planned intervals to accommodate for the rapid change of the cyberspace environment to ensure currency and effectiveness."
+    }, 
+    {
+        "sentence_id,": "d3e8938c77", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Standards and policies should have a single owner for development, review and evaluation."
+    }, 
+    {
+        "sentence_id,": "ed3fff07f9", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "At national and organizational level, officials and any other necessary party will be designated to help develop, promulgate, and review standards and policies."
+    }, 
+    {
+        "sentence_id,": "663c73e732", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Information Security Policies should: Assign and define information security classification levels required for the Government organizations."
+    }, 
+    {
+        "sentence_id,": "90b70154b1", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Comply with Jordanian laws and adopted international standards."
+    }, 
+    {
+        "sentence_id,": "459234b6dd", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Define policy distribution, training, and implementation timelines."
+    }, 
+    {
+        "sentence_id,": "c0820b3262", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "Provide compliance and certification procedures, and approval authorities."
+    }, 
+    {
+        "sentence_id,": "eff4a5a671", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "National Encryption System A National Encryption Centre (NEC) will be established to manage, control, plan, monitor, and enforce the national strategic encryption policies A National and later on produce indigenous national Encryption algorithms and keys."
+    }, 
+    {
+        "sentence_id,": "c79a5389db", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Government organizations Centre should be and involved parties will adhere to the encryption established standards, policies, or strategic guidelines approved and or developed by the NEC."
+    }, 
+    {
+        "sentence_id,": "bcd83603bf", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "While the private sector will have the flexibility to use their own encryption solutions, these solutions should never violate the approved standards, policies, or strategic guidelines."
+    }, 
+    {
+        "sentence_id,": "f7dd20a29d", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The following strategic needs list for Government organizations will ensure investment in encryption today delivers strategic value to national security efforts: 4.6.1 A national encryption policy will be developed, coordinated, and placed in force."
+    }, 
+    {
+        "sentence_id,": "e48d0dda4b", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "4.6.2 Applicable international standards and best practices should be considered for adoption for better encryption management."
+    }, 
+    {
+        "sentence_id,": "ca1cc916e3", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "To do so requires international cooperation."
+    }, 
+    {
+        "sentence_id,": "34e4949015", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Jordan needs to be part of an international effort to raise awareness, develop and promote security standards and best practices, investigate and prosecute malevolent users across borders, and negotiate and conclude bilateral and multi-national agreements."
+    }, 
+    {
+        "sentence_id,": "160f93424d", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "4.7.4 Promote research and development and encourage the application of internationally certified security technologies."
+    }, 
+    {
+        "sentence_id,": "6298107201", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "A certification and accreditation program should be established for all critical software that will be used in government entities and business entities that operate critical national infrastructure."
+    }, 
+    {
+        "sentence_id,": "b29c86b137", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Moreover, Government organizations and private sector will follow national guidelines, standards, rules and best practices needed to guarantee software acquisition, procurement, outsourcing, in-house developed software, and Commercially available Off-The-Shelf (COTS) components will deliver software that commit to the national security rules and do not yield security breaches."
+    }, 
+    {
+        "sentence_id,": "eac27435cb", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "These procedures should meet the set of regulations, rules, best practices, national information security policies and standards that direct how an entity manages, protects its communications and distributes sensitive information."
+    }, 
+    {
+        "sentence_id,": "a2c75ebe4c", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "NIACSA should develop and review all security-related strategies, standards, policies, laws, and champion required change in co-ordination with all stakeholders."
+    }, 
+    {
+        "sentence_id,": "d62b5cff18", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Manage Nation-Wide Risk Management Program Audit all governments information systems and procedures to guarantee compliance with national security standards and policies."
+    }, 
+    {
+        "sentence_id,": "2fc5d4786a", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "Hence, the NIACSA will be responsible for Compliance and Certification."
+    }, 
+    {
+        "sentence_id,": "5301d56c7d", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Page 18 of 20 National Information Assurance and Cyber Security Strategy (NIACSS) 2012 Provide proper training and awareness sessions to entities employees to help them comply with national standards and policies and to facilitate the implementation of the CIACSS."
+    }, 
+    {
+        "sentence_id,": "ad72cdc26d", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Current approaches are basic, not systematic, subjective, have no clear definitions and boundaries, not thorough, do not follow international standards, and are not able to deal effectively with the threats especially those emerging from the cyberspace."
+    }, 
+    {
+        "sentence_id,": "06787f03aa", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Page 19 of 20 National Information Assurance and Cyber Security Strategy (NIACSS) 3) 4) 5) 6) 7) 8) 9) 2012 Security Awareness and Capacity Building Program National Information Security Standards and Policies Legal and Regulatory Regime National Encryption System International Information Security Cooperation Program Securing National Information Systems/Networks Critical National Infrastructure Protection (CNIP) Program Those nine major national interdependent priorities demand collaboration within Government, with international partners, with the private sector, and with the citizenry of Jordan."
+    }
+]

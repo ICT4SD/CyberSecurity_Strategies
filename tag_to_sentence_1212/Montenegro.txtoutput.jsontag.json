@@ -1,0 +1,393 @@
+[
+    {
+        "sentence_id,": "066453acf9", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Montenegros strategic objective is to build an integrated, functional and efficient cyberspace, in accordance with international standards and principles."
+    }, 
+    {
+        "sentence_id,": "34e15d16cc", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "The cross border nature of threats makes it necessary for the countries to focus on strong international cooperation."
+    }, 
+    {
+        "sentence_id,": "4a70cbbe74", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Recognising its foreign policy priorities through full membership in NATO and EU, provision of mandated safety criteria at the national level has become priority of the entire information society of Montenegro."
+    }, 
+    {
+        "sentence_id,": "e3299d91c8", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "International Standardisation Organisation (ISO) uses a slightly different definition of the term, and describes cyber as complex environment resulting from the interaction of people, software, and services on the Internet by means of technology devices and networks connected to it, which does not exist in any physical form."
+    }, 
+    {
+        "sentence_id,": "83e93d4c18", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Cyber security International Standardisation Organisation (ISO) defines cyber security as preservation of confidentiality, integrity and availability of information in cyberspace."
+    }, 
+    {
+        "sentence_id,": "11143f5ab3", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "ITU also defines broadly the cyber security: collection of tools, policies, security concepts, security safeguards, guidelines, risk management approaches, actions, training, best practices, assurance and technologies that can be used to protect the cyber environment and organisation and users assets."
+    }, 
+    {
+        "sentence_id,": "555d3531fb", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "In 1997, China identified as illegal activity intrusion into computer information system; in 2004 the Council of Europe adopted Convention on Cybercrime which has relatively high standards in the field of international cooperation and for the purpose of prosecuting cybercrime, it was signed by 51 countries."
+    }, 
+    {
+        "sentence_id,": "76ca5b9f0c", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "As the borders of legal prosecution are equal to borders of various states, strong need for close international cooperation has been identified."
+    }, 
+    {
+        "sentence_id,": "efc78f85a2", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "NIPC (National Infrastructure Protection Center) defines cyber terrorism as a criminal act perpetrated through computers resulting in violence, death and/or destruction, and creating terror for the purpose of coercing a government to change its policies."
+    }, 
+    {
+        "sentence_id,": "cf39c99810", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }, 
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "3.1 METHOD OF MONITORING STARTEGY LIFE CYCLE Along with constant engagement about the Strategy, which must follow the corresponding life cycle, here are indicated more specific activities that decision makers should implement: Define a vision, scope, objectives and priorities; Monitor risk assessments at the national level; Consider the existing policies, regulations and capacities; Develop clear management structure; Identify and engage stakeholders; Establish confidential information exchange mechanisms; Develop cyber security contingency plans; Organise cyber security exercises; Establish basic security requirements; Establish incident reporting mechanisms; Increase public awareness of this issue; Maintain the research and development cycle; Strengthen education and training programmes; Establish the ability to respond to incidents; Respond to cybercrime; Engage in international cooperation; Establish public-private partnerships; Balance between security and respect of privacy; Conduct evaluations; Coordinate national cyber security strategy."
+    }, 
+    {
+        "sentence_id,": "8fa430bad5", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards", 
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "who have certain licenses or certificates from this field required by European and international standards."
+    }, 
+    {
+        "sentence_id,": "2200d748d3", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "criminal legislation"
+                ]
+            }
+        ], 
+        "sentence": "Montenegrin criminal legislation complies with the provisions of Budapest Convention."
+    }, 
+    {
+        "sentence_id,": "e35f36f988", 
+        "tag": [
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "national legislation"
+                ]
+            }
+        ], 
+        "sentence": "Budapest convention stipulates that national legislations in their criminal codes are to provide punishment for offenses related to infringement of copyright and related rights, and liabilities assumed by the Bern Convention for the Protection of Literary and Artistic Works, protection by the Agreement on Trade-Related Aspects of Intellectual Property Rights (TRIPS) and World Intellectual Property Organization (WIPO) Copyright Treaty."
+    }, 
+    {
+        "sentence_id,": "59f8746b9f", 
+        "tag": [
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "national legislation"
+                ]
+            }
+        ], 
+        "sentence": "The Convention also includes liability of legal entities, and when it is translated into our national legislation, then we can say that in 2007 Montenegro adopted the Law on liability of legal persons for criminal offenses."
+    }, 
+    {
+        "sentence_id,": "db9822f6a3", 
+        "tag": [
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "national legislation"
+                ]
+            }
+        ], 
+        "sentence": "The Convention recommends to States Parties to adopt all appropriate legislative and other measures in their national legislatures in order to establish certain powers and procedures for the punishment of criminal offenses related to cybercrime."
+    }, 
+    {
+        "sentence_id,": "ea262d332c", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Montenegro adopted a new Criminal Procedure Code, which is in accordance with international legal standards and fully or partially complied national procedural norms with certain procedural provisions stipulated by Budapest Convention."
+    }, 
+    {
+        "sentence_id,": "8f80d4ea7d", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "cirt"
+                ]
+            }
+        ], 
+        "sentence": "17 2013 CYBER SECURITY STRATEGY FOR MONTENEGRO 2017 The following institutions have been identified as crucial in the field of cyber security in Montenegro: Ministry for Information Society and Telecommunications (National CIRT) Ministry of Defence Ministry of the Interior Ministry of Justice National Security Agency Police Administration Military of Montenegro Directorate for the Protection of Classified Information Universities of Montenegro National CIRT is a central point for coordination and exchange of information, cyber defense and elimination of the consequences of cyber security incidents for the area of Montenegro."
+    }, 
+    {
+        "sentence_id,": "b346ccf8bb", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "cirt"
+                ]
+            }
+        ], 
+        "sentence": "18 2013 CYBER SECURITY STRATEGY FOR MONTENEGRO 2017 Figure 1: Position of National CIRT in Cyber Security System of Montenegro Members of this hierarchical infrastructure are also CIRTs or similar organizational bodies established by Internet Service Providers (ISPs), mobile operators, banks, Post Office of Montenegro, EPCG and other companies that are interested or have significant impact on the functioning of national information infrastructure."
+    }, 
+    {
+        "sentence_id,": "1c721a8c61", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "cirt"
+                ]
+            }
+        ], 
+        "sentence": "CIRT has become a member of key international institutions that are relevant in the area of cyber security, such as FIRST (Forum of Incident Response Security Teams); TRUSTED Introducer (TERENA), ITU-IMPACT coalition."
+    }, 
+    {
+        "sentence_id,": "1ad03e6393", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "cirt"
+                ]
+            }
+        ], 
+        "sentence": "Membership in this organization provides for CIRT to connect with other CERT/CIRT teams from around the world."
+    }, 
+    {
+        "sentence_id,": "b1bb26f15c", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "cirt"
+                ]
+            }
+        ], 
+        "sentence": "Key activities: Establishment of National Cyber Security Council Establishment of local CIRT teams 2) Protection of critical information structures in Montenegro Due to constant grow of the number of services that state authorities and private sector provide to citizens as well as to other legal entities, it is necessary to define a critical information infrastructure in Montenegro and develop protection procedures."
+    }, 
+    {
+        "sentence_id,": "a37b9b4857", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "cirt"
+                ]
+            }
+        ], 
+        "sentence": "Key activities: Adopting full and effective legal solutions in the field of cybercrime, which meet the requirements of human rights and the rule of law Strengthening of specialised unit for fight against cybercrime within the Police Administration Strengthening of specialised unit for fight against cybercrime within the Military of Montenegro Strengthening the capacity of National Security Agency in the field of collecting, recording, analysing, storing and exchanging data from cyberspace, and in accordance with the Law on National Security Agency Improving capacities for digital forensics 21 2013 CYBER SECURITY STRATEGY FOR MONTENEGRO 2017 Strengthening the capacity of prosecution in the area of cybercrime and electronic evidence material Support the training of judges, prosecutors and law enforcement authorities in the field of computer crime Promoting financial investigations and preventing fraud and money laundering on the Internet 4) Incident Response By establishing the National CIRT at the Ministry for Information Society and Telecommunications, a big step has been taken towards preventing and eliminating cyber threats that affect the state and its citizens."
+    }, 
+    {
+        "sentence_id,": "80c7557ed3", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "cirt"
+                ]
+            }
+        ], 
+        "sentence": "In cooperation with key institutions in Montenegro, CIRT is dealing with detection, monitoring and prevention of cyber attacks and cybercrime at the state level."
+    }, 
+    {
+        "sentence_id,": "25d71b97c1", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "cirt"
+                ]
+            }
+        ], 
+        "sentence": "CIRT represents a central point for coordinating prevention and protection against computer security incidents on the Internet and other IT security risk for the area of Montenegro."
+    }, 
+    {
+        "sentence_id,": "2c6f0c8212", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "cirt"
+                ]
+            }
+        ], 
+        "sentence": "It is also possible to report incidents on the website www.cirt.me."
+    }, 
+    {
+        "sentence_id,": "195a071ffe", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "cirt"
+                ]
+            }
+        ], 
+        "sentence": "and national CERT/CIRT teams from other countries."
+    }, 
+    {
+        "sentence_id,": "d1810a3dbe", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "cirt"
+                ]
+            }
+        ], 
+        "sentence": "22 2013 CYBER SECURITY STRATEGY FOR MONTENEGRO 2017 Key activities: Provide through National Cyber Security Council the procedure for information exchange between state authorities and administration bodies Provide trainings for employees who work in the field of cyber security within CIRT Enhance cooperation with key institutions from private sector Continue with activities on cooperation of national CIRT of Montenegro with key international organisations and CERT/CIRT teams from other countries."
+    }, 
+    {
+        "sentence_id,": "2a44cf7b9a", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Key activities: Organise projects and campaigns to promote safe use of the Internet with special focus on child protection on the Internet In cooperation with the Ministry of Education and universities in Montenegro, work on organizing special programs from the area of cyber security with the aim of creating staff with highly specialized knowledge from this field Efficient regional and international cooperation."
+    }, 
+    {
+        "sentence_id,": "eb6867e0ff", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "cirt"
+                ]
+            }
+        ], 
+        "sentence": "1 2 3 4 Establish National Cyber Security Council (information security) Establish local CIRT teams in key institutions to fight against cyber crime with a view to establish National CIRT infrastructure Definition and protection of critical information infrastructure Improve cooperation between state authorities and administration bodies Government of Montenegro will appoint Council members upon recommendation of the Ministry for Information Society and Telecommunications (MIST)."
+    }, 
+    {
+        "sentence_id,": "dfecd0ff24", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "cirt"
+                ]
+            }
+        ], 
+        "sentence": "MIST All state authorities and administration bodies who maintain a database of national importance or manage critical part of IT MIST infrastructure need to form local CIRT teams."
+    }, 
+    {
+        "sentence_id,": "a8a18fa52b", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "cirt"
+                ]
+            }
+        ], 
+        "sentence": "Provide through the National Cyber Security Council the procedure for information exchange between state authorities and administration bodies MIST MD MI NCA December 2013 March 2014 September 2014 May 2014 2013 CYBER SECURITY STRATEGY FOR MONTENEGRO 2017 5 6 7 8 Provide trainings for employees who work in the field of cyber security within national CIRT and local CIRT teams In order to respond to incidents in the best and most efficient possible manner, it is necessary to provide vocational training of MIST staff who work on resolving the incidents."
+    }
+]

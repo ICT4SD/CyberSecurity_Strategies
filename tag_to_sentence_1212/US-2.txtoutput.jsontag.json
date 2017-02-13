@@ -1,0 +1,1958 @@
+[
+    {
+        "sentence_id,": "424b56bc39", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "C y b e R s pA C e polICy R ev Iew Assuring a Trusted and Resilient Information and Communications Infrastructure Preface Cyberspace touches practically everything and everyone."
+    }, 
+    {
+        "sentence_id,": "10b33e4f94", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The Nation needs to develop the policies, processes, people, and technology required to mitigate cybersecurity-related risks."
+    }, 
+    {
+        "sentence_id,": "0a38c4c96b", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Thus, addressing network security issues requires a publicprivate partnership as well as international cooperation and norms."
+    }, 
+    {
+        "sentence_id,": "94571aa897", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "i Executive Summary The President directed a 60-day, comprehensive, clean-slate review to assess U.S. policies and structures for cybersecurity."
+    }, 
+    {
+        "sentence_id,": "c817ddaac9", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Cybersecurity policy includes strategy, policy, and standards regarding the security of and operations in cyberspace, and encompasses the full range of threat reduction, vulnerability reduction, deterrence, international engagement, incident response, resiliency, and recovery policies and activities, including computer network operations, information assurance, law enforcement, diplomacy, military, and intelligence missions as they relate to the security and stability of the global information and communications infrastructure."
+    }, 
+    {
+        "sentence_id,": "c8655b22d7", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The scope does not include other information and communications policy unrelated to national security or securing the infrastructure."
+    }, 
+    {
+        "sentence_id,": "787b204e41", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "The public-private partnership for cybersecurity must evolve to define clearly the nature of the relationship, including the roles and responsibilities of each of the partners.2,3,4 The Federal government should examine existing public-private partnerships to optimize their capacity to identify priorities and enable efficient execution of concrete actions.5,6,7 The Nation also needs a strategy for cybersecurity designed to shape the international environ ment and bring like-minded nations together on a host of issues, such as technical standards and acceptable legal norms regarding territorial jurisdiction, sovereign responsibility, and use of force."
+    }, 
+    {
+        "sentence_id,": "12c801e1e8", 
+        "tag": [
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "Implementation of this framework will require developing reporting thresholds, adaptable response and recovery plans, and the necessary coordination, information sharing, and incident reporting mechanisms needed for those plans to succeed."
+    }, 
+    {
+        "sentence_id,": "eb1fd6c1b1", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Federal policy should address requirements for national security, protection of intellectual property, and the availability and continuity of infrastructure, even when it is under attack by sophisticated adversaries."
+    }, 
+    {
+        "sentence_id,": "314cc6dbee", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "We need to demonstrate abroad and at home that the United States takes cybersecurity-related issues, policies, and activities seriously."
+    }, 
+    {
+        "sentence_id,": "a6f70c7ae2", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Appoint a cybersecurity policy official responsible for coordinating the Nations cybersecurity policies and activities; establish a strong NSC directorate, under the direction of the cybersecurity policy official dual-hatted to the NSC and the NEC, to coordinate interagency development of cybersecurity-related strategy and policy."
+    }, 
+    {
+        "sentence_id,": "5a524cf780", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Convene appropriate interagency mechanisms to conduct interagency-cleared legal analyses of priority cybersecurity-related issues identified during the policy-development process and formulate coherent unified policy guidance that clarifies roles, responsibilities, and the application of agency authorities for cybersecurity-related activities across the Federal government."
+    }, 
+    {
+        "sentence_id,": "8d1ee8f72b", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Develop U.S. Government positions for an international cybersecurity policy framework and strengthen our international partnerships to create initiatives that address the full range of activities, policies, and opportunities associated with cybersecurity."
+    }, 
+    {
+        "sentence_id,": "3acb202643", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The December 2008 report by the Commission on Cybersecurity for the 44th Presidency states the challenge plainly: Americas failure to protect cyberspace is one of the most urgent national security problems facing the new administration.10 Protecting cyberspace requires strong vision and leadership and will require changes in policies, technologies, education, and perhaps laws."
+    }, 
+    {
+        "sentence_id,": "58f06eb095", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Industry estimates of losses from intellectual property to data theft in 2008 range as high as $1 trillion.16 Clean-Slate Review Recognizing the challenges and opportunities, the President identified cybersecurity as one of the top priorities of his administration and directed an early 60-day, comprehensive review to assess U.S. policies and structures for cybersecurity."
+    }, 
+    {
+        "sentence_id,": "bd54258cba", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The review addressed all missions and activities associated with the information and communications infrastructure, including computer network defense, law enforcement investigations, military and intelligence activities, and the intersection thereof with information assurance, counterintelligence, counterterrorism, telecommunications policies, and cybersecurity policy as used in this document includes strategy, policy, and standards regarding the security of and operations in cyberspace, and encompasses the full range of threat reduction, vulner ability reduction, deterrence, international engagement, incident response, resiliency, and recovery policies and activities, including computer network operations, information assurance, law enforce ment, diplomacy, military, and intelligence missions as they relate to the security and stability of the global information and communications infrastructure."
+    }, 
+    {
+        "sentence_id,": "d09c541e56", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The scope does not include other information and communications policy unrelated to national security or securing the infrastructure."
+    }, 
+    {
+        "sentence_id,": "49b3060aed", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The review team of government cybersecurity experts inventoried relevant presidential policy directives, executive orders, national strategies, and stud ies from government advisory boards and private-sector entities."
+    }, 
+    {
+        "sentence_id,": "6f6d37def2", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Stakeholdersresponses and public statements (e.g., Congressional testimony) helped to identify key requirements, illumi nate policy gaps, suggest areas of improvement or collaboration, and frame the decision space for cybersecurity-related policies."
+    }, 
+    {
+        "sentence_id,": "fbc23e0336", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The review team found that throughout the evolution of the information and communications infrastructure, missions and authorities were vested with various departments and agencies by laws and policies enacted to govern aspects of what were then very diverse and discrete technologies and industries."
+    }, 
+    {
+        "sentence_id,": "40b97c75ba", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "3 c y b Er S Pac E P o li c y r Ev i Ew The Brooks Act of 1965 gave the National Bureau of Standards (NBS)now the Department of Commerces National Institute of Standards and Technology (NIST)responsibilities for developing automatic data processing standards and guidelines pertaining to federal computer systems."
+    }, 
+    {
+        "sentence_id,": "ad00d5b442", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "In 1994, through the Foreign Relations Authorization Act, the Department of State was delegated authority over foreign policy related to international communication and infor mation policy."
+    }, 
+    {
+        "sentence_id,": "ad10c5a139", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Unifying mission responsibilities that evolved over more than a century will require the Federal government to clarify policies for cybersecurity and the cybersecurity-related roles and responsibilities of various departments and agencies."
+    }, 
+    {
+        "sentence_id,": "05a6c79112", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The review team analyzed responses from more than 20 federal departments and agencies and identified cybersecurity-related policy gaps, overlaps in mission areas, and opportunities to improve collaboration."
+    }, 
+    {
+        "sentence_id,": "13ce4eb6b3", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Presidential Decision Directive 63 (PDD-63), signed in May 1998, established a structure under White House leadership to coordinate the activities of designated lead departments and agencies, in partnership with their counterparts from the private sector, to eliminate any significant vulnerability to both physical and cyber attacks on our critical infrastructures, including especially our cyber systems.17 This policy was updated in 2003 with The National Strategy to Secure Cyberspace."
+    }, 
+    {
+        "sentence_id,": "55b0f593e4", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "It was further augmented later that year in Homeland Security Presidential Directive 7 (HSPD-7), which assigned the Secretary of Homeland Security the responsibility for coordinating the nations overall critical infrastructure protection efforts, including for cyber infrastructure, across all sectors working in cooperation with designated sector-specific agencies within the Executive Branch.18 Both of these policies focused purely on defensive strategies, and HSPD-7 did not encompass protection of Federal government informa tion systems."
+    }, 
+    {
+        "sentence_id,": "9b6adc4f17", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Anchor Leadership at the White House Anchoring and elevating leadership for cybersecurity-related policies at the White House signals to the United States and the international community that we are serious about cybersecurity."
+    }, 
+    {
+        "sentence_id,": "d02ccaa6b0", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The Administration already has established an Information and Communications Infrastructure Interagency Policy Committee (ICI-IPC), chaired by the National Security Council (NSC) and Homeland Security Council (HSC),19 as the primary policy coordination body for issues related to achieving an assured, reliable, secure, and survivable global information and communications infrastructure and related capabilities."
+    }, 
+    {
+        "sentence_id,": "14f76a9766", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The President should consider appointing a cybersecurity policy official at the White House, report ing to the NSC and dual-hatted with the NEC, to coordinate the Nations cybersecurity-related policies and activities."
+    }, 
+    {
+        "sentence_id,": "d7c3287441", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "This individual would chair the ICI-IPC and lead a strong process in consulta tion with other elements of the EOP to resolve competing priorities and coordinate interagency development of policies and strategies for cybersecurity.20 The cybersecurity policy official should participate in all appropriate economic, counterterrorism, and science and technology policy dis cussions to inform them of cybersecurity perspectives.21,22 To be successful, the Presidents cybersecurity policy official must have clear presidential support, authority, and sufficient resources to operate effectively in policy formulation and the coordination of interagency cybersecurity-related activities."
+    }, 
+    {
+        "sentence_id,": "9f7a64de42", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The cybersecurity policy official should be supported by at least two Senior Directors and appropriate staff from the NSC and at least one Senior Director and appropriate staff from the NEC."
+    }, 
+    {
+        "sentence_id,": "55501cb4ac", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "These directorates would report through the cybersecurity policy official and work together in pursuit of the goals set forth in this paper and established as national policy."
+    }, 
+    {
+        "sentence_id,": "e02669e266", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The cybersecurity policy official should not have operational responsibility or authority, nor the authority to make policy unilaterally."
+    }, 
+    {
+        "sentence_id,": "3ba73dc3fa", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Using interagency coordination processes, the cybersecurity policy official should harmonize cybersecurity-related policy and technology efforts across the Federal government, ensure that the Presidents budget reflects federal priorities for cyberse curity, and develop a legislative agenda, all in consultation with the Federal governments Chief Technology Officer and Chief Information Officeralong with the appropriate entities within the Office of Management and Budget (OMB), the Office of Science and Technology Policy (OSTP), and the NEC."
+    }, 
+    {
+        "sentence_id,": "961fa1baf1", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "23 This appointment also would make crisis management more effective by establishing the cyberse curity policy official as the White House action officer for cyber incident response (a similar role to the action officers who help the White House monitor terrorist attacks or natural disasters); depart ments and agencies would continue to perform their operational roles."
+    }, 
+    {
+        "sentence_id,": "3e81bab009", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The cybersecurity policy officialthrough the interagency policy development processshould prepare for the Presidents consideration an updated national strategy to secure the information and communications infrastructure."
+    }, 
+    {
+        "sentence_id,": "cca01eff7f", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "In addition, the cybersecurity policy official should help coordinate intelligence and military policies and strategies for cyberspaceincluding for countering terrorist use of the Internetto ensure integration of all mission equities.The cybersecurity policy official should engage external advisory bodies."
+    }, 
+    {
+        "sentence_id,": "814e7b5678", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The cybersecurity policy official should review the responsibilities of these bodies and propose changes as necessary to optimize advice and eliminate unnecessary duplication."
+    }, 
+    {
+        "sentence_id,": "8b9380ca32", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Such structures would signal transparency and build trust between the civil liberties and privacy community, the public, and the program for cybersecurity, especially if implemented from the outset.26 It is important to reconstitute the Privacy and Civil Liberties Oversight Board (PCLOB), accelerate the selection process for its board members, and consider whether to seek legislative amendments to broaden its scope to include cybersecurity-related issues.27 Other options include: facilitating regular engagement of government civil liberties and privacy advisors on policy matters for cybersecurity or designating a dedicated privacy and civil liberties officer within the NSC (or, more broadly, the EOP) to engage with the private-sector civil liberties and privacy community, an oversight board, and government civil liberties and privacy officers.28, 29 Equally important to developing cybersecurity policy, is assuring the effective execution and imple mentation of that policy to meet the goals of the larger strategy."
+    }, 
+    {
+        "sentence_id,": "47fe804518", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Accordingly, the cybersecurity policy official, in consultation with OMB and other EOP entities, will need to ensure effective imple mentation of cybersecurity-related policy and activities."
+    }, 
+    {
+        "sentence_id,": "ec2193c64f", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The cybersecurity policy official, in consultation with OMB and other EOP entities, should develop structural options to perform appropriate oversight, implementation, and other functions."
+    }, 
+    {
+        "sentence_id,": "c5ccaaa16a", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "These could include among others, developing a JIACTF-like function30 in OMB or elsewhere in the EOP, creating an entity similar to President Eisenhowers Operations Coordinating Board,31 or estab lishing some other entity that, among other things, assists in assessing department and agency performance and oversees federal compliance with cybersecurity standards."
+    }, 
+    {
+        "sentence_id,": "8e5dadccf8", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "31 The board was established by Executive Order 10483 to provide for the integrated implementation for national security policies by several agencies."
+    }, 
+    {
+        "sentence_id,": "75afd7e685", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Some of its main functions included: assuring coordination and implementation of National Security policies, devel oping agreed upon plans of operations, and reporting to the NSC on actions taken."
+    }, 
+    {
+        "sentence_id,": "d6c61b3cf7", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "26 27 9 c y b Er S Pac E P o li c y r Ev i Ew Review Laws and Policies The Presidents cybersecurity policy official should work with departments and agencies to recom mend coherent unified policy guidance where necessary in order to clarify authorities, roles, and responsibilities for cybersecurity-related activities across the Federal government."
+    }, 
+    {
+        "sentence_id,": "f0955c99f7", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Law applicable to information and communications networks is a complex patchwork of Constitutional, domestic, foreign, and international laws that shapes viable policy options."
+    }, 
+    {
+        "sentence_id,": "52e6bf035b", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "In the United States, this patchwork exists because, throughout the evolution of the information and communications infrastructure, the Federal government enacted laws and policies to govern aspects of what were very diverse industries and technologies."
+    }, 
+    {
+        "sentence_id,": "d65ebf7884", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "As traditional telecommunications and Internet-type networks continue to converge and other infrastructure sectors adopt the Internet as a primary means of interconnectivity, law and policy should continue to seek an integrated approach that combines the benefits of flexibility and diver sity of applications and services with the protection of civil liberties, privacy rights, public safety, and national and economic security interests."
+    }, 
+    {
+        "sentence_id,": "9327bb4f40", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "A paucity of judicial opinions in several areas poses both opportunities and risks that policy makers should appreciatecourts can intervene to shape the application of law, particularly in areas involving Constitutional rights."
+    }, 
+    {
+        "sentence_id,": "e5c72df764", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Policy decisions will necessarily be shaped and bounded by the legal framework in which they are made, and policy consideration may help identify gaps and challenges in current laws and inform necessary develop ments in the law."
+    }, 
+    {
+        "sentence_id,": "76ac36416a", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "That process may prompt proposals for a new legislative framework to rationalize the patchwork of overlapping laws that apply to information, telecommunications, networks, and technologies, or the application of new interpretations of existing laws in ways to meet technological evolution and policy goals, consistent with U.S."
+    }, 
+    {
+        "sentence_id,": "162b9a3287", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The cybersecurity policy official, working with departments and agencies, should consult with industry to understand the impact of laws and policies on business operations."
+    }, 
+    {
+        "sentence_id,": "e41d6011b5", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The cyberse curity policy officialin consultation with NSC, OMB, NEC, and OSTPwould define the milestones and success criteria and raise the visibility of cybersecurity within all agency budgets."
+    }, 
+    {
+        "sentence_id,": "30d888bcf9", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The Federal government should develop options to hold department and agency leadership accountable for compliance with cybersecurity policies and to enforce implementation of appropriate cybersecurity procedures."
+    }, 
+    {
+        "sentence_id,": "6b1aa84167", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The Federal government, in partnership with educators and industry, should conduct a national cybersecurity public awareness and education.39 The Presidents cybersecurity policy official should lead the development and direct the implementation of this public awareness strategy and should seek endorsement by Congress; State, local, and tribal gov ernments; the private sector; and the civil liberties and privacy communities."
+    }, 
+    {
+        "sentence_id,": "f1317e729e", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "A group of academics organized by NSF cited DARPAs grand challenges, the Malcolm Baldrige National Quality Award, and the competition to create the Advanced Encryption Standard as other models.47 Expand Federal Information Technology Workforce The Presidents cybersecurity policy official, in coordination with the ICI-IPC, should consider how to better attract cybersecurity expertise and to increase retention of employees with such expertise within the federal service."
+    }, 
+    {
+        "sentence_id,": "4fff77ca6e", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "This effort should seekin continued collaboration with the private sectorto improve the security of interoperable networks through the development of global standards, expand the legal systems capacity to combat cyber crime, continue to develop and promote best practices, and maintain stable and effective Internet governance."
+    }, 
+    {
+        "sentence_id,": "3ea23cc1dd", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Government can assist by considering incentive-based legislative or regulatory tools to enhance 17 c y b Er S Pac E P o li c y r Ev i Ew the value proposition and fostering an environment that facilitates and encourages partnership and information sharing.48, 49, 50 The Presidents cybersecurity policy official should work with relevant departments and agencies and the private sector to examine existing public-private partnership and information sharing mechanisms to identify or build upon the most effective models."
+    }, 
+    {
+        "sentence_id,": "edbe0ccf10", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Public-private partnerships have fostered information sharing and served as a foundation for U.S. critical infrastructure protection and cybersecurity policy for over a decade."
+    }, 
+    {
+        "sentence_id,": "9c8574b297", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "These solutions should identify clear, actionable objectives for the sharing of data and define standards for incident reporting."
+    }, 
+    {
+        "sentence_id,": "bf2101c8dc", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Finally, the Federal government should engage academia, civil liberties and privacy groups, advo cates of open government, and consumers to ensure that government policy adequately considers the broad set of interests that they represent."
+    }, 
+    {
+        "sentence_id,": "2231910531", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Changes in technology often precipitate policy considerations and may require changes in existing processes."
+    }, 
+    {
+        "sentence_id,": "02e16f1965", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Changes in policy (for example, adoption of regulation or tax incentives) can affect decisions regarding procurement or technological research and devel opment."
+    }, 
+    {
+        "sentence_id,": "0c274da129", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "In the past decade, federal communications, infrastructure, and cybersecurity-related policies devel oped along multiple paths."
+    }, 
+    {
+        "sentence_id,": "ec0f3aa0ae", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "A more integrated approach to policy formulation would ensure mutu ally reinforcing objectives and allow the United States to leverage its international opportunities with consistent, more effective positions."
+    }, 
+    {
+        "sentence_id,": "1a638f0ff3", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The United States should adopt an integrated approach to national interests across a range of substantive areasincluding cybersecurity and the protec tion of free speech and other civil libertiesto develop consistent policies."
+    }, 
+    {
+        "sentence_id,": "441ccdf6ce", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The Presidents cybersecurity policy official should, working with departments and agencies, strengthen and integrate interagency processes to formulate and coordinate international cyber security-related positions."
+    }, 
+    {
+        "sentence_id,": "74e4cb76a3", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "In addition, the Federal governmentcontinuing the long-term his tory of collaboration with the private sectorshould develop a proactive engagement plan for use with international standards bodies."
+    }, 
+    {
+        "sentence_id,": "931bc5d6cb", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "This would include taking stock of current policies and coordinating the development, refinement, or reaffirmation of positions to ensure that the full range of cybersecurity-related economic, national security, public safety, and privacy interests are taken into account.55 More than a dozen international organizationsincluding the United Nations, the Group of Eight, NATO, the Council of Europe, the Asia-Pacific Economic Cooperation forum, the Organization of American States, the Organization for Economic Cooperation and Development, the InternationalTelecommunication Union (ITU), and the International Organization for Standardization (ISO)address issues concerning the information and communications infra structure.56 New organizations are beginning to consider cybersecurity-related policies and activities, while others are expanding the scope of their existing work."
+    }, 
+    {
+        "sentence_id,": "f9746561e5", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "These venues consider policies and conduct activities that sometimes conflict and often overlap."
+    }, 
+    {
+        "sentence_id,": "021130e575", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Agreements, standards, or practices promulgated in these organizations have global effects and cannot be ignored."
+    }, 
+    {
+        "sentence_id,": "9076629a71", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "S h a r i n g r E S P o n S i b i li t y f o r c y b Er S E c u r i t y The Presidents cybersecurity policy official should work with departments and agencies to enhance the identification, tracking, and prioritization of international venues, negotiations, and discussions where cybersecurity-related agreements, standards, activities, and policies are being developed."
+    }, 
+    {
+        "sentence_id,": "d1c1a7f011", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The United States and its international allies should leverage each others participation in regional or other forums to drive common policy objectives, focus the work of existing international orga nizations, and limit duplication of effort among them."
+    }, 
+    {
+        "sentence_id,": "a809ea6923", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "For example, standards for cybersecurity forensics are being developed in both the ITU and the ISO."
+    }, 
+    {
+        "sentence_id,": "477410db9c", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Working with the private sector, the Federal government should coordinate and expand international partnerships to address the full range of cybersecurity-related activities, policies, and opportunities associated with the information and communications infrastructure upon which U.S. businesses, government services, the U.S. military, and nations depend."
+    }, 
+    {
+        "sentence_id,": "b46970ccd1", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "For example, the United States should accelerate efforts to help other countries build legal frameworks and capac ity to fight cybercrime and continue efforts to promote cybersecurity practices and standards."
+    }, 
+    {
+        "sentence_id,": "5eb397d14c", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The Presidents cybersecurity policy official should be the White House action officer for cyber incident response (a similar role to the action officers who help the White House monitor terrorist attacks or natural disasters)."
+    }, 
+    {
+        "sentence_id,": "a78882f10e", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The Presidents cybersecurity policy official, working with the ICI-IPC, should determine the most efficient and effective method of developing and maintaining situational awareness and incident response capabilities."
+    }, 
+    {
+        "sentence_id,": "e30d0a46cb", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "In particular, the Presidents cybersecurity policy official should: Work with the private sector to explore how best to apply technical capabilities to the defense of the national infrastructure and what legal framework would be required to ensure the protection of privacy rights and civil liberties."
+    }, 
+    {
+        "sentence_id,": "b6ef55b707", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The government, however, still has considerable work to do before full capability is achieved and may need to consider additional policies to enable full implementation of the strategy."
+    }, 
+    {
+        "sentence_id,": "09f370e168", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The Federal government should undertake a comprehensive review of policies (such as security classification and clearance requirements) that inhibit interagency sharing of cybersecurity infor mation, seek improvements in information sharing, and ensure that they preserve civil liberties and privacy rights and appropriate protection for sensitive information."
+    }, 
+    {
+        "sentence_id,": "6ea8c9d388", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Current policies governing the collection, use, retention, and dissemination of information by federal departments and agencies vary greatly based on statutory authorities, privacy and civil liberties concerns, sources and methods concerns, and historical practice."
+    }, 
+    {
+        "sentence_id,": "663ed64b7c", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "These policies present significant barriers to sharing cybersecurity information across the Federal government."
+    }, 
+    {
+        "sentence_id,": "4d57a0db3d", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "The Federal government should work with the private sector to develop standards for incident reporting by private-sector network operators to the Federal government."
+    }, 
+    {
+        "sentence_id,": "8bbf2d6e6f", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "For example, the legal concepts for standard of care to date do not exist for cyberspace."
+    }, 
+    {
+        "sentence_id,": "62711a85a3", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The Presidents cybersecurity policy official should work with all levels of government, the private sector, and our international partners to develop strategies and plans to encourage the develop ment of innovative cybersecurity solutions and ensure the security and resilience of infrastructure systems."
+    }, 
+    {
+        "sentence_id,": "1f4639f318", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "In addition, as the United States deploys new Smart Grid technology, the Federal government must ensure that security standards are developed and adopted to avoid creating unexpected opportunities for adversaries to penetrate these systems or conduct large-scale attacks."
+    }, 
+    {
+        "sentence_id,": "9f2dde8ed5", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "The President has called for the federal government to work with industry on the development ofnext-generation secure computers and networking for national security applications, tough new standards for cybersecurity and physi cal resilience, and standards for securing personal data.63 The United States should harness the full benefits of innovation to address cybersecurity concerns."
+    }, 
+    {
+        "sentence_id,": "5065a0efa7", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Federal policy must address national security requirements, protection of intellec tual property, and the availability and continuity of infrastructure, even when it is under attack by sophisticated adversaries."
+    }, 
+    {
+        "sentence_id,": "b321d7b068", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The Federal government also must be careful not to create policy and regulation that inhibits innovation or results in inefficiencies or less security."
+    }, 
+    {
+        "sentence_id,": "a9567ceb07", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "As a result, no single, integrated vision exists to guide decision-making by the private sector, academia, and government about policies, standards, research, market development, or procure ment."
+    }, 
+    {
+        "sentence_id,": "148503b37a", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The movement of data and services to third-party network-based servers, referred to as the cloud, introduces new policy challenges for the private sector and governments around the globe."
+    }, 
+    {
+        "sentence_id,": "29d013ec30", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Link R&D Frameworks to Infrastructure Development Under the leadership of the Presidents cybersecurity policy official, in collaboration with other EOP entities and the ICI-IPC, the Federal government should provide a framework for research and development strategies that focus on game-changing technologies that will help meet infrastruc ture objectives, building on the existing Networking and Information Technology Research and Development (NITRD) strategies and other R&D-related work."
+    }, 
+    {
+        "sentence_id,": "b4fd01ec00", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "The Federal government, in collaboration with the private sector and other stakeholders, also should use the infrastructure objectives and the R&D framework to help define goals for national and international standardsbodies."
+    }, 
+    {
+        "sentence_id,": "b6bf46aef0", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "65 66 33 c y b Er S Pac E P o li c y r Ev i Ew The Federal government should work with international partners to develop policies that encourage the development of a global, trusted eco-system that protects privacy rights and civil liberties and governs appropriate use of law enforcement activities to protect citizens and infrastructures."
+    }, 
+    {
+        "sentence_id,": "0ee146ca90", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Integrate Globalization Policy with Supply Chain Security One of the results of the information technology revolution and free trade policies is a global envi ronment for research, design, manufacturing, and servicing of information and communications products by corporations with facilities spread across the globe."
+    }, 
+    {
+        "sentence_id,": "c6f38fbf01", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The Presidents cybersecurity policy official, working with departments and agencies, should: Define procurement strategies through the General Services Administration, building on work by the National Security Agency for the Department of Defense, for commercial prod ucts and services in order to create market incentives for security to be part of hardware and software product designs, new security technologies, and secure managed services; Expand partnerships with State, local, and tribal governments and international partners to maximize the market influence of these procurements; Work with Congress to identify mechanisms that would enable departments and agencies under appropriate, limited situationsto incorporate threat information into acquisition decisions; and 34 v. En co u r ag i n g i n n ovat i o n Work with industry to provide threat information and identify best practices for managing supply chain and insider risks, both from economic and threat perspectives."
+    }, 
+    {
+        "sentence_id,": "4b6b96e850", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "As such, DHS is examining and comparing different approaches and will seek industry consensus on approaches to be brought forward for consideration by standards organizations."
+    }, 
+    {
+        "sentence_id,": "9f1f5ce54a", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "The Federal government should: Develop a coordinated plan for national security and emergency preparedness commu nications capabilities over next-generation networks, including milestones and funding requirements; Develop options for additional services the Federal government could acquire or direct investments the government could make in the information and communications infra structure to enhance the survivability of communications during a time of natural disaster, crisis, or conflict; Coordinate with international partners and standards bodies to support next-generation NS/EP communications capabilities in a globally distributed next-generation environment;67 and Ensure that efforts associated with the development of Executive Branch continuity com munications architectures and next-generation services programs are adequately staffed and resourced."
+    }, 
+    {
+        "sentence_id,": "7a04cf355f", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Appoint a cybersecurity policy official responsible for coordinating the Nations cybersecurity policies and activities; establish a strong NSC directorate, under the direction of the cybersecurity policy official dual-hatted to the NSC and the NEC, to coordinate interagency development of cybersecurity-related strategy and policy."
+    }, 
+    {
+        "sentence_id,": "314b737f72", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Convene appropriate interagency mechanisms to conduct interagency-cleared legal analyses of priority cybersecurity-related issues identified during the policy-development process and formulate coherent unified policy guidance that clarifies roles, responsibilities, and the application of agency authorities for cybersecurity-related activities across the Federal government."
+    }, 
+    {
+        "sentence_id,": "55f6d64e95", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Develop U.S. Government positions for an international cybersecurity policy framework and strengthen our international partnerships to create initiatives that address the full range of activities, policies, and opportunities associated with cybersecurity."
+    }, 
+    {
+        "sentence_id,": "f1899680ae", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Improve the process for resolution of interagency disagreements regarding interpretations of law and application of policy and authorities for cyber operations."
+    }, 
+    {
+        "sentence_id,": "a535f81fc0", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Use the infrastructure objectives and the research and development framework to define goals for national and international standards bodies."
+    }, 
+    {
+        "sentence_id,": "b937bc38c1", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "38 A A1 c y b Er S Pac E P o li c y r Ev i Ew Center for Democracy and Technology, letter from Ari Schwartz and Gregory T. Nojeim, March 20, 2009 Center for Education and Research in Information Assurance and Security, Purdue University, presentation by Eugene Spafford entitled NITRD Strategic Plan Forum, February 2009 Center for Infrastructure Protection, George Mason University, The CIP Report, Volume 7, Number 8, February 2009 Center for National Security Studies, letter from Kate Martin, April 4, 2009 Center for Progressive Regulation, Rena Steinzor, Democracies Die Behind Closed Doors: The Homeland Security Act and Corporate Accountability, March 12, 2003 Center for Strategic and International Studies Commission on Cybersecurity for the 44th Presidency, Securing Cyberspace for the 44th Presidency, December 2008 Center for the Development of Technological Leadership, University of Minnesota, presentation by S. Massoud Amin entitled Smart Grid: Opportunities and Challenges Toward a Stronger and Smarter Grid at the 2009 MIT Energy Conference Accelerating Change in Global Energy, Cambridge, Massachusetts, March 6, 2009 Computer Science & Artificial Intelligence Laboratory, Massachusetts Institute of Technology, presentation by John C. Mallery entitled Mobilizing for Cyber Defense: Transforming Computation & Networking, March 2009 Computing Research Association, paper by Stuart Zweben entitled Computing Degree and Enrollment Trends: From the 2007-2008 CRA Taulbee Survey (undated) Congressional Research Service, report by Harold C. Relyea entitled The Executive Office of the President: An Historical Overview, updated November 26, 2008 Congressional Research Service, report by John Rollins and Anna C. Henning entitled Comprehensive National Cybersecurity Initiative: Legal Authorities and Policy Considerations, March 10, 2009 Davidson, Mary Ann, Oracle Corporation, The Monroe Doctrine in Cyberspace, March 2009 Defense Advanced Research Projects Agency, The National Cyber Range: A National Testbed for Critical Security Research (undated) Department of Defense, Defense Security Information Exchange (DSIE) A partnership for the Defense Industrial Base (undated) Department of Defense, Lt. Col. Michael Barry and Steven D. Shirley, DoD Cyber Crime Center (DC3) Prioritization, March 12, 2009 Department of Health & Human Services, Office of the National Coordinator for Health Information technology, The ONC-Coordinated Federal Health IT Strategic Plan: 2008-2012, June 3, 2008 A2 a P P En d i x a : b i b li o g r a P h y Department of the Treasury, 2008 Update to Banking and Finance Sector-Specific Plan: Sector Profile and Goals (undated) Department of the Treasury, 2008 Update to Banking and Finance Sector-Specific Plan: Appendix B: Statutory Authorities (undated) Department of the Treasury, FSSCC/FBIIC Cyber Security Intelligence and Information Sharing Work Groups, Roadmap for Improved Information Sharing: Situational Analysis and Recommendations for Action (undated) Department of the Treasury, memorandum regarding 60-day cyber review questions (undated) Economist Intelligence Unit, The, The means to compete: Benchmarking IT Industry Competitiveness, July 2007 Educational Technology, Policy, Research, and Outreach, 2008 National Cyberethics, Cybersafety, Cybersecurity Baseline Study, study conducted on behalf of the National Cyber Security Alliance, October 2008 Electronic Frontier Foundation, letter from Lee Tien and Peter Eckersley (undated) Financial Services Information Sharing and Analysis Center, letter from William B. Nelson, March 23, 2009 Forrester, IT Security Remains An Integral Part Of The Enterprise: The State Of Enterprise IT Security: 2008 To 2009, January 29, 2009 Gourley, Bob, Crucial Point LLC, Cloud Computing and Cyber Defense, March 21, 2009 Gourley, Bob, Crucial Point LLC, Open Source Software and Cyber Defense, March 30, 2009 Harper, Jim, Cato Institute, Government-Run Cyber Security?"
+    }, 
+    {
+        "sentence_id,": "f9cfb6211d", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "No, Thanks, TechKnowledge Newsletter, Issue #123, March 13, 2009 Harris Interactive, Online Security and Privacy Study, conducted on behalf of Microsoft and the National Cyber Security Alliance, March 2009 Information Sciences Institute, University of California, Report on National Cyber Defense Initiative Industry Workshop: Report and Recommendations, March 27, 2009 Information Systems Audit and Control Association, IS Standards, Guidelines and Procedures for Auditing and Control Professionals, January 15, 2009 Information Technology Information Sharing and Analysis Center, letter from Brian Willis, February 27, 2009 Information Technology Sector Coordinating Council and Communications Sector Coordinating Council, Response to White House Cyber Review Questions, March 20, 2009 Intelligence and National Security Alliance, 60 Day Cyber Study INSA Response, March 26, 2009 A3 c y b Er S Pac E P o li c y r Ev i Ew Intelligence and National Security Alliance, Critical Issues for Cyber Assurance Policy Reform: An Industry Assessment, March 26, 2009 Intelligence and National Security Alliance, The Missing Link in U.S. Cybersecurity, March 21, 2009 Internet Corporation for Assigned Names and Numbers, Factsheet: Root server attack on 6 February 2007, March 1, 2007 Internet Security Alliance, ISA Comments to Hathaway on creating an International Cyber Security Anchor Program (undated) Internet Security Alliance, ISA Initial Comments on Hathaway 60-Day review a top 10 list of Cyber Principles (undated) Internet Security Alliance, The Cyber Security Social Contract Policy Recommendations for the Obama Administration and 111th Congress: A Twenty-First Century Model for Protecting and Defending Critical Technology Systems and Information (undated) Internet Security Alliance, The Economic and Security Costs of Obsolescent Computer Laws March 24, 2009 Internet Security Alliance, paper by Jeff Brown, Raytheon Company, entitled A National Model for Cyber Protection Through Disrupting Attacker Command and Control Channels, March 2009 Internet Security Alliance, paper by Larry Clinton entitled Cross cutting Issue #2 How Can we create public private partnerships that extend to action plans that work?"
+    }, 
+    {
+        "sentence_id,": "79be6329b8", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "(undated) Internet Security Alliance, paper by Larry Clinton entitled Cyber-Insurance Metrics and Impact on Cyber-Security (undated) Internet Security Alliance, paper by Larry Clinton entitled Issue Area 3: Norms of Behavior Hathaway Questions (undated) Internet Security Alliance, paper by Scott Borg entitled Securing the Supply Chain for Electronic Equipment: A Strategy and Framework (undated) Internet Security Alliance, paper by Sentar, Inc., Position paper for Obama 60 Day review on Cyber Security: Utilization of Small Business (SBs) for Innovative Cyber Security Research and Development, March 26, 2009 Jackson, William, Agency AwardFederal Aviation Administration: Protect and serve, Government Computer News, October 7, 2007 Kellermann, Tom, Core Security Technologies, Proactive Public Policy per Cybersecurity, March 18, 2009 Kellermann, Tom, Core Security Technologies, Red teaming idea in detail, March 11, 2009 Khater, Rami and Rachel Schaffer, Georgetown University, untitled memorandum, April 13, 2009 Markle Foundation, Nation at Risk: Policy Makers Need Better Information to Protect the Country, March 10, 2009 A4 a P P En d i x a : b i b li o g r a P h y Massachusetts Institute of Technology, The Microphotonics Center, executive overview of the 2005 communications technology roadmap entitled Microphotonics: Hardware for the Information Age, 2005 National Association of State Chief Information Officers, NASCIO State CIO-CISO Cybersecurity Priorities Survey Summary, March 3, 2009 National Coordination Office for Networking and Information Technology Research and Development, Sally E. Howe, presentation entitled Workshop Deliverables: Roadmap, Hard Problems, and Report at the HCSS-Sponsored National Workshop on Beyond SCADA: Networked Embedded Control for Cyber Physical Systems, November 8, 2008 National Cyber Forensics & Training Alliance and Cyber Initiative & Resource Fusion Unit, Cyber Fusion Center, Pittsburgh, PA: Executive Briefing (undated) National Cyber Security Alliance and Symantec, NCSA-Symantec National Cyber Security Awareness Study: Newsworthy Analysis, October 2008 National Cyber Security Alliance, National Cyber Security Alliance in Brief (undated) National Research Council, report edited by Robert W. Lucky and Jon Eisenberg entitled Renewing U.S. Telecommunications Research, 2006 National Science and Technology Council, Subcommittee on Biometrics and Identity Management, Identity Management Task Force Report 2008, 2008 National Science Foundation / Intelligence Advanced Research Projects Activity / National Security Agency, workshop report by David Evans, (University of Virginia) Principal Investigator, for the NSF/IARPA/NSA Workshop on the Science of Security, Berkeley, California, November 17-18, 2008 (unpublished) National Science Foundation, Notes for White House 60-day Cyber-Policy Review, March 25, 2009 National Science Foundation, NSF Security Program Overview, March 26, 2009 National Science Foundation, Responses to Questions Posed by Ms. Melissa Hathaway During Her Presentation at the National Science Foundation on March 18, 2009, March 31, 2009 National Security Telecommunications Advisory Committee, NSTAC Response to the Sixty-Day Cyber Study Group, March 12, 2009 Networking and Information Technology Research and Development Program, High Confidence Software and Systems Coordinating Group, High-Confidence Medical Devices: Cyber-Physical Systems for 21st Century Health Care, February 2009 Office of the Director of National Intelligence, Joint Interagency Cyber Task Force, Steven R.Chabinsky, presentation entitled Intrusion Detection and Prevention (What, Where, How and Who) (undated) Pederson, Perry, Wurldtech Labs, Project Aurora and the Smart Grid (undated) A5 c y b Er S Pac E P o li c y r Ev i Ew Pinkney, Kevin R., Putting Blame Where Blame is Due: Software Manufacturer and Customer Liability for Security-related Software Failure, Albany Law Journal of Science & Technology, Volume 13, 2002 Raduege, Harry D., Jr., Evolving Cybersecurity Faces a New Dawn, SIGNAL Magazine, December 2008 Raduege, Harry D., Jr., Future Defense Department Cybersecurity Builds on the Past, SIGNAL Magazine, February 08 SANS Institute, The United States Cyber Challenge, May 8, 2009 SAS Institute, INSA Cyber Task Force Submission (undated) Schneider, Fred B., and Birman, Kenneth P., Cornell University, The Monoculture Risk put into Context, IEEE Security & Privacy, January/February 2009 Spafford, Eugene H. and Annie I Antn, The Balance of Privacy and Security, Controversies in Science and Technology, Vol II, ed."
+    }, 
+    {
+        "sentence_id,": "dfc7c1f34f", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "MaryAnn Liebert, Inc, NYC, NY, 2008 Spoonamore, Stephen and Ronald L. Krutz, Smart Grid and Cyber Challenges: National Security Risks and Concerns of Smart Grid, March 2009 SRI International, Computer Science Laboratory, technical report addendum by Phillip Porras, Hassen Saidi, and Vinod Yegneswaran entitled Conficker C Analysis, March 19, 2009 TechAmerica, TechAmerica Response to 60-Day Cyber Security Review, March 2009 Trevithick, Paul, William Coleman, John Clippinger, and Kim Taipale, Identity and Resilience (undated) U.S. Chamber of Commerce, letter from Ann Beauchesne, March 27, 2009 United States Congress, American Recovery and Reinvesment Act of 2009, Public Law 111-5 United States Congress, Year 2000 Information and Readiness Disclosure Act, Public Law 105-271 United States Government Accountability Office, David A. Powner, Information Technology: Federal Laws, Regulations, and Mandatory Standards for Securing Private Sector Information Technology Systems and Data in Critical Infrastructure Sectors, September 16, 2008 United States House of Representatives, 111th Congress, A bill to authorize the Secretary of Homeland Security to establish a program to award grants to institutions of higher education for the establishment or expansion of cybersecurity professional development programs, and for other purposes."
+    }, 
+    {
+        "sentence_id,": "f68c517d95", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "(H.R.266), as introduced in the House, January 7, 2009 United States House of Representatives, hearing before the Armed Services Committee, Subcommittee on Strategic Forces, Status of US Strategic Programs, March 17, 2009 A6 a P P En d i x a : b i b li o g r a P h y United States House of Representatives, hearing before the Armed Services Committee, Subcommittee on Strategic Forces, Statement of General Kevin P. Chilton, Commander, United States Strategic Command, March 17, 2009 United States House of Representatives, hearing before the Committee on Homeland Security, Subcommittee on Emerging Threats, Cybersecurity, and Science and Technology, Statement of Chairman Bennie G. Thompson, Reviewing the Federal Cybersecurity Mission, March 10, 2009 United States House of Representatives, hearing before the Committee on Homeland Security, Subcommittee on Emerging Threats, Cybersecurity, and Science and Technology, Testimony of Amit Yoran, Netwitness Corporation, Reviewing the Federal Cybersecurity Mission, March 10, 2009 United States House of Representatives, hearing before the Committee on Homeland Security, Subcommittee on Emerging Threats, Cybersecurity, and Science and Technology, Federal Cybersecurity Mission, March 10, 2009 United States House of Representatives, hearing before the Committee on Homeland Security, Subcommittee on Emerging Threats, Cybersecurity, and Science and Technology, Statement for the Record of Sen P. McGurk, Director, Control Systems Security Program, National Cyber Security Division, National Protection and Programs Directorate, Department of Homeland Security, March 24, 2009 United States House of Representatives, hearing before the Committee on Homeland Security, Subcommittee on Emerging Threats, Cybersecurity, Science and Technology, Statement of Chairwoman Yvette D. Clarke, March 10, 2009 United States House of Representatives, hearing before the Committee on Homeland Security, Subcommittee on Emerging Threats, Cybersecurity, and Science and Technology, Statement of David Powner, Director, Information Technology Management Issues, United States Government Accountability Office, National Cybersecurity Strategy: Key Improvements are Needed to Strengthen the Nations Posture, March 10, 2009 United States House of representatives, hearing before the Committee on Homeland Security, Subcommittee on Emerging Threats, Cybersecurity, and Science and Technology, Statement of James A. Lewis, Center for Strategic and International Studies, Reviewing the Federal Cybersecurity Mission, March 10, 2009 United States House of Representatives, hearing before the Committee on Homeland Security, Subcommittee on Emerging Threats, Cybersecurity, and Science and Technology, Testimony of Mary Ann Davidson, Chief Security Officer, Oracle Corporation, March 10, 2009 United States House of Representatives, hearing before the Committee on Homeland Security, Subcommittee on Emerging Threats, Cybersecurity, Science and Technology, Written Testimony of Scott Charney, Corporate Vice President, Microsoft Corporations Trustworthy Computing, Securing Americas Cyber Future: Simplify, Organize and Act, March 10, 2009 A7 c y b Er S Pac E P o li c y r Ev i Ew United States House of Representatives, hearing before the Committee on Science and Technology, Statement of Dr. Christopher L. Greer, Director, National Coordination Office for Networking and Information Technology Research and Development, April 1, 2009 United States House of Representatives, hearing before the Committee on Transportation and Infrastructure, Subcommittee on Aviation, Statement of James C. May, President and CEO, Air Transport Association of America, Inc., Air Traffic Control Modernization and NextGen: Near-Term Achievable Goals, March 18, 2009 United States House of Representatives, hearing before the Committee on Transportation and Infrastructure, Subcommittee on Aviation, Statement of The Honorable Calvin L. Scovel III, Inspector General, U.S. Department of Transportation, Federal Aviation Administration: Actions Needed to Achieve Mid-term NextGen Goals, March 18, 2009 United States House of Representatives, hearing before the Permanent Select Committee on Intelligence, Annual Threat Assessment by Dennis C. Blair, Director of National Intelligence, February 25, 2009 United States House of Representatives, Permanent Select Committee on Intelligence, HPSCI White Paper on Cyber security, December 10, 2008 United States Secret Service, memorandum entitled Electronic Crime task Forces (ECTF) (undated) United States Senate, 111th Congress, Senate Bill S.773, Cybersecurity Act of 2009, as introduced in the Senate, April 1, 2009 United States Senate, 111th Congress, Senate Bill S.778, A bill to establish, within the Executive Office of the President, the Office of the National Cybersecurity Advisor, as introduced in the Senate, April 1, 2009 United States Senate, hearing before the Committee on Energy and Natural Resources, Questions for Patrick Gallagher, National Institute of Standards and Technology, March 3, 2009 United States Senate, hearing before the Committee on Energy and Natural Resources, Statement of Patricia Hoffman, Acting Assistant Secretary for Electricity Delivery and Energy Reliability, U.S. Department of Energy, March 3, 2009 United States Senate, hearing before the Committee on Energy and Natural Resources Testimony of Patrick D. Gallagher, Ph.D., Deputy Director, National Institute of Standards and Technology, United States Department of Commerce, March 3, 2009 Vijayan, Jaikumar, PCI security standard gets flayed at House hearing, Computerworld, April 1, 2009 A8 appendix b: methodology The globally interconnected information and communications infrastructure often known as cyberspaceunderpins every facet of American society and provides critical support for the national economy, civil infrastructure, security, and military power."
+    }, 
+    {
+        "sentence_id,": "0367f15782", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Recognizing its importance to the nation, the President directed the National and Homeland Security Councils to conduct a 60-day compre hensive, clean-slatereview to assess U.S. cyberspace policies and structures."
+    }, 
+    {
+        "sentence_id,": "7adb89435d", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Defining the scope of the review and establishing a clear end-state goal Pursuant to the Presidents direction, the White House staff established the reviews scope and defined the end-state goal, which was vetted through the Interagency Policy Committee (IPC) pro cess and approved by the NSC-HSC Deputies Committee."
+    }, 
+    {
+        "sentence_id,": "01b7aa61cc", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "This review addresses all missions and activities associated with the information and communica tions infrastructure, including computer network defense, military, and intelligence missions and the intersection thereof with information assurance, counter intelligence, counter terrorism and telecommunications policies."
+    }, 
+    {
+        "sentence_id,": "76b0856eb8", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "It seeks to identify the policy gaps, organizational redundancies, overlapping missions, legal questions, civil liberties and privacy concerns, and other unresolved issues across the above mission spaces."
+    }, 
+    {
+        "sentence_id,": "ef41b7d837", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "B-1 c y b Er S Pac E P o li c y r Ev i Ew Inventorying requirements of cyber, communications, and homeland security and counter-terrorism mission areas as well as recommendations from government advisory boards and private-sector studies During the first ten days, the review team inventoried more than 250 requirements (some overlap ping) from the relevant Presidential policy directives, executive orders, national strategies, and studies from government advisory boards and private sector entities."
+    }, 
+    {
+        "sentence_id,": "69b44b99b9", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Stakeholdersresponses and public statements (e.g., Congressional testimony) helped to identify key requirements, illuminate policy gaps, suggest areas of improvement or collaboration, and frame the decision space for cyberspace policy."
+    }, 
+    {
+        "sentence_id,": "b0b90eb896", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The National Science Foundation assembled more than sixty academics from universities across the country to contribute to the 60-day cyber policy review."
+    }, 
+    {
+        "sentence_id,": "d13c9b1676", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Recognizing that the Nation must identify ways to leverage State resources, provide assistance, and continue cooperation, the 60-day cyber policy review team engaged with state Chief Information Security Officers (CISO) and Chief Information Officers (CIO) through the Office of Management and Budgets E-Government and Information Technology Office and the Department of Homeland Securitys US-CERT."
+    }, 
+    {
+        "sentence_id,": "25af881217", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The 60-day cyber policy review team reached out to regulatory agencies for their views on sound regulation for an effective market place."
+    }, 
+    {
+        "sentence_id,": "f098c96cd4", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The United States Congress The 60-day cyber policy review team recognizes that Congress must be engaged at every stage of the review and will have important roles to play going forward."
+    }, 
+    {
+        "sentence_id,": "a5981c2454", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The 60-day cyber policy review team engaged with key U.S. allies to learn how they are organizing for this challenge and to understand their mission requirements and priorities."
+    }, 
+    {
+        "sentence_id,": "4bbf7b80fc", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "B-4 a P P En d i x b : mEthodology Conducting gap analyses, reviewing program effectiveness, and identifying policy gaps, overlaps, and opportunities for collaboration The review team queried and analyzed responses from 21 Federal departments and agencies to identify areas where cyberspace policy gaps exist, where mission areas overlap, and where there are opportunities for collaboration between agencies."
+    }, 
+    {
+        "sentence_id,": "f2d9b63836", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "This analysis suggested that any complete national cyber policy must consider, at a minimum, the following elements: Governance: Encompasses U.S. Government (USG) structures for policy development and coordination of operational activities related to the cyber mission across the Executive Branch."
+    }, 
+    {
+        "sentence_id,": "8576f99e49", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "This element includes standards, identity management, authentication and attribution, software assurance, research and development, procurement, and supply chain risk management."
+    }, 
+    {
+        "sentence_id,": "fc3d301d2a", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Norms of Behavior: Addresses those elements of law, regulation, and international treaties and undertakings, as well as consensus-based measures, such as best practices, that col lectively circumscribe and define standards of conduct in cyberspace."
+    }, 
+    {
+        "sentence_id,": "4618afeb00", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The roadmap includes an organizational structure and proposals for accountability mechanisms that will ensure coordinated policies."
+    }, 
+    {
+        "sentence_id,": "61a8e3e826", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "It also led to the broad outlines of a proposed interagency cyber policy action plan."
+    }, 
+    {
+        "sentence_id,": "d943a53e1f", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "It also attempts to trace at a high level some of the corresponding milestones in law, regulation, and policy that were intended to accommodate needs associated with these changing uses."
+    }, 
+    {
+        "sentence_id,": "d1a597c51c", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Rooted in the Nations experience with wire and radio media and com munications in the 20th Century, present U.S. laws and policies governing cyberspace reflect serial attempts to keep pace with newly emerging challenges presented by the rapid technological and marketplace changes in communications, computing, networking, and security technologies."
+    }, 
+    {
+        "sentence_id,": "98cb09247f", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The picture that emerges shows this landscape to be an elaborate patchwork of domestic and international laws and structures that shape policy options."
+    }, 
+    {
+        "sentence_id,": "3d6290e41b", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "The utility and consequent worldwide adoption and rapid evolution of these new communications media prompted the creation of new legal and regulatory regimes both internationally and domestically to set rates, standardize terms of service, and allocate frequency bands to radio services by country."
+    }, 
+    {
+        "sentence_id,": "e617f4715d", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": ".2 Since its inception, the FCC has remained the primary institution responsible for formulating and implementing U.S. policies and regulations governing private, commercial electronic communica tions within the United States and between the United States and other countries."
+    }, 
+    {
+        "sentence_id,": "734e3de7f6", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Separate from the FCC, however, the White House with support from the Department of Commerce retained a role in management of the Federal governments use of radio spectrum, and in the development of executive branch policies related to communications, for another 44 years.3 Innovation in electronic communications continued to progress during the 1940s."
+    }, 
+    {
+        "sentence_id,": "573ec1c0c2", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "As noted above, for most of the 20th Century, the White House directly managed executive branch communications policy and the Federal governments use of the radio spectrum, supported by the Department of Commerce."
+    }, 
+    {
+        "sentence_id,": "66f917a311", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "In Executive Order 12046,4 President Carter dissolved the White House Office of Telecommunications Policy (OTP) and trans 47 U.S.C."
+    }, 
+    {
+        "sentence_id,": "7b613d21bf", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Responsibility for Federal radio spectrum management and development and presentation of telecommunications and information policies on behalf of the Executive Branch were transferred to the Commerce Department, and a new agency, the National Telecommunications and Information Administration (NTIA), was established to perform them.5 These responsibilities were codified by the NTIA Organization Act in 1992.6 By contrast, OTPs responsibility to advise the President, and develop and establish policies, regarding procurement and management of Federal telecommuni cations systems, were reassigned to the Office of Management and Budget (OMB).7 Similarly, OTPs responsibilities relating to emergency and national security communications were reassigned to the National Security Council (NSC) and the Office of Science and Technology Policy (OSTP).8 Use of Communications Technologies in Support of Critical Government Functions As public adoption of each new generation of communications and information technology grew, use by government correspondingly increased."
+    }, 
+    {
+        "sentence_id,": "b2f030b484", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "For example, in the context of the Communications Assistance for Law Enforcement Act (CALEA), the Department of Justice and the Federal Bureau of Investigation have submitted comments regarding published industry standards that do not satisfy CALEAs requirements or adequately address law enforcement and national security equities."
+    }, 
+    {
+        "sentence_id,": "7d1994cc89", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "606, policy direction of the development and operation of the National Communications System (NCS), and coordinating the develop ment of policy, plans, programs and standards for the mobilization and use of the Nations telecommunications resources during a crisis."
+    }, 
+    {
+        "sentence_id,": "511bf6f9d4", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "In 1978, Congress enacted the Foreign Intelligence Surveillance Act (FISA),16 which established the framework for conducting electronic surveillance for foreign intelligence purposes.17 World events and changes in the communications marketplace also prompted changes in govern ment organizational structures and policies."
+    }, 
+    {
+        "sentence_id,": "847de1a13c", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "For example, it charged the NSC to provide policy direction for the exercise of the Presidents war power functions under the Communications Act but gave the OSTP responsibility to direct the exercise of those functions.21 The E.O."
+    }, 
+    {
+        "sentence_id,": "44a64c8221", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "The Brooks Act,23 enacted in 1965, gave the National Bureau of Standardsnow the Department of Commerces National Institute of Standards and Technology (NIST)responsibilities for developing automatic data processing standards and guidelines pertain ing to Federal computer systems."
+    }, 
+    {
+        "sentence_id,": "9695d69d90", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "The Computer Security Act of 1987,24 which further amended the Brooks Act, gave NIST the authority for developing standards and guidelines for the security of non-national security systems and required NIST to collaborate with NSA."
+    }, 
+    {
+        "sentence_id,": "c6ea17c694", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "The Federal Information Security Management Act of 2002 (FISMA)25 amended the Computer Security Act, leaving intact the roles of NIST and NSA, but it gave OMB expanded information secu rity oversight responsibilities over all Executive Branch departments and agencies; it authorized the Director of OMB to require agencies to follow the standards and guidelines developed by NIST, review agency security programs annually and approve or disapprove them, and take authorized actions to ensure compliance."
+    }, 
+    {
+        "sentence_id,": "29c68924ac", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "NSD-42, issued in July 1990, expanded the scope of a previously chartered national security telecommunications policy coordinating body to encompass information systems as well."
+    }, 
+    {
+        "sentence_id,": "b2068af49a", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The NSTISSC was charged, among other things, to provide systems security guidance for national security systems for Executive Branch departments and agencies and to develop appropri ate operating policies, procedures, guidelines, instructions, standards, objectives, and priorities as may be required ."
+    }, 
+    {
+        "sentence_id,": "965b220309", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "27 National Security Directive 42, National Policy for the Security of National Security Telecommunications and Information Systems (July 5, 1990), 5(b)."
+    }, 
+    {
+        "sentence_id,": "b84f6df9d3", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "While this evolution was progressing, policy makers in Congress and the Executive Branch were separately considering dramatic changes to the legal and regulatory framework that had governed communications technologies and markets for decades."
+    }, 
+    {
+        "sentence_id,": "710a50a752", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Invigorated by the emergence of competition in the long distance telephone market following the breakup of AT&T, policy makers reexamined regulatory frameworks that had historically perpetu ated monopolistic market structures (e.g., local exchange telephone and cable television services) and sought to replace them with new regimes that would stimulate the emergence of competition, lowering costs for consumers and accelerating the development and deployment of advanced telecommunications infrastructures."
+    }, 
+    {
+        "sentence_id,": "0e3d71592c", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "29 Following on this research, international packet switching network standards were developed in collaboration with entities in other countries under the auspices of the ITU."
+    }, 
+    {
+        "sentence_id,": "f6d14ac710", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Cognizant of the potential of then-emerging digital communications networks, the 1996 Act articulated that: the policy of the United States [is] ."
+    }, 
+    {
+        "sentence_id,": "c5508e9b82", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Thus, by 1998, as the scope of the risk associated with these depen dences expanded to encompass not only converged government communications and information systems, but also the systems supporting national critical infrastructures, policy makers began to recognize the need for an integrated effort that coupled the capabilities of government and the private sector to mitigate these risks."
+    }, 
+    {
+        "sentence_id,": "fda43a1ef4", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Cybersecurityemerged as a distinct policy area."
+    }, 
+    {
+        "sentence_id,": "583276bbd8", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Presidential Decision Directive 63 (PDD-63), signed in May 1998, established a structure under White House leadership to coordinate the activities of designated lead departments and agencies, in partnership with their counterparts from the private sector, to eliminate any significant vulnerability to both physical and cyber attacks on our critical infrastructures, including especially our cyber systems.34 As these efforts matured, the White House in late 2001 augmented the structure by formally char tering the Presidents Critical Infrastructure Protection Board, an interagency body with cabinet-level representation from the departments and agencies and chaired by the Special Advisor to the President for Cyberspace Security in the NSC who wasassisted by an appropriately sized staff within the White House Office.35 The board was charged torecommend policies and coordinate programs for protecting information systems for critical infrastructure, including emergency preparedness communications, and the physical assets that support such systems."
+    }, 
+    {
+        "sentence_id,": "75f8ccfaec", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "This mandate also included specific responsibilities to coordinate, in consultation with relevant offices, a range of functions including: outreach to and consultation with the private sector and State and local government, information sharing, cyber incident response programs and policies, federal government research and development for information system security and emergency preparedness communications, law enforcement programs against cyber crime, international information infrastructure protection, and legislative recommendations relating to protection of information systems.36 This coordinating function continued until March 2003, when the White House dissolved the board and its supporting staff function incident to the creation of the Department of Homeland Security (DHS)."
+    }, 
+    {
+        "sentence_id,": "ae189dd783", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Within months after coming into existence, DHS established the National Cyber Security Division within its Office of Infrastructure Protection as a differentiated component to manage the Departments cyber security policy and operational responsibilities.37 Shortly after creating the NSCD, DHS established the United States Computer Emergency Readiness Team (US-CERT) as the successor to FedCIRC, to serve as the principal cyber watch, warning, and analysis center for Federal civilian departments and agencies and an operational point of coordination with the private sector for cyber incident response."
+    }, 
+    {
+        "sentence_id,": "8d580eca37", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "It reiterated U.S. policy to enhance the protection of the nations critical infrastructure, including its cyber infrastructure."
+    }, 
+    {
+        "sentence_id,": "8c4aa2275e", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The iterative nature of the statutory and policy developments over time has led to a mosaic of government laws and structures gov erning various parts of the landscape for information and communications security and resiliency."
+    }, 
+    {
+        "sentence_id,": "f72a694974", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Effectively addressing the fragmentary and diverse nature of the technical, economic, legal, and policy challenges will require a leadership and coordination framework that can stitch this patchwork together into an integrated whole."
+    }, 
+    {
+        "sentence_id,": "117bc57dcb", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Memo 252 (1963), Established National Communications System Brooks Act, 1965 Established NIST responsibility for IT standards and technical assistance 1967 case: Katz v. United States Communications Act of 1934; Formed the FCC Late 1980s: TCP/IP protocol 1983 : commercial adopted and used by institutions cellular networks worldwide developed NSDD-97 (1983) National Security Telecommunications Policy 1980 1985 1990 Electronic Communications Privacy Act of 1986 Counterfeit Access Device and Computer Fraud and Abuse Act, 1984 Foreign Intelligence Surveillance Act of 1978 (FISA) 1994: World Wide Web, first meeting of 1990s: the WWW Fiber optics consortium ; surpasses traditional cable Congress codifies existing State Department authority over foreign policy related to communications and information policy 1995 HSPD-7 (2003) Critical Infrastructure Identification , Prioritization, and Protection Computer Security Act of 1987 2000 2005 C-13 2010 Protect America Act, 2007 Health Insurance Portability and Accountability Act of 1996 2002: Federal Information Security Management Act; PDD-63 Homeland Security FISA (1998) Act of 2002; Amendments Critical Sarbanes-Oxley Act, 2008 Infrastructure Act Protection Intelligence Reform and Terrorism Gramm Prevention Act Leach 2004 Bliley Act NSPD-54/ (1999) HSPD-23 USA PATRIOT Act, 2001 Modern ITU formed by merger of ITU Convention and IRC, 1934 1.0B PCs in use W/W 2006: latest revision of ITU Constitution/ Convention Telecommun -ications Act of 1996 EO 12472 (1984) National security and emergency preparedness telecommunications functions EO 12333 (1981) United States Intelligence Activities Significant Laws and Governance 1960s - present (2008) USA PATRIOT Act and Terrorist Prevention Reauthorization Act, 2005"
+    }
+]

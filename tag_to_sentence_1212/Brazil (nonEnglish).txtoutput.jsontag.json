@@ -1,0 +1,86 @@
+[
+    {
+        "sentence_id,": "0a945728c2", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "2.O Ministrio da Defesa propor a criao de estrutura, a si subordinada, encarregada da coordenao dos processos de certificao, de metrologia, de normatizao e de fomento industrial."
+    }, 
+    {
+        "sentence_id,": "f8ba5ca31c", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "CC e MD 30/06/2009 Apresentao de estudo de viabilidade para a criao e regulamentao de um Servio Civil, em todo o territrio nacional, a ser prestado por cidados que no forem designados para a realizao do Servio Militar CC, MD, MPOG e SAE, MEC e SADE 30/06/2009 Projeto de Lei propondo a criao de quadro especfico de Especialistas de Defesa, para a incluso no Plano nico de Carreira dos servidores da rea de defesa, em complementao s carreiras existentes na administrao civil e militar CC, MD e MPOG 30/06/2009 Plano de Transferncia da ESG para Braslia e proposta de medidas complementares necessrias MD 31/03/2009 Projeto de Lei alterando a Lei de Criao da ESG, viabilizando a criao de cargos DAS CC, MD e MPOG 30/06/2009 Proposta de Poltica de Ensino para as Foras Armadas, em particular no nvel de Altos Estudos MD e MEC 31/03/2009 Proposta de Modificao da Lei do Sistema Nacional de Mobilizao CC, MD e SAE 30/06/2009 Projeto de Lei propondo nova estrutura do MD, com a criao de rgo encarregado do processo de aquisio de produto de defesa, devidamente integrado ao processo de catalogao de material CC, MD e MPOG 31/03/2009 Proposta de criao de estrutura, subordinada ao MD, encarregada da coordenao dos processos de certificao, de metrologia, de normalizao e de fomento industrial MD, MDIC e MPOG 31/03/2009 Proposta de modificaes na Lei n 8.666 e legislao complementar, possibilitando regime jurdico e econmico especial para compras de produtos de defesa junto s empresas nacionais CC, MD, MDIC, MT, MPOG e SAE 31/03/2009 Proposta de modificaes na legislao referente tributao incidente sobre a indstria nacional de defesa, por meio da criao de regime jurdico especial que viabilize incentivos e desonerao tributria iniciativa privada na fabricao de produto de defesa prioritrio para as Foras Armadas CC, MD, MDIC, MF, MT, MPOG e SAE PRAZO TAREFA A REALIZAR RESPONSVEL 31/03/2009 Proposta de modificaes na legislao referente viabilizao, por parte do Ministrio da Fazenda, de procedimentos de garantias para contratos de exportao de produto de defesa de grande vulto CC, MD, MF, MT, MDIC e SAE 30/06/2009 Propostas de alteraes na LCP 97, na LCP 117 e na Lei n 9.299, para adequ-las Estratgia Nacional de Defesa CC e MD A ESTRATGIA NACIONAL DE DEFESA E SEUS DOCUMENTOS DECORRENTES SERO COMPLEMENTADOS POR ANEXOS."
+    }, 
+    {
+        "sentence_id,": "05101a61f2", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Jorge Armando Felix Ministro Chefe do Gabinete de Segurana Institucional da Presidncia da Repblica LISTA DE SIGLAS E ABREVIATURAS ABNT Associao Brasileira de Normas Tcnicas APF Administrao Pblica Federal BS British Standard CAIS Centro de Atendimento a Incidentes de Segurana CERT.br Centro de Estudos, Resposta e Tratamento de Incidentes de Segurana no Brasil CETIR Gov Centro de Tratamento de Incidentes de Segurana em Redes de Computadores da Administrao Pblica Federal CGSI Comit Gestor de Segurana da Informao CREDEN Cmara de Relaes Exteriores e Defesa Nacional DDoS Distributed Denial of Service D.O.U."
+    }, 
+    {
+        "sentence_id,": "e0f9e2c229", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "As certificaes em segurana devem servir como forma de manter gestores de segurana atualizados."
+    }, 
+    {
+        "sentence_id,": "3347523f5d", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Computer Security Division, Information Technology Laboratory, National Institute of Standards and Technology."
+    }, 
+    {
+        "sentence_id,": "9527467408", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "Metas: Implementar e disponibilizar a Agenda Brasil Digital de Governo Eletrnico sociedade; Implementar Modelo de Acessibilidade de Governo Eletrnico (e- MAG) nos stios governamentais; Massificao do uso de Certificados Digitais da ICP- Brasil."
+    }, 
+    {
+        "sentence_id,": "93b05c5eea", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "02D2 - Massificao e aperfeioamento da Certificao Digital ICP Brasil e outras tecnologias de segurana da informao e identificao digital necessrias s transaes eletrnicas de interesse da Unio, dos Estados, dos Municpios e da sociedade, mediante a garantia de pleno funcionamento da Infraestrutura de Chaves Pblicas Brasileira e de Carimbo do Tempo da ICP Brasil, como forma de assegurar sua interoperabilidade, capilaridade, acessibilidade e eficcia jurdica s transaes e documentos eletrnicos, bem como contribuir para a preservao do meio ambiente ao permitir a desmaterializao de processos e documentos."
+    }
+]

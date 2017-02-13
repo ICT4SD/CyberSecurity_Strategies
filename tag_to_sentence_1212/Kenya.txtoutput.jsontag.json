@@ -1,0 +1,56 @@
+[
+    {
+        "sentence_id,": "0e7703ab58", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Encourage the use of security standards while designing, building and deploying IT systems."
+    }, 
+    {
+        "sentence_id,": "75c4db767e", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Through this governance framework, the Government of Kenya intends to: Develop the required laws, regulations and policies required to secure the nations cyberspace; Solicits stakeholder input and feedback, as appropriate; and Balance information security, privacy considerations and economic priorities."
+    }, 
+    {
+        "sentence_id,": "1aa635c152", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Businesses can increase revenues and margins Greater Cooperation with Relevant International Organizations February 2014 Increased incentives to participate in the formation of international rules, including intellectual property rights, contract law, electronic signatures and authentication, consumer protection, jurisdiction and others; secure electronic commerce issues are addressed in international for a such as WIPO (World Intellectual Property Organization), UNCITRAL (United Nations Commission on International Trade Law), the Hague Conference on Private International Laws, ISO (International Standard Organization) including COPOLCO (Consumer Policy Committee), OECD and others 9 Benefit Area Improved Organizational Performance and Reduced Transactions Cost Details of Benefits Resulting from Improved Cybersecurity Lower costs due to improved efficiency of transactions Lower cost leads to an increase in the number of firms in the market Provides avenues for firms to enter into the business-to-business and businessto-government global supply chains Easier marketing of agricultural products and local sourced goods in the global market Reduction of search costs as buyers and sellers are together in a single online trading community Reduction in the costs of processing transactions (e.g., invoices, purchase orders and payment schemes), with the automation of transaction processes Efficiency in trading processes and transactions as sales can be processed through online auctions Online processing improves inventory management and logistics Promote AntiCorruption in Government and Industry Increase in price transparency as the gathering of a large number of buyers and sellers in a single e-market reveals market price information and transaction processing to participants; the publication of information on a single purchase or transaction makes the information readily accessible and available to all members of the e-market Increased price transparency can exert downward pressure on price differentials in the market; buyers are provided much more time to compare prices and make better buying decisions Expansion of borders for dynamic and negotiated pricing wherein multiple buyers and sellers collectively participate in price-setting and two-way auctions; prices can be set through automatic matching of bids and offers; the requirements of both buyers and sellers can be more easily aggregated to reach equilibrium price levels, which are lower than those resulting from individual actions A More Competitive Business Environment Trade liberalization as cross-border transactions costs decline Resolution of patent issues: international programs will contribute to achieving harmonized patent protection for progress and developments in secure transactions Enhanced public welfare through improved access to online goods and services Greater social cohesion as wage and income disparities lessen due to improved communication and information sharing, i.e., a better functioning labor market More options for consumer transactions (more, reliable distribution channels) Lower transactions costs Lower prices in longer term Transparency and Efficiency in Government 10 Expedited government financial transactions enabling greater efficiency and expediency in resource allocation Improved communications February 2014 MINISTRY OF INFORMATION COMMUNICATIONS AND TECHNOLOGY CONCLUSION As Kenyas remarkable ICT growth continues, ensuring the confidentiality, integrity, and availability of public and private sector information across Kenyas ICT infrastructure is of significant importance."
+    }, 
+    {
+        "sentence_id,": "cb6b03e04c", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "(e.g., electrical grid, telecommunications, water supply) Cybersecurity The processes and mechanisms by which computer-based equipment, information and services are protected from unintended or unauthorized access, change or destruction Cyberspace The notional environment in which communication over computer networks occurs e-Government Short for electronic government, it is digital interactions between a government and citizens, government and businesses, government and employees, and also between two governments Globalization Growth to a global or world-wide scale Governance Consistent management, cohesive policies, guidance, processes and decision-rights for a given area of responsibility Information and Communication Technology (ICT) The applications of computers and telecommunications equipment to store, retrieve, transmit and manipulate data February 2014 Term Definition Insider Threat A malicious individual who is also an employee or officer of a business, institution, or government Social Engineering A non-technical kind of intrusion (or hack) that relies heavily on human interaction and often involves tricking other people to break normal security procedures February 2014 13 14 February 2014"
+    }
+]

@@ -1,0 +1,146 @@
+[
+    {
+        "sentence_id,": "4f6fd15d5d", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "REPUBLIC OF SLOVENIA CYBER SECURITY STRATEGY ESTABLISHING A SYSTEM TO ENSURE A HIGH LEVEL OF CYBER SECURITY Strategija kibernetske varnosti 1 Document Info Title Cyber Security Strategy Date February 2016 Participants in document preparation: Agency for Communication Networks and Services of the Republic of Slovenia Energy Agency of the Republic of Slovenia Ministry of Defence Ministry of Economic Development and Technology Ministry of Education, Science, and Sport Ministry of Finance Ministry of Foreign Affairs Ministry of Health Ministry of Infrastructure Ministry of Public Administration Ministry of the Interior Ministry of the Interior The Police National Security Council Office of the Government of the Republic of Slovenia for the Protection of Classified Information Slovenian Computer Emergency Response Team (SI-CERT) Slovenian Intelligence and Security Agency Index 1 Introduction ..................................................................................................................................... 3 2 Analysis of the present situation ..................................................................................................... 4 3 Vision ............................................................................................................................................... 6 4 Cyberspace risks .............................................................................................................................. 6 4.1 Technological Development ....................................................................................................... 7 4.2 The Internet ................................................................................................................................ 7 4.3 Cyber crime................................................................................................................................. 7 4.4 Intelligence ................................................................................................................................. 8 4.5 Changes of the security environment ........................................................................................ 8 4.6 Intrusions of privacy ................................................................................................................... 8 5 Identification of stakeholders.......................................................................................................... 8 6 The establishment of a comprehensive cyber security system and clear governance structure ... 8 7 The areas of strategy implementation .......................................................................................... 10 7.1 Prevention ................................................................................................................................ 10 7.2 Response .................................................................................................................................. 10 7.3 Awareness raising ..................................................................................................................... 10 8 Strategy objectives and measures for their achievement ............................................................. 11 8.1 Strengthening and systemic regulation of the national cyber security assurance system ...... 12 8.2 The safety of citizens in cyberspace ......................................................................................... 13 8.3 Cyber security in the economy ................................................................................................. 13 8.4 Providing the operation of critical infrastructure in the sector of ICT support........................ 14 8.5 Cyber security assurance to ensure public security and combat cyber crime ......................... 14 8.6 Development of defensive cyber capabilities ......................................................................... 15 8.7 Ensuring safe operation and availability of key ICT systems in the event of major natural and other disasters ............................................................................................ 15 8.8 Strengthening national cyber security through international cooperation ............................. 15 9 Strategy implementation risks....................................................................................................... 16 A List of abbreviations ...................................................................................................................... 18 Cyber Security Strategy 1 Purpose and summary Slovenias cyber security strategy will improve the countrys cyber security assurance system, while also systematically regulating this area."
+    }, 
+    {
+        "sentence_id,": "075e71ff29", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "7. strengthening and systemic regulation of the national cyber security assurance system; the safety of citizens in cyberspace; cyber security in the economy; ensuring the operation of critical infrastructure in the sector of ICT support; cyber security to ensure public security and combat cyber crime; development of cyber defence capabilities; ensuring the safe operation and availability of key IC systems in the event of major natural and other disasters; 8. strengthening national cyber security through international cooperation."
+    }, 
+    {
+        "sentence_id,": "dc7e79aa0e", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "This coordination body will 8 Cyber Security Strategy coordinate the cyber security assurance capabilities at the strategic level to ensure cyber security in the country at lower levels, and will represent a single point of contact for international cooperation."
+    }, 
+    {
+        "sentence_id,": "b38cf85f6e", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Furthermore, it should be ensured that the design of programmes and ICT infrastructure include the safety and protection of individuals' privacy, and that the standards ensuring safe and smooth operation of the systems, including the use of encryption solutions, are observed."
+    }, 
+    {
+        "sentence_id,": "88bf2eb90f", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Active cooperation is also observed in the preparation of standard cyber crisis response procedures at the international or global level."
+    }, 
+    {
+        "sentence_id,": "e378b0178c", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Strengthening national cyber security through international cooperation MEASURES systems in the event of major natural and other disasters."
+    }, 
+    {
+        "sentence_id,": "857023c91a", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "One of the functions of this coordination will be to act as a single national point of contact for international cooperation in the area of cyber security."
+    }, 
+    {
+        "sentence_id,": "a5094adc0c", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "Key stakeholders in cyber security assurance should ensure the development of competences and certification of personnel that perform or will perform the tasks of cyber security assurance by continuous training."
+    }, 
+    {
+        "sentence_id,": "ed91c45cda", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Efforts for the development and use of standards in cyber security will be promoted."
+    }, 
+    {
+        "sentence_id,": "d688459b92", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "8.8 Strengthening national cyber security through international cooperation Given the global nature of the Internet and thus also the problems of cyber security, international cooperation in ensuring cyber security for Slovenia as a small country is indispensable."
+    }, 
+    {
+        "sentence_id,": "a14cc2c69a", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Cyber Security Strategy 15 development of international standards of operation in cyberspace and for the implementation of practical confidence-building measures in cooperation with other countries and international partners."
+    }, 
+    {
+        "sentence_id,": "4463430c67", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "To achieve the objective of national cyber security with international cooperation, the following measure will be taken: ensuring conditions for the participation of Slovenian experts in the relevant international cyber security working bodies and associations."
+    }
+]

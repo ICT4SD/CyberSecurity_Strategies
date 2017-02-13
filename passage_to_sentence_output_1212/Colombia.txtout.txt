@@ -1,0 +1,1242 @@
+[
+    {
+        "sentence": "Document 3701 Conpes National Council on Economic and Social Policy Republic of Colombia National Planning Department POLICY GUIDELINES ON CYBERSECURITY AND CYBERDEFENSE Ministry of the Interior and Justice Ministry of Foreign Affairs Ministry of Defense Ministry of Information and Communication Technologies Department of Security Administration National Planning Department-DJSG-DIFP-DIES-OI Office of the Attorney General Version: Draft Bogot D.C., July 14Th of 2011 Summary: The purpose of this document is to generate policy guidelines on cybersecurity1 and cyberdefense2 with the aim of developing a national strategy to counter the rise in cyber threats that have significant impact on the country.", 
+        "sentence_id,": "9237d400d7"
+    }, 
+    {
+        "sentence": "In addition, it examines past experiences, both within the country and abroad, as well as the country's legal framework on the subject.", 
+        "sentence_id,": "88d6bb7a49"
+    }, 
+    {
+        "sentence": "The states capacity to minimize the level of exposure of its citizens to cyber threats or incidents.", 
+        "sentence_id,": "c81acb1936"
+    }, 
+    {
+        "sentence": "The states capacity to prevent and counter any cyber threat or incident that undermines national sovereignty.", 
+        "sentence_id,": "9488ae628a"
+    }, 
+    {
+        "sentence": "The core issue hinges on the fact that the states current capacity to confront cyber threats is hampered by weaknesses and the lack of a national strategy in this area.", 
+        "sentence_id,": "7e977f162d"
+    }, 
+    {
+        "sentence": "Based on the foregoing the causes and effects have been identified from which to develop prevention and control policies against the increase in cyber threats.", 
+        "sentence_id,": "140e6b1de4"
+    }, 
+    {
+        "sentence": "In order to enable the strategy's implementation, this document offers specific recommendations for entities directly and indirectly involved in this issue.", 
+        "sentence_id,": "63b398caab"
+    }, 
+    {
+        "sentence": "This was the position that the Colombian government adopted when it included this issue in the Plan Vive Digital [Live Digital Plan] within the framework of the 2010-2014 National Development Plan Prosperity for All.", 
+        "sentence_id,": "342eba25df"
+    }, 
+    {
+        "sentence": "Classification: H011, H411, R011 Keywords: Cyber threat, cyberspace, cyberdefense, cybersecurity, information security, critical infrastructure, CERT, ColCERT.", 
+        "sentence_id,": "b7fc635f1b"
+    }, 
+    {
+        "sentence": "INTRODUCTION ................................................................................................................ 1 II.", 
+        "sentence_id,": "6328f1e566"
+    }, 
+    {
+        "sentence": "BACKGROUND ................................................................................................................. 2 A.", 
+        "sentence_id,": "4e511ddce5"
+    }, 
+    {
+        "sentence": "National Framework ................................................................................................. 6 B.", 
+        "sentence_id,": "114ec4b31c"
+    }, 
+    {
+        "sentence": "International Framework ........................................................................................ 10 III.", 
+        "sentence_id,": "b28a3bf594"
+    }, 
+    {
+        "sentence": "ANALYSIS ......................................................................................................................... 13 A.", 
+        "sentence_id,": "8f9ccb2a49"
+    }, 
+    {
+        "sentence": "Core Problem .......................................................................................................... 13 B.", 
+        "sentence_id,": "c81e8c84e8"
+    }, 
+    {
+        "sentence": "Effects of the Core Problem .................................................................................... 14 IV.", 
+        "sentence_id,": "a6a8a60a07"
+    }, 
+    {
+        "sentence": "OBJECTIVES ................................................................................................................... 16 A. Overarching Objective ............................................................................................ 16 B.", 
+        "sentence_id,": "d64e74baf7"
+    }, 
+    {
+        "sentence": "Specific Objectives ................................................................................................. 16 V. PLAN OF ACTION .......................................................................................................... 25 VI.", 
+        "sentence_id,": "e2534a5858"
+    }, 
+    {
+        "sentence": "FINANCING ....................................................................................................................... 28 VII.", 
+        "sentence_id,": "82ba264f0a"
+    }, 
+    {
+        "sentence": "RECOMMENDATIONS ................................................................................................... 28 VIII.", 
+        "sentence_id,": "35265ffdb1"
+    }, 
+    {
+        "sentence": "SELECT BIBLIOGRAPHY.............................................................................................. 32 IX.", 
+        "sentence_id,": "32fd7279d2"
+    }, 
+    {
+        "sentence": "GLOSSARY OF TERMS ................................................................................................. 33 ACRONYMS ................................................................................................................................... 37 I.", 
+        "sentence_id,": "cc7b271e1f"
+    }, 
+    {
+        "sentence": "INTRODUCTION The use of information and communication technologies brings with it changes and permanent threats and has become one of the cornerstones of the globalized world.", 
+        "sentence_id,": "7496819c48"
+    }, 
+    {
+        "sentence": "At the same time, the evolution of these technologies has brought an increase in the use of technological resources for criminal purposes all over the world.", 
+        "sentence_id,": "cb56ab536d"
+    }, 
+    {
+        "sentence": "The continual evolution, spread, and sophistication of cyber attacks, as well as technological convergence,3 highlight the need to adopt measures and controls to protect the state from these new threats.4 The increased capacity to commit crime in cyberspace as well as the use of new technologies to generate cyber threats, constitute a common concern for all countries, given that they significantly impact information security in both public and private spheres, including civil society.", 
+        "sentence_id,": "d90bc1ca13"
+    }, 
+    {
+        "sentence": "Technological convergence is the tendency for different technological systems to evolve towards performing similar tasks.", 
+        "sentence_id,": "ab4a3c7a6b"
+    }, 
+    {
+        "sentence": "Convergence can refer to previously separate technologies such as voice (and telephony features), data (and productivity applications), and video that now share resources and interact with each other synergistically (Jenkins, Henry (2006) Convergence Culture, New York University Press, New York).", 
+        "sentence_id,": "0c6cb2d236"
+    }, 
+    {
+        "sentence": "A potential cause of an unwanted incident, which may result in harm to a system or organization.", 
+        "sentence_id,": "16ad102672"
+    }, 
+    {
+        "sentence": "Tackling the issues of cybersecurity and cyberdefense entails a commitment on the part of the national government to guarantee information security.", 
+        "sentence_id,": "b3d8dfab94"
+    }, 
+    {
+        "sentence": "Therefore, although this document aims to provide a policy framework for the issues of cybersecurity and cyberdefense in particular, the entities involved will be responsible for developing that framework and creating mechanisms by which to ensure information security nationwide.", 
+        "sentence_id,": "81b96b289f"
+    }, 
+    {
+        "sentence": "To achieve the foregoing, consideration will be given to technical rules and national and international standards, as well as international initiatives on protection of critical infrastructure and cybersecurity.", 
+        "sentence_id,": "6550df588d"
+    }, 
+    {
+        "sentence": "Bearing in mind that the government needs to be aware of and act comprehensively against cyber threats, a strategy is needed that includes the creation of appropriate bodies to perform the task of providing cybersecurity and cyberdefense against any cyber threats or incident that could compromise information,5 impair the country's critical infrastructure, and jeopardize the security and defense of the state.", 
+        "sentence_id,": "fad7558256"
+    }, 
+    {
+        "sentence": "The adoption of a national policy on cybersecurity and cyberdefense involving all sectors of society, under the leadership of the Ministry of Defense and in coordination with other state entities, is an imperative of the highest priority.", 
+        "sentence_id,": "c16219516e"
+    }, 
+    {
+        "sentence": "Cyber threat: The appearance of a potential or actual situation in which an agent has the capacity to produce a cyber attack against the population, territory, and political organization of the state.", 
+        "sentence_id,": "2b42927865"
+    }, 
+    {
+        "sentence": "(Ministry Of Defense Colombia) Cyber incident: One or a series of unexpected or unwanted cybersecurity events that have a significant probability of compromising the operations of an entity or threatening information security.", 
+        "sentence_id,": "6adac4c45a"
+    }, 
+    {
+        "sentence": "(Ministry Of Defense Colombia) This document identifies as the overarching objective of this policy the strengthening of the states capacity to confront cyber threats to its security and defense.", 
+        "sentence_id,": "4e9a3194ca"
+    }, 
+    {
+        "sentence": "It also defines three specific objectives: 1) To implement appropriate mechanisms to prevent, provide assistance, control, and offer recommendations on cyber incidents and/or emergencies for protecting the country's critical infrastructure; 2) To design and execute specialized cybersecurity and cyberdefense training plans; and, 3) To strengthen the legal framework and law enforcement in this area.", 
+        "sentence_id,": "c9a3756d89"
+    }, 
+    {
+        "sentence": "This document sets out a plan of action for putting into effect the policy on cybersecurity and cyberdefense, which will be entrusted to the entities involved.", 
+        "sentence_id,": "13e9019259"
+    }, 
+    {
+        "sentence": "BACKGROUND In April 2007, the government of Estonia sustained what is generally regarded as the biggest cyber attack in history; it affected the office of the president, the parliament, most ministries, political parties, and two major banks.", 
+        "sentence_id,": "a85af36fdf"
+    }, 
+    {
+        "sentence": "The attack triggered a crisis that necessitated the intervention of the international community and alerted NATO.", 
+        "sentence_id,": "6b2659729a"
+    }, 
+    {
+        "sentence": "As a result, in August 2008, NATO launched the Cooperative Cyber Defence Centre of Excellence (CCD COE), whose mission is to protect the Organization's members from attacks of this type, provide training to military personnel, conduct research on electronic defense techniques, and develop a legal framework for pursuing this activity.", 
+        "sentence_id,": "48354befa8"
+    }, 
+    {
+        "sentence": "There are two other significant cyber attacks that are also worth mentioning.", 
+        "sentence_id,": "c6e538eff5"
+    }, 
+    {
+        "sentence": "The first was against the United States in July 2009, when a series of attacks affected the White House, the Department of Homeland Security (DHS), the Department of Defense, the Federal Aviation Administration, and the Federal Trade Commission.6 The other event was that reported by Spain's Guardia Civil in March 2010, when it dismantled one of the largest so-called zombie computer networks,7 known as the mariposa (or butterfly) botnet8, composed of more than 13 million infected IP addresses9 distributed across 190 countries.", 
+        "sentence_id,": "46da5cc216"
+    }, 
+    {
+        "sentence": "Colombia was the fifth worst-affected country by this network.", 
+        "sentence_id,": "7dea3c4921"
+    }, 
+    {
+        "sentence": "Term used to refer to personal computers which, after being infected by some type of malware, can be used by a third party to carry out hostile activities.", 
+        "sentence_id,": "a114781d92"
+    }, 
+    {
+        "sentence": "This use occurs without the consent or knowledge of the machine's user.", 
+        "sentence_id,": "e03fb9b600"
+    }, 
+    {
+        "sentence": "The name given to a network of computers that combines their resources to perform a common task and shares the workload among all the computers (FireEye Arbornet).", 
+        "sentence_id,": "bb31d042d1"
+    }, 
+    {
+        "sentence": "A botnet's originator can control the infected computers/servers remotely, usually through a means such as IRC: Newer versions of these botnets are focusing on control environments via HTTP, greatly simplifying control of these machines.", 
+        "sentence_id,": "a19da8d906"
+    }, 
+    {
+        "sentence": "Their purposes are usually nefarious.", 
+        "sentence_id,": "983167a12d"
+    }, 
+    {
+        "sentence": "A numerical label assigned, logically and hierarchically, to the interface (communication/connection element) of a device (normally a computer) within a network that uses the IP protocol (Internet Protocol).", 
+        "sentence_id,": "26f0f9096e"
+    }, 
+    {
+        "sentence": "COUNTRY % 1 INDIA 19.14 11 PERU 2.42 2 Mexico 12.85 12 IRAN 2.07 3 BRAZIL 7.74 13 SAUDI ARABIA 1.85 4 KOREA 7.24 14 CHILE 1.74 5 COLOMBIA 4.94 15 KAZAKHSTAN 1.38 6 RUSSIA 3.14 16 UNITED ARAB EMIRATES 1.15 7 EGYPT 2.99 17 MOROCCO 1.13 8 MALAYSIA 2.86 18 ARGENTINA 1.10 9 UKRAINE 2.69 19 UNITED STATES 1.05 10 PAKISTAN 2.55 TABLE 1: Latin American countries worst affected by a zombie network in March 2010 Source: www.infospyware.com As regards the private sector, a study found that the average cost to each company that was a victim of cyber attacks was US$2 million a year.10 Of the organizations involved, 42% rated cybersecurity as their main priority, bearing in mind that 75% of them suffered some form of security breach in the 12 months prior to the study.", 
+        "sentence_id,": "85de0732d0"
+    }, 
+    {
+        "sentence": "Source: http://www.symantec.com/es/mx/business/theme.jsp?themeid=state_of_enterprise_security In Colombia use of information and communication technologies has increased significantly, raising the country's level of exposure to cyber threats.", 
+        "sentence_id,": "51223ed968"
+    }, 
+    {
+        "sentence": "The number of Internet subscribers increased by 101% between 2008 and 2010, reaching a total of 4,384,181 fixed and mobile Internet subscribers.", 
+        "sentence_id,": "ed06101a9a"
+    }, 
+    {
+        "sentence": "Of those, 39% are fixed subscribers and 61% are mobile subscribers, as graph 2 shows.", 
+        "sentence_id,": "c191d76aed"
+    }, 
+    {
+        "sentence": "Internet subscribers, 2008 - 2010 Source: Data reported by network providers and services to SIUST The Internet has become an increasingly popular medium among users of banking services.", 
+        "sentence_id,": "398bd18eb3"
+    }, 
+    {
+        "sentence": "As regards cybersecurity, Colombia has also been the target of attacks.", 
+        "sentence_id,": "cfbe1f3a87"
+    }, 
+    {
+        "sentence": "One notable incident occurred in the first half of 2011 when the \"hacktivist\" group that calls itself Anonymous attacked the portals of the office of the president, the Senate, the online government portal, and the Ministries of the Interior and Justice, Culture, and Defense, leaving their websites off-line for several hours.", 
+        "sentence_id,": "802682c1a0"
+    }, 
+    {
+        "sentence": "The attack was launched in protest against a proposed law regulating responsibility for online infringements of copyright and related rights.", 
+        "sentence_id,": "f63c4c34c2"
+    }, 
+    {
+        "sentence": "This group has indiscriminately targeted public and private sector entities, including PayPal, the Swiss bank PostFinance, MasterCard, Visa, and Swiss government websites.", 
+        "sentence_id,": "23667500a2"
+    }, 
+    {
+        "sentence": "Also worth mentioning are the complaints that have also been reported by private citizens to the Colombian police.", 
+        "sentence_id,": "ff775ed9ce"
+    }, 
+    {
+        "sentence": "From January to December 2009, the police dealt with 575 cyber offenses recognized by Law 1273 of 2009.12 These offenses included abusive access to a computer system (259), computer and related theft (247), data interception (17), violation of personal data (35), unauthorized assets transfer (8), website impersonation (5), computer damage (3), and unlawful obstruction of a computer system (1).", 
+        "sentence_id,": "f9b51d0a68"
+    }, 
+    {
+        "sentence": "In 2010, the number of offenses and infringements increased by 73%, to a total of 995 cyber offenses.", 
+        "sentence_id,": "96839f9608"
+    }, 
+    {
+        "sentence": "The biggest increase came in the area of computer theft, where the number rose from 247 to 502,13 equivalent to 103%.", 
+        "sentence_id,": "e969b96dbc"
+    }, 
+    {
+        "sentence": "12 Law 1273 criminalized behavior connected with cyber offenses and information and data protection.", 
+        "sentence_id,": "619be062a0"
+    }, 
+    {
+        "sentence": "Data reported by the National Police's Crime and Operational Statistics System (SIEDCO) A.", 
+        "sentence_id,": "6821a6aef7"
+    }, 
+    {
+        "sentence": "National Framework In order to put Colombia's legal framework in perspective it is important to mention the country's lawmaking efforts in chronological order, as follows: LAW / RESOLUTION SUBJECT MATTER Law 527 of 1999 - ELECTRONIC TRADE Defines and regulates access to and use of data messages, electronic trade, and digital signatures, as well as establishing the certification entities and introducing other provisions.", 
+        "sentence_id,": "89a06ea3dc"
+    }, 
+    {
+        "sentence": "Law 599 of 2000 Enacts the Criminal Code.", 
+        "sentence_id,": "7433565aa2"
+    }, 
+    {
+        "sentence": "The Law maintains the structure of the definition of the crime of \"unlawful violation of communications,\" recognizes copyright as a legal interest, and includes a number of conducts indirectly connected with cybercrime, such as the offer, sale, or purchase of an instrument apt for use to intercept private communications between persons.", 
+        "sentence_id,": "f9b5d48a4b"
+    }, 
+    {
+        "sentence": "The Law also defined \"Improper access to a computer system\" as follows Art.", 
+        "sentence_id,": "a878f18b77"
+    }, 
+    {
+        "sentence": "Anyone who gains improper access to a computer system protected with a security measure or remains within same against the will of someone entitled to exclude them shall be liable to a fine.", 
+        "sentence_id,": "a9ab7cd26d"
+    }, 
+    {
+        "sentence": "Law 962 of 2005 Introduces provisions on streamlining of administrative formalities and procedures of government agencies and entities, as well as of private persons who perform public functions or provide a public service.", 
+        "sentence_id,": "0469463321"
+    }, 
+    {
+        "sentence": "Provides for the incentive of using integrated technological mechanisms to reduce the time and cost of procedures for those subject to administration.", 
+        "sentence_id,": "c7e4dcdae0"
+    }, 
+    {
+        "sentence": "Law 1150 of 2007 Introduces measures to encourage efficiency and transparency in Law 80 of 1993, and issues other general provisions on procurement using public funds.", 
+        "sentence_id,": "4a0e7e47f0"
+    }, 
+    {
+        "sentence": "In particular, the law establishes the possibility for the public administration to issue administrative decisions, documents, and notices by electronic means, to which end it provides for the development of the Electronic Government Procurement System (SECOP).", 
+        "sentence_id,": "f4cfce35b9"
+    }, 
+    {
+        "sentence": "Law 1273 of 2009 Amends the Criminal Code and creates a new legally protected interest called information and data protection.", 
+        "sentence_id,": "99972636a3"
+    }, 
+    {
+        "sentence": "The Law comprehensively protects systems that use information and communication technologies, among other provisions.", 
+        "sentence_id,": "ce973f69bb"
+    }, 
+    {
+        "sentence": "Law 1341 of 2009 Defines principles and concepts relating to the information society and the organization of information and communication technologies (ICTs).", 
+        "sentence_id,": "ae016a6af0"
+    }, 
+    {
+        "sentence": "This law also creates the National Spectrum Agency as well as issuing other provisions.", 
+        "sentence_id,": "db012bfc09"
+    }, 
+    {
+        "sentence": "LAW / RESOLUTION SUBJECT MATTER Communications Regulation Commission resolution 2258 of 2009 On network security of network providers and telecommunications services.", 
+        "sentence_id,": "1a63cace82"
+    }, 
+    {
+        "sentence": "This rule recognizes the obligation for network providers and/or telecommunications services that offer Internet access to implement security models in accordance with the specific characteristics and needs of their network, in order to help improve the security of their access networks in keeping with the security frameworks defined by the ITU, abiding by the principles of data confidentiality, data integrity, and availability of network elements, information, services, and applications, as well as measures for authentication, access, and non-repudiation.", 
+        "sentence_id,": "c5fa17d479"
+    }, 
+    {
+        "sentence": "It also establishes obligations to be met by network providers and telecommunications services in the area of communications inviolability and information security.", 
+        "sentence_id,": "02b91622c6"
+    }, 
+    {
+        "sentence": "Circular 052 of 2007 (Financial Superintendency of Colombia) Sets the minimum security and quality requirements on information management through goods and services distribution media and channels for clients and users.", 
+        "sentence_id,": "f83d7942b6"
+    }, 
+    {
+        "sentence": "TABLE 2: Domestic standards Different initiatives have been devised in a number of sectors, which CONPES has drawn on as research and reference papers for preparing this document: INITIATIVE LEAD ENTITY SCOPE Information Security Model for the Online Government Strategy Online Government Program - Ministry of Information and Communication Technologies This security model is founded on the set of strategic policies that underpin online government, such as protection of personal information\" and credibility and trust in online government.", 
+        "sentence_id,": "db56f8bda2"
+    }, 
+    {
+        "sentence": "It establishes the following as fundamental elements of information security for government agencies: 1) Availability of information and services.", 
+        "sentence_id,": "3c986b8479"
+    }, 
+    {
+        "sentence": "2) Information and data integrity.", 
+        "sentence_id,": "dbf7a40538"
+    }, 
+    {
+        "sentence": "3) Information confidentiality.", 
+        "sentence_id,": "d60b8135d4"
+    }, 
+    {
+        "sentence": "INITIATIVE LEAD ENTITY SCOPE Recommendations to the national government for implementing a National cybersecurity Strategy Telecommunications Regulation Commission In this document the Communications Regulation Commission offers the national government recommendations for the establishment of a National Cybersecurity Strategy; puts suggests suitable public-private collaboration and cooperation mechanisms; identifies ways to deter cybercrime; recommends the implementation and development of cybersecurity legal frameworks consistent with international standards; offers recommendations for the development of response systems for network security incidents, including surveillance, analysis, and incident response; and proposes guidelines for introducing a national cybersecurity culture in order to improve protection of critical information infrastructure in Colombia.", 
+        "sentence_id,": "5d261c0763"
+    }, 
+    {
+        "sentence": "CSIRT- CCIT - Computer Security Incident Response Team for Internet service providers (ISPs).", 
+        "sentence_id,": "8569cf0465"
+    }, 
+    {
+        "sentence": "Colombian Chamber of Informatics and Telecommunications (CCIT) The Colombian Computer Security Incident Response Team, which is in direct contact with the security teams of its member companies (the largest Internet service providers in Colombia).", 
+        "sentence_id,": "b325f60e7a"
+    }, 
+    {
+        "sentence": "It has the capacity to coordinate attention and response to any requests and complaints concerning computer security problems that it receives.", 
+        "sentence_id,": "6c25a55eb8"
+    }, 
+    {
+        "sentence": "As an upshot of the above activities, government agencies requested the Ministry of Defense to lead the way in implementing cybersecurity policies and establish mechanisms to respond to any cybercrimes and incidents that might affect the nation.", 
+        "sentence_id,": "a2d7a8a01a"
+    }, 
+    {
+        "sentence": "This request arose as a result of the need for an in-depth analysis of the specific features of the national security scheme, the technical capabilities in place in the Ministry of Defense, and a study of the international context.", 
+        "sentence_id,": "aeadee9666"
+    }, 
+    {
+        "sentence": "In the final analysis it emerged that the Ministry of Defense had the greatest capacity for handling these issues in an efficient and coordinated manner.", 
+        "sentence_id,": "01232cb688"
+    }, 
+    {
+        "sentence": "Accordingly, over the last two years, the Ministry of Defense has worked to position the issue of cybersecurity and cyberdefense on the national agenda.", 
+        "sentence_id,": "6cacd069f0"
+    }, 
+    {
+        "sentence": "While Colombia does not yet have cyber incident response agencies, it does have capabilities and expertise that have allowed it to be a part of commissions that have assisted other governments in the region (Panama, Dominican Republic, and Mexico) in planning their respective Computer Security Incident Response Teams (CSIRTs).", 
+        "sentence_id,": "1b9db3c1c6"
+    }, 
+    {
+        "sentence": "Finally, it is noteworthy that the issue of cybersecurity and cyberdefense was included in the 2010-2014 National Development Plan Prosperity for All, as part of the Plan Vive Digital [Live Digital Plan] spearheaded by the Ministry of Information and Communication Technologies, the purpose of which is to encourage widespread Internet use with the aim of taking a leap toward democratic prosperity.", 
+        "sentence_id,": "5fff5f11ae"
+    }, 
+    {
+        "sentence": "The main objective of the Convention is the adoption of legislation to facilitate the prevention of criminal conduct as well as to contribute efficient tools in the area of criminal law with which to detect, investigate, and punish unlawful behavior.", 
+        "sentence_id,": "0a5e141970"
+    }, 
+    {
+        "sentence": "The Convention, together with its additional protocol concerning the criminalization of acts of a racist and xenophobic nature committed through computer systems, is the only binding international instrument in this area.", 
+        "sentence_id,": "448b9accf9"
+    }, 
+    {
+        "sentence": "The Council considers that cybercrime requires a common criminal policy aimed at the protection of society against cybercrime15 , in particular by adopting appropriate legislation and strengthening international cooperation.", 
+        "sentence_id,": "fecf8cf1d7"
+    }, 
+    {
+        "sentence": "It should be noted that although the CCC originated in the European region, it is an instrument that is open to all countries for accession.", 
+        "sentence_id,": "7c2ace4c53"
+    }, 
+    {
+        "sentence": "Any crime committed using a computer or a computer service (Ministry of Defense of Colombia).", 
+        "sentence_id,": "0093e0f610"
+    }, 
+    {
+        "sentence": "Hypothetical or imaginary environment or space of those immersed in the world of electronics, informatics, and cybernetics.", 
+        "sentence_id,": "e958c8756b"
+    }, 
+    {
+        "sentence": "(Free translation of the definition coined by the Academy of the Spanish Language) INSTRUMENT SUBJECT MATTER OAS General Assembly resolution AG/RES.", 
+        "sentence_id,": "09fbe6af4b"
+    }, 
+    {
+        "sentence": "Adoption of a Comprehensive Inter-American Strategy to Combat Threats to Cybersecurity: A Multidimensional and Multidisciplinary Approach to Creating a Culture of Cybersecurity.", 
+        "sentence_id,": "d08e58fee9"
+    }, 
+    {
+        "sentence": "The Strategy envisages three lines of action: .", 
+        "sentence_id,": "6b1038d01b"
+    }, 
+    {
+        "sentence": "Creation of a Hemispheric Network of Computer Security Incident Response Teams (CSIRTs).16 This task was assigned to the Inter- American Committee against Terrorism (CICTE).", 
+        "sentence_id,": "a6ac7aa4a6"
+    }, 
+    {
+        "sentence": "Identification and adoption of technical standards for a secure Internet architecture.", 
+        "sentence_id,": "5be21a8f06"
+    }, 
+    {
+        "sentence": "This task is being carried out by the Inter- American Telecommunication Commission (CITEL).", 
+        "sentence_id,": "418b042f49"
+    }, 
+    {
+        "sentence": "Adoption and/or adaptation of the legal tools necessary to protect Internet users and information networks from criminals and organized crime groups that exploit these systems.", 
+        "sentence_id,": "bc06a77a2f"
+    }, 
+    {
+        "sentence": "This was assigned to the Meeting of Ministers of Justice or Other Ministers or Attorneys General of the Americas (REMJA).", 
+        "sentence_id,": "9621825520"
+    }, 
+    {
+        "sentence": "Andean Community Decision 587 adopted on July 10, 2004 Which establishes the guidelines of the Andean Common External Security Policy.", 
+        "sentence_id,": "80a3d640e2"
+    }, 
+    {
+        "sentence": "Among others, the objectives of that policy are to prevent, combat, and eliminate new security threats and, as appropriate, their interactions, through cooperation and coordinated measures to confront the challenges that those threats pose to the Andean Community.", 
+        "sentence_id,": "1d995ce313"
+    }, 
+    {
+        "sentence": "Consensus on cybersecurity17 of the International Telecommunication Union (ITU), in the framework of the United Nations, in pursuance of the Tunis Agenda for the Information Society (2005).", 
+        "sentence_id,": "4ae7bcba1b"
+    }, 
+    {
+        "sentence": "Aimed at promoting consideration of pertinent international concepts designed to strengthen the security of worldwide information and telecommunication systems.", 
+        "sentence_id,": "c31024c321"
+    }, 
+    {
+        "sentence": "UN General Assembly resolution The General Assembly calls upon member states to promote further at 16 Por sus siglas en ingls: Visit www.first.org.", 
+        "sentence_id,": "88d43ac2bc"
+    }, 
+    {
+        "sentence": "17 The collective and coordinated operational response of a country, which recognizes information as a critical asset for safeguarding its governance and, therefore, develops and ensures standards and systematic practices geared toward individuals, technologies, processes, and regulatory and enforcement aspects.", 
+        "sentence_id,": "fa38478395"
+    }, 
+    {
+        "sentence": "Table 4: International legal framework on cybersecurity There are Computer Security Incident Response Teams (CSIRT) in place in 13 countries in the region: Argentina (ArCERT), The Bahamas (Royal Bahamas Police), Bolivia (CRISIS), Brazil (CTIR-GOV), Canada (CCIRC), Chile (CORE/ Min.", 
+        "sentence_id,": "f89a2e5dbc"
+    }, 
+    {
+        "sentence": "Interior), Guatemala (CSIRT- GT), Paraguay (CSIRT-Py), Peru (PerCERT), Suriname (SurCSIRT), United States (USCERT), Uruguay (CERTUy), and Venezuela (VenCERT).18 According to the Carnegie Mellon University database (CERT- CC, www.cert.org/csirts/national/contact.html#), there are 55 national CERTS worldwide.", 
+        "sentence_id,": "197e7676ca"
+    }, 
+    {
+        "sentence": "In April 2011, the Ministry of the Interior launched the National Cyberdefense Center.", 
+        "sentence_id,": "1119011b68"
+    }, 
+    {
+        "sentence": "AUSTRALIA Opened the Cyber Security Operations Centre to coordinate government measures steps to deal with incidents in cyberspace.", 
+        "sentence_id,": "4d89f88505"
+    }, 
+    {
+        "sentence": "CANADA Public Safety Canada implemented the Canadian Cyber Incident Response Centre (CCIRC) and in October 2010 adopted Canada's Cyber Security Strategy.", 
+        "sentence_id,": "41205199ff"
+    }, 
+    {
+        "sentence": "COUNTRY GOVERNMENT MEASURES UNITED STATES Established the unified Cyber Command, which reports to the National Security Agency (NSA), DHS: National Cyber Security Division, US-CERT: United States Computer Emergency Readiness Team and the White House Cyber Security Office.", 
+        "sentence_id,": "80fb6d99c5"
+    }, 
+    {
+        "sentence": "ESTONIA In 2008 it created, together with other European countries, NATO, and United States, the Cooperative Cyber Defense Center of Excellence.", 
+        "sentence_id,": "9f263a6fb7"
+    }, 
+    {
+        "sentence": "2008 also saw the adoption of the Cyber Security Strategy.", 
+        "sentence_id,": "173cebb38d"
+    }, 
+    {
+        "sentence": "FRANCE Created the French Network and Information Security Agency (FNISA), which monitors governmental and private computer networks in order to protect them from cyber attack.", 
+        "sentence_id,": "67e3ccbd5c"
+    }, 
+    {
+        "sentence": "Table 5: Cyberdefense measures adopted at the international level III.", 
+        "sentence_id,": "7fbeeeb4aa"
+    }, 
+    {
+        "sentence": "Core Problem The agencies involved in the preparation of this document have concluded that the current capacity of the State to deal with cyber threats has major weaknesses.", 
+        "sentence_id,": "ec3b23b8ae"
+    }, 
+    {
+        "sentence": "Despite the existence of governmental, private, and civil-society initiatives to counter the impact of such threats, an appropriate, coordinated, interagency approach is missing.", 
+        "sentence_id,": "765c9da6a6"
+    }, 
+    {
+        "sentence": "At present, Colombia is one of a number of countries that do not have a national cybersecurity and cyberdefense strategy that includes an organizational system and a legal and institutional framework strong enough to confront the latest cybersecurity challenges.", 
+        "sentence_id,": "a1f9c3083a"
+    }, 
+    {
+        "sentence": "Computer Emergency Response Team (CERT), equivalent to a CSIRT but registered with Carnegie Mellon University.", 
+        "sentence_id,": "36d4560f93"
+    }, 
+    {
+        "sentence": "The increasing number of Internet users, as well as the strong dependence of Colombia's critical infrastructure on electronic media and the considerable rise in the number of cybersecurity incidents and crimes have highlighted the country's high vulnerability to cyber threats, such as use of the Internet for terrorist purposes, sabotage of public services, espionage, and theft, among others.", 
+        "sentence_id,": "3a276afa86"
+    }, 
+    {
+        "sentence": "Effects of the core problem The main effects of the above problem are an increase in cybercrime and the risk of unauthorized access to information, impairment of the normal operation and continuity of services, and ongoing impunity in tackling offenses of this type.", 
+        "sentence_id,": "8c85bc4d24"
+    }, 
+    {
+        "sentence": "Cybersecurity and cyberdefense initiatives and operations are not adequately coordinated Although a number of institutional efforts exist (in both the private and the public sector), the study has found that no agencies have been established at the national level to coordinate and implement cybersecurity and cyberdefense operations.", 
+        "sentence_id,": "4eb9383329"
+    }, 
+    {
+        "sentence": "Accordingly, it has not been possible to establish enough adequate mechanisms to curb cyber attacks and protect state interests in cyberspace.", 
+        "sentence_id,": "1189b2ca0e"
+    }, 
+    {
+        "sentence": "Efforts to raise awareness and generate a culture of prevention and safety on the issue of cybersecurity in the public and private sectors as well as civil society have been weak.", 
+        "sentence_id,": "b304ec7a50"
+    }, 
+    {
+        "sentence": "Insufficient availability and coverage of specialized training in cybersecurity and cyberdefense Expertise in the areas of cybersecurity and cyberdefense in both the public and the private sector is limited.", 
+        "sentence_id,": "2f99e708a6"
+    }, 
+    {
+        "sentence": "Although a number of higher education institutions in the country offer specialty courses in computer security and computer law, the study noted that the availability of specialized academic programs in these areas is low.", 
+        "sentence_id,": "8aefb97440"
+    }, 
+    {
+        "sentence": "Accordingly, a significant number of students who embark on some form of education in the area of information security do so by enrolling in programs offered by foreign institutions that do not address the Colombian reality in any depth.", 
+        "sentence_id,": "a2a7a394d7"
+    }, 
+    {
+        "sentence": "The training and education offered to public- and private-sector employees to respond as the first line of defense to cybercrime is deficient.", 
+        "sentence_id,": "eb4b1b23ae"
+    }, 
+    {
+        "sentence": "Very often, the chain of custody of digital evidence is lost, hampering forensic investigations.", 
+        "sentence_id,": "54e8bbd9dc"
+    }, 
+    {
+        "sentence": "Furthermore, there are a limited number of training programs available for agencies that serve as judicial police in this area.", 
+        "sentence_id,": "9ba244ba32"
+    }, 
+    {
+        "sentence": "Weak regulation and legislation on information and data protection.", 
+        "sentence_id,": "6d1d2e8951"
+    }, 
+    {
+        "sentence": "In spite of the existence of laws and regulations on information security, shortcomings persist that impede a timely response to cyber incidents and offenses.", 
+        "sentence_id,": "85278fa5c1"
+    }, 
+    {
+        "sentence": "The Colombian Congress recently passed the Intelligence and Counterintelligence Law, which introduces monitoring and oversight mechanisms for these activities.", 
+        "sentence_id,": "4cfbe8d68f"
+    }, 
+    {
+        "sentence": "However, this law needs to be made much more specific in terms of scope and operability, so that cybersecurity and cyberdefense can be adequately addressed.", 
+        "sentence_id,": "a581d1c4a8"
+    }, 
+    {
+        "sentence": "In terms of international standards, one of the instruments that would enable the country to draw level with the international community is the Council of Europe's Convention on Cybercrime, under which it would have to meet certain requirements, such as the establishment of judicial cooperation mechanisms, including extradition, points of contact available on a twenty-four hour, seven-day-a-week basis to facilitate investigation, and log-keeping20 by ISPs,21 for the requisite amount of time.", 
+        "sentence_id,": "93e3588a77"
+    }, 
+    {
+        "sentence": "A log is an official record of events over a particular period of time.", 
+        "sentence_id,": "cba3789713"
+    }, 
+    {
+        "sentence": "For computer security professionals a log serves to keep a record of data or information as to the who, what, when, where, and why with regard to an event involving a particular device or an application.", 
+        "sentence_id,": "d16892a7e2"
+    }, 
+    {
+        "sentence": "Internet service providers (Currently in Colombia these entities also provide telephony and television services, thus becoming providers of integrated telecommunications services.)", 
+        "sentence_id,": "db5368a5d0"
+    }, 
+    {
+        "sentence": "The obligation was introduced for ISPs to implement security models in keeping with the particular features and needs of their networks, with the aim of helping to enhance the security of their access networks, complying with the rules on data confidentiality and integrity, as well as availability of network elements, information, services and applications, in addition to mechanisms for authentication, access and non-repudiation, and obligations in the area of in the area of communications inviolability and information security.", 
+        "sentence_id,": "6b2a8e38b1"
+    }, 
+    {
+        "sentence": "It was found, however, with regard to ISP network security, for example, that logs are not stored for a sufficient length of time, so that, at a given point, they can be used as evidence or contribute to cybercrime investigations.", 
+        "sentence_id,": "7a051ad800"
+    }, 
+    {
+        "sentence": "OBJECTIVES A. Overarching Objective To strengthen the capabilities the state to confront threats that undermine its security and defense in cyberspace (cybersecurity and cyberdefense), creating the necessary environment and conditions to provide protection therein.", 
+        "sentence_id,": "23ac8ff7a6"
+    }, 
+    {
+        "sentence": "This will require the involvement of all government sectors and institutions with responsibilities in the area of cybersecurity and cyberdefense, creating an environment of participation in which all stakeholders act with a common purpose under consensualized strategies and coordinated efforts.", 
+        "sentence_id,": "81c51e552a"
+    }, 
+    {
+        "sentence": "It is also vital to inform the public and raise awareness about all aspects of information security; strengthen levels of international cooperation and partnership in areas of cybersecurity and cyberdefense; support investigations of computer attacks, and protect the public from the consequences of those attacks.", 
+        "sentence_id,": "91ab3ffd1e"
+    }, 
+    {
+        "sentence": "To implement appropriate bodies to prevent, provide assistance, control, produce recommendations, and issue rules on cyber incidents or emergencies, in order to confront threats and risks to national cybersecurity and cyberdefense.", 
+        "sentence_id,": "919a076ac2"
+    }, 
+    {
+        "sentence": "Through this objective, agencies will be established with the necessary technical and operating capacity to ensure the country's cybersecurity and cyberdefense.", 
+        "sentence_id,": "c75741c47a"
+    }, 
+    {
+        "sentence": "To that end, the national government will need to create the following bodies: Graph 5: Coordination Model Source: Ministry of Defense a.", 
+        "sentence_id,": "38d1522ffc"
+    }, 
+    {
+        "sentence": "An Intersectoral Committee charged with devising a strategic vision for information management and with introducing policy guidelines for technology infrastructure management (hardware, software, and communications), public information, and cybersecurity and cyberdefense.", 
+        "sentence_id,": "8164b5759d"
+    }, 
+    {
+        "sentence": "This committee would be chaired by the President of the Republic and its members would include, as a minimum, the Chief Advisor on National Security, the Minister of Defense, the Minister of Information and Communication Technologies, the Director of the Department of Security Administration (DAS) or the entity serving as such, the Director of National Planning, and the Coordinator of ColCERT.", 
+        "sentence_id,": "54c82fb996"
+    }, 
+    {
+        "sentence": "Depending on the topics to be addressed, the Committee would also have the possibility to invite other national actors representing academia and the private sector, as well as international experts and representatives of other state institutions.", 
+        "sentence_id,": "ca4f5ce90f"
+    }, 
+    {
+        "sentence": "b. Colombia's Cyber Emergency Response Team (ColCERT) will be the agency that coordinates cybersecurity and cyberdefense nationwide.", 
+        "sentence_id,": "57e80c31e5"
+    }, 
+    {
+        "sentence": "It will provide assistance to and work in partnership with other national bodies, including the Police Cyber Center (CCP) and the Joint Cyber Command (CCOC).", 
+        "sentence_id,": "8fa5bf512c"
+    }, 
+    {
+        "sentence": "ColCERT will be a Ministry of Defense working group composed of civilian officials, military personnel and representatives of other entities.", 
+        "sentence_id,": "b551b4b0fc"
+    }, 
+    {
+        "sentence": "It will receive guidelines from the Intersectoral Committee.", 
+        "sentence_id,": "f2bcc1dee8"
+    }, 
+    {
+        "sentence": "ColCERTs central objective and mission will be to coordinate the necessary measures to protect the Colombian state's critical infrastructure against cyber emergencies that threaten or compromise national defense and security.", 
+        "sentence_id,": "591976bd01"
+    }, 
+    {
+        "sentence": "ColCERT will have the following specific objectives: To coordinate, together with the Intersectoral Committee, the development and promotion of policies, procedures, recommendations, protocols, and guidelines on cybersecurity and cyberdefense in concert with the relevant stakeholders, as well as ensuring their implementation and compliance.", 
+        "sentence_id,": "a76fedc63b"
+    }, 
+    {
+        "sentence": "To promote local/sectoral capacity building, as well as the creation of sectoral CSIRTs for the operational handling of cybersecurity incidents affecting the country's critical infrastructure, the private sector, and civil society To coordinate and advise CSIRTs and other entities in the public and private sectors, as well as civil society, on computer incident response.", 
+        "sentence_id,": "f060be2b65"
+    }, 
+    {
+        "sentence": "To offer, on demand, prevention services against cyber threats, responses to computer incidents,22 as well as information, awareness-building, and training to all entities.", 
+        "sentence_id,": "d1049f48ef"
+    }, 
+    {
+        "sentence": "To coordinate the implementation of public-private initiatives and policies on awareness raising and specialized skills development in the areas of cybersecurity and cyberdefense.", 
+        "sentence_id,": "b3b09794ed"
+    }, 
+    {
+        "sentence": "To provide assistance to government security and investigation agencies in prevention and investigation of crimes involving information and communication technologies.", 
+        "sentence_id,": "afad5c72d7"
+    }, 
+    {
+        "sentence": "To foster a knowledge management system in the area of cybersecurity and cyberdefense designed to improve the services rendered by ColCERT.", 
+        "sentence_id,": "1d075ef582"
+    }, 
+    {
+        "sentence": "To provide the CCP and CCOC with computer intelligence whenever necessary.", 
+        "sentence_id,": "a637695efc"
+    }, 
+    {
+        "sentence": "To act as international point of contact with its counterparts in other countries, and with international agencies involved in this issue.", 
+        "sentence_id,": "b8c8110185"
+    }, 
+    {
+        "sentence": "An unwanted or unexpected event that occurs in cyberspace, which, in different circumstances, can harm individuals and affect or cause losses to processes and businesses ColCERT is due to start operating in the second half of 2011 within the following the relational scheme: ColCERT Relational Scheme Graph 6: ColCERT Relational Scheme Source: Ministry of Defense ColCERT will also lead and implement the National Network of CSIRTS and Investigation Agencies.", 
+        "sentence_id,": "603aa07d39"
+    }, 
+    {
+        "sentence": "The Network will comprise sectoral CSIRTs and state investigation bodies, and its purpose will be to facilitate and strengthen cooperation and support ties within the country with a view to resolving cybersecurity incidents, through a highly secure platform.", 
+        "sentence_id,": "2640a7a9fb"
+    }, 
+    {
+        "sentence": "c. The Armed Forces Joint Cyber Command (CCOC) will be headed by the General Command of the Armed Forces, who will have the authority to delegate his functions within the Armed Forces subject to the areas of expertise that exist in the sector.", 
+        "sentence_id,": "c011b6b3f0"
+    }, 
+    {
+        "sentence": "It will prevent and counter all cyber threats or attacks that affect the country's assets and interests.", 
+        "sentence_id,": "3ee3b6c505"
+    }, 
+    {
+        "sentence": "The CCOC will have the following general functions: To strengthen the technical and operational capabilities of the country in order to enable it to confront computer threats and cyber attacks through implementation of protection measures at both the hardware and software level, as well as introduction of cyberdefense protocols.", 
+        "sentence_id,": "980b75962e"
+    }, 
+    {
+        "sentence": "To protect critical infrastructure and reduce the computer risks to the country's strategic information, as well as strengthen protection for the computer systems of Colombia's security forces.", 
+        "sentence_id,": "b710900763"
+    }, 
+    {
+        "sentence": "To develop neutralization and response capabilities for dealing with computer incidents and attacks against the country's security and defense.", 
+        "sentence_id,": "92e14ef37c"
+    }, 
+    {
+        "sentence": "The CCOC will follow national guidelines and work in coordination with ColCERT.", 
+        "sentence_id,": "57f3d07bc2"
+    }, 
+    {
+        "sentence": "d. The Police Cyber Center (CCP) will be in charge of cybersecurity in Colombian territory, offering information, assistance, and protection against cybercrime.", 
+        "sentence_id,": "c5ed7d794a"
+    }, 
+    {
+        "sentence": "Its activities will include prevention, assistance, investigation, and prosecution of computer crime in the country, as well as providing information about vulnerabilities to cyber attack on its website.", 
+        "sentence_id,": "a443a81cb4"
+    }, 
+    {
+        "sentence": "It will receive and heed the national cybersecurity guidelines and work in coordination with ColCERT.", 
+        "sentence_id,": "17333d27ff"
+    }, 
+    {
+        "sentence": "The CCP will consist of a team appointed by the national police, which will be in charge of the operational response to cybercrime.", 
+        "sentence_id,": "ab41930b74"
+    }, 
+    {
+        "sentence": "The operational structure of the CCP will comprise the Virtual Immediate Assistance Command (CAI Virtual), a prevention group, an incident management group, and an investigation group.", 
+        "sentence_id,": "49f8c6bbcb"
+    }, 
+    {
+        "sentence": "The task of CAI Virtual will be to receive information and reports of cybercrimes, and to classify the criminal conduct found.", 
+        "sentence_id,": "18aaf6cedd"
+    }, 
+    {
+        "sentence": "It may also receive requests for talks, training courses, or visits to raise awareness about security issues as it will be in charge of cybercrime prevention and awareness building, which will always be carried out in coordination with ColCERT.", 
+        "sentence_id,": "9051ef7266"
+    }, 
+    {
+        "sentence": "The CCP will investigate cybercrime and provide support in prosecuting cases classified as computer crimes.", 
+        "sentence_id,": "049f789147"
+    }, 
+    {
+        "sentence": "In general terms, its functions will be as follows: To protect the citizenry from cyber threats/crimes.", 
+        "sentence_id,": "0fc89ff03b"
+    }, 
+    {
+        "sentence": "To respond at the operational level to cybercrime, carrying out coordinated efforts in the areas of prevention, assistance, investigation, and support for prosecution of computer crime in the country.", 
+        "sentence_id,": "c45a61a56b"
+    }, 
+    {
+        "sentence": "To provide advisory services on vulnerabilities and threats in computer systems.", 
+        "sentence_id,": "02e27be93c"
+    }, 
+    {
+        "sentence": "To inform the public to enable preventive steps against the loss of availability, integrity, and/or confidentiality of information.", 
+        "sentence_id,": "a183a45943"
+    }, 
+    {
+        "sentence": "To provide assistance and investigate, in coordination with ColCERT, cyber vulnerabilities, threats and incidents that undermine the country's critical computer infrastructure.", 
+        "sentence_id,": "b89dae45c0"
+    }, 
+    {
+        "sentence": "To foster awareness of cybersecurity policies in partnership with stakeholders.", 
+        "sentence_id,": "06a3493798"
+    }, 
+    {
+        "sentence": "Provide specialized training in information security and broaden lines of investigation in cybersecurity and cyberdefense.", 
+        "sentence_id,": "5229e57a03"
+    }, 
+    {
+        "sentence": "This objective will make it possible to generate -and strengthen existing- capacities in the area of cybersecurity, so as to be able to deal with threats that undermine the proposed aims.", 
+        "sentence_id,": "ffaf7d7f9f"
+    }, 
+    {
+        "sentence": "At first, training will be provided to staff directly involved in tackling and managing cyber incidents.", 
+        "sentence_id,": "b1a213a261"
+    }, 
+    {
+        "sentence": "This training will gradually be extended to all other government agencies.", 
+        "sentence_id,": "731344711d"
+    }, 
+    {
+        "sentence": "As part of its training plans, ColCERT, with support provided by the OAS Inter-American Committee against Terrorism (CICTE) and others, will carry out a training program for all other civil servants, in addition to implementing awareness raising programs for the general public.", 
+        "sentence_id,": "82456aedbe"
+    }, 
+    {
+        "sentence": "Similarly, the Ministry of Defense will endeavor to phase in theoretical and practical courses on information security, cybersecurity, and cyberdefense at officer and NCO training schools.", 
+        "sentence_id,": "42e80d0805"
+    }, 
+    {
+        "sentence": "In the same way, the CCP will seek the collaboration of programs that support the implementation of the accusatory oral criminal justice system, such as the International Criminal Investigative Training Assistance Program (ICITAP), ATA, OPDAT, together with national agencies, such as the School of Criminal Investigation, Criminalistics and Forensic Sciences of the Office of the Attorney General and the Rodrigo Lara Bonilla Judiciary School, among others, in order to introduce legal training programs on computer security for judicial police, prosecutors, and judges.", 
+        "sentence_id,": "548f03668d"
+    }, 
+    {
+        "sentence": "Strengthen the cybersecurity and cyberdefense laws, bolster international cooperation, and move toward accession by Colombia of the various international instruments in this area The purpose of this objective is to develop the necessary legal tools to ensure effective and efficient prevention, investigation, and prosecution of cybercrime.", 
+        "sentence_id,": "944983eb47"
+    }, 
+    {
+        "sentence": "Thus, moves will be made toward the enactment of the necessary legal framework to comply with international treaties in this regard as they are adopted into the constitutional body of laws.", 
+        "sentence_id,": "1995202f3e"
+    }, 
+    {
+        "sentence": "At the same time, efforts will be made to introduce the necessary regulations to implement the country's laws.", 
+        "sentence_id,": "ee4a6865ec"
+    }, 
+    {
+        "sentence": "The institutions responsible for cybersecurity and cyberdefense should seek and evaluate their participation in different international cooperation networks and mechanisms (Council of Europe, OAS, and FIRST), with a view to preparing the country to tackle the increasing cybersecurity challenges that exist on the international plane, as well as to respond more efficiently to cybersecurity incidents and offenses.", 
+        "sentence_id,": "2953cef0c1"
+    }, 
+    {
+        "sentence": "Colombia will face the challenge of positioning itself as a regional leader in the area of cybersecurity through exchange of good practices, expertise, and experience, giving particular attention to promoting the country's experience in the cybersecurity and cyberdefense policy development process.", 
+        "sentence_id,": "47bd0f0513"
+    }, 
+    {
+        "sentence": "To that end, decision-makers and experts on the subject will have to attend international conferences, seminars, and specialized meetings to discuss cybersecurity issues.", 
+        "sentence_id,": "378ef005e4"
+    }, 
+    {
+        "sentence": "In order to achieve all of the foregoing, ColCERT and the CCP will have to combine their initiatives with those of the private sector and civil society.", 
+        "sentence_id,": "61da0af721"
+    }, 
+    {
+        "sentence": "V. PLAN OF ACTION Entidad Dependencia Implementar la Institucionalidad Adecuada: 1AprobarloslineamientosdePolticaparaeldesarrolloeimpulsodelaestrategiadeciberseguridadylaciberdefensa,presentadosen este documento.", 
+        "sentence_id,": "27b8f32372"
+    }, 
+    {
+        "sentence": "Departamento Nacional de PlaneacinSubdireccin General14/07/201114/07/20112SolicitaralMinisteriodeDefensaNacionalyalMinisteriodeTecnologasdelaInformacinylasComunicacionesadoptarelmecanismodecoordinacinintersectorialmsadecuadoparaemitirloslineamientosrectoresdelcolCERT.Encaso de no existir uno, se solicita su creacin.", 
+        "sentence_id,": "0fb3c69f28"
+    }, 
+    {
+        "sentence": "Ministerio de Defensa Nacional, Ministerio de Tecnologas de la Informacin y las ComunicacionesDespacho de Ministro de Defensa Nacional / Despacho de Ministro de Tecnologas de la Informacin y las Comunicaciones14/07/201131/12/20123SolicitaralMinisteriodeDefensaNacionalcrearelGrupodeRespuestaaEmergenciasCibernticas de Colombia colCERT.", 
+        "sentence_id,": "d99c9e11c7"
+    }, 
+    {
+        "sentence": "Ministerio de Defensa NacionalDespacho de Ministro de Defensa Nacional14/07/201131/12/20114SolicitaralMinisteriodeDefensaNacionalqueunavezcreadoelcolCERT,emitalosmodelosdeseguridadenelciberespacioqueminimicenelnivelderiesgoalquelasentidadesestnexpuestas.", 
+        "sentence_id,": "463ab25671"
+    }, 
+    {
+        "sentence": "Ministerio de Defensa NacionalDespacho de Ministro de Defensa Nacional14/07/201130/06/20125SolicitaralMinisteriodeTecnologasdelaInformacinylasComunicacionesyalaComisindeRegulacindeComunicacionesrealizarelacompaamientoalMinisteriodeDefensaNacionalenlasactividadesqueseconsiderenpertinentesparalaconformacinyeldesarrollo de las actividades del colCERT.", 
+        "sentence_id,": "f8ffdec29d"
+    }, 
+    {
+        "sentence": "Ministerio del Tecnologas de Informacin y las Comunicaciones, Comisin de Regulacin de las ComunicacionesDespacho del Ministro de Tecnologas de la Informacin y las Comunicaciones, Director Ejecutivo de la Comisin de Comunicaciones14/07/201131/12/20156SolicitaralMinisteriodelInteriorydeJusticia,alMinisteriodelTecnologasdeInformacinylasComunicaciones,yalDepartamentoAdministrativodeSeguridadoquienhagasusveces,destinarrecursohumanoconconocimientostcnicosy/ojurdicoseneltemadeseguridaddelainformacinyciberseguridad, paraapoyarlaejecucindeactividadesdelcolCERT.", 
+        "sentence_id,": "9d41cc7e39"
+    }, 
+    {
+        "sentence": "Ministerio del Interior y Justicia, Ministerio del Tecnologas de Informacin y las Comunicaciones, DAS o quien haga sus vecesDespacho del Ministro de Tecnologas de la Informacin y las Comunicaciones / Direccin General Departamento Administrativo de Seguridad14/07/201131/12/20127SolicitaralMinisteriodeDefensaNacionalcrearel Centro Ciberntico Policial CCP.", 
+        "sentence_id,": "e16abcbe32"
+    }, 
+    {
+        "sentence": "Ministerio de Defensa NacionalDespacho de Ministro de Defensa Nacional14/07/201131/12/20118SolicitaralMinisteriodeDefensaNacionalcrearel Comando Conjunto Ciberntico CCOC.", 
+        "sentence_id,": "31b99e1355"
+    }, 
+    {
+        "sentence": "Ministerio de Defensa NacionalDespacho de Ministro de Defensa Nacional14/07/201131/12/20119SolicitaralMinisteriodeDefensaNacionalrealizarencoordinacinconelMinisteriodeTecnologasdelaInformacinylasComunicacionesestudiosenseguridaddelainformacin,ascomolaidentificacindelainfraestructura crtica nacional.", 
+        "sentence_id,": "ed2465dcf4"
+    }, 
+    {
+        "sentence": "Ministerio de Defensa NacionalDespacho de Ministro de Defensa Nacional14/07/201131/12/201210SolicitaralMinisteriodelasTecnologasdelaInformacinylasComunicacionesemitirundocumentoconlasdirectricesentemasdeseguridaddelainformacinbasadoenestndaresinternacionales,quedebernserimplementadasporlasentidadesdelsectorpblico.", 
+        "sentence_id,": "0fa331ca84"
+    }, 
+    {
+        "sentence": "Ministerio de Tecnologas de la Informacin y Comunicaciones Despacho de Ministro de Tecnologas de la Informacin y las Comunicaciones14/07/201131/12/2013Fecha de finalizacinAccin concretaInformacin del Responsable de la ejecucin # AFecha de inicio Entidad Dependencia11SolicitaralaComisindeRegulacindeComunicacionesrealizarunanlisisregulatorioacercadelosaspectostcnicosquedebencumplirlosproveedoresderedesyserviciosdetelecomunicacionesparagarantizarlosprincipiosdeconfidencialidaddedatos, integridad de datos y disponibilidad, as como las medidasparaautenticacinyaccesodelosusuariosalaredyelnorepudiodelascomunicacionesy,encasodeserrequeridoapartirdetalanlisis,llevaracabolosajustesaquehayalugarfrentealmarcoregulatoriovigente.", 
+        "sentence_id,": "140b90c93a"
+    }, 
+    {
+        "sentence": "Comisin de Regulacin de las ComunicacionesDirector Ejecutivo de la Comisin de Comunicaciones14/07/201131/12/201512SolicitaralMinisteriodelasTecnologasdelaInformacinylasComunicaciones,facilitarloscanalesinstitucionalesparaqueelcolCERTpuedarealizarlasensibilizacinyconcienciacinentemasdeseguridadciberntica.", 
+        "sentence_id,": "3804e13177"
+    }, 
+    {
+        "sentence": "Ministerio de Tecnologas de la Informacin y las Comunicaciones Despacho de Ministro de Tecnologas de la Informacin y las Comunicaciones14/07/201131/12/201213SolicitaralMinisteriodeDefensaNacionalencoordinacinconelMinisteriodeTecnologasdelaInformacinylasComunicaciones,disearlascampaas de sensibilizacin y concienciacin en temas de seguridad ciberntica.", 
+        "sentence_id,": "df38dd2789"
+    }, 
+    {
+        "sentence": "Ministerio de Defensa NacionalDespacho de Ministro de Defensa Nacional14/07/201131/12/201214SolicitaralMinisteriodeDefensaNacionalimplementargradualmenteasignaturasenseguridaddelainformacin,ciberdefensayciberseguridad(terico-prcticas),enlasescuelasdeformacinydecapacitacindeoficiales y suboficiales.", 
+        "sentence_id,": "4813cce3de"
+    }, 
+    {
+        "sentence": "Ministerio de Defensa NacionalDespacho de Ministro de Defensa Nacional14/07/201131/12/201515SolicitaralMinisteriodeDefensaNacionaladelantarunplandecapacitacinentemasdeseguridaddelainformacinparalosfuncionariosdelEstado,conelapoyodeorganismos internacionales.", 
+        "sentence_id,": "e06f60fe3b"
+    }, 
+    {
+        "sentence": "Ministerio de Defensa NacionalDespacho de Ministro de Defensa Nacional14/07/201131/12/201516SolicitaralMinisteriodeTecnologasdelaInformacinylasComunicaciones,alMinisteriodeDefensaNacionalyalDepartamentoAdministrativodeSeguridadoaquienhagasusveces,diseareimplementarplanesdecapacitacinenloreferenteaseguridadinformtica,investigacinyjudicializacindedelitos informticos, para polica judicial.", 
+        "sentence_id,": "8739e8cab2"
+    }, 
+    {
+        "sentence": "Ministerio de Tecnologas de la Informacin y las Comunicaciones, Ministerio de Defensa Nacional, DAS o quien haga sus veces Despacho del Ministro de Tecnologas de la Informacin y las Comunicaciones, Despacho del Ministro de Defensa Nacional, Direccin General DAS14/07/201131/12/201517SugeriralaFiscalaGeneraldelaNacinencoordinacinconelConsejoSuperiordelaJudicaturadiseareimplementarplanesdecapacitacinsobretemasdeinvestigacinyjudicializacindedelitosinformticos,parapolica judicial, jueces y fiscales.", 
+        "sentence_id,": "7d700c81ca"
+    }, 
+    {
+        "sentence": "Fiscala General de la NacinCoordinador Nacional de Delitos Informaticos14/07/201131/12/201418SolicitaralMinisteriodeTecnologasdelaInformacinylasComunicacionesrealizarlasgestionesnecesariasconelMinisteriodeEducacinNacionalyelSENA,paralageneracindeunplandecapacitacinparaelsectorprivadoentemasdeciberseguridadydeseguridad de la informacin.", 
+        "sentence_id,": "0256eda6dd"
+    }, 
+    {
+        "sentence": "Ministerio de Tecnologas de la Informacin y Comunicaciones Despacho de Ministro de Tecnologas de la Informacin y las Comunicaciones14/07/201131/12/2013Fecha de finalizacinBrindar capacitacin especializada en seguridad de la informacin y ampliar las lneas de investigacin en ciberseguridad y ciberdefensa: # AAccin concretaInformacin del Responsable de la ejecucin Fecha de inicio Entidad Dependencia19SolicitaralMinisteriodelInteriorydeJusticiarealizarencoordinacinconelelMinisteriodeDefensaNacionalyelMinisteriodeTecnologasde Informacin y Comunicaciones, un documento enelqueseanalicelanormatividadactualyseproponganlasmodificacionesnecesariasenmateriadeseguridaddelainformacinyproteccindedatos,paraprevenirelciberdelito, identificandolasdificultadesdeinterpretacinyaplicacin.", 
+        "sentence_id,": "fcd2463e7c"
+    }, 
+    {
+        "sentence": "Ministerio del Interior y JusticiaDespacho de Ministro del Interior y Justicia14/07/201131/12/201320SolicitaralMinisteriodelInterioryJusticia,encoordinacinconelMinisteriodeDefensaNacionalyelMinisteriodeTecnologasdelaInformacinylasComunicaciones,conbaseenelanlisisrealizado,adelantarlasiniciativastendientesaexpediroreformarlasleyesqueseannecesariasascomoreglamentaraquellasaquehayalugar,enarasdegarantizarelmarconormativoadecuadoparalaciberseguridad,laciberdefensa y la seguridad de la informacin.", 
+        "sentence_id,": "ac80852b83"
+    }, 
+    {
+        "sentence": "Ministerio del Interior y JusticiaDespacho de Ministro del Interior y Justicia14/07/201131/12/201321SolicitaralMinisteriodeRelacionesExterioresapoyaralcolCERT,enmateriadecooperacininternacional,enlostemasdeciberseguridad, ciberdefensayseguridadinformtica,enlosqueseincluyaladesignacindelcolCERTcomopuntodecontactointernacionalentemasreferentes a la ciberseguridad y la ciberdefensa.", 
+        "sentence_id,": "e0b6b45d91"
+    }, 
+    {
+        "sentence": "Ministerio de Relaciones ExterioresDespacho de Ministra de Relaciones Exteriores14/07/201131/12/2012Ministerio de Relaciones ExterioresDespacho de Ministra de Relaciones Exteriores14/07/201131/12/2012Ministerio de Relaciones ExterioresDireccin de Asuntos Polticos Multilaterales14/07/201131/12/2012 Las Leyes se consideraran implementadas con la presentacin del proyecto.", 
+        "sentence_id,": "168218f4c9"
+    }, 
+    {
+        "sentence": "Informacin del Responsable de la ejecucin Fecha de inicio22SolicitaralMinisteriodeRelacionesExteriores, estudiarlaviabilidadyconvenienciaparaColombiadeadheriralosprincipalesinstrumentosinternacionalesenmateriadeseguridaddelainformacinyproteccindedatos,coneldirectoapoyodelMinisteriodeDefensaNacionalyelMinisteriodeTecnologasdelaInformacinylasComunicaciones.Encasodequeelestudioproduzcaunarecomendacinpositiva,iniciarlostrmitesdeadhesinalinstrumento que corresponda.", 
+        "sentence_id,": "eb2e32e9bf"
+    }, 
+    {
+        "sentence": "Fecha de finalizacinFortalecer la legislacin y la cooperacin internacional en materia de ciberseguridad y ciberdefensa: # AAccin concreta VI.", 
+        "sentence_id,": "acd67447d0"
+    }, 
+    {
+        "sentence": "FINANCING The cost of implementing the cybersecurity and cyberdefense guidelines that ColCERT will issue for public-sector entities will also be covered by the budget allocated to each entity.", 
+        "sentence_id,": "35829a1bf3"
+    }, 
+    {
+        "sentence": "The initial implementation of ColCERT, the CCP, and the CCOC in the Ministry of Defense will entail the following appropriations from the Ministry: 2011 2012 2013 2014 $ 1,428,444,328 $ 5,400,000,000 $ 5,000,000,000 $ 4,600,000,000 This budget also covers ColCERT operating with a staff of six (6) officials from the Ministry of Defense and other public-sector entities.23 Moving forward, ColCERT, with the endorsement of the cybersecurity intersectoral coordination mechanism adopted, may consider it necessary to increase the size of the group, which would require a revision of the budget included herein and the support provided by each entity.", 
+        "sentence_id,": "254e95e1bd"
+    }, 
+    {
+        "sentence": "The staff from other public-sector entities will be assigned to the group under a temporary commission.", 
+        "sentence_id,": "8b67f025ee"
+    }, 
+    {
+        "sentence": "It is important to point out that additional funds will be allocated for 2011 in order to assist the General Command of the Armed Forces in implementing the CCOC.", 
+        "sentence_id,": "f13f0fe250"
+    }, 
+    {
+        "sentence": "In 2011, the funding for the three centers will be provided by the operating budget.", 
+        "sentence_id,": "d8fabad6b8"
+    }, 
+    {
+        "sentence": "From 2012 onward, the funding will come from investment in three projects that have already been registered in the Investment Projects Bank.", 
+        "sentence_id,": "67308f5724"
+    }, 
+    {
+        "sentence": "Approve the policy guidelines presented in this report for the development and implementation of the cybersecurity and cyberdefense strategy.", 
+        "sentence_id,": "0e04e5cc36"
+    }, 
+    {
+        "sentence": "Request the Ministry of Defense and the Ministry of Information and Communication Technologies to adopt the most suitable intersectoral coordination mechanism for issuing the ColCERT guidelines.", 
+        "sentence_id,": "18d7df5cce"
+    }, 
+    {
+        "sentence": "Should none exist, it is requested that one be created.", 
+        "sentence_id,": "015b4948bf"
+    }, 
+    {
+        "sentence": "Request the Ministry of Defense to create the Colombian Computer Emergency Response Team (ColCERT).", 
+        "sentence_id,": "5de11ec6ab"
+    }, 
+    {
+        "sentence": "Request the Ministry of Defense, once ColCERT has been established, to issue cybersecurity guidelines that minimize the level of risk to which entities are exposed.", 
+        "sentence_id,": "beec37ebbb"
+    }, 
+    {
+        "sentence": "Request the Ministry of Information and Communication Technologies and the Communications Regulation Commission to work with the Ministry of Defense on such activities as are deemed pertinent for establishing and implementing ColCERT's activities.", 
+        "sentence_id,": "9001f0e8d7"
+    }, 
+    {
+        "sentence": "Request the Ministry of the Interior and Justice, the Ministry of Information and Communication Technologies, and the Department of Security Administration or the entity serving as such, to assign human resources with technical and/or legal expertise in the area of information security and cybersecurity in order to assist in the implementation of ColCERT's activities.", 
+        "sentence_id,": "49b79d41dc"
+    }, 
+    {
+        "sentence": "Request the Ministry of Defense to create the Police Cyber Center (CCP).", 
+        "sentence_id,": "e504830d67"
+    }, 
+    {
+        "sentence": "Request the Ministry of Defense to create the Joint Cyber Command (CCOC).", 
+        "sentence_id,": "9d649d9ea0"
+    }, 
+    {
+        "sentence": "Request the Ministry of Defense, in coordination with the Ministry of Information and Communication Technologies, to carry out information security studies and identify the country's critical infrastructure.", 
+        "sentence_id,": "4e311e8ba2"
+    }, 
+    {
+        "sentence": "Request the Ministry of Information and Communication Technologies to issue a document containing information security guidelines based on international standards, which public-sector entities would be required to implement.", 
+        "sentence_id,": "b407047d47"
+    }, 
+    {
+        "sentence": "Request the Communications Regulation Commission to carry out a review of regulations on technical aspects to be met by telecommunications services and network providers in order to conform to the principles of data confidentiality, data integrity, and availability, as well as authentication and user network access mechanisms, and non-repudiation of communications; and request the Commission, if necessary, based on the review, to implement the appropriate adjustments to the regulatory framework in force.", 
+        "sentence_id,": "c9304e4349"
+    }, 
+    {
+        "sentence": "Provide specialized training in information security and broaden lines of investigation in cybersecurity and cyberdefense.", 
+        "sentence_id,": "7946e5752f"
+    }, 
+    {
+        "sentence": "Request the Ministry of Information and Communication Technologies, to facilitate institutional channels to enable ColCERT to carry out awareness raising on cybersecurity.", 
+        "sentence_id,": "cfc8ba90d2"
+    }, 
+    {
+        "sentence": "Request the Ministry of Defense, in coordination with the Ministry of Information and Communication Technologies, to design cybersecurity awareness raising campaigns.", 
+        "sentence_id,": "7b31ad7991"
+    }, 
+    {
+        "sentence": "Request the Ministry of Defense to phase in courses on information security, cybersecurity and cyberdefense (theory-practical) at officer and NCO training schools.", 
+        "sentence_id,": "735157415e"
+    }, 
+    {
+        "sentence": "Request the Ministry of Information and Communication Technologies, the Ministry of Defense, and the Department of Security Administration or the entity serving as such, to design and implement training programs for judicial police on information security and on computer crime investigation and prosecution.", 
+        "sentence_id,": "dc81e0dbb0"
+    }, 
+    {
+        "sentence": "Suggest to the Office of the Attorney General of the Nation that, in coordination with the Superior Council of the Judicature, it design and implement training programs on computer crime investigation and prosecution for judicial police, judges, and prosecutors.", 
+        "sentence_id,": "f5c0988305"
+    }, 
+    {
+        "sentence": "Request the Ministry of Information and Communication Technologies to make the necessary arrangements with the Ministry of Education and the SENA to develop a cybersecurity and information security training program for the private sector.", 
+        "sentence_id,": "a0c3bf7ac4"
+    }, 
+    {
+        "sentence": "Request the Ministry of the Interior and Justice to prepare, in coordination with the Ministry of Defense and the Ministry of Information and Communication Technologies, a document that reviews the standards in place and proposes the necessary modifications as regards information security and data protection, in order to prevent cybercrime, as well as identifying difficulties in terms of interpretation and enforcement.", 
+        "sentence_id,": "6cc97a2695"
+    }, 
+    {
+        "sentence": "Request the Ministry of the Interior and Justice, in coordination with the Ministry of Defense and the Ministry of Information and Communication Technologies, to implement, based on the review carried out, initiatives to enact or reform the necessary laws, and, as appropriate, adopt implementing regulations for laws, in a bid to ensure an adequate legal framework for cybersecurity, cyberdefense, and information security.", 
+        "sentence_id,": "1a171f292b"
+    }, 
+    {
+        "sentence": "Request the Ministry of Foreign Affairs, with regard to international cooperation in the areas of cybersecurity, cyberdefense, and information security, to support ColCERT in those instances for which it has been designated the international point of contact for cybersecurity and cyberdefense.", 
+        "sentence_id,": "2df719abdd"
+    }, 
+    {
+        "sentence": "Request the Ministry of Foreign Affairs to examine the feasibility and advisability of Colombia's accession to the principal international instruments on information security and data protection, with direct assistance from the Ministry of Defense and the Ministry of Information and Communication Technologies.", 
+        "sentence_id,": "7f6c6f9f9b"
+    }, 
+    {
+        "sentence": "Should the study result in a positive recommendation, initiate the formalities for accession to the appropriate instrument or instruments.", 
+        "sentence_id,": "99d07e11c6"
+    }, 
+    {
+        "sentence": "SELECT BIBLIOGRAPHY usCERT Estados Unidos: http://www.us-cert.gov Carnegie Mellon University/CERT Coordination Center: http://www.cert.org/csirts/ U.S. National Strategy To Secure Cyberspace http://www.whitehouse.gov/pcipb/ Forum Of Incident Response Security Teams (FIRST): http://www.first.org Inter-American Committee against Terrorism (CICTE), Organization of American States: http://www.cicte.oas.org Inter-American Cooperation Portal on Cybercrime: http://www.oas.org/juridico/english/cyber.htm ENISA Setting-up Guide.", 
+        "sentence_id,": "92e3634ace"
+    }, 
+    {
+        "sentence": "A Step-by-Step Approach on How to Set up a CSIRT.", 
+        "sentence_id,": "f5cbc4ccd0"
+    }, 
+    {
+        "sentence": "GLOSSARY OF TERMS BotNet: The name given to a network of computers that combines their resources to perform a common task and shares the workload among all the computers (FireEye Arbornet).", 
+        "sentence_id,": "2c515f78af"
+    }, 
+    {
+        "sentence": "CERT: Computer Emergency Response Team.", 
+        "sentence_id,": "0c6e57322f"
+    }, 
+    {
+        "sentence": "(Carnegie-Mellon University) Computer risk: The possibility that a concrete threat could exploit a vulnerability in order to cause a loss or harm to an information asset.", 
+        "sentence_id,": "71003dad31"
+    }, 
+    {
+        "sentence": "(ISO Guide 73:2002) Convergence: Coordinated evolution of formerly discrete networks towards uniformity in support of services and applications.", 
+        "sentence_id,": "7dd0649e9a"
+    }, 
+    {
+        "sentence": "ITU-T Q.1761, 3.1) Critical infrastructure: The array of computers, computer systems, and telecommunications, data, and information networks, whose destruction or interference could weaken or impact on the security of a country's economy, public health, or both.", 
+        "sentence_id,": "066b0c2667"
+    }, 
+    {
+        "sentence": "(CRC resolution 2258 of 2009) CSIRT: Computer Security Incident Response Team.", 
+        "sentence_id,": "20395bf63b"
+    }, 
+    {
+        "sentence": "(http:// www.first.org) Cyber attack: An organized and/or premeditated act by one or more persons to harm or cause problems to a computer system via cyberspace.", 
+        "sentence_id,": "cbbb640a70"
+    }, 
+    {
+        "sentence": "(Ministry of Defense of Colombia) Cybercrime: An illegal or abusive activity connected with computers or communications networks in which a computer is used as a tool to commit the offense or the target of the offense is a computer system (or its data).", 
+        "sentence_id,": "4d61d2a4a9"
+    }, 
+    {
+        "sentence": "(Ministry of Defense of Colombia) Cyberdefense: The states capacity to prevent and counter any cyber threat or incident that undermines national sovereignty.", 
+        "sentence_id,": "33f5fe5f73"
+    }, 
+    {
+        "sentence": "Cyber incident: Any real or suspected adverse event in relation to the security of computer systems or computer networks: http://www.cert.org/csirts/csirt_faq.html CERT/CC.", 
+        "sentence_id,": "fa0b93b832"
+    }, 
+    {
+        "sentence": "Cybernetic: Adjective meaning of or relating to cybernetics (e.g., cybernetic organ, cybernetic process).", 
+        "sentence_id,": "50ef6995d8"
+    }, 
+    {
+        "sentence": "(Translation of the definition coined by the Academy of the Spanish Language) Cybernetics: The science or discipline that studies automatic communication and control mechanisms or the operating technology of connections in living beings and in machines.", 
+        "sentence_id,": "cc5236a3bb"
+    }, 
+    {
+        "sentence": "(Translation of the definition coined by the Academy of the Spanish Language) Cybersecurity: The states capacity to minimize the level of exposure of its citizens to cyber threats or incidents.", 
+        "sentence_id,": "968c1bb0b6"
+    }, 
+    {
+        "sentence": "Cyberspace: The physical and virtual environment composed of computers, computer systems, computer programs (software), and telecommunications, data, and information networks, in which users interact with each other.", 
+        "sentence_id,": "eea9c0c2ba"
+    }, 
+    {
+        "sentence": "(CRC resolution 2258 of 2009).", 
+        "sentence_id,": "0d831ddbb8"
+    }, 
+    {
+        "sentence": "Cyberterrorism: The convergence of terrorism and cyberspace.", 
+        "sentence_id,": "0d7a302b32"
+    }, 
+    {
+        "sentence": "It is generally understood to mean unlawful attacks and threats of attack against computers, networks, and the information stored therein.", 
+        "sentence_id,": "3838827804"
+    }, 
+    {
+        "sentence": "To qualify as cyberterrorism, an attack should result in violence against persons or property, or at least cause enough harm to generate fear.", 
+        "sentence_id,": "a8f0f21c03"
+    }, 
+    {
+        "sentence": "Examples include attacks that lead to death or bodily injury, explosions, plane crashes, water contamination, or severe economic loss.", 
+        "sentence_id,": "ccd0dc2e81"
+    }, 
+    {
+        "sentence": "(Dorothy Denning, Georgetown University) Cyber threat: The appearance of a potential or actual situation in which an agent has the capacity to produce a cyber attack against the population, territory, and political organization of the state.", 
+        "sentence_id,": "966c3b6be3"
+    }, 
+    {
+        "sentence": "(Ministry of Defense of Colombia) DDoS: Distributed Denial of Service.", 
+        "sentence_id,": "1ed5885a6f"
+    }, 
+    {
+        "sentence": "Ataques Distribuidos de Denegacin de Servicio.", 
+        "sentence_id,": "4d21840e8c"
+    }, 
+    {
+        "sentence": "(http://www.rediris.es) DOS: Denial of Service.", 
+        "sentence_id,": "61caca6626"
+    }, 
+    {
+        "sentence": "Service not available to a person or process (application) when necessary (availability).", 
+        "sentence_id,": "1eed52306e"
+    }, 
+    {
+        "sentence": "(http://www.rediris.es) Electronic Services (or e-Services): The improvement in the provision of public services to citizens via cyberspace.", 
+        "sentence_id,": "2cc15a4fa0"
+    }, 
+    {
+        "sentence": "ICTs: Information and Communication Technologies Collection of resources, tools, equipment, computer programs, applications, networks, and media that enable the compilation, processing, storage, and transmission of information as voice, data, text, video, and images.", 
+        "sentence_id,": "49575b07e5"
+    }, 
+    {
+        "sentence": "(Law 1341/2009 TIC) IP (Internet Protocol): A numerical label assigned, logically and hierarchically, to the interface (communication/connection element) of a device (normally a computer) within a network that uses the IP protocol.", 
+        "sentence_id,": "f412687637"
+    }, 
+    {
+        "sentence": "(http://www.iso.org) ISO: International Organization for Standardization, which has its headquarters in Geneva, Switzerland.", 
+        "sentence_id,": "b64139a61c"
+    }, 
+    {
+        "sentence": "A worldwide federation of national standards institutes promoting the development of standardization of goods and services.", 
+        "sentence_id,": "6238f72a08"
+    }, 
+    {
+        "sentence": "(http://www.iso.org) ISO 27002: Code of practice for information security management (transcript of ISO 17799).", 
+        "sentence_id,": "734d5b1f14"
+    }, 
+    {
+        "sentence": "(http://www.iso.org) ISP: Internet service providers.", 
+        "sentence_id,": "e3a41a9f3a"
+    }, 
+    {
+        "sentence": "In Colombia these entities also provide telephony and television services, which makes them providers of integrated telecommunications services.", 
+        "sentence_id,": "4bcad5bfcb"
+    }, 
+    {
+        "sentence": "IT: Information technologies.", 
+        "sentence_id,": "e46f2f12af"
+    }, 
+    {
+        "sentence": "Logical security: Consists of the application of barriers that guard access to data whereby only authorized persons are allowed access.", 
+        "sentence_id,": "c66b907008"
+    }, 
+    {
+        "sentence": "(http://www.segu-info.com) Logs: An official record of events over a particular period of time.", 
+        "sentence_id,": "c95c155d8c"
+    }, 
+    {
+        "sentence": "For computer security professionals, a log serves to keep a record of data or information as to the who, what, when, where, and why with regard to an event that involves a particular device or application.", 
+        "sentence_id,": "4224e3d52c"
+    }, 
+    {
+        "sentence": "NAP (Network Access Point) Colombia: The national connection point for ISP networks in Colombia, which ensures that Internet traffic to and from our country only uses local or national channels.", 
+        "sentence_id,": "7106b86f46"
+    }, 
+    {
+        "sentence": "(www.nap.com.co) NTC5411- 1 Information and communication technologies security management.", 
+        "sentence_id,": "3345928bdc"
+    }, 
+    {
+        "sentence": "(ICONTEC International publications catalog) Telecommunications: Any transmission and reception of signs, signals, writing, images and sound, data, or information of any nature by wire, radiofrequency, optical media, or other electromagnetic systems.", 
+        "sentence_id,": "1e631e3277"
+    }, 
+    {
+        "sentence": "(MinTIC resolution 202 of 2010).", 
+        "sentence_id,": "f9f57f6a8c"
+    }, 
+    {
+        "sentence": "Threat: Potential security breach.", 
+        "sentence_id,": "03a92933cd"
+    }, 
+    {
+        "sentence": "UIT-T X.800, 3.3.55) UNESCO - United Nations Educational, Scientific and Cultural Organization Zombies: The name given to computers that have been remotely infected by a malicious user with some kind of software that, upon infiltrating the manipulated computer without the consent of the user allows a third party to use it and perform illicit activities over the web.", 
+        "sentence_id,": "22cc54475f"
+    }, 
+    {
+        "sentence": "[Instituto Nacional de Tecnologas de la Comunicacin, (INTECO) CERT, Spain].", 
+        "sentence_id,": "16264a7fa5"
+    }, 
+    {
+        "sentence": "ACRONYMS AND ABBREVIATIONS CCD: Cooperative Cyber Defence Centre of Excellence CCIT: Colombian Chamber of Informatics and Telecommunications CCOC: Joint Cyber Command CCP: Police Cyber Center CICTE: Inter-American Committee against Terrorism COINFO: Intersectoral Committee on Information Policy and Management in the Public Administration ColCERT: Cyber Emergency Response Team of Colombia (Ministry of Defense of Colombia) CONPES: National Council on Economic and Social Policy CRC: Communications Regulation Commission DAS: Department of Security Administration FIRST: Forum on Incident Response Teams FBI: Federal Bureau of Investigation IEC: International Electrotechnical Commission ISO: International Organization for Standardization ITU: International Telecommunication Union MDN: Ministry of Defense.", 
+        "sentence_id,": "22768008ab"
+    }, 
+    {
+        "sentence": "MinTIC's: Ministry of Information and Communication Technologies NATO: North Atlantic Treaty Organization OAS: Organization of American States UNESCO: United Nations Educational, Scientific and Cultural Organization", 
+        "sentence_id,": "efeb9d47d0"
+    }
+]

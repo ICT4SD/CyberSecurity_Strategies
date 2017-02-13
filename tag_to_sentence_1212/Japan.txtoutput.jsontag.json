@@ -1,0 +1,771 @@
+[
+    {
+        "sentence_id,": "d0abf3e55d", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Looking towards the Games of the XXXII Olympiad and the Tokyo 2020 Paralympic Games (hereinafter Tokyo 2020 Olympic and Paralympic Games) and the prospects further ahead for the early 2020s, this strategy outlines the basic 1 directions of Japans cybersecurity policy for the coming three years approximately."
+    }, 
+    {
+        "sentence_id,": "36c0805068", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "104 of November 12, 2014), Article 1: Facing domestic and foreign changes such as the intensification of threats against cybersecurity on a worldwide scale, and with the establishment of the Internet and other advanced information and telecommunications networks and the utilization of information and telecommunications technologies, and given the situation that it is an urgent issue to ensure the free flow of information and protect cybersecurity simultaneously, the purpose of this Act is to comprehensively and effectively promote cybersecurity policy by: stipulating basic principles of national cybersecurity policy; clarifying the responsibilities of the Government of Japan (hereinafter referred to as the Government), local governments, and other concerned public parties; stipulating essential matters for cybersecurity-related policies such as cybersecurity strategy formulation; and establishing the Cybersecurity Strategic Headquarters and so forth, together with the Basic Act on the Formation of an Advanced Information and Telecommunications Network Society (Act."
+    }, 
+    {
+        "sentence_id,": "88141cf81b", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "5 (2) Policy Areas the Strategy Encompasses In the interconnected and converged information society, activities in cyberspace and those in the real world are closely linked."
+    }, 
+    {
+        "sentence_id,": "384a8863b8", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Standing by these ideals, and while undergoing a historical paradigm shift in the entire human society, the Government of Japan has set the following three areas as its policy goals, that are: the improvement of socioeconomic vitality and sustainable development; the creation of a society where the people can live safe and secure lives; and, peace and stability of the international community as well as national security."
+    }, 
+    {
+        "sentence_id,": "6aca4035eb", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "It is a standing policy of the Government of Japan: to promote IT utilization 2, to assure the growth strategy 3 firmly, and to take all possible means to ensure Japans national security 4, through cybersecurity assurance."
+    }, 
+    {
+        "sentence_id,": "ed9a692126", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Basic Principles Japan affirms the following basic principles in policy planning and implementation for reaching the objective of this strategy."
+    }, 
+    {
+        "sentence_id,": "87a00505ef", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "On these principles of the strategy, any act of terrorism and other behaviors that threaten peace, and any act to support terrorism or such destructive behaviors, will not be tolerated with respect to the freedom of people; instead, these principles should be reflected in cybersecurity policies in harmony with perspectives of peoples safety and security as well as national security."
+    }, 
+    {
+        "sentence_id,": "99dbd465a5", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Cybersecurity policies, as expected by the people, should enable the coexistence of the freedom of expression and the protection of their privacy; and the protection of their rights by deterring malicious actors activities supported by timely and appropriate law enforcement as well as the development of other relevant regulatory mechanisms."
+    }, 
+    {
+        "sentence_id,": "71d9e3108c", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Policy Measures towards Achieving the Objective The following are the goals and directions of the policies scheduled to be implemented in coming three years, for delivering results of the strategy."
+    }, 
+    {
+        "sentence_id,": "90889fa37b", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "They are based on the five basic principles previously described and illustrated with respect to each policy area where the strategy contributes."
+    }, 
+    {
+        "sentence_id,": "b56be1a0f8", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Each policy is expected to be consistent with the following three approaches, to the maximum extent feasible."
+    }, 
+    {
+        "sentence_id,": "e8f5d4ca3f", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "(2) Acting as a Leader, not Just a Follower For achieving the goal set in (1), with recognition that cyberspace is a space built and operated by actors of the private sector as the main driving forces, Japan will implement policies to catalyze their self-motivated activities and their own initiatives."
+    }, 
+    {
+        "sentence_id,": "7395809594", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Recognizing the transformational process leading to an unprecedented society consisting of the IoT systems, Japan will implement policies by precisely capturing such social transformation."
+    }, 
+    {
+        "sentence_id,": "aaac924847", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "In this view, among the government-led IoT systems-related large scale business, the Cybersecurity Strategic Headquarters will handle those possibly having substantial impacts on socio-economic activities in order to facilitate program planning, policy formulation, and overall coordination required for cross-cutting cybersecurity measures; this will be done with an aim to promote the consistent and exhaustive implementation of required measures, for example, by promoting organized and converged coordination among relevant governmental bodies and entities."
+    }, 
+    {
+        "sentence_id,": "bc5ad20975", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "This means that stakeholders will need a policy platform to build a common understanding on security measures required for the entire IoT systems and the individual components of the IoT systems."
+    }, 
+    {
+        "sentence_id,": "ebcf2d6014", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "For these reasons, the Government will, in collaboration with industries and academia, establish comprehensive guidelines and standards for IoT systems security, including the components of the IoT systems, such as M2M (Machine to Machine) devices and wearable devices, in the energy, automotive, medical, and other relevant industries."
+    }, 
+    {
+        "sentence_id,": "4b35670eab", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "5.1.2 Promotion of Enterprise Management with a Security Mindset For the creation of new business and other business activities, enterprise management in the interconnected and converged information society requires, in addition to the existing cybersecurity measures, the more comprehensive and higher standards of cybersecurity measures, including the monitoring and assessment of security risks and appropriate investment decisions on management resources; the promotion of the adoption of security functions in products and 15 services; cybersecurity human resources development; and the improvement of organizational cybersecurity capabilities."
+    }, 
+    {
+        "sentence_id,": "2300da4b0e", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The Government is planning to promote the creation of talent pools of intermediators, who are capable of understanding management policies decided by senior executive management; presenting cybersecurity visions; and facilitating the communications between senior executive management and cybersecurity professionals."
+    }, 
+    {
+        "sentence_id,": "07123ae443", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "To respond to such needs, the Government will examine long-term human resources strategies and performance appraisal methods, taking into consideration career paths for cybersecurity professionals, intermediators, and senior executives responsible for enterprise risk management including cybersecurity risks, and will encourage senior executive management to adopt such cybersecurity workforce development policies."
+    }, 
+    {
+        "sentence_id,": "84b1dd1e8b", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "In addition, the Government will provide its support and advice to enterprises by creating the guidelines of and other information on cybersecurity-related management, including the improvement of organizational cybersecurity mechanisms under the leadership of senior executive management, effective measures based on the latest trends in cyber attacks and damages, and information disclosure policies; the Government will also establish an objective framework to evaluate enterprises activities taken on the basis of such support and advice with certain evaluation methods, such as third party certification."
+    }, 
+    {
+        "sentence_id,": "f17857a4fe", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "(3) Improving Environment for Japanese Enterprises Global Operations For Japans Internet of Things industry and cybersecurity-related businesses to become internationally competitive and subsequently lead the national economy as a growth industry, Japans policy perspectives in this regard must be fully incorporated in international frameworks, including international rules and norms."
+    }, 
+    {
+        "sentence_id,": "ecbf123144", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards", 
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "19 frameworks of mutual recognition arrangement regarding the international security standards as well as the evaluation and certification mechanisms of the IoT systems, including control units; the Government will also work on information sharing and the dissemination of Japans best practices in international settings."
+    }, 
+    {
+        "sentence_id,": "962c80ba3d", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Moreover, the Government will continue to drive human resources development policies to foster cyber experts who are capable of answering Internet users questions and concerns, as well as the activities of these cyber experts."
+    }, 
+    {
+        "sentence_id,": "bd470fba1e", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Based on this CII policy, the Government has implemented various measures, including the enhancement of safety standards and awareness raising, the implementation of training and exercises, and the improvement of information sharing arrangement between the public and private sectors."
+    }, 
+    {
+        "sentence_id,": "1ee7a1863d", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "9 Established on May 19, 2014 by the Information Security Policy Council: revised on May 25, 2015 by the Cybersecurity Strategic Headquarters 10 Information and communications services, financial services, aviation services, railway services, electric power supply services, gas supply services, government and administrative services (including local governments), medical services, water services, logistics services, chemical industries, credit card services, and petroleum industries."
+    }, 
+    {
+        "sentence_id,": "25efed7719", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Meanwhile, CII operators and their competent ministries have conducted critical information infrastructure protection (CIIP) against cyber attacks by setting the safety standards, including mandatory standards and guidelines; to this extent, with regard to CII sectors having the original standards of service maintenance and safety assurance stipulated by a specific law regulating a certain industry, the Government will carry out a constant review of the safety standards, taking account of current environmental changes in cyberspace."
+    }, 
+    {
+        "sentence_id,": "406469aeee", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "All local governments, regardless of their scales, have a unique status, as they are required the security standards similarly to those of the Government and government-related entities, because of their functions, e.g."
+    }, 
+    {
+        "sentence_id,": "29d6ba9c0a", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "the use of standard products and the introduction of open-standard protocols."
+    }, 
+    {
+        "sentence_id,": "de78efe64c", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "The Government will promote the use of internationally approved third-party certification schemes that enable objective evaluations on the level of satisfactory security performance, taking into account that specialized knowledge and skills are necessary for the procurement and operation of ICS and other associated equipment."
+    }, 
+    {
+        "sentence_id,": "fd1e6ea5f7", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "5.2.3 Measures for the Protection of Governmental Bodies As for the governmental bodies and government-related entities, the Government has addressed cybersecurity assurance by establishing and utilizing, as a main measure, the common standards for the governmental bodies."
+    }, 
+    {
+        "sentence_id,": "bd524f5b3a", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Up to these days, the Government has worked on further improving the standard of government-wide measures, and reflecting newly emerged threats and challenges in the common standards, where necessary."
+    }, 
+    {
+        "sentence_id,": "c54e938916", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "The Government will focus its forward-looking effort on the priorities outlined in the following sections; incorporate them timely in the regulations, such as the common standards for governmental bodies; and ensure the full implementation of these regulations by certain measures, such as audit and daily learning."
+    }, 
+    {
+        "sentence_id,": "7668811313", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "In promoting these measures, the Government will ensure that they are based on the common standards for the governmental bodies, and will conduct risk analysis intending to perform its administrative responsibilities, for the optimization of these measures as the entire governmental bodies."
+    }, 
+    {
+        "sentence_id,": "79cd2b2c00", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "Incident prevention The Government will robustly implement preventive measures, such as giving support for announced software vulnerabilities and detected malware and utilizing electronic signature and certification technology, and will make prompt and flexible readjustments corresponding to environmental changes."
+    }, 
+    {
+        "sentence_id,": "c54d470c74", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "At the same time, the Government will implement training and exercises for incident readiness and subsequently incorporate lessons learned from such training and exercises in its cybersecurity policies and measures; the Government will also aim to improve the capabilities of personnel with designated cybersecurity duties and the coordination among these personnel; and to fully enforce organizational responses to cybersecurity incidents under the direction of senior executive officers of each governmental body."
+    }, 
+    {
+        "sentence_id,": "c802b2765c", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The following are examples of the planned activities: the review and improvement of organizational arrangements and frameworks to enhance measures concerning the governmental bodies and government-related entities, by conducting periodic self-assessment, management audit from an independent perspective, and other assessments; and the promotion of risk-based and organized measures for and management of information systems, such as the formulation of risk management policies and the standards of measures on a basis of risk assessment, the establishment of a scheme for contingency planning based on consensus of stakeholders for unforeseen circumstances, and so on."
+    }, 
+    {
+        "sentence_id,": "8cdd587d28", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "(3) Adapting to Technological Advancement and Change in Business Performance Styles To perform administrative functions in a way adjusting to the sophistication and 32 rationalization of administrative affairs by the utilization of multi-functioned and diversified IT products and services, and in a way to meet the demands of the digital era, the Government will make efforts to prevent incidents and the deterioration of security standards due to the inappropriate use of new IT products and services."
+    }, 
+    {
+        "sentence_id,": "fa9e5c0541", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }, 
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Japan will proactively contribute to the maintenance of international order and ensure its national security by building peace and stability of the international community from the policy of Proactive Contribution to Peace based on the principle of international cooperation."
+    }, 
+    {
+        "sentence_id,": "8b51df07db", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }, 
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Under this recognition, with a view to build peace and stability of the international community, Japan will take a leading role as a responsible member of the international community, and engage in ensuring cyber security through international cooperation with various stakeholders as well as securing the free flow of information at a global scale based on the following policies."
+    }, 
+    {
+        "sentence_id,": "e3ffa4ad1a", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "With regard to measures against cybercrimes, as a Party to the Convention on Cybercrime, Japan will make efforts in the expansion of its Parties, strengthen international cooperation among law enforcement authorities for a prompt and effective assistance in investigation, and enhance international investigation for arresting transnational criminals to effectively address cybercrimes that easily transcend national borders."
+    }, 
+    {
+        "sentence_id,": "a4a296ba01", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "With the development of information communications society, Japan has been developing legislation and policy frameworks for cyber security, and it has engaged in the assurance of cybersecurity of governmental bodies, CII operators, other organizations, and individuals; measures against cybercrimes; human resources development to foster cyber experts; and R&D of cybersecurity technologies."
+    }, 
+    {
+        "sentence_id,": "c016a818b2", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Therefore, the Government will develop abundant highquality international human resources, in both the public and private sectors that have technical expertise on cyberspace, and are well-versed in international relations, international security, international cooperation among other fields, and capable of successfully working at the international arena."
+    }, 
+    {
+        "sentence_id,": "afef136b19", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "International cooperation and partnership also contributes to the strengthening of international capabilities to counter cyber attacks in which state 40 involvement is suspected."
+    }, 
+    {
+        "sentence_id,": "ca59904c87", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "In addition, from a perspective of avoiding and preventing unexpected escalations caused by cyber incidents arising from cyber attacks, Japan will make efforts in confidence building, establish international cooperation systems in various fields, and ensure cyberspace security."
+    }, 
+    {
+        "sentence_id,": "5349948e34", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "In the cybersecurity field, Japan has a close and cooperative relationship through multiple channels such as the ASEAN-Japan Information Security Policy Meeting."
+    }, 
+    {
+        "sentence_id,": "86f7930e93", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Japan will enhance bilateral cooperation in the cybersecurity field through various channels between those countries, such as the sharing and utilization of information on cybersecurity- related policies and cyber attacks from peacetime; and joint exercises against cyber attacks, and will address challenges in cyberspace in regional and international arena, hand in hand."
+    }, 
+    {
+        "sentence_id,": "52318fbdcb", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Policy Cooperation Dialogue on the Internet Economy, the Japan-U.S. Cyber Defense Policy Working Group, and other various bilateral channels."
+    }, 
+    {
+        "sentence_id,": "10c098b48e", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Japan will continuously deepen its cooperation with the United States in a concrete manner, such as the sharing and utilization of information on cybersecurity-related policies and cyber attacks; response to cybersecurity incidents; and the implementation of joint projects in the area of advanced technology."
+    }, 
+    {
+        "sentence_id,": "cccee4e55f", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "As for the cyberspace issues, Japan will further strengthen cooperation with each country and relevant organizations of Europe, through various channels, including defense authorities; for instance, Japan will enhance the sharing and utilization of information on cybersecurity-related policies and cyber attacks from peacetime, joint training and exercises against cyber attacks, joint projects in the field of advanced technologies, as well as response to and cooperation on cyberspace issues in the international arena."
+    }, 
+    {
+        "sentence_id,": "0ffeed318c", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Cross-Cutting Approaches to Cybersecurity In order to achieve the three policy goals the improvement of socio-economic vitality and sustainable development; the creation of a society where the people can live safe and secure lives; and peace and stability of the international community as well as national security it is imperative for the Government to make a tireless effort for advancing prominent research and technological development and fostering outstanding talent as the engines for the accomplishment of these goals."
+    }, 
+    {
+        "sentence_id,": "44a8f0eadc", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "In line with the following R&D policies, the Government will promote R&D in coordination with relevant stakeholders, by profiting from the combination of diverse information, perspectives, and advantages held by each stakeholder."
+    }, 
+    {
+        "sentence_id,": "7e64ab685c", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Moreover, the Government will initiate necessary actions, including the examination of relevant laws and statutes as well as standards concerning research."
+    }, 
+    {
+        "sentence_id,": "56e8b9eee9", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "It requires the exploration of analysis methodologies across multiple areas, including laws and statutes, policies, current affairs, and technologies."
+    }, 
+    {
+        "sentence_id,": "e0443d4951", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "As part of ongoing collaborative efforts for various international standardizations, the Government will also strive to establish and disseminate the various international standards and the frameworks for mutual recognition related to cybersecurity technologies and others."
+    }, 
+    {
+        "sentence_id,": "df3b0df726", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "It should be noted that it is necessary for such human resources to develop not only technological capabilities but also high ethical standards."
+    }, 
+    {
+        "sentence_id,": "2406eccc05", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "With such initiatives, talented domestic individuals will become more motivated by knowing their levels of cybersecurity skills compared with the global standards, while staying in Japan."
+    }, 
+    {
+        "sentence_id,": "a158b01050", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "In this regard, the Government will aim at creating a virtuous circle of supply and demand of human resources through appropriate measures: the visualization of competency, by developing qualification schemes to evaluate cybersecurity-related personnels practical skills timely and appropriately and by establishing the standards of basic skills required to perform assigned functions at organizations; the promotion of activities for better matching of occupational supply and demand, including the expansion of internship opportunities, with consideration of the nature of businesses concerned and host organizations needs; the development of career paths for cybersecurity human resources across industries, academia, and the public sector; the promotion of other relevant measures in various perspectives, including business finance, and so on."
+    }, 
+    {
+        "sentence_id,": "fc511102b7", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Promotion and Implementation of Cybersecurity Strategy The Cybersecurity Strategic Headquarters performs the command and control body functions to promote this strategy, and, as its secretariat, the NISC takes a leading role to implement cybersecurity policies in line with this strategy."
+    }, 
+    {
+        "sentence_id,": "384e7f134a", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "To this end, the NISC fulfills its functions: to implement required measures, including the networkbased cybersecurity vigilance and monitoring of malicious activities against information systems of administrative organs, audit, and fact-finding activities; and to enhance governmental cybersecurity capabilities, in terms of information gathering and analysis on domestic and foreign cybersecurity, international cooperation, cybersecurity workforce development for and by the governmental bodies, and others."
+    }, 
+    {
+        "sentence_id,": "c4190c49f7", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "These cybersecurity policies are highly critical from the viewpoint of crisis management and national security."
+    }, 
+    {
+        "sentence_id,": "3f5cd33da6", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "For the steady implementation of the strategy, in compliance with the Basic Act on Cybersecurity, the Cybersecurity Strategic Headquarters will establish an annual plan for each fiscal year during the triennium, and will produce an annual report for the corresponding year, by reviewing the status of progress in policy implementation."
+    }, 
+    {
+        "sentence_id,": "512c0b8321", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "At the same time, the Cybersecurity Strategic Headquarters will establish the guidelines and basic policy of budget plans for the governmental bodies to implement cybersecurity measures effectively in line with the directions the strategy indicates."
+    }
+]

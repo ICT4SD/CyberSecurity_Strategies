@@ -1,0 +1,2434 @@
+[
+    {
+        "sentence_id,": "796974ec13", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "5) Create a set of national guidelines for Information Security Management, Risk Management and Business Continuity based on international standards and best practices."
+    }, 
+    {
+        "sentence_id,": "125f9f81e4", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The NISS General Objectives are listed below: O-1 Effective and Secure Information Security Environment Work towards assuring that appropriate and consistent information security policies, directives, guidance, practices and oversight are achieved within the Kingdom."
+    }, 
+    {
+        "sentence_id,": "8e926be21b", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "O-6 IS Compliance and Tracking Processes Maximize progress toward national improvement benchmarks and goals by implementing a comprehensive compliance and tracking process, which ensures compliance with IS policies and standards and measures the progress and status of the Kingdom's information security initiatives."
+    }, 
+    {
+        "sentence_id,": "a5c0c6f0e3", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "O-9 National and International Cooperation Achieve greater security for the Kingdom's information and ICT infrastructures by implementing new domestic ICT security coordination and information sharing processes among stakeholders and by leveraging international collaboration efforts."
+    }, 
+    {
+        "sentence_id,": "a6207ac454", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }, 
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "NISS Elements Information Security Environment Policy and Regulation Risk Management and Assessment National ICT Infrastructure Human Resource Re-assessment and Audit National Cooperation and Sharing for Information Security International Cooperation and Sharing for Information Security Research and Innovation The recommendations related to each NISS Element are as follows: 3|Page National Information Security Strategy Information Security Environment The first step is consideration of, and agreement by, the Kingdom on a secure and effective information security environment."
+    }, 
+    {
+        "sentence_id,": "3af058c7d7", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Policy and Regulation This strategy recommends forming agreements, and the development and adoption of a set of national information security policies that form the IS framework for the Kingdom."
+    }, 
+    {
+        "sentence_id,": "d8d9f17524", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "This, in turn, will lead to national standards and best practices."
+    }, 
+    {
+        "sentence_id,": "65cc07dbd3", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "4|Page National Information Security Strategy National and International Cooperation The NISS recommends expanding internal cooperation and communication processes regarding information system attacks, threats, vulnerabilities, mitigation techniques and best practices between the Kingdom's organizations."
+    }, 
+    {
+        "sentence_id,": "5059eabd60", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Topics that would benefit the Kingdom include international standards development, global ICT security policy, cybercrime initiatives and research."
+    }, 
+    {
+        "sentence_id,": "54b79a5392", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "The Mission of the NISS is to produce the following: An effective and secure national Information Security environment A highly effective, skilled and increasingly Saudi human resource A secure and resilient national ICT infrastructure that supports the national plans A harmonized national framework of policy, regulations, standards and processes A culture of national and international IS cooperation and information sharing A national framework for IS risk assessment and management A national framework for system assessment and audit National IS support for IS elements and activities within the Kingdom Recognition throughout the Kingdom that IS is the shared responsibility of all persons Confidence throughout the Kingdom that online and e-government services are reliable and secure Expanded IS research and innovation focused on specific needs A growing entrepreneurial IS sector focused on high-potential commercial projects 8|Page National Information Security Strategy 2.4 APPROACH TO THE NISS The initial task in creating the NISS was to research existing international information security strategies, approaches and guidelines and best practices for what would be the best approach for the Kingdom."
+    }, 
+    {
+        "sentence_id,": "464652fbd3", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "9|Page National Information Security Strategy 2.5 SUMMARY OF FINDINGS OF KSA'S CURRENT INFORMATION SECURITY POSTURE AND ACTIVITIES A set of centralized information security policies and standards is not evident."
+    }, 
+    {
+        "sentence_id,": "48d9e29ea4", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Each organization has implemented ICT security in their own manner with little or no consistency of architecture, policy or communication across organizations."
+    }, 
+    {
+        "sentence_id,": "9f80aa6503", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "The national architectural standards and requirements that Yesser has developed for connection to the Government System Backbone are an exception, but only extend to the organizations connection point and not inside the enterprise ICT infrastructure."
+    }, 
+    {
+        "sentence_id,": "aee5754e92", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "NISS General Objectives O-1 Effective and Secure Information Security Environment Work towards assuring that appropriate and consistent information security policies, directives, guidance, practices and oversight are achieved within the Kingdom."
+    }, 
+    {
+        "sentence_id,": "bce8343032", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "O-6 IS Compliance and Tracking Processes Maximize progress toward national improvement benchmarks and goals by implementing a comprehensive compliance and tracking process, which ensures compliance with IS policies and standards and measures the progress and status of the Kingdom's information security initiatives."
+    }, 
+    {
+        "sentence_id,": "a1e5ae1aba", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "O-9 National and International Cooperation Achieve greater security for the Kingdom's information and ICT infrastructures by implementing new domestic ICT security coordination and information sharing processes among stakeholders and by leveraging international collaboration efforts."
+    }, 
+    {
+        "sentence_id,": "ab62cbeccc", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "It is accomplished through the operational compliance of a national risk assessment framework, policy coordination, communication, monitoring and all of the factors and functions necessary to efficiently achieve and maintain an effective IS posture for all Kingdom's sector."
+    }, 
+    {
+        "sentence_id,": "44577f22a4", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "A continuous compliance process guides and enforces standards, baselines and best practices."
+    }, 
+    {
+        "sentence_id,": "9db095fcff", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "It also ensures a uniform application of security policy across a diverse set of both governmental and critical infrastructure organizations."
+    }, 
+    {
+        "sentence_id,": "1acbe67202", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "O-9 National and International Cooperation Many nations have faced IS challenges similar to those the Kingdom is facing today."
+    }, 
+    {
+        "sentence_id,": "f743cf1586", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }, 
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "14 | P a g e National Information Security Strategy Cross Reference Chart of Each NISS General Objective to the Objectives of Each NISS Element O-1 O-2 O-3 O-4 O-5 O-6 O-7 O-8 O-9 O-10 Effective and secure Information Security Environment Information Systems and ICT Infrastructure Enhancement Human Resource IS Threat Analysis and Mitigation Reduction of Ongoing ICT Exploitation IS Compliance and Tracking Processes Research, Innovation and Entrepreneurship Maintenance of Information Security National and International Cooperation IS Awareness and Responsibilities Information Security Environment G-1 G-2 G-5 G-1 G-5 G-2 G-3 G-1 G-3 Policy and Regulation P-1 P-2 P-1 Risk Management and Assessment K-1 K-2 NISS General Objectives NISS Elements Reassessment and Audit National Cooperation International Cooperation Research and Innovation P-1 P-2 P-3 P-2 P-3 G-5 K-1 K-3 T-1 T-2 T-3 National ICT Infrastructure Human Resource G-4 G-5 H-1 A-1 H-1 H-3 H-1 H-2 H-3 H-5 K-1 K-3 K-3 K-2 T-2 T-2 T-2 T-2 H-4 H-5 H-1 H-3 H-4 H-5 H-1 A-3 A-1 A-2 A-3 N-2 N-1 N-3 N-2 I-2 I-1 I-3 I-3 R-4 R-1 R-2 R-5 R-1 A-1 A-2 A-3 N-1 N-2 N-3 N-2 I-1 R-3 R-5 H-1 H-5 H-1 H-2 H-1 H-2 H-3 H-4 H-5 H-3 H-4 H-5 N-1 N-2 N-3 N-1 N-2 N-3 I-1 I-2 I-3 I-2 A-1 A-2 A-3 R-5 Figure 3.0-2 Relationship of Each NISS General Objective to the Objectives of Each NISS Element The objectives of each NISS Element support one or more of the NISS General Objectives."
+    }, 
+    {
+        "sentence_id,": "a22e6f4373", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "G-2 Establish a policy and requirements structure for the issuance of top-level IS national directives."
+    }, 
+    {
+        "sentence_id,": "810aeb7f78", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "G-3 Ensure that the NISE has the ability to monitor and enforce compliance with national policies, directives and standards."
+    }, 
+    {
+        "sentence_id,": "4b96c08ac1", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "P-3 Ensure all regulations and laws have accompanying policies, and vice versa, by establishing a policy gap analysis process."
+    }, 
+    {
+        "sentence_id,": "66ee1c99f8", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "K-1 Create and establish a National IS Risk Assessment Function (NRAF) under the National Information Security Environment (NISE) K-2 Develop and implement national Risk Process Management System (RPMS) that establishes information security environment and compliance through national policies, procedures and guidelines."
+    }, 
+    {
+        "sentence_id,": "a334c0698e", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The process should be based on the principles of international standards such as ISO 27001 and 27002, as well as generally accepted best practices, guidelines, procedures and policies."
+    }, 
+    {
+        "sentence_id,": "ed6d8eb7dd", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "A-2 Develop a minimum baseline IT security standard for internationally accepted security configurations."
+    }, 
+    {
+        "sentence_id,": "ec478674b3", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards", 
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "This provides the standard that trained information security professionals can use to produce and conduct assessments, audits and certifications, as well as accreditation of existing and new systems."
+    }, 
+    {
+        "sentence_id,": "9fc0e047ed", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "N-2 Enhance the following information sharing areas that require inter-governmental structures and processes for cooperation and coordination: ICT Security Standards and Policies, Research and Development, Security Operations Center (SOC), Vulnerability and Threat Information Sharing, National IS Incident Response Process."
+    }, 
+    {
+        "sentence_id,": "bab69abd3f", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "I-1 Strengthen the Kingdom's national technical capabilities through increased international cooperation and sharing."
+    }, 
+    {
+        "sentence_id,": "968b3ecec8", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "I-3 Expand research and innovation through international cooperation."
+    }, 
+    {
+        "sentence_id,": "6d4fd0faf4", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "This is the reason for establishing national IS structure policy, standards and guidelines."
+    }, 
+    {
+        "sentence_id,": "086e8b0e9f", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Create a set of national guidelines on Information Security Management, Risk Management and Business Continuity based on international standards and best practices."
+    }, 
+    {
+        "sentence_id,": "c7bee89113", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Sample of Countries With National IS Environment Country Top Level Charter or Latest Policy Senior Organization Responsible Primary Coordinating Body For Initiatives and Implementation Singapore Infocomm Security Masterplan 2 (MP2) National Infocomm Security Committee Infocomm Development Authority UAE UAE National ICT Policy National Electronic Security Authority Board of directors, formed by a decision by the chairman of the Supreme National Security Council Malaysia Malaysian ICT Security Policy 2012 Ministry of Science Technology and Innovation CyberSecurity Malaysia Tunisia Tunisian Law Ministry of Communication Technologies National Agency for Computer Security UK A National Information Assurance Strategy Official Committee on Security Information Assurance Policy and Program Board Finland National Information Security Strategy National Information Security Board Numerous Ministries and Organizations U.S."
+    }, 
+    {
+        "sentence_id,": "3c3a10ebe0", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The approach suggested is based in part on the already approved elements in existing Cabinet Resolutions and include the following: The assessments, initiatives and planning need to be coordinated across the Kingdom under a common framework (\"to achieve universality across the Kingdom\") An independent group that provides a consistent framework and independent approach (\"to achieve an objectivity\") 4.1.3.1.3 Challenges and Issues 1) Because neither a Kingdom-wide IS environment nor a national set of security policies and standards has ever been identified, each ministry has developed and operates their own security systems as they see fit."
+    }, 
+    {
+        "sentence_id,": "0f6ebc663c", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "The standardization and support a national environment provides will benefit both the Kingdom and each ministry, since operating in isolation no longer provides the security required."
+    }, 
+    {
+        "sentence_id,": "07e601430a", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "4.1.3.2 Objective G-2: Establish a National IS Policy and Directive Issuance System Establish a policy and requirements structure for the issuance of top-level IS national directives."
+    }, 
+    {
+        "sentence_id,": "e8b841c83d", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "NISE Manuals (NISEMs) implement or supplement policy established in a Directive or Instruction and usually focus on procedures or best practices for managing activities or systems."
+    }, 
+    {
+        "sentence_id,": "ae493324f4", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Administrative Instructions provide guidance on administrative matters related to implementing policy established in NISEDs or NISEIs that focus on administration of the NISE throughout a particular government agency."
+    }, 
+    {
+        "sentence_id,": "04b82e1e8c", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "4.1.3.3 Objective G-3: Establish NISE IS Compliance Function Ensure that the NISE has the ability to monitor and enforce compliance with national policies, directives and standards."
+    }, 
+    {
+        "sentence_id,": "21176fa202", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "4.1.3.4.1 Approach Utilize both international and Kingdom experts to identify national IS needs and qualifications and initiate a program with education, training, certification and practical experience to meet the needs."
+    }, 
+    {
+        "sentence_id,": "32270e54b4", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards", 
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "At the top university level, a Kingdom IS certification program can be established with uniform and stringent certification standards for both teachers and curricula."
+    }, 
+    {
+        "sentence_id,": "dd0ace14b4", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "4.1.3.5.4 Measures of Progress 1) The number of people involved in national IS outreach and support 2) The number of people reached by the individuals in measure #1 above 25 | P a g e National Information Security Strategy 4.2 POLICY AND REGULATION The Policy and Regulation strategy element will help the MCIT develop and set the framework for meeting the objectives of the National Communications and Information Technology Plan."
+    }, 
+    {
+        "sentence_id,": "c071812b1d", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "This framework will define goals for national standards that reflect International Standards Organization (ISO), Information Technology Infrastructure Library (ITIL) and industry best practices."
+    }, 
+    {
+        "sentence_id,": "9f62078f44", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "regulation and compliance"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Policy development, regulation and compliance are vital aspects of any National Information Technology framework."
+    }, 
+    {
+        "sentence_id,": "dda6d0f2be", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "The development, issuance and maintenance of regulatory requirements by the government help to ensure that standards are met which, in turn, support the safety, productivity and economic development of the country."
+    }, 
+    {
+        "sentence_id,": "d7dce17dc2", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "NISS development approach included the review and gap analysis of existing policies and regulations."
+    }, 
+    {
+        "sentence_id,": "217b23cf2a", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "The ISO series of security standards provides a model for establishing, implementing, operating, monitoring, reviewing, maintaining and improving an Information Security Management System."
+    }, 
+    {
+        "sentence_id,": "487d175a6e", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The following high-level gap analysis is based, in part, upon a review of KSA laws, regulations, policies and procedures provided to the NISS team."
+    }, 
+    {
+        "sentence_id,": "cb089d674b", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "It can be useful in developing a framework for defining the goals of a KSA national standard that adheres to International Standards Organization (ISO) 27001, 27002; Information Technology Infrastructure Library (ITIL); and industry best practices."
+    }, 
+    {
+        "sentence_id,": "9ff796591a", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "High-level Gap Analysis of National Level Policies, Laws and Regulations Compliance Requirement Risk Management Framework (RMF) National-Level Considerations A national framework that incorporates both quantitative and qualitative considerations for risk Corresponding KSA Law or Regulation The National Communications and Information Technology Plan The Vision Towards the Information Society National Science, Technology and Innovation Policy Transforming Saudi Arabia into a Knowledge Based Economy and Society Suggested Action The current policy, plan and vision should be consolidated to address a national level RMF that all industries, as well as government agencies, can set as their minimum requirements."
+    }, 
+    {
+        "sentence_id,": "e7b9a36c21", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "26 | P a g e National Information Security Strategy High-level Gap Analysis of National Level Policies, Laws and Regulations Compliance Requirement National-Level Considerations Corresponding KSA Law or Regulation Information Classification of Data Information labeling and handling standards across military, intelligence and critical infrastructure, which facilitates information sharing among peers in ministries Cabinet Resolution No Information Security Policy National level policy that enables the use of common criteria and supports standards such as ISO, COBIT, and ITIL None provided."
+    }, 
+    {
+        "sentence_id,": "b4197e683f", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "If no Roles and Responsibilities Defines lanes in the road for governmental organizations Cabinet Resolution No Awareness, Education, and Training National standard for assessments, to identify where security knowledge is insufficient and to provide adequate training None provided."
+    }, 
+    {
+        "sentence_id,": "fc206113eb", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Information Exchange Policies and Procedures Important in order to exchange information and approach a common understanding between Nations."
+    }, 
+    {
+        "sentence_id,": "e8c73867cd", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "If no Electronic Commerce Standardization and interoperability for technologies and process Electronics Transactions On-line Transactions Minimum protection Electronics Transactions Monitoring System Use Balancing privacy, intelligence, law enforcement, and operational equities at a national level 141 such policy exists, then it should be created."
+    }, 
+    {
+        "sentence_id,": "99903044fa", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "82 such policies and procedures exist, then they should be created."
+    }, 
+    {
+        "sentence_id,": "b4d2ede3fe", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "27 | P a g e National Information Security Strategy High-level Gap Analysis of National Level Policies, Laws and Regulations Compliance Requirement National-Level Considerations Corresponding KSA Law or Regulation None provided."
+    }, 
+    {
+        "sentence_id,": "78c8d72c7d", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "If no Information Security Incident Management A methodology for information security management that is intended as a common basis and practical guideline for developing organizational security standards and effective management practices Compliance With Legal Requirements Information from None provided."
+    }, 
+    {
+        "sentence_id,": "f866b55776", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "League of Arab States, and United Nations) Data Protection and Privacy Of Personal Information National level minimum data protection standards Protection of Personal Compliance With Security Policies and Standards, and Technical Compliance Compliance must come with enforcement; and penalty guidelines for offenders could aid ministries to develop penalties that are more meaningful for offenders."
+    }, 
+    {
+        "sentence_id,": "b93d71adc1", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "If no Audit And Accountability Policy and Procedures Record Retention Laws such documentation exists, then it should be created."
+    }, 
+    {
+        "sentence_id,": "3d34b7c7b1", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "If no record more detailed such policies and information about system procedures exist, then access they should be created."
+    }, 
+    {
+        "sentence_id,": "77302c3d3a", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "28 | P a g e National Information Security Strategy High-level Gap Analysis of National Level Policies, Laws and Regulations Compliance Requirement National-Level Considerations Corresponding KSA Law or Regulation Contingency Planning Policy and Procedures Nationalizing of cyber resources during times of cyber war, conflict and natural disaster Regulatory Framework Incident Response Policy and Procedures Baseline incident response procedures involving national level reporting (e.g."
+    }, 
+    {
+        "sentence_id,": "e38b35c4cc", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "National Level Incident Reporting Database) Cabinet Circulate The Arab League Convention To Combat Cyber Crimes Adherence to and participation in the International Cyber Crimes Convention Anti-Cyber Crime Law for Disaster Recovery Planning for the ICT Industry 16-5-1432 Suggested Action Define and identify the policies & procedures that need to be executed during a cyber-event."
+    }, 
+    {
+        "sentence_id,": "2f61a791b6", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Ensure cyber-crime laws are consistent with international standards, and that cooperative agreements are in place with other Nations to ensure cyber criminals are captured and brought to justice."
+    }, 
+    {
+        "sentence_id,": "9a51c63d78", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Figure 4.2-1 High-level Gap Analysis of National Level Policies, Laws and Regulations A gap analysis can be useful in developing a framework for defining the goals of a KSA national IS standard that adhere to international standards and best practices."
+    }, 
+    {
+        "sentence_id,": "4d885bffee", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "4.2.1 ELEMENT DESCRIPTION Well-written policies and procedures allow individuals and employees, as well as agencies and other organizations within the Kingdom, to understand their roles and responsibilities within predefined limits."
+    }, 
+    {
+        "sentence_id,": "44c75adc0f", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Essentially, policies and procedures allow management to guide operations without constant management intervention."
+    }, 
+    {
+        "sentence_id,": "06a3f7c96e", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Government development and issuance of regulatory requirements help to ensure that standards are met, which leads to greater safety, productivity and economic development."
+    }, 
+    {
+        "sentence_id,": "85be4ae6a7", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "A framework for such regulation includes policies, procedures and the ability to assess regulatory compliance."
+    }, 
+    {
+        "sentence_id,": "144fa14335", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The critical components of policy and regulation framework are outlined below as part of the strategic roadmap for the KSA Policy and Regulation initiatives."
+    }, 
+    {
+        "sentence_id,": "492be8be45", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "While the establishment of policy and regulation governance will provide the Kingdom with the ability to assess regulatory compliance, it is also crucial to the success of all strategies implemented."
+    }, 
+    {
+        "sentence_id,": "de3ea2d761", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "4.2.3 ELEMENT OBJECTIVES 4.2.3.1 Objective P-1: National Policy Framework Ensure that the owners and operators of KSAs infrastructures have designed and implemented, as well as manage and operate, ICT infrastructures with appropriate information security and resilience practices for their systems and operations."
+    }, 
+    {
+        "sentence_id,": "5520c7f89f", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "29 | P a g e National Information Security Strategy 4.2.3.1.1 Approach Ensure that all Kingdom policies and regulations are tailored to suit the unique organizational and operating circumstances found within the national environment and at the ministerial level."
+    }, 
+    {
+        "sentence_id,": "237517ef36", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "4.2.3.1.2 Implementation Initiative 1) Define and Design a National Policy Framework Establish a Policy Development Function under the NISE with cooperation from all Kingdom IS stakeholders."
+    }, 
+    {
+        "sentence_id,": "3b85934318", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Having a framework provides the foundation to allow all subsequent policy writing tasks to be more efficient and focused."
+    }, 
+    {
+        "sentence_id,": "f7a8bc51a1", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The following issues must be addressed with that spirit of cooperation: 1) Establishment and definition of the ways in which ministries intend to express information security policies 2) Identification of the audiences to whom policies will be addressed 3) Definition of the style and format in which policies will be written, the system for numbering and naming policies and the linkages between policies and other management directives, such as procedures and standards 4.2.3.1.4 Measures of Progress 1) Identification of policy risks 2) Evaluation of policy risk potential 3) Selection of the best policy risk management techniques to mitigate or manage risks without unduly curtailing or modifying activities necessary to overall national security objectives 4) Monitoring, measuring and evaluation of the results 4.2.3.2 Objective P-2: Policy Maintenance Ensure appropriate coverage of information security by current regulatory elements, as well as the capability to cover requirements for future technological developments, by establishing a process for overall review and possible modification, augmentation or creation of the Kingdoms laws, regulations and acts."
+    }, 
+    {
+        "sentence_id,": "73a21d7ed8", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "4.2.3.2.1 Approach Develop a dynamic policy and risk management process that provides the capability to effectively manage information system related security risks in a diverse environment of complex and sophisticated cyber threats and increasing system vulnerabilities."
+    }, 
+    {
+        "sentence_id,": "b41f393cf1", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Policy risk management includes the evaluation and/or establishment of all regulations and practices designed to mitigate or eliminate losses to which the Kingdom may be exposed."
+    }, 
+    {
+        "sentence_id,": "b6dbf4aa71", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The NRAS will communicate the types and origins of risks identified in assessments and communicate them to Policy Development to determine if modifications to policies or regulations should be proposed."
+    }, 
+    {
+        "sentence_id,": "5600b54653", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "4.2.3.2.2 Implementation Initiatives 1) Information Policy Development Process Define and design an Information Policy Development Process."
+    }, 
+    {
+        "sentence_id,": "62d742c8c1", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Guidance on this complex process is essential to ensuring a comprehensive and consistent policy program."
+    }, 
+    {
+        "sentence_id,": "a095f0d6bd", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "This process includes: 30 | P a g e National Information Security Strategy Writing and editing policies, obtaining management approval, communicating policies, and implementing controls to meet policy requirements Management instructions indicating a predetermined course of action, or a way to handle a problem or situation High-level statements that provide guidance to workers who must make present and future decisions Generalized requirements that must be written down and communicated to certain groups of people inside and, in some cases, outside the organization 2) Policy Reviews Establish a Function to conduct reviews of policies."
+    }, 
+    {
+        "sentence_id,": "b06f186d58", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "4.2.3.2.4 Measures of Progress 1) Establishment of a Policy Development Function 2) Increased level of policies being issued 3) Increased level of policies being updated 4.2.3.3 Objective P-3: Gap Analysis Ensure all regulations and laws have accompanying policies, and vice versa, by establishing a policy gap analysis process."
+    }, 
+    {
+        "sentence_id,": "b550b59634", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Based on that information, the consequences of a particular policy, standard or procedure to the correlated system components will be characterized."
+    }, 
+    {
+        "sentence_id,": "a0794e6969", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "1) Policy Development Team The Policy Development Function should conduct a policy gap analysis comparing existing and internally published policies with the ISO 27001, 27002, ITIL and Control Objectives for Information and Related Technology (COBIT), as well as any other standard deemed necessary."
+    }, 
+    {
+        "sentence_id,": "90f751fb25", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "2) Security Policy Review Review all currently available Kingdom security policies, including the following activities: Identify the regulatory considerations, i.e."
+    }, 
+    {
+        "sentence_id,": "ba2d5780d5", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "ISO, Certification and Accreditation (C&A), PCI or others."
+    }, 
+    {
+        "sentence_id,": "3d05479e56", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "ISO, Certification and Accreditation (C&A), PCI and the physical location of the laws and regulations or others."
+    }, 
+    {
+        "sentence_id,": "61ec89ed6d", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "4.2.3.3.2 Challenges and Issues 1) Emerging threats against the Kingdoms critical infrastructures and key resources will expand gaps against intended security objectives, as well as the policies and laws put into place to close those gaps."
+    }, 
+    {
+        "sentence_id,": "e99c8b2e84", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "2) Constant monitoring of new threats against in-place and emerging policy issues is essential to maintaining a secure environment."
+    }, 
+    {
+        "sentence_id,": "d5bf3a8192", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "4.2.3.3.3 Measures of Progress 1) Delivery of a policy gap analysis 2) Establishment of a policy repository containing policy objectives, as well as the data for the policies implemented to solve those objectives 32 | P a g e National Information Security Strategy 4.3 RISK MANAGEMENT AND ASSESSMENT Risk Management and Assessment (RMA) is a dynamic, iterative and harmonized set of processes for managing and assessing risk."
+    }, 
+    {
+        "sentence_id,": "d954b7b446", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "It includes the information systems, such as hardware, software and communications interfaces; support entities, such as power, cooling, facilities and disaster recovery sites; operating policies, performance standards and procedures; and the people with the required skills to operate, maintain and meet the service requirements."
+    }, 
+    {
+        "sentence_id,": "caf8cef6e1", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "It provides a consistent framework for the requisite tools, processes, policies, procedures and resources, including IS risk assessments for the various N3is of the Kingdom."
+    }, 
+    {
+        "sentence_id,": "3a5ebc49a1", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "The cycle of standard RMA activities is illustrated below in Figure 4.3-1 Risk Assessment and Management Cycle."
+    }, 
+    {
+        "sentence_id,": "7ca3f280f7", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The RPMS will provide a framework that enables an organization to establish risk governance and compliance, using a set of national policies, procedures and guidelines adapted to its unique environment and resources."
+    }, 
+    {
+        "sentence_id,": "72ed512160", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Create a set of national guidelines on Information Security Management, Risk Management and Business Continuity, based on international standards and best practices."
+    }, 
+    {
+        "sentence_id,": "d0454d19da", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "2) Establishment of a web interface and extensive background database with a user-friendly search capability (a search capability and query answer designed for non-ICT professionals) 4.3.3.1.4 Measures of Progress 1) Published, signed and implemented RMA Policy 2) Employment of project tracking and scheduling tools critical path, resource management tools and KSA National Risk Process Management Performance Measurement tools, to track and measure the progress of risk assessments throughout the Kingdom."
+    }, 
+    {
+        "sentence_id,": "89b3f9f446", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "4.3.3.2 Objective K-2: Establish the National Risk Process Management System (RPMS) Develop and implement a national RPMS that establishes information security environment and compliance through national policies, procedures and guidelines."
+    }, 
+    {
+        "sentence_id,": "4224fd75e6", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "36 | P a g e National Information Security Strategy 4) Create Custom Policies and RPMS at the Operations Level Require that each manager of a N3i element adopt the National Risk Policy and RPMS as the foundation for creating their own custom RPMS and policy, along with procedures and guidelines."
+    }, 
+    {
+        "sentence_id,": "d4af3e428e", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "5) Require Certified NRAF Assessment for Interconnecting Elements Require those entities wanting to interconnect to a Kingdom N3i to supply a risk assessment certified by the NRAF before connecting, as well as whatever other technical requirements might be placed upon them."
+    }, 
+    {
+        "sentence_id,": "90bcb0dc0f", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "6) Establish Policy and Document Revision Standards Require all policies to be reviewed, signed and published at least annually, and when major changes occur that are or should be formalized."
+    }, 
+    {
+        "sentence_id,": "6cf2716610", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Procedures and guidelines must be reviewed in accordance with policy requirements and with change management, which is a required component of the RPMS."
+    }, 
+    {
+        "sentence_id,": "48c907b8bb", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards", 
+                    "certification"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "7) Certify Basic RPMS Components of Operational Organizations Certify that each organization's RPMS is based on the National RPMS and contains components with performance standards that include continuous and iterative reviews of internal policies, procedures and guidelines."
+    }, 
+    {
+        "sentence_id,": "0c0c52a95e", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "They will be educated and trained in Risk Management and Assessment and then certified as Senior Risk Managers."
+    }, 
+    {
+        "sentence_id,": "71e06926a1", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "They will also certify trained N3i risk management staff and others who meet the established criteria."
+    }, 
+    {
+        "sentence_id,": "81663a839a", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "The selected personnel will be RMA trained and certified to conduct risk assessments."
+    }, 
+    {
+        "sentence_id,": "40e41c26be", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "It is preferable that the RMA certified personnel should not be the only ones directing the risk analysis for the infrastructure with which they are or may be affiliated."
+    }, 
+    {
+        "sentence_id,": "9c585d1850", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "5) N3i Senior Risk Managers RMA-certified personnel will serve as future N3i senior risk managers 6) National Information Security RMA Training Program NRAF staff will design and manage the National Information Security RMA Training Program."
+    }, 
+    {
+        "sentence_id,": "8601aace28", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "7) Continuing Education NRAF will establish, through its NRAF senior risk managers, mandated initial and continuing RMA Training Programs, which will certify graduates and require ongoing education, training for recertification."
+    }, 
+    {
+        "sentence_id,": "56721f3b40", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "They are to be implemented together with the policy directions, risk management, governance, organizational and process development and implementation discussed in other sections of the NISS."
+    }, 
+    {
+        "sentence_id,": "64428ac41f", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The effectiveness of a resilient Laws/acts, policies, regulations and directives establish the infrastructure or enterprise depends key direction, requirements and expectations to be upon its ability to anticipate, absorb, pursued."
+    }, 
+    {
+        "sentence_id,": "acb0f4b813", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Therefore, the NISS must assure that those with responsibility for advancing the KSA transformation adopt a culture that values and adopts a strategy with a focus on enterprise architectures a culture biased toward the adoption of open architectures and standards, and well-developed resilience approaches based on risk mitigation requirements."
+    }, 
+    {
+        "sentence_id,": "bf8c11a2bd", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Leading industrialized countries have been addressing information security and ICT infrastructures security and resilience for many years, along with the efforts of international standards bodies and numerous institutes and organizations."
+    }, 
+    {
+        "sentence_id,": "9229d11298", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "The key ICT infrastructure outcomes to be achieved are: An internationally recognized Kingdom-wide technical strategy, culture and practices that further strengthen security and resilience for ICT infrastructures and information systems that affect the national security and economic security posture of KSA Assurance and confidence in the security and resilience design and implementation of ICT and information systems across the Kingdom Accelerated adoption of appropriate internationally accepted security and resilience standards, processes, controls and practices, such as ISO/IEC, ITIL, CoBIT and TOGAF; as well as the evolution of improved security technology across the ICT and information system life cycle Increased levels of trust by the Kingdoms businesses, government organizations and people using online services and applications for daily activities 4.4.3 ELEMENT OBJECTIVES International standards bodies (e.g."
+    }, 
+    {
+        "sentence_id,": "8efe0f2dec", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "COBIT, ITIL, TOG, ISACA and the U.S. National Institute of Standards and Technology (NIST)) have mature frameworks, best practices and standards developed by wellestablished national and international communities."
+    }, 
+    {
+        "sentence_id,": "647b83b264", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "These address essential processes for IT Governance, Enterprise Architectures and Frameworks, IT Service Management, Information Security Management Systems, Security Control Domains, Security Standards and Best Practice Guidance."
+    }, 
+    {
+        "sentence_id,": "035729b261", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "YESSER efforts for e-Government demonstrate the type of structured endeavor that is needed for ICT systems to provide and achieve the coordination, guidance, business process focus, architectures and standardization for more integrated information security capabilities, and to capitalize on the value that modern ICT can provide."
+    }, 
+    {
+        "sentence_id,": "1da6409a18", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Leverage international standards, partnerships, alliances and collaboration through participation in international security bodies and organizations to identify state-of-the-art practices and technology."
+    }, 
+    {
+        "sentence_id,": "b9f485718b", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "2) Service quality and outage metrics should be standardized and reviewed by MCIT with infrastructure owners and operators to identify issues to be addressed."
+    }, 
+    {
+        "sentence_id,": "e2960beeb1", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "44 | P a g e National Information Security Strategy 4.4.3.2.2 Implementation Initiatives 1) ICT Security Standards and Policies Establish a well-publicized national program to lead, coordinate and establish initiatives among the national security, ministries, critical infrastructure sectors and private sector organizations to assess and improve the security and resilience of critical infrastructures utilizing a common risk framework."
+    }, 
+    {
+        "sentence_id,": "b9783b1f26", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "2) Risk Tier Standards Establish risk tier standards, controls and metrics for assuring consistent security and resilience application by ICT and information system owners and operators by adapting the U.S. National Institute of Standards and Technology (NIST) 800 series process as the basis for developing such an approach for KSA."
+    }, 
+    {
+        "sentence_id,": "febd206c36", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "2) Due to the very complex nature of the ICT and information systems, KSA should capitalize on existing developed frameworks, guidelines and standards; for example, the U.S. NIST approach and documents."
+    }, 
+    {
+        "sentence_id,": "a678077227", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "45 | P a g e National Information Security Strategy 3) Government Enterprise Architecture (GEA) Adopt, and require ministries to follow, a Government Enterprise Architecture (GEA) and identify international security standards, practices and common technology configurations to be applied to the GEA."
+    }, 
+    {
+        "sentence_id,": "aca953bd9e", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "4) Compliance Monitoring Practices Develop compliance monitoring practices using continuous monitoring methodologies for evaluating the state of compliance to adopted standard configurations."
+    }, 
+    {
+        "sentence_id,": "e6a8500842", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "5) Engagements with International Activities Increase the number and frequency of engagements with international activities such as The Open Group, standards bodies and consortiums that are leaders in security and resilience for existing and emerging technologies."
+    }, 
+    {
+        "sentence_id,": "f234607b0b", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards", 
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "4.4.3.3.4 Measures of Progress 1) Tracking of the number of new certified individuals and experience levels with architectural analysis tools and processes within each ministries CIO office 2) Establishment of a plan and timeline for development and transition to common architectures, standard products and shared services and infrastructures 3) Tracking and publishing of milestone accomplishments 3) Compliance audits and testing of each ministry on a regular periodic basis, and providing them with scorecards, can serve to monitor and demonstrate continuous improvements in these critical areas."
+    }, 
+    {
+        "sentence_id,": "92551d3d5e", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards", 
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "At the top university level, a Kingdom IS certification program can be established with uniform and stringent certification standards for both teachers and curriculum."
+    }, 
+    {
+        "sentence_id,": "286ff6649c", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "8) International Cooperative Exchange Utilize educational, government and private sector resources and cooperatively exchange ICTS activities with countries such as the GCC, and other countries friendly to the Kingdom."
+    }, 
+    {
+        "sentence_id,": "471c5e8993", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "52 | P a g e National Information Security Strategy 4.6 RE-ASSESSMENT AND AUDIT The Re-Assessment and Audit strategy element includes outlining and developing an approach to a common framework for security assessment, re-assessment and audits, which is based upon national and international best practices, guidelines, procedures and policies."
+    }, 
+    {
+        "sentence_id,": "4b410ca985", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "In addition, this element will assist in the development of an approach to the certification and accreditation of new systems prior to being placed into operation."
+    }, 
+    {
+        "sentence_id,": "c5dd2a1538", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "A national level strategy for re-assessment and audit will help to: Determine the most efficient and effective mechanisms to obtain strategic warning, maintain situational awareness and improve incident response capabilities Improve the security posture of critical infrastructure systems Determine the need to update or replace existing policies and technologies Evaluate new technology Uncover fraudulent or other illegal activities Reinforce and strengthen internal controls Assessments and Audits are ultimately aimed at studying processes for their improvement, but there are distinct differences."
+    }, 
+    {
+        "sentence_id,": "4e74c5584e", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Typical methods for conducting an Information Security Assessment include: Surveys Interviews Standards Statistics Record reviews The assessment looks at the completeness of the security initiatives or program."
+    }, 
+    {
+        "sentence_id,": "3a17d17e06", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "By conducting the assessment first, the organization can remediate any significant shortcomings before a security audit is 53 | P a g e National Information Security Strategy performed, which is a formal record of the security status of an organization as measured against a specific standard."
+    }, 
+    {
+        "sentence_id,": "917764d5f7", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "This brief description of audits is consistent with major certifying bodies such as the Information Systems Audit and Control Association (ISACA), which is the international organization that issues certifications for Certified Information Systems Auditors (CISA) and the Institute of Internal Auditors."
+    }, 
+    {
+        "sentence_id,": "357a1d2d74", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "The establishment of a re-assessment and audit initiative, to include certification and accreditation of all systems and a focus on critical infrastructure systems, will provide KSA the ability to assess cyber threats, as well as information security enhancements."
+    }, 
+    {
+        "sentence_id,": "f53b5ce374", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The methodology should be based on the principles of international standards such as ISO 27001 and 27002, as well as generally accepted best practices, guidelines, procedures and policies."
+    }, 
+    {
+        "sentence_id,": "376233ad11", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "2) Documents that describe the Certification and Accreditation (C&A) requirements, responsibilities, processes and authorities must be developed."
+    }, 
+    {
+        "sentence_id,": "36eaaff368", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "3) For KSA critical infrastructures, information must be developed that will assist in developing analysis and identification of known issues and gaps in policies, procedures and practices, as well as incentives affecting infrastructure preparedness and resilience."
+    }, 
+    {
+        "sentence_id,": "727d89f0b9", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "2) Policies and procedures to cost-effectively reduce information technology security risks to an acceptable level will be implemented, which will, in turn, will be measured through structured reporting."
+    }, 
+    {
+        "sentence_id,": "6240864329", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "4.6.3.2 Objective A-2: Baseline Security Standards Develop a minimum baseline IT security standard for internationally accepted security configurations."
+    }, 
+    {
+        "sentence_id,": "0ad8d878a3", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards", 
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "This provides the standard that trained information security professionals can use to produce and conduct assessments, audits and certifications, as well as accreditation of existing and new systems."
+    }, 
+    {
+        "sentence_id,": "c54f7bda06", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "4.6.3.2.1 Approach Provide a minimum baseline security standard that establishes and defines the approved configuration documentation for a system at a milestone event or at a specified time."
+    }, 
+    {
+        "sentence_id,": "d43edf10b3", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards", 
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "4.6.3.3.1 Approach NISE Provides the certifier and accreditor with a structured process to perform a Certification and Accreditation of a system, based upon a series of standardized assessment and planning templates."
+    }, 
+    {
+        "sentence_id,": "5c6bff163e", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Achieving this across the many sectors of the Kingdom will require new internal cooperation and coordination processes."
+    }, 
+    {
+        "sentence_id,": "c44f84ff3e", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Experience has demonstrated that a country can develop more uniform policies and emergency response procedures when all facets of the government and private sectors work in a cooperative manner."
+    }, 
+    {
+        "sentence_id,": "00388194dc", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "This is especially true for information and cyber security, where standardization, coordination and agility are vital components of a world-class capability."
+    }, 
+    {
+        "sentence_id,": "518bf3e143", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "The approach to increase internal cooperation and information sharing is simple."
+    }, 
+    {
+        "sentence_id,": "db0944dd93", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Such collaboration will result in the development of a set of best practices and standards that will lead to reduced costs and better efficiencies."
+    }, 
+    {
+        "sentence_id,": "d6ec04930a", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The national government should create information sharing mechanisms to collaborate with local industry on security issues facing industry, collect specific threat information detected by industry and provide national threat and policy guidance to industry."
+    }, 
+    {
+        "sentence_id,": "9fd7600c77", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "4.7.3.1.3 Challenges and Issues 1) Inadequate or non-existent coordination processes 2) Uneven security requirement development processes 3) Inadequate threat and vulnerability detection and information sharing mechanisms 4) Different ICT security standards and policies 5) Stovepipes between sectors 6) Uncoordinated or undocumented authorities and responsibilities 4.7.3.1.4 Measures of Progress 1) Creation of the position of CIO across the ministries and implementation of the CIO Function 2) Creation of the position of CISO across the ministries and implementation of the CISO Function 3) Creation of Public-Private Advisory Functions (PPAF) within each region 4) Establishment of an office responsible for Public Outreach and Awareness within the new Information Security Organization 4.7.3.2 Objective N-2: Focus National Cooperation and Coordination Enhance the following information sharing areas that require inter-governmental structures and processes for cooperation and coordination: ICT Security Standards and Policies Research and Development (R&D) Security Operations Center (SOC) Vulnerability and Threat Information Sharing National IS Incident Response Process 4.7.3.2.1 Approach In addition to the Functions recommended in Objective N-1 above, the NISS identifies several specific areas of cooperation that will greatly enhance national and organizational information security efforts."
+    }, 
+    {
+        "sentence_id,": "885d6d8a0b", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "By focusing on the topics of this objective first, the Functions will achieve more rapid and uniform standards and capabilities."
+    }, 
+    {
+        "sentence_id,": "37456f5035", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "4.7.3.2.2 Implementation Initiatives 1) ICT Security Standards and Policies NISS section 4.2 Policy and Regulations addresses the creation of new IT security policies and laws."
+    }, 
+    {
+        "sentence_id,": "40f855b9af", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The CIO and the CISO will play vital roles in deciding what new standards and policies should be adopted, how they should be written, to whom they apply and when they should be updated or discontinued."
+    }, 
+    {
+        "sentence_id,": "aeebb47d6a", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Many policies will be created by the national information security functions that will be applicable to the national security sectors, so their unique perspectives, insights and participation are necessary."
+    }, 
+    {
+        "sentence_id,": "7250a9cde7", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The NISS recommends that the Kingdom put into place mandatory reporting policies for sharing cyber vulnerability and threat information."
+    }, 
+    {
+        "sentence_id,": "3e4b4fc22c", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "4.7.3.2.4 Measures of Progress 1) Effectiveness of the CIO and CISO Functions issuing national ICT security policy and guidance 2) Creation of a NISE Research and Innovation Function 3) Development of a National Research and Development Technology Roadmap 4) Creation of a centralized R&D funding mechanism for ICT security 5) Creation of a national Security Operations Center (SOC) 6) Integration of the telecommunications sector with SOC operations 7) Creation of a policy that mandates the sharing of ICT security threat and vulnerability information 61 | P a g e National Information Security Strategy 8) Creation of a National Information Security and Cyber Response Plan 4.7.3.3 Objective N-3: Create a National IS and Cyber Exercise Program Create a National Information Security and Cyber Exercise Program to enhance national coordination and cooperation of activities related to information security."
+    }, 
+    {
+        "sentence_id,": "8e8bae85bf", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The types of participants (called players) and processes to be tested are national policy makers and ministries, authorities and responsibilities, coordination processes, technical teams, private sector outreach, citizens, international partners and media."
+    }, 
+    {
+        "sentence_id,": "15a7afb645", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "4.7.3.3.4 Measures of Progress 1) Creation and execution of the first national IS and cyber exercise 2) Expansion of the program to include additional institutions and players 62 | P a g e National Information Security Strategy 4.8 INTERNATIONAL COOPERATION AND SHARING FOR INFORMATION SECURITY This element focuses specifically on areas where the broader international community has significant efforts underway and where specific international engagement at the governmental level is required."
+    }, 
+    {
+        "sentence_id,": "d631b6eb35", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Although most national information and cybersecurity strategies identify international cooperation as a key objective, very few identify specific goals and objectives."
+    }, 
+    {
+        "sentence_id,": "598d35226d", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Absent such concrete goals, nations often do not understand how to leverage the benefits that can be derived from effective international cooperation."
+    }, 
+    {
+        "sentence_id,": "5999bf4ff8", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "It is critical that the Kingdom identify specific goals to be achieved through international cooperation and partnerships."
+    }, 
+    {
+        "sentence_id,": "299a2730b7", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "4.8.1 ELEMENT DESCRIPTION The Kingdom must recognize that information and cybersecurity are complex issues with changing technological and policy components."
+    }, 
+    {
+        "sentence_id,": "2068b996e7", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "International cooperation and coordination on these complex issues and evolving ICT threats is vital to our nations information security posture and economic future, as well as the development of a robust ICT infrastructure."
+    }, 
+    {
+        "sentence_id,": "dc60df512a", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "4.8.3 ELEMENT OBJECTIVES The NISS addresses the challenges of working cooperatively with the international community by identifying the leading international organizations that should be engaged, specific areas of international cooperation and different mechanisms to interact with other countries."
+    }, 
+    {
+        "sentence_id,": "998d689913", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "4.8.3.1 Objective I-1: Strengthen the Kingdom's National Technical Capabilities Strengthen the Kingdom's national technical capabilities through increased international cooperation and sharing."
+    }, 
+    {
+        "sentence_id,": "a758b959ce", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Although some are regionally organized, and direct KSA participation may be limited, their outcomes often have global impacts on information security and cybersecurity standards and processes."
+    }, 
+    {
+        "sentence_id,": "3a66b35d57", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Asia-Pacific Economic Cooperation (APEC) Association of Southeast Asian Nations (ASEAN) Council of Europe European Network and Information Security Agency (ENISA) European Union (EU) Forum of Incident Response and Security Teams (FIRST) Group of Eight (G8) (Cybersecurity/Cyber Crime) Gulf Cooperation Council (GCC) Institute of Electrical and Electronic Engineers (IEEE) International Electrotechnical Commission (IEC) International Organization for Standardization (ISO) The International Telecommunication Union (ITU), SG-17 International Multilateral Partnership Against Cyber Threats (IMPACT) Internet Corporation for Assigned Names and Numbers (ICANN) Internet Engineering Task Force (IETF) The Internet Governance Forum (IGF) INTERPOL Meridian North Atlantic Treaty Organization (NATO) The Open Group Organization for Economic Cooperation and Development (OECD) United Nations (UN) Figure 4.8-1 International Organizations Involved in Information Security and Cybersecurity Their efforts often have global impacts on information security and cybersecurity standards and processes."
+    }, 
+    {
+        "sentence_id,": "7b4e44bf30", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The NISS recommends a top-to-bottom review and assessment of current engagement activities, appropriate ministerial involvement, strategic goals and objectives and a strategy to improve awareness, effectiveness and engagement of the myriad of policies, standards, information and outcomes from these organizations."
+    }, 
+    {
+        "sentence_id,": "4a299f1a63", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "By quickly aligning itself with international standards and capabilities to detect and respond to cybercrime, the Kingdom helps protect the Saudi government and economy from cybercrime and fraud."
+    }, 
+    {
+        "sentence_id,": "8a3645f96e", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "In order to effectively operate on the international cybercrime stage, the Kingdom may need to forego a rigid interpretation of its own legal standards and procedures and adopt a more flexible legal approach to work cooperatively with international partners."
+    }, 
+    {
+        "sentence_id,": "467a22b937", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "The Council of Europe created the Convention on Cybercrime in 2001 that has been signed by nearly 50 nations and is the de facto standard on international cybercrime cooperation."
+    }, 
+    {
+        "sentence_id,": "47fc06e366", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "However, many developing countries now wish to re-open the international cybercrime debate and standards by creating a broader internationally developed policy or treaty."
+    }, 
+    {
+        "sentence_id,": "a0149e204a", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "4.8.3.2.3 Challenges and Issues 1) Domestic and international, as well as legal and cultural challenges arise when dealing with cybercrime and the interpretation of legal standards, procedures and law."
+    }, 
+    {
+        "sentence_id,": "d9907e1417", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "4.8.3.2.4 Measures of Progress 1) Creation of a legal forum that focuses on cybercrime issues, both domestically and internationally 2) Development of an international cybercrime engagement strategy 3) Review and ratification of the Convention on Cybercrime, or participation in the dialogue on reopening the discussion of an international Cybercrime Treaty 4.8.3.3 Objective I-3: Expand Research and Innovation Through International Cooperation Expand research and innovation through international cooperation."
+    }, 
+    {
+        "sentence_id,": "2a7f2a9a35", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "4.8.3.3.1 Approach The final focus that the NISS highlights in international cooperation is research and innovation."
+    }, 
+    {
+        "sentence_id,": "b67789fc95", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "4.9.3.4.2 Implementation Initiative 1) Standard MIS Tools and Experienced People Employ the standard MIS tools."
+    }, 
+    {
+        "sentence_id,": "3086b5f772", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "5.1.2.2 Policies The next step is agreement for, and development and adoption of, a set of national information security policies."
+    }, 
+    {
+        "sentence_id,": "1788df2485", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "This, in turn, will lead to national standards and best practices."
+    }, 
+    {
+        "sentence_id,": "f3a32f9d55", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Each ministry agency and organization should have the flexibility to adapt the policies and implement the standards according to their individual circumstances."
+    }, 
+    {
+        "sentence_id,": "0cb4d164a2", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "A companion to the risk assessment is a framework for ICT system assessments and audits to ensure the appropriate standards and policies are being met."
+    }, 
+    {
+        "sentence_id,": "1709b5cd64", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "5.1.2.6 National and International Cooperation Expanding the internal cooperation communication regarding attacks, threats, vulnerabilities, mitigation techniques and best practices among and between the Kingdom's organizations is essential."
+    }, 
+    {
+        "sentence_id,": "3b77547760", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "External initiatives with numerous international organizations are needed for any nation, since in many cases immediate mitigation against cyber-attacks depends upon international cooperative actions."
+    }, 
+    {
+        "sentence_id,": "b9419f7b29", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "5.1.2.7 Human Resource The major foundation block of the NISS, after the Kingdom decides upon an information security environment and policy approach is the Human Resource component."
+    }, 
+    {
+        "sentence_id,": "91ea05a2ce", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "79 | P a g e National Information Security Strategy Examples of Unique and Overlapping Areas from Figure 5.2.1-1 Area # 1 Domain NISS alone 2 NISS and Cyber 3 NISS and Cyber and CIP 4 5 NISS and CIP Cyber alone 6 Cyber and CIP 7 CIP alone Examples Computer security and cryptographic policies, directives , guidance and standards for information infrastructure and information systems Cyber threat monitoring, analysis, information sharing, crisis management, computer emergency response team coordination."
+    }, 
+    {
+        "sentence_id,": "84012d5d72", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "BADIR BADIR-ICT, Saudi Arabias first operational national technology incubator C and A Certification and Accreditation Certification Comprehensive evaluation of the technical and non-technical security safeguards of an information system to support the accreditation process that establishes the extent to which a particular design and implementation meets a set of specified security requirements."
+    }, 
+    {
+        "sentence_id,": "442b5fbc76", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards", 
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "GCC Gulf Cooperation Council GEA Government Enterprise Architecture GSN Government Secure Network HR Human Resource IA Information Assurance ICANN Internet Corporation for Assigned Names and Numbers ICT Information Communications Technology ICTS Information Communications Technology Security IEC International Electro technical Commission IEEE Institute of Electrical and Electronic Engineers IETF Internet Engineering Task Force IGF Internet Governance Forum IMPACT IS International Multilateral Partnership Against Cyber Threats Information Security (The NISS uses the term IS to mean the same as IA) ISO International Standards Organization ISP Internet Service Provider ITIL Information Technology Infrastructure Library ITNS Information Technology and National Security Conference Dec 2007 ITU The International Telecommunication Union KACST KAI King Abdulaziz City for Science and Technology King Abdullah Institute KRCs Kingdom Resident Consultants - The NISS consultants on KAI's Team KSA The Kingdom of Saudi Arabia A-2 | P a g e National Information Security Strategy Glossary Term Definition MCIT Ministry of Communications and Information Technology MCS Ministry of Civil Service MOD Ministry of Defense MOE Ministry of Education MOHE Ministry of Higher Education MOI Ministry of Interior MOL Ministry of Labor N3i National Integrated Information Infrastructure NATO North Atlantic Treaty Organization NCDC National Center for Digital Certification NCITP National Communications Information Technology Plan NCOC National Cyber Operations Center NCRP National Cyber Response Plan NERC North American Electric Reliability Council NISE National Information Security Environment NISED National Information Security Environment Directives (for major issuances) NISEIs National Information Security Environment Instructions NISEMs National Information Security Environment Manuals NISS National Information Security Strategy (for the Kingdom of Saudi Arabia) NRAF National Risk Assessment Function OECD Organization for Economic Cooperation and Development PCI Payment Card Industry PCT Patent Cooperation Treaty PERT Program Evaluation and Review Technique PMC Prince Muqrin Chair Public (Public Sector) Resilience RFP Risk Management Framework (RMF) Risk Mitigation Saudi Arabias government or government related organizations The ability to reduce the magnitude and/or duration of disruptive events Request for Proposal A structured approach used to oversee and manage risk for an enterprise."
+    }, 
+    {
+        "sentence_id,": "a4a50dfdb2", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "RMA Risk Management and Assessment RPMS Risk Process management System SA CISRS Saudi Arabian Critical Security and Resilience Strategy A-3 | P a g e National Information Security Strategy Glossary Term SCADA Security Plan Security Policy Security Test and Evaluation (ST&E) SOC STS-51-G System-Specific Security Control Tailored Security Control Baseline TAQNIA the Kingdom Threat TOGAF UN USPTO Vulnerability Definition Supervisory Control and Data Acquisition Formal document that provides an overview of the security requirements for an information system or an information security program and describes the security controls in place or planned for meeting those requirements."
+    }
+]

@@ -1,0 +1,1002 @@
+[
+    {
+        "sentence": "Canadas Cyber Security Strategy For a stronger and more prosperous Canada Her Majesty the Queen in Right of Canada, 2010 Cat.", 
+        "sentence_id,": "3d6217a57f"
+    }, 
+    {
+        "sentence": ": PS4-102/2010E-PDF ISBN: 978-1-100-16934-7 Printed in Canada Canadas Cyber Security Strategy: For a Stronger and More Prosperous Canada Message from the Minister Canadians personal and professional lives have gone digital: we live, work, and play in cyberspace.", 
+        "sentence_id,": "52a1c3ade3"
+    }, 
+    {
+        "sentence": "Canadians use the Internet, computers, cell phones and mobile devices every day to talk, email, text and twitter with family, friends and colleagues.", 
+        "sentence_id,": "6642792d85"
+    }, 
+    {
+        "sentence": "We do business online everyday, from banking to shopping to accessing government services and we do it from wherever we happen to be.", 
+        "sentence_id,": "b15011df02"
+    }, 
+    {
+        "sentence": "Digital infrastructure makes all this possible, and also keeps essential services up and running.", 
+        "sentence_id,": "6b5e9f4fdb"
+    }, 
+    {
+        "sentence": "Canadians individuals, industry and governments are embracing the many advantages that cyberspace offers, and our economy and quality of life are the better for it.", 
+        "sentence_id,": "960b50bc51"
+    }, 
+    {
+        "sentence": "But our increasing reliance on cyber technologies makes us more vulnerable to those who attack our digital infrastructure to undermine our national security, economic prosperity, and way of life.", 
+        "sentence_id,": "8647c76a94"
+    }, 
+    {
+        "sentence": "Our systems are an attractive target for foreign military and intelligence services, criminals and terrorist networks.", 
+        "sentence_id,": "f6d1e97e66"
+    }, 
+    {
+        "sentence": "These groups are breaking into our computer systems, searching through our files, and causing our systems to crash.", 
+        "sentence_id,": "a9c9bf14a9"
+    }, 
+    {
+        "sentence": "They are stealing our industrial and national security secrets, and our personal identities.", 
+        "sentence_id,": "326e50f4a0"
+    }, 
+    {
+        "sentence": "We dont see them, we dont hear them, and we dont always catch them.", 
+        "sentence_id,": "5d7af3453c"
+    }, 
+    {
+        "sentence": "At times they are mere nuisances.", 
+        "sentence_id,": "7742ec4458"
+    }, 
+    {
+        "sentence": "At other times, they present real threats to our families, companies and to our country.", 
+        "sentence_id,": "6b1d6b9e1e"
+    }, 
+    {
+        "sentence": "Canadas Cyber Security Strategy is our plan for meeting the cyber threat.", 
+        "sentence_id,": "ef80dad917"
+    }, 
+    {
+        "sentence": "It delivers on the Governments 2010 Speech from the Throne commitment to work with provinces, territories and the private sector to implement a cyber security strategy to protect our digital infrastructure.", 
+        "sentence_id,": "f818a03d77"
+    }, 
+    {
+        "sentence": "It leverages the partnerships being established under the National Strategy and Action Plan for Critical Infrastructure, and supports the ongoing efforts by our law enforcement community to work with partners and international allies in cracking down on those who use the Internet for crime and illegal activities.", 
+        "sentence_id,": "735bf6ce16"
+    }, 
+    {
+        "sentence": "Canadas Cyber Security Strategy is a cornerstone of our Governments commitment to keep Canada including our cyberspace safe, secure and prosperous.", 
+        "sentence_id,": "b88de8d0b2"
+    }, 
+    {
+        "sentence": "The Honourable Vic Toews, P.C., Q.C., M.P.", 
+        "sentence_id,": "a8072367d1"
+    }, 
+    {
+        "sentence": "Minister of Public Safety Canadas Cyber Security Strategy: For a Stronger and More Prosperous Canada Introduction Cyberspace is the electronic world created by interconnected networks of information technology and the information on those networks.", 
+        "sentence_id,": "9b561f4375"
+    }, 
+    {
+        "sentence": "It is a global commons where more than 1.7 billion people are linked together to exchange ideas, services and friendship.", 
+        "sentence_id,": "1f004b7ff6"
+    }, 
+    {
+        "sentence": "The Canadian economy relies heavily on the Internet: Canadian online sales in 2007 were estimated at $62.7 billion;1 and In 2007, 87% of Canadian businesses used the Internet.1 Canadian businesses are moving quickly to adopt the most modern digital applications, including next generation and mobile technologies.", 
+        "sentence_id,": "ad12cccbc8"
+    }, 
+    {
+        "sentence": "Canadas governments have also become increasingly dependent on the Internet.", 
+        "sentence_id,": "96233191a6"
+    }, 
+    {
+        "sentence": "The federal Government alone now offers more than 130 commonly used services online, including tax returns, employment insurance forms and student loan applications.", 
+        "sentence_id,": "8ad84e0dbf"
+    }, 
+    {
+        "sentence": "Our success in cyberspace is one of our greatest national assets.", 
+        "sentence_id,": "5c7a4f7e6b"
+    }, 
+    {
+        "sentence": "Protecting this success means protecting our cyber systems against malicious misuse and other destructive attacks.", 
+        "sentence_id,": "7f49276461"
+    }, 
+    {
+        "sentence": "This is a daunting challenge.", 
+        "sentence_id,": "628e6bbbac"
+    }, 
+    {
+        "sentence": "There is no simple way Canadians are embracing cyberspace: 74% of Canadian households had paid Internet service in 2008;2 59% of personal tax filings were electronic in 2008;3 67% of Canadians banked online in 2009.4 1 Statistics Canada, The Daily, April 24, 2008 2 Canadian Radio-television and Telecommunications Commission, Communications Monitoring Report, August 2009 3 Canada Revenue Agency, National Processing Status Report, September 2009 4 Statistics Canada, Canadian Internet Use Survey, 2009 Canadas Cyber Security Strategy: For a Stronger and More Prosperous Canada to detect, identify and recover from attackers who cannot be seen or heard, who leave no physical evidence behind them, and who hide their tracks through a complex web of compromised computers.", 
+        "sentence_id,": "dc988f6479"
+    }, 
+    {
+        "sentence": "Cyber security affects us all, in part because even attackers with only basic skills have the potential to cause real harm.", 
+        "sentence_id,": "07bf0091c1"
+    }, 
+    {
+        "sentence": "Sophisticated attackers can disrupt the electronic controls of our power grids, water treatment plants and telecommunications networks.", 
+        "sentence_id,": "fe81706bf7"
+    }, 
+    {
+        "sentence": "They interfere with the production and delivery of basic goods and services provided by our governments and the private sector.", 
+        "sentence_id,": "0e9a2ff2a5"
+    }, 
+    {
+        "sentence": "They undermine our privacy by stealing our personal information.", 
+        "sentence_id,": "1a4196e2a9"
+    }, 
+    {
+        "sentence": "Dealing with cyber threats in isolation is not enough.", 
+        "sentence_id,": "9d8135a12d"
+    }, 
+    {
+        "sentence": "Through the implementation of this Strategy, the Government will continue to work with the provinces, territories and the private sector in a concerted effort to address the threats facing Canada and Canadians.", 
+        "sentence_id,": "522e3a023e"
+    }, 
+    {
+        "sentence": "Every year, we detect more attackers than the year before.", 
+        "sentence_id,": "32e44a1501"
+    }, 
+    {
+        "sentence": "And every year, those seeking to infiltrate, exploit or attack our cyber systems are more sophisticated and better resourced than the year before.", 
+        "sentence_id,": "d192116d29"
+    }, 
+    {
+        "sentence": "They are investing in their capabilities.", 
+        "sentence_id,": "19e47da51f"
+    }, 
+    {
+        "sentence": "We must respond by investing more in ours.", 
+        "sentence_id,": "e00e11374f"
+    }, 
+    {
+        "sentence": "Cyber attacks include the unintentional or unauthorized access, use, mani- pulation, interruption or destruction (via electronic means) of electronic information and/or the electronic and physical infrastructure used to process, communicate and/or store that information.", 
+        "sentence_id,": "118496db40"
+    }, 
+    {
+        "sentence": "The severity of the cyber attack determines the appropriate level of response and/or mitigation measures: i.e., cyber security.", 
+        "sentence_id,": "6b7c6fcc82"
+    }, 
+    {
+        "sentence": "The Government is continuing its efforts to help secure Canadas cyber systems and protect Canadians online.", 
+        "sentence_id,": "20f8e3dd05"
+    }, 
+    {
+        "sentence": "Indeed this Strategy is but one element in a series of initiatives designed to protect Canadians.", 
+        "sentence_id,": "5e08538784"
+    }, 
+    {
+        "sentence": "The Government has established the Canadian Cyber Incident Response Centre to monitor and provide mitigation advice on cyber threats, and coordinate the national response to any cyber security incident.", 
+        "sentence_id,": "b47bf62f7b"
+    }, 
+    {
+        "sentence": "The Government will soon introduce legislation to modernize law enforcements investigative powers, and ensure that technological innovations are not used to evade lawful interceptions of communications supporting criminal activity.", 
+        "sentence_id,": "15fd58f283"
+    }, 
+    {
+        "sentence": "These are important initiatives, but they are no longer sufficient.", 
+        "sentence_id,": "ca4f9520f8"
+    }, 
+    {
+        "sentence": "The threat is becoming more serious.", 
+        "sentence_id,": "f52b4fdc4e"
+    }, 
+    {
+        "sentence": "We cannot allow our cyber security efforts to remain fixed on the threat as we understood it in the past.", 
+        "sentence_id,": "cfadde623e"
+    }, 
+    {
+        "sentence": "To ensure that our advanced use of cyberspace remains a strategic asset, Canada must anticipate and confront emerging cyber threats.", 
+        "sentence_id,": "97aa5eed5d"
+    }, 
+    {
+        "sentence": "Canadas Cyber Security Strategy is our plan for making cyberspace more secure for all Canadians.", 
+        "sentence_id,": "c13ad216b3"
+    }, 
+    {
+        "sentence": "Canadas Cyber Security Strategy: For a Stronger and More Prosperous Canada Understanding Cyber Threats There are various ways to gain access to information in cyberspace.", 
+        "sentence_id,": "f02eae68b6"
+    }, 
+    {
+        "sentence": "Attackers can exploit vulnerabilities in software and hardware.", 
+        "sentence_id,": "fdcdfcb487"
+    }, 
+    {
+        "sentence": "They can exploit security vulnerabilities by tricking people into opening infected emails or visiting corrupted websites that infect their computers with malicious software.", 
+        "sentence_id,": "f1740dadd1"
+    }, 
+    {
+        "sentence": "They can take advantage of people who fail to follow basic cyber security practices, such as changing their passwords frequently, updating their antivirus protection on a regular basis, and using only protected wireless networks.", 
+        "sentence_id,": "9af53658a9"
+    }, 
+    {
+        "sentence": "Once they have access to a computer, attackers can steal or distort the information stored on it, corrupt its operations and program it to attack other computers and the systems to which they are connected.", 
+        "sentence_id,": "5219f56ff0"
+    }, 
+    {
+        "sentence": "In many cases, victims suffer a theft of their identity and/or their personal assets.", 
+        "sentence_id,": "2c34833ced"
+    }, 
+    {
+        "sentence": "The annual cost of identity theft in Canada has been estimated at nearly $1.9 billion.", 
+        "sentence_id,": "fc92039061"
+    }, 
+    {
+        "sentence": "For this reason the Government has amended the Criminal Code to better protect Canadians from identity theft.", 
+        "sentence_id,": "6a0666372b"
+    }, 
+    {
+        "sentence": "Canadian companies can lose the race to bring a product to market, or experience other harm without ever realizing that their losses were caused by a cyber attack.", 
+        "sentence_id,": "e9f2ee24bb"
+    }, 
+    {
+        "sentence": "It has been estimated that in a recent one year period, 86% of large Canadian organizations had suffered a cyber attack.", 
+        "sentence_id,": "fa7205022d"
+    }, 
+    {
+        "sentence": "The loss of intellectual property as a result of these attacks doubled between 2006 and 2008.6 Though certain attack tools and techniques are more costly and sophisticated than others, most cyber attacks share four characteristics that, in part, account for their growing popularity.", 
+        "sentence_id,": "ef44eb83aa"
+    }, 
+    {
+        "sentence": "Cyber attacks are often: Inexpensive Many attack tools can be purchased for a modest price or downloaded for free from the Internet; Easy Attackers with only basic skills can cause significant damage; 5 McMaster University, Measuring Identity Theft in Canada: 2008 Consumer Survey 6 CA Technologies, Canada 2008 Security and Privacy Survey Canadas Cyber Security Strategy: For a Stronger and More Prosperous Canada Effective Even minor attacks can cause extensive damage; and Low risk Attackers can evade detection and prosecution by hiding their tracks through a complex web of computers and exploiting gaps in domestic and international legal regimes.", 
+        "sentence_id,": "e43599e354"
+    }, 
+    {
+        "sentence": "While there is some similarity in the targets and methods of cyber attackers, the nature of the threat posed by each is made distinct by their differing motivations and intentions.", 
+        "sentence_id,": "0aa4b98631"
+    }, 
+    {
+        "sentence": "Three types of threats are discussed below.", 
+        "sentence_id,": "e4833ab0d8"
+    }, 
+    {
+        "sentence": "STaTE SponSorEd CybEr ESpIonagE and mILITary aCTIvITIES The most sophisticated cyber threats come from the intelligence and military services of foreign states.", 
+        "sentence_id,": "31f91065d9"
+    }, 
+    {
+        "sentence": "In most cases, these attackers are well resourced, patient and persistent.", 
+        "sentence_id,": "654456fde1"
+    }, 
+    {
+        "sentence": "Their purpose is to gain political, economic, commercial or military advantage.", 
+        "sentence_id,": "f32665ceb7"
+    }, 
+    {
+        "sentence": "All technologically advanced governments and private businesses are vulnerable to state sponsored cyber espionage.", 
+        "sentence_id,": "7bffb3ee3c"
+    }, 
+    {
+        "sentence": "Reports from Canada and across the world confirm that these attacks have succeeded in stealing industrial and state secrets, private data and other valuable information.", 
+        "sentence_id,": "fcdc7b9f94"
+    }, 
+    {
+        "sentence": "Some foreign states have declared publicly that cyber attacks are a central element of their military strategy.", 
+        "sentence_id,": "340bb5a869"
+    }, 
+    {
+        "sentence": "Some states have been widely accused of using cyber attacks to coincide with and magnify the effects of traditional military operations.", 
+        "sentence_id,": "5fdb2712ce"
+    }, 
+    {
+        "sentence": "These cyber attack programs are typically designed to sabotage an adversarys infrastructure and communications.", 
+        "sentence_id,": "4f92d13c92"
+    }, 
+    {
+        "sentence": "They may also support electronic attacks on an adversarys military equipment and operations.", 
+        "sentence_id,": "884cddbf89"
+    }, 
+    {
+        "sentence": "Cyber attacks that disrupt emergency response and public health systems would put lives in danger.", 
+        "sentence_id,": "9633b517be"
+    }, 
+    {
+        "sentence": "Canada and our allies understand that addressing these risks requires modernizing our military doctrines.", 
+        "sentence_id,": "870246913e"
+    }, 
+    {
+        "sentence": "It is for this reason that the North Atlantic Treaty Organization (NATO) has adopted several policy documents regarding cyber defence, and like the militaries of our closest allies, the Department of National Defence and the Canadian Forces are examining how Canada can best respond to future cyber attacks.", 
+        "sentence_id,": "5115ae997b"
+    }, 
+    {
+        "sentence": "TErrorIST USE of ThE InTErnET Terrorist networks also are moving to incorporate cyber operations into their strategic doctrines.", 
+        "sentence_id,": "a206d46a7b"
+    }, 
+    {
+        "sentence": "Among many activities, they are using the Internet to support their recruitment, fundraising and propaganda activities.", 
+        "sentence_id,": "f471c8c198"
+    }, 
+    {
+        "sentence": "Terrorists are aware of the potential for using the Western worlds dependence on cyber systems as a vulnerability to be exploited.", 
+        "sentence_id,": "b7bfd7669d"
+    }, 
+    {
+        "sentence": "For example, there are now online resources providing advice to terrorists on how to defend their own websites while launching cyber attacks on their enemies.", 
+        "sentence_id,": "8b3251229b"
+    }, 
+    {
+        "sentence": "In addition, a number of terrorist groups, including Al-Qaeda, have expressed their intention to launch cyber attacks against Western states.", 
+        "sentence_id,": "f2bdb7af3e"
+    }, 
+    {
+        "sentence": "Though experts doubt that terrorists currently have the ability to cause serious damage via cyber attacks, they recognize that this capacity will likely develop over time.", 
+        "sentence_id,": "b9d0902025"
+    }, 
+    {
+        "sentence": "CybErCrImE In much the same way as states have expanded their operations into cyberspace, so too have organized criminals.", 
+        "sentence_id,": "634c50a1ab"
+    }, 
+    {
+        "sentence": "The more sophisticated among them are turning to skilled cyber attackers to pursue many of their traditional activities, such as identity theft, money laundering and extortion.", 
+        "sentence_id,": "7f46013935"
+    }, 
+    {
+        "sentence": "Criminals now sell information stolen online, such as credit and debit card numbers, login passwords for computer servers, and malicious software designed to infiltrate and damage targeted systems.", 
+        "sentence_id,": "f8a9068578"
+    }, 
+    {
+        "sentence": "Even those of us who are diligent in protecting our personal information online are at risk of having our personal data stolen from the third parties we share it with.", 
+        "sentence_id,": "ecc6c00bb1"
+    }, 
+    {
+        "sentence": "Canadas Cyber Security Strategy: For a Stronger and More Prosperous Canada Some criminal organizations are now developing customized attack software.", 
+        "sentence_id,": "efe4c042a2"
+    }, 
+    {
+        "sentence": "They are using advanced encryption technologies to protect their own assets and trade secrets.", 
+        "sentence_id,": "f20c71f39f"
+    }, 
+    {
+        "sentence": "Some in the law enforcement and security communities argue that the capabilities of some cyber criminals now rival those of developed states.", 
+        "sentence_id,": "8ff4c49614"
+    }, 
+    {
+        "sentence": "ThE ThrEaT IS EvoLvIng Much like bacteria developing drug resistance to antibiotics, cyber viruses and malicious code are continually evolving to evade our defences and antivirus software.", 
+        "sentence_id,": "659b4d6fd0"
+    }, 
+    {
+        "sentence": "The evolution of cyber attack tools and techniques has accelerated dangerously in the recent past.", 
+        "sentence_id,": "6aa52b2aef"
+    }, 
+    {
+        "sentence": "Statistics compiled by two well known Internet security companies, Akamai and Symantec, together show that malicious computer programs now originate in more than 190 countries.7 More than 60% of all the malicious code ever detected was introduced into cyberspace in 20088 alone.", 
+        "sentence_id,": "9b928eaf2e"
+    }, 
+    {
+        "sentence": "There is no doubt that the frequency and severity of the cyber threat is accelerating.", 
+        "sentence_id,": "5b3e55201c"
+    }, 
+    {
+        "sentence": "Protecting Canadians in cyberspace will be a constantly evolving challenge.", 
+        "sentence_id,": "e51feedcd2"
+    }, 
+    {
+        "sentence": "To effectively address this challenge will require a range of actions and responses, accompanied by continuing investment and vigilance over the long term.", 
+        "sentence_id,": "832dc2824a"
+    }, 
+    {
+        "sentence": "7 Akamai, State of the Internet Report, March 2009 8 Symantec, Global Internet Security Threat Report, April 2009 Canadas Cyber Security Strategy: For a Stronger and More Prosperous Canada Canadas Cyber Security Strategy Canadian researchers have been at the forefront of making cyberspace a reality.", 
+        "sentence_id,": "833a3c7b52"
+    }, 
+    {
+        "sentence": "This same ingenuity must continue to be applied to predicting, detecting and defeating the cyber threats of tomorrow, and exploiting cyberspace to further Canadas national interests.", 
+        "sentence_id,": "08db96a2d0"
+    }, 
+    {
+        "sentence": "Canadas Cyber Security Strategy is our plan for meeting the cyber threat.", 
+        "sentence_id,": "5842c66a64"
+    }, 
+    {
+        "sentence": "Securing government systems Canadians trust Government with their personal and corporate information, and also trust Government to deliver services to them.", 
+        "sentence_id,": "3e3d64d53a"
+    }, 
+    {
+        "sentence": "They also trust that the Government will act to defend Canadas cyber sovereignty and protect and advance our national security and economic interests.", 
+        "sentence_id,": "6040142d07"
+    }, 
+    {
+        "sentence": "The Government will put in place the necessary structures, tools and personnel to meet its obligations for cyber security.", 
+        "sentence_id,": "4711298cd3"
+    }, 
+    {
+        "sentence": "2. partnering to secure vital cyber systems outside the federal government Canadas economic prosperity and Canadians security depend on the smooth functioning of systems outside the Government.", 
+        "sentence_id,": "7659cf43d8"
+    }, 
+    {
+        "sentence": "In cooperation with provincial and territorial governments and the private sector, the Government will support initiatives and take steps to strengthen Canadas cyber resiliency, including that of its critical infrastructure sectors.", 
+        "sentence_id,": "ab1047f259"
+    }, 
+    {
+        "sentence": "3. helping Canadians to be secure online The Government will assist Canadians in getting the information they need to protect themselves and their families online, and strengthen the ability of law enforcement agencies to combat cybercrime.", 
+        "sentence_id,": "7b393a5bb7"
+    }, 
+    {
+        "sentence": "Canadas Cyber Security Strategy will strengthen our cyber systems and critical infrastructure sectors, support economic growth and protect Canadians as they connect to each other and to the world.", 
+        "sentence_id,": "67b290c63d"
+    }, 
+    {
+        "sentence": "We all have a role to play as we take full advantage of cyberspace to build a safe, resilient and innovative Canada.", 
+        "sentence_id,": "1df12de29f"
+    }, 
+    {
+        "sentence": "The Government has sought input from stakeholders on a wide range of cyber threats and security practices.", 
+        "sentence_id,": "1c7fbf78d7"
+    }, 
+    {
+        "sentence": "Collaboration, especially internationally, is essential if cyberspace is to be secured.", 
+        "sentence_id,": "5f7620a865"
+    }, 
+    {
+        "sentence": "Canada will benefit from being seen internationally and domestically as a trusted partner in making cyberspace safer.", 
+        "sentence_id,": "7e5d003239"
+    }, 
+    {
+        "sentence": "Canadas Cyber Security Strategy: For a Stronger and More Prosperous Canada The Strategy: Reflects Canadian values such as the rule of law, accountability and privacy; Allows continual improvements to be made to meet emerging threats; Integrates activity across the Government of Canada; Emphasizes partnerships with Canadians, provinces, territories, business and academe; and Builds upon our close working relationships with our allies.", 
+        "sentence_id,": "dd77db7c8d"
+    }, 
+    {
+        "sentence": "Three of our closest security and intelligence partners, the United States, the United Kingdom and Australia, recently released their own plans to secure cyberspace.", 
+        "sentence_id,": "ce421d593b"
+    }, 
+    {
+        "sentence": "Many of the guiding principles and operational priorities set out in those reports resemble our own.", 
+        "sentence_id,": "cff11b08f4"
+    }, 
+    {
+        "sentence": "This complementarity reflects our shared experiences in dealing with cyber security, and demonstrates our determination to enhance our collective security by leveraging each allys domestic cyber regimes.", 
+        "sentence_id,": "65f5da7d62"
+    }, 
+    {
+        "sentence": "Like Canada, our allies intend to review and update their plans regularly in response to evolution in cyber security technologies and practices, and the cyber threat environment.", 
+        "sentence_id,": "4f056b0667"
+    }, 
+    {
+        "sentence": "Canada will also build on its existing engagement in cyber security discussions at key international fora, such as the United Nations, NATO and the Group of Eight.", 
+        "sentence_id,": "6734e6d6d5"
+    }, 
+    {
+        "sentence": "We are one of the non-European states that have signed the Council of Europes Convention on Cybercrime, and the Government is preparing legislation to permit ratification of this treaty.", 
+        "sentence_id,": "b24d79f93a"
+    }, 
+    {
+        "sentence": "Canada supports international efforts to develop and implement a global cyber governance regime that will enhance our security.", 
+        "sentence_id,": "58f7d3a862"
+    }, 
+    {
+        "sentence": "To the extent possible, Canada will support efforts to build the cyber security capacity of less developed states and foreign partners.", 
+        "sentence_id,": "cae0412ad2"
+    }, 
+    {
+        "sentence": "This will help forestall adversaries from exploiting weak links in global cyber defences.", 
+        "sentence_id,": "26981756a2"
+    }, 
+    {
+        "sentence": "Working Cooperatively The Strategy will be implemented by the departments and agencies most directly responsible for securing the Governments cyber systems.", 
+        "sentence_id,": "490e73b570"
+    }, 
+    {
+        "sentence": "We will work with our provincial and territorial partners, as they are jointly responsible for protecting much of the critical infrastructure in Canada.", 
+        "sentence_id,": "1e69911344"
+    }, 
+    {
+        "sentence": "Canadas academic community, non-governmental organi- zations and private sector must join the Government in securing Canadas cyber systems.", 
+        "sentence_id,": "2e14602381"
+    }, 
+    {
+        "sentence": "Each of these communities has unique technological and analytical capabilities to offer, and a strong incentive to secure their own systems.", 
+        "sentence_id,": "68a94263b2"
+    }, 
+    {
+        "sentence": "Their collaboration is essential to our shared success to secure Canada and increase our productivity and prosperity.", 
+        "sentence_id,": "85877717f3"
+    }, 
+    {
+        "sentence": "Individual Canadians must also play a primary role in securing Canadas cyber future.", 
+        "sentence_id,": "611245332d"
+    }, 
+    {
+        "sentence": "The Government can introduce and support important cyber security initiatives, but it cannot protect each of us from every threat we encounter when we go online.", 
+        "sentence_id,": "fd473ea65c"
+    }, 
+    {
+        "sentence": "Canadians must become aware of these threats, and of the tools available to recognize and avoid them.", 
+        "sentence_id,": "2879d07319"
+    }, 
+    {
+        "sentence": "Most importantly, they must use these tools to protect themselves and their families.", 
+        "sentence_id,": "a3315b5534"
+    }, 
+    {
+        "sentence": "Cyber security matters to everyone, everyday.", 
+        "sentence_id,": "0c1f5f2134"
+    }, 
+    {
+        "sentence": "It matters for a safer and more prosperous Canada.", 
+        "sentence_id,": "7b5aef8e08"
+    }, 
+    {
+        "sentence": "Canadas Cyber Security Strategy: For a Stronger and More Prosperous Canada Specific Initiatives Canadas Cyber Security Strategy is built on three pillars: Securing Government systems; Partnering to secure vital cyber systems outside the federal Government; and Helping Canadians to be secure online.", 
+        "sentence_id,": "015e6c3e66"
+    }, 
+    {
+        "sentence": "SECUrIng govErnmEnT SySTEmS The cyber world in which Canadians live, work and play lacks the regimes of law and order that govern our physical world.", 
+        "sentence_id,": "72eabc6ee1"
+    }, 
+    {
+        "sentence": "The Government is entrusted with safeguarding some of our most personal and sensitive information in its electronic databases.", 
+        "sentence_id,": "ac6c9a1cf2"
+    }, 
+    {
+        "sentence": "It provides services to Canadians and the private sector through its websites and electronic processing systems.", 
+        "sentence_id,": "45a18e04d4"
+    }, 
+    {
+        "sentence": "And the Government transmits highly classified information essential to our military and national security operations via its classified communications systems.", 
+        "sentence_id,": "3d4afab748"
+    }, 
+    {
+        "sentence": "There have been many cyber attacks directed at Government systems.", 
+        "sentence_id,": "d366e4e882"
+    }, 
+    {
+        "sentence": "Cyber attackers regularly probe these systems, looking for vulnerabilities.", 
+        "sentence_id,": "c89e2882f6"
+    }, 
+    {
+        "sentence": "Securing these links is not simply a matter of operational efficiency.", 
+        "sentence_id,": "190009ad09"
+    }, 
+    {
+        "sentence": "It is a matter of national security and sovereignty, protecting the lives of our foreign service, military and law enforcement personnel, the integrity of our economy, and safeguarding the personal information of Canadians.", 
+        "sentence_id,": "e1ee112208"
+    }, 
+    {
+        "sentence": "We must and will strengthen the Governments capability to detect, deter and defend against cyber attacks while deploying cyber technology to advance Canadas economic and national security interests.", 
+        "sentence_id,": "7577e65176"
+    }, 
+    {
+        "sentence": "Achieving the cyber integrity of Government requires that roles and responsibilities are clear, systems are strengthened and Government employees are aware of proper procedure.", 
+        "sentence_id,": "d702c3a09d"
+    }, 
+    {
+        "sentence": "Establishing Clear Federal Roles and Responsibilities With a subject as critical as cyber security, there is no room for ambiguity in terms of who does what.", 
+        "sentence_id,": "29b7ed7bb5"
+    }, 
+    {
+        "sentence": "This Strategy sets out the required clarity.", 
+        "sentence_id,": "e4fa765c4c"
+    }, 
+    {
+        "sentence": "Public Safety Canada will coordinate implementation of the Strategy.", 
+        "sentence_id,": "455226d7cf"
+    }, 
+    {
+        "sentence": "It will design a whole-of-Government approach to reporting on the implementation of the Strategy.", 
+        "sentence_id,": "b710ce271c"
+    }, 
+    {
+        "sentence": "It will provide central coordination for assessing emerging complex Canadas Cyber Security Strategy: For a Stronger and More Prosperous Canada threats and developing and promoting comprehensive, coordinated approaches to address risks within the Government and across Canada.", 
+        "sentence_id,": "5e40785c0a"
+    }, 
+    {
+        "sentence": "Within Public Safety Canada, the Canadian Cyber Incident Response Centre will continue to be the focal point for monitoring and providing advice on mitigating cyber threats, and directing the national response to any cyber security incident.", 
+        "sentence_id,": "9ebf5e724e"
+    }, 
+    {
+        "sentence": "Public Safety Canada will also lead public awareness and outreach activities to inform Canadians of the potential risks they face and the actions they can take to protect themselves and their families in cyberspace.", 
+        "sentence_id,": "cff3349886"
+    }, 
+    {
+        "sentence": "The Communications Security Establishment Canada has internationally recognized expertise in dealing with cyber threats and attacks.", 
+        "sentence_id,": "eaa543c25c"
+    }, 
+    {
+        "sentence": "With its unique mandate and knowledge, the Communications Security Establishment Canada will enhance its capacity to detect and discover threats, provide foreign intelligence and cyber security services, and respond to cyber threats and attacks against Government networks and information technology systems.", 
+        "sentence_id,": "ed31b98aba"
+    }, 
+    {
+        "sentence": "The Canadian Security Intelligence Service will analyze and investigate domestic and international threats to the security of Canada.", 
+        "sentence_id,": "a8566b5502"
+    }, 
+    {
+        "sentence": "The Royal Canadian Mounted Police will investigate, as per the Royal Canadian Mounted Police Act, suspected domestic and international criminal acts against Canadian networks and critical information infrastructure.", 
+        "sentence_id,": "26f493e3a1"
+    }, 
+    {
+        "sentence": "The Treasury Board Secretariat will support and strengthen cyber incident management capabilities across Government, through the development of policies, standards and assessment tools.", 
+        "sentence_id,": "1ac210bfed"
+    }, 
+    {
+        "sentence": "The Treasury Board Secretariat is also responsible for information technology security in the Government of Canada.", 
+        "sentence_id,": "1495541b0d"
+    }, 
+    {
+        "sentence": "Foreign Affairs and International Trade Canada will advise on the international dimension of cyber security and work to develop a cyber security foreign policy that will help strengthen coherence in the Governments engagement abroad on cyber security.", 
+        "sentence_id,": "3c4b53131c"
+    }, 
+    {
+        "sentence": "The Department of National Defence and the Canadian Forces will strengthen their capacity to defend their own networks, will work with other Government departments to identify threats and possible responses, and will continue to exchange information about cyber best practices with allied militaries.", 
+        "sentence_id,": "e484714d1b"
+    }, 
+    {
+        "sentence": "The Department of National Defence and the Canadian Forces will also work with allies to develop the policy and legal framework for military aspects of cyber security, complementing international outreach efforts of Foreign Affairs and International Trade Canada.", 
+        "sentence_id,": "e0e78a5ae3"
+    }, 
+    {
+        "sentence": "Given the speed and complexity of many cyber attacks, barriers to cooperation and information sharing between federal partners must be eliminated.", 
+        "sentence_id,": "9723a76adf"
+    }, 
+    {
+        "sentence": "The Strategy includes measures to address this need, and provides the additional financial and personnel resources required to allow the Government to fulfill its cyber security obligations.", 
+        "sentence_id,": "fcfd24885c"
+    }, 
+    {
+        "sentence": "Strengthening the Security of Federal Cyber Systems For each new technology or practice adopted to enhance our cyber security, another is developed to circumvent it.", 
+        "sentence_id,": "23ef4bafb6"
+    }, 
+    {
+        "sentence": "We will continually invest in the expertise, systems and governing frameworks required to keep pace with these evolving threats.", 
+        "sentence_id,": "ece461d9e7"
+    }, 
+    {
+        "sentence": "We will also review our options for increasing the risks and consequences applied to those who attack our cyber systems.", 
+        "sentence_id,": "0ebb69566f"
+    }, 
+    {
+        "sentence": "The Government will enhance the security of its cyber architecture.", 
+        "sentence_id,": "93d4ea5664"
+    }, 
+    {
+        "sentence": "It will continue to reduce the number of Internet gateways into its computer systems, and take other measures to secure systems.", 
+        "sentence_id,": "8d281cc581"
+    }, 
+    {
+        "sentence": "In 2009 the Government made a number of important amendments to its Policy on Government Security.", 
+        "sentence_id,": "c44067312f"
+    }, 
+    {
+        "sentence": "Administered by the Treasury Board Secretariat, the Policy sets out safeguards to assure the delivery of Government services to Canadians.", 
+        "sentence_id,": "0b6fc12d3a"
+    }, 
+    {
+        "sentence": "Since the Government relies extensively on information technology to provide these services, the Policy emphasizes the need for departments and agencies to monitor and secure their electronic operations.", 
+        "sentence_id,": "00bbfa3a08"
+    }, 
+    {
+        "sentence": "Canadas Cyber Security Strategy: For a Stronger and More Prosperous Canada The globalization of the technology industry makes it difficult to assess suppliers trustworthiness.", 
+        "sentence_id,": "b646856142"
+    }, 
+    {
+        "sentence": "Cyber attackers are well aware of the opportunities created for them by security gaps in the global supply chain.", 
+        "sentence_id,": "50eb131b06"
+    }, 
+    {
+        "sentence": "Some organized crime syndicates and foreign intelligence services have already exploited these vulnerabilities in an effort to disseminate exploitable technologies.", 
+        "sentence_id,": "c1be23ceda"
+    }, 
+    {
+        "sentence": "The Government will strengthen processes to reduce the risk related to compromised technologies.", 
+        "sentence_id,": "e4859a77d9"
+    }, 
+    {
+        "sentence": "Enhancing Cyber Security Awareness throughout Government While clear roles and responsibilities, and strengthened systems are important to achieving cyber security, the Governments success in securing its systems is largely dependent on its employees.", 
+        "sentence_id,": "7d68f0628d"
+    }, 
+    {
+        "sentence": "As countless incidents in all segments of society have shown, even the most sophisticated security systems can be undermined by simple human error.", 
+        "sentence_id,": "fb5af6dc51"
+    }, 
+    {
+        "sentence": "In Government, as elsewhere, people can fail to follow basic cyber security practices by: Not changing their passwords on a regular basis; Assuming that an office email system is more secure than it is; and Importing malicious viruses into workplace computers by visiting corrupted websites.", 
+        "sentence_id,": "4470c19290"
+    }, 
+    {
+        "sentence": "parTnErIng To SECUrE vITaL CybEr SySTEmS oUTSIdE ThE fEdEraL govErnmEnT The economic success of Canadas private sector depends in large measure on its ability to secure cutting edge research and intellectual property, business transactions and financial data.", 
+        "sentence_id,": "bdd9f2d136"
+    }, 
+    {
+        "sentence": "Failing to secure these assets inevitably leads to lost market share, fewer customers and corporate breakdown.", 
+        "sentence_id,": "833495458c"
+    }, 
+    {
+        "sentence": "In much the same way, our personal wellbeing depends on access to secure and reliable services from our transportation systems, communication networks and financial institutions.", 
+        "sentence_id,": "f68c49cd49"
+    }, 
+    {
+        "sentence": "It is increasingly important to protect two of the primary contributors to our quality of life private companies that drive our economic prosperity and the infrastructure systems that support our daily activities against cyber threats.", 
+        "sentence_id,": "b580df252e"
+    }, 
+    {
+        "sentence": "Failure to do so will have adverse economic impacts and undermine consumer confidence.", 
+        "sentence_id,": "d30f7b1d08"
+    }, 
+    {
+        "sentence": "A 2008 study by McMaster University9 on identity theft in Canada found that 20% of consumers have eliminated or reduced the amount of shopping they do online, and that 9% have eliminated or reduced online banking activities due to the risks they perceive in doing business online.", 
+        "sentence_id,": "01bca46301"
+    }, 
+    {
+        "sentence": "By building a secure and trusted business environment, we will help foster the productivity and innovation that drive our economic prosperity.", 
+        "sentence_id,": "e5312af8c0"
+    }, 
+    {
+        "sentence": "The public needs to be more aware of the vulnerabilities inherent in the cyber systems that these industries use to deliver their services.", 
+        "sentence_id,": "65c6b930e1"
+    }, 
+    {
+        "sentence": "Increased awareness will equip Canadians to avoid identity theft and potential financial loss.", 
+        "sentence_id,": "b777d6353d"
+    }, 
+    {
+        "sentence": "The Government will partner with the provinces, territories and private sector to improve the cyber security posture of Canada and Canadians.", 
+        "sentence_id,": "05425c34b4"
+    }, 
+    {
+        "sentence": "The Government will build on existing programs and expertise, such as Defence Research and Development Canadas Public Security Technical Program to better support cyber security research and development activities.", 
+        "sentence_id,": "9803877d47"
+    }, 
+    {
+        "sentence": "We will also collaborate with our private sector and academic partners to enhance information sharing activities.", 
+        "sentence_id,": "c18f76f60e"
+    }, 
+    {
+        "sentence": "Partnering with the Provinces and Territories Strengthened partnerships among all levels of government are an essential component in delivering a comprehensive cyber security strategy for Canada and Canadians.", 
+        "sentence_id,": "5d928e0fe3"
+    }, 
+    {
+        "sentence": "Our provincial and territorial counterparts provide a range of essential services whose delivery is dependent on the safe and secure operation of their cyber systems.", 
+        "sentence_id,": "6693c673a7"
+    }, 
+    {
+        "sentence": "For example, they hold sensitive personal information in their electronic databases, including health records, marriage and driver licenses, and provincial tax return information.", 
+        "sentence_id,": "59988cf79a"
+    }, 
+    {
+        "sentence": "The provinces 9 McMaster University, Measuring Identity Theft in Canada: 2008 Consumer Survey Canadas Cyber Security Strategy: For a Stronger and More Prosperous Canada and territories have a key role to play in promoting awareness among Canadians, especially young Canadians in the education system where first exposure to the Internet often occurs.", 
+        "sentence_id,": "5f2f9b2621"
+    }, 
+    {
+        "sentence": "Only when all levels of government are working together can Canadians be assured that their private information is secure and the services that they depend on will be delivered.", 
+        "sentence_id,": "8b5fcb3e10"
+    }, 
+    {
+        "sentence": "Partnering with the Private Sector and Critical Infrastructure Sectors Many of the risks and impacts of cyber attacks are shared between the Government and private sector.", 
+        "sentence_id,": "2837c0d4cf"
+    }, 
+    {
+        "sentence": "For example, untrustworthy technology is harmful to both government and industry.", 
+        "sentence_id,": "2a2e85af76"
+    }, 
+    {
+        "sentence": "Identifying these risks must be done in partnership.", 
+        "sentence_id,": "b283865caa"
+    }, 
+    {
+        "sentence": "Fortunately, Canadas public and private sectors share a long history of working together to achieve shared economic and national security goals.", 
+        "sentence_id,": "c2df0f74f8"
+    }, 
+    {
+        "sentence": "This cooperation needs to be further strengthened.", 
+        "sentence_id,": "f1e40e0bef"
+    }, 
+    {
+        "sentence": "Each partner must share accurate and timely cyber security information regarding existing and emerging threats, defensive techniques and other best practices.", 
+        "sentence_id,": "6bbdeb47a4"
+    }, 
+    {
+        "sentence": "Strengthened public/private partnerships will be fostered through existing structures and organizations, such as critical infrastructure sector networks.", 
+        "sentence_id,": "84779d5dd5"
+    }, 
+    {
+        "sentence": "Cross sector mechanisms will also be established, providing opportunities for governments and industry to collaborate on a broad range of critical infrastructure issues, including cyber security.", 
+        "sentence_id,": "a2615243f8"
+    }, 
+    {
+        "sentence": "Another key area for collaboration is the security of process control systems.", 
+        "sentence_id,": "bb9f815d59"
+    }, 
+    {
+        "sentence": "These systems control everything from our machines and factories to our critical infrastructures.", 
+        "sentence_id,": "3497c9f0b2"
+    }, 
+    {
+        "sentence": "They keep our dams from overflowing, our electrical grids from collapsing and our transportation networks from malfunctioning.", 
+        "sentence_id,": "41d14b2ed9"
+    }, 
+    {
+        "sentence": "Their security is critical to the safe delivery of the services and products upon which Canadians depend.", 
+        "sentence_id,": "d94969d58f"
+    }, 
+    {
+        "sentence": "Joint public/private sector initiatives will be struck to identify and share best practices for addressing threats to these systems.", 
+        "sentence_id,": "280fbbff99"
+    }, 
+    {
+        "sentence": "Our collective cyber security efforts will be further refined through training and exercise programs.", 
+        "sentence_id,": "db0adb9f8b"
+    }, 
+    {
+        "sentence": "The result of these exercises, some of which are already underway, will be an improved understanding of the dynamic among partners in cyber security.", 
+        "sentence_id,": "58e4fa57a3"
+    }, 
+    {
+        "sentence": "Participation in these exercises will also support the improvement of procedures to prevent cyber security failures.", 
+        "sentence_id,": "21f31b4da8"
+    }, 
+    {
+        "sentence": "The disruption of critical infrastructure and cyber systems can have direct impacts on businesses and communities on both sides of the CanadaUnited States border.", 
+        "sentence_id,": "6f3da73f46"
+    }, 
+    {
+        "sentence": "Attacks on interconnected cyber networks can have cascading effects across industrial sectors and national borders.", 
+        "sentence_id,": "39fac27b1c"
+    }, 
+    {
+        "sentence": "For this reason, Canada will be active in international fora dealing with critical infrastructure protection and cyber security.", 
+        "sentence_id,": "4c7a8dea1e"
+    }, 
+    {
+        "sentence": "hELpIng CanadIanS To bE SECUrE onLInE Our success in harnessing cyberspace has helped us achieve unprecedented personal productivity and prosperity.", 
+        "sentence_id,": "1714169110"
+    }, 
+    {
+        "sentence": "But it has also allowed the worlds criminals to commit traditional crimes with 21st century technologies.", 
+        "sentence_id,": "d66407e0b8"
+    }, 
+    {
+        "sentence": "The Government is taking steps to protect cyberspace from becoming a criminal haven.", 
+        "sentence_id,": "69d84126a7"
+    }, 
+    {
+        "sentence": "We will deny cyber criminals the anonymity they are seeking while at the same time protecting the privacy of Canadians.", 
+        "sentence_id,": "1636fc3ccb"
+    }, 
+    {
+        "sentence": "Combatting Cybercrime Criminals are learning quickly that cybercrime can be inexpensive, low risk and profitable.", 
+        "sentence_id,": "49fc5ced4f"
+    }, 
+    {
+        "sentence": "In one well known incident uncovered in 2007,10 over 45 million customer records were stolen from a well known North American retailer.", 
+        "sentence_id,": "aedaa5443d"
+    }, 
+    {
+        "sentence": "The breach occurred over a three year period, during which criminals monitored wireless signals from point of sale credit card terminals.", 
+        "sentence_id,": "af630be1d0"
+    }, 
+    {
+        "sentence": "These attacks cost the retailer over $130 million and inflicted unknown financial harm on individual victims.", 
+        "sentence_id,": "722a58bdcf"
+    }, 
+    {
+        "sentence": "Also in 2008, 11 people operating in five different countries were charged11 with breaking into the databases of nine major North American retailers, stealing some 40 million credit and debit card numbers from their databases, and selling the numbers (via the Internet) to other criminals.", 
+        "sentence_id,": "d72153d12a"
+    }, 
+    {
+        "sentence": "10 SC Magazine, FTC Settles with TJX Over Breach, March 2008 11 Wired Magazine, Feds Charge 11 in Breaches at TJ Maxx, OfficeMax, DSW, Others, August 2008 Canadas Cyber Security Strategy: For a Stronger and More Prosperous Canada Canadas law enforcement agencies cannot combat transnational cybercrimes with outdated investigative powers and tools.", 
+        "sentence_id,": "7b5dd31ca0"
+    }, 
+    {
+        "sentence": "Equipping our police to protect us in cyberspace requires that we provide them with new legislative authorities and supporting financial resources.", 
+        "sentence_id,": "27f0e5dc25"
+    }, 
+    {
+        "sentence": "Accordingly, the Royal Canadian Mounted Police will be given the resources required to establish a centralized Integrated Cyber Crime Fusion Centre.", 
+        "sentence_id,": "9a6c64d566"
+    }, 
+    {
+        "sentence": "This team will increase the ability of the Royal Canadian Mounted Police to respond, using a risk-based analysis approach, to requests from the Canadian Cyber Incident Response Centre regarding cyber attacks against Government or Canadas critical infrastructure.", 
+        "sentence_id,": "c9ede8afce"
+    }, 
+    {
+        "sentence": "The Government has already passed legislation to combat identity theft.", 
+        "sentence_id,": "c26a18befb"
+    }, 
+    {
+        "sentence": "Other legislative reforms will be re-introduced by the Government to enhance the capacity of law enforcement to investigate and prosecute cybercrime by: Making it a crime to use a computer system to sexually exploit a child; Requiring Internet service providers to maintain intercept capable systems, so that law enforcement agencies can execute judicially authorized interceptions; Requiring Internet service providers to provide police with basic customer identification data, as this information is essential to combatting online crimes that occur in real time, such as child sexual abuse; and Increasing the assistance that Canada provides to its treaty partners in fighting serious crimes.", 
+        "sentence_id,": "fedc2b840f"
+    }, 
+    {
+        "sentence": "Protecting Canadians Online Canadian families want their privacy, identities and physical wellbeing protected from cyber predators.", 
+        "sentence_id,": "751f1fabb4"
+    }, 
+    {
+        "sentence": "And Canadians know that risks exist.", 
+        "sentence_id,": "6ae89bad18"
+    }, 
+    {
+        "sentence": "According to a Decima Research study:12 Only 35% of Canadians believe their computer is very safe against online threats; and 12 Decima Research, Cyber Security Practices in Canada, Final Report, February 2008 77% are concerned about the security of personal information.", 
+        "sentence_id,": "66ff1cc86b"
+    }, 
+    {
+        "sentence": "Yet 63% use the Internet for sensitive transactions and 57% keep sensitive information on their computers.", 
+        "sentence_id,": "a95b126245"
+    }, 
+    {
+        "sentence": "As long as they know how to do so, Canadians will strengthen their own individual cyber security and that of Canada as a whole.", 
+        "sentence_id,": "3f6f567dd5"
+    }, 
+    {
+        "sentence": "We all need to follow basic cyber security practices, such as changing our passwords frequently, updating antivirus protection and using only protected wireless networks.", 
+        "sentence_id,": "693b8375b8"
+    }, 
+    {
+        "sentence": "The Government will increase Canadians awareness of common online crimes and will promote safe cyber security practices through the use of web sites, creative materials and outreach efforts.", 
+        "sentence_id,": "4426835875"
+    }, 
+    {
+        "sentence": "The Governments ultimate goal is to create a culture of cyber safety whereby Canadians are aware of both the threats and the measures they can take to ensure the safe use of cyberspace.", 
+        "sentence_id,": "41eee25c25"
+    }, 
+    {
+        "sentence": "Creating such awareness will require a sustained effort over a period of several years.", 
+        "sentence_id,": "f6f9c6dcea"
+    }, 
+    {
+        "sentence": "The effort must start now.", 
+        "sentence_id,": "69792a04b0"
+    }, 
+    {
+        "sentence": "Canadas Cyber Security Strategy: For a Stronger and More Prosperous Canada Moving Forward With each passing day, Canadians dependence on cyberspace grows.", 
+        "sentence_id,": "ebc3e5fc8d"
+    }, 
+    {
+        "sentence": "There is no turning back to a world without an Internet.", 
+        "sentence_id,": "df8b5dc1dc"
+    }, 
+    {
+        "sentence": "Just as previous generations took advantage of increasingly complex and helpful methods of communications, we have embraced the Internet.", 
+        "sentence_id,": "2aa1b094d8"
+    }, 
+    {
+        "sentence": "But as we enjoy the benefits of cyberspace, we also recognize that it threatens us in a variety of ways.", 
+        "sentence_id,": "9303ff5152"
+    }, 
+    {
+        "sentence": "Those who choose to abuse the Internet are becoming more sophisticated and dangerous every day.", 
+        "sentence_id,": "f0cecf61d6"
+    }, 
+    {
+        "sentence": "We must invest now in cyber security to protect our economic prosperity, national security and quality of life.", 
+        "sentence_id,": "e4f7040d77"
+    }, 
+    {
+        "sentence": "Canadas Cyber Security Strategy is Canadas plan for securing our cyber systems.", 
+        "sentence_id,": "d810dd698b"
+    }, 
+    {
+        "sentence": "The Strategy will protect the integrity of Government systems and our nations critical assets.", 
+        "sentence_id,": "c2d730848c"
+    }, 
+    {
+        "sentence": "It will combat cybercrime and protect Canadians as they use cyberspace in their daily lives.", 
+        "sentence_id,": "1fbc52aef3"
+    }, 
+    {
+        "sentence": "By promoting awareness of the need for cyber security, the Strategy will encourage individual Canadians, industry and all levels of government to adapt behaviour and adopt the technology required to confront evolving cyber threats.", 
+        "sentence_id,": "3c09e1dd69"
+    }, 
+    {
+        "sentence": "The initiatives outlined in this Strategy are important first steps.", 
+        "sentence_id,": "bdcbf5d600"
+    }, 
+    {
+        "sentence": "They will be adjusted and strengthened as required.", 
+        "sentence_id,": "7ddfd128b9"
+    }, 
+    {
+        "sentence": "Cyber security is a shared responsibility, one in which Canadians, their governments, the private sector and our international partners all have a role to play.", 
+        "sentence_id,": "baacfcd8a7"
+    }, 
+    {
+        "sentence": "The Strategy reflects this shared responsibility.", 
+        "sentence_id,": "33aa1f1e5b"
+    }, 
+    {
+        "sentence": "Implementation will be a collective effort.", 
+        "sentence_id,": "b6ade34fcd"
+    }, 
+    {
+        "sentence": "Its success will depend on our ability to work together.", 
+        "sentence_id,": "0f3afb4700"
+    }, 
+    {
+        "sentence": "Everyone must do their part.", 
+        "sentence_id,": "2e8d910e28"
+    }
+]

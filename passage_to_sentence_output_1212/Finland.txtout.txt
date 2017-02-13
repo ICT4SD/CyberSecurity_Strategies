@@ -1,0 +1,2434 @@
+[
+    {
+        "sentence": "STRATEGIC GUIDELINES FOR CYBER SECURITY..................................................... 6 APPENDIX 1: TERMS AND DEFINITIONS .................................................................... 12 THE BACKGROUND DOSSIER OF THE SECURITY COMMITTEE.....................................15 Secretariat of the Security Committee Etelinen Makasiinikatu 8 PO BOX 31 FIN-00131 HELSINKI, FINLAND www.yhteiskunnanturvallisuus.fi/en Layout: Tiina Takala/Ministry of Defence Print: Forssa print, 2013 ISBN: 978-951-25-2437-2 nid.", 
+        "sentence_id,": "dbda398111"
+    }, 
+    {
+        "sentence": "INTRODUCTION functioning is ensured.", 
+        "sentence_id,": "60d07a31d4"
+    }, 
+    {
+        "sentence": "Ensuring the security of society is a key task of the government authorities and the vital functions of our society must be secured in all situations.", 
+        "sentence_id,": "f63196b2df"
+    }, 
+    {
+        "sentence": "As an information society Finland relies on information networks and systems and, consequently, is extremely vulnerable to disturbances which affect their functioning.", 
+        "sentence_id,": "ce93777ad6"
+    }, 
+    {
+        "sentence": "An international term for this interdependent, multipurpose electronic data processing environment is the cyber domain.", 
+        "sentence_id,": "b92774222d"
+    }, 
+    {
+        "sentence": "Societys growing information intensity, the increase of foreign ownership and outsourcing, integration between information and communications technologies, the use of open networks as well as the growing reliance on electricity have set totally new requirements for securing societys vital functions in normal conditions, during serious disturbances in normal conditions and in emergency conditions.", 
+        "sentence_id,": "b352ed1c88"
+    }, 
+    {
+        "sentence": "Threats against the cyber domain have increasingly serious repercussions for individuals, businesses and society in general.", 
+        "sentence_id,": "832fd56446"
+    }, 
+    {
+        "sentence": "The perpetrators are more professional than before and today the threats even include state actors.", 
+        "sentence_id,": "e017f760db"
+    }, 
+    {
+        "sentence": "Cyber attacks can be used as a means of political and economic pressure; in a serious crisis pressure can be exerted as an instrument of influence alongside traditional means of military force.", 
+        "sentence_id,": "44409eb35e"
+    }, 
+    {
+        "sentence": "The cyber domain should also be seen as a possibility and a resource.", 
+        "sentence_id,": "1823da16b8"
+    }, 
+    {
+        "sentence": "A safe cyber domain makes it easier for both individuals and businesses to plan their activities, which in turn boosts economic activity.", 
+        "sentence_id,": "5828bfb7ac"
+    }, 
+    {
+        "sentence": "A properly working environment also improves Finlands appeal for international investors.", 
+        "sentence_id,": "7c89470685"
+    }, 
+    {
+        "sentence": "In addition to these, cyber security itself is a new and strengthening business area.", 
+        "sentence_id,": "0ed6c712b2"
+    }, 
+    {
+        "sentence": "In addition to the increasing job opportunities and tax revenue, society accrues benefits from this strengthening business sector in many ways.", 
+        "sentence_id,": "fb376a442f"
+    }, 
+    {
+        "sentence": "National cyber security is interconnected with the success of Finnish companies.", 
+        "sentence_id,": "ba274ce254"
+    }, 
+    {
+        "sentence": "This Strategy defines the key goals and guidelines which are used in responding to the threats against the cyber domain and which ensure its functioning.", 
+        "sentence_id,": "823a0f1e82"
+    }, 
+    {
+        "sentence": "By following the Cyber Security Strategys guidelines and the measures required, Finland can manage deliberate or inadvertent disturbances in the cyber domain as well as respond to and recover from them.", 
+        "sentence_id,": "f3ff458a6f"
+    }, 
+    {
+        "sentence": "The arrangements of comprehensive security are defined in the Government resolution of 5 December 2012 on comprehensive security while the Security Strategy for Society (2010) defines the principles of ensuring the functions vital to society.", 
+        "sentence_id,": "da5c3b189d"
+    }, 
+    {
+        "sentence": "Vital functions include the management of Government affairs, international activity, Finlands defence capability, internal security, functioning of the economy and infrastructure, the popula- FINLANDS CYBER SECURITY STRATEGY tions income security and capacity to function, and psychological resilience to crisis.", 
+        "sentence_id,": "0ff36f9472"
+    }, 
+    {
+        "sentence": "The Cyber Security Strategy process is an element in the implementation of the Security Strategy for Society.", 
+        "sentence_id,": "0c11d04186"
+    }, 
+    {
+        "sentence": "The process of cyber security strategy is a part of the implementation of the Security Strategy for Society; the Cyber Security Strategy complies with the principles and definitions in the Security Strategy for Society and the Government Resolution on Security of Supply.", 
+        "sentence_id,": "5d06892791"
+    }, 
+    {
+        "sentence": "The Government Resolution (2013) defines the focus areas and goals for the security of supply.", 
+        "sentence_id,": "03c1b02f3d"
+    }, 
+    {
+        "sentence": "The Strategy takes into account the forthcoming Government resolution on the arrangements of comprehensive security.", 
+        "sentence_id,": "3cde8e1853"
+    }, 
+    {
+        "sentence": "Cyber security is not meant to be a legal concept the adoption of which would lead to granting new competences to authorities or other official bodies.", 
+        "sentence_id,": "a2de9d9bf1"
+    }, 
+    {
+        "sentence": "In this respect no changes are proposed to the bases of contingency arrangements or to regulations concerning the competences of authorities.", 
+        "sentence_id,": "4b163b055f"
+    }, 
+    {
+        "sentence": "The Strategy presents the vision, approach and strategic guidelines of cyber security.", 
+        "sentence_id,": "65ba0bcaac"
+    }, 
+    {
+        "sentence": "The action plan which is being prepared will cover the practical measures tasked to administrative branches and actors.", 
+        "sentence_id,": "5281c848ca"
+    }, 
+    {
+        "sentence": "This creates the conditions for the materialisation of the strategic guidelines as well as the vision for achieving the desired end state, including the jointly agreed cross-cutting measures in society.", 
+        "sentence_id,": "8b17cc82fb"
+    }, 
+    {
+        "sentence": "VISION FOR CYBER SECURITY As a small, capable and collaborative country Finland has excellent chances of rising to the vanguard in cyber security.", 
+        "sentence_id,": "108fd1f73c"
+    }, 
+    {
+        "sentence": "We have an extensive knowledge base and strong expertise, a long tradition of close public-private cooperation, built on trust, as well as inter- sectoral collaboration.", 
+        "sentence_id,": "428724f6c9"
+    }, 
+    {
+        "sentence": "The vision of Finlands cyber security is that: Finland can secure its vital functions against cyber threats in all situations.", 
+        "sentence_id,": "4289f82403"
+    }, 
+    {
+        "sentence": "Citizens, the authorities and businesses can effectively utilise a safe cyber domain and the competence arising from cyber security measures, both nationally and internationally.", 
+        "sentence_id,": "5629b640be"
+    }, 
+    {
+        "sentence": "By 2016, Finland will be a global forerunner in cyber threat preparedness and in managing the disturbances caused by these threats.", 
+        "sentence_id,": "65ec64daae"
+    }, 
+    {
+        "sentence": "CYBER SECURITY MANAGEMENT AND THE NATIONAL APPROACH The changes that take place in the cyber domain are fast and their effects are difficult to predict.", 
+        "sentence_id,": "7567648ec4"
+    }, 
+    {
+        "sentence": "The Software Development Life Cycle for information technology is short and the same trend applies to different forms of cyber attacks and malware.", 
+        "sentence_id,": "a335814b83"
+    }, 
+    {
+        "sentence": "Cyber threat preparedness and cyber defence require increasingly swift, transparent and better coordinated action from all parties in society, both individually and collectively.", 
+        "sentence_id,": "f1e0e5ef3a"
+    }, 
+    {
+        "sentence": "The Government represents the highest level of cyber security management.", 
+        "sentence_id,": "f5a5e701b4"
+    }, 
+    {
+        "sentence": "The Government is responsible for providing political guidance and strategic guidelines for cyber security as well as for taking the required decisions regarding the resources and prerequisites to be allocated to it.", 
+        "sentence_id,": "c8efb264fb"
+    }, 
+    {
+        "sentence": "Cyber security management and disturbance management require that the Government and different actors have a reliable, real-time cyber security situation picture of the condition of societys vital functions as well as disturbances which affect their functioning.", 
+        "sentence_id,": "d5e5c2fade"
+    }, 
+    {
+        "sentence": "Each ministry and administrative branch is responsible for cyber security and disturbance management within their mandate.", 
+        "sentence_id,": "7b10e90e92"
+    }, 
+    {
+        "sentence": "The cyber domain and the nature of threats highlight the importance of cooperation as well as efficient and flexible coordination.", 
+        "sentence_id,": "df631dd6e8"
+    }, 
+    {
+        "sentence": "The strategic cyber security tasks of ministries and the related development requirements are based on the analysis of identified cyber threats as well as the disturbance management requirements established on the basis of said analysis.", 
+        "sentence_id,": "76193244a2"
+    }, 
+    {
+        "sentence": "Each ministry, within its sphere of responsibility, must see to it that the strategic tasks determined on the basis of the desired end states are carried out.", 
+        "sentence_id,": "defdff4ed7"
+    }, 
+    {
+        "sentence": "National cyber resilience will be tailored so as to ensure the preparedness and predic tive capabilities required by the goals of comprehensive security, and to facilitate its oper ating capability during cyber disturbances as well as post-disturbance recovery.", 
+        "sentence_id,": "05e01c4535"
+    }, 
+    {
+        "sentence": "FINLANDS CYBER SECURITY STRATEGY The national approach for Finlands cyber security management is built on the following principles.", 
+        "sentence_id,": "25a32cb62c"
+    }, 
+    {
+        "sentence": "In line with the Government decree on the tasks assigned to ministries, matters which relate to cyber security as a rule fall within the remit of the Government.", 
+        "sentence_id,": "7a03e0416b"
+    }, 
+    {
+        "sentence": "Each ministry is in its sector responsible for preparing cyber security related matters and appropriate arrangement of administrative matters.", 
+        "sentence_id,": "90a3fe7256"
+    }, 
+    {
+        "sentence": "As cyber security is an essential part of the comprehensive security of society the approach for its implementation follows the principles and procedures established in the Security Strategy for Society.", 
+        "sentence_id,": "6f7023c7ec"
+    }, 
+    {
+        "sentence": "Cyber security relies on the information security arrangements of the whole society.", 
+        "sentence_id,": "45ecd319ca"
+    }, 
+    {
+        "sentence": "Cyber security depends on appropriate and sufficient ICT and telecommunication network security solutions established by every actor operating in the cyber world.", 
+        "sentence_id,": "16726801fd"
+    }, 
+    {
+        "sentence": "Various collaborative arrangements and exercises advance and support their implementation.", 
+        "sentence_id,": "a3cb46e2c9"
+    }, 
+    {
+        "sentence": "The approach for the implementation of cyber security is based on efficient and wide-ranging information-collection, an analysis and gathering system as well as common and shared situation awareness, national and international cooperation in preparedness.", 
+        "sentence_id,": "cd04966f3c"
+    }, 
+    {
+        "sentence": "This requires the establishment of a Cyber Security Centre as well as the development of 24/7 information security arrangements for the entire society.", 
+        "sentence_id,": "f0344e18e9"
+    }, 
+    {
+        "sentence": "Cyber security arrangements follow the division of duties between the authorities, businesses and organisations, in accordance with statutes and agreed cooperation.", 
+        "sentence_id,": "7eccf73123"
+    }, 
+    {
+        "sentence": "Rapid adaptability as well as the ability to seize new opportunities and react to unexpected situations demand strategic agility awareness and compliance from the actors as they keep developing and managing the measures which are aimed at achieving cyber security.", 
+        "sentence_id,": "4a5d35be57"
+    }, 
+    {
+        "sentence": "Cyber security is being constructed to meet its functional and technical requirements.", 
+        "sentence_id,": "b2c278ed93"
+    }, 
+    {
+        "sentence": "In addition to national action, inputs are being made into international cooperation as well as participation in international R&D and exercises.", 
+        "sentence_id,": "1227082f2b"
+    }, 
+    {
+        "sentence": "The implementation of cyber security R&D and education at different levels does not only strengthen national expertise, it also bolsters Finland as an information society.", 
+        "sentence_id,": "63c161b6d7"
+    }, 
+    {
+        "sentence": "Cyber security development will heavily invest in cyber research and development as well as in education, employment and product development so that Finland can become one of the leading countries in cyber security.", 
+        "sentence_id,": "4622a0764e"
+    }, 
+    {
+        "sentence": "In order to ensure cyber security development, Finland will see to it that appropriate legislation and incentives exist to support the business activities and their development in this field.", 
+        "sentence_id,": "a82e0dfb9b"
+    }, 
+    {
+        "sentence": "Basic know-how in the field is gained through business activity.", 
+        "sentence_id,": "0912c20806"
+    }, 
+    {
+        "sentence": "STRATEGIC GUIDELINES FOR CYBER SECURITY A national cyber strategy will be developed in accordance with the strategic guidelines.", 
+        "sentence_id,": "6a415421c4"
+    }, 
+    {
+        "sentence": "They create the conditions for the materialisation of the national cyber security vision.", 
+        "sentence_id,": "cecdd860ff"
+    }, 
+    {
+        "sentence": "A separately prepared action plan will outline the measures which ensure the materialisation of national cyber security goals.", 
+        "sentence_id,": "40fa2e69b1"
+    }, 
+    {
+        "sentence": "The implementation programme will include the plans of different actors and administrative branches as well as the intersectoral measures that result from the plans.", 
+        "sentence_id,": "a366bcfda7"
+    }, 
+    {
+        "sentence": "The implementation of the strategic guidelines will strengthen public-private cooperation, which is regarded as a forte of the Finnish security community.", 
+        "sentence_id,": "6d2439bfbf"
+    }, 
+    {
+        "sentence": "Such collaboration can best serve the entire society and support the actors who provide its vital functions.", 
+        "sentence_id,": "685448bcf4"
+    }, 
+    {
+        "sentence": "The objective is to maintain the uninterrupted and safe flow of different functions in everyday life and during disturbances.", 
+        "sentence_id,": "f2049b4671"
+    }, 
+    {
+        "sentence": "Cyber security is built on sufficient capabilities development over the long term, their well-timed and flexible use and the resilience of societys vital functions against disturbances in cyber security.", 
+        "sentence_id,": "47a5d56c12"
+    }, 
+    {
+        "sentence": "Competent ministries will develop the cyber security capacities of authorities within their respective administrative branches and, for example, by outlining the strategic cyber security tasks of the ministries.", 
+        "sentence_id,": "50ca27fbd2"
+    }, 
+    {
+        "sentence": "Most strategic cyber security duties and the development of associated capabilities also require action and resources from the other ministries, regional and local administrations as well as the business community and organisations.", 
+        "sentence_id,": "cf942421d9"
+    }, 
+    {
+        "sentence": "Ministries must always take into account the different levels of administration as well as the role of the business community and organisations when it comes to developing and using the capabilities.", 
+        "sentence_id,": "8444fe24ef"
+    }, 
+    {
+        "sentence": "A Security Committee which will be set up to play an active role in the field of comprehensive security will act as a permanent cooperation body for contingency planning.", 
+        "sentence_id,": "2bf331bb62"
+    }, 
+    {
+        "sentence": "Separate provisions regarding the tasks of the Security Committee will be issued.", 
+        "sentence_id,": "7c2e4486d1"
+    }, 
+    {
+        "sentence": "FINLANDS CYBER SECURITY STRATEGY STRATEGIC GUIDELINES: 1Create an efficient collaborative model between the authorities and other actors for the purpose of advancing national cyber security and cyber defence.", 
+        "sentence_id,": "f2e89de082"
+    }, 
+    {
+        "sentence": "The strategic guidelines of the Cyber Security Strategy are advanced by intensify- ing active collaboration between actors whose aim is to achieve a shared situation awareness and effective defence against the threats.", 
+        "sentence_id,": "a5a9765141"
+    }, 
+    {
+        "sentence": "Different sectors preparedness in securing the vital functions in disturbed conditions will be improved by organis- ing regular exercises.", 
+        "sentence_id,": "e54ba22846"
+    }, 
+    {
+        "sentence": "Each actor will develop its national and international partici- pation in exercises.", 
+        "sentence_id,": "545bf15f08"
+    }, 
+    {
+        "sentence": "The actors will improve the utilisation of best practices and les- sons-learned accrued through international exercises by improving the exchange of information and mutual coordination.", 
+        "sentence_id,": "358dacab7c"
+    }, 
+    {
+        "sentence": "The goal of exercises is to enhance the participants chances of exposing the vulnerabilities of their own actions and sys- tems, in developing their capabilities and training their personnel.", 
+        "sentence_id,": "8465d280e9"
+    }, 
+    {
+        "sentence": "Cyber defence will be advanced by promoting the exchange of information and regulations as well as through cooperation between the authorities and the business community.", 
+        "sentence_id,": "cca0b50735"
+    }, 
+    {
+        "sentence": "2Improve comprehensive cyber security situation awareness among the key actors that participate in securing the vital functions of society.", 
+        "sentence_id,": "940c03560a"
+    }, 
+    {
+        "sentence": "The goal is to improve the situation awareness of different actors by furnishing them with real-time, shared and analysed information regarding vulnerabilities, disturbances and their effects.", 
+        "sentence_id,": "e3b95303da"
+    }, 
+    {
+        "sentence": "The situation picture will include threat assessments arising from the cyber world.", 
+        "sentence_id,": "37c55f3329"
+    }, 
+    {
+        "sentence": "Cyber threat prediction requires the analysis of the political, military, social, cultural, technical and technological as well as economic situation.", 
+        "sentence_id,": "af2b516d76"
+    }, 
+    {
+        "sentence": "In order to compile and maintain a combined cyber security situation picture, a Cyber Security Centre will be established under the Finnish Communi- cations Regulatory Authority (FICORA).", 
+        "sentence_id,": "e508aa815f"
+    }, 
+    {
+        "sentence": "The Cyber Security Centre will collect information on cyber incidents and dis- seminate it to different actors.", 
+        "sentence_id,": "7e8ba108e6"
+    }, 
+    {
+        "sentence": "The actors will then estimate the effects of the dis- turbance on the activity they are responsible for.", 
+        "sentence_id,": "37ac8d4ee9"
+    }, 
+    {
+        "sentence": "Their analyses are relayed back to the Cyber Security Centre to be included in a combined cyber security situa- tion picture.", 
+        "sentence_id,": "bf7eace70f"
+    }, 
+    {
+        "sentence": "The combined situation picture will be replicated among different actors to support decision-making.", 
+        "sentence_id,": "cf382464fc"
+    }, 
+    {
+        "sentence": "The Government situation centre must have a reliable, comprehensive and re- al-time total assessment of the cyber security situation at its disposal.", 
+        "sentence_id,": "fbc5d35e04"
+    }, 
+    {
+        "sentence": "The as- sessment encompasses the combined situation picture compiled by the Cyber Security Centre as well as the different administrative branches estimates of the consequences of cyber incidents to societys vital functions.", 
+        "sentence_id,": "8e1c37e71d"
+    }, 
+    {
+        "sentence": "The state lead- ership has access to the total situation assessment as well as the estimate of the developments in the operating environment.", 
+        "sentence_id,": "634a0b2607"
+    }, 
+    {
+        "sentence": "FINLANDS CYBER SECURITY STRATEGY 3 Maintain and improve the abilities of businesses and organisations critical to the vital functions of society as regards detecting and repelling cyber threats and disturbances that jeopardise any vital function and their recovery capabilities as part of the continuity management of the business community.", 
+        "sentence_id,": "0083c650cb"
+    }, 
+    {
+        "sentence": "In their security and contingency plans as well as related service structures the businesses and organisations critical to the vital functions of society will comprehensively take into account the cyber threat factors related to the vital functions, and maintain the required cyber defence capabilities.", 
+        "sentence_id,": "a909952a46"
+    }, 
+    {
+        "sentence": "The goal is to detect and identify any disturbances to the vital functions appearing in risk assessments and to respond to them in a manner which minimises their detrimental effects.", 
+        "sentence_id,": "7cbe0d4fc4"
+    }, 
+    {
+        "sentence": "The key actors will improve their tolerance, including contingency planning and exercises, so as to be able to operate under cyber attacks.", 
+        "sentence_id,": "9f3195777f"
+    }, 
+    {
+        "sentence": "The security of supply-organisation will support this activity through reports, instructions and training.", 
+        "sentence_id,": "08248fc3e7"
+    }, 
+    {
+        "sentence": "4 Make certain that the police have sufficient capabilities to prevent, expose and solve cybercrime.", 
+        "sentence_id,": "f13fc132ac"
+    }, 
+    {
+        "sentence": "The police are the competent authority for carrying out investigations related to cybercrime.", 
+        "sentence_id,": "9b3923e685"
+    }, 
+    {
+        "sentence": "The police will closely cooperate with the Cyber Security Centre.", 
+        "sentence_id,": "ce642382dc"
+    }, 
+    {
+        "sentence": "It must be ensured that the police have sufficient powers, resources and motivated personnel for cybercrime prevention, tactical police investigations as well as for processing and analysing the digital evidence.", 
+        "sentence_id,": "16a13bd951"
+    }, 
+    {
+        "sentence": "International operational cooperation and the exchange of information will be continued and intensified with the EU and with other countries corresponding law enforcement officials, such as the Europol.", 
+        "sentence_id,": "aa29cbc440"
+    }, 
+    {
+        "sentence": "5 The Finnish Defence Forces will create a comprehensive cyber defence capability for their statutory tasks.", 
+        "sentence_id,": "9a28e84648"
+    }, 
+    {
+        "sentence": "A military cyber defence capacity encompasses intelligence as well as cyber attack and cyber defence capabilities.", 
+        "sentence_id,": "100bc92aa4"
+    }, 
+    {
+        "sentence": "The Defence Forces will protect their systems in such a manner that they are able to carry out their statutory tasks irrespective of the threats in the cyber world.", 
+        "sentence_id,": "2fd62b44fa"
+    }, 
+    {
+        "sentence": "Guaranteeing capabilities, intelligence and proactive measures in the cyber world will be developed as elements of other military force.", 
+        "sentence_id,": "229f4cdfe0"
+    }, 
+    {
+        "sentence": "Under the leadership of the Ministry of Defence the required provisions on powers will be prepared for the Defence Forces to facilitate the implementation of the aforementioned tasks.", 
+        "sentence_id,": "d404e268f1"
+    }, 
+    {
+        "sentence": "Any identified short-comings in the provisions will be corrected through legislation.", 
+        "sentence_id,": "a21f20d300"
+    }, 
+    {
+        "sentence": "Cyber defence will be exercised and developed together with the key authorities, organisations and actors in the business community, both nationally and internationally.", 
+        "sentence_id,": "436360f116"
+    }, 
+    {
+        "sentence": "The Defence Forces will provide executive assistance within the constraints of legislation.", 
+        "sentence_id,": "22c8cd81ff"
+    }, 
+    {
+        "sentence": "FINLANDS CYBER SECURITY STRATEGY 6Strengthen national cyber security through active and efficient participation in the activities of international organisations and collaborative fora that are critical to cyber security.", 
+        "sentence_id,": "1cb5f45b94"
+    }, 
+    {
+        "sentence": "The goal of international cooperation is to exchange information and lessons- learned as well as take in the best practices so as to raise the national quality of cy- ber security.", 
+        "sentence_id,": "945781e792"
+    }, 
+    {
+        "sentence": "The implementation of preparedness and other cyber security meas- ures will fall short of the goal without effective and systematically coordinated international cooperation.", 
+        "sentence_id,": "2f426b00b9"
+    }, 
+    {
+        "sentence": "All authorities, within their field of competence, will cooperate, especially with those states and organisations that are global forerun- ners in the field of cyber security.", 
+        "sentence_id,": "9ac345ba80"
+    }, 
+    {
+        "sentence": "Active collaboration takes place through R&D, pre-agreement consultations and the teamwork efforts of organisations as well as through participation in international exercises.", 
+        "sentence_id,": "cead0bf9ce"
+    }, 
+    {
+        "sentence": "In the development of cyber security, the European Union as well as many interna- tional organisations, such as the UN, the OSCE, NATO and the OECD are impor- tant venues for Finland.", 
+        "sentence_id,": "e3bcfb37f2"
+    }, 
+    {
+        "sentence": "The EU is increasingly active in the field of cyber security and it also engages in cooperation with third countries.", 
+        "sentence_id,": "154d38d281"
+    }, 
+    {
+        "sentence": "Finland is actively partici- pating in this development.", 
+        "sentence_id,": "a5f5727630"
+    }, 
+    {
+        "sentence": "7Improve the cyber expertise and awareness of all societal actors.", 
+        "sentence_id,": "c511b42a86"
+    }, 
+    {
+        "sentence": "In support of continuously improving the competence and awareness of the actors of society, inputs will be made to developing, utilising and training common cyber security and information security instructions.", 
+        "sentence_id,": "5a7d081272"
+    }, 
+    {
+        "sentence": "In order to develop the compre- hensive preparedness of society the exercises will also incorporate businesses and non-governmental organisations (NGOs) critical to the vital functions of society.", 
+        "sentence_id,": "eac3d10874"
+    }, 
+    {
+        "sentence": "A strategic cyber security centre of excellence will be established under the exist- ing ICT-SHOK (TIVIT).", 
+        "sentence_id,": "9dae97b336"
+    }, 
+    {
+        "sentence": "It will provide an opportunity for top research teams and companies who utilise the results to engage in effective mutual cooperation over the long term.", 
+        "sentence_id,": "d858f0f3b3"
+    }, 
+    {
+        "sentence": "The centre of excellence will facilitate the conditions for the estab- lishment of a robust national cyber security cluster.", 
+        "sentence_id,": "06ade0a723"
+    }, 
+    {
+        "sentence": "Inputs into R&D and educa- tion will be increased as well as action to improve cyber security know-how in the whole of society.", 
+        "sentence_id,": "1b129105fe"
+    }, 
+    {
+        "sentence": "6Strengthen national cyber security through active and efficient participation in the activities of international organisations and collaborative fora that are critical to cyber security.", 
+        "sentence_id,": "06b443a840"
+    }, 
+    {
+        "sentence": "The goal of international cooperation is to exchange information and lessons- learned as well as take in the best practices so as to raise the national quality of cy- ber security.", 
+        "sentence_id,": "9362573727"
+    }, 
+    {
+        "sentence": "The implementation of preparedness and other cyber security meas- ures will fall short of the goal without effective and systematically coordinated international cooperation.", 
+        "sentence_id,": "a4c21d737e"
+    }, 
+    {
+        "sentence": "All authorities, within their field of competence, will cooperate, especially with those states and organisations that are global forerun- ners in the field of cyber security.", 
+        "sentence_id,": "5e6156b310"
+    }, 
+    {
+        "sentence": "Active collaboration takes place through R&D, pre-agreement consultations and the teamwork efforts of organisations as well as through participation in international exercises.", 
+        "sentence_id,": "dfbae30689"
+    }, 
+    {
+        "sentence": "In the development of cyber security, the European Union as well as many interna- tional organisations, such as the UN, the OSCE, NATO and the OECD are impor- tant venues for Finland.", 
+        "sentence_id,": "c9695d0cfb"
+    }, 
+    {
+        "sentence": "The EU is increasingly active in the field of cyber security and it also engages in cooperation with third countries.", 
+        "sentence_id,": "8cf541a208"
+    }, 
+    {
+        "sentence": "Finland is actively partici- pating in this development.", 
+        "sentence_id,": "3f51f6bcfa"
+    }, 
+    {
+        "sentence": "7Improve the cyber expertise and awareness of all societal actors.", 
+        "sentence_id,": "705843dc9b"
+    }, 
+    {
+        "sentence": "In support of continuously improving the competence and awareness of the actors of society, inputs will be made to developing, utilising and training common cyber security and information security instructions.", 
+        "sentence_id,": "28d655a834"
+    }, 
+    {
+        "sentence": "In order to develop the compre- hensive preparedness of society the exercises will also incorporate businesses and non-governmental organisations (NGOs) critical to the vital functions of society.", 
+        "sentence_id,": "3bd71ccea8"
+    }, 
+    {
+        "sentence": "A strategic cyber security centre of excellence will be established under the exist- ing ICT-SHOK (TIVIT).", 
+        "sentence_id,": "9c962de623"
+    }, 
+    {
+        "sentence": "It will provide an opportunity for top research teams and companies who utilise the results to engage in effective mutual cooperation over the long term.", 
+        "sentence_id,": "7c7c801a4e"
+    }, 
+    {
+        "sentence": "The centre of excellence will facilitate the conditions for the estab- lishment of a robust national cyber security cluster.", 
+        "sentence_id,": "6aff84b880"
+    }, 
+    {
+        "sentence": "Inputs into R&D and educa- tion will be increased as well as action to improve cyber security know-how in the whole of society.", 
+        "sentence_id,": "fc9b9eb0ee"
+    }, 
+    {
+        "sentence": "8Secure the preconditions for the implementation of effective cyber security measures through national legislation.", 
+        "sentence_id,": "445db4ad61"
+    }, 
+    {
+        "sentence": "Working together, the administrative branches and the business community will chart the legislation, including any needs to review the provisions relevant to the cyber domain and cyber security.", 
+        "sentence_id,": "80031730f7"
+    }, 
+    {
+        "sentence": "The results of this action will comprise the pro- posals for legislative review which will advance the achievement of the goals of the Cyber Security Strategy.", 
+        "sentence_id,": "761682ba96"
+    }, 
+    {
+        "sentence": "The charting will take into account the rapidly changing phenomena in the cyber do- main.", 
+        "sentence_id,": "47851aac1b"
+    }, 
+    {
+        "sentence": "One of the purposes is to provide the competent authorities and other actors with the sufficient means and powers through legislation to implement cyber defenc- es for the functions vital to society and, especially, the security of the state.", 
+        "sentence_id,": "e601366811"
+    }, 
+    {
+        "sentence": "Any pos- sible legislative hurdles, restrictions and obligations related to data protection, as well as those arising from international obligations, that impede the obtainability, disclo- sure and exchange of information useful for effective cyber defence purposes, will be taken under review.", 
+        "sentence_id,": "c691f80423"
+    }, 
+    {
+        "sentence": "When it comes to the assessment of information-gathering and other data processing one should also estimate whether the competent authori- ties should have improved possibilities for gathering information, data processing, or being informed of cyber threats and their sources, while simultaneously paying at- tention to ensuring the basic rights of privacy and confidentiality in electronic com- munications.", 
+        "sentence_id,": "018444b7a4"
+    }, 
+    {
+        "sentence": "Most of the critical infrastructure in society is in private business ownership.", 
+        "sentence_id,": "f99069469e"
+    }, 
+    {
+        "sentence": "Cyber know-how and expertise as well as services and defences are for the most part provided by companies.", 
+        "sentence_id,": "ccc95b8a69"
+    }, 
+    {
+        "sentence": "National cyber security legislation must provide a favourable environment for the development of business activities.", 
+        "sentence_id,": "fbb6da5667"
+    }, 
+    {
+        "sentence": "This would, for its part, enable the creation of an internationally recognised, competitive and export-capable cyber security cluster.", 
+        "sentence_id,": "d91f9abed5"
+    }, 
+    {
+        "sentence": "At the same time Finland would become an appealing and cyber secure environment worthy of business investments and companies operations.", 
+        "sentence_id,": "0530e5d2cf"
+    }, 
+    {
+        "sentence": "9Assign cyber security related tasks, service models and common cyber security management standards to the authorities and actors in the business community.", 
+        "sentence_id,": "32eb098763"
+    }, 
+    {
+        "sentence": "The development of cyber security requires the clear allocation of responsibilities and tasks in accordance with the strategic guidelines.", 
+        "sentence_id,": "b46bbc432a"
+    }, 
+    {
+        "sentence": "In practice this presuppos- es that each administrative branch make its risk assessment and maturity analysis, which help identify any significant vulnerabilities and risks from the standpoint of cyber security, and the level of their management.", 
+        "sentence_id,": "bda99c2831"
+    }, 
+    {
+        "sentence": "The results will be used in pre- paring action plans for each administrative sector and, together with the security of supply-organisation, support the drafting of action plans for the business com- munity.", 
+        "sentence_id,": "516f131435"
+    }, 
+    {
+        "sentence": "8Secure the preconditions for the implementation of effective cyber security measures through national legislation.", 
+        "sentence_id,": "9806fe523a"
+    }, 
+    {
+        "sentence": "Working together, the administrative branches and the business community will chart the legislation, including any needs to review the provisions relevant to the cyber domain and cyber security.", 
+        "sentence_id,": "92b7104651"
+    }, 
+    {
+        "sentence": "The results of this action will comprise the pro- posals for legislative review which will advance the achievement of the goals of the Cyber Security Strategy.", 
+        "sentence_id,": "904d9a0839"
+    }, 
+    {
+        "sentence": "The charting will take into account the rapidly changing phenomena in the cyber do- main.", 
+        "sentence_id,": "19a5afe1e6"
+    }, 
+    {
+        "sentence": "One of the purposes is to provide the competent authorities and other actors with the sufficient means and powers through legislation to implement cyber defenc- es for the functions vital to society and, especially, the security of the state.", 
+        "sentence_id,": "f0e457a40d"
+    }, 
+    {
+        "sentence": "Any pos- sible legislative hurdles, restrictions and obligations related to data protection, as well as those arising from international obligations, that impede the obtainability, disclo- sure and exchange of information useful for effective cyber defence purposes, will be taken under review.", 
+        "sentence_id,": "c1c0a76f3b"
+    }, 
+    {
+        "sentence": "When it comes to the assessment of information-gathering and other data processing one should also estimate whether the competent authori- ties should have improved possibilities for gathering information, data processing, or being informed of cyber threats and their sources, while simultaneously paying at- tention to ensuring the basic rights of privacy and confidentiality in electronic com- munications.", 
+        "sentence_id,": "a533edc39e"
+    }, 
+    {
+        "sentence": "Most of the critical infrastructure in society is in private business ownership.", 
+        "sentence_id,": "80ff91c382"
+    }, 
+    {
+        "sentence": "Cyber know-how and expertise as well as services and defences are for the most part provided by companies.", 
+        "sentence_id,": "46b38c0b3e"
+    }, 
+    {
+        "sentence": "National cyber security legislation must provide a favourable environment for the development of business activities.", 
+        "sentence_id,": "75672db371"
+    }, 
+    {
+        "sentence": "This would, for its part, enable the creation of an internationally recognised, competitive and export-capable cyber security cluster.", 
+        "sentence_id,": "88b30a6c6e"
+    }, 
+    {
+        "sentence": "At the same time Finland would become an appealing and cyber secure environment worthy of business investments and companies operations.", 
+        "sentence_id,": "82b6582752"
+    }, 
+    {
+        "sentence": "9Assign cyber security related tasks, service models and common cyber security management standards to the authorities and actors in the business community.", 
+        "sentence_id,": "a82974228a"
+    }, 
+    {
+        "sentence": "The development of cyber security requires the clear allocation of responsibilities and tasks in accordance with the strategic guidelines.", 
+        "sentence_id,": "cc314e2ed5"
+    }, 
+    {
+        "sentence": "In practice this presuppos- es that each administrative branch make its risk assessment and maturity analysis, which help identify any significant vulnerabilities and risks from the standpoint of cyber security, and the level of their management.", 
+        "sentence_id,": "d7abb5d873"
+    }, 
+    {
+        "sentence": "The results will be used in pre- paring action plans for each administrative sector and, together with the security of supply-organisation, support the drafting of action plans for the business com- munity.", 
+        "sentence_id,": "0b8c687049"
+    }, 
+    {
+        "sentence": "The implementation of the Strategy and its completion will be 10 monitored.", 
+        "sentence_id,": "94c9653b75"
+    }, 
+    {
+        "sentence": "Ministries and agencies are responsible for implementing the Strategy within their respective administrative branches, carrying out the tasks related to cyber security, and implementing and developing the security of supply.", 
+        "sentence_id,": "af7bca02f8"
+    }, 
+    {
+        "sentence": "The future Security Committee monitors and coordinates the implementation of the Strategy.", 
+        "sentence_id,": "fc5977863b"
+    }, 
+    {
+        "sentence": "The goals of cyber security coordination include the avoidance of unnecessary duplication, identification of possible shortcomings and determining the competent entities.", 
+        "sentence_id,": "2c204674f2"
+    }, 
+    {
+        "sentence": "The competent authorities will make the actual decisions subject to the provisions.", 
+        "sentence_id,": "9a35f16e41"
+    }, 
+    {
+        "sentence": "The Government Information Security Management Board (VAHTI) will process and coordinate the central governments key information security and cyber security guidelines.", 
+        "sentence_id,": "b221a267c5"
+    }, 
+    {
+        "sentence": "Ministries, agencies and establishments are to include the resources for the implementation of the Cyber Security Strategy in their operating and financial plans.", 
+        "sentence_id,": "ef83cf7e24"
+    }, 
+    {
+        "sentence": "FINLANDS CYBER SECURITY STRATEGY APPENDIX APPENDIX Term Definition Information infrastructure Information infrastructure means the structures and functions behind information systems that electronically transmit, transfer, receive, store or otherwise process information (data).", 
+        "sentence_id,": "5352ea4d39"
+    }, 
+    {
+        "sentence": "Critical information Critical information infrastructure refers to the structures and funcinfrastructure tions behind the information systems of the vital functions of society which electronically transmit, transfer, receive, store or otherwise process information (data).", 
+        "sentence_id,": "cdd27109ba"
+    }, 
+    {
+        "sentence": "Critical infrastructure Critical infrastructure refers to the structures and functions which are indispensable for the vital functions of society.", 
+        "sentence_id,": "33cc0dc1a1"
+    }, 
+    {
+        "sentence": "They comprise physical facilities and structures as well as electronic functions and services.", 
+        "sentence_id,": "eb4a428aff"
+    }, 
+    {
+        "sentence": "Cyber The word cyber is almost invariably the prefix for a term or the modifier of a compound word, rather than a stand-alone word.", 
+        "sentence_id,": "a2b3163839"
+    }, 
+    {
+        "sentence": "Its inference usually relates to electronic information (data) processing, information technology, electronic communications (data transfer) or information and computer systems.", 
+        "sentence_id,": "3b117b88d5"
+    }, 
+    {
+        "sentence": "Only the complete term of the compound word (modifier+head) itself can be considered to possess actual meaning.", 
+        "sentence_id,": "44794e9d94"
+    }, 
+    {
+        "sentence": "The word cyber is generally believed to originate from the Ancient Greek verb ..e.e.", 
+        "sentence_id,": "5b48e36254"
+    }, 
+    {
+        "sentence": "(kybereo) to steer, to guide, to control.", 
+        "sentence_id,": "9be2ef85a5"
+    }, 
+    {
+        "sentence": "Cyber risk Cyber risk means the possibility of an accident or vulnerability in the cyber domain which, if it materialises or is being utilised, can damage, harm or disturb an operation that depends on the functioning of the cyber domain.", 
+        "sentence_id,": "16d6cdb9aa"
+    }, 
+    {
+        "sentence": "Cyber domain, Cyber domain means an electronic information (data) processing docyber environment main comprising of one or several information technology infrastructures.", 
+        "sentence_id,": "119b6fae44"
+    }, 
+    {
+        "sentence": "Note 1 Representative to the environment is the utilisation of electronics and the electromagnetic spectrum for the purpose of storing, processing and transferring data and information via telecommunications networks.", 
+        "sentence_id,": "b5bee1b48b"
+    }, 
+    {
+        "sentence": "Note 2 Information (data) processing means collecting, saving, organising, using, transferring, disclosing, storing, modifying, combining, protecting, removing, destroying and other similar actions on information (data).", 
+        "sentence_id,": "8ad08e1015"
+    }, 
+    {
+        "sentence": "FINLANDS CYBER SECURITY STRATEGY Term Definition Cyber security Cyber security means the desired end state in which the cyber domain is reliable and in which its functioning is ensured..", 
+        "sentence_id,": "2ee3124722"
+    }, 
+    {
+        "sentence": "Note 1 In the desired end state the cyber domain will not jeopardise, harm or disturb the operation of functions dependent on electronic information (data) processing.", 
+        "sentence_id,": "9eabda20e7"
+    }, 
+    {
+        "sentence": "Note 2 Reliance on the cyber domain depends on its actors implementing appropriate and sufficient information security procedures (communal data security).", 
+        "sentence_id,": "484790cc62"
+    }, 
+    {
+        "sentence": "These procedures can prevent the materialisation of cyber threats and, should they still materialise, prevent, mitigate or help tolerate their consequences.", 
+        "sentence_id,": "a81224ff5a"
+    }, 
+    {
+        "sentence": "Note 3 Cyber security encompasses the measures on the functions vital to society and the critical infrastructure which aim to achieve the capability of predictive management and, if necessary, tolerance of cyber threats and their effects, which can cause significant harm or danger to Finland or its population.", 
+        "sentence_id,": "ac751ba1d6"
+    }, 
+    {
+        "sentence": "Cyber threat Cyber threat means the possibility of action or an incident in the cyber domain which, when materialised, jeopardises some operation dependent on the cyber world.", 
+        "sentence_id,": "7163a52f4c"
+    }, 
+    {
+        "sentence": "Note Cyber threats are information threats which, when materialised, jeopardise the correct or intended functioning of the information system.", 
+        "sentence_id,": "f641be1124"
+    }, 
+    {
+        "sentence": "Information system Information system means the system comprising the personnel, information processing equipment, data transfer equipment and software programs intended to make some operation more efficient, easier or even possible by means of information (data) processing.", 
+        "sentence_id,": "68217795ea"
+    }, 
+    {
+        "sentence": "Protection of privacy Protection of privacy means the protection against the unlawful or hurtful invasion of personal privacy.", 
+        "sentence_id,": "d165a1f0ed"
+    }, 
+    {
+        "sentence": "Protection of privacy includes the right to privacy and other associated rights in the processing of personal data.", 
+        "sentence_id,": "ab96c8b96b"
+    }, 
+    {
+        "sentence": "Personal data means any information on a private individual and any information on his/her personal characteristics or personal circumstances, where these are identifiable as concerning him/her or the members of his/her family or household.", 
+        "sentence_id,": "4dc73fff7e"
+    }, 
+    {
+        "sentence": "Information (data) security Information security means the administrative and technical measures taken to ensure the availability, integrity and confidentiality of data.", 
+        "sentence_id,": "d9a95d741e"
+    }, 
+    {
+        "sentence": "UTVA Cabinet Committee on Foreign and Security Policy.", 
+        "sentence_id,": "1551aa63ca"
+    }, 
+    {
+        "sentence": "VAHTI Government Information Security Management Board.", 
+        "sentence_id,": "4679b4e4c6"
+    }, 
+    {
+        "sentence": "INTRODUCTION This background dossier is a part of the process for adopting Finlands Cyber Security Strategy.", 
+        "sentence_id,": "5be0172353"
+    }, 
+    {
+        "sentence": "The key purpose of this document is to increase the understanding of cyber security actors of the cyber domain and, consequently, help them improve their cyber security.", 
+        "sentence_id,": "634347d23e"
+    }, 
+    {
+        "sentence": "The background dossier expands the Strategy and explains in further detail the national cyber security approach, the cyber domain and the threat scenario that determines our preparedness.", 
+        "sentence_id,": "854ea30792"
+    }, 
+    {
+        "sentence": "The document elaborates on the measures required by the strategic guidelines as well as national and international cyber security regulation.", 
+        "sentence_id,": "0d3539cc9f"
+    }, 
+    {
+        "sentence": "The principles for drafting the action plans for different administrative branches and other actors are presented at the end of this document.", 
+        "sentence_id,": "e501c19139"
+    }, 
+    {
+        "sentence": "CYBER DOMAIN AND CYBER THREAT The global cyber domain consist of an elaborate and multi-layered worldwide information network which comprises ICT networks that are operated by national security authorities, other public authorities, the business community, monitoring and control systems of the industry and critical infrastructure.", 
+        "sentence_id,": "ede79b9889"
+    }, 
+    {
+        "sentence": "The increasingly high-speed global cyber domain is bringing states, businesses and citizens ever closer together.", 
+        "sentence_id,": "4c049888e9"
+    }, 
+    {
+        "sentence": "While this development has significantly fostered well-being, it has also introduced an entirely new set of risks.", 
+        "sentence_id,": "b2253ab31b"
+    }, 
+    {
+        "sentence": "When IT equipment and systems are down, the ICT infrastructure crashes or serious cyber attacks occur, these can result in extremely negative impacts on public services, business life and administration and, consequently, the viability of society as a whole.", 
+        "sentence_id,": "775d5a7aa3"
+    }, 
+    {
+        "sentence": "Cyber attacks can seriously disrupt or even paralyse segments of critical infrastructure and societys vital functions.", 
+        "sentence_id,": "5bb28746ec"
+    }, 
+    {
+        "sentence": "The state or an organisation can be forced to make political, military or financial concessions.", 
+        "sentence_id,": "eda073d29e"
+    }, 
+    {
+        "sentence": "The great powers equate cyber attacks with military action which can be met with any available means.", 
+        "sentence_id,": "c90b564aac"
+    }, 
+    {
+        "sentence": "Thus far cyber operations have been interpreted as soft measures, for which reason the threshold for using them is estimated to be below that of traditional military operations.", 
+        "sentence_id,": "ddbd64981a"
+    }, 
+    {
+        "sentence": "The increasing cyber activism, cybercrime and cyber espionage denote growing activity among states and non-state actors.", 
+        "sentence_id,": "681a17c020"
+    }, 
+    {
+        "sentence": "Consequently, the cyber domain has transformed the traditional power structure, providing even small states and non-state actors with an opportunity to have effectual action.", 
+        "sentence_id,": "15b3e02b3b"
+    }, 
+    {
+        "sentence": "In cyberspace, it is no longer size and mass that matter, rather, it is expertise.", 
+        "sentence_id,": "33f9a3931b"
+    }, 
+    {
+        "sentence": "The previously described developments in the cyber domain also impact Finland.", 
+        "sentence_id,": "db164c6745"
+    }, 
+    {
+        "sentence": "Finland is one of the most developed information societies whose functioning relies on various electronic networks and services.", 
+        "sentence_id,": "755b6a3a6e"
+    }, 
+    {
+        "sentence": "Finland has already been the target of cyber operations where the focus was on cyber activism, cybercrime and cyber espionage.", 
+        "sentence_id,": "ce41ce6121"
+    }, 
+    {
+        "sentence": "The international development in cyberspace increases the possibilities of new threats being FINLANDS CYBER SECURITY STRATEGY BACKGROUND DOSSIER 17 used against us.", 
+        "sentence_id,": "1a1165ac02"
+    }, 
+    {
+        "sentence": "The public administration and the business community are continually being targeted by crackers and hackers attempting to exploit system vulnerabilities.", 
+        "sentence_id,": "51b51f42bd"
+    }, 
+    {
+        "sentence": "That the targets are carefully selected and studied only serves as an indication of the professionalism of the attacks.", 
+        "sentence_id,": "e48b6087a2"
+    }, 
+    {
+        "sentence": "Sophisticated malware and techniques are increasingly used in these attacks.", 
+        "sentence_id,": "fc3312b3b5"
+    }, 
+    {
+        "sentence": "By exploiting system vulnerabilities, the openness of the cyber domain makes it possible to carry out attacks from all over the world.", 
+        "sentence_id,": "15a886eec1"
+    }, 
+    {
+        "sentence": "Such vulnerabilities exist in human action, organisational processes and the ICT technology being used.", 
+        "sentence_id,": "e069b8ccd9"
+    }, 
+    {
+        "sentence": "It is very difficult to protect oneself against complex and sophisticated malware, and to identify or locate the perpetrators.", 
+        "sentence_id,": "d09ef20880"
+    }, 
+    {
+        "sentence": "The increasing proliferation of information technology in industrial production and control systems has created new vulnerabilities and possible targets for cyber attacks.", 
+        "sentence_id,": "854f5fab8d"
+    }, 
+    {
+        "sentence": "Cyber security entered a new era in 2010 when the Stuxnet worm was discovered.", 
+        "sentence_id,": "01e898d054"
+    }, 
+    {
+        "sentence": "It was used to carry out an attack against Irans nuclear plants: Stuxnet damaged Irans uranium enrichment centrifuges, holding back its enrichment project for years.", 
+        "sentence_id,": "4f6a7a99db"
+    }, 
+    {
+        "sentence": "Expert skills and considerable resources were needed to write the Stuxnet code.", 
+        "sentence_id,": "77acd120a2"
+    }, 
+    {
+        "sentence": "This malware demonstrated that cyber tools can also inflict physical damage on electronic equipment and systems.", 
+        "sentence_id,": "d4a03213dd"
+    }, 
+    {
+        "sentence": "In this new phase, industrial automation and programmable logic controllers are ever more often the first targets of cyber attacks, when, in fact, the ultimate objective is to impact societys vital functions.", 
+        "sentence_id,": "da97fd9eb1"
+    }, 
+    {
+        "sentence": "The cyber threat scenario means a description of disruptions caused by cyber threats and their mechanism, source, target and impacts on the target.", 
+        "sentence_id,": "5abcc8c69b"
+    }, 
+    {
+        "sentence": "The threats can directly or indirectly impact societys vital functions, critical infrastructure and/or citizens from within or outside national borders.", 
+        "sentence_id,": "b5a7bd63b4"
+    }, 
+    {
+        "sentence": "Cyber threats included in the cyber threat scenario are: Cyber activism (cyber vandalism, hactivism) Cybercrime Cyber espionage Cyberterrorism Cyber operations: pressure, Low Intensity Conflict (LIC) or cyber warfare 18 FINLANDS CYBER SECURITY STRATEGY BACKGROUND DOSSIER FIGURE 1 Finlands cyber threat scenario FIGURE 1 Finlands cyber threat scenario Threats to societys vital functions and critical infrastructure can emerge independently, concurrently or as a sequential continuum.", 
+        "sentence_id,": "7c199a58ad"
+    }, 
+    {
+        "sentence": "Whereas their escalation varies in speed and endurance, more often than not they make their impact in a short period of time.", 
+        "sentence_id,": "88e96f636c"
+    }, 
+    {
+        "sentence": "Due to the nature of the cyber domain, it is difficult to predict the causes of threats, the actors behind them, their exact targets, goals and scope or the consequences of their effects.", 
+        "sentence_id,": "794bb066e7"
+    }, 
+    {
+        "sentence": "Other risks can also be associated with cyber threats.", 
+        "sentence_id,": "da473273c5"
+    }, 
+    {
+        "sentence": "For example, terrorist strikes causing physical destruction can also incorporate various cyber operations.", 
+        "sentence_id,": "01a999594e"
+    }, 
+    {
+        "sentence": "PRINCIPLES OF CYBER SECURITY MANAGEMENT AND THE MANAGEMENT OF DISRUPTIONS 3.1 Basic principles of cyber security management The Government comprises the highest level of cyber security management.", 
+        "sentence_id,": "463f5f8f11"
+    }, 
+    {
+        "sentence": "The Prime Minister leads the Government and is responsible for preparing and coordinating the handling of the matters that are the purview of the Government.", 
+        "sentence_id,": "a0b8d1411f"
+    }, 
+    {
+        "sentence": "Preliminary deliberation and coordination occurs in ministerial working groups led by the Prime Minister and, as required, the Governments evening session and negotiations.", 
+        "sentence_id,": "90a1786e7f"
+    }, 
+    {
+        "sentence": "The Government is responsible for providing political guidance and strategic guidelines for cyber security as well as for taking the required decisions regarding the prerequisites and resources allocated to it.", 
+        "sentence_id,": "d5154ed0d3"
+    }, 
+    {
+        "sentence": "In line with the basic principles of the Security Strategy for Society, the competent authorities are responsible for disturbance management and associated contingency planning.", 
+        "sentence_id,": "8e953fcfc7"
+    }, 
+    {
+        "sentence": "Each ministry sees to the legislative process within its administrative domain, guides the action within its branch and, when necessary, participates in intersectoral co FINLANDS CYBER SECURITY STRATEGY BACKGROUND DOSSIER 19 operation.", 
+        "sentence_id,": "dc240da378"
+    }, 
+    {
+        "sentence": "The Cyber Security Strategy does not change the tasks defined in the Security Strategy for Society, pursuant to which the Ministry of Transport and Communications is responsible for safeguarding the functioning of electronic ICT systems, and the Ministry of Finance is responsible for safeguarding the state administrations IT functions and information security, and the service systems common to the central government.", 
+        "sentence_id,": "00f922a6b9"
+    }, 
+    {
+        "sentence": "The future Security Committee coordinates cyber security preparedness, monitors the implementation of the Cyber Security Strategy and issues recommendations on its further development.", 
+        "sentence_id,": "a914b94177"
+    }, 
+    {
+        "sentence": "The Security Committee closely cooperates with other collaborative bodies that coordinate cyber security-related issues as part of their duties.", 
+        "sentence_id,": "9eafecbb28"
+    }, 
+    {
+        "sentence": "The future Cyber Security Centre supports and assists cyber security actors within the scope of its tasking.", 
+        "sentence_id,": "56402ab659"
+    }, 
+    {
+        "sentence": "The Government Information Security Management Board (VAHTI) supports the Government and the Ministry of Finance in administrative data security-related decision- making.", 
+        "sentence_id,": "f86bab2dc4"
+    }, 
+    {
+        "sentence": "VAHTI processes and coordinates all of the central governments important matters that relate to data security and cyber security.", 
+        "sentence_id,": "2c671021f3"
+    }, 
+    {
+        "sentence": "The effectiveness of disturbance management will be measured by the successfulness of the pre-emptive measures.", 
+        "sentence_id,": "39b7cdecb2"
+    }, 
+    {
+        "sentence": "Cyber security arrangements in normal conditions will make or break the outcome of cyber incidents in emergency conditions.", 
+        "sentence_id,": "70ff112194"
+    }, 
+    {
+        "sentence": "All administrative branches as well as organisations and companies critical to security of supply are required to make contingency plans against cyber threats.", 
+        "sentence_id,": "64b3e08b94"
+    }, 
+    {
+        "sentence": "Companies are to include cyber preparedness in their normal continuity management planning.", 
+        "sentence_id,": "36d098c0f9"
+    }, 
+    {
+        "sentence": "Principles of cyber security management 20 FINLANDS CYBER SECURITY STRATEGY BACKGROUND DOSSIER The prevention of cyber threats calls for proper planning and forecasting.", 
+        "sentence_id,": "342e920281"
+    }, 
+    {
+        "sentence": "This being the case, our new operating environment demands strong expertise as well as swift, appropriate and consistent reaction from all parties, in other words, strategic agility.", 
+        "sentence_id,": "537dcc39fb"
+    }, 
+    {
+        "sentence": "Cyber security management embodies all three factors of strategic agility: strategic sensitivity, collective commitment and resource fluidity.", 
+        "sentence_id,": "47bf14a4bd"
+    }, 
+    {
+        "sentence": "Strategic sensitivity entails the capability to rapidly compile a situation picture and establish situation awareness.", 
+        "sentence_id,": "09c2384176"
+    }, 
+    {
+        "sentence": "The commitment of the leadership requires integrated situation awareness, coordinated and networked management and the optimisation of collective benefits.", 
+        "sentence_id,": "c7450c470d"
+    }, 
+    {
+        "sentence": "The flexible use of resources demands sufficient cyber expertise and the ability to rapidly implement countermeasures and allocate financial resources.", 
+        "sentence_id,": "40114767f1"
+    }, 
+    {
+        "sentence": "The cyber domain must get rid of partial optimisation and rigidity caused by silo structures in management.", 
+        "sentence_id,": "d0420071ed"
+    }, 
+    {
+        "sentence": "The conclusion is that the speed with which the cyber domain is changing, including its complexity (FIG 3), requires a new kind of networked approach that relies on strong coordination and common rules.", 
+        "sentence_id,": "a41a6fdad0"
+    }, 
+    {
+        "sentence": "The action must be able to combine the benefits of centralisation and decentralisation, i.e.", 
+        "sentence_id,": "4a366b46db"
+    }, 
+    {
+        "sentence": "strong coordination and quick reaction that emerges from local ownership.", 
+        "sentence_id,": "ed63ef825b"
+    }, 
+    {
+        "sentence": "Finland, generally speaking, has excellent chances of becoming a global forerunner of cyber security and the novel approach it entails.", 
+        "sentence_id,": "db3e448efb"
+    }, 
+    {
+        "sentence": "Our undisputed fortes include strong competence, a tradition of both intersectoral and public-private cooperation as well as well-defined processes and division of duties between different actors (see the Security Strategy for Society).", 
+        "sentence_id,": "7a9cacf82a"
+    }, 
+    {
+        "sentence": "Strategic agility FINLANDS CYBER SECURITY STRATEGY BACKGROUND DOSSIER 21 3.2 Management of disturbances endangering society As the vulnerability of society increases it is necessary to be able to rapidly start managing sudden disturbances in the cyber domain, aka cyber incidents.", 
+        "sentence_id,": "4be6c1b65b"
+    }, 
+    {
+        "sentence": "Cyber incidents typically have wide-ranging impacts.", 
+        "sentence_id,": "bf4c95ff75"
+    }, 
+    {
+        "sentence": "Therefore, it is necessary to provide the broadest possible intersectoral support to the competent authorities, when required.", 
+        "sentence_id,": "562f0179c4"
+    }, 
+    {
+        "sentence": "Concurrently, in spite of the disturbances, the viability of society must be secured in an appropriate manner.", 
+        "sentence_id,": "97cd84ed27"
+    }, 
+    {
+        "sentence": "Cyber incident management will follow the rule of law and the existing division of duties.", 
+        "sentence_id,": "b77d3beaa2"
+    }, 
+    {
+        "sentence": "The same cyber incident management principles that are used in normal conditions will be applied in emergency conditions.", 
+        "sentence_id,": "ca589b79e3"
+    }, 
+    {
+        "sentence": "The authorities division of duties and the modi operandi of the cooperation bodies will remain as they are in normal conditions.", 
+        "sentence_id,": "987401de4c"
+    }, 
+    {
+        "sentence": "Situation management will be proactive and the needed resources will be brought on- line at once.", 
+        "sentence_id,": "ad8e9d2e8a"
+    }, 
+    {
+        "sentence": "The competent authority is in charge of operations, supported by intersectoral cooperation bodies.", 
+        "sentence_id,": "b4da035b19"
+    }, 
+    {
+        "sentence": "The competent authority is also responsible for communications.", 
+        "sentence_id,": "0d3ff1b890"
+    }, 
+    {
+        "sentence": "The other authorities, businesses and organisations will participate in the management of the situation as required.", 
+        "sentence_id,": "a7c0c2ba92"
+    }, 
+    {
+        "sentence": "Along with operational activity in situation management, it is essential to ensure the flow of communication and provide sufficient information to the state leadership.", 
+        "sentence_id,": "d49a25a3a0"
+    }, 
+    {
+        "sentence": "Disturbance management will be organised and implemented in accordance with the Security Strategy for Society.", 
+        "sentence_id,": "923bb6dcb0"
+    }, 
+    {
+        "sentence": "In line with the Strategy, the competent authority launches the action needed in managing the disturbance, informs the other authorities and actors as appropriate, and brings in the other actors needed for situation management.", 
+        "sentence_id,": "adcb9039fe"
+    }, 
+    {
+        "sentence": "Cyber incident management encompasses four elements: contingency planning, compilation of a situation picture, countermeasures and recovery.", 
+        "sentence_id,": "e522a8d473"
+    }, 
+    {
+        "sentence": "SECURING THE VITAL FUNCTIONS OF SOCIETY AGAINST CYBER THREATS 4.1 Cyber situation awareness and setting up the Cyber Security Centre Improve comprehensive cyber security situation awareness among the key actors that participate in securing the vital functions of society.", 
+        "sentence_id,": "978f92952f"
+    }, 
+    {
+        "sentence": "Establish a Cyber Security Centre, supported by a cooperative network of actors.", 
+        "sentence_id,": "e0b78a0a7a"
+    }, 
+    {
+        "sentence": "The decision-making process of the state leadership and the authorities requires sufficient situation awareness.", 
+        "sentence_id,": "0a555dcc7f"
+    }, 
+    {
+        "sentence": "The various actors need to have a reliable, real-time cyber security situation picture on the state of societys vital functions and the disturbances that are affecting them.", 
+        "sentence_id,": "188bb20351"
+    }, 
+    {
+        "sentence": "The real-time cyber security situation picture does not only comprise information from technical monitoring and control, it also includes an analysis that amalgamates observations, intelligence, other information gathering and previous lessons- learned.", 
+        "sentence_id,": "b78c0968da"
+    }, 
+    {
+        "sentence": "The national Cyber Security Centre will be set up to serve the authorities, the business community and other actors in maintaining and developing cyber security.", 
+        "sentence_id,": "d5e8b5cc63"
+    }, 
+    {
+        "sentence": "The Centres arrangements and services will be implemented as part of the integrated cyber security strategy action plan.", 
+        "sentence_id,": "0b81a6694f"
+    }, 
+    {
+        "sentence": "The primary service of the Centre will entail the compilation, maintenance and dissemination of the situation picture in close cooperation with its support network.", 
+        "sentence_id,": "a4b64279a6"
+    }, 
+    {
+        "sentence": "The Cyber Security Centre will be founded by merging the functions of the present CERT-FI and the planned GOV-CERT, and by earmarking the needed additional resources for its operation.", 
+        "sentence_id,": "fe05abe2f7"
+    }, 
+    {
+        "sentence": "The Centre will be supported by a functional network that encompasses all pertinent authorities, businesses and other separately designated actors tasked to prepare and respond to cyber security violations.", 
+        "sentence_id,": "7c015d0ae4"
+    }, 
+    {
+        "sentence": "As the Cyber Security Centre is being established, other parallel projects will be taken into consideration in order to streamline and improve situation picture arrangements.", 
+        "sentence_id,": "03d695f8d5"
+    }, 
+    {
+        "sentence": "The Government Resolution on Enhancing Information Security in Central Government provides guidelines for 24/7 ICT security arrangements in the central government.", 
+        "sentence_id,": "b26bc059c7"
+    }, 
+    {
+        "sentence": "The planning and implementation of this function will be coordinated with the operations of the Cyber Security Centre.", 
+        "sentence_id,": "2dc6001471"
+    }, 
+    {
+        "sentence": "Furthermore, when it comes to the compilation of the situation picture, the central governments joint ICT projects, such as the security network (TUVE) venture, will be taken into consideration.", 
+        "sentence_id,": "bff1e05f96"
+    }, 
+    {
+        "sentence": "Intensify cooperation and support the development of expertise.", 
+        "sentence_id,": "949ed0fe3b"
+    }, 
+    {
+        "sentence": "The most important service of the Cyber Security Centre is to compile, maintain and distribute the cyber security situation picture to those who need it.", 
+        "sentence_id,": "0bcd1f1ce8"
+    }, 
+    {
+        "sentence": "The compilation of the situation picture requires the ability to collect and analyse relevant information and to meet the information requirements of different actors.", 
+        "sentence_id,": "49d2b778b7"
+    }, 
+    {
+        "sentence": "The integrated situation picture, compiled by the Cyber Security Centre and its support network, comprises a technical situation picture and an evaluation of the total consequences of the cyber security violations to the vital functions of society.", 
+        "sentence_id,": "fe5a3ac2fa"
+    }, 
+    {
+        "sentence": "The Cyber Security Centre and different actors will determine their respective information requirements.", 
+        "sentence_id,": "d7628bb9ba"
+    }, 
+    {
+        "sentence": "The information on vulnerabilities provided to network administrators will become more automatic; whereas, the content of the situation picture intended for the authorities and decision-makers will be developed more towards being an analysis of the consequences of the effects on societys vital functions.", 
+        "sentence_id,": "52f39eb394"
+    }, 
+    {
+        "sentence": "Cyber incident damage control is the responsibility of the authorities and businesses that the disturbance concerns.", 
+        "sentence_id,": "50fd52a471"
+    }, 
+    {
+        "sentence": "The Cyber Security Centre can support the lead authority in managing widespread cyber incidents that concurrently impact many authorities or businesses.", 
+        "sentence_id,": "9f70f8e256"
+    }, 
+    {
+        "sentence": "The Cyber Security Centre generates an overall cyber security situation assessment built on its integrated cyber security situation picture.", 
+        "sentence_id,": "8f3155c370"
+    }, 
+    {
+        "sentence": "The purpose of such a briefing is to support the administrative branches in their cyber preparedness arrangements and contingency planning.", 
+        "sentence_id,": "d692efc856"
+    }, 
+    {
+        "sentence": "The Cyber Security Centre monitors and analyses cyber threats and, together with its international partners, generates forecasts on their consequences to Finland.", 
+        "sentence_id,": "287da807cd"
+    }, 
+    {
+        "sentence": "In accordance with its monitoring activities, the threat scenarios of the Security Strategy for Society, the cyber threat scenario and real-time national intelligence information, the Cyber Security Centre alerts businesses and authorities critical to the vital functions of society concerning new cyber threats to Finland and increased cyber threat levels and, upon request, assists them in contingency planning.", 
+        "sentence_id,": "9303322965"
+    }, 
+    {
+        "sentence": "The Government Situation Centre (GOVSITCEN) compiles the situation picture for the state leadership.", 
+        "sentence_id,": "a91499e229"
+    }, 
+    {
+        "sentence": "Close cooperation between the GOVSITCEN and the Cyber Security Centre improves intersectoral monitoring and analysis capabilities, on which the integrated situation picture relies.", 
+        "sentence_id,": "86023a0827"
+    }, 
+    {
+        "sentence": "Integrated situation awareness makes it possible to appropriately respond to threats at political and operational levels.", 
+        "sentence_id,": "d9905300cb"
+    }, 
+    {
+        "sentence": "24 FINLANDS CYBER SECURITY STRATEGY BACKGROUND DOSSIER The Ministry of Transport and Communications is responsible for the performance guidance of the Cyber Security Centre.", 
+        "sentence_id,": "d51de98603"
+    }, 
+    {
+        "sentence": "In order to guarantee the performance guidance a separate cyber security working group will be established.", 
+        "sentence_id,": "9557082102"
+    }, 
+    {
+        "sentence": "The participants of the group will include all service providers, users and facilitators of the Cyber Security Centre.", 
+        "sentence_id,": "ff22707bb9"
+    }, 
+    {
+        "sentence": "The members of the working group must be experts in their respective fields, with extensive knowledge of their organisations preparedness, and of the state and requirements of their cyber security situation.", 
+        "sentence_id,": "82b3955919"
+    }, 
+    {
+        "sentence": "4.2 Guaranteeing the preconditions of the business community; security of supply Maintain and improve the abilities of businesses and organisations critical to the vital functions of society as regards detecting and repelling cyber threats and disturbances that jeopardise any vital function, and their recovery capabilities as part of the business communitys continuity management.", 
+        "sentence_id,": "1b97a7a442"
+    }, 
+    {
+        "sentence": "The goal is to guarantee, also during ongoing cyber incidents, the continued operations of businesses that are vital to society.", 
+        "sentence_id,": "afb5b59979"
+    }, 
+    {
+        "sentence": "Continuity management planning in the business community will be supported when it can have impact on vital functions and the creation of a safe cyber domain.", 
+        "sentence_id,": "5ea061bd73"
+    }, 
+    {
+        "sentence": "The security of supply organisation plays a central role in securing the conditions of the business community.", 
+        "sentence_id,": "36e65197d7"
+    }, 
+    {
+        "sentence": "Contingency planning will ensure the functioning of infrastructure crucial to the viability of society, and the continuation of critical production capabilities in all situations.", 
+        "sentence_id,": "74da5cb466"
+    }, 
+    {
+        "sentence": "Societys critical production processes are increasingly dependent on automation.", 
+        "sentence_id,": "986d565da2"
+    }, 
+    {
+        "sentence": "The development cycles of automation systems are long, and they are associated with rapidly developing IT solutions.", 
+        "sentence_id,": "f7689ff40b"
+    }, 
+    {
+        "sentence": "When it comes to continuity management in critical infrastructure, data protection arrangements in automation systems must also be addressed.", 
+        "sentence_id,": "8565b66bd8"
+    }, 
+    {
+        "sentence": "The connections between equipment in the physical world and networks must be designed in such a manner that no simple cyber attack can bring a plant or unit down.", 
+        "sentence_id,": "3804eca2ef"
+    }, 
+    {
+        "sentence": "Regarding societys vital functions it is imperative to minimise the vulnerabilities of automation systems, such as building automation, remote operations and remote reading.", 
+        "sentence_id,": "ee38d78d4d"
+    }, 
+    {
+        "sentence": "Most of the modern critical infrastructure, including services, is owned and generated by the private sector.", 
+        "sentence_id,": "8fefb87d95"
+    }, 
+    {
+        "sentence": "The prerequisites companies need to see to the continuation of their business operations during cyber threat situations is being improved, thereby increasing confidence in the continued supply of their products .", 
+        "sentence_id,": "ba7bb29605"
+    }, 
+    {
+        "sentence": "The security of supply organisation is a network which maintains and develops the security of supply in Finland as a public-private partnership.", 
+        "sentence_id,": "6a44070d9b"
+    }, 
+    {
+        "sentence": "Security of supply is built on a well-functioning market and a competitive economy.", 
+        "sentence_id,": "781a55e245"
+    }, 
+    {
+        "sentence": "Societys economic and technological basic functions are being prepared so that they can be sustained by various se FINLANDS CYBER SECURITY STRATEGY BACKGROUND DOSSIER 25 curity of supply-measures that supplement free enterprise during different disturbances and emergency conditions.", 
+        "sentence_id,": "f78bbf153c"
+    }, 
+    {
+        "sentence": "Measures that support the continuity of businesses critical to Finlands security of supply will be outlined and carried out as part of the Government Decision on Safeguarding the Security of Supply, including its implementation.", 
+        "sentence_id,": "054bb73597"
+    }, 
+    {
+        "sentence": "An individual organisation normally implements cyber preparedness through the traditional means, methods and structures of information security.", 
+        "sentence_id,": "2bdc4d510d"
+    }, 
+    {
+        "sentence": "Companies should be better prepared to evaluate the risks and consequences of cyber attacks as well as the required action.", 
+        "sentence_id,": "1c0ed12c83"
+    }, 
+    {
+        "sentence": "The capability for conducting analyses and assessments of various functional chains and networks will be improved, and awareness of network operations and security of supply will be increased.", 
+        "sentence_id,": "27ff0ae849"
+    }, 
+    {
+        "sentence": "Cyber defence requires that actors operate under identical or compatible protection practices.", 
+        "sentence_id,": "c22e6d869a"
+    }, 
+    {
+        "sentence": "The security of supply organisation provides instruments to critical businesses which make it easier for them to carry out risk assessments and develop their continuity management.", 
+        "sentence_id,": "a5329eb199"
+    }, 
+    {
+        "sentence": "By virtue of its good cyber security situation Finland can also be a lucrative target for investment.", 
+        "sentence_id,": "391c294e95"
+    }, 
+    {
+        "sentence": "Whereas the public sector is tasked with the creation of a safe and efficient operating environment, it is the responsibility of the private sector to develop business models, products and services.", 
+        "sentence_id,": "941f38c1dd"
+    }, 
+    {
+        "sentence": "The aim is to establish an internationally renowned cyber security cluster.", 
+        "sentence_id,": "d9570f09d3"
+    }, 
+    {
+        "sentence": "Close international contacts guarantee a sound knowledge base and facilitate internationally networked business operations.", 
+        "sentence_id,": "883ef90e04"
+    }, 
+    {
+        "sentence": "Various national development projects run by Tekes (Finnish Funding Agency for Technology and Innovation) or Tivit (Strategic Centre for Science, Technology and Innovation in the Field of ICT), among others, must clearly shift their focus towards new business and research supporting cyber defence.", 
+        "sentence_id,": "77cf101e65"
+    }, 
+    {
+        "sentence": "For example, one focus area of the Cloud Software program laboratory, commencing its operation in 2013, must be aimed at the development of new cyber defence services.", 
+        "sentence_id,": "39ddc65fb6"
+    }, 
+    {
+        "sentence": "Business security is implemented by countering illicit economic intelligence and cyber espionage and by reducing intellectual capital risks.", 
+        "sentence_id,": "6c170a4988"
+    }, 
+    {
+        "sentence": "In order to bolster the domestic information security sector the central government will increase investment in R&D and education, and intensify the internal development of its administrative agencies.", 
+        "sentence_id,": "b71e4abbd8"
+    }, 
+    {
+        "sentence": "The National Communications Security Authority will become a renowned authority in providing international information security certifications.", 
+        "sentence_id,": "0f12105369"
+    }, 
+    {
+        "sentence": "26 FINLANDS CYBER SECURITY STRATEGY BACKGROUND DOSSIER 4.3 Cybercrime prevention Make certain that the police have sufficient capabilities to prevent, expose and solve cybercrime.", 
+        "sentence_id,": "89d24c7ded"
+    }, 
+    {
+        "sentence": "The police must be able to identify and prevent the planning, financing and directing of terrorist crime and other crime in networks that endanger society, and be able to solve the suspected crimes.", 
+        "sentence_id,": "0b4eb92c63"
+    }, 
+    {
+        "sentence": "IT crime has become an extremely noteworthy sector of crime with its consequences extending to states, individuals and businesses alike.", 
+        "sentence_id,": "02816eef7b"
+    }, 
+    {
+        "sentence": "IT networks provide an increasingly lucrative and, regarding the risk-benefit and damage ratio, ever more attractive environment for committing crimes that have financial or terrorist goals.", 
+        "sentence_id,": "f3ef444528"
+    }, 
+    {
+        "sentence": "Traditional organised crime, too, takes advantage of the vulnerabilities of networks and ICT systems.", 
+        "sentence_id,": "9767340177"
+    }, 
+    {
+        "sentence": "Cyber attacks can be employed to endanger societys critical infrastructure and carry out terrorist strikes.", 
+        "sentence_id,": "a80b47a269"
+    }, 
+    {
+        "sentence": "In addition to terrorism, traditional crime, such as fraud, sexual exploitation of children and industrial espionage, is increasing its presence in the cyber domain.", 
+        "sentence_id,": "f2ef9f63d4"
+    }, 
+    {
+        "sentence": "In general the police, being the competent authority in preventing and investigating crime and in taking cases to the prosecutors, cooperate with the other law enforcement authorities.", 
+        "sentence_id,": "004d53ee4a"
+    }, 
+    {
+        "sentence": "Cybercrime is time and again transboundary in nature and its investigation often demands international police and judicial cooperation.", 
+        "sentence_id,": "1f2e09cc89"
+    }, 
+    {
+        "sentence": "Judicial cooperation is needed, among other things, to obtain evidence or for the extradition of suspects.", 
+        "sentence_id,": "60c6dc938d"
+    }, 
+    {
+        "sentence": "It must be ensured that the police have sufficient powers, competences and rights to information when it comes to exposing and preventing cybercrime as well as identifying criminals operating in cyberspace, and solving these crimes.", 
+        "sentence_id,": "e6e9cdc997"
+    }, 
+    {
+        "sentence": "Likewise, it must be ensured that the police have sufficient powers, competences and rights to information when it comes to identifying and preventing the planning, financing and directing of terrorist crime in networks and other crimes that endangers society, including associated propaganda and preparing the ground for criminal activity, and the capability to solve the suspected crimes.", 
+        "sentence_id,": "b11ea80308"
+    }, 
+    {
+        "sentence": "The police will establish the competence, capacity and appropriate legal powers to exchange information and cooperate with other law enforcement authorities in preventing, identifying and solving crimes.", 
+        "sentence_id,": "0bf16f8d2a"
+    }, 
+    {
+        "sentence": "As part of organised crime prevention the police shall invest in cybercrime prevention.", 
+        "sentence_id,": "c8ee614457"
+    }, 
+    {
+        "sentence": "The police will develop and bolster national IT crime prevention techniques by increasing cooperation between different police forces, including their rapid response capabilities.", 
+        "sentence_id,": "e57c7727e8"
+    }, 
+    {
+        "sentence": "In accordance with the order of the National Police Board, the National Bureau of Investigation maintains a situation picture of international and organised crime.", 
+        "sentence_id,": "881f04ca76"
+    }, 
+    {
+        "sentence": "Moreover, the National Bureau of Investigation, together with the local police, maintains an integrated crime situation picture.", 
+        "sentence_id,": "d72edb98ae"
+    }, 
+    {
+        "sentence": "The joint PCB (Police, Customs and the Border Guard) authorities criminal intelligence and investigation centre is utilised in the compilation of the situation picture.", 
+        "sentence_id,": "e5c9ccb621"
+    }, 
+    {
+        "sentence": "The Finnish Security Intelligence Service maintains a situation picture of its field of activities.", 
+        "sentence_id,": "75b335776a"
+    }, 
+    {
+        "sentence": "FINLANDS CYBER SECURITY STRATEGY BACKGROUND DOSSIER 27 It must be ensured that the police have sufficient and motivated personnel and that they are capable of tactical police investigations of demanding IT crime and for processing and analysing digital evidence in a legally certain manner.", 
+        "sentence_id,": "80caed2c71"
+    }, 
+    {
+        "sentence": "The competence of the authorities, prosecutors and judges involved in the prevention and investigation of cybercrime is improved by developing the pertinent education of the field.", 
+        "sentence_id,": "6551a3e596"
+    }, 
+    {
+        "sentence": "4.4 Cyber defence capability The Finnish Defence Forces will create a comprehensive cyber defence capability for their statutory tasks.", 
+        "sentence_id,": "25bf171cfc"
+    }, 
+    {
+        "sentence": "Cyber intelligence, cyber warfare and protection capabilities create the cyber defence capability.", 
+        "sentence_id,": "bc85231ecf"
+    }, 
+    {
+        "sentence": "The goal is to customise the capability so that it will best support the Defence Forces activities in protecting the territorial integrity and in national defence.", 
+        "sentence_id,": "e5c986d3e5"
+    }, 
+    {
+        "sentence": "Cyber defence will be implemented as an entity which comprises the capabilities of the Defence Forces, other authorities and the rest of society.", 
+        "sentence_id,": "b5efc2957c"
+    }, 
+    {
+        "sentence": "A credible capability is achieved by cooperating with the other authorities, businesses and universities.", 
+        "sentence_id,": "9ecc1654fc"
+    }, 
+    {
+        "sentence": "In normal conditions the capability will be improved by networking, exchanging information and participating in joint projects, national and international working groups and exercises.", 
+        "sentence_id,": "70f4fe351d"
+    }, 
+    {
+        "sentence": "The basic approach will remain unchanged in emergency conditions and during disturbances.", 
+        "sentence_id,": "1b4cffecc9"
+    }, 
+    {
+        "sentence": "Cyber preparedness and threat management is achieved by maintaining and developing various defence and counterattack techniques.", 
+        "sentence_id,": "5f009979c6"
+    }, 
+    {
+        "sentence": "Furthermore, an appropriate recovery capability from cyber attacks will be established.", 
+        "sentence_id,": "2b7f579b6e"
+    }, 
+    {
+        "sentence": "Cyber warfare can be used as an instrument of political and economic influence, and in a serious crisis it can be used along with traditional means of military force.", 
+        "sentence_id,": "9208e8977a"
+    }, 
+    {
+        "sentence": "The Defence Forces will protect their own systems and networks; they will also create and maintain cyber intelligence and cyber warfare capabilities.", 
+        "sentence_id,": "1f81500a0a"
+    }, 
+    {
+        "sentence": "The development of these capabilities will be determined by the associated performance requirements and available resources.", 
+        "sentence_id,": "d69752a1bb"
+    }, 
+    {
+        "sentence": "Emerging cyber threats must be identified early on, and it must be possible to monitor the phenomena and events in cyberspace in real time.", 
+        "sentence_id,": "c5dd0db45c"
+    }, 
+    {
+        "sentence": "This requires the compilation of a cyber situation picture so as to enable early warning and allow for preparations and the implementation of measures.", 
+        "sentence_id,": "861b7556e6"
+    }, 
+    {
+        "sentence": "The Defence Forces and the future Cyber Security Centre will cooperate with each other in the compilation of the cyber situation picture.", 
+        "sentence_id,": "365deb4215"
+    }, 
+    {
+        "sentence": "Intelligence capabilities yield information on networks, including their vulnerabilities, and cyberspace actors, and provide assessments of their ability to carry out cyber operations.", 
+        "sentence_id,": "c1f0193930"
+    }, 
+    {
+        "sentence": "The goal of cyber intelligence is to establish the kind of situation awareness and intelligence information that protection and cyber warfare require.", 
+        "sentence_id,": "ea3626d0f2"
+    }, 
+    {
+        "sentence": "The national cyber defence capability will be developed by cooperating with the other authorities, the business community, the scientific community and other actors.", 
+        "sentence_id,": "51853db40c"
+    }, 
+    {
+        "sentence": "National coordination, the compilation of an integrated situation picture and the provision of 28 FINLANDS CYBER SECURITY STRATEGY BACKGROUND DOSSIER the requisites of cooperation demand regularly exchanged information between the different actors.", 
+        "sentence_id,": "f98f18e91b"
+    }, 
+    {
+        "sentence": "International cyber defence cooperation will be further intensified between the key actors.", 
+        "sentence_id,": "9940d76451"
+    }, 
+    {
+        "sentence": "Such cooperation is built on bilateral agreements and multilateral collaboration.", 
+        "sentence_id,": "02aa132b32"
+    }, 
+    {
+        "sentence": "The purpose of international cooperation is to facilitate the regular exchange of information between different actors and, in particular, to develop domestic capacities and harmonise procedures.", 
+        "sentence_id,": "e2a9ffd3e1"
+    }, 
+    {
+        "sentence": "The Defence Forces will provide executive assistance to the other authorities with regard to disturbances caused by cyber incidents.", 
+        "sentence_id,": "1c8470b45d"
+    }, 
+    {
+        "sentence": "If required, the other authorities will support the Defence Forces in the implementation of cyber defence.", 
+        "sentence_id,": "ff86323b55"
+    }, 
+    {
+        "sentence": "The Defence Forces capacity to support the other authorities during cyber incidents will be improved.", 
+        "sentence_id,": "d6f59dff65"
+    }, 
+    {
+        "sentence": "The options and powers related to cyber warfare capabilities require a thorough further review.", 
+        "sentence_id,": "091c43cb71"
+    }, 
+    {
+        "sentence": "This review must incorporate the applicability and adequacy of existing international law and national regulation, and the requirements of cyber defence capabilities, if any.", 
+        "sentence_id,": "db30db3849"
+    }, 
+    {
+        "sentence": "Sufficient powers, competence and the right to information will be given to the De- fence Forces for the implementation of national defence, executive assistance, territorial surveillance and crisis management tasks.", 
+        "sentence_id,": "5f4c9a7974"
+    }, 
+    {
+        "sentence": "4.5 International cooperation Strengthen national cyber security through active and efficient participation in the activities of international organisations and collaborative fora that are critical to cyber security.", 
+        "sentence_id,": "f321aad81a"
+    }, 
+    {
+        "sentence": "The goal of national cyber security integrated situation awareness, effective disturbance management and threat prevention is nationally achieved through active cooperation between the different actors.", 
+        "sentence_id,": "33e1a0503d"
+    }, 
+    {
+        "sentence": "Due to the wide-ranging nature of cyber security the importance of international cooperation is ever more emphasised.", 
+        "sentence_id,": "b44ebdf99a"
+    }, 
+    {
+        "sentence": "The goal of international cooperation is to exchange information and experiences, and to learn from best practices so as to raise the level of national cyber security.", 
+        "sentence_id,": "94536d73ab"
+    }, 
+    {
+        "sentence": "International cyber security cooperation occurs at several levels and fora: in the Nordic context, the European Council, the European Union, and in international organisations such as NATO, the OSCE and the UN.", 
+        "sentence_id,": "264e707da8"
+    }, 
+    {
+        "sentence": "Cyber threats are transboundary threats and, therefore, they require international cooperation in various international fora.", 
+        "sentence_id,": "d13a938482"
+    }, 
+    {
+        "sentence": "Such cooperation provides an opportunity for exchanging information and learning from best practices.", 
+        "sentence_id,": "eb22af321a"
+    }, 
+    {
+        "sentence": "Furthermore, it provides benchmarks for the development of national cyber security as part of global cyber security and also increases the interoperability and compatibility of cyber defence.", 
+        "sentence_id,": "b84af7b623"
+    }, 
+    {
+        "sentence": "Cooperation is implemented between different organisations and at the international level.", 
+        "sentence_id,": "e4c0b78db6"
+    }, 
+    {
+        "sentence": "When it comes to organisations, the EU and NATO are the key cyber security ac FINLANDS CYBER SECURITY STRATEGY BACKGROUND DOSSIER 29 tors.", 
+        "sentence_id,": "c7f621daac"
+    }, 
+    {
+        "sentence": "Cooperation with them primarily entails the exchange of situational information, cooperation in the development of capabilities and in training and exercises.", 
+        "sentence_id,": "4f83f6ab85"
+    }, 
+    {
+        "sentence": "Traditional Nordic cooperation also provides an opportunity for the advancement of cyber security.", 
+        "sentence_id,": "85be39896a"
+    }, 
+    {
+        "sentence": "As per the recommendations of the expert working group a Nordic authorities cooperative network, which includes an associated secure network, is being planned.", 
+        "sentence_id,": "9c345e3036"
+    }, 
+    {
+        "sentence": "The 2001 Convention on Cybercrime of the Council of Europe (aka the Budapest Convention) lays the groundwork for the prevention of all cybercrime.", 
+        "sentence_id,": "fb5e4f2b39"
+    }, 
+    {
+        "sentence": "The European Union is also a very important venue as regards Finlands cyber security development.", 
+        "sentence_id,": "6049a77526"
+    }, 
+    {
+        "sentence": "The EU is presently planning its very own cyber security strategy.", 
+        "sentence_id,": "c082f0dc94"
+    }, 
+    {
+        "sentence": "At the moment the EUs guidelines and directives focus on cybercrime prevention, protection of critical IT infrastructure as well as legislative work on electronic communications, data security and data protection.", 
+        "sentence_id,": "da34828adf"
+    }, 
+    {
+        "sentence": "Finland continues its close cooperation with European cooperative organisations such as the European Network and Information Security Agency (ENISA); the European law enforcement agency Europol; the Body of European Regulators for Electronic Communications (BEREC); the European Forum for Member States (EFMS), which is an intergovernmental cooperative forum for the protection of Europes critical infrastructure; and the European Pub- lic-Private Partnership for resilience (EP3R,) which deals with the robustness of ICT systems.", 
+        "sentence_id,": "604a393fb8"
+    }, 
+    {
+        "sentence": "As cyber defence is being developed, cooperation with the EU Military Staff (EUMS), the European Defence Agency (EDA) and NATO will continue.", 
+        "sentence_id,": "ea73bb37ee"
+    }, 
+    {
+        "sentence": "NATO continues to cooperate with its partner countries in responding to new security challenges, supporting NATO-led operations and improving situation awareness.", 
+        "sentence_id,": "d7458428d7"
+    }, 
+    {
+        "sentence": "The Organization for Security and Co-operation in Europe (OSCE) aims to improve confidence- building measures for the prevention of cyber conflicts by increasing transparency, cooperation and stability.", 
+        "sentence_id,": "5f51089ee3"
+    }, 
+    {
+        "sentence": "The goal of this cooperation, built on the OSCEs comprehensive concept of security, is to complement the efforts of other international organisations.", 
+        "sentence_id,": "0ce573d2a2"
+    }, 
+    {
+        "sentence": "UN Member States commit to increasing confidence and security in the use of ICTs in the outcome documents of the World Summit on the Information Society (WSIS).", 
+        "sentence_id,": "527734fc65"
+    }, 
+    {
+        "sentence": "Finland participates in the cyber security debate which is being conducted in UN bodies and, in accordance with its WSIS obligations, supports the strengthening of cooperation between all actors as regards security-related topics.", 
+        "sentence_id,": "49ee5b9936"
+    }, 
+    {
+        "sentence": "The International Telecommunication Union (ITU) also promotes this objective through its Global Cybersecurity Agenda initiative.", 
+        "sentence_id,": "fd356ba700"
+    }, 
+    {
+        "sentence": "The work carried out within the Organisation for Economic Co-operation and Development (OECD) aims to develop or harmonise the policies of its Member States in various sectors of the economy or society.", 
+        "sentence_id,": "12837f57cf"
+    }, 
+    {
+        "sentence": "Finland participates in the OECDs data security and protection-of-privacy roundtables.", 
+        "sentence_id,": "e1e1b31362"
+    }, 
+    {
+        "sentence": "The OECD is an expert organisation that supports its Member States decision-making in economic and social policy.", 
+        "sentence_id,": "4f2bb4a80b"
+    }, 
+    {
+        "sentence": "The OECD has issued recommendations on the security principles of IT systems and networks, and carried out comparative studies on its Member States national cyber security strategies.", 
+        "sentence_id,": "4edb9e2c42"
+    }, 
+    {
+        "sentence": "30 FINLANDS CYBER SECURITY STRATEGY BACKGROUND DOSSIER 4.6 Improving research and competence; exercises Improve cyber expertise and awareness of all societal actors.", 
+        "sentence_id,": "aa6de0a2f6"
+    }, 
+    {
+        "sentence": "Regarding the importance of cyber security to society, the goal is to improve understanding, competence and skills among the authorities, the business community and citizens and create a strong national cluster of cyber know-how.", 
+        "sentence_id,": "6df26efe11"
+    }, 
+    {
+        "sentence": "Cyber security research will be developed as part of national top-level research and a strategic cyber security centre of excellence will be established at already existing structures.", 
+        "sentence_id,": "bec3050e0a"
+    }, 
+    {
+        "sentence": "The purpose of exercises is to improve the participants ability to identify vulnerabilities in their activities and systems, and to improve their skills and train their personnel.", 
+        "sentence_id,": "e38a7e4dba"
+    }, 
+    {
+        "sentence": "Different sectors regularly test their preparedness when it comes to managing disturbances in vital functions.", 
+        "sentence_id,": "410fb5cacf"
+    }, 
+    {
+        "sentence": "The most cost-effective way to advance national cyber security is to improve competence.", 
+        "sentence_id,": "61767576f5"
+    }, 
+    {
+        "sentence": "Increasing cyber risk awareness among the authorities, the business community and citizens will improve everybodys skills in the implementation of cyber security measures.", 
+        "sentence_id,": "e8c856c0ed"
+    }, 
+    {
+        "sentence": "Top-level research in this field will lay the foundation for developing competence and cyber security systems.", 
+        "sentence_id,": "22bd3a5eb8"
+    }, 
+    {
+        "sentence": "The Finnish education system will see to the preservation and development of such top-level competence which can be utilised in ensuring and improving the security of societys vital functions in the cyber domain.", 
+        "sentence_id,": "53ce32ce8a"
+    }, 
+    {
+        "sentence": "The study of basic cyber security skills must be included at all levels of education.", 
+        "sentence_id,": "0a6c00da84"
+    }, 
+    {
+        "sentence": "The learning requirements of cyber security must be included on the curricula of basic education (comprehensive school), vocational upper secondary education, general upper secondary education and higher education.", 
+        "sentence_id,": "00364f214d"
+    }, 
+    {
+        "sentence": "Universities will bolster the requisites of basic research, applied research and innovation in cyber security, while universities of applied science will improve the preconditions of product development.", 
+        "sentence_id,": "21bddf127e"
+    }, 
+    {
+        "sentence": "The level of cyber security research will be raised and its research conditions will be guaranteed so that basic and applied research can continually generate cutting-edge innovation and scientific breakthroughs.", 
+        "sentence_id,": "1300f3e085"
+    }, 
+    {
+        "sentence": "The development of cryptology skills, among other things, will be supported so that Finland can supply related products and services to national and international users.", 
+        "sentence_id,": "b7fb590981"
+    }, 
+    {
+        "sentence": "It will provide an opportunity for top-level research teams and companies that utilise the results to engage in effective mutual cooperation over the long term.", 
+        "sentence_id,": "2ea19682eb"
+    }, 
+    {
+        "sentence": "The centre of excellence will employ an application-oriented and interdisciplinary research strategy which companies, universities and research establishments have together defined.", 
+        "sentence_id,": "1c7435453c"
+    }, 
+    {
+        "sentence": "The results of that strategy will serve the implementation of the national Cyber Security Strategy, and the development of international-level top-ex 1 The Strategic Centre for Science, Technology and Innovation in the Field of ICT FINLANDS CYBER SECURITY STRATEGY BACKGROUND DOSSIER 31 pertise.", 
+        "sentence_id,": "d5dce9ca5a"
+    }, 
+    {
+        "sentence": "These measures will support the creation of new and successful international cyber security business.", 
+        "sentence_id,": "6eb9f2a499"
+    }, 
+    {
+        "sentence": "From the standpoint of continuous business growth it is imperative to retain top-level competence in Finland.", 
+        "sentence_id,": "d32f0e2b02"
+    }, 
+    {
+        "sentence": "This will make it possible for us to take advantage of the cyber domain.", 
+        "sentence_id,": "5eafa89915"
+    }, 
+    {
+        "sentence": "Transition training will continue at the same level for several years ahead.", 
+        "sentence_id,": "fc4afe9154"
+    }, 
+    {
+        "sentence": "Additional cyber/information security courses will be provided by universities and polytechnics as soon as possible.", 
+        "sentence_id,": "e437a6ce76"
+    }, 
+    {
+        "sentence": "Educational establishments that provide training in the field will provide more IT security study places as well as secondary fields of study in cyber security.", 
+        "sentence_id,": "8c5c709c39"
+    }, 
+    {
+        "sentence": "A professorship in cyber security will be established as soon as possible and, in the long run, the number of professors in cyber security will be increased.", 
+        "sentence_id,": "0144c877b5"
+    }, 
+    {
+        "sentence": "Lessons-learned from cyber exercises provide concrete information on securing the vital functions of society, including required cooperation.", 
+        "sentence_id,": "a7ecc5cde9"
+    }, 
+    {
+        "sentence": "In addition, they provide information on the development needs required by the strategic tasks of administrative branches and organisations, and the total situation of societys preparedness and crisis management capabilities.", 
+        "sentence_id,": "a80afbc3de"
+    }, 
+    {
+        "sentence": "Exercises help test the basic principles and modi operandi of the Cyber Security Strategy; they also measure the implementation of the Strategy.", 
+        "sentence_id,": "01f9ae1d06"
+    }, 
+    {
+        "sentence": "Preparedness for emergency conditions and serious disturbances in normal conditions must be exercised on a regular basis.", 
+        "sentence_id,": "514d47aa32"
+    }, 
+    {
+        "sentence": "This makes it possible to analyse how well cyber security is being achieved in Finland and to continually introduce improvements.", 
+        "sentence_id,": "8aeb902faf"
+    }, 
+    {
+        "sentence": "Cyber threats have very short mutation cycles and, therefore, all national and international exercises must be frequent and well-organised so as to effectively support national cyber security.", 
+        "sentence_id,": "1f0cf27f72"
+    }, 
+    {
+        "sentence": "Successful cyber exercises call for a systematic approach and clear lines of authority.", 
+        "sentence_id,": "36a193e19e"
+    }, 
+    {
+        "sentence": "The preparation and implementation of large national cyber exercises will be coordinated in accordance with the principles of the Security Strategy for Society.", 
+        "sentence_id,": "adf1ed356b"
+    }, 
+    {
+        "sentence": "The implementation of national cyber security entails close public-private cooperation.", 
+        "sentence_id,": "2aa96d9db4"
+    }, 
+    {
+        "sentence": "Businesses and NGOs that are important to societys vital functions will be included in exercises so as to improve societys comprehensive preparedness.", 
+        "sentence_id,": "3ad33dde18"
+    }, 
+    {
+        "sentence": "Public and private sector preparedness for cyber incident management will be trained in national cyber exercises which test the preparedness required by cyber incidents included in the Cyber Security Strategy threat scenarios, and the functioning of management and cooperation arrangements.", 
+        "sentence_id,": "382553c7b3"
+    }, 
+    {
+        "sentence": "Exercise themes will incorporate topical challenges caused by changes in the cyber domain.", 
+        "sentence_id,": "5e29462d43"
+    }, 
+    {
+        "sentence": "Participation in international multi-level exercises significantly supports the development of national cyber security, know-how in the field, practices, the creation of transnational inter-authority cooperation and a network of experts.", 
+        "sentence_id,": "bf74c8129b"
+    }, 
+    {
+        "sentence": "Already during the planning stages Finland must actively try to influence the structures and running of exercises so that they advance the development of our national competence, and so that we can test the strengths and weaknesses of our national cyber domain.", 
+        "sentence_id,": "a16544cf84"
+    }, 
+    {
+        "sentence": "CYBER SECURITY REGULATION Secure the preconditions for the implementation of effective cyber security measures through national legislation.", 
+        "sentence_id,": "db33a530d4"
+    }, 
+    {
+        "sentence": "Cyber security is a new legal phenomenon.", 
+        "sentence_id,": "dd35e9985b"
+    }, 
+    {
+        "sentence": "Cyber threats are transboundary by nature.", 
+        "sentence_id,": "f764dacb42"
+    }, 
+    {
+        "sentence": "The actors behind cyber attacks may vary and are difficult to identify.", 
+        "sentence_id,": "815ec1be51"
+    }, 
+    {
+        "sentence": "Cyber attack techniques are versatile, rapidly changing and evolving.", 
+        "sentence_id,": "8857389687"
+    }, 
+    {
+        "sentence": "Cyber security concerns all walks of life, administrative branches and vital functions of society.", 
+        "sentence_id,": "a2a37bbcf6"
+    }, 
+    {
+        "sentence": "Basic rights and human rights guarantee the right to privacy and confidentiality of communications.", 
+        "sentence_id,": "084cdadd0a"
+    }, 
+    {
+        "sentence": "The origin and nature of the cyber threat determines the body of law that will govern the cyber incident.", 
+        "sentence_id,": "b08bc3a297"
+    }, 
+    {
+        "sentence": "5.1 International and national cyber security regulation In the 1990s the United Nations (UN) recognised the criminal misuse of information technology as a cross-border crime.", 
+        "sentence_id,": "ce42c03c22"
+    }, 
+    {
+        "sentence": "The UN has issued resolutions in the fight against the misuse of information technology and for the protection of critical IT infrastructure.", 
+        "sentence_id,": "8f845ad44d"
+    }, 
+    {
+        "sentence": "The European Union has drafted conventions, framework decisions, directives, proposals and communications on IT crime and its prevention, cooperation in the defence of attacks against information systems, and the protection of critical infrastructure and IT infrastructure.", 
+        "sentence_id,": "48b2e1616d"
+    }, 
+    {
+        "sentence": "No uniform international treaty exists which covers all cyber threat situations and is binding on all states.", 
+        "sentence_id,": "72552a6777"
+    }, 
+    {
+        "sentence": "International law handles cyber incidents in a fragmented manner and approaches them from different viewpoints.", 
+        "sentence_id,": "fc5d95f586"
+    }, 
+    {
+        "sentence": "Likewise, no consensus exists on terms such as cyber attack, cyber defence or cyber conflict/skirmish.", 
+        "sentence_id,": "57ff10dbde"
+    }, 
+    {
+        "sentence": "There has been more international legal debate on this complex topic in recent years.", 
+        "sentence_id,": "110c585607"
+    }, 
+    {
+        "sentence": "This will probably result in new legal interpretations on the assessment of cyber incidents at the state level or in international organisations.", 
+        "sentence_id,": "dcabe6bd53"
+    }, 
+    {
+        "sentence": "Presumably, these interpretations will not be legally binding on states, but, they will indicate the objectives which the states participating in the arrangements are prepared to adopt.", 
+        "sentence_id,": "7c6a6f1676"
+    }, 
+    {
+        "sentence": "The UN Charter regulates the use of force in state relations.", 
+        "sentence_id,": "20666a441a"
+    }, 
+    {
+        "sentence": "Apart from self-defence in the event of an armed attack or participation in Security Council-mandated military action, the use of force is forbidden.", 
+        "sentence_id,": "0ca8640d19"
+    }, 
+    {
+        "sentence": "At present, the international community is debating whether cyber attacks in some situations can rise above the threshold of armed attack, as defined in the UN Charter, justifying a military response by the affected state.", 
+        "sentence_id,": "841acd54dd"
+    }, 
+    {
+        "sentence": "Sovereignty also includes responsibility.", 
+        "sentence_id,": "f7a1844b5d"
+    }, 
+    {
+        "sentence": "A state must see to it that its area will not be used in an attack against another state.", 
+        "sentence_id,": "ad77fe946d"
+    }, 
+    {
+        "sentence": "It must, therefore, also try to prevent attacks beyond its national borders perpetrated by private entities.", 
+        "sentence_id,": "0dddbd2e36"
+    }, 
+    {
+        "sentence": "No rules of engagement exist for cyber operations.", 
+        "sentence_id,": "9e5fad5785"
+    }, 
+    {
+        "sentence": "FINLANDS CYBER SECURITY STRATEGY BACKGROUND DOSSIER 33 No uniform cyber threat regulation exists in national legislation.", 
+        "sentence_id,": "970c0139db"
+    }, 
+    {
+        "sentence": "Standards that address operations in IT networks are fragmented, and they approach cyber threats from different angles.", 
+        "sentence_id,": "5575be6331"
+    }, 
+    {
+        "sentence": "Even though cyber operations by their very nature cross the boundaries of administrative branches, at the national level administrative branches define cyber threats from their own perspective.", 
+        "sentence_id,": "fa2e2d2dd8"
+    }, 
+    {
+        "sentence": "Moreover, powers also tend to be branch-specific.", 
+        "sentence_id,": "a08930c480"
+    }, 
+    {
+        "sentence": "Depending on its origin and scope, a cyber threat can be considered to be an individual criminal act, a wider terrorist offence or an issue affecting state relations and military defence.", 
+        "sentence_id,": "873b43006a"
+    }, 
+    {
+        "sentence": "This hampers the achievement of legal rulings and a consistent, national legal interpretation of the situation.", 
+        "sentence_id,": "c4d7dd0369"
+    }, 
+    {
+        "sentence": "Pursuant to the Constitution of Finland the public authorities shall guarantee the observance of basic rights and liberties, and human rights.", 
+        "sentence_id,": "7c46bd6912"
+    }, 
+    {
+        "sentence": "Basic rights must also be guaranteed in networks.", 
+        "sentence_id,": "c7b0e7e80d"
+    }, 
+    {
+        "sentence": "Increased cyber security may improve, for instance, the protection of the privacy and property of network users.", 
+        "sentence_id,": "d566348c01"
+    }, 
+    {
+        "sentence": "Well-functioning ICT networks can also be seen to promote the freedom of speech.", 
+        "sentence_id,": "58b1fb07fd"
+    }, 
+    {
+        "sentence": "More detailed cyber security-related regulation can be found in Chapter 34 of the Criminal Code, the Territorial Surveillance Act, the Readiness Act, the State of Defence Act and the Act on the Defence Forces, the Communications Market Act and the Act on the Protection of Privacy in Electronic Communications.", 
+        "sentence_id,": "98f2940e96"
+    }, 
+    {
+        "sentence": "The obligation of the authorities to be prepared to discharge their duties well in all situations, as per the Readiness Act, also includes the development of cyber capabilities.", 
+        "sentence_id,": "46f9b2fa2a"
+    }, 
+    {
+        "sentence": "The key requirement for invoking and using the powers of the Readiness Act is subject to the existence of emergency conditions, as provided by law.", 
+        "sentence_id,": "ec5a61da34"
+    }, 
+    {
+        "sentence": "Pursuant to the justifications of the Act, an attack (according to the definition of emergency conditions) comparable to an armed attack may also mean an attack other than one implemented with traditional means of force.", 
+        "sentence_id,": "84a6228722"
+    }, 
+    {
+        "sentence": "For instance, it can entail an attack against IT systems.", 
+        "sentence_id,": "ece2a818c1"
+    }, 
+    {
+        "sentence": "An attack can also mean one executed by non-state actors, if it is so organised and wide-ranging that it can be likened to an attack carried out by a state.", 
+        "sentence_id,": "2db4acc95c"
+    }, 
+    {
+        "sentence": "5.2 Improving legislation In its international action Finland supports and participates in interpretations of international law aimed at harmonising to the greatest possible extent the legal doctrines of different states.", 
+        "sentence_id,": "7e70c5eb77"
+    }, 
+    {
+        "sentence": "At the same time, this means that it is not sufficient to only adapt Finlands legislation to cover cyber threat situations.", 
+        "sentence_id,": "1eb27b41fb"
+    }, 
+    {
+        "sentence": "Finland actively participates in cooperation between different actors which aims for the transparent exchange of information, a common body of law and the division of duties between different actors.", 
+        "sentence_id,": "b47d72bacd"
+    }, 
+    {
+        "sentence": "This can, among other things, limit situations in which discrepancies in national laws provide an opportunity for cybercriminals to carry out their activity in suitable states.", 
+        "sentence_id,": "80c2d3ff8d"
+    }, 
+    {
+        "sentence": "National law should be considered from the perspective of international cyber security- related legislation and EU legislation.", 
+        "sentence_id,": "3689896b96"
+    }, 
+    {
+        "sentence": "This work must ascertain the different ad 34 FINLANDS CYBER SECURITY STRATEGY BACKGROUND DOSSIER ministrative branches cyber security regulation, how modern and sufficient it is, and the need for legislative review, if any.", 
+        "sentence_id,": "db8cd8c4b4"
+    }, 
+    {
+        "sentence": "The point of departure is that the powers required for managing cyber incidents which endanger and harm society must be included in the authorities normal powers.", 
+        "sentence_id,": "1b520aed9f"
+    }, 
+    {
+        "sentence": "The Constitution lays down that the exercise of public powers shall be based on an Act.", 
+        "sentence_id,": "301be78c98"
+    }, 
+    {
+        "sentence": "Legislation must be developed in such a manner that it adapts to rapidly changing phenomena in cyberspace, and makes it possible for the competent authorities in the different sectors to discharge their duties in protecting the sovereignty of the state and the livelihood of the population, and in defending societys vital functions against cyber threats.", 
+        "sentence_id,": "82a56bb9da"
+    }, 
+    {
+        "sentence": "Cyber security must be regarded as an integral element of security.", 
+        "sentence_id,": "18c625b126"
+    }, 
+    {
+        "sentence": "When it comes to the viability of society it is imperative to find a suitable balance between legislation and situation awareness, the responsibilities and practices of the authorities and the business community.", 
+        "sentence_id,": "bba20dbbd7"
+    }, 
+    {
+        "sentence": "This analysis must also take into account Finlands international competitiveness.", 
+        "sentence_id,": "3479e4a353"
+    }, 
+    {
+        "sentence": "A stable cyber security situation, for its part, creates a lucrative business environment.", 
+        "sentence_id,": "0eba9bc7ea"
+    }, 
+    {
+        "sentence": "In order to repel cyber threats that endanger the security of the state, possible legislative restrictions and hurdles, as well as those arising from international obligations, will be reviewed.", 
+        "sentence_id,": "1aef1b9920"
+    }, 
+    {
+        "sentence": "Such restrictions and hurdles also include obligations related to data protection and those found to be useful for effective cyber defence purposes that impede the obtainability, disclosure and exchange of information between the different authorities and other actors.", 
+        "sentence_id,": "2930512d1b"
+    }, 
+    {
+        "sentence": "When it comes to assessing information-gathering and other data processing one should also estimate whether the competent authorities should be given better possibilities for gathering information, data processing or being informed of cyber threats and their sources, while simultaneously paying attention to the basic rights of privacy and confidentiality in electronic communications.", 
+        "sentence_id,": "bf754b084d"
+    }, 
+    {
+        "sentence": "With regard to police activities, it is especially important to obtain the powers for intelligence gathering and investigation in order to prevent, identify and fend off cybercrime.", 
+        "sentence_id,": "3a684680e8"
+    }, 
+    {
+        "sentence": "The rules on jurisdiction related to cyber warfare and cyber intelligence should be clarified and improved in the review of legislation on the Defence Forces.", 
+        "sentence_id,": "ee28f8ffd8"
+    }, 
+    {
+        "sentence": "Should the rules on jurisdiction be expanded, special consideration must be paid to human and basic rights, and to their impact on the rules on jurisdiction, for instance, when intelligence- gathering powers are being expanded.", 
+        "sentence_id,": "d601b3999a"
+    }, 
+    {
+        "sentence": "IMPLEMENTATION OF THE CYBER SECURITY STRATEGY 6.1 Principles of implementing the Strategy Assign cyber security related tasks, service models and common cyber security management standards to the authorities and actors in the business community.", 
+        "sentence_id,": "7f1c5ccca5"
+    }, 
+    {
+        "sentence": "The cyber security of society and the securing of its vital functions rely on the strategic tasks of the ministries and a well-functioning security of supply in all situations.", 
+        "sentence_id,": "0e870c3493"
+    }, 
+    {
+        "sentence": "Each administrative branch is responsible for the preparation of its cyber risk analysis.", 
+        "sentence_id,": "fdbe62b7bc"
+    }, 
+    {
+        "sentence": "The analysis process makes it possible to identify vulnerabilities and complete a maturity analysis.", 
+        "sentence_id,": "a183d3095e"
+    }, 
+    {
+        "sentence": "The process culminates in the completion of action plans for each administrative branch which meet their designated requirements.", 
+        "sentence_id,": "f653c462ac"
+    }, 
+    {
+        "sentence": "The metrics and actions needed for improving cyber security will be determined through a more detailed analysis.", 
+        "sentence_id,": "a8ea5aad7b"
+    }, 
+    {
+        "sentence": "Contingency plans and preparedness arrangements must regularly be reviewed, especially when major changes occur in society or in the security environment.", 
+        "sentence_id,": "5f3c848d71"
+    }, 
+    {
+        "sentence": "The future Security Committee will monitor and coordinate the implementation and development of the Strategy.", 
+        "sentence_id,": "8bdb8c0929"
+    }, 
+    {
+        "sentence": "In addition, each actor or sector in society has distinct cyber security tasks.", 
+        "sentence_id,": "feec5cac81"
+    }, 
+    {
+        "sentence": "These specific tasks expand the strategic tasks defined in the Security Strategy for Society, those related to security of supply and sector-specific tasks from the perspective of cyber security.", 
+        "sentence_id,": "c35b927989"
+    }, 
+    {
+        "sentence": "Maintaining societys cyber security demands accurate information on the preparedness and capacity of the administrative branches and the business community, as well as the crisis resilience and preparedness of society in general.", 
+        "sentence_id,": "22ac6eaccb"
+    }, 
+    {
+        "sentence": "The monitoring of the Strategy must enable timely and correct maintenance and development measures.", 
+        "sentence_id,": "07a949c4ca"
+    }, 
+    {
+        "sentence": "Such monitoring provides the state leadership with up-to-date information regarding the correct allocation of resources in line with the goals of the Cyber Security Strategy.", 
+        "sentence_id,": "6d1657f827"
+    }, 
+    {
+        "sentence": "The implementation of cyber security also requires the consistent application of the Strategys principles at the regional and local levels.", 
+        "sentence_id,": "81a8234e81"
+    }, 
+    {
+        "sentence": "This calls for adequate cooperation between the different actors and the utilisation of best practices.", 
+        "sentence_id,": "b3662b255c"
+    }, 
+    {
+        "sentence": "The future Security Committee will coordinate the joint monitoring and develop ment of the implementation of the Strategy.", 
+        "sentence_id,": "545590e66d"
+    }, 
+    {
+        "sentence": "The Committee will prepare annual reports on the state of the Strategys implementation.", 
+        "sentence_id,": "09925967da"
+    }, 
+    {
+        "sentence": "36 FINLANDS CYBER SECURITY STRATEGY BACKGROUND DOSSIER 6.2 Required measures Ministries will monitor the implementation and development of cyber security- related tasks and the security of supply-measures.", 
+        "sentence_id,": "b35a27a1c5"
+    }, 
+    {
+        "sentence": "The administrative branches will carry out the monitoring as part of their routine practices.", 
+        "sentence_id,": "bdadae4160"
+    }, 
+    {
+        "sentence": "The Cyber Security Centre, together with its network, will regularly prepare cyber incident reports for the different authorities.", 
+        "sentence_id,": "c4069f37df"
+    }, 
+    {
+        "sentence": "The Centre and its support network will prepare annual reports on, at least, the following topics: How the cyber incidents were managed, including the lessons-learned, analyses and the economic impacts on societys vital functions, Estimates on the viability and further requirements of contingency arrangements, Lessons-learned from the administrative branches, the Governments and national cyber readiness exercises, and The improvement of action and competence-building and resource allocation.", 
+        "sentence_id,": "e033466b40"
+    }, 
+    {
+        "sentence": "When it comes to cyber incident management, it is important that all action launched for the purpose of situation management be carefully recorded and analysed.", 
+        "sentence_id,": "9883cba912"
+    }, 
+    {
+        "sentence": "In addition, the analysis of close calls must also be included in this tracking, especially for the purpose of preventing threats and risks.", 
+        "sentence_id,": "017498c5e2"
+    }, 
+    {
+        "sentence": "Lessons-learned and the measures they spawned will be discussed in different cooperative bodies so as to ensure the utilisation of best practices.", 
+        "sentence_id,": "557bc5d5e5"
+    }, 
+    {
+        "sentence": "The observations and experiences from cyber exercises provide tangible information as regards securing the vital functions of society, including the necessary cooperation.", 
+        "sentence_id,": "45d913f8c7"
+    }, 
+    {
+        "sentence": "Furthermore, they provide information on the development needs required by the strategic tasks of the administrative branches and organisations, and on the overall situation of societys preparedness and crisis management capabilities.", 
+        "sentence_id,": "1fb70b1751"
+    }, 
+    {
+        "sentence": "Exercises test the principles and approaches of the Cyber Security Strategy, and help assess the implementation of the Strategy.", 
+        "sentence_id,": "798f77a3f7"
+    }, 
+    {
+        "sentence": "Monitoring the implementation of the Strategy also provides criteria and requirements for cyber security research, including national R&D cooperation.", 
+        "sentence_id,": "031db95964"
+    }, 
+    {
+        "sentence": "National and international security research will be implemented and its cooperative arrangements will be developed in line with the guidelines of the National Security Research Strategy (2009).", 
+        "sentence_id,": "9c8e371df8"
+    }, 
+    {
+        "sentence": "Research that supports the Cyber Security Strategy is conducted at various research units and establishments, and through the research programmes of universities and other institutes of higher education.", 
+        "sentence_id,": "e746afd1e3"
+    }, 
+    {
+        "sentence": "FINLANDS CYBER SECURITY STRATEGY BACKGROUND DOSSIER 37 The maintenance and development of the Cyber Security Strategy rely on a continuous improvement process.", 
+        "sentence_id,": "23f692d70c"
+    }, 
+    {
+        "sentence": "The Cyber Security Strategy will be annually reviewed by the future Security Committee.", 
+        "sentence_id,": "bf8915157d"
+    }, 
+    {
+        "sentence": "This will ensure the relevance and the continued progress of the Strategy.", 
+        "sentence_id,": "1c3dfc49d4"
+    }, 
+    {
+        "sentence": "Any possible updates to the Strategy and the Action Plan will be carried out on the basis of an analysis generated by the process.", 
+        "sentence_id,": "85d1452019"
+    }, 
+    {
+        "sentence": "The salient points of the Cyber Security Strategy will be incorporated into the Security Strategy for Society the next time it is updated.", 
+        "sentence_id,": "abfab98db9"
+    }, 
+    {
+        "sentence": "6.3 Resource allocation Ministries, government agencies and establishments are to include the resources for the implementation of the Cyber Security Strategy in their operating and financial plans.", 
+        "sentence_id,": "a709a918fa"
+    }, 
+    {
+        "sentence": "Parliament will assign spending limits to the ministries, in which the resources required by cyber security measures will be included.", 
+        "sentence_id,": "0345c7bffa"
+    }, 
+    {
+        "sentence": "Ministries will incorporate resource requirements in their normal operating plans.", 
+        "sentence_id,": "dffd5d3ce4"
+    }, 
+    {
+        "sentence": "Businesses will take cyber security requirements into account as they make decisions on their budgets and resource allocation.", 
+        "sentence_id,": "e09a83b27e"
+    }, 
+    {
+        "sentence": "A separate supplementary appropriation will be earmarked for setting up the Cyber Security Centre, including its operation.", 
+        "sentence_id,": "8bcce06518"
+    }, 
+    {
+        "sentence": "The sum total of the appropriation will be determined in the joint implementation plan.", 
+        "sentence_id,": "926b966b46"
+    }, 
+    {
+        "sentence": "The Centre will be able to operate on a 24/7 basis which, according to preliminary plans will require the additional resources of approximately ten person-years and at least one million Euros.", 
+        "sentence_id,": "bf4527fe97"
+    }, 
+    {
+        "sentence": "6.4 Action Plan and assessing effectiveness The implementation of the Strategy and its completion will be monitored.", 
+        "sentence_id,": "f664d8ca73"
+    }, 
+    {
+        "sentence": "Detailed contingency and development plans for cyber security will be prepared in that period so as to achieve by 2016 the Government Programmes target that Finland become a leading country in the development of cyber security.", 
+        "sentence_id,": "5d56027745"
+    }, 
+    {
+        "sentence": "From 2016 on the Cyber Security Strategy will be implemented in line with the principles of continuous improvement.", 
+        "sentence_id,": "8f3be027fe"
+    }, 
+    {
+        "sentence": "Administrative branches will implement the budgeting required by cyber security in accordance with existing guidelines.", 
+        "sentence_id,": "5e7b48c485"
+    }, 
+    {
+        "sentence": "The key features of the Action Plan include the establishment of the Cyber Security Centre, the ministries measures for the purpose of achieving their strategic goals, and the required legislative review.", 
+        "sentence_id,": "9f679fc705"
+    }, 
+    {
+        "sentence": "A cyber security maturity model will be developed as part of the Action Plan with which the level and development of the actions can be benchmarked.", 
+        "sentence_id,": "48b2e2f5a2"
+    }, 
+    {
+        "sentence": "38 FINLANDS CYBER SECURITY STRATEGY BACKGROUND DOSSIER APPENDIX APPENDIX THE CYBER SECURITY STRATEGYS CONTINUOUS IMPROVEMENT PROCESS The goal of the national cyber strategy process is to achieve a continuous improvement approach which will make it possible to more efficiently and effectively implement cyber security measures.", 
+        "sentence_id,": "1a7b91c757"
+    }, 
+    {
+        "sentence": "The strategy process manifests itself at several levels and it includes different phases.", 
+        "sentence_id,": "670639001b"
+    }, 
+    {
+        "sentence": "The goal is to create a continuous strategy process with parts that regularly repeat and generate continuous improvement.", 
+        "sentence_id,": "b0dae9ca07"
+    }, 
+    {
+        "sentence": "The cyber security process encompasses five phases: Analysis The Strategys analysis phase defines our own position, i.e.", 
+        "sentence_id,": "2ffc0c61b1"
+    }, 
+    {
+        "sentence": "our state in relation to the operating environment and its various elements.", 
+        "sentence_id,": "efa17e824c"
+    }, 
+    {
+        "sentence": "In the cyber strategy this translates into an analysis of the cyber threat environment and identification of vulnerabilities in societys vital functions, along with a risk assessment of the ensuing entirety.", 
+        "sentence_id,": "5e6ec79e99"
+    }, 
+    {
+        "sentence": "Moreover, ones own capabilities and shortcomings will be assessed.", 
+        "sentence_id,": "e2a1d23881"
+    }, 
+    {
+        "sentence": "The operating environment analysis will identify phenomena in cyberspace, assign the necessary definitions for the Strategy and catalogue the existing national cyber security projects, including related and ancillary projects.", 
+        "sentence_id,": "697f290445"
+    }, 
+    {
+        "sentence": "Information from other countries cyber security strategies and the best practices most suitable for us will be obtained through benchmarking.", 
+        "sentence_id,": "d83c18495c"
+    }, 
+    {
+        "sentence": "The analysis will result in awareness of our standing in both the national and international cyber domain; it will also provide further grounds for definitions and reports.", 
+        "sentence_id,": "e96972470d"
+    }, 
+    {
+        "sentence": "Planning The cyber security vision, national standards and the cyber security concept will be determined in the planning phase.", 
+        "sentence_id,": "636ed982ec"
+    }, 
+    {
+        "sentence": "This phase will take into account performance requirements, available economic resources and competence.", 
+        "sentence_id,": "d470796ac1"
+    }, 
+    {
+        "sentence": "Several options will be prepared as regards achieving the desired end state.", 
+        "sentence_id,": "63a6d3d3eb"
+    }, 
+    {
+        "sentence": "Decision In the decision-making phase several options will be compared and the option leading to the desired end state will be selected as will be the national operating concept and the measures it requires.", 
+        "sentence_id,": "002964f3ca"
+    }, 
+    {
+        "sentence": "In addition, the desired cyber capabilities and the measures required to create them will be defined.", 
+        "sentence_id,": "65d13b0ac8"
+    }, 
+    {
+        "sentence": "Production The production phase will determine the structure of the Cyber Security Strategy, the manner in which things are presented, and the concrete goals and responsibilities of cyber security.", 
+        "sentence_id,": "a03ba4cc3c"
+    }, 
+    {
+        "sentence": "The production phase includes several iterations; mid-reviews will ensure that the strategic decisions appear in the text.", 
+        "sentence_id,": "0f9a83f7b1"
+    }, 
+    {
+        "sentence": "The drafting of the Strategy is completed when it is presented to the commissioning body and is approved.", 
+        "sentence_id,": "43fc29d21a"
+    }, 
+    {
+        "sentence": "FINLANDS CYBER SECURITY STRATEGY BACKGROUND DOSSIER 39 Implementation The previous phases of the strategy process will have produced an approved strategy document which also includes an action plan as well as a plan for continuously keeping the strategy process relevant.", 
+        "sentence_id,": "81c6bc57ad"
+    }, 
+    {
+        "sentence": "In its implementation phase the strategy will be put into practice by delegating the proposed action of the strategy at the different levels of administration and organisations.", 
+        "sentence_id,": "5635348eff"
+    }, 
+    {
+        "sentence": "A benchmarking and monitoring system for cyber security maturity will be created for the purpose of change management, which can then be used to monitor the success of the process.", 
+        "sentence_id,": "885b923d3d"
+    }, 
+    {
+        "sentence": "The future Security Committee will monitor the implementation of the Strategy.", 
+        "sentence_id,": "f2e721963d"
+    }, 
+    {
+        "sentence": "It will also prepare an annual report for the Government.", 
+        "sentence_id,": "756aff49c8"
+    }, 
+    {
+        "sentence": "Developments in the cyber domain will be monitored in the implementation phase and, if necessary, administrative branches will be supported in putting the Strategys principles into practice.", 
+        "sentence_id,": "a83156e453"
+    }, 
+    {
+        "sentence": "The goal is to maintain a comprehensive cyber security situation picture, and to track the development of countermeasure capabilities.", 
+        "sentence_id,": "0bcfe8c61d"
+    }, 
+    {
+        "sentence": "Resource allocation is an important part of the implementation of the Strategy.", 
+        "sentence_id,": "a6a8512139"
+    }, 
+    {
+        "sentence": "Efficiency and effectiveness are directly attributable to the available economic and intellectual resources.", 
+        "sentence_id,": "826fb2f10a"
+    }, 
+    {
+        "sentence": "The Government creates the framework for cyber security resource allocation through budget steering.", 
+        "sentence_id,": "be9d783fc5"
+    }, 
+    {
+        "sentence": "Accountable departments, within the constraints of their budgetary power, will allocate resources for the practical implementation of cyber security, such as the compilation of a situation picture, contingency planning, research and development, and education.", 
+        "sentence_id,": "eacd3c104d"
+    }, 
+    {
+        "sentence": "The cyber security process is a process of continuous improvement and it is used to track changing conditions and the effectiveness of action.", 
+        "sentence_id,": "73a002b8b8"
+    }, 
+    {
+        "sentence": "Consequently, the process will incorporate analyses and, when necessary, updates of the Strategy.", 
+        "sentence_id,": "07a911cdcd"
+    }, 
+    {
+        "sentence": "FIGURE 1 The continuous improvement process of cyber security.", 
+        "sentence_id,": "09ba37ed38"
+    }, 
+    {
+        "sentence": "40 FINLANDS CYBER SECURITY STRATEGY BACKGROUND DOSSIER www.yhteiskunnanturvallisuus.fi/en", 
+        "sentence_id,": "608a029fc7"
+    }
+]
