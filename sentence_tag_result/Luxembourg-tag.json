@@ -1,0 +1,991 @@
+[
+    {
+        "sentence_id,": "545d76ac28", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "infrastructure"
+                    }
+                ], 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Stratgie nationale en matire de cyber scurit Version du 18 novembre 2011 1 Version du 18 novembre 2011 2 INTRODUCTION Le fonctionnement de notre socit est aujourdhui troitement li aux infrastructures et systmes de communication et de traitement de linformation."
+    }, 
+    {
+        "sentence_id,": "1ec95efec7", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "infrastructure"
+                    }
+                ], 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Ces infrastructures, dans la mesure o elles sont utilises dans des secteurs aussi varis que lnergie, la communication, le transport ou la sant, contribuent satisfaire les besoins vitaux des citoyens."
+    }, 
+    {
+        "sentence_id,": "482c3572ec", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Assurer la continuit au niveau de lapprovisionnement et empcher toute interruption ou tout disfonctionnement qui pourrait avoir des consquences nfastes, soit pour la sant et scurit publique, soit pour lconomie constitue une des priorits de notre pays."
+    }, 
+    {
+        "sentence_id,": "5f79d915b2", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Les citoyens ont de plus en plus souvent recours aux technologies de linformation et de communication que ce soit dans le cadre de leur vie sociale ou dans le cadre de leurs relations avec les administrations et acteurs de la vie conomique."
+    }, 
+    {
+        "sentence_id,": "8f5575c20b", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "u s"
+                    }
+                ], 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Nous assistons une multiplication des plateformes de communication et dchange dinformation qui ont tendance se substituer aux modes traditionnels de communication, lapparition de nouveaux modes de consommation en ligne des informations, des uvres musicales, des uvres audiovisuelles et littraires ainsi qu une gnralisation des changes lectroniques que ce soit au sein des administrations publiques ou dans le cadre de leurs relations avec les administrs."
+    }, 
+    {
+        "sentence_id,": "98b7244452", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "infrastructure"
+                    }
+                ], 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Ces changements qui affectent la vie de tous les jours crent auprs des utilisateurs le sentiment lgitime de pouvoir compter sur un fonctionnement sans faille des infrastructures sousjacentes ces activits."
+    }, 
+    {
+        "sentence_id,": "1fc5fffd16", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "u s"
+                    }
+                ], 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "A lavenir, la croissance conomique sera fortement stimule par le dveloppement du secteur des technologies de linformation et de la communication."
+    }, 
+    {
+        "sentence_id,": "5410994295", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "infrastructure"
+                    }
+                ], 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Cette croissance qui est gnratrice de nouveaux emplois repose sur lexistence dinfrastructures performantes, capables de rpondre aux exigences en termes de vitesse et de qualit mais aussi de scurit, des milieux professionnels concerns."
+    }, 
+    {
+        "sentence_id,": "81fdcd2a25", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "u s"
+                    }, 
+                    {
+                        "standardisation development": "performance"
+                    }
+                ], 
+                "subcategory": [
+                    "policy", 
+                    "standardisation development"
+                ]
+            }
+        ], 
+        "sentence": "Ceci est particulirement vrai pour le dveloppement du secteur financier dont la performance est troitement lie la qualit, la rsilience et la prennisation des systmes informatiques."
+    }, 
+    {
+        "sentence_id,": "31eb7ecd3b", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Soutenir lconomie numrique en crant les conditions favorables son expansion figure ds lors parmi les proccupations prioritaires de notre pays."
+    }, 
+    {
+        "sentence_id,": "ec9464e087", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Version du 18 novembre 2011 3 Lomniprsence du cyberespace dans la vie de tous les jours saccompagne dune certaine dpendance et vulnrabilit qui ne doivent pas tre sous-estimes."
+    }, 
+    {
+        "sentence_id,": "07653cb3fc", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "infrastructure"
+                    }
+                ], 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Les infrastructures et systmes de communication et de traitement de linformation sont de plus en plus exposs aux nouvelles formes dactivits illgales (infections virales, mises hors service, actes dintrusion, usurpations didentit, vols dinformation, etc.)"
+    }, 
+    {
+        "sentence_id,": "c33ccd46db", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "et la multiplication de celles-ci perptres moyennant lutilisation des rseaux informatiques ainsi que la complexit croissante des actions malveillantes recenses tout comme lampleur des dgts potentiels mettent en vidence la ncessit dune rponse adquate et efficace ces menaces."
+    }, 
+    {
+        "sentence_id,": "e964484ee7", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "infrastructure"
+                    }
+                ], 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Partant de ce constat le gouvernement a dcid en juillet 2011 de mettre en place une stratgie globale en matire de cyber scurit visant renforcer la protection des infrastructures et systmes de communication et de traitement de linformation."
+    }, 
+    {
+        "sentence_id,": "f7ef1489ed", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "security"
+                    }, 
+                    {
+                        "regulation and compliance": "security"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance"
+                ]
+            }
+        ], 
+        "sentence": "Llaboration de cette stratgie ainsi que sa mise en uvre et le suivi de son excution relvent des missions du Cyber Security Board qui a t cr la mme occasion."
+    }, 
+    {
+        "sentence_id,": "93a540d335", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "infrastructure"
+                    }
+                ], 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Le prsent document prcise les lignes daction de cette stratgie dont la ralisation a pour but de renforcer la scurit et la rsilience des infrastructures et contribuera assurer, dans lenvironnement numrique, la protection des citoyens, des professionnels et des acteurs de la vie publique."
+    }, 
+    {
+        "sentence_id,": "3b5c46bfd2", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "infrastructure"
+                    }, 
+                    {
+                        "public sector partnership": "institutions"
+                    }
+                ], 
+                "subcategory": [
+                    "policy", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "Version du 18 novembre 2011 4 LES CINQ AXES DE LA STRATEGIE I. Assurer la protection oprationnelle des infrastructures et systmes de communication et de traitement de linformation Une protection efficace et adquate de ces systmes contre toute forme dincidents et dactivits illicites susceptibles de causer des dommages conomiques importants ou de perturber le bon fonctionnement des institutions et infrastructures doit constituer une priorit pour notre pays."
+    }, 
+    {
+        "sentence_id,": "1203970ca3", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "infrastructure"
+                    }
+                ], 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Le programme gouvernemental nonce ce sujet: Les infrastructures de communication et dinformation exigent aujourdhui tant une protection physique quune protection virtuelle, notamment contre les cyber attaques et les actes relevant du domaine de la cybercriminalit."
+    }, 
+    {
+        "sentence_id,": "35b7095bd3", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "infrastructure"
+                    }
+                ], 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Dans le domaine virtuel, il y a lieu dacclrer, dtendre et de systmatiser les initiatives prises ce jour pour protger tant les infrastructures publiques que prives ."
+    }, 
+    {
+        "sentence_id,": "64dc6b3fd5", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "La protection oprationnelle des systmes dinformation comprend deux volets : un volet prventif et un volet dfensif."
+    }, 
+    {
+        "sentence_id,": "f24733ebff", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Volet oprationnel prventif Les mesures prventives mettre en place ont pour objectif danticiper les menaces et de protger priori contre les risques qui dcoulent des menaces auxquelles sont exposs les systmes dinformation et de communication."
+    }, 
+    {
+        "sentence_id,": "e2c748db12", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "security"
+                    }, 
+                    {
+                        "regulation and compliance": "security"
+                    }, 
+                    {
+                        "public sector partnership": "collaboration"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "Dans cette optique, une collaboration avec les centres de recherche et universitaires et notamment le Interdisciplinary Center for Security, Reliability and Trust (SnT) sera envisage."
+    }, 
+    {
+        "sentence_id,": "02eed693bf", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "infrastructure"
+                    }
+                ], 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Elles comprennent, titre non limitatif, les activits suivantes : - procder des analyses de risques en fonction des menaces et des vulnrabilits existantes ; - organiser, promouvoir et participer la veille au niveau des technologies, des vulnrabilits et des menaces ; et - promouvoir et raliser la mise en place de systmes de dtection et de prvention dintrusions au niveau des infrastructures et systmes sensibles et critiques."
+    }, 
+    {
+        "sentence_id,": "28b9f8cfe2", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Version du 18 novembre 2011 5 Volet oprationnel dfensif Il faut partir du constat quaucun systme dinformation, quelque soit son niveau de protection, nest parfaitement scuris."
+    }, 
+    {
+        "sentence_id,": "2d2358fe1a", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Ds lors, il faut disposer de capacits suffisantes pour dtecter des intrusions mais aussi pour ragir une fois lincident dtect, de traiter lincident repr de manire efficace et de rtablir loprabilit des systmes affects."
+    }, 
+    {
+        "sentence_id,": "ecb9863c6a", 
+        "tag": [
+            {
+                "category": [
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "reporting mechanism": "response"
+                    }
+                ], 
+                "subcategory": [
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "Dans ce contexte, trois types de mesures oprationnelles visent atteindre cet objectif, savoir - tablir un plan durgence en cas dincident majeur ; - raliser des simulations et exercices sectoriels et nationaux portant sur la raction en cas dincident affectant la scurit des systmes dinformation et de communication sensibles ou critiques et participer aux exercices europens et paneuropens dans ce domaine ; - et mettre en place des quipes spcialises (Computer Emergency Response team (CERT)) capables de prendre en charge des incidents de scurit majeurs."
+    }, 
+    {
+        "sentence_id,": "5c05aab89d", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Version du 18 novembre 2011 6 II."
+    }, 
+    {
+        "sentence_id,": "4b1345279a", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "infrastructure"
+                    }
+                ], 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Moderniser le cadre lgal Lvolution rapide des technologies des infrastructures et des systmes de communication et de traitement de linformation gnre de nouvelles menaces."
+    }, 
+    {
+        "sentence_id,": "896481693e", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Il est ds lors primordial de vrifier rgulirement si les bases lgales en vigueur sont toujours adaptes et si elles permettent de poursuivre et de sanctionner les nouvelles formes de cyber criminalit."
+    }, 
+    {
+        "sentence_id,": "b143d1facb", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "La ncessit dune veille juridique dcoule encore du caractre transfrontalier des actes criminels qui remet en cause, dans une certaine mesure, le principe de lapplication territoriale des rgles lgales."
+    }, 
+    {
+        "sentence_id,": "2008f27fd3", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "En effet, dans le domaine de la criminalit commise laide dun systme ou dun rseau informatique, le nombre de lieux et de pays impliqus dans lacte frauduleux est susceptible d'augmenter."
+    }, 
+    {
+        "sentence_id,": "4c70e83580", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "L'infraction peut tre commise pour partie dans un pays et pour partie dans un autre, voire en partie dans un troisime alors que l'initiateur peut pratiquement se trouver n'importe o dans le monde."
+    }, 
+    {
+        "sentence_id,": "6356e128e9", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Il sagit ds lors de suivre de prs lvolution aussi bien au niveau des technologies quau niveau des comportements frauduleux."
+    }, 
+    {
+        "sentence_id,": "c2886a90aa", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "national benchmarking": "globe"
+                    }
+                ], 
+                "subcategory": [
+                    "national benchmarking"
+                ]
+            }
+        ], 
+        "sentence": "La veille juridique, afin dtre efficace, devra englober le suivi des initiatives lances sur le plan communautaire, voire international."
+    }, 
+    {
+        "sentence_id,": "df76e382eb", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "En effet, la nature globale des rseaux et systmes ncessite une rponse globale et toute approche purement nationale serait davance voue lchec."
+    }, 
+    {
+        "sentence_id,": "a54c2b9894", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Version du 18 novembre 2011 7 III."
+    }, 
+    {
+        "sentence_id,": "d460958125", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "u s"
+                    }
+                ], 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Dvelopper la coopration nationale et internationale La ncessit dune coopration que ce soit sur le plan national entre tous les acteurs impliqus ou sur le plan international dcoule du caractre par essence mondial des rseaux de communication."
+    }, 
+    {
+        "sentence_id,": "fb3610c34e", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "En effet, il ne suffit pas que notre pays soit bien prpar lintrieur de nos frontires car lexprience montre que les attaques sont gnralement planifies et organises de lextrieur de notre territoire."
+    }, 
+    {
+        "sentence_id,": "a8f408ce7f", 
+        "tag": [
+            {
+                "category": [
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "public sector partnership": "collaboration"
+                    }
+                ], 
+                "subcategory": [
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "Il est ds lors impratif de disposer dun tissu de collaboration actif avec la communaut internationale, et notamment avec les CERT et les forces de lordre (militaire et civil)."
+    }, 
+    {
+        "sentence_id,": "02f1c800b5", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Le but de cette coopration tant daboutir un change dinformation entre les services comptents des diffrents Etats et enceintes internationales ainsi qu la dfinition dapproches et de solutions communes."
+    }, 
+    {
+        "sentence_id,": "f8355b6e4f", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Sur le plan national, une coopration et interaction effective entre tous les acteurs concerns sont le pralable une mise en uvre cohrente de la stratgie."
+    }, 
+    {
+        "sentence_id,": "c749fd9fdc", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Sont viss par cette dmarche : les organes intertatiques les autorits de poursuite (Police grand-ducale et Parquet) les autorits nationales indpendantes concernes (ILR, CSSF, CNPD) les acteurs sectoriels les partenariats public-priv."
+    }, 
+    {
+        "sentence_id,": "3ae9466cec", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "u s"
+                    }, 
+                    {
+                        "public sector partnership": "collaboration"
+                    }, 
+                    {
+                        "public sector partnership": "institutions"
+                    }
+                ], 
+                "subcategory": [
+                    "policy", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "Sur le plan international, cette collaboration peut prendre la forme de contacts bilatraux comme elle peut sappuyer sur les rapports multilatraux au sein des institutions suivantes : Benelux Interpol et Europol UE Conseil de lEurope OTAN OCDE OSCE."
+    }, 
+    {
+        "sentence_id,": "03423d21ee", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Version du 18 novembre 2011 8 IV."
+    }, 
+    {
+        "sentence_id,": "940930f6ed", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Informer, duquer et sensibiliser sur les risques encourus La sensibilisation, lducation des secteurs privs et publics sur les risques encourus et les moyens de protection constitue un lment essentiel de la stratgie puisquil contribue dans une large mesure rduire les vulnrabilits potentielles et motiver les acteurs concerns participer activement au renforcement de la scurit."
+    }, 
+    {
+        "sentence_id,": "ee372aa62f", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Il est important de provoquer une prise de conscience auprs de tous les acteurs concerns quils peuvent, en adoptant un comportement responsable, se protger dans une large mesure contre les menaces et les dangers potentiels."
+    }, 
+    {
+        "sentence_id,": "2407e6c08e", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "A moyen terme, une amlioration de la scurit dans le cyberespace ne saura se faire sans responsabiliser davantage tous les acteurs des secteurs en cause."
+    }, 
+    {
+        "sentence_id,": "4e8426010c", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Une grande partie des failles exploites par les cybercriminels sont rendues possibles par des ngligences dans la conception et lutilisation des systmes qui sont sur le march."
+    }, 
+    {
+        "sentence_id,": "4e8eed4550", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "A titre dexemple: la publication et lapplication tardives de correctionnels, la nonobservation des procdures, la prvalence de la commodit sur la scurit."
+    }, 
+    {
+        "sentence_id,": "6496b07158", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "infrastructure"
+                    }
+                ], 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Le lgislateur, les propritaires et les oprateurs des infrastructures, les utilisateurs ainsi que les fournisseurs de solutions informatiques devront runir leurs efforts afin de scuriser le cyberespace au bnfice de la collectivit."
+    }, 
+    {
+        "sentence_id,": "cd09808630", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "infrastructure"
+                    }
+                ], 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Toute dmarche de sensibilisation, dducation et dinformation doit sadresser lensemble des acteurs, savoir - les utilisateurs finaux les utilisateurs/internautes les lves, les parents, les ducateurs, les professeurs les agents de lEtat les petites et moyennes entreprises - les prestataires de services dhbergement physique (data centres) de communication de cloud computing de signature lectronique de dmatrialisation et darchivage lectronique - les oprateurs dinfrastructures critiques."
+    }, 
+    {
+        "sentence_id,": "d574f9b9b0", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Lvolution permanente de la menace implique que les citoyens doivent tre tenus informs rgulirement de la nature et de lenvergure des attaques en cours, ainsi que des outils mettre en place et des procdures appliquer afin de se protger efficacement."
+    }, 
+    {
+        "sentence_id,": "225680676e", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Des formations (notamment dans les coles, dans les administrations et dans les Internetstuffen ) permettront aux intresss dactualiser leurs connaissances, que ce soit au niveau des menaces potentielles ou des moyens de protection."
+    }, 
+    {
+        "sentence_id,": "c5dc4147bd", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "standards"
+                    }
+                ], 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Version du 18 novembre 2011 9 V. Mettre en place des normes et des standards contraignants Parmi les moyens des plus efficaces pour prvenir des cyber-attaques figurent la rduction des surfaces dattaque et la rduction des vulnrabilits tant humaines que techniques."
+    }, 
+    {
+        "sentence_id,": "75172a09dd", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Avant la mise en place de mesures prventives de scurit, il faut procder une analyse des risques pour pouvoir estimer les pertes potentielles lies une compromission de la disponibilit, de lintgrit ou encore de la confidentialit des actifs sans pour autant perdre de vue que limpact majeur est souvent la perte de renomme et de confiance."
+    }, 
+    {
+        "sentence_id,": "a190fec498", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "standards"
+                    }, 
+                    {
+                        "policy": "u s"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "La mise en uvre cohrente et efficace de systmes scuriss au sein de lEtat exige lexistence de mthodes danalyse de risque, de politiques et de standards de scurit cohrents et adapts aux contextes."
+    }, 
+    {
+        "sentence_id,": "5f48e5265c", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "standards"
+                    }
+                ], 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Les mesures de scurit organisationnelles et techniques dcrites dans ces politiques et standards doivent tre appliques par les diffrentes administrations."
+    }, 
+    {
+        "sentence_id,": "1dde261b1d", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Sont notamment inclure dans ces politiques des sujets comme la scurisation des terminaux mobiles ou lintroduction gnralise de lauthentification forte pour tous les systmes sensibles et accessibles depuis lInternet."
+    }, 
+    {
+        "sentence_id,": "3be7781dc1", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "u s"
+                    }, 
+                    {
+                        "policy": "infrastructure"
+                    }
+                ], 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Dans le mme ordre dides, les oprateurs dinfrastructures critiques ou sensibles devront se conformer un certain nombre de rfrentiels respectivement viser une certification sectorielle pour prouver leur maturit au niveau scuritaire."
+    }, 
+    {
+        "sentence_id,": "36a41d9a06", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Version du 18 novembre 2011 10 MISE EN UVRE DE LA STRATEGIE La prsente stratgie dfinit les objectifs quil importe datteindre."
+    }, 
+    {
+        "sentence_id,": "f4581c2037", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Elle sera complte par un inventaire des mesures existantes et par des plans dactions oprationnels qui devront pour chaque domaine dcrire les mesures concrtes mettre en uvre suivant un calendrier dtermin ainsi que les acteurs appels contribuer leur accomplissement."
+    }, 
+    {
+        "sentence_id,": "76e7ea5e9e", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Dans ce contexte, les centres universitaires et de recherches, qui constituent des centres dexcellence et disposent de connaissances et comptences pointues, seront invits contribuer la ralisation des objectifs de la stratgie."
+    }, 
+    {
+        "sentence_id,": "022690b8c6", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "La stratgie ci-avant dcrite a vocation voluer dans le temps."
+    }, 
+    {
+        "sentence_id,": "6a3f1cc552", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Elle sera priodiquement rvise afin dtre adapte, si besoin en tait, aux nouvelles ralits."
+    }, 
+    {
+        "sentence_id,": "2705b004e1", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "A cette fin, il sera priodiquement procd une rvaluation des menaces et des risques, accompagne, si ncessaire, de propositions ayant pour objet dactualiser la prsente stratgie."
+    }, 
+    {
+        "sentence_id,": "5b6b46c051", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Version du 18 novembre 2011 11"
+    }
+]

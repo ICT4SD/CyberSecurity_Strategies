@@ -1,0 +1,3749 @@
+[
+    {
+        "sentence_id,": "d73ee755f6", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "organization measures", 
+                    "cooperation", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "security"
+                    }, 
+                    {
+                        "criminal legislation": "strategy"
+                    }, 
+                    {
+                        "regulation and compliance": "security"
+                    }, 
+                    {
+                        "policy": "infrastructure"
+                    }, 
+                    {
+                        "policy": "strategy"
+                    }, 
+                    {
+                        "intra-agency cooperation": "information infrastructure"
+                    }, 
+                    {
+                        "international cooperation": "cyberspace"
+                    }, 
+                    {
+                        "national legislation": "cyberspace"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "policy", 
+                    "intra-agency cooperation", 
+                    "international cooperation", 
+                    "national legislation"
+                ]
+            }
+        ], 
+        "sentence": "Cyber Security Strategy for Germany Contents Introduction 2 IT threat assessment 3 Framework conditions 4 Basic principles of the Cyber Security Strategy 4 Strategic objectives and measures 6 Sustainable implementation 13 Abbreviations 14 Definitions 14 1 Introduction Cyberspace includes all information infrastructures accessible via the Internet beyond all territorial boundaries."
+    }, 
+    {
+        "sentence_id,": "3a19657216", 
+        "tag": [
+            {
+                "category": [
+                    "cooperation", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "international cooperation": "cyberspace"
+                    }, 
+                    {
+                        "national legislation": "cyberspace"
+                    }
+                ], 
+                "subcategory": [
+                    "international cooperation", 
+                    "national legislation"
+                ]
+            }
+        ], 
+        "sentence": "In Germany all players of social and economic life use the possibilities provided by cyberspace."
+    }, 
+    {
+        "sentence_id,": "bc8eb47a43", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "technology"
+                    }, 
+                    {
+                        "policy": "critical infrastructure"
+                    }, 
+                    {
+                        "policy": "critical infrastructures"
+                    }, 
+                    {
+                        "policy": "infrastructure"
+                    }, 
+                    {
+                        "standardisation development": "critical infrastructures"
+                    }, 
+                    {
+                        "public sector partnership": "critical infrastructure"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "policy", 
+                    "standardisation development", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "As part of an increasingly interconnected world, the state, critical infrastructures, businesses and citizens in Germany depend on the reliable functioning of information and communication technology and the Internet."
+    }, 
+    {
+        "sentence_id,": "89ba28bad8", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "attack"
+                    }, 
+                    {
+                        "regulation and compliance": "attack"
+                    }, 
+                    {
+                        "standards": "technology"
+                    }, 
+                    {
+                        "certification": "attacks"
+                    }, 
+                    {
+                        "certification": "attack"
+                    }, 
+                    {
+                        "policy": "infrastructure"
+                    }, 
+                    {
+                        "standardisation development": "performance"
+                    }, 
+                    {
+                        "intra-agency cooperation": "information infrastructure"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "standards", 
+                    "certification", 
+                    "policy", 
+                    "standardisation development", 
+                    "intra-agency cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Malfunctioning IT products and components, the break-down of information infrastructures or serious cyber attacks may have a considerable negative impact on the performance of technology, businesses and the administration and hence on Germanys social lifelines."
+    }, 
+    {
+        "sentence_id,": "ac0d169b59", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "cooperation", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "confidentiality"
+                    }, 
+                    {
+                        "regulation and compliance": "confidentiality"
+                    }, 
+                    {
+                        "international cooperation": "cyberspace"
+                    }, 
+                    {
+                        "national legislation": "cyberspace"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "international cooperation", 
+                    "national legislation"
+                ]
+            }
+        ], 
+        "sentence": "The availability of cyberspace and the integrity, authenticity and confidentiality of data in cyberspace have become vital questions of the 21st century."
+    }, 
+    {
+        "sentence_id,": "731ec15997", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "security"
+                    }, 
+                    {
+                        "regulation and compliance": "security"
+                    }, 
+                    {
+                        "intra-state cooperation": "society"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "intra-state cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Ensuring cyber security has thus turned into a central challenge for the state, business and society both at national and international level."
+    }, 
+    {
+        "sentence_id,": "4ed0c9daa7", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "security"
+                    }, 
+                    {
+                        "criminal legislation": "strategy"
+                    }, 
+                    {
+                        "regulation and compliance": "security"
+                    }, 
+                    {
+                        "policy": "strategy"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The Cyber Security Strategy is intended to improve the framework conditions in this area."
+    }, 
+    {
+        "sentence_id,": "d67a2b0fed", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures", 
+                    "organization measures", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "attack"
+                    }, 
+                    {
+                        "regulation and compliance": "attack"
+                    }, 
+                    {
+                        "certification": "attacks"
+                    }, 
+                    {
+                        "certification": "attack"
+                    }, 
+                    {
+                        "policy": "infrastructure"
+                    }, 
+                    {
+                        "intra-agency cooperation": "information infrastructure"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "certification", 
+                    "policy", 
+                    "intra-agency cooperation"
+                ]
+            }
+        ], 
+        "sentence": "2 IT threat assessment In recent years attacks against information infrastructures have become ever more frequent and complex, while at the same time perpetrators have become more professional."
+    }, 
+    {
+        "sentence_id,": "bf85b5ba2b", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "attack"
+                    }, 
+                    {
+                        "regulation and compliance": "attack"
+                    }, 
+                    {
+                        "certification": "attacks"
+                    }, 
+                    {
+                        "certification": "attack"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "Cyber attacks are launched both from Germany and abroad."
+    }, 
+    {
+        "sentence_id,": "11e482e4cb", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures", 
+                    "cooperation", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "attack"
+                    }, 
+                    {
+                        "regulation and compliance": "attack"
+                    }, 
+                    {
+                        "certification": "attacks"
+                    }, 
+                    {
+                        "certification": "attack"
+                    }, 
+                    {
+                        "international cooperation": "cyberspace"
+                    }, 
+                    {
+                        "national legislation": "cyberspace"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "certification", 
+                    "international cooperation", 
+                    "national legislation"
+                ]
+            }
+        ], 
+        "sentence": "Given the openness and extent of cyberspace it is possible to conduct covert attacks and misuse vulnerable systems as tools for an attack."
+    }, 
+    {
+        "sentence_id,": "93836ff274", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "attack"
+                    }, 
+                    {
+                        "regulation and compliance": "attack"
+                    }, 
+                    {
+                        "certification": "attack"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "In view of technologically sophisticated malware the possibilities of responding to and retracing an attack are rather limited."
+    }, 
+    {
+        "sentence_id,": "fd6f29f1bd", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "attack"
+                    }, 
+                    {
+                        "regulation and compliance": "attack"
+                    }, 
+                    {
+                        "certification": "attacks"
+                    }, 
+                    {
+                        "certification": "attack"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "Often attacks give no clue as to the identity and the background of the attacker."
+    }, 
+    {
+        "sentence_id,": "d9e2787853", 
+        "tag": [
+            {
+                "category": [
+                    "cooperation", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "international cooperation": "cyberspace"
+                    }, 
+                    {
+                        "national legislation": "cyberspace"
+                    }
+                ], 
+                "subcategory": [
+                    "international cooperation", 
+                    "national legislation"
+                ]
+            }
+        ], 
+        "sentence": "Criminals, terrorists and spies use cyberspace as a place for their activities and do not stop at state borders."
+    }, 
+    {
+        "sentence_id,": "c859cd68e4", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "attack"
+                    }, 
+                    {
+                        "regulation and compliance": "attack"
+                    }, 
+                    {
+                        "certification": "attacks"
+                    }, 
+                    {
+                        "certification": "attack"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "Military operations can also be behind such attacks."
+    }, 
+    {
+        "sentence_id,": "17d516fd05", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building", 
+                    "cooperation", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "standardisation development": "develop"
+                    }, 
+                    {
+                        "intra-state cooperation": "industry"
+                    }, 
+                    {
+                        "international cooperation": "cyberspace"
+                    }, 
+                    {
+                        "national legislation": "cyberspace"
+                    }
+                ], 
+                "subcategory": [
+                    "standardisation development", 
+                    "intra-state cooperation", 
+                    "international cooperation", 
+                    "national legislation"
+                ]
+            }
+        ], 
+        "sentence": "The trend to develop information systems for industry on the basis of standard components and connect them to cyberspace, which is motivated mainly by economic concerns, entails new vulnerabilities."
+    }, 
+    {
+        "sentence_id,": "fa98e1a3e1", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures", 
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "attack"
+                    }, 
+                    {
+                        "regulation and compliance": "attack"
+                    }, 
+                    {
+                        "certification": "attacks"
+                    }, 
+                    {
+                        "certification": "attack"
+                    }, 
+                    {
+                        "policy": "infrastructure"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "certification", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Experience with the Stuxnet virus shows that important industrial infrastructures are no longer exempted from targeted IT attacks."
+    }, 
+    {
+        "sentence_id,": "19ed4b2c01", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "organization measures", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "security"
+                    }, 
+                    {
+                        "regulation and compliance": "security"
+                    }, 
+                    {
+                        "policy": "infrastructure"
+                    }, 
+                    {
+                        "intra-agency cooperation": "information infrastructure"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "policy", 
+                    "intra-agency cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Given the increasing complexity and vulnerability of information infrastructures the cyber security situation will remain critical also in the future."
+    }, 
+    {
+        "sentence_id,": "568c8ac0a6", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "responsible agency": "private sector"
+                    }, 
+                    {
+                        "standardisation development": "private sector"
+                    }, 
+                    {
+                        "manpower development": "private sector"
+                    }, 
+                    {
+                        "intra-state cooperation": "society"
+                    }, 
+                    {
+                        "intra-state cooperation": "private sector"
+                    }, 
+                    {
+                        "public sector partnership": "private sector"
+                    }
+                ], 
+                "subcategory": [
+                    "responsible agency", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "intra-state cooperation", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "In Germany, the public and the private sector as well as society at large are all equally affected by targeted or coincidental IT failures."
+    }, 
+    {
+        "sentence_id,": "0b5bc34e7d", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "organization measures", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "security"
+                    }, 
+                    {
+                        "regulation and compliance": "security"
+                    }, 
+                    {
+                        "policy": "infrastructure"
+                    }, 
+                    {
+                        "intra-agency cooperation": "information infrastructure"
+                    }, 
+                    {
+                        "international cooperation": "international partners"
+                    }, 
+                    {
+                        "international cooperation": "international partner"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "policy", 
+                    "intra-agency cooperation", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "3 Framework conditions Ensuring cyber security, enforcing rights and protecting critical information infrastructures require major efforts by the state both at national level and in cooperation with international partners."
+    }, 
+    {
+        "sentence_id,": "e9d8c19c0e", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "organization measures", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "security"
+                    }, 
+                    {
+                        "criminal legislation": "strategy"
+                    }, 
+                    {
+                        "regulation and compliance": "security"
+                    }, 
+                    {
+                        "policy": "strategy"
+                    }, 
+                    {
+                        "intra-state cooperation": "society"
+                    }, 
+                    {
+                        "intra-state cooperation": "industry"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "policy", 
+                    "intra-state cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Given the shared responsibilities of the state, the industry and the society a cyber security strategy will only be successful if all players act as partners and fulfil their tasks together."
+    }, 
+    {
+        "sentence_id,": "92392c5285", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The same applies to the international context."
+    }, 
+    {
+        "sentence_id,": "5ac702de86", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "infrastructure"
+                    }, 
+                    {
+                        "intra-agency cooperation": "information infrastructure"
+                    }
+                ], 
+                "subcategory": [
+                    "policy", 
+                    "intra-agency cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Since IT systems are interconnected in global networks, incidents in other countries information infrastructures may also indirectly affect Germany."
+    }, 
+    {
+        "sentence_id,": "53e0c87315", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "security"
+                    }, 
+                    {
+                        "regulation and compliance": "security"
+                    }, 
+                    {
+                        "standards": "standards"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "For this reason, strengthening cyber security also requires the enforcement of international rules of conduct, standards and norms."
+    }, 
+    {
+        "sentence_id,": "9eb4e31a16", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Only a mix of domestic and external policy measures will be appropriate for the dimension of the problem."
+    }, 
+    {
+        "sentence_id,": "6ff530eb79", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "security"
+                    }, 
+                    {
+                        "regulation and compliance": "security"
+                    }, 
+                    {
+                        "standards": "standards"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Cyber security can be improved by enhancing the framework conditions for drawing up common minimum standards (code of conduct) with allies and partners."
+    }, 
+    {
+        "sentence_id,": "4c7b77802c", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "law"
+                    }, 
+                    {
+                        "criminal legislation": "law enforcement"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation"
+                ]
+            }
+        ], 
+        "sentence": "Fighting the rapid growth of cybercrime requires close cooperation between law enforcement authorities worldwide."
+    }, 
+    {
+        "sentence_id,": "b7d889d944", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "organization measures", 
+                    "cooperation", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "security"
+                    }, 
+                    {
+                        "criminal legislation": "strategy"
+                    }, 
+                    {
+                        "regulation and compliance": "security"
+                    }, 
+                    {
+                        "policy": "secure cyberspace"
+                    }, 
+                    {
+                        "policy": "strategy"
+                    }, 
+                    {
+                        "responsible agency": "federal government"
+                    }, 
+                    {
+                        "intra-state cooperation": "federal government"
+                    }, 
+                    {
+                        "international cooperation": "cyberspace"
+                    }, 
+                    {
+                        "national legislation": "cyberspace"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "policy", 
+                    "responsible agency", 
+                    "intra-state cooperation", 
+                    "international cooperation", 
+                    "national legislation"
+                ]
+            }
+        ], 
+        "sentence": "Basic principles of the Cyber Security Strategy The Federal Government aims at making a substantial contribution to a secure cyberspace, thus maintaining and promoting economic and social prosperity in Germany."
+    }, 
+    {
+        "sentence_id,": "8ae9e91a21", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "organization measures", 
+                    "cooperation", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "security"
+                    }, 
+                    {
+                        "regulation and compliance": "security"
+                    }, 
+                    {
+                        "policy": "infrastructure"
+                    }, 
+                    {
+                        "intra-agency cooperation": "information infrastructure"
+                    }, 
+                    {
+                        "international cooperation": "cyberspace"
+                    }, 
+                    {
+                        "national legislation": "cyberspace"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "policy", 
+                    "intra-agency cooperation", 
+                    "international cooperation", 
+                    "national legislation"
+                ]
+            }
+        ], 
+        "sentence": "Cyber security in Germany must be ensured at a level commensurate with the importance and protection required by interlinked information infrastructures, without hampering the opportunities and the utilization of the cyberspace."
+    }, 
+    {
+        "sentence_id,": "6085d58dc4", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures", 
+                    "cooperation", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "confidentiality"
+                    }, 
+                    {
+                        "criminal legislation": "security"
+                    }, 
+                    {
+                        "regulation and compliance": "security"
+                    }, 
+                    {
+                        "regulation and compliance": "confidentiality"
+                    }, 
+                    {
+                        "standards": "technology"
+                    }, 
+                    {
+                        "international cooperation": "cyberspace"
+                    }, 
+                    {
+                        "national legislation": "cyberspace"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "standards", 
+                    "international cooperation", 
+                    "national legislation"
+                ]
+            }
+        ], 
+        "sentence": "In this context the level of cyber security reached is the sum of all national and international measures taken to protect the availability of information and communications technology and the integrity, authenticity and confidentiality of data in cyberspace."
+    }, 
+    {
+        "sentence_id,": "55c14f17f7", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "security"
+                    }, 
+                    {
+                        "regulation and compliance": "security"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance"
+                ]
+            }
+        ], 
+        "sentence": "4 Cyber security must be based on a comprehensive approach."
+    }, 
+    {
+        "sentence_id,": "a1befb4b5c", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "roadmap for governance": "information sharing"
+                    }
+                ], 
+                "subcategory": [
+                    "roadmap for governance"
+                ]
+            }
+        ], 
+        "sentence": "This requires even more intensive information sharing and coordination."
+    }, 
+    {
+        "sentence_id,": "27f380f280", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "organization measures", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "security"
+                    }, 
+                    {
+                        "criminal legislation": "strategy"
+                    }, 
+                    {
+                        "regulation and compliance": "security"
+                    }, 
+                    {
+                        "policy": "strategy"
+                    }, 
+                    {
+                        "intra-agency cooperation": "civilian"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "policy", 
+                    "intra-agency cooperation"
+                ]
+            }
+        ], 
+        "sentence": "The Cyber Security Strategy mainly focuses on civilian approaches and measures."
+    }, 
+    {
+        "sentence_id,": "6e977e4b9e", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "organization measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "security"
+                    }, 
+                    {
+                        "criminal legislation": "strategy"
+                    }, 
+                    {
+                        "regulation and compliance": "security"
+                    }, 
+                    {
+                        "policy": "strategy"
+                    }, 
+                    {
+                        "standardisation development": "capabilities"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "policy", 
+                    "standardisation development"
+                ]
+            }
+        ], 
+        "sentence": "They are complemented by measures taken by the Bundeswehr 1 to protect its capabilities and measures based on mandates to make cyber security a part of Germanys preventive security strategy."
+    }, 
+    {
+        "sentence_id,": "918b1bc1ea", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "security"
+                    }, 
+                    {
+                        "regulation and compliance": "security"
+                    }, 
+                    {
+                        "standards": "technology"
+                    }, 
+                    {
+                        "international cooperation": "international coordination"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "standards", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Given the global nature of information and communications technology, international coordination and appropriate networks focusing on foreign and security policy aspects are indispensable."
+    }, 
+    {
+        "sentence_id,": "603e420cbe", 
+        "tag": [
+            {
+                "category": [
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "intra-state cooperation": "organizations"
+                    }
+                ], 
+                "subcategory": [
+                    "intra-state cooperation"
+                ]
+            }
+        ], 
+        "sentence": "This includes cooperation not only in the United Nations, but also in the EU, the Council of Europe, NATO, the G8, the OSCE and other multinational organizations."
+    }, 
+    {
+        "sentence_id,": "394e36c0fe", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building", 
+                    "cooperation", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "standardisation development": "capabilities"
+                    }, 
+                    {
+                        "international cooperation": "cyberspace"
+                    }, 
+                    {
+                        "national legislation": "cyberspace"
+                    }
+                ], 
+                "subcategory": [
+                    "standardisation development", 
+                    "international cooperation", 
+                    "national legislation"
+                ]
+            }
+        ], 
+        "sentence": "The aim is to ensure the coherence and capabilities of the international community to protect cyberspace."
+    }, 
+    {
+        "sentence_id,": "9b1bf0def6", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "organization measures", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "security"
+                    }, 
+                    {
+                        "criminal legislation": "strategy"
+                    }, 
+                    {
+                        "regulation and compliance": "security"
+                    }, 
+                    {
+                        "policy": "strategy"
+                    }, 
+                    {
+                        "responsible agency": "federal government"
+                    }, 
+                    {
+                        "intra-state cooperation": "federal government"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "policy", 
+                    "responsible agency", 
+                    "intra-state cooperation"
+                ]
+            }
+        ], 
+        "sentence": "1 Armed Forces (Bundeswehr) 5 Strategic objectives and measures With the present Cyber Security Strategy the Federal Government adapts measures to the current threats on the basis of the structures established by the CIP implementation plan and the implementation plan for the federal administration."
+    }, 
+    {
+        "sentence_id,": "7f3e24c9b4", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "organization measures", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "security"
+                    }, 
+                    {
+                        "regulation and compliance": "security"
+                    }, 
+                    {
+                        "policy": "infrastructure"
+                    }, 
+                    {
+                        "intra-agency cooperation": "information infrastructure"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "policy", 
+                    "intra-agency cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Protection of critical information infrastructures The protection of critical information infrastructures is the main priority of cyber security."
+    }, 
+    {
+        "sentence_id,": "0711eb1b0d", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "critical infrastructure"
+                    }, 
+                    {
+                        "policy": "critical infrastructures"
+                    }, 
+                    {
+                        "policy": "infrastructure"
+                    }, 
+                    {
+                        "standardisation development": "critical infrastructures"
+                    }, 
+                    {
+                        "public sector partnership": "critical infrastructure"
+                    }
+                ], 
+                "subcategory": [
+                    "policy", 
+                    "standardisation development", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "They are a central component of nearly all critical infrastructures and become increasingly important."
+    }, 
+    {
+        "sentence_id,": "b4a5ff6ae0", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "roadmap for governance": "information sharing"
+                    }, 
+                    {
+                        "responsible agency": "private sector"
+                    }, 
+                    {
+                        "standardisation development": "private sector"
+                    }, 
+                    {
+                        "manpower development": "private sector"
+                    }, 
+                    {
+                        "intra-state cooperation": "private sector"
+                    }, 
+                    {
+                        "public sector partnership": "private sector"
+                    }
+                ], 
+                "subcategory": [
+                    "roadmap for governance", 
+                    "responsible agency", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "intra-state cooperation", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "The public and the private sector must create an enhanced strategic and organizational basis for closer coordination based on intensified information sharing."
+    }, 
+    {
+        "sentence_id,": "06edf81247", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "To this end, cooperation established by the CIP implementation plan is systematically extended, and legal commitments to 6 enhance the binding nature of the CIP implementation plan are examined."
+    }, 
+    {
+        "sentence_id,": "018551bac6", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "security"
+                    }, 
+                    {
+                        "regulation and compliance": "security"
+                    }, 
+                    {
+                        "public sector partnership": "participation"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "With the participation of the National Cyber Security Council (cf."
+    }, 
+    {
+        "sentence_id,": "4487d35e01", 
+        "tag": [
+            {
+                "category": [
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "intra-state cooperation": "sectors"
+                    }
+                ], 
+                "subcategory": [
+                    "intra-state cooperation"
+                ]
+            }
+        ], 
+        "sentence": "objective 5), the integration of additional sectors is examined and the introduction of new relevant technologies is considered to a greater extent."
+    }, 
+    {
+        "sentence_id,": "3baa36b68a", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "manpower development": "power"
+                    }
+                ], 
+                "subcategory": [
+                    "manpower development"
+                ]
+            }
+        ], 
+        "sentence": "Whether and where protective measures have to be made mandatory and whether and where additional powers are required in case of specific threats have to be clarified, too."
+    }, 
+    {
+        "sentence_id,": "bc77ff76a4", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "critical infrastructure"
+                    }, 
+                    {
+                        "policy": "critical infrastructures"
+                    }, 
+                    {
+                        "policy": "infrastructure"
+                    }, 
+                    {
+                        "standardisation development": "critical infrastructures"
+                    }, 
+                    {
+                        "public sector partnership": "critical infrastructure"
+                    }
+                ], 
+                "subcategory": [
+                    "policy", 
+                    "standardisation development", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "Furthermore we will examine the necessity of harmonizing rules to maintain critical infrastructures during IT crises."
+    }, 
+    {
+        "sentence_id,": "e4b3290657", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "security"
+                    }, 
+                    {
+                        "regulation and compliance": "security"
+                    }, 
+                    {
+                        "policy": "infrastructure"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Secure IT systems in Germany Infrastructure protection requires more security with regard to IT systems used by citizens and small and medium-sized businesses."
+    }, 
+    {
+        "sentence_id,": "a37ccf8600", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "cooperation", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "security"
+                    }, 
+                    {
+                        "criminal legislation": "manner"
+                    }, 
+                    {
+                        "regulation and compliance": "security"
+                    }, 
+                    {
+                        "international cooperation": "cyberspace"
+                    }, 
+                    {
+                        "national legislation": "cyberspace"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "international cooperation", 
+                    "national legislation"
+                ]
+            }
+        ], 
+        "sentence": "Users need appropriate and consistent information on risks related to the use of IT systems and on security measures they can take to use cyberspace in a secure manner."
+    }, 
+    {
+        "sentence_id,": "299df1f1e6", 
+        "tag": [
+            {
+                "category": [
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "intra-state cooperation": "society"
+                    }
+                ], 
+                "subcategory": [
+                    "intra-state cooperation"
+                ]
+            }
+        ], 
+        "sentence": "We will organize joint initiatives with groups from society to pool information and advice consistently."
+    }, 
+    {
+        "sentence_id,": "c2b499b309", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "security"
+                    }, 
+                    {
+                        "regulation and compliance": "security"
+                    }, 
+                    {
+                        "roadmap for governance": "responsibility"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "roadmap for governance"
+                ]
+            }
+        ], 
+        "sentence": "Furthermore we will examine whether providers may have to assume greater responsibility and make sure that a basic collection of appropriate security products and services are made available to users by providers."
+    }, 
+    {
+        "sentence_id,": "7e0624290e", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "security"
+                    }, 
+                    {
+                        "regulation and compliance": "security"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance"
+                ]
+            }
+        ], 
+        "sentence": "We want to provide specific incentives and funds for basic security functions certified by the state (e. g. electronic proof of identity or De-mail) to be used by the vast majority of citizens."
+    }, 
+    {
+        "sentence_id,": "7f7deb2a47", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "security"
+                    }, 
+                    {
+                        "regulation and compliance": "security"
+                    }, 
+                    {
+                        "standards": "technology"
+                    }, 
+                    {
+                        "intra-state cooperation": "industry"
+                    }, 
+                    {
+                        "public sector partnership": "participation"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "standards", 
+                    "intra-state cooperation", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "To support small and medium-sized businesses in the secure use of IT systems, the Federal Ministry of Economics and Technology has set up a task force on IT security in industry with the participation of industry."
+    }, 
+    {
+        "sentence_id,": "9dd9c502da", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "security"
+                    }, 
+                    {
+                        "regulation and compliance": "security"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance"
+                ]
+            }
+        ], 
+        "sentence": "Strengthening IT security in the public administration The public administration will further enhance the protection of its IT systems."
+    }, 
+    {
+        "sentence_id,": "abcdccad33", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "security"
+                    }, 
+                    {
+                        "regulation and compliance": "security"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance"
+                ]
+            }
+        ], 
+        "sentence": "State authorities have to serve as role models for data security."
+    }, 
+    {
+        "sentence_id,": "8ff4000658", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "infrastructure"
+                    }
+                ], 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "We will create a common, uniform and secure network infrastructure in the federal administration (federal networks) as a basis for electronic audio and data communication."
+    }, 
+    {
+        "sentence_id,": "86cb6b6c56", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "We will continue to press ahead with the implementation plan for the federal administration."
+    }, 
+    {
+        "sentence_id,": "98bb0ab9f5", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "security"
+                    }, 
+                    {
+                        "regulation and compliance": "security"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance"
+                ]
+            }
+        ], 
+        "sentence": "Should the IT security situation get worse, this plan may be 7 aligned accordingly."
+    }, 
+    {
+        "sentence_id,": "fe90c80c7d", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "security"
+                    }, 
+                    {
+                        "regulation and compliance": "security"
+                    }, 
+                    {
+                        "manpower development": "power"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "manpower development"
+                ]
+            }
+        ], 
+        "sentence": "Effective IT security requires powerful structures in all federal authorities."
+    }, 
+    {
+        "sentence_id,": "79ca292c5e", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "For this reason resources must be deployed appropriately at central and local level."
+    }, 
+    {
+        "sentence_id,": "26f8d2c073", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "security"
+                    }, 
+                    {
+                        "regulation and compliance": "security"
+                    }, 
+                    {
+                        "responsible agency": "federal government"
+                    }, 
+                    {
+                        "manpower development": "investments"
+                    }, 
+                    {
+                        "intra-state cooperation": "federal government"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "responsible agency", 
+                    "manpower development", 
+                    "intra-state cooperation"
+                ]
+            }
+        ], 
+        "sentence": "To facilitate implementation through uniform action by authorities, joint investments into the Federal Governments IT security will be made regularly in line with budgetary possibilities."
+    }, 
+    {
+        "sentence_id,": "34cb626508", 
+        "tag": [
+            {
+                "category": [
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "reporting mechanism": "response"
+                    }
+                ], 
+                "subcategory": [
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "Operational cooperation with the federal Lnder, particularly with regard to CERTs (computer emergency response teams), will be further intensified by the IT planning council."
+    }, 
+    {
+        "sentence_id,": "48b68ef1c5", 
+        "tag": [
+            {
+                "category": [
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "reporting mechanism": "response"
+                    }
+                ], 
+                "subcategory": [
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "National Cyber Response Centre To optimize operational cooperation between all state authorities and improve the coordination of protection and response measures for IT incidents we will set up a National Cyber Response Centre."
+    }, 
+    {
+        "sentence_id,": "5f3361f539", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "security"
+                    }, 
+                    {
+                        "regulation and compliance": "security"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance"
+                ]
+            }
+        ], 
+        "sentence": "It will report to the Federal Office for Information Security (BSI) and cooperate directly with the Federal Office for the Protection of the Constitution (BfV) and the Federal Office of Civil Protection and Disaster Assistance (BBK)."
+    }, 
+    {
+        "sentence_id,": "5b838a7460", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "agreement"
+                    }, 
+                    {
+                        "manpower development": "power"
+                    }, 
+                    {
+                        "reporting mechanism": "response"
+                    }
+                ], 
+                "subcategory": [
+                    "policy", 
+                    "manpower development", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "Cooperation in the National Cyber Response Centre will strictly observe the statutory tasks and powers of all authorities involved on the basis of cooperation agreements."
+    }, 
+    {
+        "sentence_id,": "18b0fce264", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "critical infrastructure"
+                    }, 
+                    {
+                        "policy": "infrastructure"
+                    }, 
+                    {
+                        "manpower development": "power"
+                    }, 
+                    {
+                        "public sector partnership": "critical infrastructure"
+                    }, 
+                    {
+                        "public sector partnership": "participate"
+                    }
+                ], 
+                "subcategory": [
+                    "policy", 
+                    "manpower development", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "The Federal Criminal Police Office (BKA), the Federal Police (BPOL), the Customs Criminological Office (ZKA), the Federal Intelligence Service (BND), the Bundeswehr and authorities supervising critical infrastructure operators all participate in this centre within the framework of their statutory tasks and powers."
+    }, 
+    {
+        "sentence_id,": "7aab33b90d", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures", 
+                    "organization measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "attack"
+                    }, 
+                    {
+                        "regulation and compliance": "attack"
+                    }, 
+                    {
+                        "certification": "attacks"
+                    }, 
+                    {
+                        "certification": "attack"
+                    }, 
+                    {
+                        "roadmap for governance": "information sharing"
+                    }, 
+                    {
+                        "reporting mechanism": "response"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "certification", 
+                    "roadmap for governance", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "Quick and close information sharing on weaknesses of IT products, vulnerabilities, forms of attacks and profiles of perpetrators enables the National Cyber Response Centre to analyse IT incidents and give consolidated recommendations for action."
+    }, 
+    {
+        "sentence_id,": "28e1194355", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "responsible agency": "private sector"
+                    }, 
+                    {
+                        "standardisation development": "private sector"
+                    }, 
+                    {
+                        "manpower development": "private sector"
+                    }, 
+                    {
+                        "intra-state cooperation": "private sector"
+                    }, 
+                    {
+                        "public sector partnership": "private sector"
+                    }, 
+                    {
+                        "international cooperation": "cyberspace"
+                    }, 
+                    {
+                        "national legislation": "cyberspace"
+                    }
+                ], 
+                "subcategory": [
+                    "responsible agency", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "intra-state cooperation", 
+                    "public sector partnership", 
+                    "international cooperation", 
+                    "national legislation"
+                ]
+            }
+        ], 
+        "sentence": "The interests of the private sector to protect itself against crime and espionage in cyberspace should also be adequately taken into account."
+    }, 
+    {
+        "sentence_id,": "c5dadc5cb5", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "At the same time respective responsibilities must be observed."
+    }, 
+    {
+        "sentence_id,": "e469fe4830", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "security"
+                    }, 
+                    {
+                        "regulation and compliance": "security"
+                    }, 
+                    {
+                        "standardisation development": "develop"
+                    }, 
+                    {
+                        "intra-state cooperation": "industry"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "standardisation development", 
+                    "intra-state cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Every stakeholder takes the necessary measures in its remit on the basis of the jointly developed national cyber security assessment and coordinates them with the competent authorities as well as partners from industry and academia."
+    }, 
+    {
+        "sentence_id,": "7e113a3be4", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "security"
+                    }, 
+                    {
+                        "regulation and compliance": "security"
+                    }, 
+                    {
+                        "reporting mechanism": "response"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "Since security preparedness is best achieved by early warning and prevention, the Cyber Response Centre will submit recommendations to the National Cyber Security Council both on a regular basis and for specific incidents."
+    }, 
+    {
+        "sentence_id,": "be2e211b01", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "security"
+                    }, 
+                    {
+                        "regulation and compliance": "security"
+                    }, 
+                    {
+                        "reporting mechanism": "response"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "If the cyber security situation reaches the level of an imminent or already occurred crisis, the National Cyber Response Centre will directly inform the crisis management staff headed by the responsible State Secretary at the Federal Ministry of the Interior."
+    }, 
+    {
+        "sentence_id,": "cd01ed7620", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "security"
+                    }, 
+                    {
+                        "regulation and compliance": "security"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance"
+                ]
+            }
+        ], 
+        "sentence": "National Cyber Security Council The identification and removal of structural causes for crises are considered an important preventive tool for cyber security."
+    }, 
+    {
+        "sentence_id,": "ff16974a66", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "security"
+                    }, 
+                    {
+                        "regulation and compliance": "security"
+                    }, 
+                    {
+                        "standards": "technology"
+                    }, 
+                    {
+                        "roadmap for governance": "responsibility"
+                    }, 
+                    {
+                        "responsible agency": "private sector"
+                    }, 
+                    {
+                        "responsible agency": "federal government"
+                    }, 
+                    {
+                        "standardisation development": "information technology"
+                    }, 
+                    {
+                        "standardisation development": "private sector"
+                    }, 
+                    {
+                        "manpower development": "private sector"
+                    }, 
+                    {
+                        "intra-state cooperation": "federal government"
+                    }, 
+                    {
+                        "intra-state cooperation": "private sector"
+                    }, 
+                    {
+                        "public sector partnership": "private sector"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "standards", 
+                    "roadmap for governance", 
+                    "responsible agency", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "intra-state cooperation", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "For this reason we want to establish and maintain cooperation within the Federal Government and between the public and the private sector within the responsibility of the Federal Government Commissioner for Information Technology more visible and set up a National Cyber Security Council."
+    }, 
+    {
+        "sentence_id,": "b14bfcf5b8", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "technology"
+                    }, 
+                    {
+                        "public sector partnership": "participate"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "The Federal Chancellery and a State Secretary from each the Federal Foreign Office, the Federal Ministry of the Interior, the Federal Ministry of Defence, the Federal Ministry for Economics and Technology, the Federal Ministry of Justice, the Federal Ministry of Finance, the Federal Ministry of Education and Resarch and representatives of the federal Lnder will participate."
+    }, 
+    {
+        "sentence_id,": "67a6bbea0f", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "On specific occasions additional ministries will be included."
+    }, 
+    {
+        "sentence_id,": "6aa0ede6f8", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Business representatives will be invited as associated members."
+    }, 
+    {
+        "sentence_id,": "d02606eec9", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Representatives from academia will be involved, if required."
+    }, 
+    {
+        "sentence_id,": "de6d593315", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "security"
+                    }, 
+                    {
+                        "regulation and compliance": "security"
+                    }, 
+                    {
+                        "responsible agency": "private sector"
+                    }, 
+                    {
+                        "standardisation development": "private sector"
+                    }, 
+                    {
+                        "manpower development": "private sector"
+                    }, 
+                    {
+                        "intra-state cooperation": "private sector"
+                    }, 
+                    {
+                        "public sector partnership": "private sector"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "responsible agency", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "intra-state cooperation", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "The National Cyber Security Council is intended to coordinate preventive tools and the interdisciplinary cyber security 9 approaches of the public and the private sector."
+    }, 
+    {
+        "sentence_id,": "ccb9192931", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "security"
+                    }, 
+                    {
+                        "regulation and compliance": "security"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance"
+                ]
+            }
+        ], 
+        "sentence": "The National Cyber Security Council will complement and interlink IT management at federal level and the work of the IT Planning Council in the area of cyber security at a political and strategic level."
+    }, 
+    {
+        "sentence_id,": "e828df9670", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "security"
+                    }, 
+                    {
+                        "criminal legislation": "law"
+                    }, 
+                    {
+                        "criminal legislation": "law enforcement"
+                    }, 
+                    {
+                        "regulation and compliance": "security"
+                    }, 
+                    {
+                        "responsible agency": "private sector"
+                    }, 
+                    {
+                        "standardisation development": "private sector"
+                    }, 
+                    {
+                        "standardisation development": "capabilities"
+                    }, 
+                    {
+                        "manpower development": "private sector"
+                    }, 
+                    {
+                        "intra-state cooperation": "private sector"
+                    }, 
+                    {
+                        "public sector partnership": "private sector"
+                    }, 
+                    {
+                        "international cooperation": "cyberspace"
+                    }, 
+                    {
+                        "national legislation": "cyberspace"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "responsible agency", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "intra-state cooperation", 
+                    "public sector partnership", 
+                    "international cooperation", 
+                    "national legislation"
+                ]
+            }
+        ], 
+        "sentence": "Effective crime control also in cyberspace The capabilities of law enforcement agencies, the Federal Office for Information Security and the private sector in combating cyber crime, also with regard to protection against espionage and sabotage, must be strengthened."
+    }, 
+    {
+        "sentence_id,": "987faa643d", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "law"
+                    }, 
+                    {
+                        "criminal legislation": "law enforcement"
+                    }, 
+                    {
+                        "intra-state cooperation": "industry"
+                    }, 
+                    {
+                        "public sector partnership": "participation"
+                    }, 
+                    {
+                        "public sector partnership": "institutions"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "intra-state cooperation", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "To improve the exchange of know how in this area we intend to set up joint institutions with industry with the participation of the competent law enforcement agencies, which will act in an advisory capacity."
+    }, 
+    {
+        "sentence_id,": "94b8bc4701", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Projects to support partner countries with structural weaknesses will also serve the aim of combating cyber crime."
+    }, 
+    {
+        "sentence_id,": "01904ffd06", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "law"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation"
+                ]
+            }
+        ], 
+        "sentence": "To face up to the growing challenges of global cyber crime activities we will make a major effort to achieve global harmonization in criminal law based on the Council of Europe Cyber Crime Convention."
+    }, 
+    {
+        "sentence_id,": "4c054d962d", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Furthermore, we will examine whether additional conventions in this area may be necessary at UN level."
+    }, 
+    {
+        "sentence_id,": "2076988546", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "organization measures", 
+                    "cooperation", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "security"
+                    }, 
+                    {
+                        "regulation and compliance": "security"
+                    }, 
+                    {
+                        "policy": "cyberspace security"
+                    }, 
+                    {
+                        "responsible agency": "cyberspace security"
+                    }, 
+                    {
+                        "intra-state cooperation": "coordinated"
+                    }, 
+                    {
+                        "international cooperation": "cyberspace"
+                    }, 
+                    {
+                        "national legislation": "cyberspace"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "policy", 
+                    "responsible agency", 
+                    "intra-state cooperation", 
+                    "international cooperation", 
+                    "national legislation"
+                ]
+            }
+        ], 
+        "sentence": "Effective coordinated action to ensure cyber security in Europe and worldwide In global cyberspace security can be achieved only through coordinated tools at national and international level."
+    }, 
+    {
+        "sentence_id,": "e04d17160e", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "organization measures", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "security"
+                    }, 
+                    {
+                        "regulation and compliance": "security"
+                    }, 
+                    {
+                        "policy": "infrastructure"
+                    }, 
+                    {
+                        "responsible agency": "agency"
+                    }, 
+                    {
+                        "intra-agency cooperation": "information infrastructure"
+                    }, 
+                    {
+                        "public sector partnership": "institutions"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "policy", 
+                    "responsible agency", 
+                    "intra-agency cooperation", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "At EU level we support appropriate measures based on the action plan for the protection of critical information infrastructures, the extension and moderate enlargement of the mandate of the European Network and Information Security Agency (ENISA) in view of the changed threat situation in ICT and the pooling of IT competences in EU institutions."
+    }, 
+    {
+        "sentence_id,": "edcb4df885", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "security"
+                    }, 
+                    {
+                        "criminal legislation": "strategy"
+                    }, 
+                    {
+                        "regulation and compliance": "security"
+                    }, 
+                    {
+                        "policy": "strategy"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The EU Internal Security Strategy and the Digital Agenda provide guidance for further activities."
+    }, 
+    {
+        "sentence_id,": "bd981fd7c1", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "security"
+                    }, 
+                    {
+                        "regulation and compliance": "security"
+                    }, 
+                    {
+                        "intra-state cooperation": "coordinated"
+                    }, 
+                    {
+                        "intra-state cooperation": "organizations"
+                    }, 
+                    {
+                        "international cooperation": "international organizations"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "intra-state cooperation", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "We will shape our external cyber policy in such a way that German interests and ideas concerning cyber security are coordinated and pursued in international organizations, such as the United Nations, the OSCE, the Council of Europe, the OECD and NATO."
+    }, 
+    {
+        "sentence_id,": "790a15f325", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "manpower development": "power"
+                    }
+                ], 
+                "subcategory": [
+                    "manpower development"
+                ]
+            }
+        ], 
+        "sentence": "An increasingly multilateral approach must be brought in line with the necessity of sovereign evaluation and decision-making powers."
+    }, 
+    {
+        "sentence_id,": "25acc52ea5", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "cooperation", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "security"
+                    }, 
+                    {
+                        "regulation and compliance": "security"
+                    }, 
+                    {
+                        "international cooperation": "cyberspace"
+                    }, 
+                    {
+                        "national legislation": "cyberspace"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "international cooperation", 
+                    "national legislation"
+                ]
+            }
+        ], 
+        "sentence": "In this context, a code for state conduct in cyberspace (cyber code) should be established, which is signed by as many countries as possible and includes confidencebuilding security measures."
+    }, 
+    {
+        "sentence_id,": "17ce25ad0c", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "In the G8 framework we are currently working on intensifying anti-botnet activities."
+    }, 
+    {
+        "sentence_id,": "f6bdeaa2ae", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "security"
+                    }, 
+                    {
+                        "regulation and compliance": "security"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance"
+                ]
+            }
+        ], 
+        "sentence": "NATO serves as the basis of transatlantic security."
+    }, 
+    {
+        "sentence_id,": "68f71b292b", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "security"
+                    }, 
+                    {
+                        "regulation and compliance": "security"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance"
+                ]
+            }
+        ], 
+        "sentence": "Hence, NATO must take cyber security appropriately into account in its entire range of responsibilities."
+    }, 
+    {
+        "sentence_id,": "5c2982ed93", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "security"
+                    }, 
+                    {
+                        "regulation and compliance": "security"
+                    }, 
+                    {
+                        "standards": "security standards"
+                    }, 
+                    {
+                        "standards": "standards"
+                    }, 
+                    {
+                        "policy": "critical infrastructure"
+                    }, 
+                    {
+                        "policy": "critical infrastructures"
+                    }, 
+                    {
+                        "policy": "infrastructure"
+                    }, 
+                    {
+                        "standardisation development": "critical infrastructures"
+                    }, 
+                    {
+                        "intra-agency cooperation": "civilian"
+                    }, 
+                    {
+                        "public sector partnership": "critical infrastructure"
+                    }, 
+                    {
+                        "public sector partnership": "alliances"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "standards", 
+                    "policy", 
+                    "standardisation development", 
+                    "intra-agency cooperation", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "We are in favour of the alliances commitment to establishing uniform security standards, which Member States may also use for civilian critical infrastructures on a voluntary basis, as foreseen in NATOs new Strategic Concept."
+    }, 
+    {
+        "sentence_id,": "47007ce9ce", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "technology"
+                    }, 
+                    {
+                        "standardisation development": "information technology"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "standardisation development"
+                ]
+            }
+        ], 
+        "sentence": "Use of reliable and trustworthy information technology The availability of reliable IT systems and components must be ensured on a permanent basis."
+    }, 
+    {
+        "sentence_id,": "2004590af5", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "security"
+                    }, 
+                    {
+                        "regulation and compliance": "security"
+                    }, 
+                    {
+                        "standardisation development": "develop"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "standardisation development"
+                ]
+            }
+        ], 
+        "sentence": "The development of innovative protection plans for improved security which take into account social and economic aspects is strongly supported."
+    }, 
+    {
+        "sentence_id,": "95af4f1508", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "organization measures", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "security"
+                    }, 
+                    {
+                        "regulation and compliance": "security"
+                    }, 
+                    {
+                        "policy": "critical infrastructure"
+                    }, 
+                    {
+                        "policy": "infrastructure"
+                    }, 
+                    {
+                        "public sector partnership": "critical infrastructure"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "policy", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "To this end, we will continue and intensify research on IT security and on critical infrastructure protection."
+    }, 
+    {
+        "sentence_id,": "ce33196edd", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "standardisation development": "develop"
+                    }
+                ], 
+                "subcategory": [
+                    "standardisation development"
+                ]
+            }
+        ], 
+        "sentence": "Furthermore we will strengthen Germanys technological sovereignty and economic capacity in the entire range of core strategic IT competences, include them in our political strategies and develop them further."
+    }, 
+    {
+        "sentence_id,": "71b8eeae57", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Wherever it makes sense, we will pool our resources with those 11 of our partners and allies, particularly in Europe."
+    }, 
+    {
+        "sentence_id,": "87e4598cc6", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "technology"
+                    }
+                ], 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "We are in favour of diversity in technology."
+    }, 
+    {
+        "sentence_id,": "a2dfa4f4d4", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "security"
+                    }, 
+                    {
+                        "regulation and compliance": "security"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance"
+                ]
+            }
+        ], 
+        "sentence": "Our aim is to use components in critical security areas which are certified against an international recognized certification standard."
+    }, 
+    {
+        "sentence_id,": "78d21ff909", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "security"
+                    }, 
+                    {
+                        "regulation and compliance": "security"
+                    }, 
+                    {
+                        "standardisation development": "develop"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "standardisation development"
+                ]
+            }
+        ], 
+        "sentence": "Personnel development in federal authorities Given the strategic importance of cyber security, it must be examined as a priority whether additional staff is necessary in authorities in the interest of cyber security."
+    }, 
+    {
+        "sentence_id,": "fd888defc5", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Furthermore, intensified personnel exchange between federal authorities and appropriate further training measures will enhance interministerial cooperation."
+    }, 
+    {
+        "sentence_id,": "c48381559b", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "attack"
+                    }, 
+                    {
+                        "regulation and compliance": "attack"
+                    }, 
+                    {
+                        "certification": "attacks"
+                    }, 
+                    {
+                        "certification": "attack"
+                    }, 
+                    {
+                        "intra-state cooperation": "coordinated"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "certification", 
+                    "intra-state cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Tools to respond to cyber attacks If the state wants to be fully prepared for cyber attacks, a coordinated and comprehensive set of tools to respond to cyber attacks must be created in cooperation with the competent state authorities."
+    }, 
+    {
+        "sentence_id,": "7a4eb63abb", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "We will continue to assess the threat situation regularly and take appropriate protection measures."
+    }, 
+    {
+        "sentence_id,": "eb90c97005", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "manpower development": "power"
+                    }
+                ], 
+                "subcategory": [
+                    "manpower development"
+                ]
+            }
+        ], 
+        "sentence": "If necessary, we have to examine whether additional statutory powers must be created at federal or Lnder level."
+    }, 
+    {
+        "sentence_id,": "a23d3cb6d8", 
+        "tag": [
+            {
+                "category": [
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "public sector partnership": "institutions"
+                    }
+                ], 
+                "subcategory": [
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "Above all, the aims, mechanisms and institutions mentioned above must be internalized through a permanent exercise process with the relevant federal and Lnder authorities as well as businesses."
+    }, 
+    {
+        "sentence_id,": "e009f2df30", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "organization measures", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "security"
+                    }, 
+                    {
+                        "regulation and compliance": "security"
+                    }, 
+                    {
+                        "responsible agency": "federal government"
+                    }, 
+                    {
+                        "intra-state cooperation": "federal government"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "responsible agency", 
+                    "intra-state cooperation"
+                ]
+            }
+        ], 
+        "sentence": "12 Sustainable implementation With the implementation of the strategic objectives and measures the Federal Government contributes to ensuring cyber security and thus to freedom and prosperity in Germany."
+    }, 
+    {
+        "sentence_id,": "db65cd14f9", 
+        "tag": [
+            {
+                "category": [
+                    "cooperation", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "international cooperation": "cyberspace"
+                    }, 
+                    {
+                        "national legislation": "cyberspace"
+                    }
+                ], 
+                "subcategory": [
+                    "international cooperation", 
+                    "national legislation"
+                ]
+            }
+        ], 
+        "sentence": "A lot will depend on whether we succeed at international level in taking effective measures to protect cyberspace."
+    }, 
+    {
+        "sentence_id,": "42c5127221", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The information technologies used are subject to short innovation cycles."
+    }, 
+    {
+        "sentence_id,": "48cfddc47a", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "cooperation", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "technical"
+                    }, 
+                    {
+                        "international cooperation": "cyberspace"
+                    }, 
+                    {
+                        "national legislation": "cyberspace"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "international cooperation", 
+                    "national legislation"
+                ]
+            }
+        ], 
+        "sentence": "This means that the technical and social aspects of cyberspace will continue to change and bear not only new opportunities, but also new risks."
+    }, 
+    {
+        "sentence_id,": "e7ced59f7f", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "organization measures", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "security"
+                    }, 
+                    {
+                        "criminal legislation": "strategy"
+                    }, 
+                    {
+                        "regulation and compliance": "security"
+                    }, 
+                    {
+                        "policy": "strategy"
+                    }, 
+                    {
+                        "responsible agency": "federal government"
+                    }, 
+                    {
+                        "intra-state cooperation": "federal government"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "policy", 
+                    "responsible agency", 
+                    "intra-state cooperation"
+                ]
+            }
+        ], 
+        "sentence": "For this reason the Federal Government will regularly review whether the aims of the Cyber Security Strategy have been achieved under the overall control of the National Cyber Security Council and will adapt the strategies and measures to the given requirements and framework conditions."
+    }, 
+    {
+        "sentence_id,": "3839bd1943", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "security"
+                    }, 
+                    {
+                        "regulation and compliance": "security"
+                    }, 
+                    {
+                        "standards": "technology"
+                    }, 
+                    {
+                        "policy": "critical infrastructure"
+                    }, 
+                    {
+                        "policy": "infrastructure"
+                    }, 
+                    {
+                        "responsible agency": "agency"
+                    }, 
+                    {
+                        "standardisation development": "information technology"
+                    }, 
+                    {
+                        "public sector partnership": "critical infrastructure"
+                    }, 
+                    {
+                        "international cooperation": "cyberspace"
+                    }, 
+                    {
+                        "national legislation": "cyberspace"
+                    }, 
+                    {
+                        "reporting mechanism": "response"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "standards", 
+                    "policy", 
+                    "responsible agency", 
+                    "standardisation development", 
+                    "public sector partnership", 
+                    "international cooperation", 
+                    "national legislation", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "13 Abbreviations BBK Federal Office of Civil Protection and Disaster Assistance BfV Federal Office for the Protection of the Constitution BKA Federal Criminal Police Office BMI Federal Ministry of the Interior BND Federal Intelligence Service BPOL Federal Police BSI Federal Office for Information Security CERT Computer Emergency Response Team CIP Critical infrastructure protection ENISA European Network and Information Security Agency EU European Union G8 Group of leading industrialized nations in the world (Germany, USA, Japan, United Kingdom, Canada, France, Italy and the Russian Federation) IT Information technology NATO North Atlantic Treaty Organization OSZE Organization for Security and Co-operation in Europe ZKA Customs Criminological Office Definitions (Explanations and terminology used in this document) Cyberspace Cyberspace is the virtual space of all IT systems linked at data level on a global scale."
+    }, 
+    {
+        "sentence_id,": "2b412357e4", 
+        "tag": [
+            {
+                "category": [
+                    "cooperation", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "international cooperation": "cyberspace"
+                    }, 
+                    {
+                        "national legislation": "cyberspace"
+                    }
+                ], 
+                "subcategory": [
+                    "international cooperation", 
+                    "national legislation"
+                ]
+            }
+        ], 
+        "sentence": "The basis for cyberspace is the Internet as a universal and publicly accessible connection and transport network which can be complemented and further expanded by any number of additional data networks."
+    }, 
+    {
+        "sentence_id,": "d19dae00ba", 
+        "tag": [
+            {
+                "category": [
+                    "cooperation", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "international cooperation": "cyberspace"
+                    }, 
+                    {
+                        "national legislation": "cyberspace"
+                    }
+                ], 
+                "subcategory": [
+                    "international cooperation", 
+                    "national legislation"
+                ]
+            }
+        ], 
+        "sentence": "IT systems in an isolated virtual space are not part of cyberspace."
+    }, 
+    {
+        "sentence_id,": "fc5d5dbb49", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures", 
+                    "cooperation", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "security"
+                    }, 
+                    {
+                        "criminal legislation": "attack"
+                    }, 
+                    {
+                        "regulation and compliance": "security"
+                    }, 
+                    {
+                        "regulation and compliance": "attack"
+                    }, 
+                    {
+                        "certification": "attack"
+                    }, 
+                    {
+                        "international cooperation": "cyberspace"
+                    }, 
+                    {
+                        "national legislation": "cyberspace"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "certification", 
+                    "international cooperation", 
+                    "national legislation"
+                ]
+            }
+        ], 
+        "sentence": "Cyber attack, cyber espionage and cyber sabotage A cyber attack is an IT attack in cyberspace directed against one or several other IT systems and aimed at damaging IT security."
+    }, 
+    {
+        "sentence_id,": "0d0d341e53", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "confidentiality"
+                    }, 
+                    {
+                        "criminal legislation": "security"
+                    }, 
+                    {
+                        "regulation and compliance": "security"
+                    }, 
+                    {
+                        "regulation and compliance": "confidentiality"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance"
+                ]
+            }
+        ], 
+        "sentence": "The aims of IT security, confidentiality, integrity and availability may all or individually be compromised."
+    }, 
+    {
+        "sentence_id,": "2581998f99", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "confidentiality"
+                    }, 
+                    {
+                        "criminal legislation": "attack"
+                    }, 
+                    {
+                        "regulation and compliance": "confidentiality"
+                    }, 
+                    {
+                        "regulation and compliance": "attack"
+                    }, 
+                    {
+                        "certification": "attacks"
+                    }, 
+                    {
+                        "certification": "attack"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "Cyber attacks directed against the confidentiality of an IT system, which are launched 14 or managed by foreign intelligence services, are called cyber espionage."
+    }, 
+    {
+        "sentence_id,": "14dc435b7b", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "attack"
+                    }, 
+                    {
+                        "regulation and compliance": "attack"
+                    }, 
+                    {
+                        "certification": "attacks"
+                    }, 
+                    {
+                        "certification": "attack"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "Cyber attacks against the integrity and availability of IT systems are termed cyber sabotage."
+    }, 
+    {
+        "sentence_id,": "a09c27f120", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "cooperation", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "security"
+                    }, 
+                    {
+                        "regulation and compliance": "security"
+                    }, 
+                    {
+                        "intra-agency cooperation": "civilian"
+                    }, 
+                    {
+                        "international cooperation": "cyberspace"
+                    }, 
+                    {
+                        "national legislation": "cyberspace"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "intra-agency cooperation", 
+                    "international cooperation", 
+                    "national legislation"
+                ]
+            }
+        ], 
+        "sentence": "Cyber security and civilian and military cyber security (Global) cyber security is the desired objective of the IT security situation, in which the risks of global cyberspace have been reduced to an acceptable minimum."
+    }, 
+    {
+        "sentence_id,": "7a4deda601", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "cooperation", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "security"
+                    }, 
+                    {
+                        "regulation and compliance": "security"
+                    }, 
+                    {
+                        "international cooperation": "cyberspace"
+                    }, 
+                    {
+                        "national legislation": "cyberspace"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "international cooperation", 
+                    "national legislation"
+                ]
+            }
+        ], 
+        "sentence": "Hence, cyber security in Germany is the desired objective of the IT security situation, in which the risks of the German cyberspace have been reduced to an acceptable minimum."
+    }, 
+    {
+        "sentence_id,": "5b11007078", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "security"
+                    }, 
+                    {
+                        "regulation and compliance": "security"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance"
+                ]
+            }
+        ], 
+        "sentence": "Cyber security (in Germany) is the sum of suitable and appropriate measures."
+    }, 
+    {
+        "sentence_id,": "ea4a11d3cb", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "cooperation", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "security"
+                    }, 
+                    {
+                        "regulation and compliance": "security"
+                    }, 
+                    {
+                        "intra-agency cooperation": "civilian"
+                    }, 
+                    {
+                        "international cooperation": "cyberspace"
+                    }, 
+                    {
+                        "national legislation": "cyberspace"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "intra-agency cooperation", 
+                    "international cooperation", 
+                    "national legislation"
+                ]
+            }
+        ], 
+        "sentence": "Civilian cyber security focuses on all IT systems for civilian use in German cyberspace."
+    }, 
+    {
+        "sentence_id,": "bdbccb3f4d", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "cooperation", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "security"
+                    }, 
+                    {
+                        "regulation and compliance": "security"
+                    }, 
+                    {
+                        "international cooperation": "cyberspace"
+                    }, 
+                    {
+                        "national legislation": "cyberspace"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "international cooperation", 
+                    "national legislation"
+                ]
+            }
+        ], 
+        "sentence": "Military cyber security focuses on all IT systems for military use in German cyberspace."
+    }, 
+    {
+        "sentence_id,": "80120dfe1d", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "security"
+                    }, 
+                    {
+                        "regulation and compliance": "security"
+                    }, 
+                    {
+                        "policy": "critical infrastructure"
+                    }, 
+                    {
+                        "policy": "critical infrastructures"
+                    }, 
+                    {
+                        "policy": "infrastructure"
+                    }, 
+                    {
+                        "standardisation development": "critical infrastructures"
+                    }, 
+                    {
+                        "intra-state cooperation": "organizations"
+                    }, 
+                    {
+                        "public sector partnership": "critical infrastructure"
+                    }, 
+                    {
+                        "public sector partnership": "institutions"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "policy", 
+                    "standardisation development", 
+                    "intra-state cooperation", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "Critical infrastructures Critical infrastructures are organizations or institutions with major importance for the public good, whose failure or damage would lead to sustainable supply bottlenecks, considerable disturbance of public security or other dramatic consequences."
+    }, 
+    {
+        "sentence_id,": "f10a94139a", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "technology"
+                    }, 
+                    {
+                        "standardisation development": "information technology"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "standardisation development"
+                ]
+            }
+        ], 
+        "sentence": "At federal level, the following areas have been identified: Energy Information technology and telecommunication Transport Health Water Food Finance and insurance sector State and administration Media and culture 15 This brochure has been published free of charge as part of the public information efforts of the Federal Ministry of the Interior."
+    }, 
+    {
+        "sentence_id,": "e799f4593b", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "It may not be used by any political party, candidate or campaign workers during an election campaign for purposes of campaign advertising."
+    }, 
+    {
+        "sentence_id,": "a3169ebbdd", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "This applies to elections at the European, federal, state and local levels."
+    }, 
+    {
+        "sentence_id,": "5797323f12", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "In particular, distributing this publication at campaign events or at information stands of political parties, or inserting, stamping or attaching to it any political information or advertising constitutes misuse."
+    }, 
+    {
+        "sentence_id,": "d424cfbe6f", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Nor may it be passed on to third parties for purposes of campaign advertising."
+    }, 
+    {
+        "sentence_id,": "4b00ad30e4", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "organization measures", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "manner"
+                    }, 
+                    {
+                        "responsible agency": "federal government"
+                    }, 
+                    {
+                        "intra-state cooperation": "federal government"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "responsible agency", 
+                    "intra-state cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Regardless of when, by what means and in what quantities this publication was delivered to the recipient, even without reference to any upcoming election it may not be used in a manner that could be construed as bias by the Federal Government on behalf of any individual political group."
+    }, 
+    {
+        "sentence_id,": "325a0f04ef", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Imprint Published by: Federal Ministry of the Interior Alt-Moabit 101 D 10559 Berlin Edited by: Department IT 3 Design and production: MEDIA CONSULTA Deutschland GmbH Photo credits: iStockphoto, shutterstock English translation: Federal Ministry of the Interior Translation Service Edition: February 2011 www.bmi.bund.de"
+    }
+]

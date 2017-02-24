@@ -1,0 +1,3415 @@
+[
+    {
+        "sentence_id,": "b81663133f", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "law"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation"
+                ]
+            }
+        ], 
+        "sentence": "Republic of Malawi NATIONAL ICT POLICY An ICT-led Malawi 2013 TABLE OF CONTENTS Item Page FOREWORD ................................................................................................ii PREFACE ....................................................... Error!"
+    }, 
+    {
+        "sentence_id,": "6bd38d6551", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "strategy"
+                    }, 
+                    {
+                        "criminal legislation": "law"
+                    }, 
+                    {
+                        "standards": "technology"
+                    }, 
+                    {
+                        "policy": "strategy"
+                    }, 
+                    {
+                        "responsible agency": "agency"
+                    }, 
+                    {
+                        "standardisation development": "information technology"
+                    }, 
+                    {
+                        "standardisation development": "develop"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "standards", 
+                    "policy", 
+                    "responsible agency", 
+                    "standardisation development"
+                ]
+            }
+        ], 
+        "sentence": "MONITORING AND EVALUATION ..................................................... 16 i ii iii LIST OF ACRONYMS AND ABBREVIATIONS ICT Information and Communications Technology MACRA Malawi Communications Regulatory Authority MDGs Millennium Development Goals MGDS II Malawi Growth & Development Strategy II MITA Malawi Information Technology Agency TCP/IP Transmission Control Protocol/Internet Protocol UNECA United Nations Economic Commission for Africa UNDP United Nations Development Programme iv GLOSSARY OF TERMS Broadcasting: any communication or transmission of any message or signal to the public by means of any electronic gadgets."
+    }, 
+    {
+        "sentence_id,": "49d7a70ed8", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "law"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation"
+                ]
+            }
+        ], 
+        "sentence": "e-Government Service: public service provided electronically by a Ministry or Government department, local authority, or body established by or under any law or controlled or funded by the Government."
+    }, 
+    {
+        "sentence_id,": "a90930f4da", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "technology"
+                    }
+                ], 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "ICT: (Information and Communications Technology) the technologies including computers, telecommunication, audio-visual systems, and postal systems that enable the collection, processing, transportation and delivery of information and communication services to users."
+    }, 
+    {
+        "sentence_id,": "dacade7e77", 
+        "tag": [
+            {
+                "category": [
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "intra-state cooperation": "society"
+                    }
+                ], 
+                "subcategory": [
+                    "intra-state cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Information Society: social, business and educational environment where individuals and organisations communicate and access the worlds commercial, educational and entertainment resources over a universal network linking them together."
+    }, 
+    {
+        "sentence_id,": "2733eb67ce", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Internet: an interconnected system of networks that connects computers via the Transmission Control Protocol Internet Protocol (TCP/IP) and includes future versions thereof."
+    }, 
+    {
+        "sentence_id,": "1575095936", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "law"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation"
+                ]
+            }
+        ], 
+        "sentence": "Local Content: information that emphasize the culture and language diversity of Malawi and are produced by or under Malawians control."
+    }, 
+    {
+        "sentence_id,": "bb7ac44920", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "standardisation development": "develop"
+                    }
+                ], 
+                "subcategory": [
+                    "standardisation development"
+                ]
+            }
+        ], 
+        "sentence": "Knowledge-based Economy: Is an economy which embraces development and utilisation of ICT in its socio-economic development activities."
+    }, 
+    {
+        "sentence_id,": "1f310c9b5e", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Operator: a person or organisation that operates ICT facilities and/or services of telecommunications, broadcasting, IT applications, or postal services."
+    }, 
+    {
+        "sentence_id,": "3a5aae9ada", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "standardisation development": "regulation"
+                    }
+                ], 
+                "subcategory": [
+                    "standardisation development"
+                ]
+            }
+        ], 
+        "sentence": "Regulation: the process of ensuring that public utilities operate in accordance with legal rules."
+    }, 
+    {
+        "sentence_id,": "2ba5868060", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "These rules may govern the offering of service by an operator and includes practices, classification and definitions."
+    }, 
+    {
+        "sentence_id,": "f4e052b3c7", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "v Telecommunication: any domestic or international transmission of information by wire, radio waves, optical media, or other electromagnetic systems, between or among points of users choosing."
+    }, 
+    {
+        "sentence_id,": "dabe066792", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Tele-density: Percentage of telephone users in a population."
+    }, 
+    {
+        "sentence_id,": "e62602efc5", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Universal Access: allowing everyone in the country to have access to ICT facilities within a reasonable distance and at a reasonable cost."
+    }, 
+    {
+        "sentence_id,": "6b19885347", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Universal Service: a policy of the Government to make ICT services, including advanced ICT services available throughout the country at affordable prices so that they are either available or easily accessible to anyone whenever they are needed, regardless of their geographic or physical location, and with due regard to people with special needs."
+    }, 
+    {
+        "sentence_id,": "a4602f8b3a", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "law"
+                    }, 
+                    {
+                        "standards": "technology"
+                    }, 
+                    {
+                        "standardisation development": "develop"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "standards", 
+                    "standardisation development"
+                ]
+            }
+        ], 
+        "sentence": "INTRODUCTION The National Information and Communications Technology Policy has been developed by Government of Malawi to give direction on ICT development in the country."
+    }, 
+    {
+        "sentence_id,": "4017fa7626", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "infrastructure"
+                    }, 
+                    {
+                        "standardisation development": "develop"
+                    }
+                ], 
+                "subcategory": [
+                    "policy", 
+                    "standardisation development"
+                ]
+            }
+        ], 
+        "sentence": "The ICT Policy will support the national goal of wealth creation and reduction of poverty through sustainable economic growth and infrastructure development."
+    }, 
+    {
+        "sentence_id,": "baa9d21982", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "law"
+                    }, 
+                    {
+                        "standardisation development": "develop"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "standardisation development"
+                ]
+            }
+        ], 
+        "sentence": "The policy is providing a framework for deployment, exploitation and development of ICT to support the process of accelerated socio-economic development in Malawi."
+    }, 
+    {
+        "sentence_id,": "44bc742e23", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "standardisation development": "develop"
+                    }
+                ], 
+                "subcategory": [
+                    "standardisation development"
+                ]
+            }
+        ], 
+        "sentence": "Government development, will provide direction for systematic implementation, monitoring and review ICT program through this policy."
+    }, 
+    {
+        "sentence_id,": "b749a1b349", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "standardisation development": "develop"
+                    }
+                ], 
+                "subcategory": [
+                    "standardisation development"
+                ]
+            }
+        ], 
+        "sentence": "Government aims at consolidating an ICT approach for the mobilization, allocation and utilization of resources to realize institutional, community, sector and national development policies and strategies."
+    }, 
+    {
+        "sentence_id,": "6f50e86626", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "technology"
+                    }, 
+                    {
+                        "standardisation development": "information technology"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "standardisation development"
+                ]
+            }
+        ], 
+        "sentence": "This ICT Policy covers Information Technology (IT), Telecommunications, Broadcasting and Postal services."
+    }, 
+    {
+        "sentence_id,": "197767949c", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The ICT Policy aims at guiding: a."
+    }, 
+    {
+        "sentence_id,": "70d6449c89", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The provision of ICT services in the rural areas and to the vulnerable groups; b."
+    }, 
+    {
+        "sentence_id,": "adf92a21bf", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "priority i"
+                    }, 
+                    {
+                        "policy": "formulation"
+                    }, 
+                    {
+                        "standardisation development": "develop"
+                    }, 
+                    {
+                        "standardisation development": "formulation"
+                    }
+                ], 
+                "subcategory": [
+                    "policy", 
+                    "standardisation development"
+                ]
+            }
+        ], 
+        "sentence": "The investment in priority ICT areas; c. The Public Sector in the planning for the national development and utilization of ICT; and d. The formulation of an appropriate regulatory and legal framework aimed at safeguarding fundamental human rights, protecting privacy, promoting electronic services, and promoting competition in the ICT sector."
+    }, 
+    {
+        "sentence_id,": "7357521724", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "law"
+                    }, 
+                    {
+                        "standardisation development": "develop"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "standardisation development"
+                ]
+            }
+        ], 
+        "sentence": "BACKGROUND ICT has increasingly become one of the dominant factors affecting every facet of development not only in Malawi but the world over."
+    }, 
+    {
+        "sentence_id,": "7613e2b81d", 
+        "tag": [
+            {
+                "category": [
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "intra-state cooperation": "society"
+                    }
+                ], 
+                "subcategory": [
+                    "intra-state cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Significant ICT advances are constantly taking place and continue to impact on socio-economic operations at various levels of society."
+    }, 
+    {
+        "sentence_id,": "4c17816955", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "ICT advances have brought about changes in the way business is conducted."
+    }, 
+    {
+        "sentence_id,": "ba047dfe08", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "standardisation development": "develop"
+                    }, 
+                    {
+                        "intra-state cooperation": "organizations"
+                    }
+                ], 
+                "subcategory": [
+                    "standardisation development", 
+                    "intra-state cooperation"
+                ]
+            }
+        ], 
+        "sentence": "At the moment nations and organizations are investing 1 more resources into the development and use of ICT in order to be more efficient and effective in their operations."
+    }, 
+    {
+        "sentence_id,": "d51c5d84aa", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "organization measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "law"
+                    }, 
+                    {
+                        "policy": "infrastructure"
+                    }, 
+                    {
+                        "standardisation development": "develop"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "policy", 
+                    "standardisation development"
+                ]
+            }
+        ], 
+        "sentence": "Malawi, as one of the developing economies in the world, has over the years faced a number of socio-economic challenges which are associated, among other things, with inadequate communication infrastructure, very low utilization of ICTs and lack of information."
+    }, 
+    {
+        "sentence_id,": "b553c4afff", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "law"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation"
+                ]
+            }
+        ], 
+        "sentence": "Major reforms in the ICT sector started in the 1990s through separation and commercialization of the then incumbent Telecom operator and Post Office into Malawi Telecom Limited (MTL) and Malawi Postal Corporation (MPC), respectively."
+    }, 
+    {
+        "sentence_id,": "e2f4d1d6e1", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "law"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation"
+                ]
+            }
+        ], 
+        "sentence": "In addition, through the Act, the Malawi Communications Regulatory Authority (MACRA) was established."
+    }, 
+    {
+        "sentence_id,": "ecf2058952", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "standardisation development": "develop"
+                    }
+                ], 
+                "subcategory": [
+                    "standardisation development"
+                ]
+            }
+        ], 
+        "sentence": "However, with passage of time, the 1998 Communications Sector Policy has been overtaken by the significant developments in ICT."
+    }, 
+    {
+        "sentence_id,": "9105a74279", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Use of mobile and fixed telephones (tele-density) has improved from 2.63 percent to about 27 percent in the same period."
+    }, 
+    {
+        "sentence_id,": "d805c099ba", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "This is largely due to the increase in use of mobile telephones."
+    }, 
+    {
+        "sentence_id,": "2ce0a1f0f5", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "law"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation"
+                ]
+            }
+        ], 
+        "sentence": "While data on computer ownership and use for Malawi is not available, the country has a very low computer density as compared to other countries in the African region."
+    }, 
+    {
+        "sentence_id,": "708d7ff6a7", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Furthermore, most of the telephones and computers are concentrated in urban areas."
+    }, 
+    {
+        "sentence_id,": "5e33ac575c", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "law"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation"
+                ]
+            }
+        ], 
+        "sentence": "Government of Malawi, through various initiatives, has provided a total of 51 tele-centres that are currently operating in rural areas, providing access to ICT equipment and Internet services to the general public."
+    }, 
+    {
+        "sentence_id,": "6a54341ec7", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "law"
+                    }, 
+                    {
+                        "standardisation development": "develop"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "standardisation development"
+                ]
+            }
+        ], 
+        "sentence": "Currently Malawi is ranked number 159 out of the 190 countries on the UNDPs e-government development index."
+    }, 
+    {
+        "sentence_id,": "f340819b15", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "law"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation"
+                ]
+            }
+        ], 
+        "sentence": "For Malawi to play a meaningful role in the global economy, the above status needs to improve."
+    }, 
+    {
+        "sentence_id,": "42625cdd3d", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "standardisation development": "develop"
+                    }
+                ], 
+                "subcategory": [
+                    "standardisation development"
+                ]
+            }
+        ], 
+        "sentence": "LINKAGES WITH OTHER RELATED POLICIES A number of existing policies, legislation and programmes have in one way or another informed and fostered the development of this ICT Policy."
+    }, 
+    {
+        "sentence_id,": "4d6d5eb663", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "technology"
+                    }, 
+                    {
+                        "standardisation development": "develop"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "standardisation development"
+                ]
+            }
+        ], 
+        "sentence": "Within the ICT 2 sector, relevant policies that have contributed to the development of the Policy including the 1998 Communications Sector Policy, Digital Broadcasting Policy of 2013 and the Science and Technology Policy."
+    }, 
+    {
+        "sentence_id,": "1f8055f6d7", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "strategy"
+                    }, 
+                    {
+                        "criminal legislation": "law"
+                    }, 
+                    {
+                        "policy": "strategy"
+                    }, 
+                    {
+                        "standardisation development": "develop"
+                    }, 
+                    {
+                        "intra-state cooperation": "partnership"
+                    }, 
+                    {
+                        "intra-state cooperation": "partnerships"
+                    }, 
+                    {
+                        "public sector partnership": "partnerships"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "policy", 
+                    "standardisation development", 
+                    "intra-state cooperation", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "2020, the Other policies include the Vision Malawi Growth and Development Strategy Development Goals (Goal 8: II, the Millennium Developing Global Partnerships) and the 1998 National Decentralization Policy."
+    }, 
+    {
+        "sentence_id,": "ed6f2ec28b", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "In addition to the above, several existing enactments and programs have also encouraged this process."
+    }, 
+    {
+        "sentence_id,": "879f97e5ea", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "law"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation"
+                ]
+            }
+        ], 
+        "sentence": "PROBLEM DEFINITION In terms of the ICT Sector, Malawi is faced with the following challenges: i."
+    }, 
+    {
+        "sentence_id,": "75aa21859c", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "infrastructure"
+                    }
+                ], 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Inadequate ICT infrastructure especially in the rural areas."
+    }, 
+    {
+        "sentence_id,": "e7cb1d0abf", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "As of 2012, there was a total of only 2,112 kilometres of fiber optic cable in the country, concentrated in urban areas."
+    }, 
+    {
+        "sentence_id,": "ef20453fcb", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "law"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation"
+                ]
+            }
+        ], 
+        "sentence": "The situation described above makes it a challenge for Malawi to provide electronic services to the general public, especially to those that reside in rural areas."
+    }, 
+    {
+        "sentence_id,": "fa5df02d83", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "standardisation development": "research and development"
+                    }, 
+                    {
+                        "standardisation development": "develop"
+                    }
+                ], 
+                "subcategory": [
+                    "standardisation development"
+                ]
+            }
+        ], 
+        "sentence": "Underdeveloped research and development capacity in ICT."
+    }, 
+    {
+        "sentence_id,": "b33dbf6b63", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "No patented ICT-based innovation has been recorded in the country."
+    }, 
+    {
+        "sentence_id,": "5af4c47b57", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The country imports almost all of its ICT products and services."
+    }, 
+    {
+        "sentence_id,": "2101772d38", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Inadequate specialized ICT professionals and institutional capacity."
+    }, 
+    {
+        "sentence_id,": "1b38544c79", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "There are very few certified professionals in specialist ICT areas."
+    }, 
+    {
+        "sentence_id,": "f220445105", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "law"
+                    }, 
+                    {
+                        "standardisation development": "develop"
+                    }, 
+                    {
+                        "public sector partnership": "institutions"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "standardisation development", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "Malawi continues to depend on international experts as well as institutions for capacity development and for implementing and managing complex ICT initiatives."
+    }, 
+    {
+        "sentence_id,": "a2139b095a", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "infrastructure"
+                    }
+                ], 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "High investment cost for ICT infrastructure."
+    }, 
+    {
+        "sentence_id,": "e11401e23c", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "infrastructure"
+                    }
+                ], 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "ICT infrastructure is heavily dependent on imported material."
+    }, 
+    {
+        "sentence_id,": "9c55d3a08c", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "infrastructure"
+                    }
+                ], 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Linked to the above challenge, experts for constructing the infrastructure have to be imported."
+    }, 
+    {
+        "sentence_id,": "6071364aca", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Return on investment is low, especially in the rural areas due to the low telephone and computer use in those areas, and investors shun from investing in the rural areas."
+    }, 
+    {
+        "sentence_id,": "1d84218ba4", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "law"
+                    }, 
+                    {
+                        "policy": "infrastructure"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "This is evidenced through the inadequate ICT infrastructure in Malawian rural areas."
+    }, 
+    {
+        "sentence_id,": "5a79fedcb4", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "v. Lack of local and relevant Internet content and e-services that may be useful to the rural communities makes it difficult to implement ICT programmes."
+    }, 
+    {
+        "sentence_id,": "6052091db2", 
+        "tag": [
+            {
+                "category": [
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "intra-state cooperation": "society"
+                    }, 
+                    {
+                        "public sector partnership": "participation"
+                    }
+                ], 
+                "subcategory": [
+                    "intra-state cooperation", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "Lack of legal instruments for protection of individuals and societies from abuse arising from the use of ICT and participation in information society."
+    }, 
+    {
+        "sentence_id,": "ff5581d9d8", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "law"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation"
+                ]
+            }
+        ], 
+        "sentence": "Users do not trust online and electronic services in the absence of the law."
+    }, 
+    {
+        "sentence_id,": "a01fb7439e", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Lack of awareness of ICT and e-services and their potential."
+    }, 
+    {
+        "sentence_id,": "49c5d810a7", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "law"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation"
+                ]
+            }
+        ], 
+        "sentence": "Awareness programmes on ICT and ICT-based services have not been implemented on a large scale in Malawi due to a lack of coordination."
+    }, 
+    {
+        "sentence_id,": "d9c78e5586", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Low levels of online public services and low levels of engaging the citizens using ICTs."
+    }, 
+    {
+        "sentence_id,": "1ea0352fe7", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "standardisation development": "develop"
+                    }
+                ], 
+                "subcategory": [
+                    "standardisation development"
+                ]
+            }
+        ], 
+        "sentence": "There has never been a deliberate policy to facilitate the provision of electronic platforms for citizen engagement in the development 4 process."
+    }, 
+    {
+        "sentence_id,": "15573170d4", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Public entities, therefore, have not been encouraged to ensure that their services are available online and electronically."
+    }, 
+    {
+        "sentence_id,": "16c0d07a15", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The above challenges are of huge magnitude and have a negative impact on the growth of the economy."
+    }, 
+    {
+        "sentence_id,": "c038d9ded5", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "law"
+                    }, 
+                    {
+                        "standardisation development": "develop"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "standardisation development"
+                ]
+            }
+        ], 
+        "sentence": "In addition, the e-government development index of 2011 ranks Malawi on number 159 out of 190 countries in the World."
+    }, 
+    {
+        "sentence_id,": "8cbcb6b725", 
+        "tag": [
+            {
+                "category": [
+                    "cooperation", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "intra-state cooperation": "coordinated"
+                    }, 
+                    {
+                        "reporting mechanism": "response"
+                    }
+                ], 
+                "subcategory": [
+                    "intra-state cooperation", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "Largely responses to the problems have been uncoordinated and far apart."
+    }, 
+    {
+        "sentence_id,": "c261e52c75", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "infrastructure"
+                    }, 
+                    {
+                        "reporting mechanism": "response"
+                    }
+                ], 
+                "subcategory": [
+                    "policy", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "The following section elaborates the responses to specific problems: To address the challenge of inadequate ICT infrastructure especially in the rural areas, government has established tele-centres in rural areas."
+    }, 
+    {
+        "sentence_id,": "2289d63c23", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "law"
+                    }, 
+                    {
+                        "policy": "infrastructure"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Government is also implementing a Regional Communication Infrastructure Program Malawi Project (RCIP-MW) that will implement fiber optic cable connectivity to Tanzania with very high speed Internet Capacity."
+    }, 
+    {
+        "sentence_id,": "823ab95e19", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "standardisation development": "develop"
+                    }
+                ], 
+                "subcategory": [
+                    "standardisation development"
+                ]
+            }
+        ], 
+        "sentence": "Government is currently reviewing the Communications Act (1998) and drafting the Electronic Transactions and Management Bill in order to address the challenges that are affecting the development of ICT in the country."
+    }, 
+    {
+        "sentence_id,": "3a0e8e0421", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Government is implementing an e-Schools initiative where computer laboratories with internet access are being implemented in public schools."
+    }, 
+    {
+        "sentence_id,": "1d90a32c71", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "standardisation development": "develop"
+                    }, 
+                    {
+                        "intra-state cooperation": "society"
+                    }
+                ], 
+                "subcategory": [
+                    "standardisation development", 
+                    "intra-state cooperation"
+                ]
+            }
+        ], 
+        "sentence": "The development of this policy will, among other things, help Government and various stakeholders to effectively deal with the above mentioned and any emerging problems associated with ICT at different levels of society."
+    }, 
+    {
+        "sentence_id,": "c318278818", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "law"
+                    }, 
+                    {
+                        "standardisation development": "develop"
+                    }, 
+                    {
+                        "intra-state cooperation": "society"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "standardisation development", 
+                    "intra-state cooperation"
+                ]
+            }
+        ], 
+        "sentence": "PURPOSE OF THE POLICY Given the benefits and opportunities offered by ICT, it is acknowledged that Malawi cannot effectively forge ahead with its development agenda without putting in place an appropriate framework for ICT to support and accelerate various initiatives and interventions at all levels of society."
+    }, 
+    {
+        "sentence_id,": "0bfc8ec293", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "organization measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "law"
+                    }, 
+                    {
+                        "policy": "policy and"
+                    }, 
+                    {
+                        "standardisation development": "develop"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "policy", 
+                    "standardisation development"
+                ]
+            }
+        ], 
+        "sentence": "The policy is also based on the Policy Framework Document: An Integrated ICT-led Socio-economic Development Policy and Plan Development Framework for Malawi."
+    }, 
+    {
+        "sentence_id,": "4f18aec56f", 
+        "tag": [
+            {
+                "category": [
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "intra-state cooperation": "society"
+                    }
+                ], 
+                "subcategory": [
+                    "intra-state cooperation"
+                ]
+            }
+        ], 
+        "sentence": "5 In this Policy, Government has defined priority areas that will have a huge impact in the realization of an information society and knowledge-based economy."
+    }, 
+    {
+        "sentence_id,": "533d8dc23a", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "law"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation"
+                ]
+            }
+        ], 
+        "sentence": "As Malawi implements the policy, the following benefits are expected to be realised: job creation and foreign currency savings through local production of ICTbased products and services; higher education status for the country due to the increased access to education and learning materials at all levels of education; lower doctor-patient ratios and improved access to medical care and information; diversified marketing opportunities and increased income for the country."
+    }, 
+    {
+        "sentence_id,": "41a690041f", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "infrastructure"
+                    }
+                ], 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Some of the initiatives that will be implemented through this policy include improvement of ICT infrastructure and connectivity to international internet routes with increased internet bandwidth."
+    }, 
+    {
+        "sentence_id,": "43f3f9a355", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "These initiatives are intended to bring down the cost of communication especially for the internet-based applications and services."
+    }, 
+    {
+        "sentence_id,": "1e90c1d743", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Through this policy, Government will establish a legal and regulatory framework to protect consumers of ICT products and services."
+    }, 
+    {
+        "sentence_id,": "f7697278bc", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "standardisation development": "develop"
+                    }, 
+                    {
+                        "intra-state cooperation": "sectors"
+                    }
+                ], 
+                "subcategory": [
+                    "standardisation development", 
+                    "intra-state cooperation"
+                ]
+            }
+        ], 
+        "sentence": "OVERAL POLICY GOAL The goal of the ICT Policy is to contribute to socio-economic development through maximum integration of ICT in all sectors and the provision of ICT services to the rural areas."
+    }, 
+    {
+        "sentence_id,": "4fd6e4c2d2", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "OVERAL POLICY OUTCOMES The following outcomes will be realized after implementing this policy: a."
+    }, 
+    {
+        "sentence_id,": "e97619a916", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Increased access to basic health and educational facilities; and increased skills in ICT; b."
+    }, 
+    {
+        "sentence_id,": "fcd5ece936", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "law"
+                    }, 
+                    {
+                        "standardisation development": "develop"
+                    }, 
+                    {
+                        "intra-state cooperation": "industry"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "standardisation development", 
+                    "intra-state cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Improved engagement of citizens, increased access to Government services and improved Government transparency; 6 c. Vibrant ICT industry that will facilitate the development of ICT products and services as well invigorating other industries; d. Universal Access to ICT Services; e. Diversified income opportunities for Malawi; f. Provision of enhanced ICT services in a secure and trustworthy environment; g. Professional and world-class ICT-based products and services; h. Improved access to relevant information and public services."
+    }, 
+    {
+        "sentence_id,": "84b3eb3c25", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "roadmap for governance": "policy objectives"
+                    }, 
+                    {
+                        "standardisation development": "develop"
+                    }, 
+                    {
+                        "intra-state cooperation": "society"
+                    }, 
+                    {
+                        "intra-state cooperation": "sectors"
+                    }
+                ], 
+                "subcategory": [
+                    "roadmap for governance", 
+                    "standardisation development", 
+                    "intra-state cooperation"
+                ]
+            }
+        ], 
+        "sentence": "OVERAL POLICY OBJECTIVES The overall objective of the policy is to facilitate the creation of an enabling environment for efficient, effective and sustainable utilisation, exploitation and development of ICT in all sectors of the economy, including the rural and underserved communities, in order to attain an information-rich and knowledgebased society and economy."
+    }, 
+    {
+        "sentence_id,": "07d3b7fe6c", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "law"
+                    }, 
+                    {
+                        "intra-state cooperation": "society"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "intra-state cooperation"
+                ]
+            }
+        ], 
+        "sentence": "POLICY PRIORITY AREAS The transformation of Malawi into a predominantly information-rich society and knowledge-based economy requires targeting areas of priority and of major contribution to the economy in a more integrated approach."
+    }, 
+    {
+        "sentence_id,": "064ca23930", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Universal Access of ICT and ICT related services."
+    }, 
+    {
+        "sentence_id,": "b3dbd6e916", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "law"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation"
+                ]
+            }
+        ], 
+        "sentence": "STRATEGIC ICT LEADERSHIP An analysis of Malawis ICT environment currently indicates that there is need to build and enhance ICT strategic leadership for an integrated and responsive national ICT programme."
+    }, 
+    {
+        "sentence_id,": "fd128be07b", 
+        "tag": [
+            {
+                "category": [
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "intra-state cooperation": "society"
+                    }
+                ], 
+                "subcategory": [
+                    "intra-state cooperation"
+                ]
+            }
+        ], 
+        "sentence": "The policy aims at establishing strategic ICT leadership at all levels of society to take the lead in sourcing; creating an attractive environment for investors and consumers; identifying areas needing priority funding and support; and obtaining and directing resources."
+    }, 
+    {
+        "sentence_id,": "e2a98f6ac0", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Objective: To provide sustained high level ICT leadership and championship oversight, inspiration and political goodwill."
+    }, 
+    {
+        "sentence_id,": "b2eb6b99a3", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Policy Statement 1: The policy will ensure that Government shall raise the level of awareness among those in leadership positions on the role, use, application and potential of ICT."
+    }, 
+    {
+        "sentence_id,": "a1e1a03b6f", 
+        "tag": [
+            {
+                "category": [
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "intra-state cooperation": "society"
+                    }
+                ], 
+                "subcategory": [
+                    "intra-state cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Policy Statement 2: The policy will ensure that Government shall raise the profile of ICT in the society and promote confidence in utilizing ICTs to the citizens."
+    }, 
+    {
+        "sentence_id,": "436b34084e", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "standardisation development": "develop"
+                    }
+                ], 
+                "subcategory": [
+                    "standardisation development"
+                ]
+            }
+        ], 
+        "sentence": "HUMAN CAPITAL DEVELOPMENT The value of human capital is increased through education, healthcare and acquisition of skills through training."
+    }, 
+    {
+        "sentence_id,": "d74566b6dd", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "law"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation"
+                ]
+            }
+        ], 
+        "sentence": "Currently, there is limited access to health, education and training services by the majority of Malawians."
+    }, 
+    {
+        "sentence_id,": "1a4d1cdf33", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "standardisation development": "develop"
+                    }, 
+                    {
+                        "intra-state cooperation": "sectors"
+                    }
+                ], 
+                "subcategory": [
+                    "standardisation development", 
+                    "intra-state cooperation"
+                ]
+            }
+        ], 
+        "sentence": "The integration of ICT in service delivery within the education and health sectors will facilitate and accelerate interventions in human capital development."
+    }, 
+    {
+        "sentence_id,": "75d5e4cbd8", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Objective: To increase access to healthcare, education and training facilities through ICT utilization."
+    }, 
+    {
+        "sentence_id,": "bdf88d2178", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "manpower development": "education system"
+                    }
+                ], 
+                "subcategory": [
+                    "manpower development"
+                ]
+            }
+        ], 
+        "sentence": "Policy Statement 1: The policy will ensure that Government shall integrate ICTs in the education systems at all levels in order to improve access to and quality of education; improve management of education systems."
+    }, 
+    {
+        "sentence_id,": "6edcce8e10", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Policy Statement 2: The policy will ensure that Government shall integrate ICTs in the health delivery systems at all levels in order to improve access to the 8 nations limited health facilities, improve management of health services and information dissemination, and enhance medical research."
+    }, 
+    {
+        "sentence_id,": "2e30f18331", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "standardisation development": "develop"
+                    }
+                ], 
+                "subcategory": [
+                    "standardisation development"
+                ]
+            }
+        ], 
+        "sentence": "Policy Statement 3: Government shall develop a large pool of highly skilled ICT personnel to carry out ICT research and develop ICT innovations within the country."
+    }, 
+    {
+        "sentence_id,": "df4e7911e0", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "E-GOVERNMENT SERVICES Electronic government is the utilisation of ICTs in provision of public services."
+    }, 
+    {
+        "sentence_id,": "d998fb434e", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "standardisation development": "accountability"
+                    }
+                ], 
+                "subcategory": [
+                    "standardisation development"
+                ]
+            }
+        ], 
+        "sentence": "Use of ICTs enhances accountability and promotes equitable allocation and distribution of public resources."
+    }, 
+    {
+        "sentence_id,": "c29d570a16", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "security"
+                    }, 
+                    {
+                        "regulation and compliance": "security"
+                    }, 
+                    {
+                        "policy": "national security"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "ICT plays a crucial role in improving the efficiency of the operations of the public service; particularly in improving the delivery of quality service to the general public and the provision of national security."
+    }, 
+    {
+        "sentence_id,": "0f36101e9e", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "law"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation"
+                ]
+            }
+        ], 
+        "sentence": "Malawi is currently ranked 159 out of 190 countries due to its low utilisation of ICTs for public service provision."
+    }, 
+    {
+        "sentence_id,": "366fd48186", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "law"
+                    }, 
+                    {
+                        "public sector partnership": "other stakeholders"
+                    }, 
+                    {
+                        "public sector partnership": "institutions"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "Policy Statement 1: Government shall deploy ICTs to facilitate effective and efficient public service delivery and interaction between the public service and citizens of Malawi, companies, government institutions, cooperating partners and other stakeholders of the Government of Malawi; Policy Statement 2: Government shall deploy ICTs in order to enhance oversight functions in Government."
+    }, 
+    {
+        "sentence_id,": "e9dfb23912", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "law"
+                    }, 
+                    {
+                        "intra-state cooperation": "industry"
+                    }, 
+                    {
+                        "public sector partnership": "industry sector"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "intra-state cooperation", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "ICT IN INDUSTRIES Malawi is currently promoting the production of export-quality products and services through its local industry sector."
+    }, 
+    {
+        "sentence_id,": "7372f415d7", 
+        "tag": [
+            {
+                "category": [
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "intra-state cooperation": "industry"
+                    }
+                ], 
+                "subcategory": [
+                    "intra-state cooperation"
+                ]
+            }
+        ], 
+        "sentence": "However, the country still depends on imported goods as the local industry is unable to meet even the internal demands."
+    }, 
+    {
+        "sentence_id,": "a4bc0a532f", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "law"
+                    }, 
+                    {
+                        "standardisation development": "develop"
+                    }, 
+                    {
+                        "intra-state cooperation": "industry"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "standardisation development", 
+                    "intra-state cooperation"
+                ]
+            }
+        ], 
+        "sentence": "The ICT industry in Malawi is under-developed."
+    }, 
+    {
+        "sentence_id,": "b4731465d2", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "law"
+                    }, 
+                    {
+                        "standardisation development": "develop"
+                    }, 
+                    {
+                        "intra-state cooperation": "industry"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "standardisation development", 
+                    "intra-state cooperation"
+                ]
+            }
+        ], 
+        "sentence": "The growth of the ICT industry, if properly harnessed, will influence the rapid development of all industries in Malawi."
+    }, 
+    {
+        "sentence_id,": "8814e45877", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "responsible agency": "private sector"
+                    }, 
+                    {
+                        "standardisation development": "research and development"
+                    }, 
+                    {
+                        "standardisation development": "private sector"
+                    }, 
+                    {
+                        "standardisation development": "develop"
+                    }, 
+                    {
+                        "manpower development": "private sector"
+                    }, 
+                    {
+                        "intra-state cooperation": "sectors"
+                    }, 
+                    {
+                        "intra-state cooperation": "private sector"
+                    }, 
+                    {
+                        "intra-state cooperation": "private sectors"
+                    }, 
+                    {
+                        "public sector partnership": "private sector"
+                    }
+                ], 
+                "subcategory": [
+                    "responsible agency", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "intra-state cooperation", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "Policy Statement 1: The policy shall promote the use of ICT in the private sectors service delivery and in research and development of goods and services; 9 Policy Statement 2: Government shall promote local and foreign investment for innovative production, R&D and diffusion of ICT by the private sector."
+    }, 
+    {
+        "sentence_id,": "f2ee3a6b2e", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "responsible agency": "private sector"
+                    }, 
+                    {
+                        "standardisation development": "private sector"
+                    }, 
+                    {
+                        "standardisation development": "develop"
+                    }, 
+                    {
+                        "manpower development": "private sector"
+                    }, 
+                    {
+                        "intra-state cooperation": "private sector"
+                    }, 
+                    {
+                        "intra-state cooperation": "industry"
+                    }, 
+                    {
+                        "public sector partnership": "private sector"
+                    }
+                ], 
+                "subcategory": [
+                    "responsible agency", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "intra-state cooperation", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "Policy Statement 3: Government shall establish and promote an enabling environment for private sector investment in ICT; Policy Statement 4: The policy will ensure that Government introduces initiatives to promote the development of a domestic and export-oriented ICT industry; Policy Statement 5: Government shall promote the implementation of Green ICT to encourage the use of environmentally-friendly ICT products."
+    }, 
+    {
+        "sentence_id,": "1a479aa8ed", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "infrastructure"
+                    }, 
+                    {
+                        "standardisation development": "develop"
+                    }
+                ], 
+                "subcategory": [
+                    "policy", 
+                    "standardisation development"
+                ]
+            }
+        ], 
+        "sentence": "ICT INFRASTRUCTURE DEVELOPMENT ICT infrastructure is the base for communication and delivery of electronic services."
+    }, 
+    {
+        "sentence_id,": "9f192b0506", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "organization measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "law"
+                    }, 
+                    {
+                        "policy": "infrastructure"
+                    }, 
+                    {
+                        "standardisation development": "develop"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "policy", 
+                    "standardisation development"
+                ]
+            }
+        ], 
+        "sentence": "ICT infrastructure in Malawi is under-developed, especially in the rural areas."
+    }, 
+    {
+        "sentence_id,": "666d154c76", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "infrastructure"
+                    }, 
+                    {
+                        "standardisation development": "develop"
+                    }
+                ], 
+                "subcategory": [
+                    "policy", 
+                    "standardisation development"
+                ]
+            }
+        ], 
+        "sentence": "Objective : To develop the ICT Infrastructure in order to improve access and delivery of services as well as reduce communication costs."
+    }, 
+    {
+        "sentence_id,": "79e3f4fc22", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "infrastructure"
+                    }, 
+                    {
+                        "standardisation development": "develop"
+                    }
+                ], 
+                "subcategory": [
+                    "policy", 
+                    "standardisation development"
+                ]
+            }
+        ], 
+        "sentence": "Policy Statement 1: Government shall promote ICT infrastructure development in all areas of the country to provide basic means for electronic communication and delivery of e-services."
+    }, 
+    {
+        "sentence_id,": "522f5e74bb", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "infrastructure"
+                    }, 
+                    {
+                        "responsible agency": "private sector"
+                    }, 
+                    {
+                        "standardisation development": "private sector"
+                    }, 
+                    {
+                        "standardisation development": "develop"
+                    }, 
+                    {
+                        "manpower development": "investments"
+                    }, 
+                    {
+                        "manpower development": "private sector"
+                    }, 
+                    {
+                        "intra-state cooperation": "private sector"
+                    }, 
+                    {
+                        "public sector partnership": "private sector"
+                    }, 
+                    {
+                        "public sector partnership": "service providers"
+                    }
+                ], 
+                "subcategory": [
+                    "policy", 
+                    "responsible agency", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "intra-state cooperation", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "Policy Statement 2: Government shall facilitate the establishment of a reliable, adaptive and robust national ICT backbone infrastructure that feeds into equally high quality regional and international ICT infrastructure; Policy Statement 3: Government shall promote and facilitate domestic and foreign private sector investments in ICT infrastructure development; Policy Statement 4: Government shall encourage sharing and co-location of ICT infrastructure and ICT facilities by service providers."
+    }, 
+    {
+        "sentence_id,": "c978087e58", 
+        "tag": [
+            {
+                "category": [
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "intra-state cooperation": "sectors"
+                    }
+                ], 
+                "subcategory": [
+                    "intra-state cooperation"
+                ]
+            }
+        ], 
+        "sentence": "ICT IN THE PRIORITY GROWTH SECTORS The growth sectors of MGDS include Agriculture, Tourism and Mining."
+    }, 
+    {
+        "sentence_id,": "fa8335deb3", 
+        "tag": [
+            {
+                "category": [
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "intra-state cooperation": "sectors"
+                    }
+                ], 
+                "subcategory": [
+                    "intra-state cooperation"
+                ]
+            }
+        ], 
+        "sentence": "There is potential for ICT to stimulate, modernise and sustain processes and systems in agriculture, tourism and mining sectors."
+    }, 
+    {
+        "sentence_id,": "f336f07795", 
+        "tag": [
+            {
+                "category": [
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "intra-state cooperation": "industry"
+                    }
+                ], 
+                "subcategory": [
+                    "intra-state cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Policy Statement 1: Government shall encourage the utilisation of ICTs in agrobusiness industry; agricultural extension services; research in agricultural production and processing."
+    }, 
+    {
+        "sentence_id,": "70c034a950", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "law"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation"
+                ]
+            }
+        ], 
+        "sentence": "Policy Statement 2: Government shall encourage the utilisation of ICTs to ensure that Malawis presence as a unique and attractive tourist destination is recognized on the global map through the provision of up-to-date tourism information; Policy Statement 3: Government shall ensure that ICTs are used to strengthen sustainable natural resource and environmental management practices; Provide access to geographical information on natural resources and wildlife habitats and exact location and quantities of minerals; Policy Statement 4: Government shall encourage the use of ICT to explore marketing opportunities for Malawis products including exportable natural resources products; Policy Statement 5: Government shall promote the utilisation of ICTs in environmental protection."
+    }, 
+    {
+        "sentence_id,": "284afe541a", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "standardisation development": "regulation"
+                    }
+                ], 
+                "subcategory": [
+                    "standardisation development"
+                ]
+            }
+        ], 
+        "sentence": "RESPONSIVE ICT LEGAL, REGULATORY AND INSTITUTIONAL FRAMEWORK The ICT Sector is a very dynamic sector that requires regular updates in legislations and regulations."
+    }, 
+    {
+        "sentence_id,": "1a672e99b8", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "law"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation"
+                ]
+            }
+        ], 
+        "sentence": "Currently, Malawis Communications sector is regulated by the Communications Act 1998, which only focuses on postal, broadcasting and telecommunications."
+    }, 
+    {
+        "sentence_id,": "3145986a2c", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "standardisation development": "develop"
+                    }, 
+                    {
+                        "standardisation development": "accountability"
+                    }, 
+                    {
+                        "intra-state cooperation": "industry"
+                    }
+                ], 
+                "subcategory": [
+                    "standardisation development", 
+                    "intra-state cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Policy Statement 1: The policy will ensure that Government develops and harmonises legal instruments to ensure that the ICT industry is regulated to safeguard human rights, facilitate fair competition within the industry and promote accountability to the public."
+    }, 
+    {
+        "sentence_id,": "3d0491c259", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "law"
+                    }, 
+                    {
+                        "standardisation development": "develop"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "standardisation development"
+                ]
+            }
+        ], 
+        "sentence": "11 Policy Statement 2: The policy will ensure that Government develops laws and institutional framework to govern the use of electronic evidence, and to coordinate development and utilisation of ICTs in Malawi."
+    }, 
+    {
+        "sentence_id,": "6557db8b0d", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "security"
+                    }, 
+                    {
+                        "regulation and compliance": "security"
+                    }, 
+                    {
+                        "policy": "national security"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "PROMOTING NATIONAL SECURITY Globalization and pervasiveness of crime and other security challenges have brought perverse tendencies which are threats to national security."
+    }, 
+    {
+        "sentence_id,": "3ddfdacd85", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "security"
+                    }, 
+                    {
+                        "criminal legislation": "law"
+                    }, 
+                    {
+                        "regulation and compliance": "security"
+                    }, 
+                    {
+                        "policy": "national security"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Malawi needs to establish adequate capacity to deal with national security, violation of human rights, undesirable impacts of ICTs including the violation of privacy, spread of undesirable materials, cyber-crimes, digital frauds and terrorism."
+    }, 
+    {
+        "sentence_id,": "d5b969c5c1", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "security"
+                    }, 
+                    {
+                        "regulation and compliance": "security"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance"
+                ]
+            }
+        ], 
+        "sentence": "Surveillance and readiness of security agencies require the use of specialized skills and ICTs."
+    }, 
+    {
+        "sentence_id,": "9a393617f7", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "security"
+                    }, 
+                    {
+                        "regulation and compliance": "security"
+                    }, 
+                    {
+                        "public sector partnership": "service providers"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "Policy Statement 1: Government shall create statutory obligations for ICT service providers to address security needs of the country."
+    }, 
+    {
+        "sentence_id,": "8f1a580475", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "security"
+                    }, 
+                    {
+                        "regulation and compliance": "security"
+                    }, 
+                    {
+                        "standardisation development": "develop"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "standardisation development"
+                ]
+            }
+        ], 
+        "sentence": "Policy Statement 2: Government shall enhance the capacity of security agencies to be up to date with developments in the ICT sector, including cyber crimes."
+    }, 
+    {
+        "sentence_id,": "3cfd82a62e", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Policy Statement 3: Government shall use ICTs to provide early warnings to mitigate risks and impact of disasters and facilitate relief management."
+    }, 
+    {
+        "sentence_id,": "ef716ebb01", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "security"
+                    }, 
+                    {
+                        "regulation and compliance": "security"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance"
+                ]
+            }
+        ], 
+        "sentence": "Policy Statement 4: Government shall promote the use of ICTs to mitigate crimes and enhance public security."
+    }, 
+    {
+        "sentence_id,": "823bc78176", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "security"
+                    }, 
+                    {
+                        "regulation and compliance": "security"
+                    }, 
+                    {
+                        "policy": "national security"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Policy Statement 5: Government shall establish mechanisms for cooperation with international security agencies to combat cross-border crimes."
+    }, 
+    {
+        "sentence_id,": "bb7c5dfed9", 
+        "tag": [
+            {
+                "category": [
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "international cooperation": "international cooperation"
+                    }
+                ], 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "3.9. INTERNATIONAL COOPERATION ICT is the key element in the globalisation process."
+    }, 
+    {
+        "sentence_id,": "7603fc31ae", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Countries cannot operate in isolation and close cooperation between different countries is of great importance."
+    }, 
+    {
+        "sentence_id,": "bae1cb46d0", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "law"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation"
+                ]
+            }
+        ], 
+        "sentence": "In accordance with the existing foreign policy, the Government of Malawi will therefore, consolidate the existing regional and international relationships in the ICT sector and establish new ones where they do not exist."
+    }, 
+    {
+        "sentence_id,": "0d8f0058c7", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "law"
+                    }, 
+                    {
+                        "public sector partnership": "participation"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "Policy Statement 1: Government shall ensure that Malawi is a major and regular player in the regional and international ICT committees and increase the level of participation in regional and international ICT fora."
+    }, 
+    {
+        "sentence_id,": "4031081fa9", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures", 
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "law"
+                    }, 
+                    {
+                        "standards": "standards"
+                    }, 
+                    {
+                        "policy": "agreement"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "standards", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "12 Policy Statement 2: Government shall ensure that Malawi adheres to the ICT standards as enlisted in international and regional agreements to which it is a signatory."
+    }, 
+    {
+        "sentence_id,": "2084b337a7", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "UNIVERSAL ACCESS OF ICT AND ICT RELATED SERVICES."
+    }, 
+    {
+        "sentence_id,": "0dc5dd681b", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "law"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation"
+                ]
+            }
+        ], 
+        "sentence": "The majority of Malawians live in rural and underserved areas."
+    }, 
+    {
+        "sentence_id,": "7efb504d00", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "These areas do not have adequate access to ICT services due to poor or no network coverage, insufficient access to public pay phones as well as personal phones, very limited availability of postal and Internet services, limited TV coverage, and lack of relevant Internet content that may be useful to them."
+    }, 
+    {
+        "sentence_id,": "8cf7803dca", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "law"
+                    }, 
+                    {
+                        "standards": "standards"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "One of the fundamental principles of the Constitution of the Republic of Malawi is to enhance the quality of life in rural communities and to recognize rural standards of living."
+    }, 
+    {
+        "sentence_id,": "b865c9bbcc", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "standardisation development": "develop"
+                    }
+                ], 
+                "subcategory": [
+                    "standardisation development"
+                ]
+            }
+        ], 
+        "sentence": "Policy Statement 2: Government shall promote the development and implementation of initiatives for the creation and development of electronic local content that will inform, educate and entertain the public."
+    }, 
+    {
+        "sentence_id,": "035f4721a5", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "infrastructure"
+                    }, 
+                    {
+                        "responsible agency": "private sector"
+                    }, 
+                    {
+                        "standardisation development": "private sector"
+                    }, 
+                    {
+                        "standardisation development": "develop"
+                    }, 
+                    {
+                        "manpower development": "private sector"
+                    }, 
+                    {
+                        "intra-state cooperation": "society"
+                    }, 
+                    {
+                        "intra-state cooperation": "organizations"
+                    }, 
+                    {
+                        "intra-state cooperation": "private sector"
+                    }, 
+                    {
+                        "public sector partnership": "private sector"
+                    }, 
+                    {
+                        "public sector partnership": "participation"
+                    }, 
+                    {
+                        "public sector partnership": "service providers"
+                    }
+                ], 
+                "subcategory": [
+                    "policy", 
+                    "responsible agency", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "intra-state cooperation", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "Policy Statement 3: Government shall ensure the provision of financial incentives to ICT service providers for expansion of infrastructure and services to areas that are not economically viable and ensure that services are viable and sustainable in the long term; Policy Statement 4: Government shall facilitate the deployment and exploitation of ICTs in the promotion of diversification and improvement of the quality of information; increasing accessibility to ranges of information resources within and outside the country and creating a supportive environment for the development of the mass media and the private press in the information age; Policy Statement 5: Government, in coordination with Non-governmental organizations and development partners, shall mobilize financial resources for implementation of ICT programmes for women and the youth; Policy Statement 6: Government shall encourage and promote the development of special ICT services for the disadvantaged communities and the disabled; 13 Policy Statement 7: Government, in coordination with Non-governmental organizations and development partners develop capacities targeted at special groups of people in society to ensure that ICT initiatives are all-inclusive; Policy Statement 8: Government shall encourage development partners, nongovernment organizations, as well as the private sector's participation to facilitate the roll-out of community-based ICT initiatives."
+    }, 
+    {
+        "sentence_id,": "3a5d018439", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "law"
+                    }, 
+                    {
+                        "standards": "technology"
+                    }, 
+                    {
+                        "responsible agency": "the department of"
+                    }, 
+                    {
+                        "responsible agency": "department of"
+                    }, 
+                    {
+                        "responsible agency": "agency"
+                    }, 
+                    {
+                        "standardisation development": "information technology"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "standards", 
+                    "responsible agency", 
+                    "standardisation development"
+                ]
+            }
+        ], 
+        "sentence": "The Department of E-Government should be restructured into Malawi Information Technology Agency (MITA) that will be a quasi-autonomous organization under the ministry responsible for ICT."
+    }, 
+    {
+        "sentence_id,": "d287d5c2d1", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "strategy"
+                    }, 
+                    {
+                        "policy": "formulation"
+                    }, 
+                    {
+                        "policy": "strategy"
+                    }, 
+                    {
+                        "standardisation development": "formulation"
+                    }, 
+                    {
+                        "public sector partnership": "institutions"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "policy", 
+                    "standardisation development", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "A National ICT Steering Committee with membership from Principal Secretaries and Heads of public institutions and Chamber of Commerce shall be established to provide oversight and leadership on Sector ICT Strategy formulation and implementation."
+    }, 
+    {
+        "sentence_id,": "26c3150712", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "law"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation"
+                ]
+            }
+        ], 
+        "sentence": "The capacity of Malawi Communications Regulatory Authority (MACRA) shall be enhanced to effectively discharge current and additional mandate as a regulatory body on ICTs."
+    }, 
+    {
+        "sentence_id,": "68fc1222f2", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "strategy"
+                    }, 
+                    {
+                        "policy": "strategy"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Roles and responsibilities for other implementing agencies have been outlined in the Implementation Strategy document."
+    }, 
+    {
+        "sentence_id,": "983447ca6c", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "organization measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "law"
+                    }, 
+                    {
+                        "roadmap for governance": "responsibility"
+                    }, 
+                    {
+                        "standardisation development": "develop"
+                    }, 
+                    {
+                        "standardisation development": "performance"
+                    }, 
+                    {
+                        "standardisation development": "accountability"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "roadmap for governance", 
+                    "standardisation development"
+                ]
+            }
+        ], 
+        "sentence": "OBLIGATIONS, RESPONSIBILITIES AND PERFORMANCE ACCOUNTABILITY OF MITA Obligations MITA shall be charged with the responsibility of accelerating a robust ICT development in Malawi."
+    }, 
+    {
+        "sentence_id,": "b9d0a4599b", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "To implement the National ICT Policy."
+    }, 
+    {
+        "sentence_id,": "6d3f709efc", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "standardisation development": "develop"
+                    }
+                ], 
+                "subcategory": [
+                    "standardisation development"
+                ]
+            }
+        ], 
+        "sentence": "To lead in ICT innovation and development."
+    }, 
+    {
+        "sentence_id,": "15ed3cf851", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "standardisation development": "develop"
+                    }
+                ], 
+                "subcategory": [
+                    "standardisation development"
+                ]
+            }
+        ], 
+        "sentence": "To coordinate human and institutional development for the promotion of ICT development and utilization."
+    }, 
+    {
+        "sentence_id,": "d4ebd628d6", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "standardisation development": "develop"
+                    }, 
+                    {
+                        "intra-state cooperation": "sectors"
+                    }
+                ], 
+                "subcategory": [
+                    "standardisation development", 
+                    "intra-state cooperation"
+                ]
+            }
+        ], 
+        "sentence": "To facilitate ICT development and utilization across all sectors i.e."
+    }, 
+    {
+        "sentence_id,": "99cb856a23", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "responsible agency": "private sector"
+                    }, 
+                    {
+                        "standardisation development": "private sector"
+                    }, 
+                    {
+                        "manpower development": "private sector"
+                    }, 
+                    {
+                        "intra-state cooperation": "private sector"
+                    }, 
+                    {
+                        "public sector partnership": "private sector"
+                    }
+                ], 
+                "subcategory": [
+                    "responsible agency", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "intra-state cooperation", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "rural community access, e-government, and among the business and private sector."
+    }, 
+    {
+        "sentence_id,": "aa55a77bea", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "To coordinate all national ICT programs to ensure their linkage with national priorities."
+    }, 
+    {
+        "sentence_id,": "203c25a56d", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "organization measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "law"
+                    }, 
+                    {
+                        "policy": "infrastructure"
+                    }, 
+                    {
+                        "standardisation development": "develop"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "policy", 
+                    "standardisation development"
+                ]
+            }
+        ], 
+        "sentence": "To coordinate sustainable development of ICT infrastructure in Malawi."
+    }, 
+    {
+        "sentence_id,": "dbfae4dd6c", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "law"
+                    }, 
+                    {
+                        "standards": "standards"
+                    }, 
+                    {
+                        "standardisation development": "develop"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "standards", 
+                    "standardisation development"
+                ]
+            }
+        ], 
+        "sentence": "To develop and enforce ICT standards in Malawi."
+    }, 
+    {
+        "sentence_id,": "3faff411ae", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "To mobilize financial resources for the implementation of the National ICT Policy."
+    }, 
+    {
+        "sentence_id,": "2d051d0623", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "organization measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "law"
+                    }, 
+                    {
+                        "responsible agency": "the department of"
+                    }, 
+                    {
+                        "responsible agency": "department of"
+                    }, 
+                    {
+                        "standardisation development": "develop"
+                    }, 
+                    {
+                        "standardisation development": "performance"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "responsible agency", 
+                    "standardisation development"
+                ]
+            }
+        ], 
+        "sentence": "15 Performance Accountabilities of MITA Currently, the department of E-Government with support from UNDP is coordinating the development of Malawi Master ICT Plan."
+    }, 
+    {
+        "sentence_id,": "9800fdcc13", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The master plan shall be for the period 2013 2024, phased into four phases."
+    }, 
+    {
+        "sentence_id,": "1c2531223a", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "standardisation development": "performance"
+                    }
+                ], 
+                "subcategory": [
+                    "standardisation development"
+                ]
+            }
+        ], 
+        "sentence": "The plan shall be comprehensive and shall include smart performance indicators."
+    }, 
+    {
+        "sentence_id,": "b2083a2400", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "MITA shall be responsible for the implementation of the plan."
+    }, 
+    {
+        "sentence_id,": "f663fb8513", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "agreement"
+                    }, 
+                    {
+                        "standardisation development": "develop"
+                    }, 
+                    {
+                        "standardisation development": "performance"
+                    }
+                ], 
+                "subcategory": [
+                    "policy", 
+                    "standardisation development"
+                ]
+            }
+        ], 
+        "sentence": "Annually the Ministry responsible for ICTs shall develop performance agreements with MITA."
+    }, 
+    {
+        "sentence_id,": "5c5fa42cae", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "strategy"
+                    }, 
+                    {
+                        "policy": "strategy"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "IMPLEMENTATION PLAN Implementation of this policy will be guided by the detailed Implementation, Monitoring and Evaluation Strategy which is separate document that accompanies the policy document."
+    }, 
+    {
+        "sentence_id,": "1fe2da179c", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "standardisation development": "evaluate"
+                    }
+                ], 
+                "subcategory": [
+                    "standardisation development"
+                ]
+            }
+        ], 
+        "sentence": "MONITORING AND EVALUATION The implementation of the Policy shall be monitored and evaluated for effectiveness and responsiveness in meeting intended goals and objectives."
+    }, 
+    {
+        "sentence_id,": "739af59f26", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Monitoring will be done annually or as may be determined."
+    }, 
+    {
+        "sentence_id,": "17739dc296", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Evaluation shall be conducted every three years to measure impact."
+    }
+]
