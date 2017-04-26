@@ -1,0 +1,4979 @@
+[
+    {
+        "sentence_id,": "3d6217a57f", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Canadas Cyber Security Strategy For a stronger and more prosperous Canada Her Majesty the Queen in Right of Canada, 2010 Cat."
+    }, 
+    {
+        "sentence_id,": "52a1c3ade3", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "organization measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "message"
+                    }, 
+                    {
+                        "regulation and compliance": "minister"
+                    }, 
+                    {
+                        "policy": "minister"
+                    }, 
+                    {
+                        "roadmap for governance": "minister"
+                    }, 
+                    {
+                        "responsible agency": "minister"
+                    }, 
+                    {
+                        "reporting mechanism": "minister"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "policy", 
+                    "roadmap for governance", 
+                    "responsible agency", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": ": PS4-102/2010E-PDF ISBN: 978-1-100-16934-7 Printed in Canada Canadas Cyber Security Strategy: For a Stronger and More Prosperous Canada Message from the Minister Canadians personal and professional lives have gone digital: we live, work, and play in cyberspace."
+    }, 
+    {
+        "sentence_id,": "6642792d85", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "cirt": "mobile devices"
+                    }, 
+                    {
+                        "standards": "mobile devices"
+                    }, 
+                    {
+                        "manpower development": "mobile devices"
+                    }, 
+                    {
+                        "public sector partnership": "mobile devices"
+                    }
+                ], 
+                "subcategory": [
+                    "cirt", 
+                    "standards", 
+                    "manpower development", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "Canadians use the Internet, computers, cell phones and mobile devices every day to talk, email, text and twitter with family, friends and colleagues."
+    }, 
+    {
+        "sentence_id,": "b15011df02", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "We do business online everyday, from banking to shopping to accessing government services and we do it from wherever we happen to be."
+    }, 
+    {
+        "sentence_id,": "6b5e9f4fdb", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "digital infrastructure"
+                    }, 
+                    {
+                        "intra-agency cooperation": "digital infrastructure"
+                    }, 
+                    {
+                        "public sector partnership": "digital infrastructure"
+                    }, 
+                    {
+                        "international cooperation": "essential services"
+                    }
+                ], 
+                "subcategory": [
+                    "policy", 
+                    "intra-agency cooperation", 
+                    "public sector partnership", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Digital infrastructure makes all this possible, and also keeps essential services up and running."
+    }, 
+    {
+        "sentence_id,": "960b50bc51", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "certification": "quality of life"
+                    }, 
+                    {
+                        "manpower development": "quality of life"
+                    }
+                ], 
+                "subcategory": [
+                    "certification", 
+                    "manpower development"
+                ]
+            }
+        ], 
+        "sentence": "Canadians individuals, industry and governments are embracing the many advantages that cyberspace offers, and our economy and quality of life are the better for it."
+    }, 
+    {
+        "sentence_id,": "8647c76a94", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "digital infrastructure"
+                    }, 
+                    {
+                        "intra-agency cooperation": "digital infrastructure"
+                    }, 
+                    {
+                        "public sector partnership": "digital infrastructure"
+                    }
+                ], 
+                "subcategory": [
+                    "policy", 
+                    "intra-agency cooperation", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "But our increasing reliance on cyber technologies makes us more vulnerable to those who attack our digital infrastructure to undermine our national security, economic prosperity, and way of life."
+    }, 
+    {
+        "sentence_id,": "f6d1e97e66", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Our systems are an attractive target for foreign military and intelligence services, criminals and terrorist networks."
+    }, 
+    {
+        "sentence_id,": "a9c9bf14a9", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "These groups are breaking into our computer systems, searching through our files, and causing our systems to crash."
+    }, 
+    {
+        "sentence_id,": "326e50f4a0", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "They are stealing our industrial and national security secrets, and our personal identities."
+    }, 
+    {
+        "sentence_id,": "5d7af3453c", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "We dont see them, we dont hear them, and we dont always catch them."
+    }, 
+    {
+        "sentence_id,": "7742ec4458", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "At times they are mere nuisances."
+    }, 
+    {
+        "sentence_id,": "6b1d6b9e1e", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "At other times, they present real threats to our families, companies and to our country."
+    }, 
+    {
+        "sentence_id,": "ef80dad917", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Canadas Cyber Security Strategy is our plan for meeting the cyber threat."
+    }, 
+    {
+        "sentence_id,": "f818a03d77", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "standardisation development": "the private sector"
+                    }, 
+                    {
+                        "manpower development": "the private sector"
+                    }, 
+                    {
+                        "public sector partnership": "the private sector"
+                    }
+                ], 
+                "subcategory": [
+                    "standardisation development", 
+                    "manpower development", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "It delivers on the Governments 2010 Speech from the Throne commitment to work with provinces, territories and the private sector to implement a cyber security strategy to protect our digital infrastructure."
+    }, 
+    {
+        "sentence_id,": "735bf6ce16", 
+        "tag": [
+            {
+                "category": [
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "institutional support": "supports"
+                    }
+                ], 
+                "subcategory": [
+                    "institutional support"
+                ]
+            }
+        ], 
+        "sentence": "It leverages the partnerships being established under the National Strategy and Action Plan for Critical Infrastructure, and supports the ongoing efforts by our law enforcement community to work with partners and international allies in cracking down on those who use the Internet for crime and illegal activities."
+    }, 
+    {
+        "sentence_id,": "b88de8d0b2", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "our cyberspace"
+                    }, 
+                    {
+                        "roadmap for governance": "our cyberspace"
+                    }, 
+                    {
+                        "public sector partnership": "our cyberspace"
+                    }
+                ], 
+                "subcategory": [
+                    "policy", 
+                    "roadmap for governance", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "Canadas Cyber Security Strategy is a cornerstone of our Governments commitment to keep Canada including our cyberspace safe, secure and prosperous."
+    }, 
+    {
+        "sentence_id,": "a8072367d1", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The Honourable Vic Toews, P.C., Q.C., M.P."
+    }, 
+    {
+        "sentence_id,": "9b561f4375", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "organization measures", 
+                    "child online protection", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "regulation and compliance": "minister"
+                    }, 
+                    {
+                        "policy": "minister"
+                    }, 
+                    {
+                        "roadmap for governance": "minister"
+                    }, 
+                    {
+                        "responsible agency": "minister"
+                    }, 
+                    {
+                        "reporting mechanism": "minister"
+                    }, 
+                    {
+                        "manpower development": "public safety"
+                    }, 
+                    {
+                        "intra-agency cooperation": "public safety"
+                    }, 
+                    {
+                        "public sector partnership": "public safety"
+                    }
+                ], 
+                "subcategory": [
+                    "regulation and compliance", 
+                    "policy", 
+                    "roadmap for governance", 
+                    "responsible agency", 
+                    "reporting mechanism", 
+                    "manpower development", 
+                    "intra-agency cooperation", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "Minister of Public Safety Canadas Cyber Security Strategy: For a Stronger and More Prosperous Canada Introduction Cyberspace is the electronic world created by interconnected networks of information technology and the information on those networks."
+    }, 
+    {
+        "sentence_id,": "1f004b7ff6", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "It is a global commons where more than 1.7 billion people are linked together to exchange ideas, services and friendship."
+    }, 
+    {
+        "sentence_id,": "ad12cccbc8", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The Canadian economy relies heavily on the Internet: Canadian online sales in 2007 were estimated at $62.7 billion;1 and In 2007, 87% of Canadian businesses used the Internet.1 Canadian businesses are moving quickly to adopt the most modern digital applications, including next generation and mobile technologies."
+    }, 
+    {
+        "sentence_id,": "96233191a6", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Canadas governments have also become increasingly dependent on the Internet."
+    }, 
+    {
+        "sentence_id,": "8ad84e0dbf", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "capacity building", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "certification": "offers"
+                    }, 
+                    {
+                        "manpower development": "offers"
+                    }, 
+                    {
+                        "institutional support": "offers"
+                    }, 
+                    {
+                        "reporting mechanism": "offers"
+                    }
+                ], 
+                "subcategory": [
+                    "certification", 
+                    "manpower development", 
+                    "institutional support", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "The federal Government alone now offers more than 130 commonly used services online, including tax returns, employment insurance forms and student loan applications."
+    }, 
+    {
+        "sentence_id,": "5c7a4f7e6b", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Our success in cyberspace is one of our greatest national assets."
+    }, 
+    {
+        "sentence_id,": "7f49276461", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Protecting this success means protecting our cyber systems against malicious misuse and other destructive attacks."
+    }, 
+    {
+        "sentence_id,": "628e6bbbac", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "This is a daunting challenge."
+    }, 
+    {
+        "sentence_id,": "dc988f6479", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "attackers"
+                    }, 
+                    {
+                        "cirt": "attackers"
+                    }, 
+                    {
+                        "standardisation development": "web"
+                    }, 
+                    {
+                        "intra-state cooperation": "attackers"
+                    }, 
+                    {
+                        "intra-agency cooperation": "web"
+                    }, 
+                    {
+                        "intra-agency cooperation": "attackers"
+                    }, 
+                    {
+                        "international cooperation": "attackers"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "cirt", 
+                    "standardisation development", 
+                    "intra-state cooperation", 
+                    "intra-agency cooperation", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "There is no simple way Canadians are embracing cyberspace: 74% of Canadian households had paid Internet service in 2008;2 59% of personal tax filings were electronic in 2008;3 67% of Canadians banked online in 2009.4 1 Statistics Canada, The Daily, April 24, 2008 2 Canadian Radio-television and Telecommunications Commission, Communications Monitoring Report, August 2009 3 Canada Revenue Agency, National Processing Status Report, September 2009 4 Statistics Canada, Canadian Internet Use Survey, 2009 Canadas Cyber Security Strategy: For a Stronger and More Prosperous Canada to detect, identify and recover from attackers who cannot be seen or heard, who leave no physical evidence behind them, and who hide their tracks through a complex web of compromised computers."
+    }, 
+    {
+        "sentence_id,": "07bf0091c1", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "attackers"
+                    }, 
+                    {
+                        "cirt": "attackers"
+                    }, 
+                    {
+                        "intra-state cooperation": "attackers"
+                    }, 
+                    {
+                        "intra-agency cooperation": "attackers"
+                    }, 
+                    {
+                        "international cooperation": "attackers"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "cirt", 
+                    "intra-state cooperation", 
+                    "intra-agency cooperation", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Cyber security affects us all, in part because even attackers with only basic skills have the potential to cause real harm."
+    }, 
+    {
+        "sentence_id,": "fe81706bf7", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "attackers"
+                    }, 
+                    {
+                        "cirt": "attackers"
+                    }, 
+                    {
+                        "standards": "treatment"
+                    }, 
+                    {
+                        "intra-state cooperation": "attackers"
+                    }, 
+                    {
+                        "intra-agency cooperation": "attackers"
+                    }, 
+                    {
+                        "international cooperation": "attackers"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "cirt", 
+                    "standards", 
+                    "intra-state cooperation", 
+                    "intra-agency cooperation", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Sophisticated attackers can disrupt the electronic controls of our power grids, water treatment plants and telecommunications networks."
+    }, 
+    {
+        "sentence_id,": "0e9a2ff2a5", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "legal measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "certification": "production"
+                    }, 
+                    {
+                        "regulation and compliance": "goods and services"
+                    }, 
+                    {
+                        "un convention and protocol": "goods and services"
+                    }
+                ], 
+                "subcategory": [
+                    "certification", 
+                    "regulation and compliance", 
+                    "un convention and protocol"
+                ]
+            }
+        ], 
+        "sentence": "They interfere with the production and delivery of basic goods and services provided by our governments and the private sector."
+    }, 
+    {
+        "sentence_id,": "1a4196e2a9", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "They undermine our privacy by stealing our personal information."
+    }, 
+    {
+        "sentence_id,": "9d8135a12d", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Dealing with cyber threats in isolation is not enough."
+    }, 
+    {
+        "sentence_id,": "522e3a023e", 
+        "tag": [
+            {
+                "category": [
+                    "cooperation", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "international cooperation": "continue"
+                    }, 
+                    {
+                        "standardisation development": "the private sector"
+                    }, 
+                    {
+                        "manpower development": "the private sector"
+                    }, 
+                    {
+                        "public sector partnership": "the private sector"
+                    }
+                ], 
+                "subcategory": [
+                    "international cooperation", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "Through the implementation of this Strategy, the Government will continue to work with the provinces, territories and the private sector in a concerted effort to address the threats facing Canada and Canadians."
+    }, 
+    {
+        "sentence_id,": "32e44a1501", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "attackers"
+                    }, 
+                    {
+                        "cirt": "attackers"
+                    }, 
+                    {
+                        "intra-state cooperation": "attackers"
+                    }, 
+                    {
+                        "intra-agency cooperation": "attackers"
+                    }, 
+                    {
+                        "international cooperation": "attackers"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "cirt", 
+                    "intra-state cooperation", 
+                    "intra-agency cooperation", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Every year, we detect more attackers than the year before."
+    }, 
+    {
+        "sentence_id,": "d192116d29", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "And every year, those seeking to infiltrate, exploit or attack our cyber systems are more sophisticated and better resourced than the year before."
+    }, 
+    {
+        "sentence_id,": "19e47da51f", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "They are investing in their capabilities."
+    }, 
+    {
+        "sentence_id,": "e00e11374f", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "We must respond by investing more in ours."
+    }, 
+    {
+        "sentence_id,": "118496db40", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "physical infrastructure"
+                    }, 
+                    {
+                        "intra-agency cooperation": "physical infrastructure"
+                    }, 
+                    {
+                        "public sector partnership": "physical infrastructure"
+                    }
+                ], 
+                "subcategory": [
+                    "policy", 
+                    "intra-agency cooperation", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "Cyber attacks include the unintentional or unauthorized access, use, mani- pulation, interruption or destruction (via electronic means) of electronic information and/or the electronic and physical infrastructure used to process, communicate and/or store that information."
+    }, 
+    {
+        "sentence_id,": "6b7c6fcc82", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The severity of the cyber attack determines the appropriate level of response and/or mitigation measures: i.e., cyber security."
+    }, 
+    {
+        "sentence_id,": "20f8e3dd05", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The Government is continuing its efforts to help secure Canadas cyber systems and protect Canadians online."
+    }, 
+    {
+        "sentence_id,": "5e08538784", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "capacity building", 
+                    "cooperation", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "series"
+                    }, 
+                    {
+                        "certification": "series"
+                    }, 
+                    {
+                        "standardisation development": "series"
+                    }, 
+                    {
+                        "manpower development": "series"
+                    }, 
+                    {
+                        "public sector partnership": "series"
+                    }, 
+                    {
+                        "institutional support": "series"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "certification", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "public sector partnership", 
+                    "institutional support"
+                ]
+            }
+        ], 
+        "sentence": "Indeed this Strategy is but one element in a series of initiatives designed to protect Canadians."
+    }, 
+    {
+        "sentence_id,": "b47bf62f7b", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "responsible agency": "coordinate"
+                    }, 
+                    {
+                        "responsible agency": "incident response"
+                    }, 
+                    {
+                        "reporting mechanism": "incident response"
+                    }
+                ], 
+                "subcategory": [
+                    "responsible agency", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "The Government has established the Canadian Cyber Incident Response Centre to monitor and provide mitigation advice on cyber threats, and coordinate the national response to any cyber security incident."
+    }, 
+    {
+        "sentence_id,": "15fd58f283", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The Government will soon introduce legislation to modernize law enforcements investigative powers, and ensure that technological innovations are not used to evade lawful interceptions of communications supporting criminal activity."
+    }, 
+    {
+        "sentence_id,": "ca4f9520f8", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "These are important initiatives, but they are no longer sufficient."
+    }, 
+    {
+        "sentence_id,": "f52b4fdc4e", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The threat is becoming more serious."
+    }, 
+    {
+        "sentence_id,": "cfadde623e", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "We cannot allow our cyber security efforts to remain fixed on the threat as we understood it in the past."
+    }, 
+    {
+        "sentence_id,": "97aa5eed5d", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "national benchmarking": "use of cyberspace"
+                    }
+                ], 
+                "subcategory": [
+                    "national benchmarking"
+                ]
+            }
+        ], 
+        "sentence": "To ensure that our advanced use of cyberspace remains a strategic asset, Canada must anticipate and confront emerging cyber threats."
+    }, 
+    {
+        "sentence_id,": "c13ad216b3", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Canadas Cyber Security Strategy is our plan for making cyberspace more secure for all Canadians."
+    }, 
+    {
+        "sentence_id,": "f02eae68b6", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Canadas Cyber Security Strategy: For a Stronger and More Prosperous Canada Understanding Cyber Threats There are various ways to gain access to information in cyberspace."
+    }, 
+    {
+        "sentence_id,": "fdcdfcb487", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "attackers"
+                    }, 
+                    {
+                        "cirt": "attackers"
+                    }, 
+                    {
+                        "intra-state cooperation": "attackers"
+                    }, 
+                    {
+                        "intra-agency cooperation": "attackers"
+                    }, 
+                    {
+                        "international cooperation": "attackers"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "cirt", 
+                    "intra-state cooperation", 
+                    "intra-agency cooperation", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Attackers can exploit vulnerabilities in software and hardware."
+    }, 
+    {
+        "sentence_id,": "f1740dadd1", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "They can exploit security vulnerabilities by tricking people into opening infected emails or visiting corrupted websites that infect their computers with malicious software."
+    }, 
+    {
+        "sentence_id,": "9af53658a9", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "They can take advantage of people who fail to follow basic cyber security practices, such as changing their passwords frequently, updating their antivirus protection on a regular basis, and using only protected wireless networks."
+    }, 
+    {
+        "sentence_id,": "5219f56ff0", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures", 
+                    "cooperation", 
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "attackers"
+                    }, 
+                    {
+                        "cirt": "attackers"
+                    }, 
+                    {
+                        "intra-state cooperation": "attackers"
+                    }, 
+                    {
+                        "intra-agency cooperation": "attackers"
+                    }, 
+                    {
+                        "international cooperation": "attackers"
+                    }, 
+                    {
+                        "cirt": "its operations"
+                    }, 
+                    {
+                        "policy": "its operations"
+                    }, 
+                    {
+                        "public sector partnership": "its operations"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "cirt", 
+                    "intra-state cooperation", 
+                    "intra-agency cooperation", 
+                    "international cooperation", 
+                    "policy", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "Once they have access to a computer, attackers can steal or distort the information stored on it, corrupt its operations and program it to attack other computers and the systems to which they are connected."
+    }, 
+    {
+        "sentence_id,": "2c34833ced", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "In many cases, victims suffer a theft of their identity and/or their personal assets."
+    }, 
+    {
+        "sentence_id,": "fc92039061", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The annual cost of identity theft in Canada has been estimated at nearly $1.9 billion."
+    }, 
+    {
+        "sentence_id,": "6a0666372b", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "For this reason the Government has amended the Criminal Code to better protect Canadians from identity theft."
+    }, 
+    {
+        "sentence_id,": "e9f2ee24bb", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building", 
+                    "cooperation", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "manpower development": "experience"
+                    }, 
+                    {
+                        "public sector partnership": "experience"
+                    }, 
+                    {
+                        "institutional support": "harm"
+                    }, 
+                    {
+                        "reporting mechanism": "harm"
+                    }
+                ], 
+                "subcategory": [
+                    "manpower development", 
+                    "public sector partnership", 
+                    "institutional support", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "Canadian companies can lose the race to bring a product to market, or experience other harm without ever realizing that their losses were caused by a cyber attack."
+    }, 
+    {
+        "sentence_id,": "fa7205022d", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "It has been estimated that in a recent one year period, 86% of large Canadian organizations had suffered a cyber attack."
+    }, 
+    {
+        "sentence_id,": "ef44eb83aa", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The loss of intellectual property as a result of these attacks doubled between 2006 and 2008.6 Though certain attack tools and techniques are more costly and sophisticated than others, most cyber attacks share four characteristics that, in part, account for their growing popularity."
+    }, 
+    {
+        "sentence_id,": "e43599e354", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "attackers"
+                    }, 
+                    {
+                        "criminal legislation": "attackers"
+                    }, 
+                    {
+                        "cirt": "attackers"
+                    }, 
+                    {
+                        "cirt": "attackers"
+                    }, 
+                    {
+                        "standardisation development": "web"
+                    }, 
+                    {
+                        "intra-state cooperation": "attackers"
+                    }, 
+                    {
+                        "intra-state cooperation": "attackers"
+                    }, 
+                    {
+                        "intra-agency cooperation": "web"
+                    }, 
+                    {
+                        "intra-agency cooperation": "attackers"
+                    }, 
+                    {
+                        "intra-agency cooperation": "attackers"
+                    }, 
+                    {
+                        "international cooperation": "attackers"
+                    }, 
+                    {
+                        "international cooperation": "attackers"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "cirt", 
+                    "standardisation development", 
+                    "intra-state cooperation", 
+                    "intra-agency cooperation", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Cyber attacks are often: Inexpensive Many attack tools can be purchased for a modest price or downloaded for free from the Internet; Easy Attackers with only basic skills can cause significant damage; 5 McMaster University, Measuring Identity Theft in Canada: 2008 Consumer Survey 6 CA Technologies, Canada 2008 Security and Privacy Survey Canadas Cyber Security Strategy: For a Stronger and More Prosperous Canada Effective Even minor attacks can cause extensive damage; and Low risk Attackers can evade detection and prosecution by hiding their tracks through a complex web of computers and exploiting gaps in domestic and international legal regimes."
+    }, 
+    {
+        "sentence_id,": "0aa4b98631", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "While there is some similarity in the targets and methods of cyber attackers, the nature of the threat posed by each is made distinct by their differing motivations and intentions."
+    }, 
+    {
+        "sentence_id,": "e4833ab0d8", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Three types of threats are discussed below."
+    }, 
+    {
+        "sentence_id,": "31f91065d9", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "STaTE SponSorEd CybEr ESpIonagE and mILITary aCTIvITIES The most sophisticated cyber threats come from the intelligence and military services of foreign states."
+    }, 
+    {
+        "sentence_id,": "654456fde1", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "attackers"
+                    }, 
+                    {
+                        "cirt": "attackers"
+                    }, 
+                    {
+                        "intra-state cooperation": "attackers"
+                    }, 
+                    {
+                        "intra-agency cooperation": "attackers"
+                    }, 
+                    {
+                        "international cooperation": "attackers"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "cirt", 
+                    "intra-state cooperation", 
+                    "intra-agency cooperation", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "In most cases, these attackers are well resourced, patient and persistent."
+    }, 
+    {
+        "sentence_id,": "f32665ceb7", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Their purpose is to gain political, economic, commercial or military advantage."
+    }, 
+    {
+        "sentence_id,": "7bffb3ee3c", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "All technologically advanced governments and private businesses are vulnerable to state sponsored cyber espionage."
+    }, 
+    {
+        "sentence_id,": "fcdc7b9f94", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Reports from Canada and across the world confirm that these attacks have succeeded in stealing industrial and state secrets, private data and other valuable information."
+    }, 
+    {
+        "sentence_id,": "340bb5a869", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Some foreign states have declared publicly that cyber attacks are a central element of their military strategy."
+    }, 
+    {
+        "sentence_id,": "5fdb2712ce", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Some states have been widely accused of using cyber attacks to coincide with and magnify the effects of traditional military operations."
+    }, 
+    {
+        "sentence_id,": "4f92d13c92", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "These cyber attack programs are typically designed to sabotage an adversarys infrastructure and communications."
+    }, 
+    {
+        "sentence_id,": "884cddbf89", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "They may also support electronic attacks on an adversarys military equipment and operations."
+    }, 
+    {
+        "sentence_id,": "9633b517be", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "manpower development": "public health"
+                    }, 
+                    {
+                        "intra-agency cooperation": "public health"
+                    }, 
+                    {
+                        "public sector partnership": "public health"
+                    }
+                ], 
+                "subcategory": [
+                    "manpower development", 
+                    "intra-agency cooperation", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "Cyber attacks that disrupt emergency response and public health systems would put lives in danger."
+    }, 
+    {
+        "sentence_id,": "870246913e", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Canada and our allies understand that addressing these risks requires modernizing our military doctrines."
+    }, 
+    {
+        "sentence_id,": "5115ae997b", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "It is for this reason that the North Atlantic Treaty Organization (NATO) has adopted several policy documents regarding cyber defence, and like the militaries of our closest allies, the Department of National Defence and the Canadian Forces are examining how Canada can best respond to future cyber attacks."
+    }, 
+    {
+        "sentence_id,": "a206d46a7b", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "TErrorIST USE of ThE InTErnET Terrorist networks also are moving to incorporate cyber operations into their strategic doctrines."
+    }, 
+    {
+        "sentence_id,": "f471c8c198", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Among many activities, they are using the Internet to support their recruitment, fundraising and propaganda activities."
+    }, 
+    {
+        "sentence_id,": "b7bfd7669d", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Terrorists are aware of the potential for using the Western worlds dependence on cyber systems as a vulnerability to be exploited."
+    }, 
+    {
+        "sentence_id,": "8b3251229b", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "For example, there are now online resources providing advice to terrorists on how to defend their own websites while launching cyber attacks on their enemies."
+    }, 
+    {
+        "sentence_id,": "f2bdb7af3e", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "In addition, a number of terrorist groups, including Al-Qaeda, have expressed their intention to launch cyber attacks against Western states."
+    }, 
+    {
+        "sentence_id,": "b9d0902025", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Though experts doubt that terrorists currently have the ability to cause serious damage via cyber attacks, they recognize that this capacity will likely develop over time."
+    }, 
+    {
+        "sentence_id,": "634c50a1ab", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "cirt": "their operations"
+                    }, 
+                    {
+                        "policy": "their operations"
+                    }
+                ], 
+                "subcategory": [
+                    "cirt", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "CybErCrImE In much the same way as states have expanded their operations into cyberspace, so too have organized criminals."
+    }, 
+    {
+        "sentence_id,": "7f46013935", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "attackers"
+                    }, 
+                    {
+                        "cirt": "attackers"
+                    }, 
+                    {
+                        "intra-state cooperation": "attackers"
+                    }, 
+                    {
+                        "intra-agency cooperation": "attackers"
+                    }, 
+                    {
+                        "international cooperation": "attackers"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "cirt", 
+                    "intra-state cooperation", 
+                    "intra-agency cooperation", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "The more sophisticated among them are turning to skilled cyber attackers to pursue many of their traditional activities, such as identity theft, money laundering and extortion."
+    }, 
+    {
+        "sentence_id,": "f8a9068578", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "cooperation", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "certification": "malicious software"
+                    }, 
+                    {
+                        "intra-agency cooperation": "malicious software"
+                    }, 
+                    {
+                        "public sector partnership": "malicious software"
+                    }, 
+                    {
+                        "national legislation": "malicious software"
+                    }
+                ], 
+                "subcategory": [
+                    "certification", 
+                    "intra-agency cooperation", 
+                    "public sector partnership", 
+                    "national legislation"
+                ]
+            }
+        ], 
+        "sentence": "Criminals now sell information stolen online, such as credit and debit card numbers, login passwords for computer servers, and malicious software designed to infiltrate and damage targeted systems."
+    }, 
+    {
+        "sentence_id,": "ecc6c00bb1", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures"
+                ], 
+                "keywords": [
+                    {
+                        "regulation and compliance": "personal data"
+                    }
+                ], 
+                "subcategory": [
+                    "regulation and compliance"
+                ]
+            }
+        ], 
+        "sentence": "Even those of us who are diligent in protecting our personal information online are at risk of having our personal data stolen from the third parties we share it with."
+    }, 
+    {
+        "sentence_id,": "efe4c042a2", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Canadas Cyber Security Strategy: For a Stronger and More Prosperous Canada Some criminal organizations are now developing customized attack software."
+    }, 
+    {
+        "sentence_id,": "f20c71f39f", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "encryption"
+                    }, 
+                    {
+                        "reporting mechanism": "encryption"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "They are using advanced encryption technologies to protect their own assets and trade secrets."
+    }, 
+    {
+        "sentence_id,": "8ff4c49614", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "the law enforcement"
+                    }, 
+                    {
+                        "regulation and compliance": "the law enforcement"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance"
+                ]
+            }
+        ], 
+        "sentence": "Some in the law enforcement and security communities argue that the capabilities of some cyber criminals now rival those of developed states."
+    }, 
+    {
+        "sentence_id,": "659b4d6fd0", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "malicious code"
+                    }, 
+                    {
+                        "national legislation": "malicious code"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "national legislation"
+                ]
+            }
+        ], 
+        "sentence": "ThE ThrEaT IS EvoLvIng Much like bacteria developing drug resistance to antibiotics, cyber viruses and malicious code are continually evolving to evade our defences and antivirus software."
+    }, 
+    {
+        "sentence_id,": "6aa52b2aef", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The evolution of cyber attack tools and techniques has accelerated dangerously in the recent past."
+    }, 
+    {
+        "sentence_id,": "9b928eaf2e", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "malicious code"
+                    }, 
+                    {
+                        "national legislation": "malicious code"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "national legislation"
+                ]
+            }
+        ], 
+        "sentence": "Statistics compiled by two well known Internet security companies, Akamai and Symantec, together show that malicious computer programs now originate in more than 190 countries.7 More than 60% of all the malicious code ever detected was introduced into cyberspace in 20088 alone."
+    }, 
+    {
+        "sentence_id,": "5b3e55201c", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "There is no doubt that the frequency and severity of the cyber threat is accelerating."
+    }, 
+    {
+        "sentence_id,": "e51feedcd2", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Protecting Canadians in cyberspace will be a constantly evolving challenge."
+    }, 
+    {
+        "sentence_id,": "832dc2824a", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "To effectively address this challenge will require a range of actions and responses, accompanied by continuing investment and vigilance over the long term."
+    }, 
+    {
+        "sentence_id,": "833a3c7b52", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "standardisation development": "researchers"
+                    }
+                ], 
+                "subcategory": [
+                    "standardisation development"
+                ]
+            }
+        ], 
+        "sentence": "7 Akamai, State of the Internet Report, March 2009 8 Symantec, Global Internet Security Threat Report, April 2009 Canadas Cyber Security Strategy: For a Stronger and More Prosperous Canada Canadas Cyber Security Strategy Canadian researchers have been at the forefront of making cyberspace a reality."
+    }, 
+    {
+        "sentence_id,": "08db96a2d0", 
+        "tag": [
+            {
+                "category": [
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "international cooperation": "continue"
+                    }
+                ], 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "This same ingenuity must continue to be applied to predicting, detecting and defeating the cyber threats of tomorrow, and exploiting cyberspace to further Canadas national interests."
+    }, 
+    {
+        "sentence_id,": "5842c66a64", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Canadas Cyber Security Strategy is our plan for meeting the cyber threat."
+    }, 
+    {
+        "sentence_id,": "3e3d64d53a", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Securing government systems Canadians trust Government with their personal and corporate information, and also trust Government to deliver services to them."
+    }, 
+    {
+        "sentence_id,": "6040142d07", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "They also trust that the Government will act to defend Canadas cyber sovereignty and protect and advance our national security and economic interests."
+    }, 
+    {
+        "sentence_id,": "4711298cd3", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The Government will put in place the necessary structures, tools and personnel to meet its obligations for cyber security."
+    }, 
+    {
+        "sentence_id,": "7659cf43d8", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "functioning"
+                    }, 
+                    {
+                        "policy": "functioning"
+                    }, 
+                    {
+                        "responsible agency": "functioning"
+                    }, 
+                    {
+                        "national benchmarking": "functioning"
+                    }, 
+                    {
+                        "manpower development": "functioning"
+                    }, 
+                    {
+                        "international cooperation": "functioning"
+                    }, 
+                    {
+                        "cirt": "economic prosperity"
+                    }, 
+                    {
+                        "manpower development": "economic prosperity"
+                    }, 
+                    {
+                        "international cooperation": "economic prosperity"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "policy", 
+                    "responsible agency", 
+                    "national benchmarking", 
+                    "manpower development", 
+                    "international cooperation", 
+                    "cirt"
+                ]
+            }
+        ], 
+        "sentence": "2. partnering to secure vital cyber systems outside the federal government Canadas economic prosperity and Canadians security depend on the smooth functioning of systems outside the Government."
+    }, 
+    {
+        "sentence_id,": "ab1047f259", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "In cooperation with provincial and territorial governments and the private sector, the Government will support initiatives and take steps to strengthen Canadas cyber resiliency, including that of its critical infrastructure sectors."
+    }, 
+    {
+        "sentence_id,": "7b393a5bb7", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "regulation and compliance": "combat"
+                    }, 
+                    {
+                        "national legislation": "combat"
+                    }, 
+                    {
+                        "criminal legislation": "law enforcement agencies"
+                    }, 
+                    {
+                        "regulation and compliance": "law enforcement agencies"
+                    }
+                ], 
+                "subcategory": [
+                    "regulation and compliance", 
+                    "national legislation", 
+                    "criminal legislation"
+                ]
+            }
+        ], 
+        "sentence": "3. helping Canadians to be secure online The Government will assist Canadians in getting the information they need to protect themselves and their families online, and strengthen the ability of law enforcement agencies to combat cybercrime."
+    }, 
+    {
+        "sentence_id,": "67b290c63d", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "cirt": "economic growth"
+                    }, 
+                    {
+                        "manpower development": "economic growth"
+                    }
+                ], 
+                "subcategory": [
+                    "cirt", 
+                    "manpower development"
+                ]
+            }
+        ], 
+        "sentence": "Canadas Cyber Security Strategy will strengthen our cyber systems and critical infrastructure sectors, support economic growth and protect Canadians as they connect to each other and to the world."
+    }, 
+    {
+        "sentence_id,": "1df12de29f", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "We all have a role to play as we take full advantage of cyberspace to build a safe, resilient and innovative Canada."
+    }, 
+    {
+        "sentence_id,": "1c7fbf78d7", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "a wide range"
+                    }, 
+                    {
+                        "manpower development": "a wide range"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "manpower development"
+                ]
+            }
+        ], 
+        "sentence": "The Government has sought input from stakeholders on a wide range of cyber threats and security practices."
+    }, 
+    {
+        "sentence_id,": "5f7620a865", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Collaboration, especially internationally, is essential if cyberspace is to be secured."
+    }, 
+    {
+        "sentence_id,": "7e5d003239", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Canada will benefit from being seen internationally and domestically as a trusted partner in making cyberspace safer."
+    }, 
+    {
+        "sentence_id,": "dd77db7c8d", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "improvements"
+                    }, 
+                    {
+                        "manpower development": "improvements"
+                    }, 
+                    {
+                        "intra-state cooperation": "improvements"
+                    }, 
+                    {
+                        "intra-state cooperation": "relationships"
+                    }, 
+                    {
+                        "intra-agency cooperation": "improvements"
+                    }
+                ], 
+                "subcategory": [
+                    "policy", 
+                    "manpower development", 
+                    "intra-state cooperation", 
+                    "intra-agency cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Canadas Cyber Security Strategy: For a Stronger and More Prosperous Canada The Strategy: Reflects Canadian values such as the rule of law, accountability and privacy; Allows continual improvements to be made to meet emerging threats; Integrates activity across the Government of Canada; Emphasizes partnerships with Canadians, provinces, territories, business and academe; and Builds upon our close working relationships with our allies."
+    }, 
+    {
+        "sentence_id,": "ce421d593b", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Three of our closest security and intelligence partners, the United States, the United Kingdom and Australia, recently released their own plans to secure cyberspace."
+    }, 
+    {
+        "sentence_id,": "cff11b08f4", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "principles"
+                    }, 
+                    {
+                        "responsible agency": "principles"
+                    }
+                ], 
+                "subcategory": [
+                    "policy", 
+                    "responsible agency"
+                ]
+            }
+        ], 
+        "sentence": "Many of the guiding principles and operational priorities set out in those reports resemble our own."
+    }, 
+    {
+        "sentence_id,": "65f5da7d62", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "manpower development": "enhance"
+                    }, 
+                    {
+                        "intra-state cooperation": "enhance"
+                    }, 
+                    {
+                        "public sector partnership": "enhance"
+                    }, 
+                    {
+                        "international cooperation": "enhance"
+                    }
+                ], 
+                "subcategory": [
+                    "manpower development", 
+                    "intra-state cooperation", 
+                    "public sector partnership", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "This complementarity reflects our shared experiences in dealing with cyber security, and demonstrates our determination to enhance our collective security by leveraging each allys domestic cyber regimes."
+    }, 
+    {
+        "sentence_id,": "4f056b0667", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Like Canada, our allies intend to review and update their plans regularly in response to evolution in cyber security technologies and practices, and the cyber threat environment."
+    }, 
+    {
+        "sentence_id,": "6734e6d6d5", 
+        "tag": [
+            {
+                "category": [
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "public sector partnership": "discussions"
+                    }
+                ], 
+                "subcategory": [
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "Canada will also build on its existing engagement in cyber security discussions at key international fora, such as the United Nations, NATO and the Group of Eight."
+    }, 
+    {
+        "sentence_id,": "b24d79f93a", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "We are one of the non-European states that have signed the Council of Europes Convention on Cybercrime, and the Government is preparing legislation to permit ratification of this treaty."
+    }, 
+    {
+        "sentence_id,": "58f7d3a862", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building", 
+                    "cooperation", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "manpower development": "enhance"
+                    }, 
+                    {
+                        "intra-state cooperation": "enhance"
+                    }, 
+                    {
+                        "public sector partnership": "enhance"
+                    }, 
+                    {
+                        "international cooperation": "enhance"
+                    }, 
+                    {
+                        "institutional support": "supports"
+                    }
+                ], 
+                "subcategory": [
+                    "manpower development", 
+                    "intra-state cooperation", 
+                    "public sector partnership", 
+                    "international cooperation", 
+                    "institutional support"
+                ]
+            }
+        ], 
+        "sentence": "Canada supports international efforts to develop and implement a global cyber governance regime that will enhance our security."
+    }, 
+    {
+        "sentence_id,": "cae0412ad2", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "To the extent possible, Canada will support efforts to build the cyber security capacity of less developed states and foreign partners."
+    }, 
+    {
+        "sentence_id,": "26981756a2", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "This will help forestall adversaries from exploiting weak links in global cyber defences."
+    }, 
+    {
+        "sentence_id,": "490e73b570", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "regulation and compliance": "departments and agencies"
+                    }, 
+                    {
+                        "un convention and protocol": "departments and agencies"
+                    }
+                ], 
+                "subcategory": [
+                    "regulation and compliance", 
+                    "un convention and protocol"
+                ]
+            }
+        ], 
+        "sentence": "Working Cooperatively The Strategy will be implemented by the departments and agencies most directly responsible for securing the Governments cyber systems."
+    }, 
+    {
+        "sentence_id,": "1e69911344", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "We will work with our provincial and territorial partners, as they are jointly responsible for protecting much of the critical infrastructure in Canada."
+    }, 
+    {
+        "sentence_id,": "2e14602381", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Canadas academic community, non-governmental organi- zations and private sector must join the Government in securing Canadas cyber systems."
+    }, 
+    {
+        "sentence_id,": "68a94263b2", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Each of these communities has unique technological and analytical capabilities to offer, and a strong incentive to secure their own systems."
+    }, 
+    {
+        "sentence_id,": "85877717f3", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Their collaboration is essential to our shared success to secure Canada and increase our productivity and prosperity."
+    }, 
+    {
+        "sentence_id,": "611245332d", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Individual Canadians must also play a primary role in securing Canadas cyber future."
+    }, 
+    {
+        "sentence_id,": "fd473ea65c", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The Government can introduce and support important cyber security initiatives, but it cannot protect each of us from every threat we encounter when we go online."
+    }, 
+    {
+        "sentence_id,": "2879d07319", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Canadians must become aware of these threats, and of the tools available to recognize and avoid them."
+    }, 
+    {
+        "sentence_id,": "a3315b5534", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Most importantly, they must use these tools to protect themselves and their families."
+    }, 
+    {
+        "sentence_id,": "0c1f5f2134", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Cyber security matters to everyone, everyday."
+    }, 
+    {
+        "sentence_id,": "7b5aef8e08", 
+        "tag": [
+            {
+                "category": [
+                    "cooperation", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "intra-state cooperation": "safer"
+                    }, 
+                    {
+                        "intra-state cooperation": "safer"
+                    }, 
+                    {
+                        "institutional support": "safer"
+                    }, 
+                    {
+                        "institutional support": "safer"
+                    }, 
+                    {
+                        "reporting mechanism": "safer"
+                    }, 
+                    {
+                        "reporting mechanism": "safer"
+                    }
+                ], 
+                "subcategory": [
+                    "intra-state cooperation", 
+                    "institutional support", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "It matters for a safer and more prosperous Canada."
+    }, 
+    {
+        "sentence_id,": "015e6c3e66", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Canadas Cyber Security Strategy: For a Stronger and More Prosperous Canada Specific Initiatives Canadas Cyber Security Strategy is built on three pillars: Securing Government systems; Partnering to secure vital cyber systems outside the federal Government; and Helping Canadians to be secure online."
+    }, 
+    {
+        "sentence_id,": "72eabc6ee1", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "SECUrIng govErnmEnT SySTEmS The cyber world in which Canadians live, work and play lacks the regimes of law and order that govern our physical world."
+    }, 
+    {
+        "sentence_id,": "ac6c9a1cf2", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The Government is entrusted with safeguarding some of our most personal and sensitive information in its electronic databases."
+    }, 
+    {
+        "sentence_id,": "45a18e04d4", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "standardisation development": "the private sector"
+                    }, 
+                    {
+                        "manpower development": "the private sector"
+                    }, 
+                    {
+                        "public sector partnership": "the private sector"
+                    }
+                ], 
+                "subcategory": [
+                    "standardisation development", 
+                    "manpower development", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "It provides services to Canadians and the private sector through its websites and electronic processing systems."
+    }, 
+    {
+        "sentence_id,": "3d4afab748", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "And the Government transmits highly classified information essential to our military and national security operations via its classified communications systems."
+    }, 
+    {
+        "sentence_id,": "d366e4e882", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "There have been many cyber attacks directed at Government systems."
+    }, 
+    {
+        "sentence_id,": "c89e2882f6", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "attackers"
+                    }, 
+                    {
+                        "cirt": "attackers"
+                    }, 
+                    {
+                        "intra-state cooperation": "attackers"
+                    }, 
+                    {
+                        "intra-agency cooperation": "attackers"
+                    }, 
+                    {
+                        "international cooperation": "attackers"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "cirt", 
+                    "intra-state cooperation", 
+                    "intra-agency cooperation", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Cyber attackers regularly probe these systems, looking for vulnerabilities."
+    }, 
+    {
+        "sentence_id,": "190009ad09", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Securing these links is not simply a matter of operational efficiency."
+    }, 
+    {
+        "sentence_id,": "e1ee112208", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "It is a matter of national security and sovereignty, protecting the lives of our foreign service, military and law enforcement personnel, the integrity of our economy, and safeguarding the personal information of Canadians."
+    }, 
+    {
+        "sentence_id,": "7577e65176", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "We must and will strengthen the Governments capability to detect, deter and defend against cyber attacks while deploying cyber technology to advance Canadas economic and national security interests."
+    }, 
+    {
+        "sentence_id,": "d702c3a09d", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building", 
+                    "legal measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "manpower development": "employees"
+                    }, 
+                    {
+                        "regulation and compliance": "roles and responsibilities"
+                    }, 
+                    {
+                        "un convention and protocol": "roles and responsibilities"
+                    }
+                ], 
+                "subcategory": [
+                    "manpower development", 
+                    "regulation and compliance", 
+                    "un convention and protocol"
+                ]
+            }
+        ], 
+        "sentence": "Achieving the cyber integrity of Government requires that roles and responsibilities are clear, systems are strengthened and Government employees are aware of proper procedure."
+    }, 
+    {
+        "sentence_id,": "29b7ed7bb5", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "regulation and compliance": "roles and responsibilities"
+                    }, 
+                    {
+                        "un convention and protocol": "roles and responsibilities"
+                    }
+                ], 
+                "subcategory": [
+                    "regulation and compliance", 
+                    "un convention and protocol"
+                ]
+            }
+        ], 
+        "sentence": "Establishing Clear Federal Roles and Responsibilities With a subject as critical as cyber security, there is no room for ambiguity in terms of who does what."
+    }, 
+    {
+        "sentence_id,": "e4fa765c4c", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "This Strategy sets out the required clarity."
+    }, 
+    {
+        "sentence_id,": "455226d7cf", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "responsible agency": "coordinate"
+                    }, 
+                    {
+                        "manpower development": "public safety"
+                    }, 
+                    {
+                        "intra-agency cooperation": "public safety"
+                    }, 
+                    {
+                        "public sector partnership": "public safety"
+                    }
+                ], 
+                "subcategory": [
+                    "responsible agency", 
+                    "manpower development", 
+                    "intra-agency cooperation", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "Public Safety Canada will coordinate implementation of the Strategy."
+    }, 
+    {
+        "sentence_id,": "b710ce271c", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "cirt": "design"
+                    }, 
+                    {
+                        "standardisation development": "design"
+                    }, 
+                    {
+                        "intra-agency cooperation": "design"
+                    }
+                ], 
+                "subcategory": [
+                    "cirt", 
+                    "standardisation development", 
+                    "intra-agency cooperation"
+                ]
+            }
+        ], 
+        "sentence": "It will design a whole-of-Government approach to reporting on the implementation of the Strategy."
+    }, 
+    {
+        "sentence_id,": "5e40785c0a", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "responsible agency": "central coordination"
+                    }, 
+                    {
+                        "intra-agency cooperation": "central coordination"
+                    }
+                ], 
+                "subcategory": [
+                    "responsible agency", 
+                    "intra-agency cooperation"
+                ]
+            }
+        ], 
+        "sentence": "It will provide central coordination for assessing emerging complex Canadas Cyber Security Strategy: For a Stronger and More Prosperous Canada threats and developing and promoting comprehensive, coordinated approaches to address risks within the Government and across Canada."
+    }, 
+    {
+        "sentence_id,": "9ebf5e724e", 
+        "tag": [
+            {
+                "category": [
+                    "cooperation", 
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "international cooperation": "continue"
+                    }, 
+                    {
+                        "cirt": "focal point"
+                    }, 
+                    {
+                        "responsible agency": "incident response"
+                    }, 
+                    {
+                        "standardisation development": "focal point"
+                    }, 
+                    {
+                        "manpower development": "public safety"
+                    }, 
+                    {
+                        "intra-agency cooperation": "public safety"
+                    }, 
+                    {
+                        "public sector partnership": "public safety"
+                    }, 
+                    {
+                        "reporting mechanism": "incident response"
+                    }
+                ], 
+                "subcategory": [
+                    "international cooperation", 
+                    "cirt", 
+                    "responsible agency", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "intra-agency cooperation", 
+                    "public sector partnership", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "Within Public Safety Canada, the Canadian Cyber Incident Response Centre will continue to be the focal point for monitoring and providing advice on mitigating cyber threats, and directing the national response to any cyber security incident."
+    }, 
+    {
+        "sentence_id,": "cff3349886", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "regulation and compliance": "potential risks"
+                    }, 
+                    {
+                        "policy": "potential risks"
+                    }, 
+                    {
+                        "manpower development": "public awareness"
+                    }, 
+                    {
+                        "manpower development": "public safety"
+                    }, 
+                    {
+                        "intra-agency cooperation": "public safety"
+                    }, 
+                    {
+                        "public sector partnership": "public awareness"
+                    }, 
+                    {
+                        "public sector partnership": "public safety"
+                    }
+                ], 
+                "subcategory": [
+                    "regulation and compliance", 
+                    "policy", 
+                    "manpower development", 
+                    "intra-agency cooperation", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "Public Safety Canada will also lead public awareness and outreach activities to inform Canadians of the potential risks they face and the actions they can take to protect themselves and their families in cyberspace."
+    }, 
+    {
+        "sentence_id,": "eaa543c25c", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The Communications Security Establishment Canada has internationally recognized expertise in dealing with cyber threats and attacks."
+    }, 
+    {
+        "sentence_id,": "ed31b98aba", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures", 
+                    "capacity building", 
+                    "cooperation", 
+                    "child online protection", 
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "mandate"
+                    }, 
+                    {
+                        "criminal legislation": "mandate"
+                    }, 
+                    {
+                        "cirt": "mandate"
+                    }, 
+                    {
+                        "cirt": "mandate"
+                    }, 
+                    {
+                        "standards": "mandate"
+                    }, 
+                    {
+                        "standards": "mandate"
+                    }, 
+                    {
+                        "manpower development": "enhance"
+                    }, 
+                    {
+                        "intra-state cooperation": "enhance"
+                    }, 
+                    {
+                        "intra-agency cooperation": "mandate"
+                    }, 
+                    {
+                        "intra-agency cooperation": "mandate"
+                    }, 
+                    {
+                        "public sector partnership": "enhance"
+                    }, 
+                    {
+                        "international cooperation": "enhance"
+                    }, 
+                    {
+                        "institutional support": "mandate"
+                    }, 
+                    {
+                        "institutional support": "mandate"
+                    }, 
+                    {
+                        "regulation and compliance": "foreign intelligence"
+                    }, 
+                    {
+                        "roadmap for governance": "government networks"
+                    }, 
+                    {
+                        "responsible agency": "foreign intelligence"
+                    }, 
+                    {
+                        "agency certification": "government networks"
+                    }, 
+                    {
+                        "intra-state cooperation": "foreign intelligence"
+                    }, 
+                    {
+                        "regulation and compliance": "networks and information"
+                    }, 
+                    {
+                        "regulation and compliance": "threats and attacks"
+                    }, 
+                    {
+                        "un convention and protocol": "networks and information"
+                    }, 
+                    {
+                        "un convention and protocol": "threats and attacks"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "cirt", 
+                    "standards", 
+                    "manpower development", 
+                    "intra-state cooperation", 
+                    "intra-agency cooperation", 
+                    "public sector partnership", 
+                    "international cooperation", 
+                    "institutional support", 
+                    "regulation and compliance", 
+                    "roadmap for governance", 
+                    "responsible agency", 
+                    "agency certification", 
+                    "un convention and protocol"
+                ]
+            }
+        ], 
+        "sentence": "With its unique mandate and knowledge, the Communications Security Establishment Canada will enhance its capacity to detect and discover threats, provide foreign intelligence and cyber security services, and respond to cyber threats and attacks against Government networks and information technology systems."
+    }, 
+    {
+        "sentence_id,": "a8566b5502", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "manpower development": "investigate"
+                    }, 
+                    {
+                        "public sector partnership": "investigate"
+                    }
+                ], 
+                "subcategory": [
+                    "manpower development", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "The Canadian Security Intelligence Service will analyze and investigate domestic and international threats to the security of Canada."
+    }, 
+    {
+        "sentence_id,": "26f493e3a1", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "manpower development": "police"
+                    }, 
+                    {
+                        "manpower development": "police"
+                    }, 
+                    {
+                        "institutional support": "police"
+                    }, 
+                    {
+                        "institutional support": "police"
+                    }, 
+                    {
+                        "reporting mechanism": "police"
+                    }, 
+                    {
+                        "reporting mechanism": "police"
+                    }
+                ], 
+                "subcategory": [
+                    "manpower development", 
+                    "institutional support", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "The Royal Canadian Mounted Police will investigate, as per the Royal Canadian Mounted Police Act, suspected domestic and international criminal acts against Canadian networks and critical information infrastructure."
+    }, 
+    {
+        "sentence_id,": "1ac210bfed", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building", 
+                    "technical measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "responsible agency": "board"
+                    }, 
+                    {
+                        "manpower development": "board"
+                    }, 
+                    {
+                        "cirt": "incident management"
+                    }, 
+                    {
+                        "reporting mechanism": "incident management"
+                    }
+                ], 
+                "subcategory": [
+                    "responsible agency", 
+                    "manpower development", 
+                    "cirt", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "The Treasury Board Secretariat will support and strengthen cyber incident management capabilities across Government, through the development of policies, standards and assessment tools."
+    }, 
+    {
+        "sentence_id,": "1495541b0d", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "responsible agency": "board"
+                    }, 
+                    {
+                        "manpower development": "board"
+                    }
+                ], 
+                "subcategory": [
+                    "responsible agency", 
+                    "manpower development"
+                ]
+            }
+        ], 
+        "sentence": "The Treasury Board Secretariat is also responsible for information technology security in the Government of Canada."
+    }, 
+    {
+        "sentence_id,": "3c4b53131c", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "responsible agency": "affairs"
+                    }, 
+                    {
+                        "standardisation development": "affairs"
+                    }, 
+                    {
+                        "manpower development": "affairs"
+                    }, 
+                    {
+                        "intra-agency cooperation": "affairs"
+                    }
+                ], 
+                "subcategory": [
+                    "responsible agency", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "intra-agency cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Foreign Affairs and International Trade Canada will advise on the international dimension of cyber security and work to develop a cyber security foreign policy that will help strengthen coherence in the Governments engagement abroad on cyber security."
+    }, 
+    {
+        "sentence_id,": "e484714d1b", 
+        "tag": [
+            {
+                "category": [
+                    "cooperation", 
+                    "organization measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "international cooperation": "continue"
+                    }, 
+                    {
+                        "roadmap for governance": "other government"
+                    }, 
+                    {
+                        "roadmap for governance": "government departments"
+                    }, 
+                    {
+                        "agency certification": "other government"
+                    }, 
+                    {
+                        "agency certification": "government departments"
+                    }
+                ], 
+                "subcategory": [
+                    "international cooperation", 
+                    "roadmap for governance", 
+                    "agency certification"
+                ]
+            }
+        ], 
+        "sentence": "The Department of National Defence and the Canadian Forces will strengthen their capacity to defend their own networks, will work with other Government departments to identify threats and possible responses, and will continue to exchange information about cyber best practices with allied militaries."
+    }, 
+    {
+        "sentence_id,": "e0e78a5ae3", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "responsible agency": "affairs"
+                    }, 
+                    {
+                        "standardisation development": "affairs"
+                    }, 
+                    {
+                        "manpower development": "affairs"
+                    }, 
+                    {
+                        "intra-agency cooperation": "affairs"
+                    }
+                ], 
+                "subcategory": [
+                    "responsible agency", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "intra-agency cooperation"
+                ]
+            }
+        ], 
+        "sentence": "The Department of National Defence and the Canadian Forces will also work with allies to develop the policy and legal framework for military aspects of cyber security, complementing international outreach efforts of Foreign Affairs and International Trade Canada."
+    }, 
+    {
+        "sentence_id,": "9723a76adf", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "complexity"
+                    }
+                ], 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Given the speed and complexity of many cyber attacks, barriers to cooperation and information sharing between federal partners must be eliminated."
+    }, 
+    {
+        "sentence_id,": "fcfd24885c", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The Strategy includes measures to address this need, and provides the additional financial and personnel resources required to allow the Government to fulfill its cyber security obligations."
+    }, 
+    {
+        "sentence_id,": "23ef4bafb6", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "manpower development": "enhance"
+                    }, 
+                    {
+                        "intra-state cooperation": "enhance"
+                    }, 
+                    {
+                        "public sector partnership": "enhance"
+                    }, 
+                    {
+                        "international cooperation": "enhance"
+                    }
+                ], 
+                "subcategory": [
+                    "manpower development", 
+                    "intra-state cooperation", 
+                    "public sector partnership", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Strengthening the Security of Federal Cyber Systems For each new technology or practice adopted to enhance our cyber security, another is developed to circumvent it."
+    }, 
+    {
+        "sentence_id,": "ece461d9e7", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "We will continually invest in the expertise, systems and governing frameworks required to keep pace with these evolving threats."
+    }, 
+    {
+        "sentence_id,": "0ebb69566f", 
+        "tag": [
+            {
+                "category": [
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "un convention and protocol": "options"
+                    }
+                ], 
+                "subcategory": [
+                    "un convention and protocol"
+                ]
+            }
+        ], 
+        "sentence": "We will also review our options for increasing the risks and consequences applied to those who attack our cyber systems."
+    }, 
+    {
+        "sentence_id,": "93d4ea5664", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "manpower development": "enhance"
+                    }, 
+                    {
+                        "intra-state cooperation": "enhance"
+                    }, 
+                    {
+                        "public sector partnership": "enhance"
+                    }, 
+                    {
+                        "international cooperation": "enhance"
+                    }
+                ], 
+                "subcategory": [
+                    "manpower development", 
+                    "intra-state cooperation", 
+                    "public sector partnership", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "The Government will enhance the security of its cyber architecture."
+    }, 
+    {
+        "sentence_id,": "8d281cc581", 
+        "tag": [
+            {
+                "category": [
+                    "cooperation", 
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "international cooperation": "continue"
+                    }, 
+                    {
+                        "national benchmarking": "other measures"
+                    }
+                ], 
+                "subcategory": [
+                    "international cooperation", 
+                    "national benchmarking"
+                ]
+            }
+        ], 
+        "sentence": "It will continue to reduce the number of Internet gateways into its computer systems, and take other measures to secure systems."
+    }, 
+    {
+        "sentence_id,": "c44067312f", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "In 2009 the Government made a number of important amendments to its Policy on Government Security."
+    }, 
+    {
+        "sentence_id,": "0b6fc12d3a", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "organization measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "regulation and compliance": "safeguards"
+                    }, 
+                    {
+                        "policy": "safeguards"
+                    }, 
+                    {
+                        "responsible agency": "assure"
+                    }, 
+                    {
+                        "responsible agency": "board"
+                    }, 
+                    {
+                        "standardisation development": "assure"
+                    }, 
+                    {
+                        "manpower development": "board"
+                    }
+                ], 
+                "subcategory": [
+                    "regulation and compliance", 
+                    "policy", 
+                    "responsible agency", 
+                    "standardisation development", 
+                    "manpower development"
+                ]
+            }
+        ], 
+        "sentence": "Administered by the Treasury Board Secretariat, the Policy sets out safeguards to assure the delivery of Government services to Canadians."
+    }, 
+    {
+        "sentence_id,": "00bbfa3a08", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "regulation and compliance": "departments and agencies"
+                    }, 
+                    {
+                        "un convention and protocol": "departments and agencies"
+                    }
+                ], 
+                "subcategory": [
+                    "regulation and compliance", 
+                    "un convention and protocol"
+                ]
+            }
+        ], 
+        "sentence": "Since the Government relies extensively on information technology to provide these services, the Policy emphasizes the need for departments and agencies to monitor and secure their electronic operations."
+    }, 
+    {
+        "sentence_id,": "b646856142", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Canadas Cyber Security Strategy: For a Stronger and More Prosperous Canada The globalization of the technology industry makes it difficult to assess suppliers trustworthiness."
+    }, 
+    {
+        "sentence_id,": "50eb131b06", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "attackers"
+                    }, 
+                    {
+                        "cirt": "attackers"
+                    }, 
+                    {
+                        "intra-state cooperation": "attackers"
+                    }, 
+                    {
+                        "intra-agency cooperation": "attackers"
+                    }, 
+                    {
+                        "international cooperation": "attackers"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "cirt", 
+                    "intra-state cooperation", 
+                    "intra-agency cooperation", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Cyber attackers are well aware of the opportunities created for them by security gaps in the global supply chain."
+    }, 
+    {
+        "sentence_id,": "c1be23ceda", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building", 
+                    "cooperation", 
+                    "legal measures", 
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "manpower development": "disseminate"
+                    }, 
+                    {
+                        "intra-agency cooperation": "disseminate"
+                    }, 
+                    {
+                        "public sector partnership": "disseminate"
+                    }, 
+                    {
+                        "regulation and compliance": "foreign intelligence"
+                    }, 
+                    {
+                        "responsible agency": "intelligence services"
+                    }, 
+                    {
+                        "responsible agency": "foreign intelligence"
+                    }, 
+                    {
+                        "intra-state cooperation": "foreign intelligence"
+                    }, 
+                    {
+                        "international cooperation": "intelligence services"
+                    }
+                ], 
+                "subcategory": [
+                    "manpower development", 
+                    "intra-agency cooperation", 
+                    "public sector partnership", 
+                    "regulation and compliance", 
+                    "responsible agency", 
+                    "intra-state cooperation", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Some organized crime syndicates and foreign intelligence services have already exploited these vulnerabilities in an effort to disseminate exploitable technologies."
+    }, 
+    {
+        "sentence_id,": "e4859a77d9", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The Government will strengthen processes to reduce the risk related to compromised technologies."
+    }, 
+    {
+        "sentence_id,": "7d68f0628d", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Enhancing Cyber Security Awareness throughout Government While clear roles and responsibilities, and strengthened systems are important to achieving cyber security, the Governments success in securing its systems is largely dependent on its employees."
+    }, 
+    {
+        "sentence_id,": "fb5af6dc51", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "As countless incidents in all segments of society have shown, even the most sophisticated security systems can be undermined by simple human error."
+    }, 
+    {
+        "sentence_id,": "4470c19290", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "In Government, as elsewhere, people can fail to follow basic cyber security practices by: Not changing their passwords on a regular basis; Assuming that an office email system is more secure than it is; and Importing malicious viruses into workplace computers by visiting corrupted websites."
+    }, 
+    {
+        "sentence_id,": "bdd9f2d136", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "parTnErIng To SECUrE vITaL CybEr SySTEmS oUTSIdE ThE fEdEraL govErnmEnT The economic success of Canadas private sector depends in large measure on its ability to secure cutting edge research and intellectual property, business transactions and financial data."
+    }, 
+    {
+        "sentence_id,": "833495458c", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Failing to secure these assets inevitably leads to lost market share, fewer customers and corporate breakdown."
+    }, 
+    {
+        "sentence_id,": "f68c49cd49", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "In much the same way, our personal wellbeing depends on access to secure and reliable services from our transportation systems, communication networks and financial institutions."
+    }, 
+    {
+        "sentence_id,": "b580df252e", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "cirt": "economic prosperity"
+                    }, 
+                    {
+                        "standardisation development": "private companies"
+                    }, 
+                    {
+                        "manpower development": "private companies"
+                    }, 
+                    {
+                        "manpower development": "economic prosperity"
+                    }, 
+                    {
+                        "public sector partnership": "private companies"
+                    }, 
+                    {
+                        "international cooperation": "economic prosperity"
+                    }, 
+                    {
+                        "certification": "quality of life"
+                    }, 
+                    {
+                        "manpower development": "quality of life"
+                    }
+                ], 
+                "subcategory": [
+                    "cirt", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "public sector partnership", 
+                    "international cooperation", 
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "It is increasingly important to protect two of the primary contributors to our quality of life private companies that drive our economic prosperity and the infrastructure systems that support our daily activities against cyber threats."
+    }, 
+    {
+        "sentence_id,": "d30f7b1d08", 
+        "tag": [
+            {
+                "category": [
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "international cooperation": "impacts"
+                    }
+                ], 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Failure to do so will have adverse economic impacts and undermine consumer confidence."
+    }, 
+    {
+        "sentence_id,": "01bca46301", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "A 2008 study by McMaster University9 on identity theft in Canada found that 20% of consumers have eliminated or reduced the amount of shopping they do online, and that 9% have eliminated or reduced online banking activities due to the risks they perceive in doing business online."
+    }, 
+    {
+        "sentence_id,": "e5312af8c0", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "By building a secure and trusted business environment, we will help foster the productivity and innovation that drive our economic prosperity."
+    }, 
+    {
+        "sentence_id,": "65c6b930e1", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The public needs to be more aware of the vulnerabilities inherent in the cyber systems that these industries use to deliver their services."
+    }, 
+    {
+        "sentence_id,": "b777d6353d", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Increased awareness will equip Canadians to avoid identity theft and potential financial loss."
+    }, 
+    {
+        "sentence_id,": "05425c34b4", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The Government will partner with the provinces, territories and private sector to improve the cyber security posture of Canada and Canadians."
+    }, 
+    {
+        "sentence_id,": "9803877d47", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "capacity building", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "regulation and compliance": "research and development"
+                    }, 
+                    {
+                        "regulation and compliance": "research and development"
+                    }, 
+                    {
+                        "standardisation development": "research and development"
+                    }, 
+                    {
+                        "standardisation development": "research and development"
+                    }, 
+                    {
+                        "un convention and protocol": "research and development"
+                    }, 
+                    {
+                        "un convention and protocol": "research and development"
+                    }
+                ], 
+                "subcategory": [
+                    "regulation and compliance", 
+                    "standardisation development", 
+                    "un convention and protocol"
+                ]
+            }
+        ], 
+        "sentence": "The Government will build on existing programs and expertise, such as Defence Research and Development Canadas Public Security Technical Program to better support cyber security research and development activities."
+    }, 
+    {
+        "sentence_id,": "c18f76f60e", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "national benchmarking": "collaborate"
+                    }, 
+                    {
+                        "standardisation development": "collaborate"
+                    }, 
+                    {
+                        "manpower development": "enhance"
+                    }, 
+                    {
+                        "manpower development": "collaborate"
+                    }, 
+                    {
+                        "intra-state cooperation": "enhance"
+                    }, 
+                    {
+                        "intra-state cooperation": "collaborate"
+                    }, 
+                    {
+                        "intra-agency cooperation": "collaborate"
+                    }, 
+                    {
+                        "public sector partnership": "enhance"
+                    }, 
+                    {
+                        "public sector partnership": "collaborate"
+                    }, 
+                    {
+                        "international cooperation": "enhance"
+                    }, 
+                    {
+                        "international cooperation": "collaborate"
+                    }
+                ], 
+                "subcategory": [
+                    "national benchmarking", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "intra-state cooperation", 
+                    "intra-agency cooperation", 
+                    "public sector partnership", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "We will also collaborate with our private sector and academic partners to enhance information sharing activities."
+    }, 
+    {
+        "sentence_id,": "5d928e0fe3", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "certification": "component"
+                    }, 
+                    {
+                        "national benchmarking": "levels of government"
+                    }
+                ], 
+                "subcategory": [
+                    "certification", 
+                    "national benchmarking"
+                ]
+            }
+        ], 
+        "sentence": "Partnering with the Provinces and Territories Strengthened partnerships among all levels of government are an essential component in delivering a comprehensive cyber security strategy for Canada and Canadians."
+    }, 
+    {
+        "sentence_id,": "6693c673a7", 
+        "tag": [
+            {
+                "category": [
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "international cooperation": "essential services"
+                    }
+                ], 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Our provincial and territorial counterparts provide a range of essential services whose delivery is dependent on the safe and secure operation of their cyber systems."
+    }, 
+    {
+        "sentence_id,": "59988cf79a", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "For example, they hold sensitive personal information in their electronic databases, including health records, marriage and driver licenses, and provincial tax return information."
+    }, 
+    {
+        "sentence_id,": "5f2f9b2621", 
+        "tag": [
+            {
+                "category": [
+                    "child online protection", 
+                    "technical measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "institutional support": "exposure"
+                    }, 
+                    {
+                        "standards": "a key role"
+                    }, 
+                    {
+                        "manpower development": "the education system"
+                    }, 
+                    {
+                        "public sector partnership": "a key role"
+                    }
+                ], 
+                "subcategory": [
+                    "institutional support", 
+                    "standards", 
+                    "manpower development", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "The provinces 9 McMaster University, Measuring Identity Theft in Canada: 2008 Consumer Survey Canadas Cyber Security Strategy: For a Stronger and More Prosperous Canada and territories have a key role to play in promoting awareness among Canadians, especially young Canadians in the education system where first exposure to the Internet often occurs."
+    }, 
+    {
+        "sentence_id,": "8b5fcb3e10", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "national benchmarking": "levels of government"
+                    }
+                ], 
+                "subcategory": [
+                    "national benchmarking"
+                ]
+            }
+        ], 
+        "sentence": "Only when all levels of government are working together can Canadians be assured that their private information is secure and the services that they depend on will be delivered."
+    }, 
+    {
+        "sentence_id,": "2837c0d4cf", 
+        "tag": [
+            {
+                "category": [
+                    "cooperation", 
+                    "organization measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "international cooperation": "impacts"
+                    }, 
+                    {
+                        "policy": "critical infrastructure sectors"
+                    }, 
+                    {
+                        "standardisation development": "the private sector"
+                    }, 
+                    {
+                        "manpower development": "the private sector"
+                    }, 
+                    {
+                        "intra-agency cooperation": "critical infrastructure sectors"
+                    }, 
+                    {
+                        "public sector partnership": "the private sector"
+                    }, 
+                    {
+                        "public sector partnership": "critical infrastructure sectors"
+                    }
+                ], 
+                "subcategory": [
+                    "international cooperation", 
+                    "policy", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "intra-agency cooperation", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "Partnering with the Private Sector and Critical Infrastructure Sectors Many of the risks and impacts of cyber attacks are shared between the Government and private sector."
+    }, 
+    {
+        "sentence_id,": "2a2e85af76", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "For example, untrustworthy technology is harmful to both government and industry."
+    }, 
+    {
+        "sentence_id,": "b283865caa", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Identifying these risks must be done in partnership."
+    }, 
+    {
+        "sentence_id,": "c2df0f74f8", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "technical measures", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "roadmap for governance": "achieve"
+                    }, 
+                    {
+                        "certification": "private sectors"
+                    }, 
+                    {
+                        "public sector partnership": "private sectors"
+                    }
+                ], 
+                "subcategory": [
+                    "roadmap for governance", 
+                    "certification", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "Fortunately, Canadas public and private sectors share a long history of working together to achieve shared economic and national security goals."
+    }, 
+    {
+        "sentence_id,": "f1e40e0bef", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "This cooperation needs to be further strengthened."
+    }, 
+    {
+        "sentence_id,": "6bbdeb47a4", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Each partner must share accurate and timely cyber security information regarding existing and emerging threats, defensive techniques and other best practices."
+    }, 
+    {
+        "sentence_id,": "84779d5dd5", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Strengthened public/private partnerships will be fostered through existing structures and organizations, such as critical infrastructure sector networks."
+    }, 
+    {
+        "sentence_id,": "a2615243f8", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "national benchmarking": "collaborate"
+                    }, 
+                    {
+                        "standardisation development": "collaborate"
+                    }, 
+                    {
+                        "manpower development": "collaborate"
+                    }, 
+                    {
+                        "intra-state cooperation": "collaborate"
+                    }, 
+                    {
+                        "intra-agency cooperation": "collaborate"
+                    }, 
+                    {
+                        "public sector partnership": "collaborate"
+                    }, 
+                    {
+                        "international cooperation": "collaborate"
+                    }
+                ], 
+                "subcategory": [
+                    "national benchmarking", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "intra-state cooperation", 
+                    "intra-agency cooperation", 
+                    "public sector partnership", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Cross sector mechanisms will also be established, providing opportunities for governments and industry to collaborate on a broad range of critical infrastructure issues, including cyber security."
+    }, 
+    {
+        "sentence_id,": "bb9f815d59", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Another key area for collaboration is the security of process control systems."
+    }, 
+    {
+        "sentence_id,": "3497c9f0b2", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "These systems control everything from our machines and factories to our critical infrastructures."
+    }, 
+    {
+        "sentence_id,": "41d14b2ed9", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "They keep our dams from overflowing, our electrical grids from collapsing and our transportation networks from malfunctioning."
+    }, 
+    {
+        "sentence_id,": "d94969d58f", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Their security is critical to the safe delivery of the services and products upon which Canadians depend."
+    }, 
+    {
+        "sentence_id,": "280fbbff99", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Joint public/private sector initiatives will be struck to identify and share best practices for addressing threats to these systems."
+    }, 
+    {
+        "sentence_id,": "db0adb9f8b", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Our collective cyber security efforts will be further refined through training and exercise programs."
+    }, 
+    {
+        "sentence_id,": "58e4fa57a3", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The result of these exercises, some of which are already underway, will be an improved understanding of the dynamic among partners in cyber security."
+    }, 
+    {
+        "sentence_id,": "21f31b4da8", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Participation in these exercises will also support the improvement of procedures to prevent cyber security failures."
+    }, 
+    {
+        "sentence_id,": "6f3da73f46", 
+        "tag": [
+            {
+                "category": [
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "international cooperation": "impacts"
+                    }
+                ], 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "The disruption of critical infrastructure and cyber systems can have direct impacts on businesses and communities on both sides of the CanadaUnited States border."
+    }, 
+    {
+        "sentence_id,": "39fac27b1c", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Attacks on interconnected cyber networks can have cascading effects across industrial sectors and national borders."
+    }, 
+    {
+        "sentence_id,": "4c7a8dea1e", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "critical infrastructure protection"
+                    }, 
+                    {
+                        "intra-agency cooperation": "critical infrastructure protection"
+                    }, 
+                    {
+                        "public sector partnership": "critical infrastructure protection"
+                    }
+                ], 
+                "subcategory": [
+                    "policy", 
+                    "intra-agency cooperation", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "For this reason, Canada will be active in international fora dealing with critical infrastructure protection and cyber security."
+    }, 
+    {
+        "sentence_id,": "1714169110", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "roadmap for governance": "achieve"
+                    }
+                ], 
+                "subcategory": [
+                    "roadmap for governance"
+                ]
+            }
+        ], 
+        "sentence": "hELpIng CanadIanS To bE SECUrE onLInE Our success in harnessing cyberspace has helped us achieve unprecedented personal productivity and prosperity."
+    }, 
+    {
+        "sentence_id,": "d66407e0b8", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "cooperation", 
+                    "child online protection", 
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "commit"
+                    }, 
+                    {
+                        "public sector partnership": "commit"
+                    }, 
+                    {
+                        "national legislation": "commit"
+                    }, 
+                    {
+                        "criminal legislation": "traditional crimes"
+                    }, 
+                    {
+                        "responsible agency": "traditional crimes"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "public sector partnership", 
+                    "national legislation", 
+                    "responsible agency"
+                ]
+            }
+        ], 
+        "sentence": "But it has also allowed the worlds criminals to commit traditional crimes with 21st century technologies."
+    }, 
+    {
+        "sentence_id,": "69d84126a7", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The Government is taking steps to protect cyberspace from becoming a criminal haven."
+    }, 
+    {
+        "sentence_id,": "1636fc3ccb", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "We will deny cyber criminals the anonymity they are seeking while at the same time protecting the privacy of Canadians."
+    }, 
+    {
+        "sentence_id,": "49fc5ced4f", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Combatting Cybercrime Criminals are learning quickly that cybercrime can be inexpensive, low risk and profitable."
+    }, 
+    {
+        "sentence_id,": "aedaa5443d", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "In one well known incident uncovered in 2007,10 over 45 million customer records were stolen from a well known North American retailer."
+    }, 
+    {
+        "sentence_id,": "af630be1d0", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures"
+                ], 
+                "keywords": [
+                    {
+                        "regulation and compliance": "credit card"
+                    }, 
+                    {
+                        "cirt": "credit card"
+                    }
+                ], 
+                "subcategory": [
+                    "regulation and compliance", 
+                    "cirt"
+                ]
+            }
+        ], 
+        "sentence": "The breach occurred over a three year period, during which criminals monitored wireless signals from point of sale credit card terminals."
+    }, 
+    {
+        "sentence_id,": "722a58bdcf", 
+        "tag": [
+            {
+                "category": [
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "institutional support": "harm"
+                    }, 
+                    {
+                        "reporting mechanism": "harm"
+                    }
+                ], 
+                "subcategory": [
+                    "institutional support", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "These attacks cost the retailer over $130 million and inflicted unknown financial harm on individual victims."
+    }, 
+    {
+        "sentence_id,": "d72153d12a", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Also in 2008, 11 people operating in five different countries were charged11 with breaking into the databases of nine major North American retailers, stealing some 40 million credit and debit card numbers from their databases, and selling the numbers (via the Internet) to other criminals."
+    }, 
+    {
+        "sentence_id,": "7b5dd31ca0", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "cybercrimes"
+                    }, 
+                    {
+                        "regulation and compliance": "combat"
+                    }, 
+                    {
+                        "national legislation": "combat"
+                    }, 
+                    {
+                        "criminal legislation": "law enforcement agencies"
+                    }, 
+                    {
+                        "regulation and compliance": "law enforcement agencies"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "national legislation"
+                ]
+            }
+        ], 
+        "sentence": "10 SC Magazine, FTC Settles with TJX Over Breach, March 2008 11 Wired Magazine, Feds Charge 11 in Breaches at TJ Maxx, OfficeMax, DSW, Others, August 2008 Canadas Cyber Security Strategy: For a Stronger and More Prosperous Canada Canadas law enforcement agencies cannot combat transnational cybercrimes with outdated investigative powers and tools."
+    }, 
+    {
+        "sentence_id,": "27f0e5dc25", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "manpower development": "police"
+                    }, 
+                    {
+                        "institutional support": "police"
+                    }, 
+                    {
+                        "reporting mechanism": "police"
+                    }
+                ], 
+                "subcategory": [
+                    "manpower development", 
+                    "institutional support", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "Equipping our police to protect us in cyberspace requires that we provide them with new legislative authorities and supporting financial resources."
+    }, 
+    {
+        "sentence_id,": "9a6c64d566", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "manpower development": "police"
+                    }, 
+                    {
+                        "institutional support": "police"
+                    }, 
+                    {
+                        "reporting mechanism": "police"
+                    }
+                ], 
+                "subcategory": [
+                    "manpower development", 
+                    "institutional support", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "Accordingly, the Royal Canadian Mounted Police will be given the resources required to establish a centralized Integrated Cyber Crime Fusion Centre."
+    }, 
+    {
+        "sentence_id,": "c9ede8afce", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building", 
+                    "child online protection", 
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "manpower development": "police"
+                    }, 
+                    {
+                        "institutional support": "police"
+                    }, 
+                    {
+                        "reporting mechanism": "police"
+                    }, 
+                    {
+                        "responsible agency": "incident response"
+                    }, 
+                    {
+                        "reporting mechanism": "incident response"
+                    }
+                ], 
+                "subcategory": [
+                    "manpower development", 
+                    "institutional support", 
+                    "reporting mechanism", 
+                    "responsible agency"
+                ]
+            }
+        ], 
+        "sentence": "This team will increase the ability of the Royal Canadian Mounted Police to respond, using a risk-based analysis approach, to requests from the Canadian Cyber Incident Response Centre regarding cyber attacks against Government or Canadas critical infrastructure."
+    }, 
+    {
+        "sentence_id,": "c26a18befb", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "regulation and compliance": "combat"
+                    }, 
+                    {
+                        "national legislation": "combat"
+                    }
+                ], 
+                "subcategory": [
+                    "regulation and compliance", 
+                    "national legislation"
+                ]
+            }
+        ], 
+        "sentence": "The Government has already passed legislation to combat identity theft."
+    }, 
+    {
+        "sentence_id,": "fedc2b840f", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "capacity building", 
+                    "cooperation", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "reforms"
+                    }, 
+                    {
+                        "manpower development": "enhance"
+                    }, 
+                    {
+                        "manpower development": "investigate"
+                    }, 
+                    {
+                        "manpower development": "police"
+                    }, 
+                    {
+                        "intra-state cooperation": "enhance"
+                    }, 
+                    {
+                        "public sector partnership": "enhance"
+                    }, 
+                    {
+                        "public sector partnership": "investigate"
+                    }, 
+                    {
+                        "international cooperation": "enhance"
+                    }, 
+                    {
+                        "national legislation": "child"
+                    }, 
+                    {
+                        "un convention and protocol": "child"
+                    }, 
+                    {
+                        "institutional support": "police"
+                    }, 
+                    {
+                        "reporting mechanism": "police"
+                    }, 
+                    {
+                        "criminal legislation": "law enforcement agencies"
+                    }, 
+                    {
+                        "regulation and compliance": "law enforcement agencies"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "manpower development", 
+                    "intra-state cooperation", 
+                    "public sector partnership", 
+                    "international cooperation", 
+                    "national legislation", 
+                    "un convention and protocol", 
+                    "institutional support", 
+                    "reporting mechanism", 
+                    "regulation and compliance"
+                ]
+            }
+        ], 
+        "sentence": "Other legislative reforms will be re-introduced by the Government to enhance the capacity of law enforcement to investigate and prosecute cybercrime by: Making it a crime to use a computer system to sexually exploit a child; Requiring Internet service providers to maintain intercept capable systems, so that law enforcement agencies can execute judicially authorized interceptions; Requiring Internet service providers to provide police with basic customer identification data, as this information is essential to combatting online crimes that occur in real time, such as child sexual abuse; and Increasing the assistance that Canada provides to its treaty partners in fighting serious crimes."
+    }, 
+    {
+        "sentence_id,": "751f1fabb4", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Protecting Canadians Online Canadian families want their privacy, identities and physical wellbeing protected from cyber predators."
+    }, 
+    {
+        "sentence_id,": "6ae89bad18", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "And Canadians know that risks exist."
+    }, 
+    {
+        "sentence_id,": "66ff1cc86b", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "According to a Decima Research study:12 Only 35% of Canadians believe their computer is very safe against online threats; and 12 Decima Research, Cyber Security Practices in Canada, Final Report, February 2008 77% are concerned about the security of personal information."
+    }, 
+    {
+        "sentence_id,": "a95b126245", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Yet 63% use the Internet for sensitive transactions and 57% keep sensitive information on their computers."
+    }, 
+    {
+        "sentence_id,": "3f6f567dd5", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "As long as they know how to do so, Canadians will strengthen their own individual cyber security and that of Canada as a whole."
+    }, 
+    {
+        "sentence_id,": "693b8375b8", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "We all need to follow basic cyber security practices, such as changing our passwords frequently, updating antivirus protection and using only protected wireless networks."
+    }, 
+    {
+        "sentence_id,": "4426835875", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "standardisation development": "web"
+                    }, 
+                    {
+                        "intra-agency cooperation": "web"
+                    }
+                ], 
+                "subcategory": [
+                    "standardisation development", 
+                    "intra-agency cooperation"
+                ]
+            }
+        ], 
+        "sentence": "The Government will increase Canadians awareness of common online crimes and will promote safe cyber security practices through the use of web sites, creative materials and outreach efforts."
+    }, 
+    {
+        "sentence_id,": "41eee25c25", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "capacity building", 
+                    "cooperation", 
+                    "child online protection", 
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "create"
+                    }, 
+                    {
+                        "standardisation development": "create"
+                    }, 
+                    {
+                        "manpower development": "create"
+                    }, 
+                    {
+                        "public sector partnership": "create"
+                    }, 
+                    {
+                        "institutional support": "create"
+                    }, 
+                    {
+                        "reporting mechanism": "create"
+                    }, 
+                    {
+                        "national benchmarking": "safe use"
+                    }, 
+                    {
+                        "responsible agency": "culture of cyber"
+                    }, 
+                    {
+                        "manpower development": "culture of cyber"
+                    }, 
+                    {
+                        "public sector partnership": "culture of cyber"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "public sector partnership", 
+                    "institutional support", 
+                    "reporting mechanism", 
+                    "national benchmarking", 
+                    "responsible agency"
+                ]
+            }
+        ], 
+        "sentence": "The Governments ultimate goal is to create a culture of cyber safety whereby Canadians are aware of both the threats and the measures they can take to ensure the safe use of cyberspace."
+    }, 
+    {
+        "sentence_id,": "f6f9c6dcea", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Creating such awareness will require a sustained effort over a period of several years."
+    }, 
+    {
+        "sentence_id,": "69792a04b0", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The effort must start now."
+    }, 
+    {
+        "sentence_id,": "ebc3e5fc8d", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Canadas Cyber Security Strategy: For a Stronger and More Prosperous Canada Moving Forward With each passing day, Canadians dependence on cyberspace grows."
+    }, 
+    {
+        "sentence_id,": "df8b5dc1dc", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "There is no turning back to a world without an Internet."
+    }, 
+    {
+        "sentence_id,": "2aa1b094d8", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Just as previous generations took advantage of increasingly complex and helpful methods of communications, we have embraced the Internet."
+    }, 
+    {
+        "sentence_id,": "9303ff5152", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "But as we enjoy the benefits of cyberspace, we also recognize that it threatens us in a variety of ways."
+    }, 
+    {
+        "sentence_id,": "f0cecf61d6", 
+        "tag": [
+            {
+                "category": [
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "institutional support": "abuse"
+                    }, 
+                    {
+                        "reporting mechanism": "abuse"
+                    }
+                ], 
+                "subcategory": [
+                    "institutional support", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "Those who choose to abuse the Internet are becoming more sophisticated and dangerous every day."
+    }, 
+    {
+        "sentence_id,": "e4f7040d77", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "We must invest now in cyber security to protect our economic prosperity, national security and quality of life."
+    }, 
+    {
+        "sentence_id,": "d810dd698b", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Canadas Cyber Security Strategy is Canadas plan for securing our cyber systems."
+    }, 
+    {
+        "sentence_id,": "c2d730848c", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The Strategy will protect the integrity of Government systems and our nations critical assets."
+    }, 
+    {
+        "sentence_id,": "1fbc52aef3", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "regulation and compliance": "combat"
+                    }, 
+                    {
+                        "national legislation": "combat"
+                    }
+                ], 
+                "subcategory": [
+                    "regulation and compliance", 
+                    "national legislation"
+                ]
+            }
+        ], 
+        "sentence": "It will combat cybercrime and protect Canadians as they use cyberspace in their daily lives."
+    }, 
+    {
+        "sentence_id,": "3c09e1dd69", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "national benchmarking": "levels of government"
+                    }
+                ], 
+                "subcategory": [
+                    "national benchmarking"
+                ]
+            }
+        ], 
+        "sentence": "By promoting awareness of the need for cyber security, the Strategy will encourage individual Canadians, industry and all levels of government to adapt behaviour and adopt the technology required to confront evolving cyber threats."
+    }, 
+    {
+        "sentence_id,": "bdcbf5d600", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The initiatives outlined in this Strategy are important first steps."
+    }, 
+    {
+        "sentence_id,": "7ddfd128b9", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "They will be adjusted and strengthened as required."
+    }, 
+    {
+        "sentence_id,": "baacfcd8a7", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "international partners"
+                    }, 
+                    {
+                        "professional certification": "international partners"
+                    }, 
+                    {
+                        "agency certification": "international partners"
+                    }, 
+                    {
+                        "international cooperation": "international partners"
+                    }, 
+                    {
+                        "standardisation development": "the private sector"
+                    }, 
+                    {
+                        "manpower development": "the private sector"
+                    }, 
+                    {
+                        "public sector partnership": "the private sector"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "professional certification", 
+                    "agency certification", 
+                    "international cooperation", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "Cyber security is a shared responsibility, one in which Canadians, their governments, the private sector and our international partners all have a role to play."
+    }, 
+    {
+        "sentence_id,": "33aa1f1e5b", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The Strategy reflects this shared responsibility."
+    }, 
+    {
+        "sentence_id,": "b6ade34fcd", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Implementation will be a collective effort."
+    }, 
+    {
+        "sentence_id,": "0f3afb4700", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "certification": "its success"
+                    }, 
+                    {
+                        "national benchmarking": "its success"
+                    }, 
+                    {
+                        "standardisation development": "its success"
+                    }, 
+                    {
+                        "manpower development": "its success"
+                    }, 
+                    {
+                        "intra-state cooperation": "its success"
+                    }, 
+                    {
+                        "public sector partnership": "its success"
+                    }
+                ], 
+                "subcategory": [
+                    "certification", 
+                    "national benchmarking", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "intra-state cooperation", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "Its success will depend on our ability to work together."
+    }, 
+    {
+        "sentence_id,": "2e8d910e28", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Everyone must do their part."
+    }
+]

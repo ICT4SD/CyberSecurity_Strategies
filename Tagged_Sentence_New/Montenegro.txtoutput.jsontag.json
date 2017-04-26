@@ -1,0 +1,4410 @@
+[
+    {
+        "sentence_id,": "041ca5d9e6", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "INTRODUCTION Information and communications technology present an irreplaceable part of modern life."
+    }, 
+    {
+        "sentence_id,": "ef6e93a6e9", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "functioning"
+                    }, 
+                    {
+                        "policy": "integration"
+                    }, 
+                    {
+                        "policy": "functioning"
+                    }, 
+                    {
+                        "responsible agency": "functioning"
+                    }, 
+                    {
+                        "national benchmarking": "functioning"
+                    }, 
+                    {
+                        "manpower development": "integration"
+                    }, 
+                    {
+                        "manpower development": "functioning"
+                    }, 
+                    {
+                        "public sector partnership": "integration"
+                    }, 
+                    {
+                        "international cooperation": "functioning"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "policy", 
+                    "responsible agency", 
+                    "national benchmarking", 
+                    "manpower development", 
+                    "public sector partnership", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Integration of ICT in performing daily activities and tasks has become more and more evident, therefore, threats to information and communications infrastructure that may threaten the availability, privacy and integrity of them, may also affect the functioning of society as a whole."
+    }, 
+    {
+        "sentence_id,": "33f76e078c", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "adoption"
+                    }, 
+                    {
+                        "policy": "adoption"
+                    }, 
+                    {
+                        "manpower development": "adoption"
+                    }, 
+                    {
+                        "public sector partnership": "adoption"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "policy", 
+                    "manpower development", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "The adoption of national cyber strategy is a complex task given the different aspects and stakeholders who should be included in this process."
+    }, 
+    {
+        "sentence_id,": "9f89e9301d", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation", 
+                    "technical measures"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "integration"
+                    }, 
+                    {
+                        "manpower development": "integration"
+                    }, 
+                    {
+                        "public sector partnership": "integration"
+                    }, 
+                    {
+                        "certification": "private sectors"
+                    }, 
+                    {
+                        "public sector partnership": "private sectors"
+                    }
+                ], 
+                "subcategory": [
+                    "policy", 
+                    "manpower development", 
+                    "public sector partnership", 
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "Here we can discuss about political, legislative, economic, military and similar aspects when adopting the strategy, as well as about integration of public and private sectors as infrastructure owners."
+    }, 
+    {
+        "sentence_id,": "066453acf9", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "cooperation", 
+                    "technical measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "efficient"
+                    }, 
+                    {
+                        "intra-agency cooperation": "efficient"
+                    }, 
+                    {
+                        "public sector partnership": "efficient"
+                    }, 
+                    {
+                        "standards": "international standards"
+                    }, 
+                    {
+                        "standardisation development": "international standards"
+                    }, 
+                    {
+                        "agency certification": "international standards"
+                    }, 
+                    {
+                        "international cooperation": "international standards"
+                    }
+                ], 
+                "subcategory": [
+                    "policy", 
+                    "intra-agency cooperation", 
+                    "public sector partnership", 
+                    "standards", 
+                    "standardisation development", 
+                    "agency certification", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Montenegros strategic objective is to build an integrated, functional and efficient cyberspace, in accordance with international standards and principles."
+    }, 
+    {
+        "sentence_id,": "9d4ea613aa", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Every country is obliged to protect their national information infrastructure, as well as their cyberspace that national domain is covering."
+    }, 
+    {
+        "sentence_id,": "4e914f2b7d", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "In order to respond to cyber threats from the environment, which are constantly changing, the country must have flexible and dynamic cyber security strategies."
+    }, 
+    {
+        "sentence_id,": "34e15d16cc", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The cross border nature of threats makes it necessary for the countries to focus on strong international cooperation."
+    }, 
+    {
+        "sentence_id,": "57cc6698cf", 
+        "tag": [
+            {
+                "category": [
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "international cooperation": "first step"
+                    }
+                ], 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Comprehensive national cyber security strategies make the first step in this direction."
+    }, 
+    {
+        "sentence_id,": "54dd4d9926", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The Strategy should have clearly defined objectives and priorities, and the practice is that they are defined within a period of 5 years."
+    }, 
+    {
+        "sentence_id,": "7c586f7669", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "regulation and compliance": "concept"
+                    }, 
+                    {
+                        "policy": "concept"
+                    }, 
+                    {
+                        "policy": "action plans"
+                    }, 
+                    {
+                        "roadmap for governance": "action plans"
+                    }
+                ], 
+                "subcategory": [
+                    "regulation and compliance", 
+                    "policy", 
+                    "roadmap for governance"
+                ]
+            }
+        ], 
+        "sentence": "Along with text of the Strategy, which presents a vision of a state against the concept of cyber security and its guaranty, the corresponding annual action plans are also defined."
+    }, 
+    {
+        "sentence_id,": "73ad0cb369", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Internet and information and communications technology that the Internet is based on, present a vital resource for socio-economic growth and development of a country."
+    }, 
+    {
+        "sentence_id,": "d98e01aac8", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "As more and more services have been offered via the Internet, there is a growing number of reported cyber security incidents, the attacks known as distributed denial of service attacks DDoS attacks, up to attacks on websites with the aim of unauthorised modification of their content."
+    }, 
+    {
+        "sentence_id,": "06fcde52ac", 
+        "tag": [
+            {
+                "category": [
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "intra-state cooperation": "state authorities"
+                    }, 
+                    {
+                        "international cooperation": "unauthorised access"
+                    }
+                ], 
+                "subcategory": [
+                    "intra-state cooperation", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Special type of threat is also an unauthorised access to developed information systems of state authorities and their databases."
+    }, 
+    {
+        "sentence_id,": "ef2300ae07", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Cyber-attacks are also directed against infrastructure of Internet service providers (ISPs), however there is no coordinated response which would be 3 2013 CYBER SECURITY STRATEGY FOR MONTENEGRO 2017 conducted through safe communication channels at the national level in order to address such situations."
+    }, 
+    {
+        "sentence_id,": "9f5bd203a7", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "standardisation development": "necessary skills"
+                    }, 
+                    {
+                        "manpower development": "necessary skills"
+                    }
+                ], 
+                "subcategory": [
+                    "standardisation development", 
+                    "manpower development"
+                ]
+            }
+        ], 
+        "sentence": "One of the problems is the lack of necessary skills for successful defence from the incidents, as well as the need for amendments or for adopting new laws, under which it would be possible to successfully detect and prosecute people involved in any form of cybercrime."
+    }, 
+    {
+        "sentence_id,": "56aab1edb4", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Another important problem is that in Montenegro there is no a defined way to monitor or record the malicious traffic entering the country."
+    }, 
+    {
+        "sentence_id,": "0dce3bbd4e", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "There are no adequate monitoring systems installed on communication nodes (gateways) towards abroad or at ISPs level, except for detection and prevention of attacks directed towards denial of service (DoS-DDoS)."
+    }, 
+    {
+        "sentence_id,": "1c67a459dc", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Coordinated construction of organisational, institutional and management capacities, improvement of laws and by-laws are important items of information security existence in Montenegro."
+    }, 
+    {
+        "sentence_id,": "4a70cbbe74", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Recognising its foreign policy priorities through full membership in NATO and EU, provision of mandated safety criteria at the national level has become priority of the entire information society of Montenegro."
+    }, 
+    {
+        "sentence_id,": "5820da1076", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "cirt": "field of information"
+                    }, 
+                    {
+                        "policy": "field of information"
+                    }, 
+                    {
+                        "manpower development": "field of information"
+                    }, 
+                    {
+                        "public sector partnership": "field of information"
+                    }
+                ], 
+                "subcategory": [
+                    "cirt", 
+                    "policy", 
+                    "manpower development", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "At the same time, economic and industrial espionage directed against the leading companies and governments is getting importance with development and progress in the field of information technology."
+    }, 
+    {
+        "sentence_id,": "ee4b523669", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Finally, illegal entry, data manipulation and destruction of critical resources also threaten integrity and resilience of critical infrastructure."
+    }, 
+    {
+        "sentence_id,": "de12153471", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "In cyberspace, malicious programmes in the service of states designate the present and in the future it will be one major threats to the national security of a country."
+    }, 
+    {
+        "sentence_id,": "949d76bfd4", 
+        "tag": [
+            {
+                "category": [
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "institutional support": "supports"
+                    }
+                ], 
+                "subcategory": [
+                    "institutional support"
+                ]
+            }
+        ], 
+        "sentence": "The above mentioned supports the fact that the Internet and related global networks have significantly increased the global dependence on ICT, but also the level of potential damage that can be caused when the infrastructure is under attack."
+    }, 
+    {
+        "sentence_id,": "0c985425e1", 
+        "tag": [
+            {
+                "category": [
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "intra-state cooperation": "state authorities"
+                    }, 
+                    {
+                        "intra-state cooperation": "fight against cyber"
+                    }
+                ], 
+                "subcategory": [
+                    "intra-state cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Information Security Strategy relies on a document adopted by the Government of Montenegro, titled Study with defined responsibilities of state authorities in their fight against cyber (computer) crime."
+    }, 
+    {
+        "sentence_id,": "868a3d1350", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "adoption"
+                    }, 
+                    {
+                        "standards": "implementing"
+                    }, 
+                    {
+                        "standards": "implementing"
+                    }, 
+                    {
+                        "policy": "adoption"
+                    }, 
+                    {
+                        "responsible agency": "implementing"
+                    }, 
+                    {
+                        "responsible agency": "implementing"
+                    }, 
+                    {
+                        "manpower development": "adoption"
+                    }, 
+                    {
+                        "public sector partnership": "adoption"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "policy", 
+                    "responsible agency", 
+                    "manpower development", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "Therefore, the adoption of Strategy with a clear vision in terms of implementing specific activities in the field of cyber security is crucial."
+    }, 
+    {
+        "sentence_id,": "b7ede03a3b", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "national benchmarking": "definition"
+                    }, 
+                    {
+                        "manpower development": "definition"
+                    }
+                ], 
+                "subcategory": [
+                    "national benchmarking", 
+                    "manpower development"
+                ]
+            }
+        ], 
+        "sentence": "DEFINITIONS The analysis of Cyber Security Strategy in great number of countries has found that there is no agreed definition of terms such as: information security, cyberspace, cyber security, cybercrime, etc."
+    }, 
+    {
+        "sentence_id,": "143efba59b", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Whereas some strategies define these terms precisely and concisely, for example, by closely linking them to computer systems, others have a more general approach and definitions include not only matters relating to computers and computer systems, but to any other factor that may interact with them, such as human factor."
+    }, 
+    {
+        "sentence_id,": "0e30cbbb25", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "chapter"
+                    }, 
+                    {
+                        "national legislation": "chapter"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "national legislation"
+                ]
+            }
+        ], 
+        "sentence": "In this chapter will be presented definitions of specific terms existing in our country, which are also compliant with basic meaning of the terms in EU countries."
+    }, 
+    {
+        "sentence_id,": "e33d15d5e1", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Cyber is defined as: anything relating to, or involving, computers or computer networks (such as Internet)."
+    }, 
+    {
+        "sentence_id,": "ea6a25bee0", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Cyberspace is more than Internet; it includes not only hardware, software and information systems, but also the people, social interaction within these networks."
+    }, 
+    {
+        "sentence_id,": "8f18be620e", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "regulation and compliance": "systems and services"
+                    }, 
+                    {
+                        "un convention and protocol": "systems and services"
+                    }
+                ], 
+                "subcategory": [
+                    "regulation and compliance", 
+                    "un convention and protocol"
+                ]
+            }
+        ], 
+        "sentence": "International Telecommunication Union (ITU) uses this term to describe systems and services connected either directly to or indirectly to the Internet, telecommunications and computer networks."
+    }, 
+    {
+        "sentence_id,": "e3299d91c8", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "national benchmarking": "definition"
+                    }, 
+                    {
+                        "manpower development": "definition"
+                    }
+                ], 
+                "subcategory": [
+                    "national benchmarking", 
+                    "manpower development"
+                ]
+            }
+        ], 
+        "sentence": "International Standardisation Organisation (ISO) uses a slightly different definition of the term, and describes cyber as complex environment resulting from the interaction of people, software, and services on the Internet by means of technology devices and networks connected to it, which does not exist in any physical form."
+    }, 
+    {
+        "sentence_id,": "20bc678d97", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Individually, each country, when formulating national strategy, uses their own terms and definitions."
+    }, 
+    {
+        "sentence_id,": "403bfefc84", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "defines"
+                    }, 
+                    {
+                        "policy": "defines"
+                    }, 
+                    {
+                        "standardisation development": "defines"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "policy", 
+                    "standardisation development"
+                ]
+            }
+        ], 
+        "sentence": "For example, the United Kingdom defines cyberspace as all forms of networked, digital activities; this includes the content of and actions conducted through digital networks."
+    }, 
+    {
+        "sentence_id,": "506009365c", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "regulation and compliance": "integrity and availability"
+                    }, 
+                    {
+                        "un convention and protocol": "integrity and availability"
+                    }
+                ], 
+                "subcategory": [
+                    "regulation and compliance", 
+                    "un convention and protocol"
+                ]
+            }
+        ], 
+        "sentence": "Information security includes the state of confidentiality, integrity and availability of information."
+    }, 
+    {
+        "sentence_id,": "da1e5c57e3", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Information security is focused on data regardless of their form: electronic, printed and other forms of data."
+    }, 
+    {
+        "sentence_id,": "d94de41990", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "functioning"
+                    }, 
+                    {
+                        "policy": "functioning"
+                    }, 
+                    {
+                        "responsible agency": "functioning"
+                    }, 
+                    {
+                        "national benchmarking": "functioning"
+                    }, 
+                    {
+                        "manpower development": "functioning"
+                    }, 
+                    {
+                        "international cooperation": "functioning"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "policy", 
+                    "responsible agency", 
+                    "national benchmarking", 
+                    "manpower development", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Computer security usually seeks to ensure availability and proper functioning of the computer and computer system."
+    }, 
+    {
+        "sentence_id,": "6ec28dcd3a", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The above-mentioned terms are often alternatively used, although they are related to slightly different aspects in the field of cyber security."
+    }, 
+    {
+        "sentence_id,": "ea5f7a8bca", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "legal measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "refers"
+                    }, 
+                    {
+                        "national benchmarking": "refers"
+                    }, 
+                    {
+                        "standardisation development": "refers"
+                    }, 
+                    {
+                        "manpower development": "refers"
+                    }, 
+                    {
+                        "regulation and compliance": "systems and networks"
+                    }, 
+                    {
+                        "un convention and protocol": "systems and networks"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "national benchmarking", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "regulation and compliance", 
+                    "un convention and protocol"
+                ]
+            }
+        ], 
+        "sentence": "5 2013 CYBER SECURITY STRATEGY FOR MONTENEGRO 2017 Internet security in technical context, refers to protection of Internet service and related ICT systems and networks as extension of network security in organisations and homes, and to ensure the security purpose."
+    }, 
+    {
+        "sentence_id,": "225f1b86c8", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Internet security also provides availability and reliability of Internet service."
+    }, 
+    {
+        "sentence_id,": "9f2d84bda1", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "national benchmarking": "safe use"
+                    }
+                ], 
+                "subcategory": [
+                    "national benchmarking"
+                ]
+            }
+        ], 
+        "sentence": "However, in political context, Internet security is often equated with what is also known as safe use of the Internet."
+    }, 
+    {
+        "sentence_id,": "fb5dfff0bf", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "According to some definitions, Internet security includes a global regime dealing with stability of Internet code and hardware, as well as with agreements on prosecuting illegal content."
+    }, 
+    {
+        "sentence_id,": "3a7fa7730a", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "critical infrastructures"
+                    }, 
+                    {
+                        "intra-agency cooperation": "critical infrastructures"
+                    }, 
+                    {
+                        "public sector partnership": "critical infrastructures"
+                    }
+                ], 
+                "subcategory": [
+                    "policy", 
+                    "intra-agency cooperation", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "Network security is also important for critical infrastructures that are often not directly connected to the Internet."
+    }, 
+    {
+        "sentence_id,": "83e93d4c18", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "legal measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "defines"
+                    }, 
+                    {
+                        "policy": "defines"
+                    }, 
+                    {
+                        "standardisation development": "defines"
+                    }, 
+                    {
+                        "regulation and compliance": "integrity and availability"
+                    }, 
+                    {
+                        "un convention and protocol": "integrity and availability"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "policy", 
+                    "standardisation development", 
+                    "regulation and compliance", 
+                    "un convention and protocol"
+                ]
+            }
+        ], 
+        "sentence": "Cyber security International Standardisation Organisation (ISO) defines cyber security as preservation of confidentiality, integrity and availability of information in cyberspace."
+    }, 
+    {
+        "sentence_id,": "cb2f9d807c", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures", 
+                    "organization measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "regulation and compliance": "confidentiality"
+                    }, 
+                    {
+                        "standards": "confidentiality"
+                    }, 
+                    {
+                        "policy": "confidentiality"
+                    }, 
+                    {
+                        "institutional support": "abuse"
+                    }, 
+                    {
+                        "institutional support": "abuse"
+                    }, 
+                    {
+                        "reporting mechanism": "abuse"
+                    }, 
+                    {
+                        "reporting mechanism": "abuse"
+                    }
+                ], 
+                "subcategory": [
+                    "regulation and compliance", 
+                    "standards", 
+                    "policy", 
+                    "institutional support", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "The Netherlands have offered a little broader definition: freedom from danger or damage caused by disruption, failure or abuse of ICT systems Danger or damage caused by disruption, failure or abuse may consist of a limitation in the availability or reliability of ICT systems, a breach of the confidentiality stored in them, or damage to the integrity of the information."
+    }, 
+    {
+        "sentence_id,": "11143f5ab3", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "cirt": "collection"
+                    }, 
+                    {
+                        "standards": "collection"
+                    }, 
+                    {
+                        "standards": "defines"
+                    }, 
+                    {
+                        "policy": "defines"
+                    }, 
+                    {
+                        "standardisation development": "defines"
+                    }, 
+                    {
+                        "manpower development": "collection"
+                    }, 
+                    {
+                        "intra-agency cooperation": "collection"
+                    }
+                ], 
+                "subcategory": [
+                    "cirt", 
+                    "standards", 
+                    "policy", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "intra-agency cooperation"
+                ]
+            }
+        ], 
+        "sentence": "ITU also defines broadly the cyber security: collection of tools, policies, security concepts, security safeguards, guidelines, risk management approaches, actions, training, best practices, assurance and technologies that can be used to protect the cyber environment and organisation and users assets."
+    }, 
+    {
+        "sentence_id,": "c9c5c33445", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "properties"
+                    }, 
+                    {
+                        "criminal legislation": "properties"
+                    }, 
+                    {
+                        "certification": "properties"
+                    }, 
+                    {
+                        "certification": "properties"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "Cyber security seeks to ensure the attainment and maintenance of the security properties of the organisation and users assets against relevant security risks in the cyber environment."
+    }, 
+    {
+        "sentence_id,": "a314a5eea5", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "General security objectives comprise the following: availability; integrity, which may include authenticity and non-repudiation; and confidentiality."
+    }, 
+    {
+        "sentence_id,": "4084e3cd17", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Cyber defence is mainly used in military context, but it may be also related to criminal and espionage activities."
+    }, 
+    {
+        "sentence_id,": "8266ad3281", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "organization measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "regulation and compliance": "safeguard"
+                    }, 
+                    {
+                        "policy": "safeguard"
+                    }, 
+                    {
+                        "national benchmarking": "definition"
+                    }, 
+                    {
+                        "manpower development": "definition"
+                    }
+                ], 
+                "subcategory": [
+                    "regulation and compliance", 
+                    "policy", 
+                    "national benchmarking", 
+                    "manpower development"
+                ]
+            }
+        ], 
+        "sentence": "NATO uses the following definition when referring to cyber defence the ability to safeguard the delivery and management of services in an operational Communications and Information Systems (CIS) in response to potential and imminent as well as actual malicious actions that originate in cyberspace."
+    }, 
+    {
+        "sentence_id,": "d6ce948785", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "criminal activities"
+                    }, 
+                    {
+                        "national legislation": "criminal activities"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "national legislation"
+                ]
+            }
+        ], 
+        "sentence": "Cybercrime or e-crime, or high-tech crime includes criminal activities in which computers and other IT equipment and computer network are subject, tool, target or place of crime."
+    }, 
+    {
+        "sentence_id,": "e85d35af0b", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "6 2013 CYBER SECURITY STRATEGY FOR MONTENEGRO 2017 Cyberspace is identified as environment with the fastest growing crime rate."
+    }, 
+    {
+        "sentence_id,": "e154492357", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Over the last decade, most countries have identified the problem of cybercrime and accordingly passed and adopted adequate laws."
+    }, 
+    {
+        "sentence_id,": "555d3531fb", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "international cooperation"
+                    }, 
+                    {
+                        "professional certification": "international cooperation"
+                    }, 
+                    {
+                        "agency certification": "international cooperation"
+                    }, 
+                    {
+                        "international cooperation": "international cooperation"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "professional certification", 
+                    "agency certification", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "In 1997, China identified as illegal activity intrusion into computer information system; in 2004 the Council of Europe adopted Convention on Cybercrime which has relatively high standards in the field of international cooperation and for the purpose of prosecuting cybercrime, it was signed by 51 countries."
+    }, 
+    {
+        "sentence_id,": "9a6b73f4c1", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "It is estimated that in 2011 appeared more than 400 million of different variations of viruses and on average 8 new zero-day exploits on a daily basis."
+    }, 
+    {
+        "sentence_id,": "ca93d03fde", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "This figure is an alarming fact."
+    }, 
+    {
+        "sentence_id,": "76ca5b9f0c", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "international cooperation"
+                    }, 
+                    {
+                        "professional certification": "international cooperation"
+                    }, 
+                    {
+                        "agency certification": "international cooperation"
+                    }, 
+                    {
+                        "international cooperation": "international cooperation"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "professional certification", 
+                    "agency certification", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "As the borders of legal prosecution are equal to borders of various states, strong need for close international cooperation has been identified."
+    }, 
+    {
+        "sentence_id,": "c4b43ed3b6", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "roadmap for governance": "achieve"
+                    }, 
+                    {
+                        "manpower development": "aims"
+                    }, 
+                    {
+                        "intra-agency cooperation": "aims"
+                    }
+                ], 
+                "subcategory": [
+                    "roadmap for governance", 
+                    "manpower development", 
+                    "intra-agency cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Cyber terrorism is a criminal act in cyberspace that aims to intimidate governments or their citizens, with the aim to achieve political goals."
+    }, 
+    {
+        "sentence_id,": "efc78f85a2", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "defines"
+                    }, 
+                    {
+                        "policy": "defines"
+                    }, 
+                    {
+                        "standardisation development": "defines"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "policy", 
+                    "standardisation development"
+                ]
+            }
+        ], 
+        "sentence": "NIPC (National Infrastructure Protection Center) defines cyber terrorism as a criminal act perpetrated through computers resulting in violence, death and/or destruction, and creating terror for the purpose of coercing a government to change its policies."
+    }, 
+    {
+        "sentence_id,": "41a91081b3", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Cyber espionage is defined as the use of an agent in order to obtain information about plans or activities of foreign country or competitive company."
+    }, 
+    {
+        "sentence_id,": "ed7743cf72", 
+        "tag": [
+            {
+                "category": [
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "international cooperation": "unauthorised access"
+                    }
+                ], 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "It is not uncommon that companies or governments are faced with attempts of unauthorised access to their computer systems via Internet."
+    }, 
+    {
+        "sentence_id,": "293c32eeb5", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "national benchmarking": "economic development"
+                    }, 
+                    {
+                        "standardisation development": "economic development"
+                    }, 
+                    {
+                        "manpower development": "economic development"
+                    }, 
+                    {
+                        "intra-state cooperation": "many countries"
+                    }
+                ], 
+                "subcategory": [
+                    "national benchmarking", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "intra-state cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Many countries use espionage tools to encourage their economic development based on advanced technologies of other nations."
+    }, 
+    {
+        "sentence_id,": "a869890812", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "capacity building", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "regulation and compliance": "development and implementation"
+                    }, 
+                    {
+                        "standardisation development": "development and implementation"
+                    }, 
+                    {
+                        "un convention and protocol": "development and implementation"
+                    }
+                ], 
+                "subcategory": [
+                    "regulation and compliance", 
+                    "standardisation development", 
+                    "un convention and protocol"
+                ]
+            }
+        ], 
+        "sentence": "ICT present foundation of development and implementation of most other technologies both in civilian and military sectors, and thereupon they have become primary target of espionage."
+    }, 
+    {
+        "sentence_id,": "cc145069bb", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Cyber war is unspecified and controversial term that has no official or generally accepted definition."
+    }, 
+    {
+        "sentence_id,": "d34b2b51cc", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "More than 30 countries have accepted the doctrine and announced development of a special programme of cyber war offensive mechanisms."
+    }, 
+    {
+        "sentence_id,": "676d9142a4", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "This way will ensure continued progress of strategy, procedures and products, and in accordance with changed circumstances in immediate and wider environment."
+    }, 
+    {
+        "sentence_id,": "2d26e9213c", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "strategy implementation"
+                    }, 
+                    {
+                        "policy": "strategy implementation"
+                    }, 
+                    {
+                        "responsible agency": "strategy implementation"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "policy", 
+                    "responsible agency"
+                ]
+            }
+        ], 
+        "sentence": "Public authority or internal working group or Council on the national level should be defined as strategy implementation coordinator, and should also be responsible for monitoring the overall strategy life cycle."
+    }, 
+    {
+        "sentence_id,": "7c5dafa468", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The positive practice is that, on one hand, members of this body to be persons covering public or private function and, on the other hand, to have advanced knowledge in the field of cyber protection and security, in order to have sufficient credibility and more efficiently provide implementation of identified strategic objectives."
+    }, 
+    {
+        "sentence_id,": "e2e9244672", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "successful implementation"
+                    }, 
+                    {
+                        "responsible agency": "successful implementation"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "responsible agency"
+                ]
+            }
+        ], 
+        "sentence": "Successful implementation of Cyber Security Strategy requires adequate and continued cooperation of public and private sector, i.e."
+    }, 
+    {
+        "sentence_id,": "cdf967e1ea", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "stakeholders from one or the other sector."
+    }, 
+    {
+        "sentence_id,": "c1b6a674e7", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building", 
+                    "cooperation", 
+                    "legal measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "standardisation development": "private entities"
+                    }, 
+                    {
+                        "manpower development": "private entities"
+                    }, 
+                    {
+                        "public sector partnership": "private entities"
+                    }, 
+                    {
+                        "regulation and compliance": "development and implementation"
+                    }, 
+                    {
+                        "standardisation development": "development and implementation"
+                    }, 
+                    {
+                        "un convention and protocol": "development and implementation"
+                    }
+                ], 
+                "subcategory": [
+                    "standardisation development", 
+                    "manpower development", 
+                    "public sector partnership", 
+                    "regulation and compliance", 
+                    "un convention and protocol"
+                ]
+            }
+        ], 
+        "sentence": "The selected private entities should be part of development and implementation process because of probability that they are the owners of critical information infrastructure and service."
+    }, 
+    {
+        "sentence_id,": "2b34fc6957", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Development and planning of national cyber crisis plan represents an important factor in general planning of a states cyber security."
+    }, 
+    {
+        "sentence_id,": "7875703692", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "It should be realistic and accurate and it should also take into account all possible stakeholders."
+    }, 
+    {
+        "sentence_id,": "b2205a8612", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "This includes interaction of public and private sector."
+    }, 
+    {
+        "sentence_id,": "bb07835dd0", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "efficient"
+                    }, 
+                    {
+                        "intra-agency cooperation": "efficient"
+                    }, 
+                    {
+                        "public sector partnership": "efficient"
+                    }
+                ], 
+                "subcategory": [
+                    "policy", 
+                    "intra-agency cooperation", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "The Strategy should definitely include national risk assessment, which must be realistic, with a view to more efficient strategy implementation."
+    }, 
+    {
+        "sentence_id,": "6787a22187", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "During the assessment, it is necessary to have a defined methodology, as well as approach that would provide considering all possible existing threats and risks."
+    }, 
+    {
+        "sentence_id,": "b1969da19b", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "national benchmarking": "definition"
+                    }, 
+                    {
+                        "manpower development": "definition"
+                    }
+                ], 
+                "subcategory": [
+                    "national benchmarking", 
+                    "manpower development"
+                ]
+            }
+        ], 
+        "sentence": "8 2013 CYBER SECURITY STRATEGY FOR MONTENEGRO 2017 Important part of this process is identification and definition of critical national infrastructure, its threats and risks."
+    }, 
+    {
+        "sentence_id,": "e2b1f590c6", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "These should be classified by degree of their impact, i.e."
+    }, 
+    {
+        "sentence_id,": "ee4c9e8029", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "consequences that they would entail, as well as by the probability assessment of their actual occurrence."
+    }, 
+    {
+        "sentence_id,": "cf39c99810", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "legal measures", 
+                    "cooperation", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "cirt": "conduct"
+                    }, 
+                    {
+                        "responsible agency": "coordinate"
+                    }, 
+                    {
+                        "responsible agency": "respect"
+                    }, 
+                    {
+                        "national benchmarking": "conduct"
+                    }, 
+                    {
+                        "manpower development": "conduct"
+                    }, 
+                    {
+                        "professional certification": "conduct"
+                    }, 
+                    {
+                        "regulation and compliance": "risk assessments"
+                    }, 
+                    {
+                        "regulation and compliance": "decision makers"
+                    }, 
+                    {
+                        "standards": "decision makers"
+                    }, 
+                    {
+                        "policy": "risk assessments"
+                    }, 
+                    {
+                        "national benchmarking": "risk assessments"
+                    }, 
+                    {
+                        "national benchmarking": "decision makers"
+                    }, 
+                    {
+                        "manpower development": "public awareness"
+                    }, 
+                    {
+                        "public sector partnership": "public awareness"
+                    }, 
+                    {
+                        "reporting mechanism": "incident reporting"
+                    }, 
+                    {
+                        "regulation and compliance": "research and development"
+                    }, 
+                    {
+                        "regulation and compliance": "education and training"
+                    }, 
+                    {
+                        "standardisation development": "research and development"
+                    }, 
+                    {
+                        "manpower development": "education and training"
+                    }, 
+                    {
+                        "un convention and protocol": "research and development"
+                    }, 
+                    {
+                        "un convention and protocol": "education and training"
+                    }
+                ], 
+                "subcategory": [
+                    "cirt", 
+                    "responsible agency", 
+                    "national benchmarking", 
+                    "manpower development", 
+                    "professional certification", 
+                    "regulation and compliance", 
+                    "standards", 
+                    "policy", 
+                    "public sector partnership", 
+                    "reporting mechanism", 
+                    "standardisation development", 
+                    "un convention and protocol"
+                ]
+            }
+        ], 
+        "sentence": "3.1 METHOD OF MONITORING STARTEGY LIFE CYCLE Along with constant engagement about the Strategy, which must follow the corresponding life cycle, here are indicated more specific activities that decision makers should implement: Define a vision, scope, objectives and priorities; Monitor risk assessments at the national level; Consider the existing policies, regulations and capacities; Develop clear management structure; Identify and engage stakeholders; Establish confidential information exchange mechanisms; Develop cyber security contingency plans; Organise cyber security exercises; Establish basic security requirements; Establish incident reporting mechanisms; Increase public awareness of this issue; Maintain the research and development cycle; Strengthen education and training programmes; Establish the ability to respond to incidents; Respond to cybercrime; Engage in international cooperation; Establish public-private partnerships; Balance between security and respect of privacy; Conduct evaluations; Coordinate national cyber security strategy."
+    }, 
+    {
+        "sentence_id,": "99ee26ddd0", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "national benchmarking": "use of information"
+                    }
+                ], 
+                "subcategory": [
+                    "national benchmarking"
+                ]
+            }
+        ], 
+        "sentence": "9 2013 CYBER SECURITY STRATEGY FOR MONTENEGRO 2017 3.2 CHALLENGES, RISKS, THREATS TO CYBERSPACE SECURITY IN MONTENEGRO Research on the use of information and communications technology in Montenegro, conducted by the Statistical Office of Montenegro in 2012, provided the following results: Households: 51.3% have access to personal computer (PC), 33.6% of households use laptop 93.3% have a mobile phone."
+    }, 
+    {
+        "sentence_id,": "cfcb105e96", 
+        "tag": [
+            {
+                "category": [
+                    "cooperation", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "international cooperation": "internet access"
+                    }, 
+                    {
+                        "institutional support": "internet access"
+                    }
+                ], 
+                "subcategory": [
+                    "international cooperation", 
+                    "institutional support"
+                ]
+            }
+        ], 
+        "sentence": "In Montenegro, 55.0% of households surveyed said they had Internet access at home."
+    }, 
+    {
+        "sentence_id,": "fdd5805864", 
+        "tag": [
+            {
+                "category": [
+                    "cooperation", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "international cooperation": "internet access"
+                    }, 
+                    {
+                        "institutional support": "internet access"
+                    }
+                ], 
+                "subcategory": [
+                    "international cooperation", 
+                    "institutional support"
+                ]
+            }
+        ], 
+        "sentence": "Internet access is thereby achieved by means of a certain device such as personal computer (PC) 75.3% of households and laptop 52.0%."
+    }, 
+    {
+        "sentence_id,": "a6ac739d96", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "capacity building", 
+                    "cooperation", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "cirt": "addition"
+                    }, 
+                    {
+                        "standardisation development": "addition"
+                    }, 
+                    {
+                        "manpower development": "addition"
+                    }, 
+                    {
+                        "intra-state cooperation": "addition"
+                    }, 
+                    {
+                        "institutional support": "addition"
+                    }, 
+                    {
+                        "reporting mechanism": "mobile phones"
+                    }
+                ], 
+                "subcategory": [
+                    "cirt", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "intra-state cooperation", 
+                    "institutional support", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "In addition to these devices, to access the Internet they also use mobile phones 24.2%, handheld computers (palmtop, PDA, tablet), game consoles (Play Station), etc."
+    }, 
+    {
+        "sentence_id,": "ff963dbc56", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "To the question \"Have you in the last 12 months encountered any of the problems related to security while using the Internet for private purposes?"
+    }, 
+    {
+        "sentence_id,": "99aadbf121", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "\", citizens responded as follows: To the question whether they use IT security software to protect their private computer and data kept in it (antivirus, anti-spam, firewall, etc."
+    }, 
+    {
+        "sentence_id,": "eb654f4350", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "This represents an increase of 1% in comparison to the previous year."
+    }, 
+    {
+        "sentence_id,": "5996165682", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "To the question about the employing IT professionals in January 2012, only 20.8% of companies responded that they employed professionals whose main job is information technology."
+    }, 
+    {
+        "sentence_id,": "5e448a3c51", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "In Montenegro, only 27.9% of companies have the Rulebook that normatively regulates information security issues."
+    }, 
+    {
+        "sentence_id,": "e88fe4d7f3", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "cirt": "conduct"
+                    }, 
+                    {
+                        "national benchmarking": "conduct"
+                    }, 
+                    {
+                        "manpower development": "employees"
+                    }, 
+                    {
+                        "manpower development": "conduct"
+                    }, 
+                    {
+                        "professional certification": "conduct"
+                    }
+                ], 
+                "subcategory": [
+                    "cirt", 
+                    "national benchmarking", 
+                    "manpower development", 
+                    "professional certification"
+                ]
+            }
+        ], 
+        "sentence": "There is also a very small percentage of companies that conduct assessment of employees knowledge about information security measures, only 26.9%."
+    }, 
+    {
+        "sentence_id,": "903cc59788", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "regulation and compliance": "threats and attacks"
+                    }, 
+                    {
+                        "un convention and protocol": "threats and attacks"
+                    }
+                ], 
+                "subcategory": [
+                    "regulation and compliance", 
+                    "un convention and protocol"
+                ]
+            }
+        ], 
+        "sentence": "11 2013 CYBER SECURITY STRATEGY FOR MONTENEGRO 2017 Key risks, challenges and threats to cyber security in Montenegro include the following: a. Shortcomings in organization of cyber protection may pose a threat to national security of Montenegro; b. Internet in Europe and in our close environment is intensively used for criminal purposes, for the purposes of drug trafficking, money laundering and financial frauds, thereupon Montenegro is not and will not be spared from this threat; c. ICT infrastructure, computer systems and users in Montenegro are exposed to most of cyber threats and attacks that affect the rest of the world."
+    }, 
+    {
+        "sentence_id,": "5366d93d93", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "standardisation development": "web"
+                    }, 
+                    {
+                        "intra-agency cooperation": "web"
+                    }
+                ], 
+                "subcategory": [
+                    "standardisation development", 
+                    "intra-agency cooperation"
+                ]
+            }
+        ], 
+        "sentence": "This includes malicious programmes, electronic frauds, web page headline changes (Web Defacement) and e-mail \"hacking\"; d. Undeveloped cooperation between private and public sector in the field of coordination of critical infrastructure security system; e. The absence of procedure about keeping records on incident situations in cyberspace of Montenegro; f. The absence of National Cyber Security Council with its functions: i."
+    }, 
+    {
+        "sentence_id,": "38a3b317ff", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Coordination of information security in Europe ii."
+    }, 
+    {
+        "sentence_id,": "a265281fa3", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Identification of critical information infrastructure iii."
+    }, 
+    {
+        "sentence_id,": "386fd209aa", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "legislative framework"
+                    }, 
+                    {
+                        "regulation and compliance": "legislative framework"
+                    }, 
+                    {
+                        "standards": "legislative framework"
+                    }, 
+                    {
+                        "certification": "legislative framework"
+                    }, 
+                    {
+                        "national legislation": "legislative framework"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "standards", 
+                    "certification", 
+                    "national legislation"
+                ]
+            }
+        ], 
+        "sentence": "Review of the legislative framework for the development of operational cyber security."
+    }, 
+    {
+        "sentence_id,": "c46b1320bb", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "g. Cyberspace is increasingly used for organisation and media propaganda of extremist and radical groups who by this way promote their activities, recruit new members, organize terrorist actions, and thus pose a threat to national security of Montenegro."
+    }, 
+    {
+        "sentence_id,": "31cac7b54c", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "standardisation development": "contributes"
+                    }, 
+                    {
+                        "manpower development": "contributes"
+                    }, 
+                    {
+                        "intra-state cooperation": "contributes"
+                    }, 
+                    {
+                        "public sector partnership": "contributes"
+                    }
+                ], 
+                "subcategory": [
+                    "standardisation development", 
+                    "manpower development", 
+                    "intra-state cooperation", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "h. Piracy contributes to high rate of infection with computer viruses."
+    }, 
+    {
+        "sentence_id,": "d3e6cd2fb4", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "manpower development": "social engineering"
+                    }
+                ], 
+                "subcategory": [
+                    "manpower development"
+                ]
+            }
+        ], 
+        "sentence": "12 2013 CYBER SECURITY STRATEGY FOR MONTENEGRO 2017 i. On-line manipulations, using social engineering by means of e-mail messages, such as Nigerian 419 scam, phishing, go hand in hand with identity theft (illegal knowledge of other users accounts and passwords)."
+    }, 
+    {
+        "sentence_id,": "d665e6e972", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "This situation in Montenegrin cyberspace is worrying and problematic, not only for Montenegro, but even wider."
+    }, 
+    {
+        "sentence_id,": "de4bd93638", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Montenegrin citizens have in the past been the target of frauds in which they even happened to lose a great sum of money; j."
+    }, 
+    {
+        "sentence_id,": "5067e5b380", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures", 
+                    "cooperation", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "attackers"
+                    }, 
+                    {
+                        "criminal legislation": "attackers"
+                    }, 
+                    {
+                        "cirt": "attackers"
+                    }, 
+                    {
+                        "cirt": "attackers"
+                    }, 
+                    {
+                        "intra-state cooperation": "attackers"
+                    }, 
+                    {
+                        "intra-state cooperation": "attackers"
+                    }, 
+                    {
+                        "intra-agency cooperation": "attackers"
+                    }, 
+                    {
+                        "intra-agency cooperation": "attackers"
+                    }, 
+                    {
+                        "international cooperation": "attackers"
+                    }, 
+                    {
+                        "international cooperation": "attackers"
+                    }, 
+                    {
+                        "cirt": "social networks"
+                    }, 
+                    {
+                        "manpower development": "social networks"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "cirt", 
+                    "intra-state cooperation", 
+                    "intra-agency cooperation", 
+                    "international cooperation", 
+                    "manpower development"
+                ]
+            }
+        ], 
+        "sentence": "In the period from 2008 to 2013, the attackers have changed or taken control over several websites of Montenegrin institutions; k. In Montenegro, in the past period there have been several attacks on information infrastructure, Internet service providers as well as on the banking sector; l. In previous years there has been observed a significant number of cases where the attackers took control over the user profiles of Montenegrin citizens on social networks and on behalf of the user entered inappropriate content, in order to compromise the profile owner."
+    }, 
+    {
+        "sentence_id,": "fb7e8ebaa3", 
+        "tag": [
+            {
+                "category": [
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "international cooperation": "malicious activity"
+                    }
+                ], 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "m. From the addresses, for which it has been investigated to come from Montenegro, malicious activity has been reported, including the spread of SPAM, password-cracking attacks by using force (brute force), DDoS attacks, impersonation, and others; n. In Montenegro, there is a very small number of staff who have highly specialized knowledge in the field of cyber security, i.e."
+    }, 
+    {
+        "sentence_id,": "8fa430bad5", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "certification": "certificates"
+                    }, 
+                    {
+                        "professional certification": "certificates"
+                    }
+                ], 
+                "subcategory": [
+                    "certification", 
+                    "professional certification"
+                ]
+            }
+        ], 
+        "sentence": "who have certain licenses or certificates from this field required by European and international standards."
+    }, 
+    {
+        "sentence_id,": "ac90b08808", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "At the University of Montenegro, there are no faculties or faculty departments that cover cyber security and forensics, i.e."
+    }, 
+    {
+        "sentence_id,": "60a8103574", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "which produce human resources with highly specialized knowledge in this field."
+    }, 
+    {
+        "sentence_id,": "4938b99555", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Analysis of Montenegrin and EU legislation Over the last couple of years, Montenegro has begun, through the criminal law reforms, to build a corresponding legal and regulatory framework that legally prevents any kind of accidental or deliberate distortion and prevention of the computer system functioning."
+    }, 
+    {
+        "sentence_id,": "afa8a5a9b6", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "An appropriate legal framework represents a link between legal and IT areas, which will, by joint cooperation, contribute to successful clarification of the case in the field of computer crime and punishing the perpetrators."
+    }, 
+    {
+        "sentence_id,": "2984039c71", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "strategic priorities"
+                    }, 
+                    {
+                        "policy": "strategic priorities"
+                    }, 
+                    {
+                        "roadmap for governance": "strategic priorities"
+                    }, 
+                    {
+                        "roadmap for governance": "strategic priorities"
+                    }, 
+                    {
+                        "standardisation development": "strategic priorities"
+                    }, 
+                    {
+                        "standardisation development": "strategic priorities"
+                    }, 
+                    {
+                        "intra-state cooperation": "fight against cybercrime"
+                    }
+                ], 
+                "subcategory": [
+                    "policy", 
+                    "roadmap for governance", 
+                    "standardisation development", 
+                    "intra-state cooperation"
+                ]
+            }
+        ], 
+        "sentence": "In Dubrovnik, on 15th February 2013, Montenegro signed regional Declaration on Strategic Priorities against Cybercrime, which identifies strategic priorities in the fight against cybercrime that this Strategy follows and continues to evolve."
+    }, 
+    {
+        "sentence_id,": "929fb4aca3", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "European Convention from 1959 on the provision of mutual legal assistance in criminal matters represents a predecessor of the Convention on Cybercrime, which has been adopted to serve as a framework to the states wishing to legally codify this kind of socially dangerous behaviour."
+    }, 
+    {
+        "sentence_id,": "508befd968", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The Convention was signed by 51 countries, from which six countries are not members of the Council of Europe and these are Australia, the Dominican Republic, Canada, Japan, South Africa and the USA."
+    }, 
+    {
+        "sentence_id,": "12520f504b", 
+        "tag": [
+            {
+                "category": [
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "public sector partnership": "provisions"
+                    }, 
+                    {
+                        "public sector partnership": "provisions"
+                    }
+                ], 
+                "subcategory": [
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "This Convention is one of framework conventions, which means that its provisions are not directly applicable, but it is necessary that states implement these provisions in their own, i.e."
+    }, 
+    {
+        "sentence_id,": "71276a67c9", 
+        "tag": [
+            {
+                "category": [
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "un convention and protocol": "children"
+                    }, 
+                    {
+                        "institutional support": "children"
+                    }, 
+                    {
+                        "institutional support": "abuse"
+                    }, 
+                    {
+                        "reporting mechanism": "abuse"
+                    }
+                ], 
+                "subcategory": [
+                    "un convention and protocol", 
+                    "institutional support", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "Montenegro has signed and ratified the Convention on Protection of Children against Sexual Exploitation and Sexual Abuse (CETS 201)."
+    }, 
+    {
+        "sentence_id,": "8cf659ce7d", 
+        "tag": [
+            {
+                "category": [
+                    "child online protection", 
+                    "cooperation", 
+                    "technical measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "national legislation": "pornography"
+                    }, 
+                    {
+                        "national legislation": "pornography"
+                    }, 
+                    {
+                        "institutional support": "abuse"
+                    }, 
+                    {
+                        "reporting mechanism": "pornography"
+                    }, 
+                    {
+                        "reporting mechanism": "pornography"
+                    }, 
+                    {
+                        "reporting mechanism": "abuse"
+                    }, 
+                    {
+                        "international cooperation": "unauthorized access"
+                    }, 
+                    {
+                        "standards": "a wide range"
+                    }, 
+                    {
+                        "manpower development": "a wide range"
+                    }
+                ], 
+                "subcategory": [
+                    "national legislation", 
+                    "institutional support", 
+                    "reporting mechanism", 
+                    "international cooperation", 
+                    "standards", 
+                    "manpower development"
+                ]
+            }
+        ], 
+        "sentence": "Criminal offenses indicated under this Convention as cybercrime include a wide range of spreading viruses, unauthorized access to a computer network through piracy to pornography and intrusion into the banking systems, abuse of credit cards and all other criminal offences in which computers are used."
+    }, 
+    {
+        "sentence_id,": "2200d748d3", 
+        "tag": [
+            {
+                "category": [
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "public sector partnership": "provisions"
+                    }
+                ], 
+                "subcategory": [
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "Montenegrin criminal legislation complies with the provisions of Budapest Convention."
+    }, 
+    {
+        "sentence_id,": "e35f36f988", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "cooperation", 
+                    "child online protection", 
+                    "technical measures"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "codes"
+                    }, 
+                    {
+                        "intra-state cooperation": "agreement"
+                    }, 
+                    {
+                        "public sector partnership": "agreement"
+                    }, 
+                    {
+                        "national legislation": "codes"
+                    }, 
+                    {
+                        "criminal legislation": "intellectual property rights"
+                    }, 
+                    {
+                        "certification": "intellectual property rights"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "intra-state cooperation", 
+                    "public sector partnership", 
+                    "national legislation", 
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "Budapest convention stipulates that national legislations in their criminal codes are to provide punishment for offenses related to infringement of copyright and related rights, and liabilities assumed by the Bern Convention for the Protection of Literary and Artistic Works, protection by the Agreement on Trade-Related Aspects of Intellectual Property Rights (TRIPS) and World Intellectual Property Organization (WIPO) Copyright Treaty."
+    }, 
+    {
+        "sentence_id,": "72d6b9b35b", 
+        "tag": [
+            {
+                "category": [
+                    "cooperation", 
+                    "child online protection", 
+                    "legal measures", 
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "public sector partnership": "provisions"
+                    }, 
+                    {
+                        "reporting mechanism": "violations"
+                    }, 
+                    {
+                        "regulation and compliance": "protection measures"
+                    }, 
+                    {
+                        "national benchmarking": "protection measures"
+                    }, 
+                    {
+                        "national legislation": "protection measures"
+                    }
+                ], 
+                "subcategory": [
+                    "public sector partnership", 
+                    "reporting mechanism", 
+                    "regulation and compliance", 
+                    "national benchmarking", 
+                    "national legislation"
+                ]
+            }
+        ], 
+        "sentence": "Codification of these criminal offenses in our Criminal Code has been provided in provisions related to violation of moral rights of authors and performers, unauthorized use of copyright works and objects, unauthorized circumvention of protection measures intended to prevent violations of copyright and related rights, unauthorized removal or alteration of electronic information on copyright and related right, unauthorized use of others patent, unauthorized use of others design."
+    }, 
+    {
+        "sentence_id,": "59f8746b9f", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures"
+                ], 
+                "keywords": [
+                    {
+                        "regulation and compliance": "legal persons"
+                    }
+                ], 
+                "subcategory": [
+                    "regulation and compliance"
+                ]
+            }
+        ], 
+        "sentence": "The Convention also includes liability of legal entities, and when it is translated into our national legislation, then we can say that in 2007 Montenegro adopted the Law on liability of legal persons for criminal offenses."
+    }, 
+    {
+        "sentence_id,": "8b93142974", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Article 3 of this Law stipulates that legal entities can be held accountable for all the criminal offences from the special section of the Criminal Code, as well as for all other criminal offenses prescribed by a special law, provided that the conditions for liability of legal entities prescribed by the Law on liability of legal entities for criminal offenses have been met."
+    }, 
+    {
+        "sentence_id,": "6e69a48406", 
+        "tag": [
+            {
+                "category": [
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "un convention and protocol": "protocol"
+                    }, 
+                    {
+                        "un convention and protocol": "protocol"
+                    }
+                ], 
+                "subcategory": [
+                    "un convention and protocol"
+                ]
+            }
+        ], 
+        "sentence": "Montenegro ratified the Additional Protocol to the Convention on Cybercrime and the Protocol involves punishment for acts of racism and xenophobia, which are made by computer systems."
+    }, 
+    {
+        "sentence_id,": "caa30cc7a0", 
+        "tag": [
+            {
+                "category": [
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "un convention and protocol": "protocol"
+                    }
+                ], 
+                "subcategory": [
+                    "un convention and protocol"
+                ]
+            }
+        ], 
+        "sentence": "The Protocol is implemented as a separate article of the Criminal Code, which involves instigation of national, racial and religious hatred."
+    }, 
+    {
+        "sentence_id,": "bbf35e8528", 
+        "tag": [
+            {
+                "category": [
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "public sector partnership": "provisions"
+                    }
+                ], 
+                "subcategory": [
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "15 2013 CYBER SECURITY STRATEGY FOR MONTENEGRO 2017 EU Council Framework Decision 2005/222/PUP or EURLex number 32005F0222 includes attacks on information systems, and it has been implemented through the provisions of Criminal Code."
+    }, 
+    {
+        "sentence_id,": "ff92a72efb", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "regulation and compliance": "combat"
+                    }, 
+                    {
+                        "national legislation": "combat"
+                    }, 
+                    {
+                        "national legislation": "pornography"
+                    }, 
+                    {
+                        "national legislation": "pornography"
+                    }, 
+                    {
+                        "national legislation": "pornography"
+                    }, 
+                    {
+                        "national legislation": "pornography"
+                    }, 
+                    {
+                        "national legislation": "child"
+                    }, 
+                    {
+                        "national legislation": "child"
+                    }, 
+                    {
+                        "un convention and protocol": "child"
+                    }, 
+                    {
+                        "un convention and protocol": "child"
+                    }, 
+                    {
+                        "reporting mechanism": "pornography"
+                    }, 
+                    {
+                        "reporting mechanism": "pornography"
+                    }, 
+                    {
+                        "reporting mechanism": "pornography"
+                    }, 
+                    {
+                        "reporting mechanism": "pornography"
+                    }
+                ], 
+                "subcategory": [
+                    "regulation and compliance", 
+                    "national legislation", 
+                    "un convention and protocol", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "It includes combating child pornography on the Internet and provides a number of specific measures on the aim to prevent and combat production, processing, possession and distribution of child pornography material and on the aim of efficiency of investigation and of criminal prosecution of offenses from this field."
+    }, 
+    {
+        "sentence_id,": "d6fcb3e9b8", 
+        "tag": [
+            {
+                "category": [
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "public sector partnership": "provisions"
+                    }
+                ], 
+                "subcategory": [
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "Criminal Procedure Code of Montenegro provides measures for which we can say to partially comply with this Framework Decision, and it is about the urgency of the proceedings when these works are concerned, exclusion of public for these offenses, provided that these are general provisions concerning procedures relating to minors."
+    }, 
+    {
+        "sentence_id,": "ec6234de9a", 
+        "tag": [
+            {
+                "category": [
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "public sector partnership": "provisions"
+                    }
+                ], 
+                "subcategory": [
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "Procedural Law The Convention on Cybercrime also involves procedural provisions for the field of cybercrime."
+    }, 
+    {
+        "sentence_id,": "db9822f6a3", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "national benchmarking": "other measures"
+                    }
+                ], 
+                "subcategory": [
+                    "national benchmarking"
+                ]
+            }
+        ], 
+        "sentence": "The Convention recommends to States Parties to adopt all appropriate legislative and other measures in their national legislatures in order to establish certain powers and procedures for the punishment of criminal offenses related to cybercrime."
+    }, 
+    {
+        "sentence_id,": "ea262d332c", 
+        "tag": [
+            {
+                "category": [
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "public sector partnership": "provisions"
+                    }
+                ], 
+                "subcategory": [
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "Montenegro adopted a new Criminal Procedure Code, which is in accordance with international legal standards and fully or partially complied national procedural norms with certain procedural provisions stipulated by Budapest Convention."
+    }, 
+    {
+        "sentence_id,": "b7f76059ab", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "cirt": "objects"
+                    }, 
+                    {
+                        "public sector partnership": "objects"
+                    }
+                ], 
+                "subcategory": [
+                    "cirt", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "Equally, Convention Articles relating to evidentiary actions, secret surveillance measures and temporary seizure of objects and confiscation measures have been implemented in our criminal Procedure Code."
+    }, 
+    {
+        "sentence_id,": "63a0390f39", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "regulation and compliance": "concept"
+                    }, 
+                    {
+                        "regulation and compliance": "commerce"
+                    }, 
+                    {
+                        "standards": "implementing"
+                    }, 
+                    {
+                        "standards": "implementing"
+                    }, 
+                    {
+                        "standards": "implementing"
+                    }, 
+                    {
+                        "standards": "implementing"
+                    }, 
+                    {
+                        "standards": "implementing"
+                    }, 
+                    {
+                        "standards": "implementing"
+                    }, 
+                    {
+                        "standards": "functioning"
+                    }, 
+                    {
+                        "policy": "concept"
+                    }, 
+                    {
+                        "policy": "functioning"
+                    }, 
+                    {
+                        "responsible agency": "implementing"
+                    }, 
+                    {
+                        "responsible agency": "implementing"
+                    }, 
+                    {
+                        "responsible agency": "implementing"
+                    }, 
+                    {
+                        "responsible agency": "implementing"
+                    }, 
+                    {
+                        "responsible agency": "implementing"
+                    }, 
+                    {
+                        "responsible agency": "implementing"
+                    }, 
+                    {
+                        "responsible agency": "functioning"
+                    }, 
+                    {
+                        "national benchmarking": "functioning"
+                    }, 
+                    {
+                        "manpower development": "functioning"
+                    }, 
+                    {
+                        "international cooperation": "functioning"
+                    }, 
+                    {
+                        "criminal legislation": "legislative framework"
+                    }, 
+                    {
+                        "regulation and compliance": "legislative framework"
+                    }, 
+                    {
+                        "regulation and compliance": "electronic signature"
+                    }, 
+                    {
+                        "standards": "legislative framework"
+                    }, 
+                    {
+                        "certification": "legislative framework"
+                    }, 
+                    {
+                        "intra-state cooperation": "state authorities"
+                    }, 
+                    {
+                        "national legislation": "legislative framework"
+                    }, 
+                    {
+                        "intra-state cooperation": "fight against cybercrime"
+                    }
+                ], 
+                "subcategory": [
+                    "regulation and compliance", 
+                    "standards", 
+                    "policy", 
+                    "responsible agency", 
+                    "national benchmarking", 
+                    "manpower development", 
+                    "international cooperation", 
+                    "criminal legislation", 
+                    "certification", 
+                    "intra-state cooperation", 
+                    "national legislation"
+                ]
+            }
+        ], 
+        "sentence": "Legislative framework Legal documents that form the basis of the functioning and further development of modern concept of information security in Montenegro: a) Law on Ratification of the Convention on Cybercrime b) Criminal Code c) Criminal Procedure Code d) Law on Information Security 16 2013 CYBER SECURITY STRATEGY FOR MONTENEGRO 2017 e) Law on the National Security Agency f) Law on Classified Information g) Electronic Signature Law h) Law on Electronic Communications i) Electronic Commerce Law Other important documents that need to be mentioned in this chapter: - Study with defined responsibilities of state authorities in fight against cybercrime including assessment of the state condition and readiness in the area of cyber security - Regulation on detailed conditions and method of implementing IT measures to protect classified information (1st July 2010) - Regulation on detailed conditions and method of implementing measures to protect classified information (6th November 2010) - Regulation on detailed conditions and method of implementing industrial measures to protect classified information (16th December 2010) - Regulation on method of conducting and content of internal control over implementation of measures to protect classified information (28th July 2010)."
+    }, 
+    {
+        "sentence_id,": "fdcff38563", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Accountable institutions for Montenegrin Cyber Security System Within public administration, there must be a defined organizational hierarchy that will most efficiently and in a long-term sustainable manner ensure the appropriate security information management in Montenegro."
+    }, 
+    {
+        "sentence_id,": "8f80d4ea7d", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }, 
+                    {
+                        "manpower development": "police"
+                    }, 
+                    {
+                        "institutional support": "police"
+                    }, 
+                    {
+                        "reporting mechanism": "police"
+                    }
+                ], 
+                "subcategory": [
+                    "responsible agency", 
+                    "manpower development", 
+                    "institutional support", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "17 2013 CYBER SECURITY STRATEGY FOR MONTENEGRO 2017 The following institutions have been identified as crucial in the field of cyber security in Montenegro: Ministry for Information Society and Telecommunications (National CIRT) Ministry of Defence Ministry of the Interior Ministry of Justice National Security Agency Police Administration Military of Montenegro Directorate for the Protection of Classified Information Universities of Montenegro National CIRT is a central point for coordination and exchange of information, cyber defense and elimination of the consequences of cyber security incidents for the area of Montenegro."
+    }, 
+    {
+        "sentence_id,": "b346ccf8bb", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "functioning"
+                    }, 
+                    {
+                        "policy": "functioning"
+                    }, 
+                    {
+                        "responsible agency": "functioning"
+                    }, 
+                    {
+                        "national benchmarking": "functioning"
+                    }, 
+                    {
+                        "manpower development": "functioning"
+                    }, 
+                    {
+                        "international cooperation": "functioning"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "policy", 
+                    "responsible agency", 
+                    "national benchmarking", 
+                    "manpower development", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "18 2013 CYBER SECURITY STRATEGY FOR MONTENEGRO 2017 Figure 1: Position of National CIRT in Cyber Security System of Montenegro Members of this hierarchical infrastructure are also CIRTs or similar organizational bodies established by Internet Service Providers (ISPs), mobile operators, banks, Post Office of Montenegro, EPCG and other companies that are interested or have significant impact on the functioning of national information infrastructure."
+    }, 
+    {
+        "sentence_id,": "1c721a8c61", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "responsible agency": "incident response"
+                    }, 
+                    {
+                        "reporting mechanism": "incident response"
+                    }
+                ], 
+                "subcategory": [
+                    "responsible agency", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "CIRT has become a member of key international institutions that are relevant in the area of cyber security, such as FIRST (Forum of Incident Response Security Teams); TRUSTED Introducer (TERENA), ITU-IMPACT coalition."
+    }, 
+    {
+        "sentence_id,": "1ad03e6393", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Membership in this organization provides for CIRT to connect with other CERT/CIRT teams from around the world."
+    }, 
+    {
+        "sentence_id,": "c4514e7d36", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "regulation and compliance": "laws and regulations"
+                    }, 
+                    {
+                        "un convention and protocol": "laws and regulations"
+                    }
+                ], 
+                "subcategory": [
+                    "regulation and compliance", 
+                    "un convention and protocol"
+                ]
+            }
+        ], 
+        "sentence": "MAIN OBJECTIVES OF CYBER SECURITY STRATEGY FOR MONTENEGRO Cyber Security Strategy for Montenegro contains seven key areas: 1) Defining institutional and organisational structure in the field of cyber security in the country Coordinated construction of organizational, institutional and management capacities, improving laws and regulations are important items of information security existence in Montenegro."
+    }, 
+    {
+        "sentence_id,": "55a15ab63a", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The formation of National Cyber Security Council means providing umbrella organisation in the country that will advise the Government of Montenegro on all important matters related to cybercrime."
+    }, 
+    {
+        "sentence_id,": "fcf844c5aa", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The Council will propose measures for harmonisation of legislative and administrative framework with a view to more efficiently fight against cybercrime."
+    }, 
+    {
+        "sentence_id,": "27e591390d", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "responsible agency": "representatives"
+                    }, 
+                    {
+                        "manpower development": "representatives"
+                    }, 
+                    {
+                        "intra-agency cooperation": "representatives"
+                    }, 
+                    {
+                        "international cooperation": "representatives"
+                    }, 
+                    {
+                        "institutional support": "representatives"
+                    }
+                ], 
+                "subcategory": [
+                    "responsible agency", 
+                    "manpower development", 
+                    "intra-agency cooperation", 
+                    "international cooperation", 
+                    "institutional support"
+                ]
+            }
+        ], 
+        "sentence": "Council members are representatives of key institutions identified in the fight against cybercrime."
+    }, 
+    {
+        "sentence_id,": "b1bb26f15c", 
+        "tag": [
+            {
+                "category": [
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "intra-state cooperation": "state authorities"
+                    }
+                ], 
+                "subcategory": [
+                    "intra-state cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Key activities: Establishment of National Cyber Security Council Establishment of local CIRT teams 2) Protection of critical information structures in Montenegro Due to constant grow of the number of services that state authorities and private sector provide to citizens as well as to other legal entities, it is necessary to define a critical information infrastructure in Montenegro and develop protection procedures."
+    }, 
+    {
+        "sentence_id,": "d0b089f625", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "It is necessary to provide national cyber security and protect economic interests."
+    }, 
+    {
+        "sentence_id,": "81bd011e00", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Therefore, the Government needs to provide necessary structure and resources to ensure cyber security."
+    }, 
+    {
+        "sentence_id,": "d66e1629eb", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "legal measures"
+                ], 
+                "keywords": [
+                    {
+                        "cirt": "perform"
+                    }, 
+                    {
+                        "national benchmarking": "definition"
+                    }, 
+                    {
+                        "national benchmarking": "perform"
+                    }, 
+                    {
+                        "manpower development": "definition"
+                    }, 
+                    {
+                        "manpower development": "capacities"
+                    }, 
+                    {
+                        "manpower development": "capacities"
+                    }, 
+                    {
+                        "criminal legislation": "law enforcement authorities"
+                    }, 
+                    {
+                        "regulation and compliance": "law enforcement authorities"
+                    }, 
+                    {
+                        "standards": "a wide range"
+                    }, 
+                    {
+                        "manpower development": "a wide range"
+                    }
+                ], 
+                "subcategory": [
+                    "cirt", 
+                    "national benchmarking", 
+                    "manpower development", 
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "20 2013 CYBER SECURITY STRATEGY FOR MONTENEGRO 2017 Key activities: Definition and protection of critical information infrastructure Strengthening the resilience of information systems to incidents Perform analysis of threats to IT infrastructure 3) Strengthening capacities of state law enforcement authorities Constant improvement of the sophistication level of cyber threats and attacks, as well as their methods and technics require continuous strengthening of administrative capacities of a state for the purpose of responding efficiently to a wide range of cyber threats."
+    }, 
+    {
+        "sentence_id,": "89e780957b", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "criminal justice"
+                    }, 
+                    {
+                        "regulation and compliance": "electronic evidence"
+                    }, 
+                    {
+                        "national legislation": "criminal justice"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "national legislation"
+                ]
+            }
+        ], 
+        "sentence": "Computer crime (cybercrime) and electronic evidence material require a specialized response of criminal justice authorities."
+    }, 
+    {
+        "sentence_id,": "79c1aba85d", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation", 
+                    "legal measures"
+                ], 
+                "keywords": [
+                    {
+                        "cirt": "conduct"
+                    }, 
+                    {
+                        "national benchmarking": "conduct"
+                    }, 
+                    {
+                        "manpower development": "investigations"
+                    }, 
+                    {
+                        "manpower development": "conduct"
+                    }, 
+                    {
+                        "professional certification": "conduct"
+                    }, 
+                    {
+                        "public sector partnership": "investigations"
+                    }, 
+                    {
+                        "regulation and compliance": "electronic evidence"
+                    }, 
+                    {
+                        "criminal legislation": "law enforcement authorities"
+                    }, 
+                    {
+                        "regulation and compliance": "law enforcement authorities"
+                    }
+                ], 
+                "subcategory": [
+                    "cirt", 
+                    "national benchmarking", 
+                    "manpower development", 
+                    "professional certification", 
+                    "public sector partnership", 
+                    "regulation and compliance", 
+                    "criminal legislation"
+                ]
+            }
+        ], 
+        "sentence": "Law enforcement authorities and prosecution should be able to conduct investigations and prosecute offences against computer data and systems, offences committed over computers, as well as electronic evidence material relating to any criminal offence."
+    }, 
+    {
+        "sentence_id,": "a37b9b4857", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "fraud"
+                    }, 
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }, 
+                    {
+                        "manpower development": "investigations"
+                    }, 
+                    {
+                        "manpower development": "police"
+                    }, 
+                    {
+                        "manpower development": "capacities"
+                    }, 
+                    {
+                        "public sector partnership": "fraud"
+                    }, 
+                    {
+                        "public sector partnership": "investigations"
+                    }, 
+                    {
+                        "institutional support": "police"
+                    }, 
+                    {
+                        "reporting mechanism": "police"
+                    }, 
+                    {
+                        "regulation and compliance": "electronic evidence"
+                    }, 
+                    {
+                        "responsible agency": "digital forensics"
+                    }, 
+                    {
+                        "responsible agency": "incident response"
+                    }, 
+                    {
+                        "un convention and protocol": "human rights"
+                    }, 
+                    {
+                        "reporting mechanism": "incident response"
+                    }, 
+                    {
+                        "criminal legislation": "law enforcement authorities"
+                    }, 
+                    {
+                        "regulation and compliance": "rule of law"
+                    }, 
+                    {
+                        "regulation and compliance": "law enforcement authorities"
+                    }, 
+                    {
+                        "policy": "rule of law"
+                    }, 
+                    {
+                        "manpower development": "rule of law"
+                    }, 
+                    {
+                        "intra-state cooperation": "fight against cybercrime"
+                    }, 
+                    {
+                        "intra-state cooperation": "fight against cybercrime"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "responsible agency", 
+                    "manpower development", 
+                    "public sector partnership", 
+                    "institutional support", 
+                    "reporting mechanism", 
+                    "regulation and compliance", 
+                    "un convention and protocol", 
+                    "policy", 
+                    "intra-state cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Key activities: Adopting full and effective legal solutions in the field of cybercrime, which meet the requirements of human rights and the rule of law Strengthening of specialised unit for fight against cybercrime within the Police Administration Strengthening of specialised unit for fight against cybercrime within the Military of Montenegro Strengthening the capacity of National Security Agency in the field of collecting, recording, analysing, storing and exchanging data from cyberspace, and in accordance with the Law on National Security Agency Improving capacities for digital forensics 21 2013 CYBER SECURITY STRATEGY FOR MONTENEGRO 2017 Strengthening the capacity of prosecution in the area of cybercrime and electronic evidence material Support the training of judges, prosecutors and law enforcement authorities in the field of computer crime Promoting financial investigations and preventing fraud and money laundering on the Internet 4) Incident Response By establishing the National CIRT at the Ministry for Information Society and Telecommunications, a big step has been taken towards preventing and eliminating cyber threats that affect the state and its citizens."
+    }, 
+    {
+        "sentence_id,": "80c7557ed3", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "In cooperation with key institutions in Montenegro, CIRT is dealing with detection, monitoring and prevention of cyber attacks and cybercrime at the state level."
+    }, 
+    {
+        "sentence_id,": "25d71b97c1", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "CIRT represents a central point for coordinating prevention and protection against computer security incidents on the Internet and other IT security risk for the area of Montenegro."
+    }, 
+    {
+        "sentence_id,": "2c6f0c8212", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "It is also possible to report incidents on the website www.cirt.me."
+    }, 
+    {
+        "sentence_id,": "5648aa7e2d", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "efficient"
+                    }, 
+                    {
+                        "intra-agency cooperation": "efficient"
+                    }, 
+                    {
+                        "public sector partnership": "efficient"
+                    }
+                ], 
+                "subcategory": [
+                    "policy", 
+                    "intra-agency cooperation", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "In order to respond to incident situations in the best and most efficient possible manner, it is necessary to ensure better cooperation and free information exchange between key institutions in the field of cyber security."
+    }, 
+    {
+        "sentence_id,": "866d35d157", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "This primarily relates to cooperation of key state institutions with key institutions from private sector (Internet Service Providers, agent for .me domain, mobile operators, banking sector, electric power, post office, etc.)."
+    }, 
+    {
+        "sentence_id,": "91443489cb", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "professional certification": "large number"
+                    }, 
+                    {
+                        "reporting mechanism": "large number"
+                    }
+                ], 
+                "subcategory": [
+                    "professional certification", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "Also, given that cyber attacks are unlimited and that a large number of cyber attacks come from other countries, it is necessary to establish and maintain cooperation with relevant international institutions (FIRST, Trusted Introducer, ITU-IMPACT, etc.)"
+    }, 
+    {
+        "sentence_id,": "195a071ffe", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "and national CERT/CIRT teams from other countries."
+    }, 
+    {
+        "sentence_id,": "d1810a3dbe", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building", 
+                    "cooperation", 
+                    "technical measures"
+                ], 
+                "keywords": [
+                    {
+                        "manpower development": "enhance"
+                    }, 
+                    {
+                        "manpower development": "employees"
+                    }, 
+                    {
+                        "intra-state cooperation": "enhance"
+                    }, 
+                    {
+                        "public sector partnership": "enhance"
+                    }, 
+                    {
+                        "international cooperation": "enhance"
+                    }, 
+                    {
+                        "international cooperation": "continue"
+                    }, 
+                    {
+                        "standards": "international organisations"
+                    }, 
+                    {
+                        "professional certification": "international organisations"
+                    }, 
+                    {
+                        "agency certification": "international organisations"
+                    }, 
+                    {
+                        "intra-state cooperation": "state authorities"
+                    }, 
+                    {
+                        "international cooperation": "international organisations"
+                    }
+                ], 
+                "subcategory": [
+                    "manpower development", 
+                    "intra-state cooperation", 
+                    "public sector partnership", 
+                    "international cooperation", 
+                    "standards", 
+                    "professional certification", 
+                    "agency certification"
+                ]
+            }
+        ], 
+        "sentence": "22 2013 CYBER SECURITY STRATEGY FOR MONTENEGRO 2017 Key activities: Provide through National Cyber Security Council the procedure for information exchange between state authorities and administration bodies Provide trainings for employees who work in the field of cyber security within CIRT Enhance cooperation with key institutions from private sector Continue with activities on cooperation of national CIRT of Montenegro with key international organisations and CERT/CIRT teams from other countries."
+    }, 
+    {
+        "sentence_id,": "e78c05fb1b", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }
+                ], 
+                "subcategory": [
+                    "responsible agency", 
+                    "manpower development"
+                ]
+            }
+        ], 
+        "sentence": "5) The role of Ministry of Defence and Military of Montenegro in cyberspace Given the increasing role of information technology in military operations, and the need to protect against malicious cyber activities, it is necessary to consider the role of the Ministry of Defence and the Military of Montenegro in protecting cyberspace of Montenegro."
+    }, 
+    {
+        "sentence_id,": "74e425e42d", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "national benchmarking": "definition"
+                    }, 
+                    {
+                        "manpower development": "definition"
+                    }
+                ], 
+                "subcategory": [
+                    "national benchmarking", 
+                    "manpower development"
+                ]
+            }
+        ], 
+        "sentence": "The impact of cyber security in military domain varies from country to country, as the definition of military cyber operations also varies."
+    }, 
+    {
+        "sentence_id,": "dacacc9074", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "According to some NATO reports, about 120 countries develop military cyber capacities."
+    }, 
+    {
+        "sentence_id,": "588d7e81d6", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }
+                ], 
+                "subcategory": [
+                    "responsible agency", 
+                    "manpower development"
+                ]
+            }
+        ], 
+        "sentence": "Key activities: Define the role of the Ministry of Defence and Military of Montenegro in cyberspace of Montenegro Strengthen the capacity of Ministry of Defence and Military of Montenegro in the field of cyber defence Establish cooperation in this field with international partners."
+    }, 
+    {
+        "sentence_id,": "0f22f5cc5c", 
+        "tag": [
+            {
+                "category": [
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "intra-state cooperation": "public-private partnership"
+                    }
+                ], 
+                "subcategory": [
+                    "intra-state cooperation"
+                ]
+            }
+        ], 
+        "sentence": "23 2013 CYBER SECURITY STRATEGY FOR MONTENEGRO 2017 6) Public-private partnership Major part of critical information infrastructure belongs to the private sector."
+    }, 
+    {
+        "sentence_id,": "09e8623b4b", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Therefore, it is necessary to define a clear cooperation with private sector in the field of cyber security."
+    }, 
+    {
+        "sentence_id,": "59b264b6fb", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "capacity building", 
+                    "cooperation", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "cirt": "host"
+                    }, 
+                    {
+                        "manpower development": "host"
+                    }, 
+                    {
+                        "intra-state cooperation": "safer"
+                    }, 
+                    {
+                        "intra-state cooperation": "safer"
+                    }, 
+                    {
+                        "international cooperation": "host"
+                    }, 
+                    {
+                        "institutional support": "host"
+                    }, 
+                    {
+                        "institutional support": "safer"
+                    }, 
+                    {
+                        "institutional support": "safer"
+                    }, 
+                    {
+                        "reporting mechanism": "safer"
+                    }, 
+                    {
+                        "reporting mechanism": "safer"
+                    }, 
+                    {
+                        "manpower development": "public awareness"
+                    }, 
+                    {
+                        "public sector partnership": "public awareness"
+                    }
+                ], 
+                "subcategory": [
+                    "cirt", 
+                    "manpower development", 
+                    "intra-state cooperation", 
+                    "international cooperation", 
+                    "institutional support", 
+                    "reporting mechanism", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "In particular, to define procedures on information exchange with: Internet providers Agent for .me domain Banking sector Electric Power Companies that host e-services in Montenegro 7) Raising public awareness and protection on the Internet Ensuring safer Internet environment for citizens of Montenegro and training of users through raising awareness of the need for training need to be done."
+    }, 
+    {
+        "sentence_id,": "9bb3ceacab", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "national benchmarking": "levels of education"
+                    }
+                ], 
+                "subcategory": [
+                    "national benchmarking"
+                ]
+            }
+        ], 
+        "sentence": "Special focus should be on new generations, as well as on end-users of the Internet and continuous introduction of new programmes on information security at all levels of education with a view to use advanced information systems."
+    }, 
+    {
+        "sentence_id,": "2a44cf7b9a", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "efficient"
+                    }, 
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }, 
+                    {
+                        "intra-agency cooperation": "efficient"
+                    }, 
+                    {
+                        "public sector partnership": "efficient"
+                    }, 
+                    {
+                        "national legislation": "child"
+                    }, 
+                    {
+                        "un convention and protocol": "child"
+                    }, 
+                    {
+                        "national benchmarking": "safe use"
+                    }
+                ], 
+                "subcategory": [
+                    "policy", 
+                    "responsible agency", 
+                    "manpower development", 
+                    "intra-agency cooperation", 
+                    "public sector partnership", 
+                    "national legislation", 
+                    "un convention and protocol", 
+                    "national benchmarking"
+                ]
+            }
+        ], 
+        "sentence": "Key activities: Organise projects and campaigns to promote safe use of the Internet with special focus on child protection on the Internet In cooperation with the Ministry of Education and universities in Montenegro, work on organizing special programs from the area of cyber security with the aim of creating staff with highly specialized knowledge from this field Efficient regional and international cooperation."
+    }, 
+    {
+        "sentence_id,": "1d11ece39e", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "strategy implementation"
+                    }, 
+                    {
+                        "policy": "strategy implementation"
+                    }, 
+                    {
+                        "responsible agency": "strategy implementation"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "policy", 
+                    "responsible agency"
+                ]
+            }
+        ], 
+        "sentence": "24 ANNEX I: ACTION PLAN FOR STRATEGY IMPLEMENTATION 2013-2015 NO."
+    }, 
+    {
+        "sentence_id,": "850dded138", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "responsible agency": "representatives"
+                    }, 
+                    {
+                        "manpower development": "representatives"
+                    }, 
+                    {
+                        "intra-agency cooperation": "representatives"
+                    }, 
+                    {
+                        "international cooperation": "representatives"
+                    }, 
+                    {
+                        "institutional support": "representatives"
+                    }
+                ], 
+                "subcategory": [
+                    "responsible agency", 
+                    "manpower development", 
+                    "intra-agency cooperation", 
+                    "international cooperation", 
+                    "institutional support"
+                ]
+            }
+        ], 
+        "sentence": "TASK DESCRIPTION RESPONSIBLE AUTHORITY DEADLINE Council members are representatives of institutions that are identified as key in the field of cyber security."
+    }, 
+    {
+        "sentence_id,": "eb6867e0ff", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "regulation and compliance": "recommendation"
+                    }, 
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "national benchmarking": "definition"
+                    }, 
+                    {
+                        "manpower development": "definition"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }, 
+                    {
+                        "intra-state cooperation": "state authorities"
+                    }, 
+                    {
+                        "intra-state cooperation": "fight against cyber"
+                    }
+                ], 
+                "subcategory": [
+                    "regulation and compliance", 
+                    "responsible agency", 
+                    "national benchmarking", 
+                    "manpower development", 
+                    "intra-state cooperation"
+                ]
+            }
+        ], 
+        "sentence": "1 2 3 4 Establish National Cyber Security Council (information security) Establish local CIRT teams in key institutions to fight against cyber crime with a view to establish National CIRT infrastructure Definition and protection of critical information infrastructure Improve cooperation between state authorities and administration bodies Government of Montenegro will appoint Council members upon recommendation of the Ministry for Information Society and Telecommunications (MIST)."
+    }, 
+    {
+        "sentence_id,": "db65991bde", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Responsibility of the Council will be activities from the domain of cyber security and INFOSEC."
+    }, 
+    {
+        "sentence_id,": "dfecd0ff24", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "professional certification": "database"
+                    }, 
+                    {
+                        "professional certification": "database"
+                    }, 
+                    {
+                        "public sector partnership": "database"
+                    }, 
+                    {
+                        "public sector partnership": "database"
+                    }, 
+                    {
+                        "intra-state cooperation": "state authorities"
+                    }
+                ], 
+                "subcategory": [
+                    "professional certification", 
+                    "public sector partnership", 
+                    "intra-state cooperation"
+                ]
+            }
+        ], 
+        "sentence": "MIST All state authorities and administration bodies who maintain a database of national importance or manage critical part of IT MIST infrastructure need to form local CIRT teams."
+    }, 
+    {
+        "sentence_id,": "c938992f65", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "methodology"
+                    }
+                ], 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Define Methodology to be used for the purpose of identifying critical information infrastructure."
+    }, 
+    {
+        "sentence_id,": "06d7749bc5", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "It is necessary to define critical information infrastructure in Montenegro and develop procedures for protection to ensure its smooth operation."
+    }, 
+    {
+        "sentence_id,": "a8a18fa52b", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "efficient"
+                    }, 
+                    {
+                        "manpower development": "employees"
+                    }, 
+                    {
+                        "intra-agency cooperation": "efficient"
+                    }, 
+                    {
+                        "public sector partnership": "efficient"
+                    }, 
+                    {
+                        "intra-state cooperation": "state authorities"
+                    }
+                ], 
+                "subcategory": [
+                    "policy", 
+                    "manpower development", 
+                    "intra-agency cooperation", 
+                    "public sector partnership", 
+                    "intra-state cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Provide through the National Cyber Security Council the procedure for information exchange between state authorities and administration bodies MIST MD MI NCA December 2013 March 2014 September 2014 May 2014 2013 CYBER SECURITY STRATEGY FOR MONTENEGRO 2017 5 6 7 8 Provide trainings for employees who work in the field of cyber security within national CIRT and local CIRT teams In order to respond to incidents in the best and most efficient possible manner, it is necessary to provide vocational training of MIST staff who work on resolving the incidents."
+    }, 
+    {
+        "sentence_id,": "bfcb44baaa", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "capacity building", 
+                    "cooperation", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "cirt": "host"
+                    }, 
+                    {
+                        "manpower development": "host"
+                    }, 
+                    {
+                        "international cooperation": "host"
+                    }, 
+                    {
+                        "institutional support": "host"
+                    }, 
+                    {
+                        "intra-state cooperation": "state authorities"
+                    }
+                ], 
+                "subcategory": [
+                    "cirt", 
+                    "manpower development", 
+                    "international cooperation", 
+                    "institutional support", 
+                    "intra-state cooperation"
+                ]
+            }
+        ], 
+        "sentence": "January December 2014 Provide through National Cyber Security Council the procedure for information exchange between state authorities and key institutions from private sector, in particular: Internet providers Agent for .me domain Banking sector Electric power Companies that host e-services in Montenegro Depending on conducted Analysis, the Council will define the manner of cooperation with other entities."
+    }, 
+    {
+        "sentence_id,": "5f1e5074e2", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "cirt": "conduct"
+                    }, 
+                    {
+                        "national benchmarking": "conduct"
+                    }, 
+                    {
+                        "manpower development": "conduct"
+                    }, 
+                    {
+                        "professional certification": "conduct"
+                    }, 
+                    {
+                        "cirt": "threat analysis"
+                    }, 
+                    {
+                        "intra-agency cooperation": "threat analysis"
+                    }, 
+                    {
+                        "public sector partnership": "threat analysis"
+                    }
+                ], 
+                "subcategory": [
+                    "cirt", 
+                    "national benchmarking", 
+                    "manpower development", 
+                    "professional certification", 
+                    "intra-agency cooperation", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "MIST MD MI NCA July 2014 Conduct cyber threat analysis in Montenegrin cyberspace Due to constant grow of the number of services public and private sector provide to citizens as well as to other legal entities, we must strive to protect cyberspace of Montenegro."
+    }, 
+    {
+        "sentence_id,": "778abba7c1", 
+        "tag": [
+            {
+                "category": [
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "international cooperation": "first step"
+                    }
+                ], 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "The first step is analysis of cyber threats."
+    }, 
+    {
+        "sentence_id,": "0dc8957379", 
+        "tag": [
+            {
+                "category": [
+                    "cooperation", 
+                    "child online protection", 
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "intra-state cooperation": "safer"
+                    }, 
+                    {
+                        "intra-state cooperation": "safer"
+                    }, 
+                    {
+                        "national legislation": "child"
+                    }, 
+                    {
+                        "un convention and protocol": "child"
+                    }, 
+                    {
+                        "institutional support": "safer"
+                    }, 
+                    {
+                        "institutional support": "safer"
+                    }, 
+                    {
+                        "reporting mechanism": "safer"
+                    }, 
+                    {
+                        "reporting mechanism": "safer"
+                    }, 
+                    {
+                        "national benchmarking": "safe use"
+                    }, 
+                    {
+                        "national benchmarking": "safe use"
+                    }
+                ], 
+                "subcategory": [
+                    "intra-state cooperation", 
+                    "national legislation", 
+                    "un convention and protocol", 
+                    "institutional support", 
+                    "reporting mechanism", 
+                    "national benchmarking"
+                ]
+            }
+        ], 
+        "sentence": "MIST MD MI NCA December 2014 Organise projects and campaigns to promote safe use of the Internet with special focus on child protection on the Internet Ensure safer Internet environment for citizens of Montenegro and training of users through raising awareness of safe use of the MIST Internet."
+    }, 
+    {
+        "sentence_id,": "8668d0a6d6", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "manpower development": "promotion"
+                    }, 
+                    {
+                        "national legislation": "child"
+                    }, 
+                    {
+                        "un convention and protocol": "child"
+                    }
+                ], 
+                "subcategory": [
+                    "manpower development", 
+                    "national legislation", 
+                    "un convention and protocol"
+                ]
+            }
+        ], 
+        "sentence": "Special attention to be paid to campaigns and promotion of child protection on the Internet."
+    }, 
+    {
+        "sentence_id,": "637b549d94", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "capacity building", 
+                    "cooperation", 
+                    "child online protection", 
+                    "legal measures", 
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "cirt": "collection"
+                    }, 
+                    {
+                        "standards": "collection"
+                    }, 
+                    {
+                        "manpower development": "collection"
+                    }, 
+                    {
+                        "manpower development": "police"
+                    }, 
+                    {
+                        "manpower development": "police"
+                    }, 
+                    {
+                        "manpower development": "capacities"
+                    }, 
+                    {
+                        "manpower development": "capacities"
+                    }, 
+                    {
+                        "manpower development": "capacities"
+                    }, 
+                    {
+                        "intra-agency cooperation": "collection"
+                    }, 
+                    {
+                        "institutional support": "police"
+                    }, 
+                    {
+                        "institutional support": "police"
+                    }, 
+                    {
+                        "reporting mechanism": "police"
+                    }, 
+                    {
+                        "reporting mechanism": "police"
+                    }, 
+                    {
+                        "regulation and compliance": "electronic evidence"
+                    }, 
+                    {
+                        "responsible agency": "digital forensics"
+                    }, 
+                    {
+                        "intra-state cooperation": "fight against cybercrime"
+                    }, 
+                    {
+                        "intra-state cooperation": "fight against cybercrime"
+                    }
+                ], 
+                "subcategory": [
+                    "cirt", 
+                    "standards", 
+                    "manpower development", 
+                    "intra-agency cooperation", 
+                    "institutional support", 
+                    "reporting mechanism", 
+                    "regulation and compliance", 
+                    "responsible agency", 
+                    "intra-state cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Improve cooperation between public and private sector March 2014 26 2013 CYBER SECURITY STRATEGY FOR MONTENEGRO 2017 9 Strengthen the specialised unit for fight against cybercrime within the Police Administration In order to ensure smooth prosecution of offences against computer data and systems, offences committed over computers, MI it is necessary to improve capacities of specialised unit for fight against cybercrime within the Police Administration By the end of 2014 10 Improve capacities for digital forensics It is necessary to improve capacities of the Forensic Centre in Danilovgrad to ensure adequate collection and analysis of MI electronic evidence material."
+    }, 
+    {
+        "sentence_id,": "10b26b334b", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }, 
+                    {
+                        "manpower development": "capacities"
+                    }
+                ], 
+                "subcategory": [
+                    "responsible agency", 
+                    "manpower development"
+                ]
+            }
+        ], 
+        "sentence": "September 2015 11 Strengthen capacities of the Ministry of Defence and Military of Montenegro in the field of cyber defence Define the role of Ministry of Defence and Military of Montenegro MD, Military of in cyberspace of Montenegro Montenegro Organise conferences/trainings on cyber security Provide the basis for organising regional conference/training on cyber security on an annual basis."
+    }, 
+    {
+        "sentence_id,": "4a64929400", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "manpower development": "raise"
+                    }, 
+                    {
+                        "manpower development": "promotion"
+                    }
+                ], 
+                "subcategory": [
+                    "manpower development"
+                ]
+            }
+        ], 
+        "sentence": "This provides for improvement MIST MD of regional cooperation, raise of awareness and promotion of MI Montenegro as one of the leading countries in the region in this field."
+    }, 
+    {
+        "sentence_id,": "e3f94b0f61", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "12 March 2015 October 2015 27"
+    }
+]

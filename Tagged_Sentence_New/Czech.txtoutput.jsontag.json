@@ -1,0 +1,2457 @@
+[
+    {
+        "sentence_id,": "938ec19e34", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "STRATEGY OF THE CZECH REPUBLIC IN THE FIELD OF CYBERNETIC SECURITY FOR 2012 - 2015 Content Introduction ................................................................................................................................ 2 I."
+    }, 
+    {
+        "sentence_id,": "686834a7a9", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "manpower development": "foundations"
+                    }, 
+                    {
+                        "reporting mechanism": "foundations"
+                    }
+                ], 
+                "subcategory": [
+                    "manpower development", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "Foundations ......................................................................................................................... 3 ICT and societies dependent on them are vulnerable ............................................................. 3 II."
+    }, 
+    {
+        "sentence_id,": "ea23a4ac75", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "technical measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "principles"
+                    }, 
+                    {
+                        "responsible agency": "principles"
+                    }, 
+                    {
+                        "standards": "international cooperation"
+                    }, 
+                    {
+                        "professional certification": "international cooperation"
+                    }, 
+                    {
+                        "agency certification": "international cooperation"
+                    }, 
+                    {
+                        "international cooperation": "international cooperation"
+                    }
+                ], 
+                "subcategory": [
+                    "policy", 
+                    "responsible agency", 
+                    "standards", 
+                    "professional certification", 
+                    "agency certification", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Basic principles of strategy of cybernetic security .......................................................... 4 Individual responsibility ......................................................................................................... 4 International Cooperation ....................................................................................................... 5 III."
+    }, 
+    {
+        "sentence_id,": "d3a9186b25", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures", 
+                    "organization measures", 
+                    "cooperation", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "cybernetic attacks"
+                    }, 
+                    {
+                        "cirt": "cybernetic attacks"
+                    }, 
+                    {
+                        "policy": "strategic goals"
+                    }, 
+                    {
+                        "intra-state cooperation": "cybernetic attacks"
+                    }, 
+                    {
+                        "intra-agency cooperation": "cybernetic attacks"
+                    }, 
+                    {
+                        "international cooperation": "cybernetic attacks"
+                    }, 
+                    {
+                        "institutional support": "cybernetic attacks"
+                    }, 
+                    {
+                        "reporting mechanism": "cybernetic attacks"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "cirt", 
+                    "policy", 
+                    "intra-state cooperation", 
+                    "intra-agency cooperation", 
+                    "international cooperation", 
+                    "institutional support", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "Strategic goals and measures ........................................................................................... 5 Establishing National Centre for Cybernetic Security and Governmental CERT ................. 6 Strengthening of cybernetic security of information and communication systems of public governance ............................................................................................................................. 6 Using of reliable IT ................................................................................................................ 7 Response to cybernetic attacks ............................................................................................... 8 Introduction Strategy of the Czech Republic in the field of cybernetic security for 2012 2015 (hereinafter referred to as Strategy) is one of the steps of the Government of the Czech Republic in reaction to worldwide rise of cybernetic threats."
+    }, 
+    {
+        "sentence_id,": "8202b681d0", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "manpower development": "raise"
+                    }
+                ], 
+                "subcategory": [
+                    "manpower development"
+                ]
+            }
+        ], 
+        "sentence": "The Strategy stems from efforts of governmental and non-governmental entities to raise level of cybernetic security."
+    }, 
+    {
+        "sentence_id,": "876080c804", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "manpower development": "enhance"
+                    }, 
+                    {
+                        "intra-state cooperation": "enhance"
+                    }, 
+                    {
+                        "public sector partnership": "enhance"
+                    }, 
+                    {
+                        "international cooperation": "enhance"
+                    }
+                ], 
+                "subcategory": [
+                    "manpower development", 
+                    "intra-state cooperation", 
+                    "public sector partnership", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "It brings initiatives to enhance cybernetic security for state bodies, critical infrastructure and commercial sphere as well as for citizens."
+    }, 
+    {
+        "sentence_id,": "5682e44093", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "defines"
+                    }, 
+                    {
+                        "policy": "defines"
+                    }, 
+                    {
+                        "standardisation development": "defines"
+                    }, 
+                    {
+                        "manpower development": "aims"
+                    }, 
+                    {
+                        "intra-agency cooperation": "aims"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "policy", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "intra-agency cooperation"
+                ]
+            }
+        ], 
+        "sentence": "The Strategy defines aims and interests of the Czech Republic in the field of cybernetic security for building of reliable information society and is in line with the Security Strategy of the Czech Republic."
+    }, 
+    {
+        "sentence_id,": "ac30fc10f8", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "This Strategy is the basic document for the creation of legal acts, security policies of information and communication systems, standards, rules, operation measures, maintenance plans, recommendations and other tools for cybernetic security."
+    }, 
+    {
+        "sentence_id,": "28baec4d19", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The Strategy is divided into three parts."
+    }, 
+    {
+        "sentence_id,": "d8339b070c", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "manpower development": "foundations"
+                    }, 
+                    {
+                        "reporting mechanism": "foundations"
+                    }
+                ], 
+                "subcategory": [
+                    "manpower development", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "The first one describes foundations determining necessity to deal with this problem."
+    }, 
+    {
+        "sentence_id,": "c65f7df669", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "principles"
+                    }, 
+                    {
+                        "responsible agency": "principles"
+                    }
+                ], 
+                "subcategory": [
+                    "policy", 
+                    "responsible agency"
+                ]
+            }
+        ], 
+        "sentence": "The second one brings analysis and basic principles of cybernetic security."
+    }, 
+    {
+        "sentence_id,": "ddccf0a0b3", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The third states goals and describes activities crucial for enhancing cybernetic security activities implemented by the Government of the Czech Republic and activities in cooperation with partners."
+    }, 
+    {
+        "sentence_id,": "ad986571e5", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "manpower development": "foundations"
+                    }, 
+                    {
+                        "reporting mechanism": "foundations"
+                    }
+                ], 
+                "subcategory": [
+                    "manpower development", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "Foundations Attacks on critical information infrastructure have become more often, complex and sophisticated as the perpetrators are more professional in the recent years."
+    }, 
+    {
+        "sentence_id,": "77a74f34cb", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Possibilities for timely reaction and arrests of perpetrators are very limited and demanding."
+    }, 
+    {
+        "sentence_id,": "9fd67eb434", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "manpower development": "new vulnerabilities"
+                    }, 
+                    {
+                        "intra-agency cooperation": "new vulnerabilities"
+                    }, 
+                    {
+                        "international cooperation": "new vulnerabilities"
+                    }
+                ], 
+                "subcategory": [
+                    "manpower development", 
+                    "intra-agency cooperation", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "The trend of the development of ISs for industrial use connected to the internet brings new vulnerabilities of those systems."
+    }, 
+    {
+        "sentence_id,": "637439051c", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "manpower development": "experience"
+                    }, 
+                    {
+                        "public sector partnership": "experience"
+                    }
+                ], 
+                "subcategory": [
+                    "manpower development", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "Experience with Stuxnet virus shows that important industrial facilities are not immune to cybernetic attacks."
+    }, 
+    {
+        "sentence_id,": "dee0985875", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "functioning"
+                    }, 
+                    {
+                        "policy": "functioning"
+                    }, 
+                    {
+                        "responsible agency": "functioning"
+                    }, 
+                    {
+                        "national benchmarking": "functioning"
+                    }, 
+                    {
+                        "manpower development": "functioning"
+                    }, 
+                    {
+                        "international cooperation": "functioning"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "policy", 
+                    "responsible agency", 
+                    "national benchmarking", 
+                    "manpower development", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Cyber security shall remain crucial for maintaining functioning state in the future."
+    }, 
+    {
+        "sentence_id,": "0546583fb0", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "functioning"
+                    }, 
+                    {
+                        "policy": "functioning"
+                    }, 
+                    {
+                        "responsible agency": "functioning"
+                    }, 
+                    {
+                        "national benchmarking": "functioning"
+                    }, 
+                    {
+                        "manpower development": "functioning"
+                    }, 
+                    {
+                        "international cooperation": "functioning"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "policy", 
+                    "responsible agency", 
+                    "national benchmarking", 
+                    "manpower development", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Information and communication technologies and their impact on modern society and economics Safe and sound functioning if information and communication technologies (hereinafter ICT) is necessary for operations of state and public entities and is one of the basic preconditions of prosperity and sustainable economic growth."
+    }, 
+    {
+        "sentence_id,": "b08b49e869", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The share of human activity dependent directly or indirectly on ICT is steadily growing."
+    }, 
+    {
+        "sentence_id,": "9e58852efb", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The Czech Republic has ambitions to belong among developed countries in this field."
+    }, 
+    {
+        "sentence_id,": "9a22a006bd", 
+        "tag": [
+            {
+                "category": [
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "national legislation": "online services"
+                    }, 
+                    {
+                        "institutional support": "online services"
+                    }, 
+                    {
+                        "reporting mechanism": "online services"
+                    }
+                ], 
+                "subcategory": [
+                    "national legislation", 
+                    "institutional support", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "Networks and online services have to be not only secure but also reliable."
+    }, 
+    {
+        "sentence_id,": "ea0f0b475d", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "manpower development": "enhance"
+                    }, 
+                    {
+                        "intra-state cooperation": "enhance"
+                    }, 
+                    {
+                        "public sector partnership": "enhance"
+                    }, 
+                    {
+                        "international cooperation": "enhance"
+                    }
+                ], 
+                "subcategory": [
+                    "manpower development", 
+                    "intra-state cooperation", 
+                    "public sector partnership", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "The whole society has to enhance its activities towards the security and reliability of ICT."
+    }, 
+    {
+        "sentence_id,": "3f14a41e12", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "manpower development": "new opportunities"
+                    }, 
+                    {
+                        "intra-state cooperation": "new opportunities"
+                    }
+                ], 
+                "subcategory": [
+                    "manpower development", 
+                    "intra-state cooperation"
+                ]
+            }
+        ], 
+        "sentence": "ICT and societies dependent on them are vulnerable Constant and rapid progress in the field of ICT brings new opportunities for the society but also new security challenges."
+    }, 
+    {
+        "sentence_id,": "35674831cb", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Combination of increased dependence on ICT which is not flawless with human failure or intentional damage makes mitigation of damages more complicated."
+    }, 
+    {
+        "sentence_id,": "c20580e01c", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "cooperation", 
+                    "child online protection", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "cirt": "emergence"
+                    }, 
+                    {
+                        "cirt": "emergence"
+                    }, 
+                    {
+                        "international cooperation": "emergence"
+                    }, 
+                    {
+                        "international cooperation": "emergence"
+                    }, 
+                    {
+                        "institutional support": "emergence"
+                    }, 
+                    {
+                        "institutional support": "emergence"
+                    }, 
+                    {
+                        "manpower development": "new opportunities"
+                    }, 
+                    {
+                        "manpower development": "new vulnerabilities"
+                    }, 
+                    {
+                        "intra-state cooperation": "new opportunities"
+                    }, 
+                    {
+                        "intra-agency cooperation": "new vulnerabilities"
+                    }, 
+                    {
+                        "international cooperation": "new vulnerabilities"
+                    }
+                ], 
+                "subcategory": [
+                    "cirt", 
+                    "international cooperation", 
+                    "institutional support", 
+                    "manpower development", 
+                    "intra-state cooperation", 
+                    "intra-agency cooperation"
+                ]
+            }
+        ], 
+        "sentence": "The emergence of new technologies brings new opportunities for the development of the society but also new vulnerabilities and new demands for the security of ICT and whole society."
+    }, 
+    {
+        "sentence_id,": "1c8a85aeab", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "regulation and compliance": "its citizens"
+                    }, 
+                    {
+                        "certification": "its citizens"
+                    }, 
+                    {
+                        "manpower development": "its citizens"
+                    }, 
+                    {
+                        "public sector partnership": "its citizens"
+                    }
+                ], 
+                "subcategory": [
+                    "regulation and compliance", 
+                    "certification", 
+                    "manpower development", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "Increased dependence on ICT enhances vulnerability of the state and its citizens to the cybernetic attacks."
+    }, 
+    {
+        "sentence_id,": "ee867ef485", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "These attacks may be motivated by crime, economic profit or terrorism and may be used to destabilise society."
+    }, 
+    {
+        "sentence_id,": "ffc2d4a518", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Leaks of strategic information, infringements into ICT of state institutions or strategic companies may endanger interests of the Czech Republic."
+    }, 
+    {
+        "sentence_id,": "a58f27549a", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Examples show rapid and diverse development in the field of cybernetic security."
+    }, 
+    {
+        "sentence_id,": "b17e13d6d8", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Attacks against ICT are more complex and sophisticated."
+    }, 
+    {
+        "sentence_id,": "b6af529f04", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "These attacks are aimed against various targets and waged by various means."
+    }, 
+    {
+        "sentence_id,": "05088dff8b", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "attackers"
+                    }, 
+                    {
+                        "cirt": "attackers"
+                    }, 
+                    {
+                        "intra-state cooperation": "attackers"
+                    }, 
+                    {
+                        "intra-agency cooperation": "attackers"
+                    }, 
+                    {
+                        "international cooperation": "attackers"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "cirt", 
+                    "intra-state cooperation", 
+                    "intra-agency cooperation", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Also the nature of attackers and their motives are changing."
+    }, 
+    {
+        "sentence_id,": "a2b0097ed8", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "functioning"
+                    }, 
+                    {
+                        "policy": "functioning"
+                    }, 
+                    {
+                        "responsible agency": "functioning"
+                    }, 
+                    {
+                        "national benchmarking": "functioning"
+                    }, 
+                    {
+                        "manpower development": "functioning"
+                    }, 
+                    {
+                        "international cooperation": "functioning"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "policy", 
+                    "responsible agency", 
+                    "national benchmarking", 
+                    "manpower development", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Parts of the critical infrastructure, crucial for functioning of the state, are becoming target of attacks more and more often."
+    }, 
+    {
+        "sentence_id,": "56c3f14813", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Considering the fact that digital society is globalised and cybernetic attack are crossing state, cultural and legislative boundaries, it is often not obvious which jurisdiction should be applied to them."
+    }, 
+    {
+        "sentence_id,": "f60f018b43", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "international cooperation"
+                    }, 
+                    {
+                        "professional certification": "international cooperation"
+                    }, 
+                    {
+                        "agency certification": "international cooperation"
+                    }, 
+                    {
+                        "international cooperation": "international cooperation"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "professional certification", 
+                    "agency certification", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Close international cooperation is therefore needed also in the area of legislation."
+    }, 
+    {
+        "sentence_id,": "4e8aa25f86", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "principles"
+                    }, 
+                    {
+                        "responsible agency": "principles"
+                    }
+                ], 
+                "subcategory": [
+                    "policy", 
+                    "responsible agency"
+                ]
+            }
+        ], 
+        "sentence": "Basic principles of strategy of cybernetic security Investment into cybernetic security means investing into our future and our economic growth."
+    }, 
+    {
+        "sentence_id,": "aa77b2343e", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures", 
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "regulation and compliance": "confidentiality"
+                    }, 
+                    {
+                        "standards": "confidentiality"
+                    }, 
+                    {
+                        "policy": "confidentiality"
+                    }
+                ], 
+                "subcategory": [
+                    "regulation and compliance", 
+                    "standards", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The level of cybernetic security comprises from all measures, both national and international, adopted to protect availability of ICT and integrity, authenticity and confidentiality of data in the cyberspace."
+    }, 
+    {
+        "sentence_id,": "c5b5c13271", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Cyber security has to be based on complex approach demanding information sharing and coordination of activities."
+    }, 
+    {
+        "sentence_id,": "0abfc00a24", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The cooperation between military and civilian, public and private and international and national spheres is to be ensured while building the system of cybernetic security."
+    }, 
+    {
+        "sentence_id,": "7321135e8b", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures", 
+                    "cooperation", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "cybernetic attacks"
+                    }, 
+                    {
+                        "cirt": "cybernetic attacks"
+                    }, 
+                    {
+                        "intra-state cooperation": "cybernetic attacks"
+                    }, 
+                    {
+                        "intra-agency cooperation": "cybernetic attacks"
+                    }, 
+                    {
+                        "international cooperation": "cybernetic attacks"
+                    }, 
+                    {
+                        "institutional support": "cybernetic attacks"
+                    }, 
+                    {
+                        "reporting mechanism": "cybernetic attacks"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "cirt", 
+                    "intra-state cooperation", 
+                    "intra-agency cooperation", 
+                    "international cooperation", 
+                    "institutional support", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "Only such approach ensures sound operation of ICT infrastructure in critical areas, rapid and effective reaction to cybernetic attacks and legal protection in the digital world."
+    }, 
+    {
+        "sentence_id,": "87fe1e76f0", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The issue of cybernetic security cannot be seen as an isolated problem of the Czech Republic or several parts of our society."
+    }, 
+    {
+        "sentence_id,": "766c866201", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Its not only international, inter-ministerial public or private sphere issue but the problem of whole society."
+    }, 
+    {
+        "sentence_id,": "ef66101c75", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Therefore, ensuring of cybernetic security deserves the highest priority."
+    }, 
+    {
+        "sentence_id,": "e0e4526437", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "responsible agency": "coordinate"
+                    }
+                ], 
+                "subcategory": [
+                    "responsible agency"
+                ]
+            }
+        ], 
+        "sentence": "Interconnection and strengthening cooperation of all parts of society It is desirable to coordinate all initiatives of state (civilian, police, military), commercial and academic entities, those which have done a lot of good work in their areas of responsibility and those which werent very active so far."
+    }, 
+    {
+        "sentence_id,": "3f3ea4dd9f", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Only coordinated effort leads towards enhancing of cybernetic security without dispersion and useless doubling of efforts and growth of costs."
+    }, 
+    {
+        "sentence_id,": "accf3db23c", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "regulation and compliance": "goods and services"
+                    }, 
+                    {
+                        "un convention and protocol": "goods and services"
+                    }
+                ], 
+                "subcategory": [
+                    "regulation and compliance", 
+                    "un convention and protocol"
+                ]
+            }
+        ], 
+        "sentence": "ICT infrastructure, goods and services are from largest part provided by the private sector."
+    }, 
+    {
+        "sentence_id,": "7c93ef9e5f", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Mutual trust and information sharing are thus basic precondition for successful cooperation between public and private sector."
+    }, 
+    {
+        "sentence_id,": "ec2632c1b1", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "national benchmarking": "appropriate measures"
+                    }
+                ], 
+                "subcategory": [
+                    "national benchmarking"
+                ]
+            }
+        ], 
+        "sentence": "Individual responsibility It is the basic interest of the state to establish the ICT security rules in a way to be accepted by all users of cyberspace (state bodies, critical infrastructure entities, public entities, commercial companies and citizens) and service providers in order to adopt in their ICT systems appropriate measures to protect the system against internal and external attacks and not to pose a threat for other systems."
+    }, 
+    {
+        "sentence_id,": "c15ef63586", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Inter-ministerial cooperation According to the decision of the Government of the Czech Republic no."
+    }, 
+    {
+        "sentence_id,": "2fca6c5bb7", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "781 from 19th October 2011 the body responsible for the field of cybernetic security is the national Security Authority (hereinafter NSA)."
+    }, 
+    {
+        "sentence_id,": "e362763a0f", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "a key role"
+                    }, 
+                    {
+                        "public sector partnership": "a key role"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "The Council for Cybernetic Security (hereinafter Council) plays a key role in the inter-ministerial coordination."
+    }, 
+    {
+        "sentence_id,": "40a5581df5", 
+        "tag": [
+            {
+                "category": [
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "international cooperation": "initiate"
+                    }
+                ], 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "It will, among other tasks, initiate cooperation of state bodies."
+    }, 
+    {
+        "sentence_id,": "9deed40461", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "In line with its statute, the Council will establish working groups comprised of relevant experts."
+    }, 
+    {
+        "sentence_id,": "b99b1c5a0f", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures", 
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "draft"
+                    }, 
+                    {
+                        "regulation and compliance": "draft"
+                    }, 
+                    {
+                        "certification": "draft"
+                    }, 
+                    {
+                        "policy": "draft"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "certification", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The working groups will draft documents dealing with specific issues of cybernetic security for the Council."
+    }, 
+    {
+        "sentence_id,": "99cbdfffc4", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "capacity building", 
+                    "cooperation", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "create"
+                    }, 
+                    {
+                        "standardisation development": "create"
+                    }, 
+                    {
+                        "manpower development": "create"
+                    }, 
+                    {
+                        "public sector partnership": "create"
+                    }, 
+                    {
+                        "institutional support": "create"
+                    }, 
+                    {
+                        "reporting mechanism": "create"
+                    }, 
+                    {
+                        "standards": "international cooperation"
+                    }, 
+                    {
+                        "professional certification": "international cooperation"
+                    }, 
+                    {
+                        "agency certification": "international cooperation"
+                    }, 
+                    {
+                        "international cooperation": "international cooperation"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "public sector partnership", 
+                    "institutional support", 
+                    "reporting mechanism", 
+                    "professional certification", 
+                    "agency certification", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "International Cooperation Bearing in mind that a measure could be effective only if implemented or coordinated on an international level the Czech Republic will actively support through common bodies and working groups the efforts of the European Union (hereinafter EU) and North Atlantic Treaty Organisation (hereinafter NATO) to create international policies, standards and norms and adequately implement those policies, standards and norms into national legislation dealing with cybernetic security."
+    }, 
+    {
+        "sentence_id,": "417734f2c0", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "roadmap for governance": "achieve"
+                    }
+                ], 
+                "subcategory": [
+                    "roadmap for governance"
+                ]
+            }
+        ], 
+        "sentence": "Adequacy of adopted measures There is no way how to achieve absolute cybernetic security."
+    }, 
+    {
+        "sentence_id,": "9cf324cf20", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The Czech Republic will adopt measures based on realistic evaluation of risks and shall be appropriate to such risks."
+    }, 
+    {
+        "sentence_id,": "983e2a2224", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "responsible agency": "respect"
+                    }
+                ], 
+                "subcategory": [
+                    "responsible agency"
+                ]
+            }
+        ], 
+        "sentence": "They will respect protection of privacy and basic rights as free access to information, freedom of speech and others."
+    }, 
+    {
+        "sentence_id,": "6911352539", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "legal measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "responsible agency": "respect"
+                    }, 
+                    {
+                        "regulation and compliance": "rights and freedoms"
+                    }, 
+                    {
+                        "un convention and protocol": "rights and freedoms"
+                    }
+                ], 
+                "subcategory": [
+                    "responsible agency", 
+                    "regulation and compliance", 
+                    "un convention and protocol"
+                ]
+            }
+        ], 
+        "sentence": "The measures shall be appropriate to the necessity to ensure security on one side and to respect basic rights and freedoms on the other side."
+    }, 
+    {
+        "sentence_id,": "9a5a9b8852", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "defines"
+                    }, 
+                    {
+                        "policy": "defines"
+                    }, 
+                    {
+                        "standardisation development": "defines"
+                    }, 
+                    {
+                        "policy": "strategic goals"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "policy", 
+                    "standardisation development"
+                ]
+            }
+        ], 
+        "sentence": "Strategic goals and measures Strategy adopts measures against current threats and is a basis for the Action Plan which defines particular steps and identifies those responsible for their achievement."
+    }, 
+    {
+        "sentence_id,": "26e984f115", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures", 
+                    "organization measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "draft"
+                    }, 
+                    {
+                        "regulation and compliance": "draft"
+                    }, 
+                    {
+                        "certification": "draft"
+                    }, 
+                    {
+                        "policy": "draft"
+                    }, 
+                    {
+                        "criminal legislation": "legislative framework"
+                    }, 
+                    {
+                        "regulation and compliance": "legislative framework"
+                    }, 
+                    {
+                        "standards": "legislative framework"
+                    }, 
+                    {
+                        "certification": "legislative framework"
+                    }, 
+                    {
+                        "national legislation": "legislative framework"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "certification", 
+                    "policy", 
+                    "standards", 
+                    "national legislation"
+                ]
+            }
+        ], 
+        "sentence": "The following areas shall be prioritised: Creation of legislative framework The NSA shall draft a specialised law on cybernetic security which will determine responsibilities of the national Centre for Cybernetic Security (hereinafter NCCS)."
+    }, 
+    {
+        "sentence_id,": "a8127c1194", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The law shall define obligations of entities offering and/or using services in the cyberspace."
+    }, 
+    {
+        "sentence_id,": "60e4e2cfbd", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "It shall further determine means and scope of cooperation with private sector, public and international institutions."
+    }, 
+    {
+        "sentence_id,": "4582d48e0f", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures"
+                ], 
+                "keywords": [
+                    {
+                        "regulation and compliance": "recommendation"
+                    }, 
+                    {
+                        "regulation and compliance": "electronic transactions"
+                    }
+                ], 
+                "subcategory": [
+                    "regulation and compliance"
+                ]
+            }
+        ], 
+        "sentence": "International laws, agreements, trends and recommendation in the field of cybernetic security e-commerce and electronic transactions shall be regularly evaluated and the conclusions and recommendations stemming from such evaluation shall be implemented."
+    }, 
+    {
+        "sentence_id,": "15b8a77a9b", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The Czech Republic shall actively participate in drafting of laws, norms and other cooperation associated with cybernetic security in the framework of EU, NATO and other international organisations."
+    }, 
+    {
+        "sentence_id,": "3558f8b9e8", 
+        "tag": [
+            {
+                "category": [
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "intra-state cooperation": "state bodies"
+                    }
+                ], 
+                "subcategory": [
+                    "intra-state cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Establishing National Centre for Cybernetic Security and Governmental CERT The NCCS shall be established within NSA to optimize cooperation between state bodies and improve coordination of protection and implementation of counter- measures."
+    }, 
+    {
+        "sentence_id,": "f7eb7aa00f", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Governmental CERT (Computer Emergency Response Team) will be part of the NCCS."
+    }, 
+    {
+        "sentence_id,": "0786b38084", 
+        "tag": [
+            {
+                "category": [
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "intra-state cooperation": "cooperate"
+                    }, 
+                    {
+                        "intra-state cooperation": "cooperate"
+                    }, 
+                    {
+                        "public sector partnership": "cooperate"
+                    }, 
+                    {
+                        "public sector partnership": "cooperate"
+                    }, 
+                    {
+                        "international cooperation": "cooperate"
+                    }, 
+                    {
+                        "international cooperation": "cooperate"
+                    }
+                ], 
+                "subcategory": [
+                    "intra-state cooperation", 
+                    "public sector partnership", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "The NCCS shall actively cooperate with other state bodies, academic institutions and commercial entities on the basis of cooperation agreements."
+    }, 
+    {
+        "sentence_id,": "b1480756ad", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures", 
+                    "organization measures", 
+                    "cooperation", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "draft"
+                    }, 
+                    {
+                        "regulation and compliance": "draft"
+                    }, 
+                    {
+                        "certification": "draft"
+                    }, 
+                    {
+                        "policy": "draft"
+                    }, 
+                    {
+                        "criminal legislation": "cybernetic attacks"
+                    }, 
+                    {
+                        "cirt": "cybernetic attacks"
+                    }, 
+                    {
+                        "intra-state cooperation": "cybernetic attacks"
+                    }, 
+                    {
+                        "intra-agency cooperation": "cybernetic attacks"
+                    }, 
+                    {
+                        "international cooperation": "cybernetic attacks"
+                    }, 
+                    {
+                        "institutional support": "cybernetic attacks"
+                    }, 
+                    {
+                        "reporting mechanism": "cybernetic attacks"
+                    }, 
+                    {
+                        "intra-state cooperation": "sharing of information"
+                    }, 
+                    {
+                        "intra-agency cooperation": "sharing of information"
+                    }, 
+                    {
+                        "public sector partnership": "sharing of information"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "certification", 
+                    "policy", 
+                    "cirt", 
+                    "intra-state cooperation", 
+                    "intra-agency cooperation", 
+                    "international cooperation", 
+                    "institutional support", 
+                    "reporting mechanism", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "Quick and effective sharing of information about vulnerabilities of ICT, forms of cybernetic attacks profiles and motivation of the perpetrators will enable NCCS to analyse security incidents and draft recommendations of counter-measures."
+    }, 
+    {
+        "sentence_id,": "9ca1d01663", 
+        "tag": [
+            {
+                "category": [
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "intra-state cooperation": "cooperate"
+                    }, 
+                    {
+                        "intra-state cooperation": "cooperate"
+                    }, 
+                    {
+                        "public sector partnership": "cooperate"
+                    }, 
+                    {
+                        "public sector partnership": "cooperate"
+                    }, 
+                    {
+                        "international cooperation": "cooperate"
+                    }, 
+                    {
+                        "international cooperation": "cooperate"
+                    }
+                ], 
+                "subcategory": [
+                    "intra-state cooperation", 
+                    "public sector partnership", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "It is in the best interest of the private sphere to cooperate with NCCS in protection of their own ICT systems against attack through cybernetic attacks."
+    }, 
+    {
+        "sentence_id,": "3add315a1d", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "certification": "early warning"
+                    }, 
+                    {
+                        "standardisation development": "early warning"
+                    }, 
+                    {
+                        "intra-agency cooperation": "early warning"
+                    }
+                ], 
+                "subcategory": [
+                    "certification", 
+                    "standardisation development", 
+                    "intra-agency cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Bearing in mind that the best way to ensure security is through proper preparation and prevention, the NCCS shall establish a system of early warning and shall provide recommendations how to protect against cybernetic attacks."
+    }, 
+    {
+        "sentence_id,": "3973e99a04", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "cirt": "handling"
+                    }, 
+                    {
+                        "standards": "handling"
+                    }, 
+                    {
+                        "certification": "handling"
+                    }, 
+                    {
+                        "policy": "handling"
+                    }, 
+                    {
+                        "responsible agency": "handling"
+                    }, 
+                    {
+                        "national benchmarking": "handling"
+                    }, 
+                    {
+                        "intra-agency cooperation": "handling"
+                    }, 
+                    {
+                        "international cooperation": "handling"
+                    }
+                ], 
+                "subcategory": [
+                    "cirt", 
+                    "standards", 
+                    "certification", 
+                    "policy", 
+                    "responsible agency", 
+                    "national benchmarking", 
+                    "intra-agency cooperation", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "NCCS shall push for the system of testing of handling security risks and proposed counter-measures as a part of risk management system."
+    }, 
+    {
+        "sentence_id,": "ac225b8282", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Such capabilities shall be subject to regular testing through cybernetic defence exercises (also on international level)."
+    }, 
+    {
+        "sentence_id,": "60ab94c390", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Protection of critical information infrastructure Protection of critical information infrastructure is one of the main priorities in cybernetic security."
+    }, 
+    {
+        "sentence_id,": "66c3db3843", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "This infrastructure poses main part of almost all parts of critical infrastructure and is becoming more and more important."
+    }, 
+    {
+        "sentence_id,": "ca532bda5e", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "capacity building", 
+                    "cooperation", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "create"
+                    }, 
+                    {
+                        "standardisation development": "create"
+                    }, 
+                    {
+                        "manpower development": "create"
+                    }, 
+                    {
+                        "public sector partnership": "create"
+                    }, 
+                    {
+                        "institutional support": "create"
+                    }, 
+                    {
+                        "reporting mechanism": "create"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "public sector partnership", 
+                    "institutional support", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "Both private and public spheres have to create conditions for closer cooperation based on information sharing."
+    }, 
+    {
+        "sentence_id,": "c1bbdff9be", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "It will be properly evaluated where the security measures will be fully implemented and where shall be additional powers in case of specific attacks and threats."
+    }, 
+    {
+        "sentence_id,": "c557003025", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Strengthening of cybernetic security of information and communication systems of public governance Users of ICT need to be provided with relevant and consistent information about risks and safe ways how to utilize the cyberspace."
+    }, 
+    {
+        "sentence_id,": "332a054d5b", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "NCCS shall provide such information on GovCERT.cz portal."
+    }, 
+    {
+        "sentence_id,": "26ca293ad7", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "regulation and compliance": "products and services"
+                    }, 
+                    {
+                        "un convention and protocol": "products and services"
+                    }
+                ], 
+                "subcategory": [
+                    "regulation and compliance", 
+                    "un convention and protocol"
+                ]
+            }
+        ], 
+        "sentence": "Also information about available security products and services will be provided on the portal."
+    }, 
+    {
+        "sentence_id,": "20154ac9d5", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "functioning"
+                    }, 
+                    {
+                        "policy": "functioning"
+                    }, 
+                    {
+                        "responsible agency": "functioning"
+                    }, 
+                    {
+                        "national benchmarking": "functioning"
+                    }, 
+                    {
+                        "manpower development": "functioning"
+                    }, 
+                    {
+                        "international cooperation": "functioning"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "policy", 
+                    "responsible agency", 
+                    "national benchmarking", 
+                    "manpower development", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Implementation of security rules and standards in information systems whose secure operation is crucial for the functioning of the state is one of the preconditions for enhancing cybernetic security of those systems."
+    }, 
+    {
+        "sentence_id,": "5bd0db7843", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "their implementation"
+                    }, 
+                    {
+                        "responsible agency": "their implementation"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "responsible agency"
+                ]
+            }
+        ], 
+        "sentence": "Effective cybernetic security demands obligatory implementation and proper adherence to those rules and standards and regular inspections of their implementation in the public governance bodies."
+    }, 
+    {
+        "sentence_id,": "8628b9532e", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Methodical documents (regulations and recommended practices) shall be prepared."
+    }, 
+    {
+        "sentence_id,": "c1d973f285", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Enhancing of level of information security will be done through implementation of the ISMS (Information Security Management System)."
+    }, 
+    {
+        "sentence_id,": "37e79aaafd", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "effectiveness"
+                    }, 
+                    {
+                        "manpower development": "experience"
+                    }, 
+                    {
+                        "public sector partnership": "experience"
+                    }, 
+                    {
+                        "public sector partnership": "effectiveness"
+                    }
+                ], 
+                "subcategory": [
+                    "policy", 
+                    "manpower development", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "Effectiveness of fighting crime in the cyberspace NCCS shall contribute to fight against cybernetic criminality by cooperating with law enforcement bodies and shall use their experience during development of means and measures against cybernetic attacks."
+    }, 
+    {
+        "sentence_id,": "2d75d07a50", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "global cyberspace"
+                    }, 
+                    {
+                        "standardisation development": "global cyberspace"
+                    }, 
+                    {
+                        "manpower development": "global cyberspace"
+                    }
+                ], 
+                "subcategory": [
+                    "policy", 
+                    "standardisation development", 
+                    "manpower development"
+                ]
+            }
+        ], 
+        "sentence": "Coordination of activities to ensure cybernetic security in Europe Global cyberspace security may be achieved only through coordination on national and international level."
+    }, 
+    {
+        "sentence_id,": "51a4296aac", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "national benchmarking": "appropriate measures"
+                    }
+                ], 
+                "subcategory": [
+                    "national benchmarking"
+                ]
+            }
+        ], 
+        "sentence": "The NSA shall support appropriate measures based on European Action Plan for Protection of Critical Information Infrastructure in the framework of the EU."
+    }, 
+    {
+        "sentence_id,": "2b506ed16e", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "regulation and compliance": "network and information"
+                    }, 
+                    {
+                        "un convention and protocol": "network and information"
+                    }
+                ], 
+                "subcategory": [
+                    "regulation and compliance", 
+                    "un convention and protocol"
+                ]
+            }
+        ], 
+        "sentence": "Further, the cooperation with the European Network and Information Security Agency (ENISA) shall commence in the field of training and information sharing."
+    }, 
+    {
+        "sentence_id,": "ab80507ce3", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The ideas for future activities may be found in EU Internal Security Strategy and in Digital Agenda for Europe as well as in the new NATO Policy on Cyber Defence."
+    }, 
+    {
+        "sentence_id,": "084580f846", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The cooperation in the areas under NSA responsibility shall be also established with the newly established European Agency for Management of Large-Scale IT Systems and with the EU Centre for Cybernetic Criminality."
+    }, 
+    {
+        "sentence_id,": "2d4ae0453b", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Using of reliable IT Availability of reliable ICT systems to public governance users has to be ensured."
+    }, 
+    {
+        "sentence_id,": "41efc3a7c5", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "capacity building", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "regulation and compliance": "research and development"
+                    }, 
+                    {
+                        "standardisation development": "research and development"
+                    }, 
+                    {
+                        "un convention and protocol": "research and development"
+                    }
+                ], 
+                "subcategory": [
+                    "regulation and compliance", 
+                    "standardisation development", 
+                    "un convention and protocol"
+                ]
+            }
+        ], 
+        "sentence": "Research and development of means for protection of ICT systems of public governance and critical infrastructure facilities shall be supported."
+    }, 
+    {
+        "sentence_id,": "15a55791a3", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "international standards"
+                    }, 
+                    {
+                        "standardisation development": "international standards"
+                    }, 
+                    {
+                        "agency certification": "international standards"
+                    }, 
+                    {
+                        "international cooperation": "international standards"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "standardisation development", 
+                    "agency certification", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "The aim will be to use technical and software means accredited according to international standards in areas critical for the security of the state."
+    }, 
+    {
+        "sentence_id,": "7582a26dce", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Raising awareness about cybernetic security Establishing cybernetic security cannot rely on technical means only."
+    }, 
+    {
+        "sentence_id,": "631225433c", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Proper care has to be given also to end-users and administrators of ICT systems, development workers, public contract awarders, auditors and managers."
+    }, 
+    {
+        "sentence_id,": "1ca3df383b", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Insufficient information about security of ICT systems brings serious risks."
+    }, 
+    {
+        "sentence_id,": "8d6c8795c6", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "manpower development": "raise"
+                    }
+                ], 
+                "subcategory": [
+                    "manpower development"
+                ]
+            }
+        ], 
+        "sentence": "Lack of trained and informed personnel and further education raise vulnerability and damages."
+    }, 
+    {
+        "sentence_id,": "0084001fb2", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Awareness of citizens about cybernetic security shall be risen through spreading of relevant information in cooperation with media."
+    }, 
+    {
+        "sentence_id,": "25d77d3364", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "manpower development": "employees"
+                    }
+                ], 
+                "subcategory": [
+                    "manpower development"
+                ]
+            }
+        ], 
+        "sentence": "Cybernetic security shall part of training of public employees and will be supported in the private sphere as well."
+    }, 
+    {
+        "sentence_id,": "f9df24ebdb", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The aim is to reach sufficient level of knowledge for each position in the area of cybernetic security."
+    }, 
+    {
+        "sentence_id,": "9aa9d992b1", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "manpower development": "training programmes"
+                    }
+                ], 
+                "subcategory": [
+                    "manpower development"
+                ]
+            }
+        ], 
+        "sentence": "Cooperation aimed at creating training programmes focusing on cybernetic security shall be started with the academic and private spheres."
+    }, 
+    {
+        "sentence_id,": "e538d47266", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Needs for qualification in cybernetic security, opportunities of school and other education shall be evaluated on a regular basis."
+    }, 
+    {
+        "sentence_id,": "b51b89eb09", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The issue of cybernetic security will be implemented into all levels of education."
+    }, 
+    {
+        "sentence_id,": "f1c8e680d5", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures", 
+                    "cooperation", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "cybernetic attacks"
+                    }, 
+                    {
+                        "criminal legislation": "cybernetic attacks"
+                    }, 
+                    {
+                        "cirt": "cybernetic attacks"
+                    }, 
+                    {
+                        "cirt": "cybernetic attacks"
+                    }, 
+                    {
+                        "intra-state cooperation": "cybernetic attacks"
+                    }, 
+                    {
+                        "intra-state cooperation": "cybernetic attacks"
+                    }, 
+                    {
+                        "intra-agency cooperation": "cybernetic attacks"
+                    }, 
+                    {
+                        "intra-agency cooperation": "cybernetic attacks"
+                    }, 
+                    {
+                        "international cooperation": "cybernetic attacks"
+                    }, 
+                    {
+                        "international cooperation": "cybernetic attacks"
+                    }, 
+                    {
+                        "institutional support": "cybernetic attacks"
+                    }, 
+                    {
+                        "institutional support": "cybernetic attacks"
+                    }, 
+                    {
+                        "reporting mechanism": "cybernetic attacks"
+                    }, 
+                    {
+                        "reporting mechanism": "cybernetic attacks"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "cirt", 
+                    "intra-state cooperation", 
+                    "intra-agency cooperation", 
+                    "international cooperation", 
+                    "institutional support", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "Response to cybernetic attacks Bearing in mind that the cybernetic attacks against the systems of public governance and critical infrastructure cannot be avoided the state has to prepared for such attacks."
+    }, 
+    {
+        "sentence_id,": "66cd9b2df8", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Complex set of measures to be implemented in the event of cybernetic attack has to be created in cooperation with all competent state bodies."
+    }, 
+    {
+        "sentence_id,": "3326cd61a5", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Necessity and adequacy of such measures has to be taken in mind."
+    }, 
+    {
+        "sentence_id,": "102c95d7de", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Strategy in the Field of Cybernetic Security for 2012 2015 follows up to the Security Strategy of The Czech Republic and reflects the challenges of modern information society."
+    }, 
+    {
+        "sentence_id,": "7e669fdf5a", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "institutional framework"
+                    }, 
+                    {
+                        "certification": "institutional framework"
+                    }, 
+                    {
+                        "institutional support": "institutional framework"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "certification", 
+                    "institutional support"
+                ]
+            }
+        ], 
+        "sentence": "The Strategy provides institutional framework contributing to the security system of the Czech Republic."
+    }, 
+    {
+        "sentence_id,": "6dbf201bdb", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "This framework constitutes beginning of active policy of cybernetic protection of the state which is to be permanently evaluated and amended."
+    }, 
+    {
+        "sentence_id,": "71110733cf", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "cirt": "company"
+                    }, 
+                    {
+                        "manpower development": "company"
+                    }, 
+                    {
+                        "public sector partnership": "company"
+                    }
+                ], 
+                "subcategory": [
+                    "cirt", 
+                    "manpower development", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "Awareness of every individual, operator, administrator, university or company about security challenges of ICT is a basic precondition to ensure reliability and security of the cyberspace."
+    }, 
+    {
+        "sentence_id,": "c38136b69b", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The Czech Republic considers the issue of cybernetic security to be an important part of daily use of ICT and shall further work to ensure it."
+    }
+]

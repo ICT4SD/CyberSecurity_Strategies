@@ -1,0 +1,2117 @@
+[
+    {
+        "sentence_id,": "5559d1d631", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The Government hereby approves the National Cyber Security Strategy of Hungary laid down in Annex No."
+    }, 
+    {
+        "sentence_id,": "e431a911f9", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The Government instructs the state secretary heading the Prime Ministers Office to take the necessary action to establish the National Cyber Security Coordination Council."
+    }, 
+    {
+        "sentence_id,": "106a3f7812", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "implementing"
+                    }, 
+                    {
+                        "standards": "implementing"
+                    }, 
+                    {
+                        "responsible agency": "implementing"
+                    }, 
+                    {
+                        "responsible agency": "implementing"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "responsible agency"
+                ]
+            }
+        ], 
+        "sentence": "The Government instructs the state secretary heading the Prime Ministers Office to prepare a work and action plan for implementing the tasks defined in the National Cyber Security Strategy of Hungary."
+    }, 
+    {
+        "sentence_id,": "570cd94391", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "This decision shall come into force on the day after its publication."
+    }, 
+    {
+        "sentence_id,": "48475126f3", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "organization measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "regulation and compliance": "minister"
+                    }, 
+                    {
+                        "policy": "minister"
+                    }, 
+                    {
+                        "roadmap for governance": "minister"
+                    }, 
+                    {
+                        "responsible agency": "minister"
+                    }, 
+                    {
+                        "reporting mechanism": "minister"
+                    }
+                ], 
+                "subcategory": [
+                    "regulation and compliance", 
+                    "policy", 
+                    "roadmap for governance", 
+                    "responsible agency", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "Viktor Orbn Prime Minister (signed) Annex 1 to Government Decision No."
+    }, 
+    {
+        "sentence_id,": "aa8407b18d", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "principles"
+                    }, 
+                    {
+                        "responsible agency": "principles"
+                    }
+                ], 
+                "subcategory": [
+                    "policy", 
+                    "responsible agency"
+                ]
+            }
+        ], 
+        "sentence": "In accordance with the principles of the Fundamental Law and based on the review of the relevant values and interests and on the analysis of the security environment of the cyberspace, the purpose of this Strategy is to determine national objectives and strategic directions, tasks and comprehensive government tools which enable Hungary to enforce its national interests in the Hungarian cyberspace, within the context of the global cyberspace."
+    }, 
+    {
+        "sentence_id,": "f1fc4cedb9", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "capacity building", 
+                    "cooperation", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "cirt": "emergence"
+                    }, 
+                    {
+                        "cirt": "emergence"
+                    }, 
+                    {
+                        "manpower development": "aims"
+                    }, 
+                    {
+                        "intra-agency cooperation": "aims"
+                    }, 
+                    {
+                        "international cooperation": "emergence"
+                    }, 
+                    {
+                        "international cooperation": "emergence"
+                    }, 
+                    {
+                        "institutional support": "emergence"
+                    }, 
+                    {
+                        "institutional support": "emergence"
+                    }
+                ], 
+                "subcategory": [
+                    "cirt", 
+                    "manpower development", 
+                    "intra-agency cooperation", 
+                    "international cooperation", 
+                    "institutional support"
+                ]
+            }
+        ], 
+        "sentence": "The strategy aims at developing a free and secure cyberspace and protecting national sovereignty in the national and international context, which has undergone a significant change due to the emergence of the cyberspace, a new medium which has become a key factor in the 21st century."
+    }, 
+    {
+        "sentence_id,": "064e691617", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building", 
+                    "cooperation", 
+                    "technical measures"
+                ], 
+                "keywords": [
+                    {
+                        "manpower development": "aims"
+                    }, 
+                    {
+                        "intra-agency cooperation": "aims"
+                    }, 
+                    {
+                        "standards": "international cooperation"
+                    }, 
+                    {
+                        "professional certification": "international cooperation"
+                    }, 
+                    {
+                        "agency certification": "international cooperation"
+                    }, 
+                    {
+                        "international cooperation": "international cooperation"
+                    }
+                ], 
+                "subcategory": [
+                    "manpower development", 
+                    "intra-agency cooperation", 
+                    "standards", 
+                    "professional certification", 
+                    "agency certification", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Furthermore, it aims at protecting the activities and guaranteeing the security of national economy and society, securely adapting technological innovations to facilitate economic growth, and establishing international cooperation in this regard in line with Hungarys national interests."
+    }, 
+    {
+        "sentence_id,": "ca4811cd13", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "cirt": "perform"
+                    }, 
+                    {
+                        "national benchmarking": "perform"
+                    }
+                ], 
+                "subcategory": [
+                    "cirt", 
+                    "national benchmarking"
+                ]
+            }
+        ], 
+        "sentence": "This Strategy indicates that Hungary is ready to perform and take responsibility for cyberspace protection tasks and intends to develop the Hungarian cyberspace as a key element of Hungarian economic and social life into a free, secure and innovative environment."
+    }, 
+    {
+        "sentence_id,": "2d407fece9", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "cooperation", 
+                    "legal measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "efficient"
+                    }, 
+                    {
+                        "intra-agency cooperation": "efficient"
+                    }, 
+                    {
+                        "public sector partnership": "efficient"
+                    }, 
+                    {
+                        "regulation and compliance": "protective measures"
+                    }, 
+                    {
+                        "national benchmarking": "protective measures"
+                    }, 
+                    {
+                        "national legislation": "protective measures"
+                    }, 
+                    {
+                        "regulation and compliance": "threats and risks"
+                    }, 
+                    {
+                        "un convention and protocol": "threats and risks"
+                    }
+                ], 
+                "subcategory": [
+                    "policy", 
+                    "intra-agency cooperation", 
+                    "public sector partnership", 
+                    "regulation and compliance", 
+                    "national benchmarking", 
+                    "national legislation", 
+                    "un convention and protocol"
+                ]
+            }
+        ], 
+        "sentence": "By way of efficient protective measures based on prevention, the primary objective is to manage the threats and risks emerging in and coming from the cyberspace, as well as to reinforce government coordination and measures."
+    }, 
+    {
+        "sentence_id,": "1de15ba483", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "This Strategy reflects the basic values enshrined in the Fundamental Law of Hungary, specifically freedom, security, rule of law, international and European cooperation, in a separate field within security and economic policy; it is a document of cyber security for national data assets as part of national assets, derived from Section 38 of the Fundamental Law, as well as for the related critical infrastructures."
+    }, 
+    {
+        "sentence_id,": "424959d762", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "In accordance with the Hungarian National Security Strategy, accepted by Government Decision No."
+    }, 
+    {
+        "sentence_id,": "8d9e6734db", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "1035/2012 (21 February), and based thereupon, the Strategy elaborates the government efforts and responsibility laid down in Section 31 thereof."
+    }, 
+    {
+        "sentence_id,": "23d7f12965", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "principles"
+                    }, 
+                    {
+                        "responsible agency": "principles"
+                    }, 
+                    {
+                        "intra-state cooperation": "agreement"
+                    }, 
+                    {
+                        "public sector partnership": "agreement"
+                    }
+                ], 
+                "subcategory": [
+                    "policy", 
+                    "responsible agency", 
+                    "intra-state cooperation", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "Its roots date back to the Budapest Convention adopted in 2001 (Convention on Cybercrime); an international agreement defining internationally recognised principles used as a reference."
+    }, 
+    {
+        "sentence_id,": "561f0256f0", 
+        "tag": [
+            {
+                "category": [
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "intra-state cooperation": "member states"
+                    }, 
+                    {
+                        "international cooperation": "member states"
+                    }
+                ], 
+                "subcategory": [
+                    "intra-state cooperation", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "At the same time, the Strategy is in conformity with the recommendations of the European Parliament for the Member States included in Decision No."
+    }, 
+    {
+        "sentence_id,": "fc69fb7ab7", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "2012/2096(INI) on cyber security and defence, adopted on 22 November 2012, and with the joint communication published by the European Commission and the High Representative of the Common Foreign and Security Policy of the European Union on 7 February 2013 under the title Cybersecurity Strategy of the European Union: An Open, Safe and Secure Cyberspace."
+    }, 
+    {
+        "sentence_id,": "93cf624b94", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "organization measures", 
+                    "technical measures"
+                ], 
+                "keywords": [
+                    {
+                        "regulation and compliance": "concept"
+                    }, 
+                    {
+                        "policy": "concept"
+                    }, 
+                    {
+                        "policy": "principles"
+                    }, 
+                    {
+                        "responsible agency": "principles"
+                    }, 
+                    {
+                        "standards": "its implementation"
+                    }, 
+                    {
+                        "responsible agency": "its implementation"
+                    }
+                ], 
+                "subcategory": [
+                    "regulation and compliance", 
+                    "policy", 
+                    "responsible agency", 
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Furthermore, the Strategy is in line with the Strategic Concept of the NATO accepted in November 2010, the Cyber Security Policy of the Organisation adopted in June 2011 and its implementation plan, as well as with the cyber protection principles and objectives set forth in the documents of the NATO summits held on 19-20 November 2010 in Lisbon and on 20-21 May 2012 in Chicago."
+    }, 
+    {
+        "sentence_id,": "15b887aa16", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Cyberspace means the combined phenomenon of globally interconnected, decentralised and ever-growing electronic information systems as well as the societal and economic processes appearing in and through these systems in the form of data and information."
+    }, 
+    {
+        "sentence_id,": "dd8de5614a", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building", 
+                    "legal measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "global cyberspace"
+                    }, 
+                    {
+                        "policy": "global cyberspace"
+                    }, 
+                    {
+                        "standardisation development": "global cyberspace"
+                    }, 
+                    {
+                        "standardisation development": "global cyberspace"
+                    }, 
+                    {
+                        "manpower development": "global cyberspace"
+                    }, 
+                    {
+                        "manpower development": "global cyberspace"
+                    }, 
+                    {
+                        "regulation and compliance": "data and information"
+                    }, 
+                    {
+                        "un convention and protocol": "data and information"
+                    }
+                ], 
+                "subcategory": [
+                    "policy", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "regulation and compliance", 
+                    "un convention and protocol"
+                ]
+            }
+        ], 
+        "sentence": "The Hungarian cyberspace includes the parts of the electronic information systems of the global cyberspace which are located in Hungary, as well as the societal and economic processes appearing in and through the electronic systems of the global cyberspace in the form of data and information that take place in, are directed to, or affect Hungary."
+    }, 
+    {
+        "sentence_id,": "e3296d1c32", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The increasing number and various sources of threats emerging in cyberspace as well as the increasing order of magnitude of their consequences indicate that the number and efficiency of public and non-public users has grown rapidly for the past decade who use cyberspace to illegally acquire critical data or information and disrupt communication and information systems."
+    }, 
+    {
+        "sentence_id,": "7527782354", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "functioning"
+                    }, 
+                    {
+                        "policy": "functioning"
+                    }, 
+                    {
+                        "responsible agency": "functioning"
+                    }, 
+                    {
+                        "national benchmarking": "functioning"
+                    }, 
+                    {
+                        "manpower development": "functioning"
+                    }, 
+                    {
+                        "international cooperation": "functioning"
+                    }, 
+                    {
+                        "policy": "critical infrastructures"
+                    }, 
+                    {
+                        "intra-agency cooperation": "critical infrastructures"
+                    }, 
+                    {
+                        "public sector partnership": "critical infrastructures"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "policy", 
+                    "responsible agency", 
+                    "national benchmarking", 
+                    "manpower development", 
+                    "international cooperation", 
+                    "intra-agency cooperation", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "Our vital electronic information systems and consequently, the functioning of our critical infrastructures are threatened by a new form of warfare, information warfare, making cyberspace one of the most important theatres in modern warfare."
+    }, 
+    {
+        "sentence_id,": "ad514e1b3b", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "capacity building", 
+                    "cooperation", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "cirt": "addition"
+                    }, 
+                    {
+                        "standardisation development": "addition"
+                    }, 
+                    {
+                        "manpower development": "addition"
+                    }, 
+                    {
+                        "intra-state cooperation": "addition"
+                    }, 
+                    {
+                        "institutional support": "addition"
+                    }
+                ], 
+                "subcategory": [
+                    "cirt", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "intra-state cooperation", 
+                    "institutional support"
+                ]
+            }
+        ], 
+        "sentence": "In addition to the damage caused by external factors, the inadequate regulation of the operational security of the information and communication systems constituting cyberspace poses a further risk."
+    }, 
+    {
+        "sentence_id,": "419def9e13", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Dynamic emerging new technologies, such as cloud computing or mobile Internet, lead to the continuous evolution of new security risks."
+    }, 
+    {
+        "sentence_id,": "aa8c9f10b8", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "capacity building", 
+                    "cooperation", 
+                    "child online protection", 
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "create"
+                    }, 
+                    {
+                        "standardisation development": "create"
+                    }, 
+                    {
+                        "manpower development": "create"
+                    }, 
+                    {
+                        "public sector partnership": "create"
+                    }, 
+                    {
+                        "institutional support": "create"
+                    }, 
+                    {
+                        "reporting mechanism": "create"
+                    }, 
+                    {
+                        "standards": "decision making"
+                    }, 
+                    {
+                        "national benchmarking": "decision making"
+                    }, 
+                    {
+                        "institutional support": "decision making"
+                    }, 
+                    {
+                        "reporting mechanism": "decision making"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "public sector partnership", 
+                    "institutional support", 
+                    "reporting mechanism", 
+                    "national benchmarking"
+                ]
+            }
+        ], 
+        "sentence": "One of the key objectives of this Strategy is to create awareness and capacity at the political and professional decision making level which can manage the new cyber security challenges arising from technological progress by flexibly adapting to them in the foreseeable future."
+    }, 
+    {
+        "sentence_id,": "b361af36c6", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "functioning"
+                    }, 
+                    {
+                        "policy": "functioning"
+                    }, 
+                    {
+                        "responsible agency": "functioning"
+                    }, 
+                    {
+                        "national benchmarking": "functioning"
+                    }, 
+                    {
+                        "manpower development": "functioning"
+                    }, 
+                    {
+                        "international cooperation": "functioning"
+                    }, 
+                    {
+                        "manpower development": "an acceptable level"
+                    }, 
+                    {
+                        "reporting mechanism": "an acceptable level"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "policy", 
+                    "responsible agency", 
+                    "national benchmarking", 
+                    "manpower development", 
+                    "international cooperation", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "Cyber security is the continuous and planned taking of political, legal, economic, educational, awareness-raising and technical measures to manage risks in cyberspace that transforms the cyberspace into a reliable environment for the smooth functioning and operation of societal and economic processes by ensuring an acceptable level of risks in cyberspace."
+    }, 
+    {
+        "sentence_id,": "7b2902db13", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation", 
+                    "legal measures"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "functioning"
+                    }, 
+                    {
+                        "policy": "functioning"
+                    }, 
+                    {
+                        "responsible agency": "functioning"
+                    }, 
+                    {
+                        "national benchmarking": "functioning"
+                    }, 
+                    {
+                        "manpower development": "functioning"
+                    }, 
+                    {
+                        "international cooperation": "functioning"
+                    }, 
+                    {
+                        "regulation and compliance": "rule of law"
+                    }, 
+                    {
+                        "policy": "rule of law"
+                    }, 
+                    {
+                        "manpower development": "rule of law"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "policy", 
+                    "responsible agency", 
+                    "national benchmarking", 
+                    "manpower development", 
+                    "international cooperation", 
+                    "regulation and compliance"
+                ]
+            }
+        ], 
+        "sentence": "The protection of Hungarys sovereignty in the Hungarian cyberspace is a national interest, too; a free, democratic and secure functioning of the Hungarian cyberspace based on the rule of law is regarded as a fundamental value and interest."
+    }, 
+    {
+        "sentence_id,": "7bb6bb97c0", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "certification": "business sector"
+                    }, 
+                    {
+                        "public sector partnership": "business sector"
+                    }
+                ], 
+                "subcategory": [
+                    "certification", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "In Hungary, the freedom and security of cyberspace is ensured through the close cooperation and coordinated activities between Government, academia, business sector and civil society based on their shared responsibility."
+    }, 
+    {
+        "sentence_id,": "18957d7e28", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building", 
+                    "cooperation", 
+                    "technical measures", 
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "manpower development": "aims"
+                    }, 
+                    {
+                        "intra-agency cooperation": "aims"
+                    }, 
+                    {
+                        "standards": "international organisations"
+                    }, 
+                    {
+                        "policy": "global cyberspace"
+                    }, 
+                    {
+                        "policy": "global cyberspace"
+                    }, 
+                    {
+                        "standardisation development": "global cyberspace"
+                    }, 
+                    {
+                        "standardisation development": "global cyberspace"
+                    }, 
+                    {
+                        "manpower development": "global cyberspace"
+                    }, 
+                    {
+                        "manpower development": "global cyberspace"
+                    }, 
+                    {
+                        "professional certification": "international organisations"
+                    }, 
+                    {
+                        "agency certification": "international organisations"
+                    }, 
+                    {
+                        "international cooperation": "international organisations"
+                    }
+                ], 
+                "subcategory": [
+                    "manpower development", 
+                    "intra-agency cooperation", 
+                    "standards", 
+                    "policy", 
+                    "standardisation development", 
+                    "professional certification", 
+                    "agency certification", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Hungary aims at establishing and maintaining trust-based cooperation with all public and private actors of the global cyberspace sharing the same set of values with Hungary, and endevours to guarantee free and secure use of the global cyberspace through its allies and international relations, particularly the EU and the NATO, the Organization on Security and Cooperation in Europe (OSCE), the United Nations, the Council of Europe and other international organisations in which the country is a member."
+    }, 
+    {
+        "sentence_id,": "06a8bd2647", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "regulation and compliance": "threats and attacks"
+                    }, 
+                    {
+                        "un convention and protocol": "threats and attacks"
+                    }
+                ], 
+                "subcategory": [
+                    "regulation and compliance", 
+                    "un convention and protocol"
+                ]
+            }
+        ], 
+        "sentence": "Being aware of the fact that threats and attacks emerging in cyberspace may escalate to the level requiring allied cooperation, Hungary considers it highly important that cybersecurity has become an issue for collective defence under Article 5 of the founding treaty of NATO."
+    }, 
+    {
+        "sentence_id,": "b2c889fe6f", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "international cooperation"
+                    }, 
+                    {
+                        "professional certification": "international cooperation"
+                    }, 
+                    {
+                        "agency certification": "international cooperation"
+                    }, 
+                    {
+                        "international cooperation": "international cooperation"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "professional certification", 
+                    "agency certification", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Hungary is interested in this allied international cooperation for the sake of its own security, too."
+    }, 
+    {
+        "sentence_id,": "deb1fd15d0", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Hungary regards the Central and Eastern European region with special attention, where cybersecurity can be further improved within the framework of regional cooperations."
+    }, 
+    {
+        "sentence_id,": "94666f0497", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "cirt": "collection"
+                    }, 
+                    {
+                        "standards": "collection"
+                    }, 
+                    {
+                        "policy": "integration"
+                    }, 
+                    {
+                        "policy": "efficient"
+                    }, 
+                    {
+                        "manpower development": "collection"
+                    }, 
+                    {
+                        "manpower development": "integration"
+                    }, 
+                    {
+                        "intra-agency cooperation": "collection"
+                    }, 
+                    {
+                        "intra-agency cooperation": "efficient"
+                    }, 
+                    {
+                        "public sector partnership": "integration"
+                    }, 
+                    {
+                        "public sector partnership": "efficient"
+                    }, 
+                    {
+                        "certification": "business sector"
+                    }, 
+                    {
+                        "national benchmarking": "social development"
+                    }, 
+                    {
+                        "standardisation development": "social development"
+                    }, 
+                    {
+                        "manpower development": "social development"
+                    }, 
+                    {
+                        "public sector partnership": "business sector"
+                    }
+                ], 
+                "subcategory": [
+                    "cirt", 
+                    "standards", 
+                    "policy", 
+                    "manpower development", 
+                    "intra-agency cooperation", 
+                    "public sector partnership", 
+                    "certification", 
+                    "national benchmarking", 
+                    "standardisation development"
+                ]
+            }
+        ], 
+        "sentence": "To address present and future challenges, Hungary lays down the requirement that the Hungarian cyberspace shall provide a secure and reliable environment: a) for individuals and communities to ensure social development and integration through communication based on liberty, freedom from fear, and guaranteeing the protection of personal data, b) for the business sector to develop efficient and innovative business solutions, c) for future generations to ensure value-based learning and unharmed collection of experiences resulting in a sound mental development, d) for electronic public administration, to promote innovative and cutting-edge development of public services."
+    }, 
+    {
+        "sentence_id,": "77d6c24110", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "regulation and compliance": "compliance"
+                    }, 
+                    {
+                        "regulation and compliance": "compliance"
+                    }, 
+                    {
+                        "standards": "compliance"
+                    }, 
+                    {
+                        "standards": "compliance"
+                    }, 
+                    {
+                        "certification": "certification"
+                    }, 
+                    {
+                        "certification": "certification"
+                    }, 
+                    {
+                        "policy": "efficient"
+                    }, 
+                    {
+                        "policy": "efficient"
+                    }, 
+                    {
+                        "policy": "efficient"
+                    }, 
+                    {
+                        "professional certification": "certification"
+                    }, 
+                    {
+                        "professional certification": "certification"
+                    }, 
+                    {
+                        "intra-agency cooperation": "efficient"
+                    }, 
+                    {
+                        "intra-agency cooperation": "efficient"
+                    }, 
+                    {
+                        "intra-agency cooperation": "efficient"
+                    }, 
+                    {
+                        "public sector partnership": "efficient"
+                    }, 
+                    {
+                        "public sector partnership": "efficient"
+                    }, 
+                    {
+                        "public sector partnership": "efficient"
+                    }, 
+                    {
+                        "un convention and protocol": "children"
+                    }, 
+                    {
+                        "institutional support": "children"
+                    }, 
+                    {
+                        "regulation and compliance": "adequate protection"
+                    }, 
+                    {
+                        "cirt": "special emphasis"
+                    }, 
+                    {
+                        "standards": "crisis management"
+                    }, 
+                    {
+                        "policy": "critical infrastructures"
+                    }, 
+                    {
+                        "policy": "crisis management"
+                    }, 
+                    {
+                        "national benchmarking": "crisis management"
+                    }, 
+                    {
+                        "manpower development": "special emphasis"
+                    }, 
+                    {
+                        "manpower development": "crisis management"
+                    }, 
+                    {
+                        "intra-agency cooperation": "critical infrastructures"
+                    }, 
+                    {
+                        "public sector partnership": "critical infrastructures"
+                    }, 
+                    {
+                        "national legislation": "adequate protection"
+                    }, 
+                    {
+                        "regulation and compliance": "research and development"
+                    }, 
+                    {
+                        "regulation and compliance": "products and services"
+                    }, 
+                    {
+                        "standardisation development": "research and development"
+                    }, 
+                    {
+                        "un convention and protocol": "research and development"
+                    }, 
+                    {
+                        "un convention and protocol": "products and services"
+                    }
+                ], 
+                "subcategory": [
+                    "regulation and compliance", 
+                    "standards", 
+                    "certification", 
+                    "policy", 
+                    "professional certification", 
+                    "intra-agency cooperation", 
+                    "public sector partnership", 
+                    "un convention and protocol", 
+                    "institutional support", 
+                    "cirt", 
+                    "national benchmarking", 
+                    "manpower development", 
+                    "national legislation", 
+                    "standardisation development"
+                ]
+            }
+        ], 
+        "sentence": "In the interest of a free and secure use of cyberspace, Hungary lays downs the following objectives to be met by aligning the interests of national security, efficient crisis management and user protection: a) to have efficient capabilities to prevent, detect, manage (react), respond to and recover any malicious cyber activity, threat, attack or emergency, as well as accidental information leakage, b) to provide adequate protection for its national data assets, to ensure the operational safety of the parts of its critical infrastructures linked to cyberspace, and to have a rapid, efficient mitigating and recovery capability in case of a compromise, deployable also during a state of emergency, c) to ensure that the quality of IT and communication products and services necessary for the secure operation of the Hungarian cyberspace meet the requirements of international best practices, with special emphasis on compliance with international security certification standards, d) to ensure that the quality of education, training as well as research and development meets the requirements of international best practices, thus contributing to the establishment of a world-class national knowledge pool, e) to ensure that the establishment of a secure cyberspace for children and future generations meets the requirements of international best practices."
+    }, 
+    {
+        "sentence_id,": "ba7c6189c9", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The cybersecurity situation of Hungary is fundamentally solid."
+    }, 
+    {
+        "sentence_id,": "64f893170c", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "regulation and compliance": "risks and threats"
+                    }, 
+                    {
+                        "un convention and protocol": "risks and threats"
+                    }
+                ], 
+                "subcategory": [
+                    "regulation and compliance", 
+                    "un convention and protocol"
+                ]
+            }
+        ], 
+        "sentence": "Arising from the special structure of cyberspace, however, a number of security risks and threats constituting a strategic challenge to the nation need to be considered."
+    }, 
+    {
+        "sentence_id,": "4773a33f27", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The tools available for maintaining and improving the level of cybersecurity and to meet the objectives, as well as the areas affected by fulfilling the tasks are the following: a) Government coordination."
+    }, 
+    {
+        "sentence_id,": "e10f122a53", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Primarily, each government institution assumes its own responsibility for the free and secure use of cyberspace."
+    }, 
+    {
+        "sentence_id,": "0f616ce5ee", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "complexity"
+                    }, 
+                    {
+                        "policy": "efficient"
+                    }, 
+                    {
+                        "intra-agency cooperation": "efficient"
+                    }, 
+                    {
+                        "public sector partnership": "efficient"
+                    }, 
+                    {
+                        "national benchmarking": "use of cyberspace"
+                    }
+                ], 
+                "subcategory": [
+                    "policy", 
+                    "intra-agency cooperation", 
+                    "public sector partnership", 
+                    "national benchmarking"
+                ]
+            }
+        ], 
+        "sentence": "However, due to the complexity of this area, these responsibilities can only meet the Governments objective regarding a free and secure use of cyberspace through a clear and efficient government coordination."
+    }, 
+    {
+        "sentence_id,": "367c707e3c", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "roadmap for governance": "central government"
+                    }, 
+                    {
+                        "agency certification": "central government"
+                    }
+                ], 
+                "subcategory": [
+                    "roadmap for governance", 
+                    "agency certification"
+                ]
+            }
+        ], 
+        "sentence": "Therefore, the central government coordination through the Prime Ministers Office shall be strengthened, a mandatory step for the coordinated and concentrated use of government and sectoral resources."
+    }, 
+    {
+        "sentence_id,": "4d7961db8e", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "efficient"
+                    }, 
+                    {
+                        "intra-agency cooperation": "efficient"
+                    }, 
+                    {
+                        "public sector partnership": "efficient"
+                    }
+                ], 
+                "subcategory": [
+                    "policy", 
+                    "intra-agency cooperation", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "Improved cooperation and efficient information sharing are needed to meet our objectives and cybersecurity interests."
+    }, 
+    {
+        "sentence_id,": "296aeedbfe", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "create"
+                    }, 
+                    {
+                        "responsible agency": "representatives"
+                    }, 
+                    {
+                        "standardisation development": "create"
+                    }, 
+                    {
+                        "manpower development": "representatives"
+                    }, 
+                    {
+                        "manpower development": "create"
+                    }, 
+                    {
+                        "intra-agency cooperation": "representatives"
+                    }, 
+                    {
+                        "public sector partnership": "create"
+                    }, 
+                    {
+                        "international cooperation": "representatives"
+                    }, 
+                    {
+                        "institutional support": "representatives"
+                    }, 
+                    {
+                        "institutional support": "create"
+                    }, 
+                    {
+                        "reporting mechanism": "create"
+                    }, 
+                    {
+                        "certification": "business sector"
+                    }, 
+                    {
+                        "manpower development": "continuous improvement"
+                    }, 
+                    {
+                        "intra-state cooperation": "continuous improvement"
+                    }, 
+                    {
+                        "public sector partnership": "business sector"
+                    }, 
+                    {
+                        "international cooperation": "continuous improvement"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "responsible agency", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "intra-agency cooperation", 
+                    "public sector partnership", 
+                    "international cooperation", 
+                    "institutional support", 
+                    "reporting mechanism", 
+                    "certification", 
+                    "intra-state cooperation"
+                ]
+            }
+        ], 
+        "sentence": "To this end, it is necessary to create operational cooperation fora ensuring the participation of representatives of business sector and academia in preparing governmental decision making, enabling the members of these fora to put forward recommendations or opinions on the development and continuous improvement of cybersecurity activities."
+    }, 
+    {
+        "sentence_id,": "3a377ddbf6", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "c) Specialised institutions."
+    }, 
+    {
+        "sentence_id,": "7fef7c6216", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "regulation and compliance": "data protection"
+                    }, 
+                    {
+                        "national legislation": "data protection"
+                    }
+                ], 
+                "subcategory": [
+                    "regulation and compliance", 
+                    "national legislation"
+                ]
+            }
+        ], 
+        "sentence": "Cybersecurity tasks should be assigned to organisations with specific skills and powers, cooperating not only with each other but also with other authorities responsible for data protection and classified information protection."
+    }, 
+    {
+        "sentence_id,": "2276a13926", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "These tasks affect organisations responsible for national security, defence, law enforcement, disaster management and critical infrastructure protection, as well as authorities responsible for electronic information security."
+    }, 
+    {
+        "sentence_id,": "c1a1f698b4", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "capacity building", 
+                    "organization measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "cirt": "centres"
+                    }, 
+                    {
+                        "manpower development": "centres"
+                    }, 
+                    {
+                        "responsible agency": "incident response"
+                    }, 
+                    {
+                        "responsible agency": "incident response"
+                    }, 
+                    {
+                        "reporting mechanism": "incident response"
+                    }, 
+                    {
+                        "reporting mechanism": "incident response"
+                    }
+                ], 
+                "subcategory": [
+                    "cirt", 
+                    "manpower development", 
+                    "responsible agency", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "Cybersecurity incidents are handled by the Government Incident Response Centre as an accredited member of the European Governmental CERT Group, as well as the Sectoral Incident Response Centres in various sectors."
+    }, 
+    {
+        "sentence_id,": "dad11f5501", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "cirt": "addition"
+                    }, 
+                    {
+                        "policy": "efficient"
+                    }, 
+                    {
+                        "standardisation development": "addition"
+                    }, 
+                    {
+                        "manpower development": "addition"
+                    }, 
+                    {
+                        "intra-state cooperation": "addition"
+                    }, 
+                    {
+                        "intra-agency cooperation": "efficient"
+                    }, 
+                    {
+                        "public sector partnership": "efficient"
+                    }, 
+                    {
+                        "institutional support": "addition"
+                    }, 
+                    {
+                        "certification": "business sector"
+                    }, 
+                    {
+                        "public sector partnership": "business sector"
+                    }
+                ], 
+                "subcategory": [
+                    "cirt", 
+                    "policy", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "intra-state cooperation", 
+                    "intra-agency cooperation", 
+                    "public sector partnership", 
+                    "institutional support", 
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "In addition to a complex legislation, it is necessary to conclude cooperation agreements with actors of civil society, business sector and academia to provide an adequate basis and regulation for the efficient operation of cybersecurity based on shared responsibility."
+    }, 
+    {
+        "sentence_id,": "9c350cd240", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "international cooperation"
+                    }, 
+                    {
+                        "professional certification": "international cooperation"
+                    }, 
+                    {
+                        "agency certification": "international cooperation"
+                    }, 
+                    {
+                        "international cooperation": "international cooperation"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "professional certification", 
+                    "agency certification", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "a) International cooperation projects."
+    }, 
+    {
+        "sentence_id,": "0e835e1a98", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "manpower development": "enhance"
+                    }, 
+                    {
+                        "intra-state cooperation": "enhance"
+                    }, 
+                    {
+                        "public sector partnership": "enhance"
+                    }, 
+                    {
+                        "international cooperation": "enhance"
+                    }
+                ], 
+                "subcategory": [
+                    "manpower development", 
+                    "intra-state cooperation", 
+                    "public sector partnership", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Hungary wishes to enhance its role in cyberdefence initiatives and cooperation projects within the EU and the NATO, as well as in the cybersecurity cooperation projects of the UN and the OSCE."
+    }, 
+    {
+        "sentence_id,": "c0eb0e32bc", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "certification": "leading role"
+                    }, 
+                    {
+                        "national benchmarking": "leading role"
+                    }, 
+                    {
+                        "standardisation development": "leading role"
+                    }
+                ], 
+                "subcategory": [
+                    "certification", 
+                    "national benchmarking", 
+                    "standardisation development"
+                ]
+            }
+        ], 
+        "sentence": "It strives to carry on and expand cooperation regarding cyberdefence exercise and planning within the EU and the NATO, and maintain its leading role in developing and running operational government cooperations, as well as in the Central and Eastern European region."
+    }, 
+    {
+        "sentence_id,": "732b7f9317", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "implementing"
+                    }, 
+                    {
+                        "standards": "implementing"
+                    }, 
+                    {
+                        "responsible agency": "implementing"
+                    }, 
+                    {
+                        "responsible agency": "implementing"
+                    }, 
+                    {
+                        "cirt": "special emphasis"
+                    }, 
+                    {
+                        "standards": "implementation plan"
+                    }, 
+                    {
+                        "standards": "its implementation"
+                    }, 
+                    {
+                        "responsible agency": "implementation plan"
+                    }, 
+                    {
+                        "responsible agency": "its implementation"
+                    }, 
+                    {
+                        "manpower development": "special emphasis"
+                    }, 
+                    {
+                        "intra-state cooperation": "member states"
+                    }, 
+                    {
+                        "international cooperation": "member states"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "responsible agency", 
+                    "cirt", 
+                    "manpower development", 
+                    "intra-state cooperation", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Hungary lays special emphasis on implementing activities that are, on the one hand specified by the Digital Agenda of the European Union for the Member States and, on the other hand, prescribed by the NATO Cyber Security Policy and its implementation plan for allies."
+    }, 
+    {
+        "sentence_id,": "fd45a8dfd5", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "responsible agency": "respect"
+                    }
+                ], 
+                "subcategory": [
+                    "responsible agency"
+                ]
+            }
+        ], 
+        "sentence": "Hungary deems the North Atlantic cooperation very important in respect of cyber security."
+    }, 
+    {
+        "sentence_id,": "e2571f4eb2", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation", 
+                    "legal measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "cirt": "handling"
+                    }, 
+                    {
+                        "standards": "handling"
+                    }, 
+                    {
+                        "certification": "handling"
+                    }, 
+                    {
+                        "policy": "handling"
+                    }, 
+                    {
+                        "responsible agency": "handling"
+                    }, 
+                    {
+                        "responsible agency": "board"
+                    }, 
+                    {
+                        "national benchmarking": "handling"
+                    }, 
+                    {
+                        "manpower development": "board"
+                    }, 
+                    {
+                        "intra-agency cooperation": "handling"
+                    }, 
+                    {
+                        "international cooperation": "handling"
+                    }, 
+                    {
+                        "international cooperation": "active role"
+                    }, 
+                    {
+                        "regulation and compliance": "network and information"
+                    }, 
+                    {
+                        "un convention and protocol": "network and information"
+                    }
+                ], 
+                "subcategory": [
+                    "cirt", 
+                    "standards", 
+                    "certification", 
+                    "policy", 
+                    "responsible agency", 
+                    "national benchmarking", 
+                    "manpower development", 
+                    "intra-agency cooperation", 
+                    "international cooperation", 
+                    "regulation and compliance", 
+                    "un convention and protocol"
+                ]
+            }
+        ], 
+        "sentence": "Hungary continues to play an active role in the European, Atlantic and global organisations of national/governmental and Sectoral Incident Handling Centres, in the European Network and Information Security Agency, and in the Board of European Electronic Communications Authorities."
+    }, 
+    {
+        "sentence_id,": "ad3219e716", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Hungary maintains its leadership in organising Hungarian and international cybersecurity forums."
+    }, 
+    {
+        "sentence_id,": "ba58c721a5", 
+        "tag": [
+            {
+                "category": [
+                    "child online protection", 
+                    "technical measures", 
+                    "cooperation", 
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "institutional support": "supports"
+                    }, 
+                    {
+                        "certification": "business sector"
+                    }, 
+                    {
+                        "public sector partnership": "business sector"
+                    }, 
+                    {
+                        "national benchmarking": "use of cyberspace"
+                    }
+                ], 
+                "subcategory": [
+                    "institutional support", 
+                    "certification", 
+                    "public sector partnership", 
+                    "national benchmarking"
+                ]
+            }
+        ], 
+        "sentence": "Through its specialised institutions and via cooperation with actors of civil society, business sector and academia, it supports activities for the secure use of cyberspace and raising awareness, as well as initiatives promoting practical cybersecurity skills, with special focus on awareness-raising among individual users and small and medium-sized enterprises."
+    }, 
+    {
+        "sentence_id,": "9d8c8d52c4", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "f) Education, research & development."
+    }, 
+    {
+        "sentence_id,": "9b4f1d076e", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "manpower development": "training courses"
+                    }
+                ], 
+                "subcategory": [
+                    "manpower development"
+                ]
+            }
+        ], 
+        "sentence": "Hungary pays particular attention to integrating cyber security as a field in the information technology syllabus of primary, secondary and higher education, in training courses for government officials and in professional training courses."
+    }, 
+    {
+        "sentence_id,": "b2348791f7", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "capacity building", 
+                    "legal measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "cirt": "centres"
+                    }, 
+                    {
+                        "cirt": "centres"
+                    }, 
+                    {
+                        "manpower development": "centres"
+                    }, 
+                    {
+                        "manpower development": "centres"
+                    }, 
+                    {
+                        "standardisation development": "scientific research"
+                    }, 
+                    {
+                        "regulation and compliance": "research and development"
+                    }, 
+                    {
+                        "standardisation development": "research and development"
+                    }, 
+                    {
+                        "un convention and protocol": "research and development"
+                    }
+                ], 
+                "subcategory": [
+                    "cirt", 
+                    "manpower development", 
+                    "standardisation development", 
+                    "regulation and compliance", 
+                    "un convention and protocol"
+                ]
+            }
+        ], 
+        "sentence": "Hungary strives for strategic cooperation with university and scientific research centres which have achieved outstanding and internationally recognised results in cybersecurity research and development and help to establish cybersecurity centres of excellence."
+    }, 
+    {
+        "sentence_id,": "3d6f3ef81d", 
+        "tag": [
+            {
+                "category": [
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "un convention and protocol": "children"
+                    }, 
+                    {
+                        "institutional support": "children"
+                    }
+                ], 
+                "subcategory": [
+                    "un convention and protocol", 
+                    "institutional support"
+                ]
+            }
+        ], 
+        "sentence": "Hungary regards the creation and maintenance of an environment allowing the healthy development of children as a basic element of cybersecurity, and treats it as a priority in all affected areas, achieving, at the same b) time, the objectives of the European Strategy for a Better Internet for Children."
+    }, 
+    {
+        "sentence_id,": "c9b97d593a", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Particular emphasis is laid on encouraging the creation of quality online content for young people, supporting awareness-raising and preparatory measures, the prevention of the harassment and exploitation of children, and the establishment of a secure online environment."
+    }, 
+    {
+        "sentence_id,": "cba1082a10", 
+        "tag": [
+            {
+                "category": [
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "national legislation": "child"
+                    }, 
+                    {
+                        "un convention and protocol": "child"
+                    }
+                ], 
+                "subcategory": [
+                    "national legislation", 
+                    "un convention and protocol"
+                ]
+            }
+        ], 
+        "sentence": "For this purpose, Hungarian non-governmental organisations with a proven record in online child protection are regarded as key partners."
+    }, 
+    {
+        "sentence_id,": "98d8da1c43", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "g) Motivation of business actors."
+    }, 
+    {
+        "sentence_id,": "c63d3fa4ec", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures", 
+                    "capacity building", 
+                    "cooperation", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "regulation and compliance": "compliance"
+                    }, 
+                    {
+                        "regulation and compliance": "compliance"
+                    }, 
+                    {
+                        "standards": "compliance"
+                    }, 
+                    {
+                        "standards": "compliance"
+                    }, 
+                    {
+                        "standards": "create"
+                    }, 
+                    {
+                        "certification": "certification"
+                    }, 
+                    {
+                        "certification": "certification"
+                    }, 
+                    {
+                        "standardisation development": "create"
+                    }, 
+                    {
+                        "manpower development": "create"
+                    }, 
+                    {
+                        "professional certification": "certification"
+                    }, 
+                    {
+                        "professional certification": "certification"
+                    }, 
+                    {
+                        "public sector partnership": "create"
+                    }, 
+                    {
+                        "institutional support": "create"
+                    }, 
+                    {
+                        "reporting mechanism": "create"
+                    }, 
+                    {
+                        "cirt": "special emphasis"
+                    }, 
+                    {
+                        "manpower development": "special emphasis"
+                    }
+                ], 
+                "subcategory": [
+                    "regulation and compliance", 
+                    "standards", 
+                    "certification", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "professional certification", 
+                    "public sector partnership", 
+                    "institutional support", 
+                    "reporting mechanism", 
+                    "cirt"
+                ]
+            }
+        ], 
+        "sentence": "In determining cyber security requirements for public procurement tenders in information technology and communications, Hungary intends to encourage equipment manufacturers and service providers submitting bids to create the highest possible level of cybersecurity, with special emphasis on compliance with international certification standards."
+    }, 
+    {
+        "sentence_id,": "36a8a4cd36", 
+        "tag": [
+            {
+                "category": [
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "intra-state cooperation": "cooperate"
+                    }, 
+                    {
+                        "intra-state cooperation": "cooperate"
+                    }, 
+                    {
+                        "public sector partnership": "cooperate"
+                    }, 
+                    {
+                        "public sector partnership": "cooperate"
+                    }, 
+                    {
+                        "international cooperation": "cooperate"
+                    }, 
+                    {
+                        "international cooperation": "cooperate"
+                    }
+                ], 
+                "subcategory": [
+                    "intra-state cooperation", 
+                    "public sector partnership", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Furthermore, Hungary wishes to cooperate with business actors to develop incentive measures for cybersecurity improvement."
+    }, 
+    {
+        "sentence_id,": "90b029d077", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "efficient"
+                    }, 
+                    {
+                        "national benchmarking": "developments"
+                    }, 
+                    {
+                        "standardisation development": "developments"
+                    }, 
+                    {
+                        "intra-agency cooperation": "efficient"
+                    }, 
+                    {
+                        "public sector partnership": "efficient"
+                    }, 
+                    {
+                        "policy": "strategic objectives"
+                    }, 
+                    {
+                        "roadmap for governance": "strategic objectives"
+                    }, 
+                    {
+                        "intra-state cooperation": "regional cooperation"
+                    }, 
+                    {
+                        "public sector partnership": "strategic objectives"
+                    }, 
+                    {
+                        "public sector partnership": "regional cooperation"
+                    }, 
+                    {
+                        "international cooperation": "regional cooperation"
+                    }
+                ], 
+                "subcategory": [
+                    "policy", 
+                    "national benchmarking", 
+                    "standardisation development", 
+                    "intra-agency cooperation", 
+                    "public sector partnership", 
+                    "roadmap for governance", 
+                    "intra-state cooperation", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Hungary is already in the possession of most tools required to meet its strategic objectives as regards capabilities and potential resources, including: a) stocktaking and coordination of the government organisations responsible for the security of the Hungarian cyberspace, establishment of efficient cooperation; b) review of the civil society, business and academic organisations responsible for the security of the Hungarian cyberspace, establishment of institutional cooperation; c) stocktaking of critical information infrastructures and critical assets, as well as national data assets, in addition, ensuring their protection; d) operation of specialised Government institutions; e) provision of a regulatory environment; f) participation in international and regional cooperation at political, operational and regulatory levels; g) establishment of a support framework for research & development, education and awareness-raising; h) establishment of business motivation systems; i) integrating cybersecurity aspects in technical developments under state control and in tasks related to the development and operation of the Governments information systems."
+    }, 
+    {
+        "sentence_id,": "12dc440982", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "efficient"
+                    }, 
+                    {
+                        "intra-agency cooperation": "efficient"
+                    }, 
+                    {
+                        "public sector partnership": "efficient"
+                    }
+                ], 
+                "subcategory": [
+                    "policy", 
+                    "intra-agency cooperation", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "The reinforcement and more efficient use of the available tools and their more effective practical application in terms of national security require the establishment and operation of a system for intra-governmental and nongovernmental cooperation."
+    }
+]

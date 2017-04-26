@@ -1,0 +1,2193 @@
+[
+    {
+        "sentence_id,": "3d948798f8", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "IslamicRepublicofAfghanistan MinistryofCommunicationsandIT NationalCyberSecurity Strategy ofAfghanistan(NCSA) Prevention Protection Safety Resiliency AUTHORVERSION CONTROLDATEZMARIALAIWAFA2.0November2014 InformationSystemsSecurityDirectorate--MCIT About National Cybersecurity Strategy of Afghanistan (NCSA): In late 2001, after the establishment of the interim government, Afghanistan stepped into new horizons of political and socio-economic rehabilitation and reconstruction."
+    }, 
+    {
+        "sentence_id,": "8043ecb763", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "standardisation development": "private companies"
+                    }, 
+                    {
+                        "manpower development": "private companies"
+                    }, 
+                    {
+                        "public sector partnership": "private companies"
+                    }
+                ], 
+                "subcategory": [
+                    "standardisation development", 
+                    "manpower development", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "The subsequent transitional and the elected Afghan government introduced new legislations which assisted private companies to make investments in the country and provide various services including telecommunications and ICT services for the people of Afghanistan."
+    }, 
+    {
+        "sentence_id,": "46689bf921", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "cirt": "design"
+                    }, 
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "standardisation development": "design"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }, 
+                    {
+                        "intra-agency cooperation": "design"
+                    }, 
+                    {
+                        "roadmap for governance": "government entities"
+                    }, 
+                    {
+                        "agency certification": "government entities"
+                    }
+                ], 
+                "subcategory": [
+                    "cirt", 
+                    "responsible agency", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "intra-agency cooperation", 
+                    "roadmap for governance", 
+                    "agency certification"
+                ]
+            }
+        ], 
+        "sentence": "The Ministry of Communications and Information Technology (MCIT) was the first among the sectoral government entities in Afghanistan to design new strategies and policies, enabling private sector to make huge investment in the telecommunication and IT sectors."
+    }, 
+    {
+        "sentence_id,": "0b4c11d43a", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "In 2009, MCIT established the first Cyber Emergency Response Team (CERT) in Afghanistan and it was officially named as AFCERT."
+    }, 
+    {
+        "sentence_id,": "884349b455", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures", 
+                    "cooperation", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "mandate"
+                    }, 
+                    {
+                        "criminal legislation": "mandate"
+                    }, 
+                    {
+                        "cirt": "mandate"
+                    }, 
+                    {
+                        "cirt": "mandate"
+                    }, 
+                    {
+                        "standards": "mandate"
+                    }, 
+                    {
+                        "standards": "mandate"
+                    }, 
+                    {
+                        "intra-agency cooperation": "mandate"
+                    }, 
+                    {
+                        "intra-agency cooperation": "mandate"
+                    }, 
+                    {
+                        "institutional support": "mandate"
+                    }, 
+                    {
+                        "institutional support": "mandate"
+                    }, 
+                    {
+                        "intra-state cooperation": "fight against cyber"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "cirt", 
+                    "standards", 
+                    "intra-agency cooperation", 
+                    "institutional support", 
+                    "intra-state cooperation"
+                ]
+            }
+        ], 
+        "sentence": "The mandate of AFCERT was to fight against cyber threats and crimes and provide awareness and solutions on cyber security to the government and private sector."
+    }, 
+    {
+        "sentence_id,": "4241eb1965", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "senior management"
+                    }, 
+                    {
+                        "policy": "two years"
+                    }, 
+                    {
+                        "policy": "senior management"
+                    }, 
+                    {
+                        "national benchmarking": "two years"
+                    }, 
+                    {
+                        "manpower development": "two years"
+                    }, 
+                    {
+                        "manpower development": "senior management"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "policy", 
+                    "national benchmarking", 
+                    "manpower development"
+                ]
+            }
+        ], 
+        "sentence": "In its first two years of operation, AFCERT submitted an official report to the MCIT senior management regarding an upsurge in the cyber and electronic crimes in the country."
+    }, 
+    {
+        "sentence_id,": "9b2e7b4c69", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "cirt": "conduct"
+                    }, 
+                    {
+                        "national benchmarking": "conduct"
+                    }, 
+                    {
+                        "manpower development": "conduct"
+                    }, 
+                    {
+                        "professional certification": "conduct"
+                    }
+                ], 
+                "subcategory": [
+                    "cirt", 
+                    "national benchmarking", 
+                    "manpower development", 
+                    "professional certification"
+                ]
+            }
+        ], 
+        "sentence": "In order to fight the said crimes, it was vital to conduct a risk assessment of all government ICT infrastructures and come up with a solution to mitigate those risks."
+    }, 
+    {
+        "sentence_id,": "ab9155c108", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures", 
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "draft"
+                    }, 
+                    {
+                        "regulation and compliance": "draft"
+                    }, 
+                    {
+                        "certification": "draft"
+                    }, 
+                    {
+                        "policy": "draft"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "certification", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "AFCERTs proposal on preparing a draft of Cyber Security Strategy for the country was accepted by the MCIT and ICT Council and to this end the MCIT and ICT Council established a committee."
+    }, 
+    {
+        "sentence_id,": "1b4371df6f", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "manpower development": "workshop"
+                    }, 
+                    {
+                        "international cooperation": "workshop"
+                    }
+                ], 
+                "subcategory": [
+                    "manpower development", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "In 2012 the first awareness workshop on drafting the NCSA was held in ICTI Institute, supported and funded by the US Department of Commerce."
+    }, 
+    {
+        "sentence_id,": "4472823248", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "manpower development": "workshop"
+                    }, 
+                    {
+                        "international cooperation": "workshop"
+                    }
+                ], 
+                "subcategory": [
+                    "manpower development", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "It was a 4 day workshop and all government CIOs, ICT heads, private sector and academia participated and studied and analyzed various strategies from different countries."
+    }, 
+    {
+        "sentence_id,": "6c7411afab", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "committee"
+                    }, 
+                    {
+                        "responsible agency": "committee"
+                    }, 
+                    {
+                        "manpower development": "committee"
+                    }, 
+                    {
+                        "intra-state cooperation": "meetings"
+                    }, 
+                    {
+                        "international cooperation": "committee"
+                    }, 
+                    {
+                        "international cooperation": "meetings"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "responsible agency", 
+                    "manpower development", 
+                    "intra-state cooperation", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "The NCSA committee was chaired by Information Systems Security Directorate of MCIT and held its regular meetings and assessments for one year."
+    }, 
+    {
+        "sentence_id,": "bfb09478f7", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "draft"
+                    }, 
+                    {
+                        "regulation and compliance": "draft"
+                    }, 
+                    {
+                        "standards": "series"
+                    }, 
+                    {
+                        "standards": "committee"
+                    }, 
+                    {
+                        "certification": "draft"
+                    }, 
+                    {
+                        "certification": "series"
+                    }, 
+                    {
+                        "policy": "draft"
+                    }, 
+                    {
+                        "responsible agency": "committee"
+                    }, 
+                    {
+                        "standardisation development": "series"
+                    }, 
+                    {
+                        "manpower development": "series"
+                    }, 
+                    {
+                        "manpower development": "committee"
+                    }, 
+                    {
+                        "public sector partnership": "series"
+                    }, 
+                    {
+                        "international cooperation": "committee"
+                    }, 
+                    {
+                        "institutional support": "series"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "standards", 
+                    "certification", 
+                    "policy", 
+                    "responsible agency", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "public sector partnership", 
+                    "international cooperation", 
+                    "institutional support"
+                ]
+            }
+        ], 
+        "sentence": "After a series of assessments and recommendations, the NCSA committee finalized and submitted the first draft of the strategy in July 2014 to the MCIT and ICT Council to review and adapt its action plan."
+    }, 
+    {
+        "sentence_id,": "1e968b93c6", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "senior management"
+                    }, 
+                    {
+                        "policy": "senior management"
+                    }, 
+                    {
+                        "manpower development": "senior management"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "policy", 
+                    "manpower development"
+                ]
+            }
+        ], 
+        "sentence": "InformationSystemsSecurityDirectorate--MCIT Acknowledgment: We would like to thank MCIT senior management especially H.E."
+    }, 
+    {
+        "sentence_id,": "ab40519528", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "organization measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "regulation and compliance": "minister"
+                    }, 
+                    {
+                        "regulation and compliance": "minister"
+                    }, 
+                    {
+                        "regulation and compliance": "minister"
+                    }, 
+                    {
+                        "regulation and compliance": "minister"
+                    }, 
+                    {
+                        "policy": "minister"
+                    }, 
+                    {
+                        "policy": "minister"
+                    }, 
+                    {
+                        "policy": "minister"
+                    }, 
+                    {
+                        "policy": "minister"
+                    }, 
+                    {
+                        "roadmap for governance": "minister"
+                    }, 
+                    {
+                        "roadmap for governance": "minister"
+                    }, 
+                    {
+                        "roadmap for governance": "minister"
+                    }, 
+                    {
+                        "roadmap for governance": "minister"
+                    }, 
+                    {
+                        "responsible agency": "minister"
+                    }, 
+                    {
+                        "responsible agency": "minister"
+                    }, 
+                    {
+                        "responsible agency": "minister"
+                    }, 
+                    {
+                        "responsible agency": "minister"
+                    }, 
+                    {
+                        "reporting mechanism": "minister"
+                    }, 
+                    {
+                        "reporting mechanism": "minister"
+                    }, 
+                    {
+                        "reporting mechanism": "minister"
+                    }, 
+                    {
+                        "reporting mechanism": "minister"
+                    }
+                ], 
+                "subcategory": [
+                    "regulation and compliance", 
+                    "policy", 
+                    "roadmap for governance", 
+                    "responsible agency", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "Minister Amirzai Sangin, Deputy Minister IT Mohammad Aimal Marjan, Deputy Minister Technical Baryalai Hassam, Deputy Minister Administration Wahabuddin Sadaat and ICT Council for accepting our proposal of drafting the NCSA."
+    }, 
+    {
+        "sentence_id,": "612c78e248", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "committee"
+                    }, 
+                    {
+                        "responsible agency": "committee"
+                    }, 
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "manpower development": "committee"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }, 
+                    {
+                        "international cooperation": "committee"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "responsible agency", 
+                    "manpower development", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "We would also like to thank the NCSA Committee (Ministry of Finance, Ministry of Interior Affairs, Ministry of Defense, Ministry of foreign Affairs, National Directorate of Security, Ministry of Justice and Attorney Generals Office) for their time, efforts and dedication in drafting the NCSA."
+    }, 
+    {
+        "sentence_id,": "a1caf0098c", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures", 
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "draft"
+                    }, 
+                    {
+                        "regulation and compliance": "draft"
+                    }, 
+                    {
+                        "certification": "draft"
+                    }, 
+                    {
+                        "policy": "draft"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "certification", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Special thanks to ITU-IMPACT for conducting an assessment on the establishment of AFCERT and providing support during the draft stages of NCSA."
+    }, 
+    {
+        "sentence_id,": "90753dc705", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "regulation and compliance": "commerce"
+                    }, 
+                    {
+                        "manpower development": "workshop"
+                    }, 
+                    {
+                        "international cooperation": "workshop"
+                    }
+                ], 
+                "subcategory": [
+                    "regulation and compliance", 
+                    "manpower development", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Our gratitude also goes to the US Department of Commerce for facilitating the first ever workshop on cyber security strategies."
+    }, 
+    {
+        "sentence_id,": "191fb13c65", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Definitions InformationSystemsSecurityDirectorate--MCIT The art of war teaches us to rely not on the likelihood of the enemys not coming, but on our own readiness to receive him; not on the chance of his not attacking, but rather on the fact that we have made our position unassailable."
+    }, 
+    {
+        "sentence_id,": "eedc6a48b4", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "national benchmarking": "use of information"
+                    }
+                ], 
+                "subcategory": [
+                    "national benchmarking"
+                ]
+            }
+        ], 
+        "sentence": "Sun Tzu, the Art of War Introduction The use of information and communication technologies has been spreading rapidly in Afghanistan and ICTs are playing important roles in all aspects of our lives."
+    }, 
+    {
+        "sentence_id,": "d856bf50c8", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "financial services"
+                    }, 
+                    {
+                        "international cooperation": "financial services"
+                    }, 
+                    {
+                        "policy": "critical infrastructure sectors"
+                    }, 
+                    {
+                        "intra-agency cooperation": "critical infrastructure sectors"
+                    }, 
+                    {
+                        "public sector partnership": "critical infrastructure sectors"
+                    }
+                ], 
+                "subcategory": [
+                    "policy", 
+                    "international cooperation", 
+                    "intra-agency cooperation", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "Alongside the public sector, entities that provide services in critical infrastructure sectors like energy, health, aviation, communication and financial services have also been heavily using information and communication systems."
+    }, 
+    {
+        "sentence_id,": "908cbfeab4", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "These systems improve the quality and the speed of the services delivery -thus helping organizations work more productively, efficiently and contributing to the improvement of living standards."
+    }, 
+    {
+        "sentence_id,": "27da657f69", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "As our public sector organizations use ICTs to provide services at an increasing rate, it has become an important aspect of our national security and competitiveness to ensure the security of information and communication technologies."
+    }, 
+    {
+        "sentence_id,": "2f4bf4c599", 
+        "tag": [
+            {
+                "category": [
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "institutional support": "abuse"
+                    }, 
+                    {
+                        "reporting mechanism": "abuse"
+                    }
+                ], 
+                "subcategory": [
+                    "institutional support", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "The vulnerabilities inherent in ICTs may cause denial of service or abuse of service attacks, resulting in high scale economic losses, disturbance of public order and/or threats to national security."
+    }, 
+    {
+        "sentence_id,": "285f79cd3d", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "capacity building", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "certification": "offers"
+                    }, 
+                    {
+                        "manpower development": "offers"
+                    }, 
+                    {
+                        "institutional support": "offers"
+                    }, 
+                    {
+                        "reporting mechanism": "offers"
+                    }
+                ], 
+                "subcategory": [
+                    "certification", 
+                    "manpower development", 
+                    "institutional support", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "It is a fact that cyber space offers opportunities of anonymity and deniability for attacks on information systems and data."
+    }, 
+    {
+        "sentence_id,": "0aa8e645c3", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The tools and knowledge required for attacks are often cheap and easy to get, and it has been observed that anyone or any systems across the world can participate in cyber-attacks, either knowingly or unknowingly."
+    }, 
+    {
+        "sentence_id,": "88432feefc", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "legal measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "cirt": "cyberattacks"
+                    }, 
+                    {
+                        "certification": "cyberattacks"
+                    }, 
+                    {
+                        "policy": "cyberattacks"
+                    }, 
+                    {
+                        "regulation and compliance": "systems and data"
+                    }, 
+                    {
+                        "un convention and protocol": "systems and data"
+                    }
+                ], 
+                "subcategory": [
+                    "cirt", 
+                    "certification", 
+                    "policy", 
+                    "regulation and compliance", 
+                    "un convention and protocol"
+                ]
+            }
+        ], 
+        "sentence": "And it is deemed almost impossible to determine who finances and organizes these enduring and advanced cyberattacks that target the information systems and data of critical infrastructures."
+    }, 
+    {
+        "sentence_id,": "3e9c1f9db3", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "regulation and compliance": "risks and threats"
+                    }, 
+                    {
+                        "un convention and protocol": "risks and threats"
+                    }
+                ], 
+                "subcategory": [
+                    "regulation and compliance", 
+                    "un convention and protocol"
+                ]
+            }
+        ], 
+        "sentence": "These facts and conditions reveal the asymmetrical nature of the risks and threats in cyber space, making them even more difficult to tackle."
+    }, 
+    {
+        "sentence_id,": "210adf8cfe", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "roadmap for governance": "achieve"
+                    }, 
+                    {
+                        "responsible agency": "assure"
+                    }, 
+                    {
+                        "standardisation development": "assure"
+                    }, 
+                    {
+                        "manpower development": "enhance"
+                    }, 
+                    {
+                        "manpower development": "boost"
+                    }, 
+                    {
+                        "manpower development": "youth"
+                    }, 
+                    {
+                        "manpower development": "capacities"
+                    }, 
+                    {
+                        "intra-state cooperation": "enhance"
+                    }, 
+                    {
+                        "public sector partnership": "enhance"
+                    }, 
+                    {
+                        "international cooperation": "enhance"
+                    }, 
+                    {
+                        "national legislation": "youth"
+                    }, 
+                    {
+                        "un convention and protocol": "children"
+                    }, 
+                    {
+                        "institutional support": "children"
+                    }, 
+                    {
+                        "institutional support": "youth"
+                    }, 
+                    {
+                        "reporting mechanism": "youth"
+                    }
+                ], 
+                "subcategory": [
+                    "roadmap for governance", 
+                    "responsible agency", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "intra-state cooperation", 
+                    "public sector partnership", 
+                    "international cooperation", 
+                    "national legislation", 
+                    "un convention and protocol", 
+                    "institutional support", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "InformationSystemsSecurityDirectorate--MCIT VISION To establish and achieve a Safe -Secure and Resilient cyber space for the government, businesses and citizens of Afghanistan MISSION To protect and assure data, information and IT infrastructure security in Afghanistans cyberspace, enhance capacities to prevent and response to cyber threats, protect the children and youth of Afghanistan in cyberspace, mitigate the risk of vulnerability, damage from cyber threats and incidents through a variety of standardized institutional structures, policies, procedures, people, technologies and administrative process InformationSystemsSecurityDirectorate--MCIT OBJECTIVES 1) To protect government ICT infrastructure, secure cyberspace for the citizens, improve and retain cybersecurity professional skills, encourage public -private partnerships, boost and maintain international cooperation."
+    }, 
+    {
+        "sentence_id,": "7a4f5e1eab", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building", 
+                    "legal measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "responsible agency": "coordinate"
+                    }, 
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }, 
+                    {
+                        "regulation and compliance": "cyber and information"
+                    }, 
+                    {
+                        "un convention and protocol": "cyber and information"
+                    }
+                ], 
+                "subcategory": [
+                    "responsible agency", 
+                    "manpower development", 
+                    "regulation and compliance", 
+                    "un convention and protocol"
+                ]
+            }
+        ], 
+        "sentence": "Establishing a Resilient cyber ecosystem in Afghanistan a) Information Systems Security Directorate (ISSD) of Ministry of Communications and Information Technologies (MCIT) to coordinate all cyber and information security related issues in the country with clearly defined roles and responsibilities."
+    }, 
+    {
+        "sentence_id,": "1da9fbfa3a", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Having had the privilege of managing AFCERT since its establishment, ISSD should become an independent entity within Government structure once it reaches its maturity levels."
+    }, 
+    {
+        "sentence_id,": "29647febce", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "roadmap for governance": "other government"
+                    }, 
+                    {
+                        "agency certification": "other government"
+                    }
+                ], 
+                "subcategory": [
+                    "roadmap for governance", 
+                    "agency certification"
+                ]
+            }
+        ], 
+        "sentence": "This will avoid every kind of unwanted and unwarranted influence from other government and nongovernment entities on cybersecurity tasks and decisions ensuring ISSDs full integrity."
+    }, 
+    {
+        "sentence_id,": "a940cd190c", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "cooperation", 
+                    "technical measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "responsible agency": "officer"
+                    }, 
+                    {
+                        "intra-agency cooperation": "officer"
+                    }, 
+                    {
+                        "standards": "senior management"
+                    }, 
+                    {
+                        "policy": "senior management"
+                    }, 
+                    {
+                        "manpower development": "senior management"
+                    }
+                ], 
+                "subcategory": [
+                    "responsible agency", 
+                    "intra-agency cooperation", 
+                    "standards", 
+                    "policy", 
+                    "manpower development"
+                ]
+            }
+        ], 
+        "sentence": "b) Encourage both public and private sector to assign a member of senior management as Chief Security Officer (CSO), giving them the responsibility of cybersecurity efforts and initiatives in the country, ensuring public private partnership."
+    }, 
+    {
+        "sentence_id,": "4ee5c3664b", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "draft"
+                    }, 
+                    {
+                        "regulation and compliance": "draft"
+                    }, 
+                    {
+                        "regulation and compliance": "compliance"
+                    }, 
+                    {
+                        "regulation and compliance": "compliance"
+                    }, 
+                    {
+                        "standards": "compliance"
+                    }, 
+                    {
+                        "standards": "compliance"
+                    }, 
+                    {
+                        "certification": "draft"
+                    }, 
+                    {
+                        "policy": "draft"
+                    }, 
+                    {
+                        "standards": "international standards"
+                    }, 
+                    {
+                        "certification": "private sectors"
+                    }, 
+                    {
+                        "standardisation development": "international standards"
+                    }, 
+                    {
+                        "agency certification": "international standards"
+                    }, 
+                    {
+                        "intra-state cooperation": "their business"
+                    }, 
+                    {
+                        "intra-agency cooperation": "their business"
+                    }, 
+                    {
+                        "public sector partnership": "private sectors"
+                    }, 
+                    {
+                        "international cooperation": "international standards"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "standards", 
+                    "certification", 
+                    "policy", 
+                    "standardisation development", 
+                    "agency certification", 
+                    "intra-state cooperation", 
+                    "intra-agency cooperation", 
+                    "public sector partnership", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "c) Encourage both public and private sectors to draft and develop their information security policies aligned with their business profile and services in compliance with international standards and best practices."
+    }, 
+    {
+        "sentence_id,": "c4a0ab7b1d", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Policies should be comprehensive, up to date with various data security methodologies, include Disaster Recovery Plan and business continuity."
+    }, 
+    {
+        "sentence_id,": "cac16f30d7", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "cooperation", 
+                    "legal measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "certification": "private sectors"
+                    }, 
+                    {
+                        "public sector partnership": "private sectors"
+                    }, 
+                    {
+                        "regulation and compliance": "cyber and information"
+                    }, 
+                    {
+                        "un convention and protocol": "cyber and information"
+                    }
+                ], 
+                "subcategory": [
+                    "certification", 
+                    "public sector partnership", 
+                    "regulation and compliance", 
+                    "un convention and protocol"
+                ]
+            }
+        ], 
+        "sentence": "d) Both public and private sectors to dedicate budget for cyber and information security activities and initiatives."
+    }, 
+    {
+        "sentence_id,": "e42b73b4ed", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "manpower development": "capacity building"
+                    }, 
+                    {
+                        "public sector partnership": "capacity building"
+                    }
+                ], 
+                "subcategory": [
+                    "manpower development", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "The budget should be for the overall cybersecurity initiatives including IT infrastructure protection mechanisms, licensed software, patches and capacity building for IT personnel."
+    }, 
+    {
+        "sentence_id,": "986f3fcc96", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "certification": "reputation"
+                    }, 
+                    {
+                        "certification": "private sectors"
+                    }, 
+                    {
+                        "public sector partnership": "private sectors"
+                    }
+                ], 
+                "subcategory": [
+                    "certification", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "e) AFCERT to serve both public and private sectors as a first responder to cyber and computer incidents, given its professional staff and good reputation AFCERT will also work together with both sectors in order to establish mini and provincial CERTs for better coordination of the cybersecurity agenda, AFCERT will make sure that all entities adapt to and abide by the AFCERT assigned procedures and best practices in the field of incident response, cyber/computer crime scene data collection."
+    }, 
+    {
+        "sentence_id,": "0a5c27baa5", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "f) MCIT from security point of view will certify and approve any IT related procurement within the government, MCIT will come up with new guidelines and policies for the webhosting companies, software developers and IT services provider."
+    }, 
+    {
+        "sentence_id,": "f48f5d1a61", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "regulation and compliance": "compliance"
+                    }, 
+                    {
+                        "regulation and compliance": "compliance"
+                    }, 
+                    {
+                        "standards": "compliance"
+                    }, 
+                    {
+                        "standards": "compliance"
+                    }, 
+                    {
+                        "international cooperation": "accessibility"
+                    }
+                ], 
+                "subcategory": [
+                    "regulation and compliance", 
+                    "standards", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Establishing a framework for information safety, assurance, information security policies a) ISSD of MCIT should enforce the adaptation of international standards, information security best practices, and compliance in order to ensure Confidentiality, Accessibility and Integrity of information throughout government networks."
+    }, 
+    {
+        "sentence_id,": "55852038d6", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "cirt": "penetration"
+                    }, 
+                    {
+                        "standards": "series"
+                    }, 
+                    {
+                        "certification": "series"
+                    }, 
+                    {
+                        "national benchmarking": "penetration"
+                    }, 
+                    {
+                        "standardisation development": "series"
+                    }, 
+                    {
+                        "manpower development": "series"
+                    }, 
+                    {
+                        "public sector partnership": "series"
+                    }, 
+                    {
+                        "institutional support": "series"
+                    }, 
+                    {
+                        "standards": "international standards"
+                    }, 
+                    {
+                        "national benchmarking": "software development"
+                    }, 
+                    {
+                        "standardisation development": "software development"
+                    }, 
+                    {
+                        "standardisation development": "international standards"
+                    }, 
+                    {
+                        "agency certification": "international standards"
+                    }, 
+                    {
+                        "international cooperation": "international standards"
+                    }
+                ], 
+                "subcategory": [
+                    "cirt", 
+                    "standards", 
+                    "certification", 
+                    "national benchmarking", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "public sector partnership", 
+                    "institutional support", 
+                    "agency certification", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "InformationSystemsSecurityDirectorate--MCIT b) Through the ISSD of MCIT enforce the adaptation of ISO 2700 series and other International standards for Information Security Management System (ISMS), information assurance, Information Systems and IT infrastructure audits, Vulnerability assessment, Risk management of the critical information infrastructures (CII), Business continuity, ensure Application security through Software Development Life Cycle (SDLC) and best practices and Penetration testing of IT infrastructures."
+    }, 
+    {
+        "sentence_id,": "61a2cadd12", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures", 
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "regulation and compliance": "confidentiality"
+                    }, 
+                    {
+                        "standards": "confidentiality"
+                    }, 
+                    {
+                        "policy": "confidentiality"
+                    }
+                ], 
+                "subcategory": [
+                    "regulation and compliance", 
+                    "standards", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "c) Enforce data classification of all governmental entities in order to ensure data confidentiality and apply access controls (Physical, Technical and Administrative) to ensure accountability."
+    }, 
+    {
+        "sentence_id,": "47ebc744da", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "regulation and compliance": "compliance"
+                    }, 
+                    {
+                        "regulation and compliance": "compliance"
+                    }, 
+                    {
+                        "cirt": "conduct"
+                    }, 
+                    {
+                        "standards": "compliance"
+                    }, 
+                    {
+                        "standards": "compliance"
+                    }, 
+                    {
+                        "national benchmarking": "conduct"
+                    }, 
+                    {
+                        "manpower development": "conduct"
+                    }, 
+                    {
+                        "professional certification": "conduct"
+                    }
+                ], 
+                "subcategory": [
+                    "regulation and compliance", 
+                    "cirt", 
+                    "standards", 
+                    "national benchmarking", 
+                    "manpower development", 
+                    "professional certification"
+                ]
+            }
+        ], 
+        "sentence": "d) Periodically conduct risk assessment and security standard compliance of the critical information infrastructures (CII)."
+    }, 
+    {
+        "sentence_id,": "a1f6f45e03", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "cirt": "conduct"
+                    }, 
+                    {
+                        "certification": "certification"
+                    }, 
+                    {
+                        "certification": "certification"
+                    }, 
+                    {
+                        "responsible agency": "assure"
+                    }, 
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "national benchmarking": "conduct"
+                    }, 
+                    {
+                        "standardisation development": "assure"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }, 
+                    {
+                        "manpower development": "conduct"
+                    }, 
+                    {
+                        "professional certification": "certification"
+                    }, 
+                    {
+                        "professional certification": "certification"
+                    }, 
+                    {
+                        "professional certification": "conduct"
+                    }, 
+                    {
+                        "national legislation": "child"
+                    }, 
+                    {
+                        "un convention and protocol": "child"
+                    }, 
+                    {
+                        "standards": "regulatory frameworks"
+                    }, 
+                    {
+                        "standards": "regulatory frameworks"
+                    }, 
+                    {
+                        "certification": "regulatory frameworks"
+                    }, 
+                    {
+                        "certification": "regulatory frameworks"
+                    }, 
+                    {
+                        "manpower development": "awareness campaign"
+                    }
+                ], 
+                "subcategory": [
+                    "cirt", 
+                    "certification", 
+                    "responsible agency", 
+                    "national benchmarking", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "professional certification", 
+                    "national legislation", 
+                    "un convention and protocol", 
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Establishing a regulatory framework a) MCIT will work together with the Ministry of Justice (MoJ) to develop legal framework and conduct for addressing cybersecurity issues b) Develop the Cyber Law of Afghanistan and Child Online Protection policy with support and cooperations of US-DOC, CLDP, European Commission, UNCITRAL and International Multilateral Partnership Against Cyber Threats (IMPACT) c) Develop legal framework for private Certification Authority (CA) and secure electronic transaction system for business and financial institutes d) Develop legal framework and policies to assure secure mobile computing, cloud computing, mobile governance and internet governance e) Develop regulatory framework for auditing and certifying IT infrastructures for the sack of cyber security within the government and for those Solution providers (SPs) who are providing IT services to the government f) Organize awareness campaign for all regulatory frameworks and periodically update the regulatory frameworks with the evolving technological advancements."
+    }, 
+    {
+        "sentence_id,": "b95ebd816d", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "cirt": "conduct"
+                    }, 
+                    {
+                        "responsible agency": "coordinate"
+                    }, 
+                    {
+                        "responsible agency": "coordinate"
+                    }, 
+                    {
+                        "national benchmarking": "conduct"
+                    }, 
+                    {
+                        "manpower development": "enhance"
+                    }, 
+                    {
+                        "manpower development": "enhance"
+                    }, 
+                    {
+                        "manpower development": "investigations"
+                    }, 
+                    {
+                        "manpower development": "conduct"
+                    }, 
+                    {
+                        "professional certification": "conduct"
+                    }, 
+                    {
+                        "intra-state cooperation": "enhance"
+                    }, 
+                    {
+                        "intra-state cooperation": "enhance"
+                    }, 
+                    {
+                        "public sector partnership": "enhance"
+                    }, 
+                    {
+                        "public sector partnership": "enhance"
+                    }, 
+                    {
+                        "public sector partnership": "investigations"
+                    }, 
+                    {
+                        "international cooperation": "enhance"
+                    }, 
+                    {
+                        "international cooperation": "enhance"
+                    }, 
+                    {
+                        "cirt": "focal point"
+                    }, 
+                    {
+                        "policy": "two years"
+                    }, 
+                    {
+                        "national benchmarking": "two years"
+                    }, 
+                    {
+                        "standardisation development": "focal point"
+                    }, 
+                    {
+                        "manpower development": "capacity building"
+                    }, 
+                    {
+                        "manpower development": "two years"
+                    }, 
+                    {
+                        "public sector partnership": "capacity building"
+                    }, 
+                    {
+                        "intra-state cooperation": "fight against cyber"
+                    }
+                ], 
+                "subcategory": [
+                    "cirt", 
+                    "responsible agency", 
+                    "national benchmarking", 
+                    "manpower development", 
+                    "professional certification", 
+                    "intra-state cooperation", 
+                    "public sector partnership", 
+                    "international cooperation", 
+                    "policy", 
+                    "standardisation development"
+                ]
+            }
+        ], 
+        "sentence": "Enhance AFCERT capabilities a) AFCERT as the focal point will act as first responder to any cyber incident or computer crime investigations within the government and private sector b) Coordinate crime scene investigation report with law enforcement for further processes c) Provide cyber related awareness to all government and nongovernment agencies through its Network Operation Center (NOC), workshops, seminars, email, magazines and newsletters d) Extend its operation hours to 24/7 service availability within the timeframe of two years e) Assist provinces in establishing the provincial CERTs f) Keep strong engagement and coordination with regional CERTs in order to fight against cyber crimes InformationSystemsSecurityDirectorate--MCIT g) Coordinate cybersecurity exercises and conduct cyber drills with regional CERTs h) Periodically provide advanced trainings and capacity building programs to enhance capacity and ensure improved performance."
+    }, 
+    {
+        "sentence_id,": "a6112699a3", 
+        "tag": [
+            {
+                "category": [
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "international cooperation": "e-government services"
+                    }
+                ], 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Enabling secure and sustainable e-Government through the adaptation of best practices and reliable technologies a) MCIT will adapt and implement a comprehensive information security framework to ensure a robust, secure trustworthy e-Government services throughout the government."
+    }, 
+    {
+        "sentence_id,": "2e689cfff4", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "certification": "certification"
+                    }, 
+                    {
+                        "certification": "certification"
+                    }, 
+                    {
+                        "professional certification": "certification"
+                    }, 
+                    {
+                        "professional certification": "certification"
+                    }
+                ], 
+                "subcategory": [
+                    "certification", 
+                    "professional certification"
+                ]
+            }
+        ], 
+        "sentence": "Establishing certification and testing body a) MCIT will dedicate an additional line and recruit a team of professional programmers solely to test and certify software and applications."
+    }, 
+    {
+        "sentence_id,": "e81feb0d19", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures"
+                ], 
+                "keywords": [
+                    {
+                        "regulation and compliance": "compliance"
+                    }, 
+                    {
+                        "regulation and compliance": "compliance"
+                    }, 
+                    {
+                        "standards": "compliance"
+                    }, 
+                    {
+                        "standards": "compliance"
+                    }
+                ], 
+                "subcategory": [
+                    "regulation and compliance", 
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "The testing processes must be in compliance with all international standards, security has to be part of software developing life cycle."
+    }, 
+    {
+        "sentence_id,": "bcab1ad15a", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation", 
+                    "technical measures"
+                ], 
+                "keywords": [
+                    {
+                        "responsible agency": "coordinate"
+                    }, 
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "standardisation development": "funds"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }, 
+                    {
+                        "manpower development": "capacity building"
+                    }, 
+                    {
+                        "public sector partnership": "capacity building"
+                    }, 
+                    {
+                        "cirt": "field of information"
+                    }, 
+                    {
+                        "policy": "field of information"
+                    }, 
+                    {
+                        "manpower development": "field of information"
+                    }, 
+                    {
+                        "public sector partnership": "field of information"
+                    }
+                ], 
+                "subcategory": [
+                    "responsible agency", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "public sector partnership", 
+                    "cirt", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Facilitating trainings for Information and Cyber security experts a) MCIT will engage and coordinate training and capacity building programs with donor communities (World Bank, ITU, USAID) to secure funds for information security trainings, seminars and workshops for CSOs within the government and private sector b) MCIT will work closely with the Ministry of Higher Education (MoHE) and Civil Services Commission to secure scholarships opportunities for masters programs in the field of information security."
+    }, 
+    {
+        "sentence_id,": "0a7b6b8cbf", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Safeguarding data privacy of government, businesses and citizens a) ISSD of MCIT will develop a plan and information security frameworks for the protection of Critical Information infrastructure."
+    }, 
+    {
+        "sentence_id,": "b2d4ec7836", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures", 
+                    "capacity building", 
+                    "cooperation", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "regulation and compliance": "data centers"
+                    }, 
+                    {
+                        "cirt": "data centers"
+                    }, 
+                    {
+                        "standardisation development": "private partnership"
+                    }, 
+                    {
+                        "manpower development": "data centers"
+                    }, 
+                    {
+                        "manpower development": "private partnership"
+                    }, 
+                    {
+                        "manpower development": "public institutions"
+                    }, 
+                    {
+                        "intra-state cooperation": "private partnership"
+                    }, 
+                    {
+                        "public sector partnership": "private partnership"
+                    }, 
+                    {
+                        "public sector partnership": "public institutions"
+                    }, 
+                    {
+                        "institutional support": "public institutions"
+                    }
+                ], 
+                "subcategory": [
+                    "regulation and compliance", 
+                    "cirt", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "intra-state cooperation", 
+                    "public sector partnership", 
+                    "institutional support"
+                ]
+            }
+        ], 
+        "sentence": "Promoting public private partnership a) Private sector will be encouraged to work closely with public institutions and being granted contracts and projects to deliver services complimentary to the government InformationSystemsSecurityDirectorate--MCIT such as establishing private data centers that could turn support the government."
+    }, 
+    {
+        "sentence_id,": "2ad3b33b04", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building", 
+                    "cooperation", 
+                    "technical measures", 
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "manpower development": "enhance"
+                    }, 
+                    {
+                        "manpower development": "boost"
+                    }, 
+                    {
+                        "intra-state cooperation": "enhance"
+                    }, 
+                    {
+                        "public sector partnership": "enhance"
+                    }, 
+                    {
+                        "international cooperation": "enhance"
+                    }, 
+                    {
+                        "standards": "international organizations"
+                    }, 
+                    {
+                        "national benchmarking": "other countries"
+                    }, 
+                    {
+                        "standardisation development": "other countries"
+                    }, 
+                    {
+                        "professional certification": "international organizations"
+                    }, 
+                    {
+                        "agency certification": "international organizations"
+                    }, 
+                    {
+                        "intra-state cooperation": "other countries"
+                    }, 
+                    {
+                        "international cooperation": "international organizations"
+                    }, 
+                    {
+                        "intra-state cooperation": "fight against cyber"
+                    }
+                ], 
+                "subcategory": [
+                    "manpower development", 
+                    "intra-state cooperation", 
+                    "public sector partnership", 
+                    "international cooperation", 
+                    "standards", 
+                    "national benchmarking", 
+                    "standardisation development", 
+                    "professional certification", 
+                    "agency certification"
+                ]
+            }
+        ], 
+        "sentence": "This does not only promote a healthy competitive market but will also boost ICT economy in the government and build trust between both sectors b) Facilitate collaboration and cooperation between stakeholders (Government and private sector) in the field of cybersecurity, protection of Critical information infrastructure, especially in implementation of cybersecurity action plan, implementation of international security standards and best practices 10. International Cooperations a) MCIT will work closely with MFA in order to develop and enhance multilateral relationship in cybersecuiry with the region and other countries through CERTs, information security agencies, law enforcement and Judicial entities b) MCIT should keep close engagement and cooperation with IMPACT, ITU, ICANN, APT and other domestic and international organizations in order to fight against cyber crimes InformationSystemsSecurityDirectorate--MCIT Pressure Makes Diamonds!"
+    }, 
+    {
+        "sentence_id,": "0f8a2837ba", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "organization measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "chapter"
+                    }, 
+                    {
+                        "policy": "principles"
+                    }, 
+                    {
+                        "responsible agency": "principles"
+                    }, 
+                    {
+                        "national legislation": "chapter"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "policy", 
+                    "responsible agency", 
+                    "national legislation"
+                ]
+            }
+        ], 
+        "sentence": "National Cybersecurity Action Plan for the Term August 2014 August 2015 This chapter includes the actions towards achieving national cybersecurity in light of the determined principles for the term 2014-2015 in the framework of the national cyber security strategy."
+    }, 
+    {
+        "sentence_id,": "451737812a", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "There is one or two lead public organization and agency is appointed for each action item."
+    }, 
+    {
+        "sentence_id,": "1707174912", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "However, each action can have more than one or two relevant organization and agency responsible for the implementation."
+    }, 
+    {
+        "sentence_id,": "6cbdae52c0", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "regulation and compliance": "organizations and agencies"
+                    }, 
+                    {
+                        "un convention and protocol": "organizations and agencies"
+                    }
+                ], 
+                "subcategory": [
+                    "regulation and compliance", 
+                    "un convention and protocol"
+                ]
+            }
+        ], 
+        "sentence": "In such cases, it is required that all the relevant organizations and agencies should act under the coordination of the lead organization and agency as required, and should also act in parallel with each other as required."
+    }, 
+    {
+        "sentence_id,": "c3a7fa6b33", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "regulation and compliance": "roles and responsibilities"
+                    }, 
+                    {
+                        "un convention and protocol": "roles and responsibilities"
+                    }
+                ], 
+                "subcategory": [
+                    "regulation and compliance", 
+                    "un convention and protocol"
+                ]
+            }
+        ], 
+        "sentence": "There will be a lot more clarity on this once roles and responsibilities are laid out."
+    }, 
+    {
+        "sentence_id,": "b321de22d4", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures", 
+                    "organization measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "draft"
+                    }, 
+                    {
+                        "criminal legislation": "draft"
+                    }, 
+                    {
+                        "criminal legislation": "draft"
+                    }, 
+                    {
+                        "criminal legislation": "draft"
+                    }, 
+                    {
+                        "criminal legislation": "draft"
+                    }, 
+                    {
+                        "criminal legislation": "draft"
+                    }, 
+                    {
+                        "criminal legislation": "draft"
+                    }, 
+                    {
+                        "regulation and compliance": "draft"
+                    }, 
+                    {
+                        "regulation and compliance": "draft"
+                    }, 
+                    {
+                        "regulation and compliance": "draft"
+                    }, 
+                    {
+                        "regulation and compliance": "draft"
+                    }, 
+                    {
+                        "regulation and compliance": "draft"
+                    }, 
+                    {
+                        "regulation and compliance": "draft"
+                    }, 
+                    {
+                        "regulation and compliance": "draft"
+                    }, 
+                    {
+                        "certification": "draft"
+                    }, 
+                    {
+                        "certification": "draft"
+                    }, 
+                    {
+                        "certification": "draft"
+                    }, 
+                    {
+                        "certification": "draft"
+                    }, 
+                    {
+                        "certification": "draft"
+                    }, 
+                    {
+                        "certification": "draft"
+                    }, 
+                    {
+                        "certification": "draft"
+                    }, 
+                    {
+                        "policy": "draft"
+                    }, 
+                    {
+                        "policy": "draft"
+                    }, 
+                    {
+                        "policy": "draft"
+                    }, 
+                    {
+                        "policy": "draft"
+                    }, 
+                    {
+                        "policy": "draft"
+                    }, 
+                    {
+                        "policy": "draft"
+                    }, 
+                    {
+                        "policy": "draft"
+                    }, 
+                    {
+                        "national legislation": "child"
+                    }, 
+                    {
+                        "un convention and protocol": "child"
+                    }, 
+                    {
+                        "responsible agency": "incident response"
+                    }, 
+                    {
+                        "reporting mechanism": "incident response"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "certification", 
+                    "policy", 
+                    "national legislation", 
+                    "un convention and protocol", 
+                    "responsible agency", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "The deadline for some of the actions are determined and those actions which are envisioned to be repeated periodically and/or are of chronic occurrence are highlighted in particular InformationSystemsSecurityDirectorate--MCIT NO Action Responsible and Relevant Entity Supporting Organization Deadline Remarks 1 Draft Cybercrime Law MCIT, ISSD, MoJ, Parliament US-DOC, CLDP, Council of Europe, IMPACT, UNCITRAL December 2014 Kickoff meeting started in August 2014 2 Draft e-Transaction and e-Signature Law MCIT, ISSD, MoJ, Parliament US-DOC, CLDP, Council of Europe, UNCITRAL December 2014 Kickoff meeting started in March 2014 3 Draft National Cyber/Information security Policy MCIT, ISSD, National Security Council MCIT December 2014 Kickoff meeting started in March 2014 4 Draft ICT Law MCIT, ISSD, MoJ, Parliament US-DOC, CLDP, UNCITRAL, IMPACT, Council of Europe December 2014 Kickoff meeting started in March 2014 5 Draft Intergovernmental IT security, Router, Switch, Firewall Policies MCIT, ISSD MCIT December 2014 Kickoff meeting started in August 2014 6 Draft Computer crime incident response procedure MCIT, ISSD MCIT December 2014 Kickoff meeting started in March 2014 7 Draft IT security training curriculum/schedule MCIT, ISSD MCIT December 2014 Kickoff meeting started in March 2014 8 Auditing Financial institutes MCIT, ISSD, Central Bank, MCIT and Attorney Generals Office August 2015 Kickoff meeting starts in December 2014 9 Guidelines for forensic investigation MCIT, MoJ and Attorney Generals Office MCIT, MoJ and Attorney Generals Office August 2015 Kickoff meeting starts in November 2014 10 Child Online Protection Policy MCIT, MoE, NGOs MCIT and IMPACT August 2015 Kickoff meeting starts in December 2014 InformationSystemsSecurityDirectorate--MCIT Definitions The terms used in this document, refer to the following meanings: Information systems: The systems involved in providing services, processes and data by means of information and communication technologies."
+    }, 
+    {
+        "sentence_id,": "0d1da5f1f7", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Cyber space: The environment, which consists of information systems that span across the world including the networks that interconnect these systems Information systems of the government: The information systems, which belong to and/or are operated by the Government of the Islamic Republic of Afghanistan National cyber space: The environment, that consists of the information systems that belong to public organizations, natural and legal persons, Confidentiality: Authorized persons or systems only can access information systems and data, and the confidential information pertaining to information systems or confidential information in the system will not be disclosed by unauthorized persons or systems."
+    }, 
+    {
+        "sentence_id,": "230082c84a", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "capacity building", 
+                    "cooperation", 
+                    "child online protection", 
+                    "legal measures"
+                ], 
+                "keywords": [
+                    {
+                        "cirt": "host"
+                    }, 
+                    {
+                        "manpower development": "host"
+                    }, 
+                    {
+                        "public sector partnership": "countermeasures"
+                    }, 
+                    {
+                        "international cooperation": "host"
+                    }, 
+                    {
+                        "international cooperation": "accessibility"
+                    }, 
+                    {
+                        "international cooperation": "accessibility"
+                    }, 
+                    {
+                        "international cooperation": "accessibility"
+                    }, 
+                    {
+                        "institutional support": "host"
+                    }, 
+                    {
+                        "regulation and compliance": "protection of information"
+                    }, 
+                    {
+                        "regulation and compliance": "systems and information"
+                    }, 
+                    {
+                        "national legislation": "protection of information"
+                    }, 
+                    {
+                        "un convention and protocol": "systems and information"
+                    }
+                ], 
+                "subcategory": [
+                    "cirt", 
+                    "manpower development", 
+                    "public sector partnership", 
+                    "international cooperation", 
+                    "institutional support", 
+                    "regulation and compliance", 
+                    "national legislation", 
+                    "un convention and protocol"
+                ]
+            }
+        ], 
+        "sentence": "Integrity: Information systems and information can be changed by authorized persons or systems only, Accessibility: Authorized persons and transactions can access information systems and the information therein within the required time and quality, Critical information infrastructures: The infrastructures which host the information systems that can cause, Loss of lives, large scale economic damages, Security vulnerabilities and disturbance of public order at national level when the confidentiality, integrity or accessibility of the information they process is compromised, IMPACT: International Multilateral Partnership Against Cyber Threats Cyber incident: Violation of confidentiality, integrity or accessibility of information systems or of the information being processed by these systems, Cyber security: Protection of information systems that protect the cyber space from attacks, ensuring the confidentiality, integrity and accessibility of the information being processed in this space, detection of attacks and cyber security incidents; putting into force the countermeasures against these incidents and then putting these systems back to their original states prior to the cyber security incident."
+    }, 
+    {
+        "sentence_id,": "5526b760be", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "National Cyber Security: The cyber security of all services, processes and data and the systems involved in provisioning of these-provided by the information and communication technologies in the national cyber space."
+    }, 
+    {
+        "sentence_id,": "57c0058a88", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "InformationSystemsSecurityDirectorate--MCIT InformationSystemsSecurityDirectorate--MCIT"
+    }
+]

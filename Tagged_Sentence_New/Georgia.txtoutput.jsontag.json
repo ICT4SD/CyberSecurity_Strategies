@@ -1,0 +1,1638 @@
+[
+    {
+        "sentence_id,": "4cf9c37db7", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Introduction The Government of Georgia publishes its Cyber Security Strategy for the first time."
+    }, 
+    {
+        "sentence_id,": "e0bfc1fd80", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Large-scale cyber attacks launched by Russia against Georgia in August 2008 have clearly demonstrated that the national security of Georgia cannot be achieved without ensuring security of its cyberspace."
+    }, 
+    {
+        "sentence_id,": "01fb61053e", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "In the course of the Russian-Georgian war, Russian Federation engaged in targeted and massive cyber attacks against Georgia alongside land, aerial and naval assault."
+    }, 
+    {
+        "sentence_id,": "2d6632a65a", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "These attacks showed that the protection of cyberspace is as important for national security as land, maritime, and air defenses."
+    }, 
+    {
+        "sentence_id,": "c14f87a964", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "state policy"
+                    }, 
+                    {
+                        "policy": "strategic goals"
+                    }, 
+                    {
+                        "policy": "action plans"
+                    }, 
+                    {
+                        "roadmap for governance": "action plans"
+                    }, 
+                    {
+                        "responsible agency": "state policy"
+                    }, 
+                    {
+                        "intra-state cooperation": "state policy"
+                    }
+                ], 
+                "subcategory": [
+                    "policy", 
+                    "roadmap for governance", 
+                    "responsible agency", 
+                    "intra-state cooperation"
+                ]
+            }
+        ], 
+        "sentence": "The Georgian Cyber Security Strategy is a principal document outlining state policy in the area of cyber-security, reflecting strategic goals and guiding principles, and laying down action plans and tasks."
+    }, 
+    {
+        "sentence_id,": "2e1bab4f9c", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation", 
+                    "legal measures"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "functioning"
+                    }, 
+                    {
+                        "policy": "functioning"
+                    }, 
+                    {
+                        "responsible agency": "functioning"
+                    }, 
+                    {
+                        "national benchmarking": "functioning"
+                    }, 
+                    {
+                        "manpower development": "functioning"
+                    }, 
+                    {
+                        "international cooperation": "functioning"
+                    }, 
+                    {
+                        "regulation and compliance": "electronic transactions"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "policy", 
+                    "responsible agency", 
+                    "national benchmarking", 
+                    "manpower development", 
+                    "international cooperation", 
+                    "regulation and compliance"
+                ]
+            }
+        ], 
+        "sentence": "Based on this Strategy, the Government of Georgia will undertake actions facilitating safe operation of state agencies, private sector and the public in cyberspace, secure electronic transactions and unhindered functioning of Georgian economy and business."
+    }, 
+    {
+        "sentence_id,": "849cbaaab0", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "strategic documents"
+                    }
+                ], 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The Georgian Cyber Security Strategy represents a part of the package of conceptual and strategic documents developed in the framework of the National Security Review process."
+    }, 
+    {
+        "sentence_id,": "130bf3602b", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "regulation and compliance": "concept"
+                    }, 
+                    {
+                        "policy": "concept"
+                    }
+                ], 
+                "subcategory": [
+                    "regulation and compliance", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Consequently, the Strategy is based upon the Threat Assessment Document for 2010-2013 and the National Security Concept of Georgia."
+    }, 
+    {
+        "sentence_id,": "f4d6176520", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "responsible agency": "coordinate"
+                    }
+                ], 
+                "subcategory": [
+                    "responsible agency"
+                ]
+            }
+        ], 
+        "sentence": "The Strategy has been developed by the Permanent Inter-agency Commission under the auspices of the National Security Council tasked to coordinate drafting national security strategic documents."
+    }, 
+    {
+        "sentence_id,": "568c958c0d", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "regulation and compliance": "concept"
+                    }, 
+                    {
+                        "standards": "implementing"
+                    }, 
+                    {
+                        "standards": "implementing"
+                    }, 
+                    {
+                        "standards": "defines"
+                    }, 
+                    {
+                        "standards": "directions"
+                    }, 
+                    {
+                        "certification": "directions"
+                    }, 
+                    {
+                        "policy": "defines"
+                    }, 
+                    {
+                        "policy": "concept"
+                    }, 
+                    {
+                        "policy": "principles"
+                    }, 
+                    {
+                        "responsible agency": "implementing"
+                    }, 
+                    {
+                        "responsible agency": "implementing"
+                    }, 
+                    {
+                        "responsible agency": "principles"
+                    }, 
+                    {
+                        "standardisation development": "defines"
+                    }, 
+                    {
+                        "intra-state cooperation": "directions"
+                    }
+                ], 
+                "subcategory": [
+                    "regulation and compliance", 
+                    "standards", 
+                    "certification", 
+                    "policy", 
+                    "responsible agency", 
+                    "standardisation development", 
+                    "intra-state cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Basic Principles of Implementing the Georgian Cyber Security Policy The National Security Concept of Georgia defines cyber security as one of the principal directions of its security policy."
+    }, 
+    {
+        "sentence_id,": "ec57724b1e", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building", 
+                    "cooperation", 
+                    "technical measures", 
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "manpower development": "aims"
+                    }, 
+                    {
+                        "intra-agency cooperation": "aims"
+                    }, 
+                    {
+                        "cirt": "economic growth"
+                    }, 
+                    {
+                        "national benchmarking": "social development"
+                    }, 
+                    {
+                        "standardisation development": "social development"
+                    }, 
+                    {
+                        "manpower development": "economic growth"
+                    }, 
+                    {
+                        "manpower development": "social development"
+                    }
+                ], 
+                "subcategory": [
+                    "manpower development", 
+                    "intra-agency cooperation", 
+                    "cirt", 
+                    "national benchmarking", 
+                    "standardisation development"
+                ]
+            }
+        ], 
+        "sentence": "Georgia aims to set up a system of cyber security that will facilitate resilience of cyber infrastructure against cyber threats as well as will represent additional factor in the economic growth and social development of the country."
+    }, 
+    {
+        "sentence_id,": "bdc2d92164", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "principles"
+                    }, 
+                    {
+                        "responsible agency": "principles"
+                    }
+                ], 
+                "subcategory": [
+                    "policy", 
+                    "responsible agency"
+                ]
+            }
+        ], 
+        "sentence": "In this regard, it is necessary to adhere to the following principles of cooperation: Whole-of-Government Approach."
+    }, 
+    {
+        "sentence_id,": "172d6545ed", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The Government of Georgia attaches great importance to the security policy as well as institutionalization of mechanisms for implementation of the policy components."
+    }, 
+    {
+        "sentence_id,": "6ab8f3d86d", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "implementing"
+                    }, 
+                    {
+                        "standards": "implementing"
+                    }, 
+                    {
+                        "responsible agency": "implementing"
+                    }, 
+                    {
+                        "responsible agency": "implementing"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "responsible agency"
+                ]
+            }
+        ], 
+        "sentence": "In this regard, development of cooperation modalities between state agencies is essential for ensuring cyber security, where such modalities facilitate whole-ofgovernment approach and unhindered, coordinated work of different state agencies in planning and implementing cyber security policy."
+    }, 
+    {
+        "sentence_id,": "e05be14863", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Public-private cooperation."
+    }, 
+    {
+        "sentence_id,": "92f338e7bd", 
+        "tag": [
+            {
+                "category": [
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "intra-state cooperation": "public-private partnership"
+                    }
+                ], 
+                "subcategory": [
+                    "intra-state cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Development of mechanisms for cooperation extending beyond governmental agencies to public-private partnership is essential for ensuring cyber security."
+    }, 
+    {
+        "sentence_id,": "f62dd85d51", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "manpower development": "experience"
+                    }, 
+                    {
+                        "public sector partnership": "experience"
+                    }
+                ], 
+                "subcategory": [
+                    "manpower development", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "Larger part of critical information systems of Georgia is owned by private businesses and relevant experience and knowledge is mainly available in private companies."
+    }, 
+    {
+        "sentence_id,": "c08d5ddb17", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "capacity building", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "certification": "offer"
+                    }, 
+                    {
+                        "manpower development": "offer"
+                    }, 
+                    {
+                        "institutional support": "offer"
+                    }, 
+                    {
+                        "reporting mechanism": "offer"
+                    }
+                ], 
+                "subcategory": [
+                    "certification", 
+                    "manpower development", 
+                    "institutional support", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "Consequently, it is important to develop cooperation modalities that facilitate proper operation of critical information systems as well as will offer additional incentives for economic growth."
+    }, 
+    {
+        "sentence_id,": "6059a0eac3", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Active international cooperation."
+    }, 
+    {
+        "sentence_id,": "e944240209", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The Government of Georgia acknowledges that the no single government can solely rely on its own resources in overcoming current challenges and threats to cyber security."
+    }, 
+    {
+        "sentence_id,": "4e482263f5", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Georgia is a part of the global democratic community and therefore is vulnerable to threats against this community."
+    }, 
+    {
+        "sentence_id,": "c23a92eed8", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "manpower development": "aims"
+                    }, 
+                    {
+                        "intra-state cooperation": "cooperate"
+                    }, 
+                    {
+                        "intra-state cooperation": "cooperate"
+                    }, 
+                    {
+                        "intra-agency cooperation": "aims"
+                    }, 
+                    {
+                        "public sector partnership": "cooperate"
+                    }, 
+                    {
+                        "public sector partnership": "cooperate"
+                    }, 
+                    {
+                        "international cooperation": "cooperate"
+                    }, 
+                    {
+                        "international cooperation": "cooperate"
+                    }
+                ], 
+                "subcategory": [
+                    "manpower development", 
+                    "intra-state cooperation", 
+                    "intra-agency cooperation", 
+                    "public sector partnership", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Accordingly, Georgia aims to actively cooperate with its partners on cyber security issues in bilateral and multilateral formats."
+    }, 
+    {
+        "sentence_id,": "31a5574043", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building", 
+                    "cooperation", 
+                    "legal measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "manpower development": "aims"
+                    }, 
+                    {
+                        "intra-agency cooperation": "aims"
+                    }, 
+                    {
+                        "regulation and compliance": "threats and challenges"
+                    }, 
+                    {
+                        "un convention and protocol": "threats and challenges"
+                    }
+                ], 
+                "subcategory": [
+                    "manpower development", 
+                    "intra-agency cooperation", 
+                    "regulation and compliance", 
+                    "un convention and protocol"
+                ]
+            }
+        ], 
+        "sentence": "Cyber Threats and Challenges Georgia aims to develop a system of information security that is able to minimize harmful effects of any cyber attack and allows rapid recovery of information infrastructure to being fully operational in the aftermath of such attacks."
+    }, 
+    {
+        "sentence_id,": "b9dac7426d", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "regulation and compliance": "threats and challenges"
+                    }, 
+                    {
+                        "un convention and protocol": "threats and challenges"
+                    }
+                ], 
+                "subcategory": [
+                    "regulation and compliance", 
+                    "un convention and protocol"
+                ]
+            }
+        ], 
+        "sentence": "Establishment of electronic government leads to increased threats and challenges to critical information systems of Georgia."
+    }, 
+    {
+        "sentence_id,": "e75b257b59", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "regulation and compliance": "threats and challenges"
+                    }, 
+                    {
+                        "un convention and protocol": "threats and challenges"
+                    }
+                ], 
+                "subcategory": [
+                    "regulation and compliance", 
+                    "un convention and protocol"
+                ]
+            }
+        ], 
+        "sentence": "At the same time, Georgia faces global threats and challenges that endanger democratic societies in the international community."
+    }, 
+    {
+        "sentence_id,": "f032b3ddfd", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "regulation and compliance": "threats and challenges"
+                    }, 
+                    {
+                        "un convention and protocol": "threats and challenges"
+                    }
+                ], 
+                "subcategory": [
+                    "regulation and compliance", 
+                    "un convention and protocol"
+                ]
+            }
+        ], 
+        "sentence": "Therefore, planning and implementation of the Georgian security policy should pay significant attention to the following threats and challenges in cyberspace: Cyber war."
+    }, 
+    {
+        "sentence_id,": "f3ef040cf3", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "In 2008, parallel to the military attacks, Georgian cyber space was exposed to the Russian aggression."
+    }, 
+    {
+        "sentence_id,": "db9a27eb5f", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Potential adversaries of Georgia possess significant capabilities for conducting new types of warfare in cyberspace."
+    }, 
+    {
+        "sentence_id,": "1cda5c71c7", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "At the same time, Georgia faces recurrent risk of massive cyber attacks."
+    }, 
+    {
+        "sentence_id,": "e7e7f069c1", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Growing dependence of important areas of Georgian state management and business on critical information systems leads to elevated cyber terrorism threats."
+    }, 
+    {
+        "sentence_id,": "f738b5bc20", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "cirt": "objects"
+                    }, 
+                    {
+                        "public sector partnership": "objects"
+                    }
+                ], 
+                "subcategory": [
+                    "cirt", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "Attacks launched in cyberspace against the objects of critical information systems can significantly affect state security."
+    }, 
+    {
+        "sentence_id,": "c2fd19d725", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Cybercrime and other security threats."
+    }, 
+    {
+        "sentence_id,": "65694f7de3", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Security challenges for Georgia include categories of cybercrime directed against critical information systems of Georgia and/or for the purpose of obtaining secret information, economic sabotage and other politically motivated means."
+    }, 
+    {
+        "sentence_id,": "ea13d32d0c", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "cirt": "operation of information"
+                    }, 
+                    {
+                        "policy": "operation of information"
+                    }
+                ], 
+                "subcategory": [
+                    "cirt", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Also lower-level acts against information/cyber security that jeopardize access to information and proper operation of information systems."
+    }, 
+    {
+        "sentence_id,": "d685a75ebd", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "cooperation", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "directions"
+                    }, 
+                    {
+                        "standards": "directions"
+                    }, 
+                    {
+                        "certification": "directions"
+                    }, 
+                    {
+                        "certification": "directions"
+                    }, 
+                    {
+                        "intra-state cooperation": "directions"
+                    }, 
+                    {
+                        "intra-state cooperation": "directions"
+                    }, 
+                    {
+                        "manpower development": "public awareness"
+                    }, 
+                    {
+                        "public sector partnership": "public awareness"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "certification", 
+                    "intra-state cooperation", 
+                    "manpower development", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "Major Directions of the Georgian Cyber Security Policy The main directions of the Georgian Cyber Security policy are as follows: Research and analysis; New legislative and regulatory framework; Institutional coordination for ensuring cyber security; Public awareness and education; International cooperation."
+    }, 
+    {
+        "sentence_id,": "609c095e4a", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Research and analysis It is important to ensure that the legislative drafts, by-laws, guidelines, recommendations and actions undertaken by Georgia in the area of cyber security are based upon research and analysis as a prerequisite for efficiency of the cyber security policy."
+    }, 
+    {
+        "sentence_id,": "e4cae9ff33", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "cooperation", 
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "cirt": "objects"
+                    }, 
+                    {
+                        "standards": "directions"
+                    }, 
+                    {
+                        "certification": "directions"
+                    }, 
+                    {
+                        "intra-state cooperation": "directions"
+                    }, 
+                    {
+                        "public sector partnership": "objects"
+                    }, 
+                    {
+                        "policy": "state policy"
+                    }, 
+                    {
+                        "responsible agency": "state policy"
+                    }, 
+                    {
+                        "intra-state cooperation": "state policy"
+                    }
+                ], 
+                "subcategory": [
+                    "cirt", 
+                    "standards", 
+                    "certification", 
+                    "intra-state cooperation", 
+                    "public sector partnership", 
+                    "policy", 
+                    "responsible agency"
+                ]
+            }
+        ], 
+        "sentence": "In this regard, the following directions of research and analysis are necessary to implement state policy in cyber security: Study of other states' best practices and sharing experience; Research the criteria and standards to identify objects of critical information systems; Resilience analysis of critical information systems; Analysis of the problems in the region regarding the cyber security."
+    }, 
+    {
+        "sentence_id,": "97eaec8796", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "legislative framework"
+                    }, 
+                    {
+                        "regulation and compliance": "legislative framework"
+                    }, 
+                    {
+                        "standards": "legislative framework"
+                    }, 
+                    {
+                        "certification": "legislative framework"
+                    }, 
+                    {
+                        "national legislation": "legislative framework"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "standards", 
+                    "certification", 
+                    "national legislation"
+                ]
+            }
+        ], 
+        "sentence": "New legislative framework As of 2012, Georgia has not yet introduced specialized national cyber security laws."
+    }, 
+    {
+        "sentence_id,": "d5a5e19266", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "cooperation", 
+                    "legal measures", 
+                    "technical measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "efficient"
+                    }, 
+                    {
+                        "intra-agency cooperation": "efficient"
+                    }, 
+                    {
+                        "public sector partnership": "efficient"
+                    }, 
+                    {
+                        "criminal legislation": "legislative framework"
+                    }, 
+                    {
+                        "regulation and compliance": "legislative framework"
+                    }, 
+                    {
+                        "standards": "legislative framework"
+                    }, 
+                    {
+                        "certification": "legislative framework"
+                    }, 
+                    {
+                        "national legislation": "legislative framework"
+                    }
+                ], 
+                "subcategory": [
+                    "policy", 
+                    "intra-agency cooperation", 
+                    "public sector partnership", 
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "standards", 
+                    "certification", 
+                    "national legislation"
+                ]
+            }
+        ], 
+        "sentence": "It is important to establish legislative framework of cyber security that would facilitate development of effective and efficient security mechanisms."
+    }, 
+    {
+        "sentence_id,": "816487993d", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures", 
+                    "organization measures", 
+                    "child online protection", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "legislative framework"
+                    }, 
+                    {
+                        "criminal legislation": "legal basis"
+                    }, 
+                    {
+                        "regulation and compliance": "legislative framework"
+                    }, 
+                    {
+                        "regulation and compliance": "legal basis"
+                    }, 
+                    {
+                        "cirt": "legal basis"
+                    }, 
+                    {
+                        "standards": "legislative framework"
+                    }, 
+                    {
+                        "certification": "legislative framework"
+                    }, 
+                    {
+                        "policy": "contingency plans"
+                    }, 
+                    {
+                        "roadmap for governance": "contingency plans"
+                    }, 
+                    {
+                        "national legislation": "legislative framework"
+                    }, 
+                    {
+                        "cirt": "computer emergency response"
+                    }, 
+                    {
+                        "manpower development": "computer emergency response"
+                    }, 
+                    {
+                        "institutional support": "computer emergency response"
+                    }, 
+                    {
+                        "reporting mechanism": "computer emergency response"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "cirt", 
+                    "standards", 
+                    "certification", 
+                    "policy", 
+                    "roadmap for governance", 
+                    "national legislation", 
+                    "manpower development", 
+                    "institutional support", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "To improve legislative framework in the field cyber security, it is necessary to undertake the following steps: 5 Introduction of legislative acts on information security; Development of the regulatory framework to identify the critical information systems and actions necessary for ensuring cyber security; Introduction of the legal basis for Computer Emergency Response Team operations; Ratification of the 2001 Council of Europe Convention Against Cybercrime; Legal identification of an agency or agencies responsible for designation of information security policies and undertaking coordinating functions; Development of the contingency plans and recovery procedures."
+    }, 
+    {
+        "sentence_id,": "d8d51132e2", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "national benchmarking": "definition"
+                    }, 
+                    {
+                        "manpower development": "definition"
+                    }, 
+                    {
+                        "responsible agency": "coordination mechanism"
+                    }
+                ], 
+                "subcategory": [
+                    "national benchmarking", 
+                    "manpower development", 
+                    "responsible agency"
+                ]
+            }
+        ], 
+        "sentence": "4.3 Institutional coordination for ensuring cyber security Ensuring cyber security requires clear definition of functions of the state agencies, establishment of the inter-agency coordination mechanism to implement whole-of-government approach, and publicprivate cooperation."
+    }, 
+    {
+        "sentence_id,": "25426d5123", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "child online protection", 
+                    "technical measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "following actions"
+                    }, 
+                    {
+                        "regulation and compliance": "following actions"
+                    }, 
+                    {
+                        "national legislation": "following actions"
+                    }, 
+                    {
+                        "cirt": "computer emergency response"
+                    }, 
+                    {
+                        "manpower development": "computer emergency response"
+                    }, 
+                    {
+                        "institutional support": "computer emergency response"
+                    }, 
+                    {
+                        "reporting mechanism": "computer emergency response"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "national legislation", 
+                    "cirt", 
+                    "manpower development", 
+                    "institutional support", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "The following actions are necessary to ensure the coordination in cyber security field: Further development of the Computer Emergency Response Team (CERT.GOV.GE); Establishment of the 24/7 high-tech crime (cybercrime) international contact point as required by the 2001Convention against Cybercrime; Designation of the expert support team/unit in cybercrime cases; Establishment of the format and modalities for public-private cooperation."
+    }, 
+    {
+        "sentence_id,": "d28d9a7938", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building", 
+                    "cooperation", 
+                    "legal measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "manpower development": "raise"
+                    }, 
+                    {
+                        "manpower development": "public awareness"
+                    }, 
+                    {
+                        "manpower development": "public awareness"
+                    }, 
+                    {
+                        "public sector partnership": "public awareness"
+                    }, 
+                    {
+                        "public sector partnership": "public awareness"
+                    }, 
+                    {
+                        "regulation and compliance": "awareness and education"
+                    }, 
+                    {
+                        "manpower development": "awareness and education"
+                    }, 
+                    {
+                        "un convention and protocol": "awareness and education"
+                    }
+                ], 
+                "subcategory": [
+                    "manpower development", 
+                    "public sector partnership", 
+                    "regulation and compliance", 
+                    "un convention and protocol"
+                ]
+            }
+        ], 
+        "sentence": "Public awareness and education An important part of the Cyber Security Strategy of Georgia is to raise the public awareness and increase relevant professional capacity."
+    }, 
+    {
+        "sentence_id,": "f746bd8b53", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "cooperation", 
+                    "legal measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "cirt": "handling"
+                    }, 
+                    {
+                        "standards": "handling"
+                    }, 
+                    {
+                        "certification": "handling"
+                    }, 
+                    {
+                        "policy": "handling"
+                    }, 
+                    {
+                        "responsible agency": "handling"
+                    }, 
+                    {
+                        "national benchmarking": "handling"
+                    }, 
+                    {
+                        "intra-agency cooperation": "handling"
+                    }, 
+                    {
+                        "international cooperation": "handling"
+                    }, 
+                    {
+                        "regulation and compliance": "electronic evidence"
+                    }, 
+                    {
+                        "standardisation development": "research projects"
+                    }, 
+                    {
+                        "manpower development": "public awareness"
+                    }, 
+                    {
+                        "public sector partnership": "public awareness"
+                    }
+                ], 
+                "subcategory": [
+                    "cirt", 
+                    "standards", 
+                    "certification", 
+                    "policy", 
+                    "responsible agency", 
+                    "national benchmarking", 
+                    "intra-agency cooperation", 
+                    "international cooperation", 
+                    "regulation and compliance", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "In this regard, it is important to undertake the following actions: Establishment of the public awareness and educational programs on cyber security; 6 Training of the staff and technical personnel of the critical information system subjects and other interested organizations in order to learn international and local standards of information security; Training of the specialized cybercrime experts in the area of handling electronic evidence (cyber forensics); Support the science and research projects in cyber security; Creation of the research lab."
+    }, 
+    {
+        "sentence_id,": "6ff7492ed2", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "international cooperation"
+                    }, 
+                    {
+                        "standards": "international cooperation"
+                    }, 
+                    {
+                        "standards": "international organizations"
+                    }, 
+                    {
+                        "professional certification": "international cooperation"
+                    }, 
+                    {
+                        "professional certification": "international cooperation"
+                    }, 
+                    {
+                        "professional certification": "international organizations"
+                    }, 
+                    {
+                        "agency certification": "international cooperation"
+                    }, 
+                    {
+                        "agency certification": "international cooperation"
+                    }, 
+                    {
+                        "agency certification": "international organizations"
+                    }, 
+                    {
+                        "international cooperation": "international cooperation"
+                    }, 
+                    {
+                        "international cooperation": "international cooperation"
+                    }, 
+                    {
+                        "international cooperation": "international organizations"
+                    }, 
+                    {
+                        "international cooperation": "active participation"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "professional certification", 
+                    "agency certification", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "4.5. International cooperation To develop the international cooperation in cyber security Georgia undertakes the following actions: Strengthening relations on cyber security issues with international organizations (OECD, EU, OSCE, NATO, UN, ITU) working in cyber security field as well as relevant national authorities; Active participation in international activities related to cyber security and support of the relevant initiatives on a regional scale; Initiating bilateral and multilateral cooperation with national CERTs in the area of cyber security."
+    }, 
+    {
+        "sentence_id,": "1cc99f9f91", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "implementing"
+                    }, 
+                    {
+                        "standards": "implementing"
+                    }, 
+                    {
+                        "responsible agency": "implementing"
+                    }, 
+                    {
+                        "responsible agency": "implementing"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "responsible agency"
+                ]
+            }
+        ], 
+        "sentence": "Agencies responsible for implementation of the Strategy will take into account actions necessary for implementing this Strategy within relevant policy areas."
+    }, 
+    {
+        "sentence_id,": "0a35882e14", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "strategy implementation"
+                    }, 
+                    {
+                        "policy": "strategy implementation"
+                    }, 
+                    {
+                        "policy": "strategic documents"
+                    }, 
+                    {
+                        "responsible agency": "strategy implementation"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "policy", 
+                    "responsible agency"
+                ]
+            }
+        ], 
+        "sentence": "Results of the Strategy implementation will be assessed annually and the annual assessment report will be presented to the Permanent Inter-agency Commission for coordination of drafting national security strategic documents at the National Security Council of Georgia."
+    }, 
+    {
+        "sentence_id,": "984a5736aa", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "draft"
+                    }, 
+                    {
+                        "regulation and compliance": "draft"
+                    }, 
+                    {
+                        "cirt": "objects"
+                    }, 
+                    {
+                        "certification": "draft"
+                    }, 
+                    {
+                        "policy": "draft"
+                    }, 
+                    {
+                        "manpower development": "experience"
+                    }, 
+                    {
+                        "public sector partnership": "experience"
+                    }, 
+                    {
+                        "public sector partnership": "objects"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "cirt", 
+                    "certification", 
+                    "policy", 
+                    "manpower development", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "8 Draft Action Plan for the Cyber Security Strategy of Georgia (20122015) # Goal Activity Period Responsible agency 1 Research and analysis 1.1 Study of other states' best practices and sharing 2012 experience 1.2 Research into criteria and standards for identifying Agency 2012 objects of critical information systems 1.3 Resiliency analysis of critical information systems Data Exchange Data Exchange Agency 2012 Data Exchange Agency 1.4 Analysis of the problems in the region regarding the 2012- Data Exchange cyber security."
+    }, 
+    {
+        "sentence_id,": "f9db0ff1aa", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "draft"
+                    }, 
+                    {
+                        "criminal legislation": "draft"
+                    }, 
+                    {
+                        "criminal legislation": "draft"
+                    }, 
+                    {
+                        "regulation and compliance": "draft"
+                    }, 
+                    {
+                        "regulation and compliance": "draft"
+                    }, 
+                    {
+                        "regulation and compliance": "draft"
+                    }, 
+                    {
+                        "cirt": "handling"
+                    }, 
+                    {
+                        "standards": "handling"
+                    }, 
+                    {
+                        "certification": "draft"
+                    }, 
+                    {
+                        "certification": "draft"
+                    }, 
+                    {
+                        "certification": "draft"
+                    }, 
+                    {
+                        "certification": "handling"
+                    }, 
+                    {
+                        "policy": "draft"
+                    }, 
+                    {
+                        "policy": "draft"
+                    }, 
+                    {
+                        "policy": "draft"
+                    }, 
+                    {
+                        "policy": "handling"
+                    }, 
+                    {
+                        "responsible agency": "handling"
+                    }, 
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "responsible agency": "affairs"
+                    }, 
+                    {
+                        "national benchmarking": "handling"
+                    }, 
+                    {
+                        "standardisation development": "affairs"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }, 
+                    {
+                        "manpower development": "affairs"
+                    }, 
+                    {
+                        "intra-agency cooperation": "handling"
+                    }, 
+                    {
+                        "intra-agency cooperation": "affairs"
+                    }, 
+                    {
+                        "international cooperation": "handling"
+                    }, 
+                    {
+                        "criminal legislation": "legislative framework"
+                    }, 
+                    {
+                        "criminal legislation": "legal basis"
+                    }, 
+                    {
+                        "criminal legislation": "cybercrime cases"
+                    }, 
+                    {
+                        "criminal legislation": "digital evidence"
+                    }, 
+                    {
+                        "regulation and compliance": "legislative framework"
+                    }, 
+                    {
+                        "regulation and compliance": "legal basis"
+                    }, 
+                    {
+                        "regulation and compliance": "digital evidence"
+                    }, 
+                    {
+                        "cirt": "legal basis"
+                    }, 
+                    {
+                        "standards": "legislative framework"
+                    }, 
+                    {
+                        "standards": "international cooperation"
+                    }, 
+                    {
+                        "standards": "international organizations"
+                    }, 
+                    {
+                        "certification": "legislative framework"
+                    }, 
+                    {
+                        "certification": "digital evidence"
+                    }, 
+                    {
+                        "policy": "recovery plans"
+                    }, 
+                    {
+                        "roadmap for governance": "recovery plans"
+                    }, 
+                    {
+                        "responsible agency": "digital evidence"
+                    }, 
+                    {
+                        "standardisation development": "research projects"
+                    }, 
+                    {
+                        "manpower development": "public awareness"
+                    }, 
+                    {
+                        "manpower development": "public awareness"
+                    }, 
+                    {
+                        "professional certification": "international cooperation"
+                    }, 
+                    {
+                        "professional certification": "international organizations"
+                    }, 
+                    {
+                        "agency certification": "international cooperation"
+                    }, 
+                    {
+                        "agency certification": "digital evidence"
+                    }, 
+                    {
+                        "agency certification": "international organizations"
+                    }, 
+                    {
+                        "public sector partnership": "public awareness"
+                    }, 
+                    {
+                        "public sector partnership": "public awareness"
+                    }, 
+                    {
+                        "international cooperation": "international cooperation"
+                    }, 
+                    {
+                        "international cooperation": "international organizations"
+                    }, 
+                    {
+                        "international cooperation": "active participation"
+                    }, 
+                    {
+                        "national legislation": "legislative framework"
+                    }, 
+                    {
+                        "cirt": "computer emergency response"
+                    }, 
+                    {
+                        "manpower development": "computer emergency response"
+                    }, 
+                    {
+                        "institutional support": "computer emergency response"
+                    }, 
+                    {
+                        "reporting mechanism": "computer emergency response"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "cirt", 
+                    "standards", 
+                    "certification", 
+                    "policy", 
+                    "responsible agency", 
+                    "national benchmarking", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "intra-agency cooperation", 
+                    "international cooperation", 
+                    "roadmap for governance", 
+                    "professional certification", 
+                    "agency certification", 
+                    "public sector partnership", 
+                    "national legislation", 
+                    "institutional support", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "2013 Agency 2.1 Initiating legislative acts on information security 2012 Ministry of Justice 2.2 Laying down regulatory framework for identifying 2012- Ministry of Justice critical information systems and actions necessary for 2013 2 New legislative framework ensuring cyber security 9 Draft 2.3 Ensuring legal basis for Computer Emergency Response 2012 Ministry of Justice 2012 Parliament Identifying, by legal act, an agency or agencies whose 2012- Relevant state competence includes designation of information security 2013 agencies Developing cyber security disaster recovery plans and 2013- Relevant state procedures 2015 agencies Further development of the Computer Emergency 2012 Data Exchange Team operations 2.4 Ratification of the 2001 Council of Europe Convention Against Cybercrime 2.5 policies and undertaking coordinating functions 2.6 3 Institutional coordination in cyber security 3.1 Response Team (CERT.GOV.GE) 3.2 Agency Establishment of the 24/7 high-tech crime (cybercrime) 2012- Ministry of international contact point as required by the 2013 Internal Affairs 2013 Relevant state 2001Convention against Cybercrime 3.3 Designation of the expert support team/unit in cybercrime cases 3.4 4 agencies Establishing format and modalities for public-private 2013- Data Exchange cooperation 2014 Agency Public awareness and 10 Draft education 4.1 Establishment of public awareness and educational 2012- Data Exchange programs on cyber security 2015 Agency, Ministry of Education and Science and international assistance 4.2 Training of staff and technical personnel of critical 2012- Data Exchange information system subjects and other interested 2015 Agency and organizations in international and local standards of international information security 4.3 assistance Specialized training of cybercrime experts in handling 2012- Relevant state digital evidence (cyber forensics) 2015 agencies and international assistance 4.4 Facilitating science and research projects in cyber 2012- Data Exchange security 2015 Agency, Ministry of Education and Science and international assistance 4.5 Creation of the research lab 2014- Relevant state 2015 agencies and international 11 Draft assistance 5 International cooperation 5.1 Strengthening relations in cyber security matters with 2012- Ministry of international organizations working in cyber security 2015 Foreign Affairs, (OECD, EU, OSCE, NATO, UN, ITU) as well as relevant Data Exchange national authorities Agency, National Security Council administration, other state agencies 5.2 Active participation in international activities related to 2012- Ministry of cyber security and supporting relevant initiatives on a 2015 Foreign Affairs, regional scale Data Exchange Agency, National Security Council administration, other state agencies 5.3 Initiating bilateral and multilateral cooperation with 2012- Data Exchange national CERTs in the area of cyber security 2015 Agency and CERT Georgia 12"
+    }
+]

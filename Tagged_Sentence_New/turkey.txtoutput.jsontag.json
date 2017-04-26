@@ -1,0 +1,4624 @@
+[
+    {
+        "sentence_id,": "e705a98be4", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "responsible agency": "affairs"
+                    }, 
+                    {
+                        "standardisation development": "affairs"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }, 
+                    {
+                        "manpower development": "affairs"
+                    }, 
+                    {
+                        "intra-agency cooperation": "affairs"
+                    }
+                ], 
+                "subcategory": [
+                    "responsible agency", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "intra-agency cooperation"
+                ]
+            }
+        ], 
+        "sentence": "REPUBLIC OF TURKEY Ministry of Transport, Maritime Affairs and Communications National Cyber Security Strategy and 2013-2014 Action Plan [The page intentionally left blank.]"
+    }, 
+    {
+        "sentence_id,": "2c2b63f0d3", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "principles"
+                    }, 
+                    {
+                        "responsible agency": "principles"
+                    }, 
+                    {
+                        "reporting mechanism": "contents"
+                    }
+                ], 
+                "subcategory": [
+                    "policy", 
+                    "responsible agency", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "National Cyber Security Strategy and 2013-2014 Action Plan 2/47 CONTENTS 1 Introduction 5 Definitions Objective Scope Update 8 10 10 10 2 Cyber Security Risks 12 3 Principles 15 4 Strategic Cyber Security Actions 17 5 National Cyber Security Action Plan for the Term 2013 -2014 22 1.1 1.2 1.3 1.4 5.1 5.2 5.3 5.4 5.5 5.6 5.7 Carrying out Legislative Activities Carrying Out the Activities That Will Help with Judicial Processes Creating the National Cyber Incidents Response Organization Strengthening the National Cyber Security Infrastructure Human Resources Education and Awareness-Raising Activities on Cyber Security Developing National Technologies in Cyber Security Extending the Scope of the National Security Mechanisms National Cyber Security Strategy and 2013-2014 Action Plan 23 25 26 28 38 43 46 3/47 [The page intentionally left blank.]"
+    }, 
+    {
+        "sentence_id,": "6bbdf862c1", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "national benchmarking": "use of information"
+                    }
+                ], 
+                "subcategory": [
+                    "national benchmarking"
+                ]
+            }
+        ], 
+        "sentence": "National Cyber Security Strategy and 2013-2014 Action Plan 4/47 1 Introduction In Turkey, the use of information and communication technologies (ICTs) has been spreading rapidly and ICTs are playing important roles in all aspects of our lives."
+    }, 
+    {
+        "sentence_id,": "d01173187f", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "capacity building", 
+                    "cooperation", 
+                    "child online protection", 
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "cirt": "addition"
+                    }, 
+                    {
+                        "standardisation development": "addition"
+                    }, 
+                    {
+                        "manpower development": "addition"
+                    }, 
+                    {
+                        "intra-state cooperation": "addition"
+                    }, 
+                    {
+                        "institutional support": "addition"
+                    }, 
+                    {
+                        "policy": "financial services"
+                    }, 
+                    {
+                        "international cooperation": "financial services"
+                    }, 
+                    {
+                        "policy": "critical infrastructure sectors"
+                    }, 
+                    {
+                        "intra-agency cooperation": "critical infrastructure sectors"
+                    }, 
+                    {
+                        "public sector partnership": "critical infrastructure sectors"
+                    }
+                ], 
+                "subcategory": [
+                    "cirt", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "intra-state cooperation", 
+                    "institutional support", 
+                    "policy", 
+                    "international cooperation", 
+                    "intra-agency cooperation", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "In addition to public sector organizations, organizations which provide services in critical infrastructure sectors like energy, water resources, health, transportation, communication and financial services have also been heavily using information and communication systems."
+    }, 
+    {
+        "sentence_id,": "19f6408b65", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "These systems improve the quality and the speed of the services being provided, thus helping organizations work more productively, contributing to the improvement of living standards."
+    }, 
+    {
+        "sentence_id,": "78d6ffd4fa", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "As our public sector organizations use ICTs to provide services at an increased rate, it has become an important aspect of our national security and competitiveness to ensure the security of information and communication technologies."
+    }, 
+    {
+        "sentence_id,": "01895380c0", 
+        "tag": [
+            {
+                "category": [
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "institutional support": "abuse"
+                    }, 
+                    {
+                        "reporting mechanism": "abuse"
+                    }
+                ], 
+                "subcategory": [
+                    "institutional support", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "The vulnerabilities inherent in ICTs may cause denial of service or abuse of service attacks, resulting in potential loss of lives, high scale economic losses, disturbance of public order and/or threats to national security."
+    }, 
+    {
+        "sentence_id,": "6f938867ff", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "capacity building", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "certification": "offers"
+                    }, 
+                    {
+                        "manpower development": "offers"
+                    }, 
+                    {
+                        "institutional support": "offers"
+                    }, 
+                    {
+                        "reporting mechanism": "offers"
+                    }
+                ], 
+                "subcategory": [
+                    "certification", 
+                    "manpower development", 
+                    "institutional support", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "It is a fact that cyber space offers opportunities of anonymity and deniability for attacks on information systems and data."
+    }, 
+    {
+        "sentence_id,": "627e88a481", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The tools and knowledge required for attacks are often cheap and easy to get, and it has been observed that anyone or any systems across the world can participate in cyber-attacks, either knowingly or unknowingly."
+    }, 
+    {
+        "sentence_id,": "6651231158", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "regulation and compliance": "systems and data"
+                    }, 
+                    {
+                        "un convention and protocol": "systems and data"
+                    }
+                ], 
+                "subcategory": [
+                    "regulation and compliance", 
+                    "un convention and protocol"
+                ]
+            }
+        ], 
+        "sentence": "And it is deemed almost impossible to determine who finances and organizes these enduring and advanced cyber-attacks that target the National Cyber Security Strategy and 2013-2014 Action Plan 5/47 information systems and data of critical infrastructures."
+    }, 
+    {
+        "sentence_id,": "82c455dc6c", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "regulation and compliance": "risks and threats"
+                    }, 
+                    {
+                        "un convention and protocol": "risks and threats"
+                    }
+                ], 
+                "subcategory": [
+                    "regulation and compliance", 
+                    "un convention and protocol"
+                ]
+            }
+        ], 
+        "sentence": "These facts and conditions reveal the asymmetrical nature of the risks and threats in cyber space, making them even more difficult to tackle."
+    }, 
+    {
+        "sentence_id,": "efe8574048", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "In light of this context, the Decision made by the Council of Ministers on the Execution, Management and Coordination of National Cyber Security Activities was published in the Official Gazette dated 20th October 2012, numbered 28447 and came into force."
+    }, 
+    {
+        "sentence_id,": "ad98c4c13e", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "regulation and compliance": "minister"
+                    }, 
+                    {
+                        "regulation and compliance": "minister"
+                    }, 
+                    {
+                        "policy": "minister"
+                    }, 
+                    {
+                        "policy": "minister"
+                    }, 
+                    {
+                        "policy": "principles"
+                    }, 
+                    {
+                        "roadmap for governance": "minister"
+                    }, 
+                    {
+                        "roadmap for governance": "minister"
+                    }, 
+                    {
+                        "responsible agency": "minister"
+                    }, 
+                    {
+                        "responsible agency": "minister"
+                    }, 
+                    {
+                        "responsible agency": "affairs"
+                    }, 
+                    {
+                        "responsible agency": "affairs"
+                    }, 
+                    {
+                        "responsible agency": "affairs"
+                    }, 
+                    {
+                        "responsible agency": "principles"
+                    }, 
+                    {
+                        "standardisation development": "affairs"
+                    }, 
+                    {
+                        "standardisation development": "affairs"
+                    }, 
+                    {
+                        "standardisation development": "affairs"
+                    }, 
+                    {
+                        "manpower development": "affairs"
+                    }, 
+                    {
+                        "manpower development": "affairs"
+                    }, 
+                    {
+                        "manpower development": "affairs"
+                    }, 
+                    {
+                        "intra-agency cooperation": "affairs"
+                    }, 
+                    {
+                        "intra-agency cooperation": "affairs"
+                    }, 
+                    {
+                        "intra-agency cooperation": "affairs"
+                    }, 
+                    {
+                        "reporting mechanism": "minister"
+                    }, 
+                    {
+                        "reporting mechanism": "minister"
+                    }
+                ], 
+                "subcategory": [
+                    "regulation and compliance", 
+                    "policy", 
+                    "roadmap for governance", 
+                    "responsible agency", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "intra-agency cooperation", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "Pursuant to this cabinet decision; In order to determine the precautions to be taken for cyber security, to approve - and to ensure implementation and coordination of - the plans, schedules, reports, procedures, principles and standards that have been prepared, a Cyber Security Council has been established, which is to be presided by the Minister of Transport, Maritime Affairs and Communications and which is to consist of the undersecretaries of the Ministries of Foreign Affairs, Interior, National Defense, Transport, Maritime Affairs and Communications, including the undersecretaries of Public Order and Security, National Intelligence Organization, Head of Communication, Electronic and Information Systems of Turkish General Staff, Head of Information And Communication Technologies Authority, Head of The - Scientific And Technological Research Council, Head of Financial Crimes Investigation Council, Telecommunications Communication Presidency and the top managers of the ministries and the public National Cyber Security Strategy and 2013-2014 Action Plan 6/47 organizations that are to be determined by the Minister of Transport, Maritime Affairs and Communications."
+    }, 
+    {
+        "sentence_id,": "abf92f704f", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "responsible agency": "affairs"
+                    }, 
+                    {
+                        "standardisation development": "affairs"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }, 
+                    {
+                        "manpower development": "affairs"
+                    }, 
+                    {
+                        "intra-agency cooperation": "affairs"
+                    }, 
+                    {
+                        "policy": "action plans"
+                    }, 
+                    {
+                        "roadmap for governance": "action plans"
+                    }
+                ], 
+                "subcategory": [
+                    "responsible agency", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "intra-agency cooperation", 
+                    "policy", 
+                    "roadmap for governance"
+                ]
+            }
+        ], 
+        "sentence": "The cabinet decision has also assigned to the Ministry of Transport, Maritime Affairs and Communications the duty to prepare policies, strategies and action plans on ensuring cyber security at the national level."
+    }, 
+    {
+        "sentence_id,": "ea5b61ed3c", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "cirt": "perform"
+                    }, 
+                    {
+                        "policy": "principles"
+                    }, 
+                    {
+                        "responsible agency": "principles"
+                    }, 
+                    {
+                        "national benchmarking": "perform"
+                    }, 
+                    {
+                        "policy": "action plans"
+                    }, 
+                    {
+                        "roadmap for governance": "action plans"
+                    }
+                ], 
+                "subcategory": [
+                    "cirt", 
+                    "policy", 
+                    "responsible agency", 
+                    "national benchmarking", 
+                    "roadmap for governance"
+                ]
+            }
+        ], 
+        "sentence": "All public organizations and agencies, natural and legal persons, are obliged to perform the duties assigned in the framework of the policies, strategies and action plans determined by the Cyber Security Council, and to comply with the procedures, principles and standards that were also determined by the Council."
+    }, 
+    {
+        "sentence_id,": "e085a495a0", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "defines"
+                    }, 
+                    {
+                        "policy": "defines"
+                    }, 
+                    {
+                        "standardisation development": "defines"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "policy", 
+                    "standardisation development"
+                ]
+            }
+        ], 
+        "sentence": "The action plan which was prepared pursuant to this decision defines the activities intended to be carried out within the term 2013-2014, and it also includes the periodical activities beyond these terms as well as the activities that should always be carried out such as training and awareness-raising activities."
+    }, 
+    {
+        "sentence_id,": "60d0318c65", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "National Cyber Security Strategy and 2013-2014 Action Plan 7/47 1.1 Definitions The concepts used in this document, refer to the following meanings; Information systems: The systems involved in providing services, processes and data by means of information and communication technologies."
+    }, 
+    {
+        "sentence_id,": "4655ed194f", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "regulation and compliance": "organizations and agencies"
+                    }, 
+                    {
+                        "un convention and protocol": "organizations and agencies"
+                    }
+                ], 
+                "subcategory": [
+                    "regulation and compliance", 
+                    "un convention and protocol"
+                ]
+            }
+        ], 
+        "sentence": "Cyber space: The environment which consists of information systems that span across the world including the networks that interconnect these systems, Information systems of public organizations: The information systems which belong to and/or are operated by the public organizations and agencies of the Turkish Republic, Information systems of natural and legal persons: The information systems which belong to and/or are operated by the natural and legal persons, subjected to the laws of the Turkish Republic."
+    }, 
+    {
+        "sentence_id,": "52c076d050", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "regulation and compliance": "systems and data"
+                    }, 
+                    {
+                        "un convention and protocol": "systems and data"
+                    }
+                ], 
+                "subcategory": [
+                    "regulation and compliance", 
+                    "un convention and protocol"
+                ]
+            }
+        ], 
+        "sentence": "National cyber space: The environment which consists of the information systems that belong to public organizations, natural and legal persons, Confidentiality: Information systems and data can be accessed by authorized persons or systems only, and the confidential information pertaining to information systems or confidential information in the system will not be disclosed by unauthorized persons or systems."
+    }, 
+    {
+        "sentence_id,": "0591a1662e", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "capacity building", 
+                    "cooperation", 
+                    "child online protection", 
+                    "legal measures"
+                ], 
+                "keywords": [
+                    {
+                        "cirt": "host"
+                    }, 
+                    {
+                        "manpower development": "host"
+                    }, 
+                    {
+                        "public sector partnership": "countermeasures"
+                    }, 
+                    {
+                        "international cooperation": "host"
+                    }, 
+                    {
+                        "international cooperation": "accessibility"
+                    }, 
+                    {
+                        "international cooperation": "accessibility"
+                    }, 
+                    {
+                        "international cooperation": "accessibility"
+                    }, 
+                    {
+                        "institutional support": "host"
+                    }, 
+                    {
+                        "regulation and compliance": "protection of information"
+                    }, 
+                    {
+                        "regulation and compliance": "systems and information"
+                    }, 
+                    {
+                        "national legislation": "protection of information"
+                    }, 
+                    {
+                        "un convention and protocol": "systems and information"
+                    }
+                ], 
+                "subcategory": [
+                    "cirt", 
+                    "manpower development", 
+                    "public sector partnership", 
+                    "international cooperation", 
+                    "institutional support", 
+                    "regulation and compliance", 
+                    "national legislation", 
+                    "un convention and protocol"
+                ]
+            }
+        ], 
+        "sentence": "Integrity: Information systems and information can be changed by authorized persons or systems only, National Cyber Security Strategy and 2013-2014 Action Plan 8/47 Accessibility: Authorized persons and transactions can access information systems and the information therein within the required time and quality, Critical infrastructures: The infrastructures which host the information systems that can cause, - Loss of lives, - Large scale economic damages, - Security vulnerabilities and disturbance of public order at national level when the confidentiality, integrity or accessibility of the information they process is compromised, Cyber security incident: Violation of confidentiality, integrity or accessibility of information systems or of the information being processed by these systems, Cyber security: Protection of information systems that make up the cyber space from attacks, ensuring the confidentiality, integrity and accessibility of the information being processed in this space, detection of attacks and cyber security incidents, putting into force the countermeasures against these incidents and then putting these systems back to their states previous to the cyber security incident."
+    }, 
+    {
+        "sentence_id,": "4f1c8cf168", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "National Cyber Security: The cyber security of all services, processes and data and the systems involved in provisioning of these- provided by the information and communication technologies in the national cyber space."
+    }, 
+    {
+        "sentence_id,": "6acf3f12ce", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "capacity building", 
+                    "cooperation", 
+                    "child online protection", 
+                    "organization measures", 
+                    "legal measures"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "create"
+                    }, 
+                    {
+                        "standardisation development": "create"
+                    }, 
+                    {
+                        "manpower development": "create"
+                    }, 
+                    {
+                        "public sector partnership": "create"
+                    }, 
+                    {
+                        "institutional support": "create"
+                    }, 
+                    {
+                        "reporting mechanism": "create"
+                    }, 
+                    {
+                        "policy": "critical infrastructures"
+                    }, 
+                    {
+                        "intra-agency cooperation": "critical infrastructures"
+                    }, 
+                    {
+                        "public sector partnership": "critical infrastructures"
+                    }, 
+                    {
+                        "regulation and compliance": "organizations and agencies"
+                    }, 
+                    {
+                        "regulation and compliance": "investigation and prosecution"
+                    }, 
+                    {
+                        "un convention and protocol": "organizations and agencies"
+                    }, 
+                    {
+                        "un convention and protocol": "investigation and prosecution"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "public sector partnership", 
+                    "institutional support", 
+                    "reporting mechanism", 
+                    "policy", 
+                    "intra-agency cooperation", 
+                    "regulation and compliance", 
+                    "un convention and protocol"
+                ]
+            }
+        ], 
+        "sentence": "National Cyber Security Strategy and 2013-2014 Action Plan 9/47 1.2 Objective The objective of National Cyber Security Strategy and 2013-2014 Action Plan is to create an infrastructure towards achieving; - the cyber security all of services, processes and data and the systems involved in provisioning of these- provided by the public organizations and agencies using information technologies, - the cyber security of information systems of critical infrastructures which are operated by both the public and private sectors, - minimization of the effects of cyber security incidents, determination of strategic cyber security actions to put systems back to their regular operational states as soon as possible following the incidents, and help with better investigation and prosecution of the incident by law enforcement and judicial authorities."
+    }, 
+    {
+        "sentence_id,": "209cb18d0c", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "critical infrastructures"
+                    }, 
+                    {
+                        "intra-agency cooperation": "critical infrastructures"
+                    }, 
+                    {
+                        "public sector partnership": "critical infrastructures"
+                    }
+                ], 
+                "subcategory": [
+                    "policy", 
+                    "intra-agency cooperation", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "1.3 Scope The National Cyber Security Strategy and 2013-2014 Action Plan includes the information systems of public organizations and the information systems that belong to critical infrastructures operated by both the public and private sectors."
+    }, 
+    {
+        "sentence_id,": "85950b452a", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "1.4 Update National Cyber Security Strategy and 2013-2014 Action Plan will be updated at least once a year in a coordinated way at national level, taking into account the National Cyber Security Strategy and 2013-2014 Action Plan 10/47 requests from the public and private sectors, and considering also the changing conditions and needs."
+    }, 
+    {
+        "sentence_id,": "5a6be4ca8e", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "National Cyber Security Strategy and 2013-2014 Action Plan 11/47 2 Cyber Security Risks The risks related to cyber security should realistically be determined in order for the strategic cyber-security actions to be determined in the best way."
+    }, 
+    {
+        "sentence_id,": "bcfa926064", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The threat is asymmetrical as cyber space provides opportunities of anonymity and deniability for attacks on information systems and data, and the tools and knowledge required for attacks are often cheap and easy to get, and anyone or any systems across the world can participate in cyber-attacks, either knowingly or unknowingly."
+    }, 
+    {
+        "sentence_id,": "831e2d1552", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "cooperation", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "cirt": "malware"
+                    }, 
+                    {
+                        "intra-agency cooperation": "malware"
+                    }, 
+                    {
+                        "public sector partnership": "malware"
+                    }, 
+                    {
+                        "institutional support": "harm"
+                    }, 
+                    {
+                        "reporting mechanism": "harm"
+                    }
+                ], 
+                "subcategory": [
+                    "cirt", 
+                    "intra-agency cooperation", 
+                    "public sector partnership", 
+                    "institutional support", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "Any information system can harm another due to the structure of the cyber space that is open to integrated and uninterrupted communication and due to the malware and other similar threat agents existing in the cyber space."
+    }, 
+    {
+        "sentence_id,": "70b3b371d3", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Most of the critical services to the populations today are provided and managed by information systems."
+    }, 
+    {
+        "sentence_id,": "8c255feb11", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Lack of coordination amongst the partner organizations at the national level in the field of cyber security."
+    }, 
+    {
+        "sentence_id,": "b4ddb83042", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures"
+                ], 
+                "keywords": [
+                    {
+                        "certification": "reputation"
+                    }
+                ], 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "Attacks in cyber space to individuals or public agencies go unreported due to the fear of damage to reputation or due to other reasons."
+    }, 
+    {
+        "sentence_id,": "d46ba864bd", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Public organizations are not sufficiently structured towards achieving cyber security, and the issue of cyber security is regarded as a responsibility of the IT departments only."
+    }, 
+    {
+        "sentence_id,": "bb03451547", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "There is not enough national manufacturing in terms of hardware and software."
+    }, 
+    {
+        "sentence_id,": "0bdee2da7b", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Cyber security should be ensured by methods which are based on risk management and continual improvement."
+    }, 
+    {
+        "sentence_id,": "ea2482adf6", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "capacity building", 
+                    "cooperation", 
+                    "child online protection", 
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "cirt": "addition"
+                    }, 
+                    {
+                        "standardisation development": "addition"
+                    }, 
+                    {
+                        "manpower development": "addition"
+                    }, 
+                    {
+                        "intra-state cooperation": "addition"
+                    }, 
+                    {
+                        "institutional support": "addition"
+                    }, 
+                    {
+                        "policy": "an integrated approach"
+                    }, 
+                    {
+                        "manpower development": "an integrated approach"
+                    }, 
+                    {
+                        "public sector partnership": "an integrated approach"
+                    }
+                ], 
+                "subcategory": [
+                    "cirt", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "intra-state cooperation", 
+                    "institutional support", 
+                    "policy", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "For cyber security, in addition to the technical dimension, an integrated approach should be adopted that would involve determining strong and weak sides in legal, administrative, economic, political and social dimensions, including threats and opportunities."
+    }, 
+    {
+        "sentence_id,": "91e47867d3", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Risk management should be based on the elements of removing technical vulnerabilities, preventing attacks and threats, and minimizing the potential damages."
+    }, 
+    {
+        "sentence_id,": "79559b97b5", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "cirt": "perform"
+                    }, 
+                    {
+                        "national benchmarking": "perform"
+                    }
+                ], 
+                "subcategory": [
+                    "cirt", 
+                    "national benchmarking"
+                ]
+            }
+        ], 
+        "sentence": "It should be regarded essential that individuals, organizations, societies and governments should perform all their legal and social responsibilities towards achieving cyber security."
+    }, 
+    {
+        "sentence_id,": "63ce622f12", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "international cooperation"
+                    }, 
+                    {
+                        "professional certification": "international cooperation"
+                    }, 
+                    {
+                        "agency certification": "international cooperation"
+                    }, 
+                    {
+                        "international cooperation": "international cooperation"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "professional certification", 
+                    "agency certification", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "It is regarded as essential that cooperation should be made with the public and private sectors, universities and non-governmental organizations, National Cyber Security Strategy and 2013-2014 Action Plan 15/47 furthermore, international cooperation and information sharing should be ensured in achieving and maintaining cyber space security."
+    }, 
+    {
+        "sentence_id,": "f9567b2002", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "international cooperation"
+                    }, 
+                    {
+                        "professional certification": "international cooperation"
+                    }, 
+                    {
+                        "agency certification": "international cooperation"
+                    }, 
+                    {
+                        "international cooperation": "international cooperation"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "professional certification", 
+                    "agency certification", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "It is regarded as essential that diplomatic, technical and law enforcement communication channels should be used continually and effectively for international cooperation and information sharing."
+    }, 
+    {
+        "sentence_id,": "24f4e84c5a", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "8. International agreements and regulations should be taken into account while the needed legislative actions are carried out."
+    }, 
+    {
+        "sentence_id,": "0a351276f3", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "child online protection", 
+                    "legal measures"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "principles"
+                    }, 
+                    {
+                        "responsible agency": "principles"
+                    }, 
+                    {
+                        "un convention and protocol": "human rights"
+                    }, 
+                    {
+                        "regulation and compliance": "rights and freedoms"
+                    }, 
+                    {
+                        "un convention and protocol": "rights and freedoms"
+                    }
+                ], 
+                "subcategory": [
+                    "policy", 
+                    "responsible agency", 
+                    "un convention and protocol", 
+                    "regulation and compliance"
+                ]
+            }
+        ], 
+        "sentence": "The principles of rule of law, fundamental human rights and freedoms and protection of privacy should be accepted as essential principles."
+    }, 
+    {
+        "sentence_id,": "b7cd5ac632", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Transparency, accountability, ethical values and freedom of speech should be supported in cyber space."
+    }, 
+    {
+        "sentence_id,": "1bb5259e9b", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "11.A balance should be kept between security and usability."
+    }, 
+    {
+        "sentence_id,": "990aacea93", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Auditing and regulatory organizations should take care of ensuring cyber security in areas which they are responsible for."
+    }, 
+    {
+        "sentence_id,": "2035ec25bf", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "regulation and compliance": "concept"
+                    }, 
+                    {
+                        "policy": "concept"
+                    }, 
+                    {
+                        "national benchmarking": "development projects"
+                    }, 
+                    {
+                        "standardisation development": "development projects"
+                    }, 
+                    {
+                        "manpower development": "development projects"
+                    }, 
+                    {
+                        "regulation and compliance": "research and development"
+                    }, 
+                    {
+                        "regulation and compliance": "products and services"
+                    }, 
+                    {
+                        "standardisation development": "research and development"
+                    }, 
+                    {
+                        "un convention and protocol": "research and development"
+                    }, 
+                    {
+                        "un convention and protocol": "products and services"
+                    }
+                ], 
+                "subcategory": [
+                    "regulation and compliance", 
+                    "policy", 
+                    "national benchmarking", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "un convention and protocol"
+                ]
+            }
+        ], 
+        "sentence": "Use of national products and services should be encouraged in meeting the requirements of cyber security, and research and development projects should be endorsed for developing these, and the concept of innovation should be regarded as essential."
+    }, 
+    {
+        "sentence_id,": "8b73c99399", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "National Cyber Security Strategy and 2013-2014 Action Plan 16/47 4 Strategic Cyber Security Actions Overcoming the threats in cyber space which have been increasing every day and minimizing the vulnerabilities within the national cyber space as much as possible are of utmost importance for progressing towards an information society which we have aimed to reach as a nation."
+    }, 
+    {
+        "sentence_id,": "4e00c7dee0", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "technical measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "roadmap for governance": "achieve"
+                    }, 
+                    {
+                        "certification": "high quality"
+                    }, 
+                    {
+                        "manpower development": "high quality"
+                    }
+                ], 
+                "subcategory": [
+                    "roadmap for governance", 
+                    "certification", 
+                    "manpower development"
+                ]
+            }
+        ], 
+        "sentence": "Effective, high quality and affordable usage of information technologies by all the members of the public is important while evolving into an information society, but it is also very important to achieve cyber security during the usage of these information technologies."
+    }, 
+    {
+        "sentence_id,": "81a8145dea", 
+        "tag": [
+            {
+                "category": [
+                    "cooperation", 
+                    "organization measures", 
+                    "capacity building", 
+                    "legal measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "international cooperation": "accessibility"
+                    }, 
+                    {
+                        "national benchmarking": "economic development"
+                    }, 
+                    {
+                        "standardisation development": "economic development"
+                    }, 
+                    {
+                        "standardisation development": "our country"
+                    }, 
+                    {
+                        "manpower development": "economic development"
+                    }, 
+                    {
+                        "intra-state cooperation": "our country"
+                    }, 
+                    {
+                        "regulation and compliance": "protection of information"
+                    }, 
+                    {
+                        "national legislation": "protection of information"
+                    }
+                ], 
+                "subcategory": [
+                    "international cooperation", 
+                    "national benchmarking", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "intra-state cooperation", 
+                    "regulation and compliance", 
+                    "national legislation"
+                ]
+            }
+        ], 
+        "sentence": "Therefore, cyber security, which is expressed as the protection of information systems as well as the confidentiality, integrity and accessibility of the information being processed by these systems, is a strategic and multi-stakeholder issue that would affect many aspects such as peace and welfare of the society, the economic development and stability of the nation and the national security of our country which has the aim to become an information society."
+    }, 
+    {
+        "sentence_id,": "25d4451c1a", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "cirt": "perform"
+                    }, 
+                    {
+                        "policy": "principles"
+                    }, 
+                    {
+                        "responsible agency": "principles"
+                    }, 
+                    {
+                        "national benchmarking": "perform"
+                    }
+                ], 
+                "subcategory": [
+                    "cirt", 
+                    "policy", 
+                    "responsible agency", 
+                    "national benchmarking"
+                ]
+            }
+        ], 
+        "sentence": "In this framework, it has been determined to perform strategic actions towards achieving national cyber security in the 2013-2014 term, in light of the principles determined above."
+    }, 
+    {
+        "sentence_id,": "f348e828c6", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "chapter"
+                    }, 
+                    {
+                        "national legislation": "chapter"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "national legislation"
+                ]
+            }
+        ], 
+        "sentence": "These actions include sub-actions as required, which are listed in the next chapter with the scheduled deadlines and the responsible/relevant organizations."
+    }, 
+    {
+        "sentence_id,": "8e3aebc93f", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The strategic actions scheduled to be performed in the term 2013-2014 has been grouped under the following titles."
+    }, 
+    {
+        "sentence_id,": "b92ee1a494", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "regulation and compliance": "organizations and agencies"
+                    }, 
+                    {
+                        "un convention and protocol": "organizations and agencies"
+                    }
+                ], 
+                "subcategory": [
+                    "regulation and compliance", 
+                    "un convention and protocol"
+                ]
+            }
+        ], 
+        "sentence": "National Cyber Security Strategy and 2013-2014 Action Plan 17/47 a) Regulatory measures In the 2013-2014 term, the government will start to implement regulatory measures, aiming to define the duties, powers and responsibilities of the public organizations and agencies and to remove the existing problems in achieving national cyber security."
+    }, 
+    {
+        "sentence_id,": "14eb85a77e", 
+        "tag": [
+            {
+                "category": [
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "public sector partnership": "provisions"
+                    }
+                ], 
+                "subcategory": [
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "These actions will be of a nature to support criminal law, civil law, administrative law and the regulation of all procedural provisions thereto."
+    }, 
+    {
+        "sentence_id,": "68f7952e9f", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Also, a dictionary on terms of cyber security is to be prepared to prevent potential conceptual confusions."
+    }, 
+    {
+        "sentence_id,": "b92d3890ff", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "b) Activities to help with judicial processes Regarding cyber-attacks, in the framework of the international legal requirements, the following should be determined to protect the rights of victims; the source of attack, attacking systems and the severity of effect on the end users who receive service from these systems."
+    }, 
+    {
+        "sentence_id,": "2f06ac4d6f", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "In order to produce this information, the national cyberspace should be equipped with reliable recording mechanisms that are compatible with the current technology."
+    }, 
+    {
+        "sentence_id,": "fe6cafa9d1", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "legal measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "cirt": "operate"
+                    }, 
+                    {
+                        "policy": "operate"
+                    }, 
+                    {
+                        "regulation and compliance": "organizations and agencies"
+                    }, 
+                    {
+                        "un convention and protocol": "organizations and agencies"
+                    }
+                ], 
+                "subcategory": [
+                    "cirt", 
+                    "policy", 
+                    "regulation and compliance", 
+                    "un convention and protocol"
+                ]
+            }
+        ], 
+        "sentence": "c) Establishing the National Cyber Incidents Response Organization In the short term, a Cyber Incidents Response Organization that will efficiently operate both nationally and internationally is to be created to quickly determine the threats emerging in cyber space, to develop and to share- precautions for reducing or removing the effects of potential incidentsthus public organizations and agencies will gain the capability to respond to National Cyber Security Strategy and 2013-2014 Action Plan 18/47 cyber security incidents."
+    }, 
+    {
+        "sentence_id,": "4e617eb8a1", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "responsible agency": "incident response"
+                    }, 
+                    {
+                        "reporting mechanism": "incident response"
+                    }
+                ], 
+                "subcategory": [
+                    "responsible agency", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "The National Center for Cyber Incident Response (USOM), which will be available 7/24 to respond to the threats that may affect the country, will be established, and sectoral \"Teams for Responding to Cyber Incidents\" (SOME) will be established which are to work under the coordination of the USOM."
+    }, 
+    {
+        "sentence_id,": "dbfcf116ac", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "manpower development": "awareness raising"
+                    }
+                ], 
+                "subcategory": [
+                    "manpower development"
+                ]
+            }
+        ], 
+        "sentence": "The sectoral SOMEs will respond to cyber incidents and they will also provide information and hold awareness raising activities specific to the SOMEs affiliated to themselves and to the sector which they are responsible for."
+    }, 
+    {
+        "sentence_id,": "ea28d97a51", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "legal measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "cirt": "operate"
+                    }, 
+                    {
+                        "policy": "operate"
+                    }, 
+                    {
+                        "regulation and compliance": "organizations and agencies"
+                    }, 
+                    {
+                        "un convention and protocol": "organizations and agencies"
+                    }
+                ], 
+                "subcategory": [
+                    "cirt", 
+                    "policy", 
+                    "regulation and compliance", 
+                    "un convention and protocol"
+                ]
+            }
+        ], 
+        "sentence": "Also other SOMEs will be established within public organizations and agencies which are to operate under the coordination of sectoral SOMEs."
+    }, 
+    {
+        "sentence_id,": "834894087b", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "law enforcement agencies"
+                    }, 
+                    {
+                        "regulation and compliance": "law enforcement agencies"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance"
+                ]
+            }
+        ], 
+        "sentence": "The USOMs and the SOMEs while responding to incidents - will also act in coordination with judicial authorities and law enforcement agencies to provide the data that will support the investigation."
+    }, 
+    {
+        "sentence_id,": "7031b27148", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "national benchmarking": "other countries"
+                    }, 
+                    {
+                        "standardisation development": "other countries"
+                    }, 
+                    {
+                        "intra-state cooperation": "other countries"
+                    }
+                ], 
+                "subcategory": [
+                    "national benchmarking", 
+                    "standardisation development", 
+                    "intra-state cooperation"
+                ]
+            }
+        ], 
+        "sentence": "As the national contact point, the USOM will be in close cooperation with the equivalent authorities of other countries and international organizations."
+    }, 
+    {
+        "sentence_id,": "2f3800e240", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "d) Strengthening the National Cyber Security Infrastructure In the short and the medium term, all public organizations will have wide ranging infrastructure projects that will support the cyber security of public information systems."
+    }, 
+    {
+        "sentence_id,": "54f4ad6147", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Activities will be held for ensuring cyber security of public organizations, with priority given to information systems of critical infrastructures."
+    }, 
+    {
+        "sentence_id,": "4dfa1c0ad5", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The information systems of key infrastructures, their level of criticality, their relations with one another and the responsible staff will be National Cyber Security Strategy and 2013-2014 Action Plan 19/47 determined."
+    }, 
+    {
+        "sentence_id,": "0aa7b5ec39", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "critical infrastructures"
+                    }, 
+                    {
+                        "intra-agency cooperation": "critical infrastructures"
+                    }, 
+                    {
+                        "public sector partnership": "critical infrastructures"
+                    }
+                ], 
+                "subcategory": [
+                    "policy", 
+                    "intra-agency cooperation", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "The cyber security of the information systems of critical infrastructures will be ensured by both technological precautions and administrative measures and processes."
+    }, 
+    {
+        "sentence_id,": "841f3f7b51", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "To this effect, the proficiency levels of all staff -on cyber security- primarily those of the top managers in public organizations will be increased through trainings with administrative and technological contents."
+    }, 
+    {
+        "sentence_id,": "87b9066c08", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The public organizations which do not have sufficient proficiency in achieving cyber security will be supported with services to be provided in technological and administrative aspects."
+    }, 
+    {
+        "sentence_id,": "e24df2e6c7", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "capacity building", 
+                    "cooperation", 
+                    "child online protection", 
+                    "legal measures"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "create"
+                    }, 
+                    {
+                        "standardisation development": "create"
+                    }, 
+                    {
+                        "manpower development": "create"
+                    }, 
+                    {
+                        "public sector partnership": "create"
+                    }, 
+                    {
+                        "institutional support": "create"
+                    }, 
+                    {
+                        "reporting mechanism": "create"
+                    }, 
+                    {
+                        "manpower development": "awareness raising"
+                    }, 
+                    {
+                        "regulation and compliance": "education and awareness"
+                    }, 
+                    {
+                        "manpower development": "education and awareness"
+                    }, 
+                    {
+                        "un convention and protocol": "education and awareness"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "public sector partnership", 
+                    "institutional support", 
+                    "reporting mechanism", 
+                    "regulation and compliance", 
+                    "un convention and protocol"
+                ]
+            }
+        ], 
+        "sentence": "e) Human Resources Education and Awareness Raising Activities in the Field of Cyber Security In the short and medium term, activities will be carried out to create proficient human resources in needed numbers in the field of cyber security."
+    }, 
+    {
+        "sentence_id,": "d741b63aa4", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "regulation and compliance": "concept"
+                    }, 
+                    {
+                        "policy": "concept"
+                    }
+                ], 
+                "subcategory": [
+                    "regulation and compliance", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Regulations will be created to include the concept of cyber security into the curricula of primary schools, secondary schools, high schools, non-formal education institutions and higher education organizations."
+    }, 
+    {
+        "sentence_id,": "2f9b6eed3b", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "cirt": "events"
+                    }, 
+                    {
+                        "manpower development": "raise"
+                    }, 
+                    {
+                        "manpower development": "events"
+                    }, 
+                    {
+                        "intra-state cooperation": "events"
+                    }, 
+                    {
+                        "intra-agency cooperation": "events"
+                    }, 
+                    {
+                        "international cooperation": "events"
+                    }
+                ], 
+                "subcategory": [
+                    "cirt", 
+                    "manpower development", 
+                    "intra-state cooperation", 
+                    "intra-agency cooperation", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Events will be organized with an aim to raise awareness on cyber security- of information system auditors, technology developers, system administrators and all other relevant parties, and to provide information that falls under their responsibilities."
+    }, 
+    {
+        "sentence_id,": "28626c07d8", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Auditing steps on cyber security in the internal audit processes of organizations will also be discussed."
+    }, 
+    {
+        "sentence_id,": "d8d443279a", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "capacity building", 
+                    "cooperation", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "create"
+                    }, 
+                    {
+                        "standardisation development": "create"
+                    }, 
+                    {
+                        "manpower development": "create"
+                    }, 
+                    {
+                        "public sector partnership": "create"
+                    }, 
+                    {
+                        "institutional support": "create"
+                    }, 
+                    {
+                        "reporting mechanism": "create"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "public sector partnership", 
+                    "institutional support", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "Also, an education platform will be created for all citizens in order to create and develop National Cyber Security Strategy and 2013-2014 Action Plan 20/47 awareness on cyber security, and initiatives serving this purpose will be supported."
+    }, 
+    {
+        "sentence_id,": "6a3fbc4a7c", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "f) Developing National Technologies in the field of Cyber Security In the medium and long term, technical know-how and the potential and capabilities of the country on cyber security will be increased."
+    }, 
+    {
+        "sentence_id,": "e809f7e32b", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Efforts will be made to have public and private sector work cooperatively in activities towards meeting the needs of research and development."
+    }, 
+    {
+        "sentence_id,": "5fa9887dc6", 
+        "tag": [
+            {
+                "category": [
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "international cooperation": "malicious activities"
+                    }
+                ], 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "g) Extending the Scope of National Cyber Security Mechanisms It is necessary to start working on extending the area of responsibility of our national security organizations, to include defense against malicious activities carried out in national and international cyber space."
+    }, 
+    {
+        "sentence_id,": "718c34a4b4", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "organization measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "chapter"
+                    }, 
+                    {
+                        "policy": "principles"
+                    }, 
+                    {
+                        "responsible agency": "principles"
+                    }, 
+                    {
+                        "national legislation": "chapter"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "policy", 
+                    "responsible agency", 
+                    "national legislation"
+                ]
+            }
+        ], 
+        "sentence": "National Cyber Security Strategy and 2013-2014 Action Plan 21/47 5 National Cyber Security Action Plan for the Term 2013 -2014 This chapter includes the actions towards achieving national cyber security in light of the determined principles for the term 2013-2014 in the framework of the national cyber security strategy."
+    }, 
+    {
+        "sentence_id,": "e82ad56af7", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The actions are grouped by the titles determined in the fourth part of this document."
+    }, 
+    {
+        "sentence_id,": "87f879e116", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "One responsible public organization and agency is appointed for each action, however, that action can have more than one relevant organization and agency."
+    }, 
+    {
+        "sentence_id,": "2762e44392", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "regulation and compliance": "organizations and agencies"
+                    }, 
+                    {
+                        "un convention and protocol": "organizations and agencies"
+                    }
+                ], 
+                "subcategory": [
+                    "regulation and compliance", 
+                    "un convention and protocol"
+                ]
+            }
+        ], 
+        "sentence": "In such cases, it is envisioned that all the relevant organizations and agencies should act under the coordination of the responsible organization and agency as required, and should also act in parallel with each other as required, to carry out the activities required by the action."
+    }, 
+    {
+        "sentence_id,": "8a4e57f497", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The deadlines for some of the actions are determined, and those actions which are envisioned to be repeated periodically and carried out constantly are particularly specified."
+    }, 
+    {
+        "sentence_id,": "7c213e5e34", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }
+                ], 
+                "subcategory": [
+                    "responsible agency", 
+                    "manpower development"
+                ]
+            }
+        ], 
+        "sentence": "September 2013 - Ministry of National Defense (Rel) Establishing the needs for new regulations, and submitting them to the Cyber - Chief of Staff(Rel) regulations Security Council."
+    }, 
+    {
+        "sentence_id,": "28f0437b77", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }
+                ], 
+                "subcategory": [
+                    "responsible agency", 
+                    "manpower development"
+                ]
+            }
+        ], 
+        "sentence": "- The undersecretariat of Public Order and Security(Rel) related to cyber - The Information and Communication security Technologies Authority(Rel) - Ministry of Transport, Maritime - Carrying out the secondary legislative activities (regulations, edicts, activities related to Cyber Security Services.)"
+    }, 
+    {
+        "sentence_id,": "e7eadb302e", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation", 
+                    "legal measures", 
+                    "technical measures"
+                ], 
+                "keywords": [
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "responsible agency": "affairs"
+                    }, 
+                    {
+                        "standardisation development": "affairs"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }, 
+                    {
+                        "manpower development": "affairs"
+                    }, 
+                    {
+                        "intra-agency cooperation": "affairs"
+                    }, 
+                    {
+                        "regulation and compliance": "minimum requirements"
+                    }, 
+                    {
+                        "standards": "minimum requirements"
+                    }, 
+                    {
+                        "certification": "minimum requirements"
+                    }
+                ], 
+                "subcategory": [
+                    "responsible agency", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "intra-agency cooperation", 
+                    "regulation and compliance", 
+                    "standards", 
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "Affairs and Communications(Res) Continually - The public organizations responsible for regulating and auditing the critical sectors(Rel) National Cyber Security Strategy and 2013-2014 Action Plan 24/47 5.2 Carrying Out the Activities That Will Help with Judicial Processes No Action Sub-Action Deadline Responsible(Res) and Relevant (Rel) Organizations - Ministry of Interior(Res) - The Turkish Gendarmerie(Rel) - The undersecretariat of National Intelligence Organization(Rel) - Determining the minimum requirements for logs to be kept to get reliable evidence for post-incident examination."
+    }, 
+    {
+        "sentence_id,": "bc949391fd", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation", 
+                    "technical measures"
+                ], 
+                "keywords": [
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "responsible agency": "affairs"
+                    }, 
+                    {
+                        "standardisation development": "affairs"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }, 
+                    {
+                        "manpower development": "affairs"
+                    }, 
+                    {
+                        "intra-agency cooperation": "affairs"
+                    }, 
+                    {
+                        "standards": "international standards"
+                    }, 
+                    {
+                        "standardisation development": "international standards"
+                    }, 
+                    {
+                        "agency certification": "international standards"
+                    }, 
+                    {
+                        "international cooperation": "international standards"
+                    }
+                ], 
+                "subcategory": [
+                    "responsible agency", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "intra-agency cooperation", 
+                    "standards", 
+                    "agency certification", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Council of Turkey (Rel) evidence base for cyber incidents - Ministry of Transport, Maritime Affairs - Relevant public organizations put into operation their convenient logging mechanisms in conformity with the current technology and the international standards to get reliable evidence for post- and Communications(Res) March 2014 - Ministry of Interior(Rel) - Ministry of Justice(Rel) incident examination."
+    }, 
+    {
+        "sentence_id,": "167c3364ee", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "cirt": "operate"
+                    }, 
+                    {
+                        "policy": "operate"
+                    }, 
+                    {
+                        "standards": "international standards"
+                    }, 
+                    {
+                        "standardisation development": "international standards"
+                    }, 
+                    {
+                        "agency certification": "international standards"
+                    }, 
+                    {
+                        "international cooperation": "international standards"
+                    }
+                ], 
+                "subcategory": [
+                    "cirt", 
+                    "policy", 
+                    "standards", 
+                    "standardisation development", 
+                    "agency certification", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "- All public organizations(Rel) - Public agencies that operate in critical sectors will put into operation their convenient logging mechanisms in conformity with current technology and international standards to get reliable - The public organizations responsible for May 2014 regulating and auditing the key sectors(Res) evidence for post-incident examination."
+    }, 
+    {
+        "sentence_id,": "5f569e4c2d", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "responsible agency": "incident response"
+                    }, 
+                    {
+                        "reporting mechanism": "incident response"
+                    }
+                ], 
+                "subcategory": [
+                    "responsible agency", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "National Cyber Security Strategy and 2013-2014 Action Plan 25/47 5.3 Creating the National Cyber Incidents Response Organization No Action Sub-Action Deadline - Establishing the National Center for Cyber Incident Response Completed."
+    }, 
+    {
+        "sentence_id,": "e1a920edd8", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "manpower development": "police"
+                    }, 
+                    {
+                        "institutional support": "police"
+                    }, 
+                    {
+                        "reporting mechanism": "police"
+                    }
+                ], 
+                "subcategory": [
+                    "manpower development", 
+                    "institutional support", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "- The Turkish National Police (Rel) - Preparing a central help page for the public servants working in establishing the the area of cyber security and helping them with the online Teams for communication of issues to be urgently taken action for."
+    }, 
+    {
+        "sentence_id,": "d28fe0ebca", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "cirt": "operate"
+                    }, 
+                    {
+                        "standards": "guidance"
+                    }, 
+                    {
+                        "policy": "operate"
+                    }, 
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "responsible agency": "affairs"
+                    }, 
+                    {
+                        "national benchmarking": "guidance"
+                    }, 
+                    {
+                        "standardisation development": "guidance"
+                    }, 
+                    {
+                        "standardisation development": "affairs"
+                    }, 
+                    {
+                        "manpower development": "guidance"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }, 
+                    {
+                        "manpower development": "affairs"
+                    }, 
+                    {
+                        "intra-agency cooperation": "affairs"
+                    }
+                ], 
+                "subcategory": [
+                    "cirt", 
+                    "standards", 
+                    "policy", 
+                    "responsible agency", 
+                    "national benchmarking", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "intra-agency cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Presidency(Rel) July 2013 - The Turkish Gendarmerie(Rel) - The Scientific And Technological Research Council of Turkey (Rel) Responding to Cyber Incidents - Ministry of Transport, Maritime Affairs and Communications(Res) against Sectoral and Public Entities (SOME) - Preparing the working principles, guidance documents and training schedules to establish and operate the Teams for Responding to Cyber Incidents against Sectoral and Public - The Information and Communication Technologies Authority/ Telecommunications August 2013 Communication Presidency(Rel) - The public organizations responsible for Entities (SOME) regulating and auditing the critical sectors(Rel) - The Scientific And Technological Research Council of Turkey (Rel) National Cyber Security Strategy and 2013-2014 Action Plan 26/47 No Action Sub-Action Deadline Responsible(Res) and Relevant (Rel) organizations - USOM (The National Center for Cyber - Establishing the sectoral SOMEs which are specific to critical infrastructure sectors, and creating their teams as well as Incident Response) (Res) December 2013 - The public organizations responsible for regulating and auditing the critical providing trainings for them."
+    }, 
+    {
+        "sentence_id,": "67d503a1e2", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "cirt": "operate"
+                    }, 
+                    {
+                        "cirt": "operate"
+                    }, 
+                    {
+                        "policy": "operate"
+                    }, 
+                    {
+                        "policy": "operate"
+                    }
+                ], 
+                "subcategory": [
+                    "cirt", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Establishing the National Cyber Incidents Response (USOM) team and establishing the 4. sectors(Rel) - USOM (The National Center for Cyber - Sectoral SOMEs will operate directly under the coordination of USOM - Sectoral SOMEs will benefit from the support to be provided by Incident Response) (Res) March 2014 - The public organizations responsible for regulating and auditing the critical the USOM sectors(Rel) Teams for Responding to Cyber Incidents - USOM (The National Center for Cyber - Establishing the SOMEs of public organizations September 2014 Incident Response) (Res) - All public organizations(Rel) against Sectoral - USOM (The National Center for and Public Entities (SOME) - Public SOMEs will operate directly under the coordination of USOM."
+    }, 
+    {
+        "sentence_id,": "59d55094c2", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "- Public SOMEs will benefit from the support to be provided by the sectoral SOMEs and USOM they are affiliated to, if there is any."
+    }, 
+    {
+        "sentence_id,": "a8e52a19d6", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "critical infrastructures"
+                    }, 
+                    {
+                        "intra-agency cooperation": "critical infrastructures"
+                    }, 
+                    {
+                        "public sector partnership": "critical infrastructures"
+                    }
+                ], 
+                "subcategory": [
+                    "policy", 
+                    "intra-agency cooperation", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "Cyber Incident Response) (Res) December 2014 - The public organizations responsible for regulating and auditing the critical sectors(Rel) - All public organizations(Rel) National Cyber Security Strategy and 2013-2014 Action Plan 27/47 5.4 Strengthening the National Cyber Security Infrastructure No Action Sub-Action Deadline - Determining the critical infrastructures that could be the direct target of cyber threats and that can disturb the public order if Information security 5. infrastructures which is to be determined later on."
+    }, 
+    {
+        "sentence_id,": "c9a0f49d7c", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "legal measures", 
+                    "capacity building", 
+                    "cooperation", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "implementing"
+                    }, 
+                    {
+                        "standards": "implementing"
+                    }, 
+                    {
+                        "standards": "implementing"
+                    }, 
+                    {
+                        "standards": "implementing"
+                    }, 
+                    {
+                        "responsible agency": "implementing"
+                    }, 
+                    {
+                        "responsible agency": "implementing"
+                    }, 
+                    {
+                        "responsible agency": "implementing"
+                    }, 
+                    {
+                        "responsible agency": "implementing"
+                    }, 
+                    {
+                        "regulation and compliance": "risk analysis"
+                    }, 
+                    {
+                        "regulation and compliance": "risk analysis"
+                    }, 
+                    {
+                        "cirt": "risk analysis"
+                    }, 
+                    {
+                        "cirt": "risk analysis"
+                    }, 
+                    {
+                        "policy": "critical infrastructures"
+                    }, 
+                    {
+                        "policy": "risk analysis"
+                    }, 
+                    {
+                        "policy": "risk analysis"
+                    }, 
+                    {
+                        "policy": "action plans"
+                    }, 
+                    {
+                        "roadmap for governance": "action plans"
+                    }, 
+                    {
+                        "standardisation development": "risk analysis"
+                    }, 
+                    {
+                        "standardisation development": "risk analysis"
+                    }, 
+                    {
+                        "intra-agency cooperation": "critical infrastructures"
+                    }, 
+                    {
+                        "public sector partnership": "critical infrastructures"
+                    }, 
+                    {
+                        "institutional support": "risk analysis"
+                    }, 
+                    {
+                        "institutional support": "risk analysis"
+                    }, 
+                    {
+                        "national benchmarking": "business continuity plans"
+                    }, 
+                    {
+                        "manpower development": "business continuity plans"
+                    }, 
+                    {
+                        "public sector partnership": "business continuity plans"
+                    }, 
+                    {
+                        "international cooperation": "business continuity plans"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "responsible agency", 
+                    "regulation and compliance", 
+                    "cirt", 
+                    "policy", 
+                    "roadmap for governance", 
+                    "standardisation development", 
+                    "intra-agency cooperation", 
+                    "public sector partnership", 
+                    "institutional support", 
+                    "national benchmarking", 
+                    "manpower development", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "- Determining the methods of sectoral risk analysis management program in critical infrastructures - Determining the requirements of sectoral emergency action plans - Completing the first one of the yearly risk analysis reporting activities - Determining and implementing the requirements of sectoral business continuity plans - Determining and implementing the sectoral security precautions National Cyber Security Strategy and 2013-2014 Action Plan Relevant (Rel) Organizations - The Scientific And Technological July 2013 damaged."
+    }, 
+    {
+        "sentence_id,": "56e050d7ad", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "regulation and compliance": "risk analysis"
+                    }, 
+                    {
+                        "cirt": "risk analysis"
+                    }, 
+                    {
+                        "policy": "risk analysis"
+                    }, 
+                    {
+                        "standardisation development": "risk analysis"
+                    }, 
+                    {
+                        "institutional support": "risk analysis"
+                    }
+                ], 
+                "subcategory": [
+                    "regulation and compliance", 
+                    "cirt", 
+                    "policy", 
+                    "standardisation development", 
+                    "institutional support"
+                ]
+            }
+        ], 
+        "sentence": "- Conducting the sectoral risk analysis of one of the critical Responsible(Res) and Research Council of Turkey (Res) - The public organizations responsible for regulating and auditing the August 2013 critical sectors(Rel) September 2013 February 2014 - The public organizations responsible for regulating and auditing the critical sectors(Res) March 2014 - The Scientific And Technological Research Council of Turkey (Rel) March 2014 - USOM (The National Center for Cyber Incident Response) (Rel) Continually 28/47 No Action Sub-Action - Preparing the document on the Minimum Security Requirements to be complied with by public organizations."
+    }, 
+    {
+        "sentence_id,": "4efed662a6", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "manpower development": "the public sector"
+                    }, 
+                    {
+                        "intra-agency cooperation": "the public sector"
+                    }, 
+                    {
+                        "public sector partnership": "the public sector"
+                    }
+                ], 
+                "subcategory": [
+                    "manpower development", 
+                    "intra-agency cooperation", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "Deadline on the priority needs, and determining the proficiency of the Information 6. security program for the public sector Relevant (Rel) Organizations August 2013 - The Scientific And Technological - Providing the first one of the cyber security trainings to the system administrators and to other relevant technical staff based Responsible(Res) and The first one was completed trained staff."
+    }, 
+    {
+        "sentence_id,": "b1458b6c0e", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "cirt": "tests"
+                    }, 
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "responsible agency": "affairs"
+                    }, 
+                    {
+                        "national benchmarking": "tests"
+                    }, 
+                    {
+                        "standardisation development": "affairs"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }, 
+                    {
+                        "manpower development": "affairs"
+                    }, 
+                    {
+                        "intra-state cooperation": "tests"
+                    }, 
+                    {
+                        "intra-agency cooperation": "affairs"
+                    }
+                ], 
+                "subcategory": [
+                    "cirt", 
+                    "responsible agency", 
+                    "national benchmarking", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "intra-state cooperation", 
+                    "intra-agency cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Research Council of Turkey (Res) - Ministry of Transport, Maritime Affairs and Communications(Rel) - USOM (The National Center for - Conducting the first one of the yearly tests and audits which is to Cyber Incident Response) (Rel) be compulsory for public organizations."
+    }, 
+    {
+        "sentence_id,": "85b65bf41c", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "cirt": "tests"
+                    }, 
+                    {
+                        "national benchmarking": "tests"
+                    }, 
+                    {
+                        "intra-state cooperation": "tests"
+                    }, 
+                    {
+                        "intra-state cooperation": "agreement"
+                    }, 
+                    {
+                        "public sector partnership": "agreement"
+                    }
+                ], 
+                "subcategory": [
+                    "cirt", 
+                    "national benchmarking", 
+                    "intra-state cooperation", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "And for the public organizations which are to be prioritized, these tests and audits December 2013 will be conducted in agreement with the relevant public organizations."
+    }, 
+    {
+        "sentence_id,": "671f274ec7", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "responsible agency": "affairs"
+                    }, 
+                    {
+                        "standardisation development": "affairs"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }, 
+                    {
+                        "manpower development": "affairs"
+                    }, 
+                    {
+                        "intra-agency cooperation": "affairs"
+                    }
+                ], 
+                "subcategory": [
+                    "responsible agency", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "intra-agency cooperation"
+                ]
+            }
+        ], 
+        "sentence": "- Publishing and updating the hardening documents and the standards on information systems security National Cyber Security Strategy and 2013-2014 Action Plan Continually - The Scientific And Technological Research Council of Turkey (Res) 29/47 No Action Sub-Action - Briefing top managers who are responsible for information Strengthening 7. systems and cyber security of public organizations Completed Responsible(Res) and Relevant (Rel) Organizations - Ministry of Transport, Maritime Affairs and Communications(Res) - The Scientific And Technological cyber security - Training and certifying the technical staff."
+    }, 
+    {
+        "sentence_id,": "02645b323c", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "training - Providing trainings to the internal audit staff working in public infrastructure Deadline organizations and agencies, which will help them obtain the Research Council of Turkey (Rel) May 2014 - State Personnel Administration(Rel) competency to carry out audits on information systems."
+    }, 
+    {
+        "sentence_id,": "ca3eb487c9", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "responsible agency": "affairs"
+                    }, 
+                    {
+                        "standardisation development": "affairs"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }, 
+                    {
+                        "manpower development": "affairs"
+                    }, 
+                    {
+                        "intra-agency cooperation": "affairs"
+                    }
+                ], 
+                "subcategory": [
+                    "responsible agency", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "intra-agency cooperation"
+                ]
+            }
+        ], 
+        "sentence": "National Cyber Security Strategy and 2013-2014 Action Plan 30/47 No Action Sub-Action Deadline Responsible(Res) and Relevant (Rel) Organizations - Ministry of Transport, Maritime Affairs and Communications(Res) - Ministry of Interior(Rel) - The Information and Communication Technologies Authority(Rel) To be held once - Organizing cyber security exercises."
+    }, 
+    {
+        "sentence_id,": "cfa7e24949", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "responsible agency": "affairs"
+                    }, 
+                    {
+                        "standardisation development": "affairs"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }, 
+                    {
+                        "manpower development": "affairs"
+                    }, 
+                    {
+                        "intra-agency cooperation": "affairs"
+                    }
+                ], 
+                "subcategory": [
+                    "responsible agency", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "intra-agency cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Organizing cyber (Rel) security exercises - Sectoral SOMEs (The Teams for Responding to Cyber Incidents) (Rel) - Ministry of Transport, Maritime Affairs and Communications(Res) - Ministry of Foreign Affairs(Rel) - Organizing the first one of the International Cyber Security Exercises with the leadership of Turkey."
+    }, 
+    {
+        "sentence_id,": "f59a53e6b7", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "national benchmarking": "software development"
+                    }, 
+                    {
+                        "standardisation development": "software development"
+                    }, 
+                    {
+                        "manpower development": "training programs"
+                    }, 
+                    {
+                        "professional certification": "training programs"
+                    }
+                ], 
+                "subcategory": [
+                    "national benchmarking", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "professional certification"
+                ]
+            }
+        ], 
+        "sentence": "- - Determining the rules and procedures that will help communication with secure data sharing amongst public rules for the public organizations December 2013 The National Center for Cyber Incident Response) (Rel) - The Information and Communication Technologies Authority(Rel) - The undersecretariat of Public Order and Security(Rel) sector - The Scientific And Technological Research Council of Turkey(Rel) - Preparing the training programs about software security and delivering those programs to software developers December 2013 - Publishing the document on fundamental rules on secure software development independent from programming Implementation of 10. languages for the software to be used in critical December 2013 - The Scientific And Technological Research Council of Turkey (Res) infrastructures."
+    }, 
+    {
+        "sentence_id,": "adac53efc6", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "implementing"
+                    }, 
+                    {
+                        "standards": "implementing"
+                    }, 
+                    {
+                        "responsible agency": "implementing"
+                    }, 
+                    {
+                        "responsible agency": "implementing"
+                    }, 
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "responsible agency": "affairs"
+                    }, 
+                    {
+                        "standardisation development": "affairs"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }, 
+                    {
+                        "manpower development": "affairs"
+                    }, 
+                    {
+                        "intra-agency cooperation": "affairs"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "responsible agency", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "intra-agency cooperation"
+                ]
+            }
+        ], 
+        "sentence": "- Ministry of Transport, Maritime Affairs and the software security program Communications(Rel) - In the scope of the security assessments of the software - Turkish Standards organization(Rel) that have been developed for critical infrastructures; preparing and submitting to the Cyber Security Council- the feasibility studies towards implementing March 2014 and checking the technical requirements within critical infrastructure organizations."
+    }, 
+    {
+        "sentence_id,": "6ab62e576e", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "National Cyber Security Strategy and 2013-2014 Action Plan 32/47 No Action Sub-Action - Establishing a Honeypot system to detect cyber threats."
+    }, 
+    {
+        "sentence_id,": "52787143f5", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "- Establishing and developing a reporting system for national Implementation of 11. cyber threats cyber-attacks."
+    }, 
+    {
+        "sentence_id,": "2257655a34", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Deadline July 2013 - Generating yearly statistics about cyber threats."
+    }, 
+    {
+        "sentence_id,": "e6f636e69a", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "responsible agency": "affairs"
+                    }, 
+                    {
+                        "standardisation development": "affairs"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }, 
+                    {
+                        "manpower development": "affairs"
+                    }, 
+                    {
+                        "intra-agency cooperation": "affairs"
+                    }
+                ], 
+                "subcategory": [
+                    "responsible agency", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "intra-agency cooperation"
+                ]
+            }
+        ], 
+        "sentence": "December 2013 service providers in the field of cyber security Authority/ Telecommunications December 2013 - Ministry of Transport, Maritime Affairs and Communications(Rel) prevention of cyber threats."
+    }, 
+    {
+        "sentence_id,": "3f9aa15db8", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation", 
+                    "legal measures"
+                ], 
+                "keywords": [
+                    {
+                        "cirt": "tests"
+                    }, 
+                    {
+                        "certification": "certification"
+                    }, 
+                    {
+                        "certification": "certification"
+                    }, 
+                    {
+                        "certification": "certification"
+                    }, 
+                    {
+                        "certification": "certification"
+                    }, 
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "responsible agency": "affairs"
+                    }, 
+                    {
+                        "national benchmarking": "tests"
+                    }, 
+                    {
+                        "standardisation development": "affairs"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }, 
+                    {
+                        "manpower development": "affairs"
+                    }, 
+                    {
+                        "professional certification": "certification"
+                    }, 
+                    {
+                        "professional certification": "certification"
+                    }, 
+                    {
+                        "professional certification": "certification"
+                    }, 
+                    {
+                        "professional certification": "certification"
+                    }, 
+                    {
+                        "intra-state cooperation": "tests"
+                    }, 
+                    {
+                        "intra-agency cooperation": "affairs"
+                    }, 
+                    {
+                        "regulation and compliance": "minimum requirements"
+                    }, 
+                    {
+                        "standards": "minimum requirements"
+                    }, 
+                    {
+                        "certification": "minimum requirements"
+                    }
+                ], 
+                "subcategory": [
+                    "cirt", 
+                    "certification", 
+                    "responsible agency", 
+                    "national benchmarking", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "professional certification", 
+                    "intra-state cooperation", 
+                    "intra-agency cooperation", 
+                    "regulation and compliance", 
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "- The Information and Communication Presidency(Res) - Developing the mechanisms for detection, monitoring and products and Relevant (Rel) Organizations Communication Technologies prevention project Certification of Responsible(Res) and December 2014 Research Council of Turkey (Rel) - Ministry of Transport, Maritime - Determining the minimum requirements that natural and legal Affairs and Communications(Res) persons should have, who carry out the security tests on information systems, providing training and consultancy in the field of cyber security, offering the services in other areas to be determined related to cyber security, and designing a certification process for these natural and legal persons."
+    }, 
+    {
+        "sentence_id,": "78bb5f4b34", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "certification": "certification"
+                    }, 
+                    {
+                        "certification": "certification"
+                    }, 
+                    {
+                        "certification": "certification"
+                    }, 
+                    {
+                        "certification": "certification"
+                    }, 
+                    {
+                        "professional certification": "certification"
+                    }, 
+                    {
+                        "professional certification": "certification"
+                    }, 
+                    {
+                        "professional certification": "certification"
+                    }, 
+                    {
+                        "professional certification": "certification"
+                    }
+                ], 
+                "subcategory": [
+                    "certification", 
+                    "professional certification"
+                ]
+            }
+        ], 
+        "sentence": "National Cyber Security Strategy and 2013-2014 Action Plan - The Scientific And Technological September 2013 - The Scientific And Technological Research Council of Turkey (Rel) - Turkish Standards Organization(Rel) 33/47 No Action Sub-Action Deadline Responsible(Res) and Relevant (Rel) Organizations - Turkish Standards Certification of the 12. organization(Res) - Determining the products of information technology and products and information systemsincluding their minimum security service providers in requirements- which are used by public organizations and thus the field of cyber are of critical importance, and providing the certification security determined."
+    }, 
+    {
+        "sentence_id,": "f25b73ea2b", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation", 
+                    "legal measures"
+                ], 
+                "keywords": [
+                    {
+                        "certification": "certification"
+                    }, 
+                    {
+                        "certification": "certification"
+                    }, 
+                    {
+                        "certification": "accreditation"
+                    }, 
+                    {
+                        "certification": "certification"
+                    }, 
+                    {
+                        "certification": "certification"
+                    }, 
+                    {
+                        "certification": "accreditation"
+                    }, 
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "responsible agency": "affairs"
+                    }, 
+                    {
+                        "standardisation development": "affairs"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }, 
+                    {
+                        "manpower development": "affairs"
+                    }, 
+                    {
+                        "professional certification": "certification"
+                    }, 
+                    {
+                        "professional certification": "certification"
+                    }, 
+                    {
+                        "professional certification": "certification"
+                    }, 
+                    {
+                        "professional certification": "certification"
+                    }, 
+                    {
+                        "intra-agency cooperation": "affairs"
+                    }, 
+                    {
+                        "regulation and compliance": "legal persons"
+                    }, 
+                    {
+                        "regulation and compliance": "minimum requirements"
+                    }, 
+                    {
+                        "standards": "minimum requirements"
+                    }, 
+                    {
+                        "certification": "minimum requirements"
+                    }
+                ], 
+                "subcategory": [
+                    "certification", 
+                    "responsible agency", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "professional certification", 
+                    "intra-agency cooperation", 
+                    "regulation and compliance", 
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "- Ministry of Transport, Maritime August 2014 Affairs and Communications(Rel) - TURKAK (Turkish Accreditation Agency) (Rel) - The Scientific And Technological Research Council of Turkey (Rel) Determining the rules towards 13. issuing a security certification to computer forensics - Ministry of Justice(Res) - Determining the minimum requirements for natural and legal persons who provide computer forensics services, and designing a certification process for them."
+    }, 
+    {
+        "sentence_id,": "5dd2e3f243", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building", 
+                    "child online protection", 
+                    "legal measures"
+                ], 
+                "keywords": [
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }, 
+                    {
+                        "manpower development": "police"
+                    }, 
+                    {
+                        "institutional support": "police"
+                    }, 
+                    {
+                        "reporting mechanism": "police"
+                    }, 
+                    {
+                        "regulation and compliance": "organizations and agencies"
+                    }, 
+                    {
+                        "un convention and protocol": "organizations and agencies"
+                    }
+                ], 
+                "subcategory": [
+                    "responsible agency", 
+                    "manpower development", 
+                    "institutional support", 
+                    "reporting mechanism", 
+                    "regulation and compliance", 
+                    "un convention and protocol"
+                ]
+            }
+        ], 
+        "sentence": "May 2014 - Ministry of Interior(Rel) - The Turkish National Police (Rel) - The Turkish Gendarmerie(Rel) service providers National Cyber Security Strategy and 2013-2014 Action Plan 34/47 No Action Sub-Action Deadline Responsible(Res) and Relevant (Rel) Organizations - Determining the security risk levels of the systems and of the data which process transactions in electronic environment, regarding all public organizations and agencies and the private September 2013 sector corporations that run critical information infrastructures."
+    }, 
+    {
+        "sentence_id,": "a4500532cf", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building", 
+                    "legal measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "principles"
+                    }, 
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "responsible agency": "principles"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }, 
+                    {
+                        "regulation and compliance": "sensitive data"
+                    }, 
+                    {
+                        "regulation and compliance": "organizations and agencies"
+                    }, 
+                    {
+                        "un convention and protocol": "organizations and agencies"
+                    }
+                ], 
+                "subcategory": [
+                    "policy", 
+                    "responsible agency", 
+                    "manpower development", 
+                    "regulation and compliance", 
+                    "un convention and protocol"
+                ]
+            }
+        ], 
+        "sentence": "- Determining the procedures and principles of backing up sensitive data of all public organizations and agencies and the Establishing 14. business continuity and data backup systems private sector corporations that run critical information - Ministry of Transport, Maritime October 2013 infrastructures."
+    }, 
+    {
+        "sentence_id,": "cdf38d47ca", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation", 
+                    "legal measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "responsible agency": "affairs"
+                    }, 
+                    {
+                        "standardisation development": "affairs"
+                    }, 
+                    {
+                        "manpower development": "affairs"
+                    }, 
+                    {
+                        "intra-agency cooperation": "affairs"
+                    }, 
+                    {
+                        "regulation and compliance": "organizations and agencies"
+                    }, 
+                    {
+                        "national benchmarking": "business continuity plans"
+                    }, 
+                    {
+                        "standardisation development": "the private sector"
+                    }, 
+                    {
+                        "manpower development": "the private sector"
+                    }, 
+                    {
+                        "manpower development": "business continuity plans"
+                    }, 
+                    {
+                        "public sector partnership": "the private sector"
+                    }, 
+                    {
+                        "public sector partnership": "business continuity plans"
+                    }, 
+                    {
+                        "international cooperation": "business continuity plans"
+                    }, 
+                    {
+                        "un convention and protocol": "organizations and agencies"
+                    }
+                ], 
+                "subcategory": [
+                    "responsible agency", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "intra-agency cooperation", 
+                    "regulation and compliance", 
+                    "national benchmarking", 
+                    "public sector partnership", 
+                    "international cooperation", 
+                    "un convention and protocol"
+                ]
+            }
+        ], 
+        "sentence": "- The Scientific And Technological Research Council of Turkey (Rel) - All public organizations and - Preparation of business continuity plans by all public organizations and agencies and the private sector corporations Affairs and Communications(Res) January 2014 agencies(Rel) - The public organizations that run critical information infrastructures."
+    }, 
+    {
+        "sentence_id,": "b7e2eabaed", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "responsible for regulating and - Establishing information systems pursuant to the business continuity plans."
+    }, 
+    {
+        "sentence_id,": "2f1f2af1c0", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "- Organizing the exercises suitable for business continuity plans, and submitting the results to the Cyber Security Council."
+    }, 
+    {
+        "sentence_id,": "ab89cd4318", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "certification": "offer"
+                    }, 
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "responsible agency": "affairs"
+                    }, 
+                    {
+                        "standardisation development": "web"
+                    }, 
+                    {
+                        "standardisation development": "affairs"
+                    }, 
+                    {
+                        "manpower development": "offer"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }, 
+                    {
+                        "manpower development": "affairs"
+                    }, 
+                    {
+                        "intra-agency cooperation": "web"
+                    }, 
+                    {
+                        "intra-agency cooperation": "affairs"
+                    }, 
+                    {
+                        "institutional support": "offer"
+                    }, 
+                    {
+                        "reporting mechanism": "offer"
+                    }
+                ], 
+                "subcategory": [
+                    "certification", 
+                    "responsible agency", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "intra-agency cooperation", 
+                    "institutional support", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "National Cyber Security Strategy and 2013-2014 Action Plan July 2014 auditing the critical sectors(Rel) December 2014 35/47 No Action Sub-Action Deadline Responsible(Res) and Relevant (Rel) Organizations - Ministry of Transport, Maritime Affairs and Communications(Res) - Determining a public agency or agencies that will offer data center services for storing the internet web sites of public Moving the October 2013 organizations in a domestic and reliable data center."
+    }, 
+    {
+        "sentence_id,": "6fee646d70", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "capacity building", 
+                    "cooperation", 
+                    "child online protection", 
+                    "legal measures"
+                ], 
+                "keywords": [
+                    {
+                        "cirt": "host"
+                    }, 
+                    {
+                        "standardisation development": "web"
+                    }, 
+                    {
+                        "standardisation development": "web"
+                    }, 
+                    {
+                        "manpower development": "host"
+                    }, 
+                    {
+                        "intra-agency cooperation": "web"
+                    }, 
+                    {
+                        "intra-agency cooperation": "web"
+                    }, 
+                    {
+                        "international cooperation": "host"
+                    }, 
+                    {
+                        "institutional support": "host"
+                    }, 
+                    {
+                        "regulation and compliance": "data centers"
+                    }, 
+                    {
+                        "cirt": "data centers"
+                    }, 
+                    {
+                        "manpower development": "data centers"
+                    }, 
+                    {
+                        "regulation and compliance": "organizations and agencies"
+                    }, 
+                    {
+                        "un convention and protocol": "organizations and agencies"
+                    }
+                ], 
+                "subcategory": [
+                    "cirt", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "intra-agency cooperation", 
+                    "international cooperation", 
+                    "institutional support", 
+                    "regulation and compliance", 
+                    "un convention and protocol"
+                ]
+            }
+        ], 
+        "sentence": "- The Information and Communication Research Council of Turkey (Rel) of public organizations to local and reliable data centers - The public organizations like municipalities, hospitals, provincial/district public organizations which do not host their web sites internally will move their web sites to the pre- December 2013 - All public organizations and agencies (Res) determined data center/centers."
+    }, 
+    {
+        "sentence_id,": "e078f926d5", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "- Carrying out regular and periodic inspections of these predetermined data centers."
+    }, 
+    {
+        "sentence_id,": "24fcf7c317", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "- Developing an analysis infrastructure that will detect potential Developing and putting into 16. operation- a test data loss from key public organizations."
+    }, 
+    {
+        "sentence_id,": "fba5f380cd", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "cirt": "tests"
+                    }, 
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "responsible agency": "affairs"
+                    }, 
+                    {
+                        "responsible agency": "affairs"
+                    }, 
+                    {
+                        "national benchmarking": "tests"
+                    }, 
+                    {
+                        "standardisation development": "affairs"
+                    }, 
+                    {
+                        "standardisation development": "affairs"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }, 
+                    {
+                        "manpower development": "affairs"
+                    }, 
+                    {
+                        "manpower development": "affairs"
+                    }, 
+                    {
+                        "intra-state cooperation": "tests"
+                    }, 
+                    {
+                        "intra-agency cooperation": "affairs"
+                    }, 
+                    {
+                        "intra-agency cooperation": "affairs"
+                    }
+                ], 
+                "subcategory": [
+                    "cirt", 
+                    "responsible agency", 
+                    "national benchmarking", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "intra-state cooperation", 
+                    "intra-agency cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Continually Affairs and Communications(Res) December 2013 - Ministry of Transport, Maritime - Determining the public organization on which this test infrastructure will be applied by the Cyber Security Council January 2014 Affairs and Communications(Res) - The Scientific And Technological infrastructure for detecting data loss - Ministry of Transport, Maritime Research Council of Turkey (Rel) - Carrying out the tests to detect data loss and reporting the results."
+    }, 
+    {
+        "sentence_id,": "187be9ce5c", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "technical measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "principles"
+                    }, 
+                    {
+                        "responsible agency": "principles"
+                    }, 
+                    {
+                        "standards": "international standards"
+                    }, 
+                    {
+                        "standardisation development": "international standards"
+                    }, 
+                    {
+                        "agency certification": "international standards"
+                    }, 
+                    {
+                        "international cooperation": "access control"
+                    }, 
+                    {
+                        "international cooperation": "international standards"
+                    }
+                ], 
+                "subcategory": [
+                    "policy", 
+                    "responsible agency", 
+                    "standards", 
+                    "standardisation development", 
+                    "agency certification", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "National Cyber Security Strategy and 2013-2014 Action Plan May 2014 36/47 No Action Sub-Action - Creating access control principles in conformity with the Determining the 17. international standards (e.g."
+    }, 
+    {
+        "sentence_id,": "88612252a9", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "responsible agency": "affairs"
+                    }, 
+                    {
+                        "standardisation development": "affairs"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }, 
+                    {
+                        "manpower development": "affairs"
+                    }, 
+                    {
+                        "intra-agency cooperation": "affairs"
+                    }
+                ], 
+                "subcategory": [
+                    "responsible agency", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "intra-agency cooperation"
+                ]
+            }
+        ], 
+        "sentence": "TS ISO/IEC 27001) Deadline October 2013 organizations Relevant (Rel) Organizations - Cyber Security Council(Res) - Ministry of Transport, Maritime Affairs and Communications(Rel) levels of access to data in public Responsible(Res) and - The Scientific And Technological - Re-configuration of e-government applications of public organizations in a way to prevent access to unauthorized data February 2014 Research Council Of Turkey (Rel) - All public organizations and over the internet agencies (Rel) - Providing information about existing open source security products that meet the minimum security criteria already determined, which may be used by public and private sector October 2013 - The Scientific And Technological organizations."
+    }, 
+    {
+        "sentence_id,": "c0ec2ed6a8", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Research Council Of Turkey(Res) Promoting the 18. usage of open source products - Creating platforms for developing new cyber security products with open source code."
+    }, 
+    {
+        "sentence_id,": "da8611d669", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "responsible agency": "affairs"
+                    }, 
+                    {
+                        "standardisation development": "affairs"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }, 
+                    {
+                        "manpower development": "affairs"
+                    }, 
+                    {
+                        "intra-agency cooperation": "affairs"
+                    }
+                ], 
+                "subcategory": [
+                    "responsible agency", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "intra-agency cooperation"
+                ]
+            }
+        ], 
+        "sentence": "February 2014 - Ministry of Transport, Maritime Affairs and Communications(Rel) - Universities (Rel) - Preparing a schedule to move the suitable ones -of all the critical information systems- to the operating systems with open source May 2014 code."
+    }, 
+    {
+        "sentence_id,": "8d1116f090", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "manpower development": "students"
+                    }, 
+                    {
+                        "manpower development": "students"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }
+                ], 
+                "subcategory": [
+                    "responsible agency", 
+                    "manpower development"
+                ]
+            }
+        ], 
+        "sentence": "National Cyber Security Strategy and 2013-2014 Action Plan 37/47 5.5 Human Resources Education and Awareness-Raising Activities on Cyber Security No Action Sub-Action Deadline Responsible(Res) and Relevant (Rel) Organizations - Council of Higher Education(Res) Educate academics 19. in the study of cyber security - Ministry of National - Providing scholarships to students for masters and doctoral studies on cyber security."
+    }, 
+    {
+        "sentence_id,": "189f7891a0", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "October 2013 Education(Rel) - The Scientific And Technological Research Council of Turkey (Rel) - Universities (Rel) - Establishing a commission in the Council of Higher Education regarding the development of cyber security infrastructure."
+    }, 
+    {
+        "sentence_id,": "e9236ca53d", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "adoption"
+                    }, 
+                    {
+                        "policy": "adoption"
+                    }, 
+                    {
+                        "manpower development": "adoption"
+                    }, 
+                    {
+                        "public sector partnership": "adoption"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "policy", 
+                    "manpower development", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "Wider adoption of undergraduate, graduate and doctoral programs of relevant cyber security departments."
+    }, 
+    {
+        "sentence_id,": "2e88fe4edf", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "curricula in universities - Preparing more books, magazines, articles and other sources on the subject of cyber security in the Turkish language."
+    }, 
+    {
+        "sentence_id,": "f0b155b388", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "March 2014 Research Council of Turkey (Rel) - Universities (Rel) Continually - Opening at least two graduate programs on cyber security."
+    }, 
+    {
+        "sentence_id,": "b5f8d3397a", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "October 2013 - Opening at least one doctoral program on cyber security."
+    }, 
+    {
+        "sentence_id,": "b0a0f6da16", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "implementing"
+                    }, 
+                    {
+                        "standards": "implementing"
+                    }, 
+                    {
+                        "responsible agency": "implementing"
+                    }, 
+                    {
+                        "responsible agency": "implementing"
+                    }, 
+                    {
+                        "manpower development": "students"
+                    }, 
+                    {
+                        "manpower development": "students"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "responsible agency", 
+                    "manpower development"
+                ]
+            }
+        ], 
+        "sentence": "September 2014 Education(Rel) - The Scientific And Implementing a Technological Research Council program to direct of Turkey (Rel) students towards - Universities (Rel) cyber security expertise - Organizing summer camps on cyber security."
+    }, 
+    {
+        "sentence_id,": "aab55e1fe6", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "- Creating internship programs in cyber security."
+    }, 
+    {
+        "sentence_id,": "e8113fe9b6", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "manpower development": "promotion"
+                    }
+                ], 
+                "subcategory": [
+                    "manpower development"
+                ]
+            }
+        ], 
+        "sentence": "To be held as of the year 2013 - The Scientific and Technological Research Council of Turkey (Res) September 2014 - Council of Higher - Organizing promotion activities in universities related to cyber security."
+    }, 
+    {
+        "sentence_id,": "4362f9b237", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "implementing"
+                    }, 
+                    {
+                        "standards": "implementing"
+                    }, 
+                    {
+                        "responsible agency": "implementing"
+                    }, 
+                    {
+                        "responsible agency": "implementing"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "responsible agency"
+                ]
+            }
+        ], 
+        "sentence": "National Cyber Security Strategy and 2013-2014 Action Plan Continually Education(Res) 39/47 No Action Sub-Action - Organizing cyber defense competitions amongst universities - Organizing video/poster competitions on information security for awareness-raising in the primary, secondary, high Implementing a school and university categories."
+    }, 
+    {
+        "sentence_id,": "95e3d7077b", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "responsible agency": "affairs"
+                    }, 
+                    {
+                        "standardisation development": "affairs"
+                    }, 
+                    {
+                        "manpower development": "experience"
+                    }, 
+                    {
+                        "manpower development": "students"
+                    }, 
+                    {
+                        "manpower development": "students"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }, 
+                    {
+                        "manpower development": "affairs"
+                    }, 
+                    {
+                        "intra-agency cooperation": "affairs"
+                    }, 
+                    {
+                        "public sector partnership": "experience"
+                    }
+                ], 
+                "subcategory": [
+                    "responsible agency", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "intra-agency cooperation", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "Deadline To be held every year Responsible(Res) and Relevant (Rel) Organizations - The Scientific And Technological Research Council of Turkey (Rel) - Council of Higher Education(Rel) To be held every - Ministry of National year Education(Res) - Ministry of Transport, Maritime Affairs program to direct and Communications(Res) 21. students towards cyber security expertise - The Information and Communication - Experts working in USOMs and SOMEs will be trained and they will gain experience in implementation."
+    }, 
+    {
+        "sentence_id,": "b5da93c0ff", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "manpower development": "experience"
+                    }, 
+                    {
+                        "manpower development": "capacities"
+                    }, 
+                    {
+                        "public sector partnership": "experience"
+                    }
+                ], 
+                "subcategory": [
+                    "manpower development", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "Continually Technologies Authority(Rel) - USOM (The National Center for Cyber Incident Response) (Rel) - SOMEs (The Teams for Responding to Cyber Incidents) (Rel) - Increasing the capacities of the security units which will respond to cyber security incidents, and for training experts and helping the experts gain experience in implementation."
+    }, 
+    {
+        "sentence_id,": "e7adad4411", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }
+                ], 
+                "subcategory": [
+                    "responsible agency", 
+                    "manpower development"
+                ]
+            }
+        ], 
+        "sentence": "National Cyber Security Strategy and 2013-2014 Action Plan - Ministry of Interior(Res) Continually - The Scientific And Technological Research Council of Turkey (Rel) 40/47 No Action Promoting cyber security trainings across primary, 22. secondary, high school and nonformal education platforms."
+    }, 
+    {
+        "sentence_id,": "ea39f00099", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }
+                ], 
+                "subcategory": [
+                    "responsible agency", 
+                    "manpower development"
+                ]
+            }
+        ], 
+        "sentence": "- The Information and Continually Communication Technologies Authority(Res) - Ministry of National media and awareness-raising) Education(Rel) computer users on cyber security."
+    }, 
+    {
+        "sentence_id,": "615305360a", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }
+                ], 
+                "subcategory": [
+                    "responsible agency", 
+                    "manpower development"
+                ]
+            }
+        ], 
+        "sentence": "(Rel) Communication Technologies information technology trainings formal education activities, remote education by means of the Research Council Of Turkey - The Information and FATIH project computer users on cyber security (seminars, brochures, non- Relevant (Rel) Organizations - Ministry of National computer programming in vocational high schools."
+    }, 
+    {
+        "sentence_id,": "1b3282214f", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "cirt": "field of information"
+                    }, 
+                    {
+                        "policy": "field of information"
+                    }, 
+                    {
+                        "manpower development": "field of information"
+                    }, 
+                    {
+                        "public sector partnership": "field of information"
+                    }
+                ], 
+                "subcategory": [
+                    "cirt", 
+                    "policy", 
+                    "manpower development", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "which are under the field of information technology."
+    }, 
+    {
+        "sentence_id,": "7c78f73ca7", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }
+                ], 
+                "subcategory": [
+                    "responsible agency", 
+                    "manpower development"
+                ]
+            }
+        ], 
+        "sentence": "Responsible(Res) and - Ministry of Transport, Maritime - Raising the awareness level of people on safe internet usage and on safe internet service, further developing and spreading the service."
+    }, 
+    {
+        "sentence_id,": "f30a3132bf", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Organizing national discuss the economic, social and legal aspects of cyber and international security."
+    }, 
+    {
+        "sentence_id,": "f010c476e9", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "cirt": "events"
+                    }, 
+                    {
+                        "manpower development": "events"
+                    }, 
+                    {
+                        "intra-state cooperation": "events"
+                    }, 
+                    {
+                        "intra-agency cooperation": "events"
+                    }, 
+                    {
+                        "international cooperation": "events"
+                    }
+                ], 
+                "subcategory": [
+                    "cirt", 
+                    "manpower development", 
+                    "intra-state cooperation", 
+                    "intra-agency cooperation", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "cyber security events - Participation in international conferences, meetings, seminars and the exercises related to cyber security."
+    }, 
+    {
+        "sentence_id,": "9649ef68cf", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Communication Technologies Continually Authority(Rel) - The Scientific And Technological Research Council of Turkey (Rel) - All public organizations and agencies(Rel) - Universities (Rel) - NGOs (Rel) National Cyber Security Strategy and 2013-2014 Action Plan 42/47 5.6 Developing National Technologies in Cyber Security No Action Sub-Action - Creating and updating a list of the technologies that would meet the cyber security requirements of the country."
+    }, 
+    {
+        "sentence_id,": "1b9274459d", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building", 
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "manpower development": "promotion"
+                    }, 
+                    {
+                        "national benchmarking": "development activities"
+                    }, 
+                    {
+                        "standardisation development": "development activities"
+                    }
+                ], 
+                "subcategory": [
+                    "manpower development", 
+                    "national benchmarking", 
+                    "standardisation development"
+                ]
+            }
+        ], 
+        "sentence": "Stimulating research 25. and development activities - Inclusion of cyber security as a priority subject into the current promotion systems for projects."
+    }, 
+    {
+        "sentence_id,": "3f259ddb62", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "cirt": "malware"
+                    }, 
+                    {
+                        "intra-agency cooperation": "malware"
+                    }, 
+                    {
+                        "public sector partnership": "malware"
+                    }
+                ], 
+                "subcategory": [
+                    "cirt", 
+                    "intra-agency cooperation", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "Deadline Continually and similar information technology products related to cyber March 2014 26. laboratories in the field of Cyber Security - Establishing a laboratory infrastructure that would build capacity to detect malware and their effects on information systems."
+    }, 
+    {
+        "sentence_id,": "dec7ae4ef4", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "responsible agency": "affairs"
+                    }, 
+                    {
+                        "standardisation development": "affairs"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }, 
+                    {
+                        "manpower development": "affairs"
+                    }, 
+                    {
+                        "intra-agency cooperation": "affairs"
+                    }
+                ], 
+                "subcategory": [
+                    "responsible agency", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "intra-agency cooperation"
+                ]
+            }
+        ], 
+        "sentence": "National Cyber Security Strategy and 2013-2014 Action Plan - The Supreme Council for Science - Ministry of Transport, Maritime Affairs and Communications(Rel) - Ministry of Science, Industry and Technology(Rel) March 2014 - The Scientific And Technological Research Council of Turkey (Rel) security."
+    }, 
+    {
+        "sentence_id,": "d62d208a37", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }
+                ], 
+                "subcategory": [
+                    "responsible agency", 
+                    "manpower development"
+                ]
+            }
+        ], 
+        "sentence": "March 2014 Security - Ministry of Development(Rel) - Ministry of Transport, Maritime cyber security in universities."
+    }, 
+    {
+        "sentence_id,": "b14efeea65", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation", 
+                    "legal measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "responsible agency": "affairs"
+                    }, 
+                    {
+                        "standardisation development": "affairs"
+                    }, 
+                    {
+                        "manpower development": "affairs"
+                    }, 
+                    {
+                        "intra-agency cooperation": "affairs"
+                    }, 
+                    {
+                        "regulation and compliance": "research and development"
+                    }, 
+                    {
+                        "regulation and compliance": "research and development"
+                    }, 
+                    {
+                        "standardisation development": "research and development"
+                    }, 
+                    {
+                        "standardisation development": "research and development"
+                    }, 
+                    {
+                        "un convention and protocol": "research and development"
+                    }, 
+                    {
+                        "un convention and protocol": "research and development"
+                    }
+                ], 
+                "subcategory": [
+                    "responsible agency", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "intra-agency cooperation", 
+                    "regulation and compliance", 
+                    "un convention and protocol"
+                ]
+            }
+        ], 
+        "sentence": "Affairs and Communications(Rel) laboratories in the field of Cyber Relevant (Rel) Organizations - Council of Higher Education(Res) - Creating programs that will encourage and support the establishment of Research and Development laboratories on Responsible(Res) and - Establishing the first cyber security Research and Development laboratory in universities in the scope of the program."
+    }, 
+    {
+        "sentence_id,": "1ca357b4cf", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "responsible agency": "affairs"
+                    }, 
+                    {
+                        "standardisation development": "affairs"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }, 
+                    {
+                        "manpower development": "affairs"
+                    }, 
+                    {
+                        "intra-agency cooperation": "affairs"
+                    }
+                ], 
+                "subcategory": [
+                    "responsible agency", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "intra-agency cooperation"
+                ]
+            }
+        ], 
+        "sentence": "- Ministry of Science, Industry and September 2014 Technology(Rel) - The Scientific And Technological Research Council of Turkey (Rel) - Holding regular activities in which the public and private - Ministry of Transport, Maritime sectors, universities, NGOs and other information security Creating national 27. products and solutions in the field of cyber security Affairs and Communications(Rel) - The Information and stake holders will participate in."
+    }, 
+    {
+        "sentence_id,": "f071865a4b", 
+        "tag": [
+            {
+                "category": [
+                    "cooperation", 
+                    "legal measures", 
+                    "capacity building", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "intra-state cooperation": "cooperate"
+                    }, 
+                    {
+                        "intra-state cooperation": "cooperate"
+                    }, 
+                    {
+                        "public sector partnership": "cooperate"
+                    }, 
+                    {
+                        "public sector partnership": "cooperate"
+                    }, 
+                    {
+                        "international cooperation": "cooperate"
+                    }, 
+                    {
+                        "international cooperation": "cooperate"
+                    }, 
+                    {
+                        "regulation and compliance": "research and development"
+                    }, 
+                    {
+                        "standardisation development": "research and development"
+                    }, 
+                    {
+                        "un convention and protocol": "research and development"
+                    }
+                ], 
+                "subcategory": [
+                    "intra-state cooperation", 
+                    "public sector partnership", 
+                    "international cooperation", 
+                    "regulation and compliance", 
+                    "standardisation development", 
+                    "un convention and protocol"
+                ]
+            }
+        ], 
+        "sentence": "- Participants should cooperate on the following subjects; correct usage of information technology products in the scope of cyber security, technological precautions and requirements, Research and Development requirements, information Communication Technologies October 2013 Authority(Rel) - The Scientific And Technological Research Council of Turkey (Rel) technology products being developed, administrative - Universities (Rel) precautions and regulations."
+    }, 
+    {
+        "sentence_id,": "e4d3f4a6ca", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }, 
+                    {
+                        "manpower development": "promotion"
+                    }
+                ], 
+                "subcategory": [
+                    "responsible agency", 
+                    "manpower development"
+                ]
+            }
+        ], 
+        "sentence": "- NGOs (Rel) National Cyber Security Strategy and 2013-2014 Action Plan 44/47 No Action Sub-Action - Creating promotion mechanisms for public organizations to prefer in their information and communication systems; Deadline Responsible(Res) and Relevant (Rel) Organizations - Ministry of Science, Industry and Technology(Res) - Ministry of Transport, Maritime a."
+    }, 
+    {
+        "sentence_id,": "c245e71037", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "28. the products which are developed nationally, are assessed in terms of security and are certified, Promoting national b. products the products which were assessed in terms of security and were certified, in cases where there is not any national product."
+    }, 
+    {
+        "sentence_id,": "7a5047d07d", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "responsible agency": "affairs"
+                    }, 
+                    {
+                        "standardisation development": "affairs"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }, 
+                    {
+                        "manpower development": "affairs"
+                    }, 
+                    {
+                        "intra-agency cooperation": "affairs"
+                    }
+                ], 
+                "subcategory": [
+                    "responsible agency", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "intra-agency cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Affairs and Communications(Rel) - Ministry of Development (Rel) February 2014 - Ministry of Customs and Trade(Rel) - Ministry of Economy(Rel) - Ministry of Finance(Rel) - Public Procurement Authority(Rel) National Cyber Security Strategy and 2013-2014 Action Plan 45/47 5.7 Extending the Scope of the National Security Mechanisms No Action Sub-Action Deadline Responsible(Res) and Relevant (Rel) Organizations - Cyber Security Council(Res) - Determining the responsibilities of public organizations in case of cyber security incidents in the cyber space and how to - Ministry of Interior(Rel) March 2014 ensure coordination at national level."
+    }, 
+    {
+        "sentence_id,": "2a9a87ca51", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "national benchmarking": "scenarios"
+                    }
+                ], 
+                "subcategory": [
+                    "national benchmarking"
+                ]
+            }
+        ], 
+        "sentence": "Integrating national cyber security 29. concepts into the - Determining high priority potential attack scenarios targeting the country, including the effects of these attacks."
+    }, 
+    {
+        "sentence_id,": "c30ee1a1df", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }
+                ], 
+                "subcategory": [
+                    "responsible agency", 
+                    "manpower development"
+                ]
+            }
+        ], 
+        "sentence": "- Ministry of National Defense(Rel) - Ministry of Justice(Rel) March 2014 - General Secretariat of the National Security Council(Rel) - Determining priority actions required to be carried out to national security analyze and improve the status of the mechanisms that would context be used in case of potential cyber security incidents ."
+    }, 
+    {
+        "sentence_id,": "ce35a843d1", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "manpower development": "police"
+                    }, 
+                    {
+                        "institutional support": "police"
+                    }, 
+                    {
+                        "reporting mechanism": "police"
+                    }
+                ], 
+                "subcategory": [
+                    "manpower development", 
+                    "institutional support", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "- Chief of Staff(Rel) - The undersecretariat of National September 2014 Intelligence Organization(Rel) - The undersecretariat of Public Order and Security(Rel) - The Turkish National Police (Rel) - The Turkish Gendarmerie (Rel) National Cyber Security Strategy and 2013-2014 Action Plan 46/47 [The page intentionally left blank.]"
+    }, 
+    {
+        "sentence_id,": "2db950d0ac", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "National Cyber Security Strategy and 2013-2014 Action Plan 47/47"
+    }
+]

@@ -1,0 +1,3352 @@
+[
+    {
+        "sentence_id,": "b0e77f6a59", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Parties related to the strategy ........................................................................................................................ 13 INTRODUCTION The Cyber Security Strategy 2014-2017 is the basic document for planning Estonias cyber security and a part of Estonias broader security strategy."
+    }, 
+    {
+        "sentence_id,": "653fabc540", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The strategy highlights important recent developments, assesses threats to Estonias cyber security and presents measures to manage threats."
+    }, 
+    {
+        "sentence_id,": "0671d9a368", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "cirt": "new threats"
+                    }, 
+                    {
+                        "intra-agency cooperation": "new threats"
+                    }, 
+                    {
+                        "public sector partnership": "new threats"
+                    }
+                ], 
+                "subcategory": [
+                    "cirt", 
+                    "intra-agency cooperation", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "This strategy continues the implementation of many of the goals found in the Cyber Security Strategy 2008-2013; however, new threats and needs which were not covered by the previous strategy have also been added."
+    }, 
+    {
+        "sentence_id,": "7e25bfc438", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "committee"
+                    }, 
+                    {
+                        "responsible agency": "committee"
+                    }, 
+                    {
+                        "manpower development": "committee"
+                    }, 
+                    {
+                        "international cooperation": "committee"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "responsible agency", 
+                    "manpower development", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Sectoral progress In 2009, a Cyber Security Council was added to the Security Committee of the Government of the Republic, whose main task is to support strategic level inter-agency co-operation and oversee the implementation of Cyber Security Strategy objectives."
+    }, 
+    {
+        "sentence_id,": "8ec3dafdea", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "In 2010, by a decision of the Government of the Republic, the Estonian Informatics Centre was given government agency status."
+    }, 
+    {
+        "sentence_id,": "74636c4cc7", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "responsible agency": "supervision"
+                    }, 
+                    {
+                        "responsible agency": "supervision"
+                    }
+                ], 
+                "subcategory": [
+                    "responsible agency"
+                ]
+            }
+        ], 
+        "sentence": "The renamed Estonian Information System Authority (Riigi Infossteemi Amet hereinafter RIA) received additional powers and resources for organising protection of the states information and communication technology (hereinafter ICT) infrastructure, and exercising supervision over the security of information systems."
+    }, 
+    {
+        "sentence_id,": "8c0e74811a", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "For the purposes of organising the protection of infrastructure, the Department of Critical Information Infrastructure Protection (hereinafter CIIP) was formed within the RIA."
+    }, 
+    {
+        "sentence_id,": "a81e288e2d", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "In early 2010, the RIA launched the critical information infrastructure (hereinafter CII) mapping project, which identified the dependencies of vital services on information systems."
+    }, 
+    {
+        "sentence_id,": "fa4993ea7b", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "functioning"
+                    }, 
+                    {
+                        "policy": "functioning"
+                    }, 
+                    {
+                        "responsible agency": "functioning"
+                    }, 
+                    {
+                        "national benchmarking": "functioning"
+                    }, 
+                    {
+                        "manpower development": "functioning"
+                    }, 
+                    {
+                        "international cooperation": "functioning"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "policy", 
+                    "responsible agency", 
+                    "national benchmarking", 
+                    "manpower development", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "On the basis of the mapping, security requirements for vital information systems necessary for the functioning of the state were developed."
+    }, 
+    {
+        "sentence_id,": "0f02c5af2c", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "In 2011, a CIIP commission was formed to promote public-private cooperation."
+    }, 
+    {
+        "sentence_id,": "b3d168692a", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The purpose of the commission, which brings together cyber security and IT managers from vital services agencies, is to exchange operational information, identify problems and make suggestions for improving the cyber security of the country's critical infrastructure."
+    }, 
+    {
+        "sentence_id,": "61c236337e", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "responsible agency": "board"
+                    }, 
+                    {
+                        "manpower development": "board"
+                    }, 
+                    {
+                        "manpower development": "police"
+                    }, 
+                    {
+                        "institutional support": "police"
+                    }, 
+                    {
+                        "reporting mechanism": "police"
+                    }
+                ], 
+                "subcategory": [
+                    "responsible agency", 
+                    "manpower development", 
+                    "institutional support", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "In 2012, the cybercrime investigation capabilities of the Police and Border Guard Board (hereinafter PBGB) were consolidated into a single department."
+    }, 
+    {
+        "sentence_id,": "a11b45eb86", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The PBGB is also engaged in raising awareness regarding cyber threats, which, among other things, has resulted in the creation of the positions for web- constables."
+    }, 
+    {
+        "sentence_id,": "8032664e7c", 
+        "tag": [
+            {
+                "category": [
+                    "child online protection", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "un convention and protocol": "children"
+                    }, 
+                    {
+                        "institutional support": "children"
+                    }, 
+                    {
+                        "manpower development": "young people"
+                    }, 
+                    {
+                        "institutional support": "young people"
+                    }
+                ], 
+                "subcategory": [
+                    "un convention and protocol", 
+                    "institutional support", 
+                    "manpower development"
+                ]
+            }
+        ], 
+        "sentence": "A web-constable is tasked with raising people's awareness about the security of the Internet and protecting children and young people online."
+    }, 
+    {
+        "sentence_id,": "fc0b5bdd06", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The Estonian Internal Security Service strengthened its investigative capabilities in order to prevent threats to national security, including cyber attacks and espionage."
+    }, 
+    {
+        "sentence_id,": "b8173fba67", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The creation of the Estonian Defence Leagues Cyber Unit (hereinafter EDL CU), which took place as a result of collaboration between the public, private and third-sector, has been instrumental in ensuring national defence."
+    }, 
+    {
+        "sentence_id,": "578423ccec", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The expertise of EDL CU volunteers is applied to improve the security of Estonian state agencies and companies information systems through coordinated exercises, testing of solutions, training, etc.."
+    }, 
+    {
+        "sentence_id,": "0042dd1b20", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The EDL CU can also be engaged to support civilian institutions and protect critical infrastructure in a crisis situation."
+    }, 
+    {
+        "sentence_id,": "2f78883374", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "cirt": "an important role"
+                    }, 
+                    {
+                        "national benchmarking": "an important role"
+                    }, 
+                    {
+                        "manpower development": "an important role"
+                    }
+                ], 
+                "subcategory": [
+                    "cirt", 
+                    "national benchmarking", 
+                    "manpower development"
+                ]
+            }
+        ], 
+        "sentence": "Domestic and international cyber security training exercises have also played an important role in the development and assessment of cyber security capabilities."
+    }, 
+    {
+        "sentence_id,": "4c3dc6b611", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "cirt": "centre of excellence"
+                    }, 
+                    {
+                        "manpower development": "centre of excellence"
+                    }
+                ], 
+                "subcategory": [
+                    "cirt", 
+                    "manpower development"
+                ]
+            }
+        ], 
+        "sentence": "Each year, the NATO Cooperative Cyber Defence Centre of Excellence (NATO CCD COE) exercise Locked Shields takes place in Estonia."
+    }, 
+    {
+        "sentence_id,": "32b4e78bca", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Since 2013, the NATO cyber defence exercise Cyber Coalition has also been hosted in Estonia."
+    }, 
+    {
+        "sentence_id,": "008eb641cd", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The Defence Forces has also created a Cyber Range to support cyber defence related training."
+    }, 
+    {
+        "sentence_id,": "bec025d883", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The Range is used to carry out the aforementioned cyber exercises, organise domestic exercises and in the instruction provided by universities."
+    }, 
+    {
+        "sentence_id,": "a7ab2ddbfb", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "In the field of cyber security, the main provider of training and awareness-raising is the Information Technology Foundation for Education (hereinafter HITSA), formerly known as the Tiger Leap Foundation."
+    }, 
+    {
+        "sentence_id,": "60b6dfcd16", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "HITSA training is offered to pre-schoolers well as older children, while also involving parents and teachers in the process."
+    }, 
+    {
+        "sentence_id,": "63d020f27c", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "manpower development": "raise"
+                    }
+                ], 
+                "subcategory": [
+                    "manpower development"
+                ]
+            }
+        ], 
+        "sentence": "A state-private partnership project was launched in 2013 to raise the skills and security awareness of smart device users, developers and vendors."
+    }, 
+    {
+        "sentence_id,": "38fab050b0", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "manpower development": "students"
+                    }, 
+                    {
+                        "manpower development": "students"
+                    }
+                ], 
+                "subcategory": [
+                    "manpower development"
+                ]
+            }
+        ], 
+        "sentence": "In cooperation between Tallinn University of Technology (TUT) and the University of Tartu, the international Masters programme in Cyber Security was opened in 2009, with 50 students accepted into the programme each year."
+    }, 
+    {
+        "sentence_id,": "d6924da7f7", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "In 2014, TUT, in cooperation with the Estonian Centre 2CENTRE, opened a Masters programme in Digital Forensics."
+    }, 
+    {
+        "sentence_id,": "011c212e78", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "cirt": "centre of excellence"
+                    }, 
+                    {
+                        "manpower development": "centre of excellence"
+                    }
+                ], 
+                "subcategory": [
+                    "cirt", 
+                    "manpower development"
+                ]
+            }
+        ], 
+        "sentence": "Estonias 2CENTRE Cybercrime Centre of Excellence is part of the European Unions network of 2CENTRE competency centres, where professionals are trained in the fight against cybercrime, and continuation training is arranged for them."
+    }, 
+    {
+        "sentence_id,": "8c85744332", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "international organizations"
+                    }, 
+                    {
+                        "professional certification": "international organizations"
+                    }, 
+                    {
+                        "agency certification": "international organizations"
+                    }, 
+                    {
+                        "international cooperation": "international organizations"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "professional certification", 
+                    "agency certification", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Estonia has successfully cooperated with other ICT-advanced countries and international organizations in the field of cyber security."
+    }, 
+    {
+        "sentence_id,": "e728571b47", 
+        "tag": [
+            {
+                "category": [
+                    "cooperation", 
+                    "technical measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "international cooperation": "active role"
+                    }, 
+                    {
+                        "cirt": "centre of excellence"
+                    }, 
+                    {
+                        "manpower development": "centre of excellence"
+                    }
+                ], 
+                "subcategory": [
+                    "international cooperation", 
+                    "cirt", 
+                    "manpower development"
+                ]
+            }
+        ], 
+        "sentence": "An active role in shaping cyber security policy led to the establishment of the NATO Cooperative Cyber Defence Centre of Excellence in Estonia."
+    }, 
+    {
+        "sentence_id,": "822c068330", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building", 
+                    "cooperation", 
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "manpower development": "experience"
+                    }, 
+                    {
+                        "public sector partnership": "experience"
+                    }, 
+                    {
+                        "national benchmarking": "other countries"
+                    }, 
+                    {
+                        "standardisation development": "other countries"
+                    }, 
+                    {
+                        "intra-state cooperation": "other countries"
+                    }
+                ], 
+                "subcategory": [
+                    "manpower development", 
+                    "public sector partnership", 
+                    "national benchmarking", 
+                    "standardisation development", 
+                    "intra-state cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Estonia has contributed to cyber security becoming part of NATO and European Union policy, and other countries interest towards Estonias experience in cyber security has grown significantly."
+    }, 
+    {
+        "sentence_id,": "7f59da15aa", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Cyber security related cooperation has been successful on the regional level between the Nordic countries and the Baltic States, as well as with other strategic partners and like-minded countries."
+    }, 
+    {
+        "sentence_id,": "b5f5329952", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "national benchmarking": "building measures"
+                    }, 
+                    {
+                        "manpower development": "confidence building"
+                    }, 
+                    {
+                        "public sector partnership": "confidence building"
+                    }
+                ], 
+                "subcategory": [
+                    "national benchmarking", 
+                    "manpower development", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "Estonia is also participating in newer forms of cooperation - the Freedom Online Coalition, the United Nations Group of Governmental Experts, the OSCE informal working group on developing confidence building measures in cyberspace, Friends of the Presidency of the European Union, and others."
+    }, 
+    {
+        "sentence_id,": "db56ee937f", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "functioning"
+                    }, 
+                    {
+                        "policy": "functioning"
+                    }, 
+                    {
+                        "responsible agency": "functioning"
+                    }, 
+                    {
+                        "national benchmarking": "functioning"
+                    }, 
+                    {
+                        "manpower development": "functioning"
+                    }, 
+                    {
+                        "international cooperation": "functioning"
+                    }, 
+                    {
+                        "manpower development": "different types"
+                    }, 
+                    {
+                        "national benchmarking": "development of information"
+                    }, 
+                    {
+                        "standardisation development": "development of information"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "policy", 
+                    "responsible agency", 
+                    "national benchmarking", 
+                    "manpower development", 
+                    "international cooperation", 
+                    "standardisation development"
+                ]
+            }
+        ], 
+        "sentence": "Trends The continued rapid development of information and communication technologies, globalization, the drastic increase in data volumes and the growing number of different types of equipment connected to data networks have an impact on daily life, the economy and the functioning of the state."
+    }, 
+    {
+        "sentence_id,": "b0c7c76abd", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "manpower development": "enhance"
+                    }, 
+                    {
+                        "intra-state cooperation": "enhance"
+                    }, 
+                    {
+                        "public sector partnership": "enhance"
+                    }, 
+                    {
+                        "international cooperation": "enhance"
+                    }
+                ], 
+                "subcategory": [
+                    "manpower development", 
+                    "intra-state cooperation", 
+                    "public sector partnership", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "On the one hand, this level of ICT development will contribute to the improved availability and usability of services, enhance transparency and citizen participation in governance, and cut public as well as private sector costs."
+    }, 
+    {
+        "sentence_id,": "6a1d3b3e60", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "On the other hand, the increasing importance of technology is accompanied by an increase in the states growing dependence on already entrenched e-solutions, and cements the expectation of technology operating seamlessly."
+    }, 
+    {
+        "sentence_id,": "9d99cecec5", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "complexity"
+                    }
+                ], 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "In addition, the Internet is becoming increasingly accessible, the number of users continues to grow, and with new technological solutions and services - such as the \"Internet of things\", and cloud computing - the number of potential vectors for attacks, along with the complexity of attacks, is growing."
+    }, 
+    {
+        "sentence_id,": "86ea31eab0", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Social processes are also becoming increasingly dependent on a growing number of information technology resources, and in the future attention must be drawn to the fact that society at large, and each individual in particular, will be able to maintain control over the corresponding processes."
+    }, 
+    {
+        "sentence_id,": "cc33c92adc", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Otherwise, there is potential for information technologies to reduce the role of humans in the decision-making process, and processes may become self-regulatory (technological singularity)."
+    }, 
+    {
+        "sentence_id,": "5cec8a9489", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The main threat is cybercrime and its growth is reflected by the significant development of cyber criminals skills and their increased ability to carry out organized attacks."
+    }, 
+    {
+        "sentence_id,": "79872a38ab", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation", 
+                    "legal measures"
+                ], 
+                "keywords": [
+                    {
+                        "cirt": "collection"
+                    }, 
+                    {
+                        "cirt": "handling"
+                    }, 
+                    {
+                        "standards": "collection"
+                    }, 
+                    {
+                        "standards": "handling"
+                    }, 
+                    {
+                        "certification": "handling"
+                    }, 
+                    {
+                        "policy": "handling"
+                    }, 
+                    {
+                        "responsible agency": "handling"
+                    }, 
+                    {
+                        "national benchmarking": "handling"
+                    }, 
+                    {
+                        "manpower development": "collection"
+                    }, 
+                    {
+                        "intra-agency cooperation": "collection"
+                    }, 
+                    {
+                        "intra-agency cooperation": "handling"
+                    }, 
+                    {
+                        "international cooperation": "handling"
+                    }, 
+                    {
+                        "regulation and compliance": "new challenges"
+                    }, 
+                    {
+                        "certification": "new challenges"
+                    }, 
+                    {
+                        "policy": "new challenges"
+                    }, 
+                    {
+                        "responsible agency": "digital forensics"
+                    }, 
+                    {
+                        "manpower development": "new challenges"
+                    }, 
+                    {
+                        "intra-state cooperation": "new challenges"
+                    }, 
+                    {
+                        "public sector partnership": "new challenges"
+                    }, 
+                    {
+                        "international cooperation": "new challenges"
+                    }, 
+                    {
+                        "policy": "an integral part"
+                    }, 
+                    {
+                        "manpower development": "an integral part"
+                    }, 
+                    {
+                        "public sector partnership": "an integral part"
+                    }
+                ], 
+                "subcategory": [
+                    "cirt", 
+                    "standards", 
+                    "certification", 
+                    "policy", 
+                    "responsible agency", 
+                    "national benchmarking", 
+                    "manpower development", 
+                    "intra-agency cooperation", 
+                    "international cooperation", 
+                    "regulation and compliance", 
+                    "intra-state cooperation", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "An integral part of the processing of crimes is the collection and handling of digital evidence, which poses new challenges to the procedural and digital forensics capabilities of the police."
+    }, 
+    {
+        "sentence_id,": "be844150d6", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "National cyber security is affected by the actors operating in cyberspace with their various skills, targets and motivations."
+    }, 
+    {
+        "sentence_id,": "4494bfb93b", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "It is often difficult to distinguish between the actors or determine their relationship to national or international organizations."
+    }, 
+    {
+        "sentence_id,": "553478b465", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The number of state actors in cyberspace that are involved in cyber espionage targeted at computers connected to the Internet as well as closed networks continues to grow, with their aim being to collect information on both national security as well as economic interests."
+    }, 
+    {
+        "sentence_id,": "d5030d990e", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The amount and activeness of states capable of cyber-attacks are increasing."
+    }, 
+    {
+        "sentence_id,": "0168b9857b", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "capacity building", 
+                    "cooperation", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "cirt": "addition"
+                    }, 
+                    {
+                        "standardisation development": "addition"
+                    }, 
+                    {
+                        "manpower development": "addition"
+                    }, 
+                    {
+                        "intra-state cooperation": "addition"
+                    }, 
+                    {
+                        "institutional support": "addition"
+                    }, 
+                    {
+                        "cirt": "social networks"
+                    }, 
+                    {
+                        "manpower development": "social networks"
+                    }, 
+                    {
+                        "international cooperation": "their activities"
+                    }
+                ], 
+                "subcategory": [
+                    "cirt", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "intra-state cooperation", 
+                    "institutional support", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "In addition to the activation of state actors, the ability of politically motivated individuals and groups with limited means to organize their activities using social networks and carry out denial of service and other types of attacks is growing as well."
+    }, 
+    {
+        "sentence_id,": "ba36e5b9d6", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Meaningful and effective cooperation between the public and private sector in the development of cyber security organisation as well as in preventing and resolving cyber incidents is becoming increasingly unavoidable."
+    }, 
+    {
+        "sentence_id,": "58a2c591a7", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "certification": "private sectors"
+                    }, 
+                    {
+                        "public sector partnership": "private sectors"
+                    }
+                ], 
+                "subcategory": [
+                    "certification", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "National defence and internal security are dependent on the private sectors infrastructure and resources, while at the same time the state can assist vital service providers and guarantors of national critical information infrastructure as a coordinator and balancer of various interests."
+    }, 
+    {
+        "sentence_id,": "7d01b1d8b9", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Challenges The main cyber security risks arise from the extensive and growing dependence on ICT infrastructure and e-services by the Estonian state, the economy and the population."
+    }, 
+    {
+        "sentence_id,": "697e1f6bda", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "cirt": "fields"
+                    }, 
+                    {
+                        "policy": "fields"
+                    }, 
+                    {
+                        "manpower development": "fields"
+                    }, 
+                    {
+                        "public sector partnership": "fields"
+                    }
+                ], 
+                "subcategory": [
+                    "cirt", 
+                    "policy", 
+                    "manpower development", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "Therefore, the key fields on which the Cyber Security Strategy focuses are ensuring vital services, combating cybercrime more effectively and advancing national defence capabilities."
+    }, 
+    {
+        "sentence_id,": "ec9589687f", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "international cooperation"
+                    }, 
+                    {
+                        "professional certification": "international cooperation"
+                    }, 
+                    {
+                        "agency certification": "international cooperation"
+                    }, 
+                    {
+                        "international cooperation": "international cooperation"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "professional certification", 
+                    "agency certification", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Additional supporting activities will include: shaping the legal framework, promoting international cooperation and communication, raising awareness, and ensuring specialist education as well as the development of technical solutions.."
+    }, 
+    {
+        "sentence_id,": "6faf87bdf4", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "In the case of vital services, cross-border information technology interdependencies have emerged and securing them is no longer dependent solely on parties based in Estonia."
+    }, 
+    {
+        "sentence_id,": "be13ac05f7", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The Estonian state has no option for effectively supervising services or parts of services which are provided outside of the Republic of Estonia ."
+    }, 
+    {
+        "sentence_id,": "058a4e19de", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "All vital services and their dependencies must be mapped, alternatives must be developed and operational readiness to implement them must be achieved."
+    }, 
+    {
+        "sentence_id,": "1781b0c5f9", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation", 
+                    "legal measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "functioning"
+                    }, 
+                    {
+                        "policy": "functioning"
+                    }, 
+                    {
+                        "responsible agency": "functioning"
+                    }, 
+                    {
+                        "national benchmarking": "functioning"
+                    }, 
+                    {
+                        "manpower development": "functioning"
+                    }, 
+                    {
+                        "international cooperation": "functioning"
+                    }, 
+                    {
+                        "regulation and compliance": "data and information"
+                    }, 
+                    {
+                        "un convention and protocol": "data and information"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "policy", 
+                    "responsible agency", 
+                    "national benchmarking", 
+                    "manpower development", 
+                    "international cooperation", 
+                    "regulation and compliance", 
+                    "un convention and protocol"
+                ]
+            }
+        ], 
+        "sentence": "The preservation of data and information systems that are essential to the functioning of society must be ensured in both the public and private sectors."
+    }, 
+    {
+        "sentence_id,": "8c8ec2ed1d", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The timely detection of and response to cyber threats threatening the state, society and the individual must be ensured."
+    }, 
+    {
+        "sentence_id,": "a5d67d38dd", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "functioning"
+                    }, 
+                    {
+                        "policy": "functioning"
+                    }, 
+                    {
+                        "responsible agency": "functioning"
+                    }, 
+                    {
+                        "national benchmarking": "functioning"
+                    }, 
+                    {
+                        "manpower development": "functioning"
+                    }, 
+                    {
+                        "international cooperation": "functioning"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "policy", 
+                    "responsible agency", 
+                    "national benchmarking", 
+                    "manpower development", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Cybercrime undermines the functioning of the economic space, reduces trust in digital services, and, in a worst-case scenario, could lead to incidents causing loss of life."
+    }, 
+    {
+        "sentence_id,": "a232f95574", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Competent personnel and modern technical tools are needed in order to ensure prevention, detection and prosecuting of cybercrime."
+    }, 
+    {
+        "sentence_id,": "b9e8c5760a", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Operational information exchange between countries is becoming increasingly important in the fight against cybercrime."
+    }, 
+    {
+        "sentence_id,": "e97dbacfa3", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "functioning"
+                    }, 
+                    {
+                        "policy": "functioning"
+                    }, 
+                    {
+                        "responsible agency": "functioning"
+                    }, 
+                    {
+                        "national benchmarking": "functioning"
+                    }, 
+                    {
+                        "manpower development": "functioning"
+                    }, 
+                    {
+                        "international cooperation": "functioning"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "policy", 
+                    "responsible agency", 
+                    "national benchmarking", 
+                    "manpower development", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "To ensure the ability to provide national defence in cyberspace, the states civilian and military resources must be able to be integrated into a functioning whole under the direction of civilian authorities as well as being interoperable with the capabilities of international partners."
+    }, 
+    {
+        "sentence_id,": "7280fe73d3", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "capacity building", 
+                    "cooperation", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "cirt": "addition"
+                    }, 
+                    {
+                        "standardisation development": "addition"
+                    }, 
+                    {
+                        "manpower development": "addition"
+                    }, 
+                    {
+                        "intra-state cooperation": "addition"
+                    }, 
+                    {
+                        "institutional support": "addition"
+                    }
+                ], 
+                "subcategory": [
+                    "cirt", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "intra-state cooperation", 
+                    "institutional support"
+                ]
+            }
+        ], 
+        "sentence": "In addition to conventional military environments, National defence planning must increasingly take cyberspace into account."
+    }, 
+    {
+        "sentence_id,": "07befe2185", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "In order to prevent and deter future security threats, it is necessary to constantly develop cyber security related know-how and to invest in technology."
+    }, 
+    {
+        "sentence_id,": "c52a722b41", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "implementing"
+                    }, 
+                    {
+                        "standards": "implementing"
+                    }, 
+                    {
+                        "certification": "production"
+                    }, 
+                    {
+                        "responsible agency": "implementing"
+                    }, 
+                    {
+                        "responsible agency": "implementing"
+                    }, 
+                    {
+                        "responsible agency": "export"
+                    }, 
+                    {
+                        "intra-agency cooperation": "export"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "certification", 
+                    "responsible agency", 
+                    "intra-agency cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Implementing forward-looking procurement procedures is necessary to ensure production of reliable and competitive technical solutions and will support their export as well, whereas the knowledge and resources obtained in that process must be re-invested into innovative solutions."
+    }, 
+    {
+        "sentence_id,": "52b1299c4f", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "As a supporting activity, a modern legal framework must be ensured to provide complete solutions to the above-listed challenges."
+    }, 
+    {
+        "sentence_id,": "823abb1ea4", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "international organizations"
+                    }, 
+                    {
+                        "professional certification": "international organizations"
+                    }, 
+                    {
+                        "agency certification": "international organizations"
+                    }, 
+                    {
+                        "international cooperation": "international organizations"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "professional certification", 
+                    "agency certification", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "At the international level, the preservation of a free and secure cyberspace as well as Estonias central role in guiding and developing international cyber security policy in international organizations as well as like-minded communities must be ensured."
+    }, 
+    {
+        "sentence_id,": "fde460c6d1", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "functioning"
+                    }, 
+                    {
+                        "policy": "functioning"
+                    }, 
+                    {
+                        "responsible agency": "functioning"
+                    }, 
+                    {
+                        "national benchmarking": "functioning"
+                    }, 
+                    {
+                        "manpower development": "functioning"
+                    }, 
+                    {
+                        "international cooperation": "functioning"
+                    }, 
+                    {
+                        "institutional support": "supports"
+                    }, 
+                    {
+                        "policy": "an integral part"
+                    }, 
+                    {
+                        "manpower development": "an integral part"
+                    }, 
+                    {
+                        "public sector partnership": "an integral part"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "policy", 
+                    "responsible agency", 
+                    "national benchmarking", 
+                    "manpower development", 
+                    "international cooperation", 
+                    "institutional support", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "Cyber security is an integral part of national security, it supports the functioning of the state and society, the competitiveness of the economy and innovation."
+    }, 
+    {
+        "sentence_id,": "17437661be", 
+        "tag": [
+            {
+                "category": [
+                    "child online protection", 
+                    "legal measures"
+                ], 
+                "keywords": [
+                    {
+                        "un convention and protocol": "fundamental rights"
+                    }, 
+                    {
+                        "regulation and compliance": "rights and freedoms"
+                    }, 
+                    {
+                        "un convention and protocol": "rights and freedoms"
+                    }
+                ], 
+                "subcategory": [
+                    "un convention and protocol", 
+                    "regulation and compliance"
+                ]
+            }
+        ], 
+        "sentence": "Cyber security is guaranteed by respecting fundamental rights and freedoms as well as by protecting individual liberties, personal information, and identity."
+    }, 
+    {
+        "sentence_id,": "240cc5ebd1", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "regulation and compliance": "potential risks"
+                    }, 
+                    {
+                        "policy": "potential risks"
+                    }
+                ], 
+                "subcategory": [
+                    "regulation and compliance", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Cyber security is ensured on the basis of the principle of proportionality while taking into account existing and potential risks and resources."
+    }, 
+    {
+        "sentence_id,": "b0c80600f6", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Cyber security is ensured in a coordinated manner through cooperation between the public-, private- and third sectors, taking into account the interconnectedness and interdependence of existing infrastructure and services in cyberspace."
+    }, 
+    {
+        "sentence_id,": "e93517621e", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "national benchmarking": "safe use"
+                    }
+                ], 
+                "subcategory": [
+                    "national benchmarking"
+                ]
+            }
+        ], 
+        "sentence": "Cyber security starts with individual responsibility for safe use of ICT tools."
+    }, 
+    {
+        "sentence_id,": "c17a14ebc9", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "cirt": "potential threats"
+                    }, 
+                    {
+                        "intra-agency cooperation": "potential threats"
+                    }, 
+                    {
+                        "public sector partnership": "potential threats"
+                    }
+                ], 
+                "subcategory": [
+                    "cirt", 
+                    "intra-agency cooperation", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "A top priority in ensuring cyber security is anticipating as well as preventing potential threats and responding effectively to threats that materialize."
+    }, 
+    {
+        "sentence_id,": "085876615b", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Cyber security is supported by intensive and internationally competitive research and development."
+    }, 
+    {
+        "sentence_id,": "23603164a9", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "international cooperation"
+                    }, 
+                    {
+                        "professional certification": "international cooperation"
+                    }, 
+                    {
+                        "agency certification": "international cooperation"
+                    }, 
+                    {
+                        "international cooperation": "international cooperation"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "professional certification", 
+                    "agency certification", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Cyber security is ensured via international cooperation with allies and partners."
+    }, 
+    {
+        "sentence_id,": "0c465f267e", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "manpower development": "promotes"
+                    }
+                ], 
+                "subcategory": [
+                    "manpower development"
+                ]
+            }
+        ], 
+        "sentence": "Through cooperation, Estonia promotes global cybersecurity and enhances its own competence."
+    }, 
+    {
+        "sentence_id,": "546effd4a5", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "functioning"
+                    }, 
+                    {
+                        "policy": "functioning"
+                    }, 
+                    {
+                        "responsible agency": "functioning"
+                    }, 
+                    {
+                        "national benchmarking": "functioning"
+                    }, 
+                    {
+                        "manpower development": "functioning"
+                    }, 
+                    {
+                        "international cooperation": "functioning"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "policy", 
+                    "responsible agency", 
+                    "national benchmarking", 
+                    "manpower development", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "GENERAL OBJECTIVE OF THE STRATEGY FOR 2017 Vision: Estonia is able to ensure national security and support the functioning of an open, inclusive and safe society."
+    }, 
+    {
+        "sentence_id,": "89aeeffd77", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "manpower development": "raise"
+                    }
+                ], 
+                "subcategory": [
+                    "manpower development"
+                ]
+            }
+        ], 
+        "sentence": "General objective: The four-year goal of the cybersecurity strategy is to increase cybersecurity capabilities and raise the populations awareness of cyber threats, thereby ensuring continued confidence in cyberspace."
+    }, 
+    {
+        "sentence_id,": "30c213743a", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation", 
+                    "legal measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "functioning"
+                    }, 
+                    {
+                        "policy": "functioning"
+                    }, 
+                    {
+                        "responsible agency": "functioning"
+                    }, 
+                    {
+                        "national benchmarking": "functioning"
+                    }, 
+                    {
+                        "manpower development": "functioning"
+                    }, 
+                    {
+                        "international cooperation": "functioning"
+                    }, 
+                    {
+                        "regulation and compliance": "protection of information"
+                    }, 
+                    {
+                        "national legislation": "protection of information"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "policy", 
+                    "responsible agency", 
+                    "national benchmarking", 
+                    "manpower development", 
+                    "international cooperation", 
+                    "regulation and compliance", 
+                    "national legislation"
+                ]
+            }
+        ], 
+        "sentence": "SUBGOALS Subgoal 1: Ensuring the protection of information systems underlying important services The functioning of the Estonian state and society, the economic and social well-being of every person, their life and health, increasingly depend on the security of the systems and services."
+    }, 
+    {
+        "sentence_id,": "a22d5c7cb5", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "manpower development": "aims"
+                    }, 
+                    {
+                        "intra-agency cooperation": "aims"
+                    }
+                ], 
+                "subcategory": [
+                    "manpower development", 
+                    "intra-agency cooperation"
+                ]
+            }
+        ], 
+        "sentence": "One of the main aims of the strategy is to describe methods for ensuring the uninterrupted operation and resilience of vital services, and the protection of critical information infrastructures against cyber threats."
+    }, 
+    {
+        "sentence_id,": "af0904cd90", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Ensuring alternative solutions for important services National dependencies on ICT infrastructure and e-services are constantly updated, mapped and managed."
+    }, 
+    {
+        "sentence_id,": "df430e965d", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "functioning"
+                    }, 
+                    {
+                        "policy": "functioning"
+                    }, 
+                    {
+                        "responsible agency": "functioning"
+                    }, 
+                    {
+                        "national benchmarking": "functioning"
+                    }, 
+                    {
+                        "manpower development": "functioning"
+                    }, 
+                    {
+                        "international cooperation": "functioning"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "policy", 
+                    "responsible agency", 
+                    "national benchmarking", 
+                    "manpower development", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "This includes a system of alternate solutions that are to be used in cases where the normal functioning of ICT infrastructure and e-services is disrupted."
+    }, 
+    {
+        "sentence_id,": "7076b496a0", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "functioning"
+                    }, 
+                    {
+                        "policy": "functioning"
+                    }, 
+                    {
+                        "responsible agency": "functioning"
+                    }, 
+                    {
+                        "national benchmarking": "functioning"
+                    }, 
+                    {
+                        "manpower development": "functioning"
+                    }, 
+                    {
+                        "international cooperation": "functioning"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "policy", 
+                    "responsible agency", 
+                    "national benchmarking", 
+                    "manpower development", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Managing cross-dependency between important services The mapping of significant cross-dependencies between services is kept up to date, the assessment of the extent of the impact of cross-dependencies on the functioning of services is conducted in a timely manner, and related risks are systematically grounded."
+    }, 
+    {
+        "sentence_id,": "5ba9990bd1", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "functioning"
+                    }, 
+                    {
+                        "policy": "functioning"
+                    }, 
+                    {
+                        "responsible agency": "functioning"
+                    }, 
+                    {
+                        "national benchmarking": "functioning"
+                    }, 
+                    {
+                        "manpower development": "functioning"
+                    }, 
+                    {
+                        "international cooperation": "functioning"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "policy", 
+                    "responsible agency", 
+                    "national benchmarking", 
+                    "manpower development", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Information relating to dependencies on critical services provided from outside the Republic of Estonia is kept up to date, the extent of their impact on the functioning of services is promptly evaluated, and associated risks are systematically reduced."
+    }, 
+    {
+        "sentence_id,": "b882bc6b40", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Ensuring the security of ICT infrastructure and services Information and communication technology infrastructure is protected from modern threats."
+    }, 
+    {
+        "sentence_id,": "2438979649", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Critical data is kept and processed in highly secure data centres, and, among other things, data may also be stored securely abroad."
+    }, 
+    {
+        "sentence_id,": "b4e106f18a", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Information systems necessary for the operation of state and vital services will be developed and managed in a manner that accounts for security risks and provides the means and measures to manage risks."
+    }, 
+    {
+        "sentence_id,": "fba271fe22", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Managing cyber threats to the public and private sector Information technology risks will be assessed and measured, with the requisite qualified staff available, along with methodologies, training opportunities and other resources."
+    }, 
+    {
+        "sentence_id,": "c1ec31211c", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Areas which have not yet been sufficiently addressed are mapped and corresponding awareness programs are created."
+    }, 
+    {
+        "sentence_id,": "3bc83397f0", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Introduction of a national monitoring system for cyber security In order to identify and react in a timely manner to cyber threats endangering the state, society and the individual, a national comprehensive monitoring, analysis and reporting system is adopted."
+    }, 
+    {
+        "sentence_id,": "ddf68a278a", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Ensuring digital continuity of the state E-services, processes, and information systems (including digital registers of evidential value) that are essential for the digital continuity of the state are constantly updated and mapped, and they have mirror and backup alternatives."
+    }, 
+    {
+        "sentence_id,": "30726e97cc", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "functioning"
+                    }, 
+                    {
+                        "policy": "functioning"
+                    }, 
+                    {
+                        "responsible agency": "functioning"
+                    }, 
+                    {
+                        "national benchmarking": "functioning"
+                    }, 
+                    {
+                        "manpower development": "functioning"
+                    }, 
+                    {
+                        "international cooperation": "functioning"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "policy", 
+                    "responsible agency", 
+                    "national benchmarking", 
+                    "manpower development", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Virtual embassies will ensure the functioning of the state, regardless of Estonia's territorial integrity."
+    }, 
+    {
+        "sentence_id,": "81225d38a4", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building", 
+                    "technical measures", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "manpower development": "promotion"
+                    }, 
+                    {
+                        "standards": "international cooperation"
+                    }, 
+                    {
+                        "standardisation development": "professional development"
+                    }, 
+                    {
+                        "manpower development": "professional development"
+                    }, 
+                    {
+                        "professional certification": "professional development"
+                    }, 
+                    {
+                        "professional certification": "international cooperation"
+                    }, 
+                    {
+                        "agency certification": "international cooperation"
+                    }, 
+                    {
+                        "international cooperation": "international cooperation"
+                    }
+                ], 
+                "subcategory": [
+                    "manpower development", 
+                    "standards", 
+                    "standardisation development", 
+                    "professional certification", 
+                    "agency certification", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Promotion of international cooperation in the protection of the infrastructure of critical information Protection of critical information infrastructure is enhanced through the participation in the work of international organizations, being represented in the interest groups of partners and allies, and through contributing to the professional development of experts."
+    }, 
+    {
+        "sentence_id,": "0506aaef79", 
+        "tag": [
+            {
+                "category": [
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "intra-state cooperation": "fight against cybercrime"
+                    }
+                ], 
+                "subcategory": [
+                    "intra-state cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Subgoal 2: Enhancing of the fight against cybercrime The economic damage deriving from cybercrime reduces trust in digital services, and, in a worst-case scenario, could lead to loss of life."
+    }, 
+    {
+        "sentence_id,": "f9e16bb0ae", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "manpower development": "the general public"
+                    }
+                ], 
+                "subcategory": [
+                    "manpower development"
+                ]
+            }
+        ], 
+        "sentence": "Greater awareness among the general public about cyber security risks helps to prevent cybercrimes."
+    }, 
+    {
+        "sentence_id,": "753cd2dbea", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "national benchmarking": "levels of education"
+                    }
+                ], 
+                "subcategory": [
+                    "national benchmarking"
+                ]
+            }
+        ], 
+        "sentence": "Greater awareness is achieved by addressing cyber-related topics at all levels of education and informing people based on research and analysis of secure behaviours."
+    }, 
+    {
+        "sentence_id,": "c6197e02a0", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Enhancing detection of cybercrime In order to improve the efficiency of cybercrime detection and prosecution, the current structure of law enforcement and its organisation of work will be further clarified, the number of personnel dealing with cybercrime will be increased and the capabilities of bodies conducting proceedings to process digital data carriers will be raised."
+    }, 
+    {
+        "sentence_id,": "1702866321", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "cirt": "centres"
+                    }, 
+                    {
+                        "manpower development": "centres"
+                    }
+                ], 
+                "subcategory": [
+                    "cirt", 
+                    "manpower development"
+                ]
+            }
+        ], 
+        "sentence": "In order to develop capabilities, cooperation takes place with universities and international centres of excellence."
+    }, 
+    {
+        "sentence_id,": "30ac4cd332", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building", 
+                    "cooperation", 
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "manpower development": "raise"
+                    }, 
+                    {
+                        "manpower development": "public awareness"
+                    }, 
+                    {
+                        "public sector partnership": "public awareness"
+                    }, 
+                    {
+                        "national benchmarking": "level of awareness"
+                    }
+                ], 
+                "subcategory": [
+                    "manpower development", 
+                    "public sector partnership", 
+                    "national benchmarking"
+                ]
+            }
+        ], 
+        "sentence": "Raising public awareness of cyber risks In order to raise the level of awareness of actors operating in cyberspace, attention is paid to introducing actions preventing cyber threats, providing the knowledge needed to identify as well as wisely respond to incidents."
+    }, 
+    {
+        "sentence_id,": "88c0b29a09", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Users of e-services are directed to use the most secure solutions and are informed about new technologies and how to securely use these solutions."
+    }, 
+    {
+        "sentence_id,": "6c44a8ccda", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "organization measures", 
+                    "technical measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "cybercrimes"
+                    }, 
+                    {
+                        "roadmap for governance": "achieve"
+                    }, 
+                    {
+                        "standards": "international cooperation"
+                    }, 
+                    {
+                        "professional certification": "international cooperation"
+                    }, 
+                    {
+                        "agency certification": "international cooperation"
+                    }, 
+                    {
+                        "international cooperation": "international cooperation"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "roadmap for governance", 
+                    "standards", 
+                    "professional certification", 
+                    "agency certification", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Promoting international cooperation against cybercrime In order to achieve more effective and timely prosecution of cybercrimes with an international dimension, information exchange between countries is improved."
+    }, 
+    {
+        "sentence_id,": "f539bba28d", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "manpower development": "various initiatives"
+                    }, 
+                    {
+                        "international cooperation": "active participation"
+                    }, 
+                    {
+                        "international cooperation": "various initiatives"
+                    }
+                ], 
+                "subcategory": [
+                    "manpower development", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Active participation in various initiatives and projects that are part of the international fight against cybercrime."
+    }, 
+    {
+        "sentence_id,": "a574b8d3e6", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "international cooperation"
+                    }, 
+                    {
+                        "professional certification": "international cooperation"
+                    }, 
+                    {
+                        "agency certification": "international cooperation"
+                    }, 
+                    {
+                        "international cooperation": "international cooperation"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "professional certification", 
+                    "agency certification", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Subgoal 3: Development of national cyber defence capabilities Civil, military, and international cooperation based on the resources at the disposal of the state must also function adequately in cyberspace with regards to warning, deterrence and active defence."
+    }, 
+    {
+        "sentence_id,": "c6eba1acd2", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Synchronising military planning and preparation for civil emergencies Broad-based national defence requires that the continuous operation plans of vital service providers are coordinated with national defence threat scenarios."
+    }, 
+    {
+        "sentence_id,": "436055647f", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "international collaboration"
+                    }, 
+                    {
+                        "professional certification": "international collaboration"
+                    }, 
+                    {
+                        "agency certification": "international collaboration"
+                    }, 
+                    {
+                        "international cooperation": "international collaboration"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "professional certification", 
+                    "agency certification", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Developing collective cyber defence and international collaboration To ensure collective defence in an international environment, information exchange and cooperation are enhanced with NATO, European Union cyber instances and other partners."
+    }, 
+    {
+        "sentence_id,": "1a06b7168a", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Efforts are made concerning the creation and development of NATO joint cyber security capabilities, standards, training and training opportunities."
+    }, 
+    {
+        "sentence_id,": "57b2be3635", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Developing military cyber defence capabilities The development of military cyber defence capabilities will result in cyber defence being a part of broad-based collective defence."
+    }, 
+    {
+        "sentence_id,": "c37e8bc7eb", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures"
+                ], 
+                "keywords": [
+                    {
+                        "certification": "specialists"
+                    }
+                ], 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "The latter will be ensured by involving specialists from the Defence Forces and the Estonian Defence League, as well as other public and private sector professionals."
+    }, 
+    {
+        "sentence_id,": "288653eeae", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building", 
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "manpower development": "raise"
+                    }, 
+                    {
+                        "national benchmarking": "level of awareness"
+                    }, 
+                    {
+                        "national benchmarking": "level of awareness"
+                    }, 
+                    {
+                        "manpower development": "a high level"
+                    }
+                ], 
+                "subcategory": [
+                    "manpower development", 
+                    "national benchmarking"
+                ]
+            }
+        ], 
+        "sentence": "Ensuring a high level of awareness concerning the role of cyber security in national defence In order to raise the level of awareness concerning cyber security risks in the field of national defence and to link it with other military domains, additional training is organised for personnel in the field."
+    }, 
+    {
+        "sentence_id,": "7897b73cfe", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "capacity building", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "regulation and compliance": "research and development"
+                    }, 
+                    {
+                        "standardisation development": "research and development"
+                    }, 
+                    {
+                        "un convention and protocol": "research and development"
+                    }
+                ], 
+                "subcategory": [
+                    "regulation and compliance", 
+                    "standardisation development", 
+                    "un convention and protocol"
+                ]
+            }
+        ], 
+        "sentence": "Subgoal 4: Estonia manages evolving cyber security threats To maintain and improve its cyber security capability, Estonia will adopt independent cyber security solutions, which are backed by cyber security training and training opportunities, research and development and entrepreneurship."
+    }, 
+    {
+        "sentence_id,": "c834d1762a", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "cooperation", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "responsible agency": "export"
+                    }, 
+                    {
+                        "intra-agency cooperation": "export"
+                    }, 
+                    {
+                        "institutional support": "supports"
+                    }
+                ], 
+                "subcategory": [
+                    "responsible agency", 
+                    "intra-agency cooperation", 
+                    "institutional support"
+                ]
+            }
+        ], 
+        "sentence": "In order to ensure the sustainability of solutions, the state acts as a smart contractor, and supports the export of cyber security solutions."
+    }, 
+    {
+        "sentence_id,": "5d51a76a8b", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Ensuring the next generation cyber security professionals To ensure the next generation of cyber security professionals, opportunities for additional education will be established, both in the form of higher education as well as forms of in- service training."
+    }, 
+    {
+        "sentence_id,": "49692c0f72", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "manpower development": "students"
+                    }, 
+                    {
+                        "manpower development": "students"
+                    }, 
+                    {
+                        "manpower development": "raise"
+                    }
+                ], 
+                "subcategory": [
+                    "manpower development"
+                ]
+            }
+        ], 
+        "sentence": "Support will be given to raise the number of students having completed a Masters Degree in cyber security and increase the number of doctoral theses on cyber security."
+    }, 
+    {
+        "sentence_id,": "67dda45c61", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Instruction will involve more foreign lecturers and professionals."
+    }, 
+    {
+        "sentence_id,": "3189c89df4", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "capacity building", 
+                    "cooperation", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "create"
+                    }, 
+                    {
+                        "standardisation development": "create"
+                    }, 
+                    {
+                        "manpower development": "create"
+                    }, 
+                    {
+                        "public sector partnership": "create"
+                    }, 
+                    {
+                        "institutional support": "create"
+                    }, 
+                    {
+                        "reporting mechanism": "create"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "public sector partnership", 
+                    "institutional support", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "Developing smart contracting for cyber security solutions In order to create secure solutions, the state will contribute to cyber security-related research and development."
+    }, 
+    {
+        "sentence_id,": "1cacdb388d", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "responsible agency": "coordinate"
+                    }, 
+                    {
+                        "responsible agency": "board"
+                    }, 
+                    {
+                        "manpower development": "board"
+                    }, 
+                    {
+                        "national benchmarking": "economic development"
+                    }, 
+                    {
+                        "standardisation development": "economic development"
+                    }, 
+                    {
+                        "manpower development": "economic development"
+                    }
+                ], 
+                "subcategory": [
+                    "responsible agency", 
+                    "manpower development", 
+                    "national benchmarking", 
+                    "standardisation development"
+                ]
+            }
+        ], 
+        "sentence": "A supervisory board shall be set up to coordinate the corresponding activities and to consolidate the domains of national defence, security, economic development and academia."
+    }, 
+    {
+        "sentence_id,": "a62eb33833", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "responsible agency": "export"
+                    }, 
+                    {
+                        "intra-agency cooperation": "export"
+                    }, 
+                    {
+                        "national benchmarking": "their use"
+                    }
+                ], 
+                "subcategory": [
+                    "responsible agency", 
+                    "intra-agency cooperation", 
+                    "national benchmarking"
+                ]
+            }
+        ], 
+        "sentence": "Supporting development of enterprises providing cyber security and national cyber security solutions To support the sustainability of secure solutions, the state will contribute to the export of cyber security solutions, and to increasing their use at the international level."
+    }, 
+    {
+        "sentence_id,": "d3fe6f9f17", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Preventing security risks in new solutions In order to avoid large-scale cyber incidents, the technological risks pertaining to the development and introduction of new technologies are investigated and assessed in depth."
+    }, 
+    {
+        "sentence_id,": "2ab2ce8ac0", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "manpower development": "a high level"
+                    }
+                ], 
+                "subcategory": [
+                    "manpower development"
+                ]
+            }
+        ], 
+        "sentence": "A high level of knowledge and risk-awareness facilitate achieving advantages in developing the state, society and economy."
+    }, 
+    {
+        "sentence_id,": "c891ef79ef", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Subgoal 5: Estonia develops cross-sectoral activities To improve the capabilities necessary for combating cyber threats, a number of overarching objectives are addressed."
+    }, 
+    {
+        "sentence_id,": "308d8fa338", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Adjusting the legal framework and developing cyber foreign policy are vital for protecting critical services, the fight against cybercrime, as well as for designing national defence in cyberspace."
+    }, 
+    {
+        "sentence_id,": "c81ef1631e", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Development of a legal framework to support cyber security In order to implement cyber security measures ensuring a more secure cyberspace, the legal framework related to cyber security will be updated."
+    }, 
+    {
+        "sentence_id,": "16a606dffe", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation", 
+                    "technical measures"
+                ], 
+                "keywords": [
+                    {
+                        "national benchmarking": "building measures"
+                    }, 
+                    {
+                        "manpower development": "confidence building"
+                    }, 
+                    {
+                        "public sector partnership": "confidence building"
+                    }, 
+                    {
+                        "standards": "a common understanding"
+                    }, 
+                    {
+                        "agency certification": "a common understanding"
+                    }, 
+                    {
+                        "public sector partnership": "a common understanding"
+                    }
+                ], 
+                "subcategory": [
+                    "national benchmarking", 
+                    "manpower development", 
+                    "public sector partnership", 
+                    "standards", 
+                    "agency certification"
+                ]
+            }
+        ], 
+        "sentence": "Promoting international cyber security policy In international organisations, an emphasis is placed on introducing and protecting Estonia's foreign cyber security policy positions and vision, along with developing a common understanding on the application of international legal norms and confidence building measures in cyber space."
+    }, 
+    {
+        "sentence_id,": "127269778f", 
+        "tag": [
+            {
+                "category": [
+                    "child online protection", 
+                    "legal measures"
+                ], 
+                "keywords": [
+                    {
+                        "un convention and protocol": "fundamental rights"
+                    }, 
+                    {
+                        "regulation and compliance": "rights and freedoms"
+                    }, 
+                    {
+                        "un convention and protocol": "rights and freedoms"
+                    }
+                ], 
+                "subcategory": [
+                    "un convention and protocol", 
+                    "regulation and compliance"
+                ]
+            }
+        ], 
+        "sentence": "Special attention is paid to the protection of fundamental rights and freedoms and the topic of Internet governance."
+    }, 
+    {
+        "sentence_id,": "9a1dcc9413", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "cooperation", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "cirt": "emergence"
+                    }, 
+                    {
+                        "cirt": "emergence"
+                    }, 
+                    {
+                        "international cooperation": "emergence"
+                    }, 
+                    {
+                        "international cooperation": "emergence"
+                    }, 
+                    {
+                        "institutional support": "emergence"
+                    }, 
+                    {
+                        "institutional support": "emergence"
+                    }
+                ], 
+                "subcategory": [
+                    "cirt", 
+                    "international cooperation", 
+                    "institutional support"
+                ]
+            }
+        ], 
+        "sentence": "In addition, development assistance and secure e-solutions support the emergence of free and secure cyberspace in countries where the non- governmental sector lacks the freedom to act and the necessary technical base."
+    }, 
+    {
+        "sentence_id,": "db070fa06a", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "regulation and compliance": "allies and partners"
+                    }, 
+                    {
+                        "un convention and protocol": "allies and partners"
+                    }
+                ], 
+                "subcategory": [
+                    "regulation and compliance", 
+                    "un convention and protocol"
+                ]
+            }
+        ], 
+        "sentence": "Closer cooperation with allies and partners With a view to enhancing relations with allies and partners, cooperation is intensified with close neighbours and cooperation formats are expanded with like-minded countries."
+    }, 
+    {
+        "sentence_id,": "889b62e25f", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "A significant effort is made to share cyber security related know-how and experience."
+    }, 
+    {
+        "sentence_id,": "328f681eab", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "manpower development": "raise"
+                    }, 
+                    {
+                        "intra-state cooperation": "member states"
+                    }, 
+                    {
+                        "international cooperation": "member states"
+                    }
+                ], 
+                "subcategory": [
+                    "manpower development", 
+                    "intra-state cooperation", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Enhancing the capability of the European Union With the goal of promoting the European Union's common cyber security and its policies, joint efforts will be made to raise the cyber capability of Member States and to improve their readiness and ability to deal with new threats."
+    }, 
+    {
+        "sentence_id,": "2e28da199b", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "responsible agency": "affairs"
+                    }, 
+                    {
+                        "standardisation development": "affairs"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }, 
+                    {
+                        "manpower development": "affairs"
+                    }, 
+                    {
+                        "intra-agency cooperation": "affairs"
+                    }
+                ], 
+                "subcategory": [
+                    "responsible agency", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "intra-agency cooperation"
+                ]
+            }
+        ], 
+        "sentence": "PARTIES RELATED TO THE STRATEGY The Ministry of Economic Affairs and Communications directs cyber security policy and coordinates the implementation of the strategy."
+    }, 
+    {
+        "sentence_id,": "1e6faec5f7", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }, 
+                    {
+                        "manpower development": "police"
+                    }, 
+                    {
+                        "institutional support": "police"
+                    }, 
+                    {
+                        "reporting mechanism": "police"
+                    }
+                ], 
+                "subcategory": [
+                    "responsible agency", 
+                    "manpower development", 
+                    "institutional support", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "The strategy will be implemented by involving all ministries and government agencies, especially the Ministry of Defence, the Information System Authority, the Ministry of Justice, Police and Border Guard Board, the Government Office, the Ministry of Foreign Affairs, the Ministry of the Interior and the Ministry of Education and Research."
+    }, 
+    {
+        "sentence_id,": "1672f7a33b", 
+        "tag": [
+            {
+                "category": [
+                    "cooperation", 
+                    "capacity building", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "intra-state cooperation": "cooperate"
+                    }, 
+                    {
+                        "intra-state cooperation": "cooperate"
+                    }, 
+                    {
+                        "public sector partnership": "cooperate"
+                    }, 
+                    {
+                        "public sector partnership": "cooperate"
+                    }, 
+                    {
+                        "international cooperation": "cooperate"
+                    }, 
+                    {
+                        "international cooperation": "cooperate"
+                    }, 
+                    {
+                        "manpower development": "educational institutions"
+                    }, 
+                    {
+                        "institutional support": "educational institutions"
+                    }
+                ], 
+                "subcategory": [
+                    "intra-state cooperation", 
+                    "public sector partnership", 
+                    "international cooperation", 
+                    "manpower development", 
+                    "institutional support"
+                ]
+            }
+        ], 
+        "sentence": "NGOs, business organizations, governments, and educational institutions will cooperate in the implementation and assessment of the strategy."
+    }, 
+    {
+        "sentence_id,": "d7164ee8ef", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "certification": "submit"
+                    }, 
+                    {
+                        "policy": "submit"
+                    }, 
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "responsible agency": "affairs"
+                    }, 
+                    {
+                        "responsible agency": "request"
+                    }, 
+                    {
+                        "standardisation development": "affairs"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }, 
+                    {
+                        "manpower development": "affairs"
+                    }, 
+                    {
+                        "intra-state cooperation": "request"
+                    }, 
+                    {
+                        "intra-agency cooperation": "affairs"
+                    }, 
+                    {
+                        "public sector partnership": "request"
+                    }
+                ], 
+                "subcategory": [
+                    "certification", 
+                    "policy", 
+                    "responsible agency", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "intra-state cooperation", 
+                    "intra-agency cooperation", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "At the request of the Ministry of Economic Affairs and Communications, agencies involved in executing the strategy will submit a written overview of the implementation of the measures and activities each year by 31 January, at the latest."
+    }, 
+    {
+        "sentence_id,": "ac1d1bc1a8", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "effectiveness"
+                    }, 
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "responsible agency": "affairs"
+                    }, 
+                    {
+                        "standardisation development": "affairs"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }, 
+                    {
+                        "manpower development": "affairs"
+                    }, 
+                    {
+                        "intra-agency cooperation": "affairs"
+                    }, 
+                    {
+                        "public sector partnership": "effectiveness"
+                    }
+                ], 
+                "subcategory": [
+                    "policy", 
+                    "responsible agency", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "intra-agency cooperation", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "Based on the reviews, the Ministry of Economic Affairs and Communication will evaluate the effectiveness of the measures and activities and will compile a report on the implementation of the strategy annually by 31 May, at the latest."
+    }, 
+    {
+        "sentence_id,": "2eed018ec7", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "execution"
+                    }, 
+                    {
+                        "certification": "execution"
+                    }, 
+                    {
+                        "policy": "execution"
+                    }, 
+                    {
+                        "responsible agency": "execution"
+                    }, 
+                    {
+                        "intra-state cooperation": "execution"
+                    }, 
+                    {
+                        "international cooperation": "execution"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "certification", 
+                    "policy", 
+                    "responsible agency", 
+                    "intra-state cooperation", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "A brief report on the execution of the strategy, consisting of an overview of the activities, difficulties with and the cost of the application, will be presented annually to the Government of the Republic by 30 June, at the latest."
+    }, 
+    {
+        "sentence_id,": "7a49e32edb", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "execution"
+                    }, 
+                    {
+                        "certification": "execution"
+                    }, 
+                    {
+                        "policy": "execution"
+                    }, 
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "responsible agency": "affairs"
+                    }, 
+                    {
+                        "responsible agency": "execution"
+                    }, 
+                    {
+                        "standardisation development": "affairs"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }, 
+                    {
+                        "manpower development": "affairs"
+                    }, 
+                    {
+                        "intra-state cooperation": "execution"
+                    }, 
+                    {
+                        "intra-agency cooperation": "affairs"
+                    }, 
+                    {
+                        "international cooperation": "execution"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "certification", 
+                    "policy", 
+                    "responsible agency", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "intra-state cooperation", 
+                    "intra-agency cooperation", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "The final report on the execution of the strategy shall be presented by the Ministry of Economic Affairs and Communication to the Government of the Republic by 31 May 2018, at the latest."
+    }, 
+    {
+        "sentence_id,": "367ce8c8bd", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The action plan will lay out the activities and budget of the strategy as well as the individuals responsible for each part."
+    }, 
+    {
+        "sentence_id,": "0c2983f1cd", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The four-year cost of the strategy will be nearly EUR 16 million."
+    }, 
+    {
+        "sentence_id,": "50e51b820a", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The report of the action plan that will be submitted to the Government of the Republic will also include propositions on improving the action plan."
+    }, 
+    {
+        "sentence_id,": "347156a21a", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "roadmap for governance": "other government"
+                    }, 
+                    {
+                        "agency certification": "other government"
+                    }
+                ], 
+                "subcategory": [
+                    "roadmap for governance", 
+                    "agency certification"
+                ]
+            }
+        ], 
+        "sentence": "The activities of the action plan will be reflected in the work plans of the various ministries and other government institutions."
+    }, 
+    {
+        "sentence_id,": "970fd79abb", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "certification": "competencies"
+                    }, 
+                    {
+                        "responsible agency": "competencies"
+                    }, 
+                    {
+                        "manpower development": "competencies"
+                    }, 
+                    {
+                        "intra-state cooperation": "competencies"
+                    }
+                ], 
+                "subcategory": [
+                    "certification", 
+                    "responsible agency", 
+                    "manpower development", 
+                    "intra-state cooperation"
+                ]
+            }
+        ], 
+        "sentence": "The strategy will not redefine the competencies of the different offices responsible for cyber security."
+    }
+]

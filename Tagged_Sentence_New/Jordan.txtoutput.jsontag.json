@@ -1,0 +1,4036 @@
+[
+    {
+        "sentence_id,": "8b32e1c374", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }
+                ], 
+                "subcategory": [
+                    "responsible agency", 
+                    "manpower development"
+                ]
+            }
+        ], 
+        "sentence": "Ministry of Information and Communications Technology National Information Assurance and Cyber Security Strategy (NIACSS) 2012 National Information Assurance and Cyber Security Strategy (NIACSS) 2012 Acknowledgement This document would not have been possible without the support of many people."
+    }, 
+    {
+        "sentence_id,": "15acc47947", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures", 
+                    "organization measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "draft"
+                    }, 
+                    {
+                        "regulation and compliance": "draft"
+                    }, 
+                    {
+                        "regulation and compliance": "minister"
+                    }, 
+                    {
+                        "certification": "draft"
+                    }, 
+                    {
+                        "policy": "draft"
+                    }, 
+                    {
+                        "policy": "minister"
+                    }, 
+                    {
+                        "roadmap for governance": "minister"
+                    }, 
+                    {
+                        "responsible agency": "minister"
+                    }, 
+                    {
+                        "reporting mechanism": "minister"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "certification", 
+                    "policy", 
+                    "roadmap for governance", 
+                    "responsible agency", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "Type Date Comments 1.0 Draft June 1st , 2011 Initiated by Minister of ICT, Eng."
+    }, 
+    {
+        "sentence_id,": "c9a39cac28", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures", 
+                    "organization measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "draft"
+                    }, 
+                    {
+                        "criminal legislation": "draft"
+                    }, 
+                    {
+                        "regulation and compliance": "draft"
+                    }, 
+                    {
+                        "regulation and compliance": "draft"
+                    }, 
+                    {
+                        "regulation and compliance": "minister"
+                    }, 
+                    {
+                        "certification": "draft"
+                    }, 
+                    {
+                        "certification": "draft"
+                    }, 
+                    {
+                        "policy": "draft"
+                    }, 
+                    {
+                        "policy": "draft"
+                    }, 
+                    {
+                        "policy": "minister"
+                    }, 
+                    {
+                        "roadmap for governance": "minister"
+                    }, 
+                    {
+                        "responsible agency": "minister"
+                    }, 
+                    {
+                        "reporting mechanism": "minister"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "certification", 
+                    "policy", 
+                    "roadmap for governance", 
+                    "responsible agency", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "Atef Al Tell 2.0 Draft July 26th, 2011 CNIP program is added by SPI Adv., NITC(Dr. Ahmed Otoom) 3.0 Draft August 14th, 2011 Review by Minister of ICT, Eng."
+    }, 
+    {
+        "sentence_id,": "eae0336865", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures", 
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "draft"
+                    }, 
+                    {
+                        "criminal legislation": "draft"
+                    }, 
+                    {
+                        "criminal legislation": "draft"
+                    }, 
+                    {
+                        "regulation and compliance": "draft"
+                    }, 
+                    {
+                        "regulation and compliance": "draft"
+                    }, 
+                    {
+                        "regulation and compliance": "draft"
+                    }, 
+                    {
+                        "certification": "draft"
+                    }, 
+                    {
+                        "certification": "draft"
+                    }, 
+                    {
+                        "certification": "draft"
+                    }, 
+                    {
+                        "policy": "draft"
+                    }, 
+                    {
+                        "policy": "draft"
+                    }, 
+                    {
+                        "policy": "draft"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "certification", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Atef Al Tell 4.0 Draft th Review by Timothy Bloechl on V2.0 th August 15 , 2011 5.0 Draft August 18 , 2011 Review by GM & SPI Adv., NITC 6.0 Draft September 4th,2011 Review by PS Dir."
+    }, 
+    {
+        "sentence_id,": "4cdefe71ba", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures", 
+                    "organization measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "draft"
+                    }, 
+                    {
+                        "criminal legislation": "draft"
+                    }, 
+                    {
+                        "regulation and compliance": "draft"
+                    }, 
+                    {
+                        "regulation and compliance": "draft"
+                    }, 
+                    {
+                        "regulation and compliance": "minister"
+                    }, 
+                    {
+                        "certification": "draft"
+                    }, 
+                    {
+                        "certification": "draft"
+                    }, 
+                    {
+                        "policy": "draft"
+                    }, 
+                    {
+                        "policy": "draft"
+                    }, 
+                    {
+                        "policy": "minister"
+                    }, 
+                    {
+                        "roadmap for governance": "minister"
+                    }, 
+                    {
+                        "responsible agency": "minister"
+                    }, 
+                    {
+                        "reporting mechanism": "minister"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "certification", 
+                    "policy", 
+                    "roadmap for governance", 
+                    "responsible agency", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "& E-Gov Dir., MoICT 7.0 Draft September 11th, 2011 Review by PS Dir., MoICT, SPI Adv., and GM, NITC 8.0 Final Draft October 16th, 2011 Public Review 9.0 Final July 30th, 2012 Review by Minister of ICT, Eng."
+    }, 
+    {
+        "sentence_id,": "2207df2b46", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Atef Al Tell 9.0 Approved September 24th,2012 Approved by Cabinet Point of Contact Please direct inquiries about this strategy, if any, to the following point of contact Organization: National Information Technology Center (NITC) Name: Dr. Ahmed Otoom Title: DGs Advisor for the Implementation of E-Gov."
+    }, 
+    {
+        "sentence_id,": "e74f2eb35e", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "EXECUTIVE SUMMARY Jordanian Government organizations and private sector have different approaches to ensure the security of their information systems and critical information infrastructures."
+    }, 
+    {
+        "sentence_id,": "ff30d97ab4", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "national benchmarking": "definition"
+                    }, 
+                    {
+                        "manpower development": "definition"
+                    }
+                ], 
+                "subcategory": [
+                    "national benchmarking", 
+                    "manpower development"
+                ]
+            }
+        ], 
+        "sentence": "However, these approaches: are generally basic; not systematic; subjective; have no clear definition or boundaries, are not thorough; do not meet international standards; and do not deal effectively with threats emerging from cyberspace."
+    }, 
+    {
+        "sentence_id,": "ee4dcca3d9", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Moreover, cyber security efforts across Jordanian Government organizations and private sector are not consolidated and risks are not addressed at the national level."
+    }, 
+    {
+        "sentence_id,": "698ff68d7f", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "regulation and compliance": "networking"
+                    }, 
+                    {
+                        "cirt": "networking"
+                    }, 
+                    {
+                        "manpower development": "networking"
+                    }
+                ], 
+                "subcategory": [
+                    "regulation and compliance", 
+                    "cirt", 
+                    "manpower development"
+                ]
+            }
+        ], 
+        "sentence": "The revolution in information and communication technologies, powerful personal computers, high-bandwidth and wireless networking technologies, widespread use of the internet, and the high volume of information exchanged over the internet and local networks make it very difficult within currently adopted approaches to obtain and maintain the desired level of information security."
+    }, 
+    {
+        "sentence_id,": "d0dfda2e13", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The weaknesses in current approaches, coupled with rapid advancements in technology place national networks at higher risks."
+    }, 
+    {
+        "sentence_id,": "bcb4f47e18", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "manpower development": "a high level"
+                    }
+                ], 
+                "subcategory": [
+                    "manpower development"
+                ]
+            }
+        ], 
+        "sentence": "The nation needs secure and reliable national information infrastructures which are resilient to malicious attack or arbitrary disruption to maintain a high level of trust in these systems across government, with the private sector, and within the citizenry."
+    }, 
+    {
+        "sentence_id,": "e6f3031881", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Government of Jordan recognizes the challenges posed by malevolent actors access to cyberspace."
+    }, 
+    {
+        "sentence_id,": "06bd76fa70", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Reports of cyber-attacks and their impact are a routine, daily occurrence around the world."
+    }, 
+    {
+        "sentence_id,": "049d4934d8", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Furthermore, while we know what is known from these reports, the high probability of unreported or unknown attacks or intrusions causes even greater concern."
+    }, 
+    {
+        "sentence_id,": "a5346d856e", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "These challenges require coordinated and focused efforts from all government organizations and strong partnerships between the public and private sectors, and with our citizens."
+    }, 
+    {
+        "sentence_id,": "612a26e52b", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "successful implementation"
+                    }, 
+                    {
+                        "responsible agency": "successful implementation"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "responsible agency"
+                ]
+            }
+        ], 
+        "sentence": "Meeting these challenges requires all information assurance and security plans and activities adhere to a nationwide strategy to guarantee consistency and successful implementation of a coordinated and effective cyber defense."
+    }, 
+    {
+        "sentence_id,": "1d02db614a", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Page 4 of 20 National Information Assurance and Cyber Security Strategy (NIACSS) 2012 Information Assurance: technical and managerial measures designed to ensure the confidentiality, integrity, availability, authenticity, possession or control, and utility of information and information systems."
+    }, 
+    {
+        "sentence_id,": "e1fca550f8", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "manpower development": "aims"
+                    }, 
+                    {
+                        "intra-agency cooperation": "aims"
+                    }
+                ], 
+                "subcategory": [
+                    "manpower development", 
+                    "intra-agency cooperation"
+                ]
+            }
+        ], 
+        "sentence": "This National Information Assurance and Cyber Security Strategy (NIACSS) is not only intended to secure the Internet cyberspace, it should provide a secure and trusted computing environment for all IT-related infrastructure throughout all identified national priorities The NIACSS aims to provide a herein."
+    }, 
+    {
+        "sentence_id,": "a938a53c31", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The NIACSS should strong foundation to secure the augment the overall National National IT Infrastructure and is Security Strategy (NSS) for not only confined to secure the Jordan."
+    }, 
+    {
+        "sentence_id,": "14fce8f77c", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The main purpose of Internet cyberspace the NIACSS is to give structure, involve, and empower all concerned organizations to more effectively secure computer networks they own, operate, control, or interact with."
+    }, 
+    {
+        "sentence_id,": "c58b489168", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "NIACSS identifies strategic objectives, national priorities, and an implementation road map."
+    }, 
+    {
+        "sentence_id,": "fa898e6028", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "strategic objectives"
+                    }, 
+                    {
+                        "roadmap for governance": "strategic objectives"
+                    }, 
+                    {
+                        "public sector partnership": "strategic objectives"
+                    }
+                ], 
+                "subcategory": [
+                    "policy", 
+                    "roadmap for governance", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "The strategic objectives support the Governments vision for the path ahead."
+    }, 
+    {
+        "sentence_id,": "61feeec0c3", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "manpower development": "aims"
+                    }, 
+                    {
+                        "intra-agency cooperation": "aims"
+                    }
+                ], 
+                "subcategory": [
+                    "manpower development", 
+                    "intra-agency cooperation"
+                ]
+            }
+        ], 
+        "sentence": "This vision aims to improve information assurance and cyber security measures in Jordan."
+    }, 
+    {
+        "sentence_id,": "6ed9548e58", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Supporting national information security priorities address the critical needs required to guarantee a successful and effective protection of the national cyberspace."
+    }, 
+    {
+        "sentence_id,": "394d760ba0", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The NIACSS also considers the following important areas: Organization, Technical, Legal, Capacity Building, and Partnerships."
+    }, 
+    {
+        "sentence_id,": "cfffb3d07d", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "National cyber security priorities demand collaboration within the Government, and with international partners, the private sector, and the population."
+    }, 
+    {
+        "sentence_id,": "418320f7ef", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "guides"
+                    }, 
+                    {
+                        "policy": "guides"
+                    }, 
+                    {
+                        "standards": "successful implementation"
+                    }, 
+                    {
+                        "responsible agency": "successful implementation"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "policy", 
+                    "responsible agency"
+                ]
+            }
+        ], 
+        "sentence": "The implementation road map guides successful implementation of the identified priorities towards achieving the strategic objectives."
+    }, 
+    {
+        "sentence_id,": "cab7383af5", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Page 5 of 20 National Information Assurance and Cyber Security Strategy (NIACSS) 2012 This document is organized as follows."
+    }, 
+    {
+        "sentence_id,": "d752520f4a", 
+        "tag": [
+            {
+                "category": [
+                    "child online protection", 
+                    "organization measures", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "national legislation": "sections"
+                    }, 
+                    {
+                        "policy": "strategic objectives"
+                    }, 
+                    {
+                        "roadmap for governance": "strategic objectives"
+                    }, 
+                    {
+                        "public sector partnership": "strategic objectives"
+                    }
+                ], 
+                "subcategory": [
+                    "national legislation", 
+                    "policy", 
+                    "roadmap for governance", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "Sections 2 and 3 list the Scope and the Strategic Objectives of (NIACSS), respectively."
+    }, 
+    {
+        "sentence_id,": "aeb614d417", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Section 4 lists National Information Security Priorities."
+    }, 
+    {
+        "sentence_id,": "3530556d59", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "strategy implementation"
+                    }, 
+                    {
+                        "policy": "strategy implementation"
+                    }, 
+                    {
+                        "responsible agency": "strategy implementation"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "policy", 
+                    "responsible agency"
+                ]
+            }
+        ], 
+        "sentence": "Section 5 outlines the Strategy Implementation Road Map."
+    }, 
+    {
+        "sentence_id,": "86d2e16140", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Finally, Section 6 summarizes the overall strategy."
+    }, 
+    {
+        "sentence_id,": "988f653952", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "roadmap for governance": "achieve"
+                    }
+                ], 
+                "subcategory": [
+                    "roadmap for governance"
+                ]
+            }
+        ], 
+        "sentence": "SCOPE The National Information Assurance and Cyber Security Strategy applies to all information domains to achieve comprehensive information security in Jordan."
+    }, 
+    {
+        "sentence_id,": "2fdfcb7515", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "successful implementation"
+                    }, 
+                    {
+                        "responsible agency": "successful implementation"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "responsible agency"
+                ]
+            }
+        ], 
+        "sentence": "Although the government is the developer of this strategy, a successful implementation requires collaboration among all involved parties: government, international partners, and the private sector."
+    }, 
+    {
+        "sentence_id,": "e4b01c23d7", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Efforts of involved parties must complement rather than conflict with each other."
+    }, 
+    {
+        "sentence_id,": "e50e3676b6", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "standardisation development": "the private sector"
+                    }, 
+                    {
+                        "manpower development": "the private sector"
+                    }, 
+                    {
+                        "public sector partnership": "the private sector"
+                    }
+                ], 
+                "subcategory": [
+                    "standardisation development", 
+                    "manpower development", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "Strategies and policies developed by the private sector should augment, comply, and be consistent with this strategy."
+    }, 
+    {
+        "sentence_id,": "300b196989", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Strengthen Jordans National Security by Preventing Cyber Attacks to Critical Information Infrastructures."
+    }, 
+    {
+        "sentence_id,": "3b4053d5c7", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "roadmap for governance": "government networks"
+                    }, 
+                    {
+                        "agency certification": "government networks"
+                    }
+                ], 
+                "subcategory": [
+                    "roadmap for governance", 
+                    "agency certification"
+                ]
+            }
+        ], 
+        "sentence": "Minimize Risks to Critical Information Infrastructures and Government Networks by Reducing Vulnerabilities."
+    }, 
+    {
+        "sentence_id,": "d9bfc0217a", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Minimize Damage and Recovery Time from Cyber Attacks regardless of source or intent."
+    }, 
+    {
+        "sentence_id,": "2a844bf0b1", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "manpower development": "enhance"
+                    }, 
+                    {
+                        "intra-state cooperation": "enhance"
+                    }, 
+                    {
+                        "public sector partnership": "enhance"
+                    }, 
+                    {
+                        "international cooperation": "enhance"
+                    }
+                ], 
+                "subcategory": [
+                    "manpower development", 
+                    "intra-state cooperation", 
+                    "public sector partnership", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Enhance Jordans Economy and improve National Prosperity by Increasing Confidence and Trust in Government, and by extension, Private Information Systems Security, thereby encouraging investment and creating opportunities for enhanced collaborative processes."
+    }, 
+    {
+        "sentence_id,": "543db73483", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Increase Information Security Awareness and its importance to National Security through a National Information Security Awareness and Training Program."
+    }, 
+    {
+        "sentence_id,": "eb57a42bce", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "roadmap for governance": "achieve"
+                    }, 
+                    {
+                        "policy": "strategic objectives"
+                    }, 
+                    {
+                        "roadmap for governance": "strategic objectives"
+                    }, 
+                    {
+                        "public sector partnership": "strategic objectives"
+                    }
+                ], 
+                "subcategory": [
+                    "roadmap for governance", 
+                    "policy", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "NATIONAL INFORMATION SECURITY PRIORITIES To achieve the National Strategic Objectives listed above (Section 3), Government of Jordan organizes its NIACSS across nine major national interdependent priorities, each priority demanding collaboration across Government, and with international partners, the private sector, and the citizenry."
+    }, 
+    {
+        "sentence_id,": "345a404c0d", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Taken as a whole, these priorities form the action lines of the NIACSS Implementation Roadmap."
+    }, 
+    {
+        "sentence_id,": "c04c3ee5f6", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Risk Management Program A Nation-Wide Risk Management Program will establish the needed framework for high level impact risk management on the national level."
+    }, 
+    {
+        "sentence_id,": "b97a13ed1c", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "roadmap for governance": "government entities"
+                    }, 
+                    {
+                        "agency certification": "government entities"
+                    }
+                ], 
+                "subcategory": [
+                    "roadmap for governance", 
+                    "agency certification"
+                ]
+            }
+        ], 
+        "sentence": "It will not address individual risks, for government entities and private sector, with little or no impact on the national level."
+    }, 
+    {
+        "sentence_id,": "97b3cc7bfa", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Government organizations and private sector must address and manage their own risks."
+    }, 
+    {
+        "sentence_id,": "44ce79dc67", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "They must develop their own risk management programs or plans that are inline with the Nation-Wide Risk Management Program."
+    }, 
+    {
+        "sentence_id,": "aeac555081", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Government organizations and private sector will develop and maintain risk management programs that are inline with the nation-wide risk management program."
+    }, 
+    {
+        "sentence_id,": "b082da1b69", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "In cyberspace, risks can never be reduced to zero and there is no 100% secure system."
+    }, 
+    {
+        "sentence_id,": "20d3a497c0", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Page 7 of 20 National Information Assurance and Cyber Security Strategy (NIACSS) 2012 Therefore, understanding the magnitude and potential impact of these risks informs organizational prioritization against limited resources."
+    }, 
+    {
+        "sentence_id,": "5463462e66", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Proper risk assessment and management in Government organizations will contribute to business continuity and mission success."
+    }, 
+    {
+        "sentence_id,": "43a28bfa2b", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Organizations should assess risk both qualitatively and quantitatively by identifying threats and vulnerabilities."
+    }, 
+    {
+        "sentence_id,": "e9d45bcaa4", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The likelihood and impact of each risk should be evaluated against organization missions and assets to identify security gaps."
+    }, 
+    {
+        "sentence_id,": "5911a55eee", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "standardisation development": "leaders"
+                    }
+                ], 
+                "subcategory": [
+                    "standardisation development"
+                ]
+            }
+        ], 
+        "sentence": "These gaps then define the true nature of the potential risk faced by the organization against which leaders must decide either to accept the risk, or take action to minimize or reduce the potential threat."
+    }, 
+    {
+        "sentence_id,": "cfbdc1b3c7", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "recovery plans"
+                    }, 
+                    {
+                        "roadmap for governance": "recovery plans"
+                    }
+                ], 
+                "subcategory": [
+                    "policy", 
+                    "roadmap for governance"
+                ]
+            }
+        ], 
+        "sentence": "As no system is risk-free, government organizations should maintain disaster recovery plans that are products of effective risk management programs."
+    }, 
+    {
+        "sentence_id,": "7a3fb94730", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "recovery plans"
+                    }, 
+                    {
+                        "roadmap for governance": "recovery plans"
+                    }
+                ], 
+                "subcategory": [
+                    "policy", 
+                    "roadmap for governance"
+                ]
+            }
+        ], 
+        "sentence": "Successful disaster recovery plans ensure organizations are back in operation in a short time period after incidents occur."
+    }, 
+    {
+        "sentence_id,": "6d6765b436", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Government organizations must adapt to the following strategies, for responding to risks, where applicable: mitigation, transference, acceptance, and avoidance."
+    }, 
+    {
+        "sentence_id,": "e91a9fbcfb", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "cirt": "penetration"
+                    }, 
+                    {
+                        "national benchmarking": "penetration"
+                    }, 
+                    {
+                        "cirt": "computer emergency response"
+                    }, 
+                    {
+                        "manpower development": "computer emergency response"
+                    }, 
+                    {
+                        "institutional support": "computer emergency response"
+                    }, 
+                    {
+                        "reporting mechanism": "computer emergency response"
+                    }
+                ], 
+                "subcategory": [
+                    "cirt", 
+                    "national benchmarking", 
+                    "manpower development", 
+                    "institutional support", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "National Computer Emergency Response Team (JOCERT) Information systems are targets for cyber-attack due to: 1) revolutionary growth of information and telecommunication technologies in government organizations and big business Government of Jordan as well; 2) availability of Government Ewill establish a services through the E-Government National Computer program; 3) increasing internet penetration Emergency Response rate and e-commerce usage, and; 4) the Team (JOCERT) increasing number of connected systems and networks."
+    }, 
+    {
+        "sentence_id,": "fba598ffb8", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Cyber-attacks increase the possibility of data disclosure, data manipulation, data loss, and systems sabotage."
+    }, 
+    {
+        "sentence_id,": "23f92c88bd", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "capacity building", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "cirt": "computer emergency response"
+                    }, 
+                    {
+                        "manpower development": "computer emergency response"
+                    }, 
+                    {
+                        "institutional support": "computer emergency response"
+                    }, 
+                    {
+                        "reporting mechanism": "computer emergency response"
+                    }
+                ], 
+                "subcategory": [
+                    "cirt", 
+                    "manpower development", 
+                    "institutional support", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "These factors trigger the urgent need for a National Computer Emergency Response Team (JOCERT)."
+    }, 
+    {
+        "sentence_id,": "7e03aae0e3", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "At its highest level, the JOCERT helps the nation prepare for, prevent, respond to, and recover from cyber incidents and attacks."
+    }, 
+    {
+        "sentence_id,": "bc964355ce", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "roadmap for governance": "achieve"
+                    }
+                ], 
+                "subcategory": [
+                    "roadmap for governance"
+                ]
+            }
+        ], 
+        "sentence": "The JOCERT, which will require management and/or operational assets at national and organizational levels, will enable Jordan to be better positioned to manage and respond to cyberPage 8 of 20 National Information Assurance and Cyber Security Strategy (NIACSS) 2012 attacks and incidents to achieve a higher level of efficiency and transparency in dealing across government, with citizens and the private sector."
+    }, 
+    {
+        "sentence_id,": "8b7e3dbebc", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "certification": "offer"
+                    }, 
+                    {
+                        "responsible agency": "coordinate"
+                    }, 
+                    {
+                        "manpower development": "offer"
+                    }, 
+                    {
+                        "institutional support": "offer"
+                    }, 
+                    {
+                        "reporting mechanism": "offer"
+                    }
+                ], 
+                "subcategory": [
+                    "certification", 
+                    "responsible agency", 
+                    "manpower development", 
+                    "institutional support", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "The JOCERT will coordinate with regional and international emergency warning systems and should offer the following four kinds of capabilities/services: proactive, reactive, quality management, and training."
+    }, 
+    {
+        "sentence_id,": "9802eab57b", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "JOCERT will deal with information system security incidents utilizing the following methodology: receiving alerts, analyzing incidents, responding to incidents, and announcing incidents, respectively."
+    }, 
+    {
+        "sentence_id,": "ec8fa805ef", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "manpower development": "capacity building"
+                    }, 
+                    {
+                        "manpower development": "training programs"
+                    }, 
+                    {
+                        "professional certification": "training programs"
+                    }, 
+                    {
+                        "public sector partnership": "capacity building"
+                    }
+                ], 
+                "subcategory": [
+                    "manpower development", 
+                    "professional certification", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "Security Awareness and Capacity Building Program Cyber Security and Information Assurance Awareness and Training Programs are a critical priority."
+    }, 
+    {
+        "sentence_id,": "dc84e9b4c2", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Establishing and maintaining these programs empowers Government organizations and private sector and yields a great potential Government of Jordan return on investment in terms of will design, develop, and contributing to the protection of critical implement CS&IA information resources."
+    }, 
+    {
+        "sentence_id,": "3acf59940b", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Organizations Awareness and Training which continually train their workforce in Programs."
+    }, 
+    {
+        "sentence_id,": "ddd832b614", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "security policy and role-based security responsibilities will have a higher rate of success in protecting critical information."
+    }, 
+    {
+        "sentence_id,": "f863e5773e", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Government of Jordan will develop these programs in cooperation with the private sector."
+    }, 
+    {
+        "sentence_id,": "834262dfee", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "manpower development": "public awareness"
+                    }, 
+                    {
+                        "public sector partnership": "public awareness"
+                    }
+                ], 
+                "subcategory": [
+                    "manpower development", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "These programs should have the following characteristics: Increases public awareness of cyberspace security issues and efforts."
+    }, 
+    {
+        "sentence_id,": "36dac91182", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Addresses cyberspace security policy, tactics, techniques, and procedures including response plans in the event of cyber-attack."
+    }, 
+    {
+        "sentence_id,": "98c9fd0341", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Expands the government information technology workforce especially those focused on cyberspace security."
+    }, 
+    {
+        "sentence_id,": "01f10f19a9", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Involves and encourages academic and research institution efforts to improve Cyberspace security education, knowledge and capabilities."
+    }, 
+    {
+        "sentence_id,": "f2f847c676", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Include a strong and well-balanced On-the-Job Training (OJT)."
+    }, 
+    {
+        "sentence_id,": "b8ea57d517", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "legal measures", 
+                    "capacity building", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "implementing"
+                    }, 
+                    {
+                        "standards": "implementing"
+                    }, 
+                    {
+                        "responsible agency": "implementing"
+                    }, 
+                    {
+                        "responsible agency": "implementing"
+                    }, 
+                    {
+                        "regulation and compliance": "standards and policies"
+                    }, 
+                    {
+                        "regulation and compliance": "standards and policies"
+                    }, 
+                    {
+                        "standards": "standards and policies"
+                    }, 
+                    {
+                        "standards": "standards and policies"
+                    }, 
+                    {
+                        "standardisation development": "standards and policies"
+                    }, 
+                    {
+                        "standardisation development": "standards and policies"
+                    }, 
+                    {
+                        "un convention and protocol": "standards and policies"
+                    }, 
+                    {
+                        "un convention and protocol": "standards and policies"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "responsible agency", 
+                    "regulation and compliance", 
+                    "standardisation development", 
+                    "un convention and protocol"
+                ]
+            }
+        ], 
+        "sentence": "Develop National Information Security Standards and Policies An authorized government entity, National Information Assurance and Security Agency (NIACSA) (Section 5), will develop and or customize nationwide cyberspace security overarching standards considering current The efforts of implementing nationwide overarching standards and policies will be assigned or managed by NIACSA (Section 5)."
+    }, 
+    {
+        "sentence_id,": "4f1b76c1a1", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures"
+                ], 
+                "keywords": [
+                    {
+                        "regulation and compliance": "compliance"
+                    }, 
+                    {
+                        "regulation and compliance": "compliance"
+                    }, 
+                    {
+                        "standards": "compliance"
+                    }, 
+                    {
+                        "standards": "compliance"
+                    }
+                ], 
+                "subcategory": [
+                    "regulation and compliance", 
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "NIACSA will also audit and evaluate the compliance with these standards and policies."
+    }, 
+    {
+        "sentence_id,": "a469a97c0b", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "NIACSA should have a flexible organizational structure in which development, review, evaluation and audit are assigned to responsible departments such that segregation of duties is maintained."
+    }, 
+    {
+        "sentence_id,": "d299f96eaa", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "encryption"
+                    }, 
+                    {
+                        "standards": "encryption"
+                    }, 
+                    {
+                        "reporting mechanism": "encryption"
+                    }, 
+                    {
+                        "reporting mechanism": "encryption"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "international standards, policies, and best practices, such as encryption algorithms, encryption keys management, software development, physical and logical access control, and networks security."
+    }, 
+    {
+        "sentence_id,": "2ac42f483e", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "NIACSA will develop the Information Security Policy must be developed and enforced to meet optimum information security requirements for government organizations and private sector."
+    }, 
+    {
+        "sentence_id,": "d01d5ac366", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building", 
+                    "legal measures", 
+                    "technical measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "roadmap for governance": "government entities"
+                    }, 
+                    {
+                        "manpower development": "training programs"
+                    }, 
+                    {
+                        "professional certification": "training programs"
+                    }, 
+                    {
+                        "agency certification": "government entities"
+                    }, 
+                    {
+                        "regulation and compliance": "standards and policies"
+                    }, 
+                    {
+                        "standards": "standards and policies"
+                    }, 
+                    {
+                        "standardisation development": "standards and policies"
+                    }, 
+                    {
+                        "un convention and protocol": "standards and policies"
+                    }
+                ], 
+                "subcategory": [
+                    "roadmap for governance", 
+                    "manpower development", 
+                    "professional certification", 
+                    "agency certification", 
+                    "regulation and compliance", 
+                    "standards", 
+                    "standardisation development", 
+                    "un convention and protocol"
+                ]
+            }
+        ], 
+        "sentence": "necessary guidelines and training programs to guarantee that related entities can implement such standards and policies Individual government entities and private sector that have different security requirements will have the ability to develop their own security policies that do not contradict with the nationwide security policy."
+    }, 
+    {
+        "sentence_id,": "b59f95a206", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "roadmap for governance": "government entities"
+                    }, 
+                    {
+                        "agency certification": "government entities"
+                    }
+                ], 
+                "subcategory": [
+                    "roadmap for governance", 
+                    "agency certification"
+                ]
+            }
+        ], 
+        "sentence": "NIACSA, Government entities and private sector must co-operate to ensure that their policies augment, comply, and be consistent with the nationwide policies."
+    }, 
+    {
+        "sentence_id,": "07d03073fe", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Page 10 of 20 National Information Assurance and Cyber Security Strategy (NIACSS) 2012 A nationwide policy should be developed, published and communicated to provide direction and support for information security per this strategy, relevant laws, regulations and international information security standards."
+    }, 
+    {
+        "sentence_id,": "68ffb06d80", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures", 
+                    "capacity building", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "regulation and compliance": "standards and policies"
+                    }, 
+                    {
+                        "standards": "standards and policies"
+                    }, 
+                    {
+                        "standardisation development": "standards and policies"
+                    }, 
+                    {
+                        "un convention and protocol": "standards and policies"
+                    }
+                ], 
+                "subcategory": [
+                    "regulation and compliance", 
+                    "standards", 
+                    "standardisation development", 
+                    "un convention and protocol"
+                ]
+            }
+        ], 
+        "sentence": "The resulting information security standards and policies should be reviewed at planned intervals to accommodate for the rapid change of the cyberspace environment to ensure currency and effectiveness."
+    }, 
+    {
+        "sentence_id,": "d3e8938c77", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures", 
+                    "capacity building", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "regulation and compliance": "standards and policies"
+                    }, 
+                    {
+                        "standards": "standards and policies"
+                    }, 
+                    {
+                        "standardisation development": "standards and policies"
+                    }, 
+                    {
+                        "un convention and protocol": "standards and policies"
+                    }
+                ], 
+                "subcategory": [
+                    "regulation and compliance", 
+                    "standards", 
+                    "standardisation development", 
+                    "un convention and protocol"
+                ]
+            }
+        ], 
+        "sentence": "Standards and policies should have a single owner for development, review and evaluation."
+    }, 
+    {
+        "sentence_id,": "ed3fff07f9", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "At national and organizational level, officials and any other necessary party will be designated to help develop, promulgate, and review standards and policies."
+    }, 
+    {
+        "sentence_id,": "ac7ce3ca7d", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "There should be defined management review procedures."
+    }, 
+    {
+        "sentence_id,": "d9c8fcd988", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "improvements"
+                    }, 
+                    {
+                        "manpower development": "improvements"
+                    }, 
+                    {
+                        "intra-state cooperation": "improvements"
+                    }, 
+                    {
+                        "intra-agency cooperation": "improvements"
+                    }
+                ], 
+                "subcategory": [
+                    "policy", 
+                    "manpower development", 
+                    "intra-state cooperation", 
+                    "intra-agency cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Reviews should provide recommended improvements or changes needed according to law, and organizational and technical environments."
+    }, 
+    {
+        "sentence_id,": "f7dd3810cf", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The reviews should also consider feedback from interested parties, status of preventive and corrective actions, trends related to threats and vulnerabilities, reported incidents and actions taken to respond and recover from these incidents."
+    }, 
+    {
+        "sentence_id,": "663c73e732", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Information Security Policies should: Assign and define information security classification levels required for the Government organizations."
+    }, 
+    {
+        "sentence_id,": "90b70154b1", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Comply with Jordanian laws and adopted international standards."
+    }, 
+    {
+        "sentence_id,": "177861e835", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Define organizational roles and responsibilities."
+    }, 
+    {
+        "sentence_id,": "459234b6dd", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Define policy distribution, training, and implementation timelines."
+    }, 
+    {
+        "sentence_id,": "c0820b3262", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "regulation and compliance": "compliance"
+                    }, 
+                    {
+                        "regulation and compliance": "compliance"
+                    }, 
+                    {
+                        "standards": "compliance"
+                    }, 
+                    {
+                        "standards": "compliance"
+                    }, 
+                    {
+                        "certification": "certification"
+                    }, 
+                    {
+                        "certification": "certification"
+                    }, 
+                    {
+                        "professional certification": "certification"
+                    }, 
+                    {
+                        "professional certification": "certification"
+                    }
+                ], 
+                "subcategory": [
+                    "regulation and compliance", 
+                    "standards", 
+                    "certification", 
+                    "professional certification"
+                ]
+            }
+        ], 
+        "sentence": "Provide compliance and certification procedures, and approval authorities."
+    }, 
+    {
+        "sentence_id,": "076952ede1", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Provide procedures for corrective actions for non-compliance."
+    }, 
+    {
+        "sentence_id,": "55c4a68226", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "regulation and compliance": "laws and regulations"
+                    }, 
+                    {
+                        "un convention and protocol": "laws and regulations"
+                    }
+                ], 
+                "subcategory": [
+                    "regulation and compliance", 
+                    "un convention and protocol"
+                ]
+            }
+        ], 
+        "sentence": "Legal and Regulatory Regime The need for empowering laws and regulations to support and enforce the implementation of the strategy is a must."
+    }, 
+    {
+        "sentence_id,": "0f1515427a", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "committee"
+                    }, 
+                    {
+                        "responsible agency": "committee"
+                    }, 
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "responsible agency": "ministry"
+                    }, 
+                    {
+                        "manpower development": "committee"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }, 
+                    {
+                        "manpower development": "ministry"
+                    }, 
+                    {
+                        "international cooperation": "committee"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "responsible agency", 
+                    "manpower development", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "A specialized committee should be formed with members from the Ministry of Information and Communications Technology and Ministry of Justice experts to further explore this area and provide recommendations."
+    }, 
+    {
+        "sentence_id,": "875a545c40", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Page 11 of 20 National Information Assurance and Cyber Security Strategy (NIACSS) 2012 Government organizations and private sector need to develop their own internal regulations consistent and compliant with national laws to cover information security-related legal issues."
+    }, 
+    {
+        "sentence_id,": "eff4a5a671", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "encryption"
+                    }, 
+                    {
+                        "standards": "encryption"
+                    }, 
+                    {
+                        "standards": "encryption"
+                    }, 
+                    {
+                        "standards": "encryption"
+                    }, 
+                    {
+                        "reporting mechanism": "encryption"
+                    }, 
+                    {
+                        "reporting mechanism": "encryption"
+                    }, 
+                    {
+                        "reporting mechanism": "encryption"
+                    }, 
+                    {
+                        "reporting mechanism": "encryption"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "National Encryption System A National Encryption Centre (NEC) will be established to manage, control, plan, monitor, and enforce the national strategic encryption policies A National and later on produce indigenous national Encryption algorithms and keys."
+    }, 
+    {
+        "sentence_id,": "c79a5389db", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "encryption"
+                    }, 
+                    {
+                        "reporting mechanism": "encryption"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "Government organizations Centre should be and involved parties will adhere to the encryption established standards, policies, or strategic guidelines approved and or developed by the NEC."
+    }, 
+    {
+        "sentence_id,": "bcd83603bf", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "child online protection", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "encryption"
+                    }, 
+                    {
+                        "reporting mechanism": "encryption"
+                    }, 
+                    {
+                        "standardisation development": "the private sector"
+                    }, 
+                    {
+                        "manpower development": "the private sector"
+                    }, 
+                    {
+                        "public sector partnership": "the private sector"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "reporting mechanism", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "While the private sector will have the flexibility to use their own encryption solutions, these solutions should never violate the approved standards, policies, or strategic guidelines."
+    }, 
+    {
+        "sentence_id,": "23979fe4cc", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "encryption"
+                    }, 
+                    {
+                        "reporting mechanism": "encryption"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "Government organizations and private sector need to use encryption along with other security measures to protect classified sensitive and critical information assets."
+    }, 
+    {
+        "sentence_id,": "f7dd20a29d", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "encryption"
+                    }, 
+                    {
+                        "standards": "encryption"
+                    }, 
+                    {
+                        "reporting mechanism": "encryption"
+                    }, 
+                    {
+                        "reporting mechanism": "encryption"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "The following strategic needs list for Government organizations will ensure investment in encryption today delivers strategic value to national security efforts: 4.6.1 A national encryption policy will be developed, coordinated, and placed in force."
+    }, 
+    {
+        "sentence_id,": "e48d0dda4b", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "adoption"
+                    }, 
+                    {
+                        "standards": "encryption"
+                    }, 
+                    {
+                        "policy": "adoption"
+                    }, 
+                    {
+                        "manpower development": "adoption"
+                    }, 
+                    {
+                        "public sector partnership": "adoption"
+                    }, 
+                    {
+                        "reporting mechanism": "encryption"
+                    }, 
+                    {
+                        "standards": "international standards"
+                    }, 
+                    {
+                        "standardisation development": "international standards"
+                    }, 
+                    {
+                        "agency certification": "international standards"
+                    }, 
+                    {
+                        "international cooperation": "international standards"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "policy", 
+                    "manpower development", 
+                    "public sector partnership", 
+                    "reporting mechanism", 
+                    "standardisation development", 
+                    "agency certification", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "4.6.2 Applicable international standards and best practices should be considered for adoption for better encryption management."
+    }, 
+    {
+        "sentence_id,": "5f2cd472f4", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "encryption"
+                    }, 
+                    {
+                        "reporting mechanism": "encryption"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "4.6.3 Encryption should be applied to all data deemed sensitive or classified."
+    }, 
+    {
+        "sentence_id,": "13c6ba246f", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "encryption"
+                    }, 
+                    {
+                        "reporting mechanism": "encryption"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "4.6.4 Encryption should be considered where necessary when data is stored, transmitted/disseminated and or processed."
+    }, 
+    {
+        "sentence_id,": "0e556607f7", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "encryption"
+                    }, 
+                    {
+                        "reporting mechanism": "encryption"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "4.6.5 Government organizations must ensure encryption is used in parallel with other necessary security measures (defense-in-depth)."
+    }, 
+    {
+        "sentence_id,": "9653c6d18f", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "encryption"
+                    }, 
+                    {
+                        "reporting mechanism": "encryption"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "4.6.6 Government organizations must continually monitor or audit all automated and manual actions and ensure procedures are in place to guarantee the integrity and security of encryption capabilities and associated logs."
+    }, 
+    {
+        "sentence_id,": "b39f9d3704", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "national benchmarking": "other countries"
+                    }, 
+                    {
+                        "standardisation development": "other countries"
+                    }, 
+                    {
+                        "intra-state cooperation": "other countries"
+                    }
+                ], 
+                "subcategory": [
+                    "national benchmarking", 
+                    "standardisation development", 
+                    "intra-state cooperation"
+                ]
+            }
+        ], 
+        "sentence": "2012 International Information Security Cooperation Program Jordan is connected to other countries through information networks."
+    }, 
+    {
+        "sentence_id,": "1413ea186d", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "cirt": "cyberattacks"
+                    }, 
+                    {
+                        "certification": "cyberattacks"
+                    }, 
+                    {
+                        "policy": "cyberattacks"
+                    }
+                ], 
+                "subcategory": [
+                    "cirt", 
+                    "certification", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Cyberattacks can cause serious problems for national security."
+    }, 
+    {
+        "sentence_id,": "9da06ff20d", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "critical infrastructures"
+                    }, 
+                    {
+                        "intra-agency cooperation": "critical infrastructures"
+                    }, 
+                    {
+                        "public sector partnership": "critical infrastructures"
+                    }
+                ], 
+                "subcategory": [
+                    "policy", 
+                    "intra-agency cooperation", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "Therefore, the government and all concerned must prepare to defend critical infrastructures and respond effectively."
+    }, 
+    {
+        "sentence_id,": "ca1cc916e3", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "To do so requires international cooperation."
+    }, 
+    {
+        "sentence_id,": "34e4949015", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "manpower development": "raise"
+                    }, 
+                    {
+                        "manpower development": "investigate"
+                    }, 
+                    {
+                        "public sector partnership": "investigate"
+                    }
+                ], 
+                "subcategory": [
+                    "manpower development", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "Jordan needs to be part of an international effort to raise awareness, develop and promote security standards and best practices, investigate and prosecute malevolent users across borders, and negotiate and conclude bilateral and multi-national agreements."
+    }, 
+    {
+        "sentence_id,": "9b04aedf1b", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "following actions"
+                    }, 
+                    {
+                        "regulation and compliance": "following actions"
+                    }, 
+                    {
+                        "national legislation": "following actions"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "national legislation"
+                ]
+            }
+        ], 
+        "sentence": "The following actions support this priority: 4.7.1 Share and analyze information on vulnerabilities, threats and incidents."
+    }, 
+    {
+        "sentence_id,": "59395d25b5", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "4.7.2 Participate in, utilize, and get benefits from current international efforts, such as cyber war exercises and international cyber alarm initiatives."
+    }, 
+    {
+        "sentence_id,": "0b9a0147d6", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation", 
+                    "technical measures"
+                ], 
+                "keywords": [
+                    {
+                        "responsible agency": "coordinate"
+                    }, 
+                    {
+                        "manpower development": "investigations"
+                    }, 
+                    {
+                        "public sector partnership": "investigations"
+                    }, 
+                    {
+                        "standards": "international partners"
+                    }, 
+                    {
+                        "professional certification": "international partners"
+                    }, 
+                    {
+                        "agency certification": "international partners"
+                    }, 
+                    {
+                        "international cooperation": "international partners"
+                    }
+                ], 
+                "subcategory": [
+                    "responsible agency", 
+                    "manpower development", 
+                    "public sector partnership", 
+                    "standards", 
+                    "professional certification", 
+                    "agency certification", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "4.7.3 Coordinate investigations of cyber-attacks and other potential computer-related crimes with international partners as required by law and agreement."
+    }, 
+    {
+        "sentence_id,": "160f93424d", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "capacity building", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "regulation and compliance": "research and development"
+                    }, 
+                    {
+                        "standardisation development": "research and development"
+                    }, 
+                    {
+                        "un convention and protocol": "research and development"
+                    }
+                ], 
+                "subcategory": [
+                    "regulation and compliance", 
+                    "standardisation development", 
+                    "un convention and protocol"
+                ]
+            }
+        ], 
+        "sentence": "4.7.4 Promote research and development and encourage the application of internationally certified security technologies."
+    }, 
+    {
+        "sentence_id,": "833d877db6", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "National information security cannot be achieved or strengthened to a required level without cooperating with other international governments, research centers, universities, organizations, and the private sector."
+    }, 
+    {
+        "sentence_id,": "f646e60f6a", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "regulation and compliance": "systems and networks"
+                    }, 
+                    {
+                        "un convention and protocol": "systems and networks"
+                    }
+                ], 
+                "subcategory": [
+                    "regulation and compliance", 
+                    "un convention and protocol"
+                ]
+            }
+        ], 
+        "sentence": "2012 Securing National Information Systems and Networks Securing national systems should not only prevent security breaches, but also detect and respond to possible attacks."
+    }, 
+    {
+        "sentence_id,": "9a13d46f0c", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Employing Defense-in-Depth multiple layers of protection methods is critical to securing government systems and networks."
+    }, 
+    {
+        "sentence_id,": "81cea285fa", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Defense-inEmploy Defense-in-Depth to Depth is not limited to technical protect national information security methods and procedures."
+    }, 
+    {
+        "sentence_id,": "17fe2cfae4", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "systems Defense-in-Depth should also be resilient to accommodate rapid change in the cyber environment."
+    }, 
+    {
+        "sentence_id,": "fd6000abf3", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "It also includes a close examination of personnel security, network setup and configuration, and operational procedures."
+    }, 
+    {
+        "sentence_id,": "72f34d63dd", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Security vulnerabilities across personnel, technology, and operations must be considered throughout the system's life cycle."
+    }, 
+    {
+        "sentence_id,": "b0d9d22ed7", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "It is through the combination of people, technology and operations which provides the greatest cyber security posture."
+    }, 
+    {
+        "sentence_id,": "382b72e5df", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Personnel Security Government organizations and private sector must issue security clearances to users, system administrators, and any other parties using or accessing information systems."
+    }, 
+    {
+        "sentence_id,": "63ca56eb38", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Security clearance validation and renewal requires appropriate management, background checks, and commitment of resources."
+    }, 
+    {
+        "sentence_id,": "4dd85c9e59", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "integration"
+                    }, 
+                    {
+                        "manpower development": "integration"
+                    }, 
+                    {
+                        "public sector partnership": "integration"
+                    }
+                ], 
+                "subcategory": [
+                    "policy", 
+                    "manpower development", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "Also, cleared personnel require a need-to-know and integration in physical security systems to ensure control and monitoring of man and machine in the government information systems."
+    }, 
+    {
+        "sentence_id,": "6b4612a37a", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Private sector will manage personnel security issues under its control."
+    }, 
+    {
+        "sentence_id,": "ebfba184d0", 
+        "tag": [
+            {
+                "category": [
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "intra-state cooperation": "cooperate"
+                    }, 
+                    {
+                        "intra-state cooperation": "cooperate"
+                    }, 
+                    {
+                        "public sector partnership": "cooperate"
+                    }, 
+                    {
+                        "public sector partnership": "cooperate"
+                    }, 
+                    {
+                        "international cooperation": "cooperate"
+                    }, 
+                    {
+                        "international cooperation": "cooperate"
+                    }
+                ], 
+                "subcategory": [
+                    "intra-state cooperation", 
+                    "public sector partnership", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Private sector still needs to cooperate with the authorized government organization(s) to fulfill personnel security requirements outside its authority."
+    }, 
+    {
+        "sentence_id,": "8ab5f3afeb", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures", 
+                    "cooperation", 
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "attackers"
+                    }, 
+                    {
+                        "cirt": "attackers"
+                    }, 
+                    {
+                        "intra-state cooperation": "attackers"
+                    }, 
+                    {
+                        "intra-agency cooperation": "attackers"
+                    }, 
+                    {
+                        "international cooperation": "attackers"
+                    }, 
+                    {
+                        "national benchmarking": "necessary measures"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "cirt", 
+                    "intra-state cooperation", 
+                    "intra-agency cooperation", 
+                    "international cooperation", 
+                    "national benchmarking"
+                ]
+            }
+        ], 
+        "sentence": "Physical Security Government organizations and private sector must employ all necessary measures to deter, delay, and detect attackers or potential insider threats from accessing a facility, resource, or information stored on physical media."
+    }, 
+    {
+        "sentence_id,": "1893c81d63", 
+        "tag": [
+            {
+                "category": [
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "un convention and protocol": "options"
+                    }
+                ], 
+                "subcategory": [
+                    "un convention and protocol"
+                ]
+            }
+        ], 
+        "sentence": "When the physical environment is threatened, appropriate response options must be in place."
+    }, 
+    {
+        "sentence_id,": "75dd7ac514", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "cirt": "events"
+                    }, 
+                    {
+                        "manpower development": "events"
+                    }, 
+                    {
+                        "intra-state cooperation": "events"
+                    }, 
+                    {
+                        "intra-agency cooperation": "events"
+                    }, 
+                    {
+                        "international cooperation": "events"
+                    }
+                ], 
+                "subcategory": [
+                    "cirt", 
+                    "manpower development", 
+                    "intra-state cooperation", 
+                    "intra-agency cooperation", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Organizations should plan for this event, as well as natural disasters, manmade catastrophes, accidental damage and other various events which could damage the information infrastructure."
+    }, 
+    {
+        "sentence_id,": "eb5b3644ce", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "These plans should be tested and exercised regularly to ensure response times and effectiveness."
+    }, 
+    {
+        "sentence_id,": "de054043f1", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Network and Communication Security Government organizations and private sector must defend the communications networks, critical infrastructures, networks boundaries, and computing systems that they own through using proper COMSEC and TRANSEC technologies, protection paths and secure alternatives."
+    }, 
+    {
+        "sentence_id,": "f7b28b8ad9", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "National networks and communication infrastructures must be secure, reliable and available, they must maintain the trust of government, private sector and individuals, and should be resilient to malicious or arbitrary disruption and or deception."
+    }, 
+    {
+        "sentence_id,": "c4aabdf792", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "properties"
+                    }, 
+                    {
+                        "criminal legislation": "properties"
+                    }, 
+                    {
+                        "certification": "properties"
+                    }, 
+                    {
+                        "certification": "properties"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "Software Security Government organizations and private sector must ensure software consistently exhibits required desirable properties even when the software comes under attack."
+    }, 
+    {
+        "sentence_id,": "356b4902b6", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "attackers"
+                    }, 
+                    {
+                        "cirt": "attackers"
+                    }, 
+                    {
+                        "intra-state cooperation": "attackers"
+                    }, 
+                    {
+                        "intra-agency cooperation": "attackers"
+                    }, 
+                    {
+                        "international cooperation": "attackers"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "cirt", 
+                    "intra-state cooperation", 
+                    "intra-agency cooperation", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "It should minimize the numerous flaws and errors in software that are often located and exploited by attackers to compromise the softwares security and other required properties."
+    }, 
+    {
+        "sentence_id,": "3ba3645a2f", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "cirt": "majority"
+                    }, 
+                    {
+                        "policy": "majority"
+                    }, 
+                    {
+                        "manpower development": "majority"
+                    }, 
+                    {
+                        "intra-state cooperation": "majority"
+                    }, 
+                    {
+                        "intra-agency cooperation": "majority"
+                    }
+                ], 
+                "subcategory": [
+                    "cirt", 
+                    "policy", 
+                    "manpower development", 
+                    "intra-state cooperation", 
+                    "intra-agency cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Software should be able to resist most attacks and tolerate the majority of those attacks it cannot resist."
+    }, 
+    {
+        "sentence_id,": "0351b04158", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "If neither resistance nor tolerance is possible and the software is compromised, it should be able to isolate itself from the attack source and Page 15 of 20 National Information Assurance and Cyber Security Strategy (NIACSS) 2012 degrade gracefully."
+    }, 
+    {
+        "sentence_id,": "afd577d300", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Resistance and tolerance are relatively ensured by having software manufactures a) adhere to software security development lifecycle and b) constant vulnerability assessment, analysis of perceived vulnerabilities, and rapid counter-measures or other configuration changes."
+    }, 
+    {
+        "sentence_id,": "6298107201", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "cirt": "operate"
+                    }, 
+                    {
+                        "certification": "certification"
+                    }, 
+                    {
+                        "certification": "accreditation"
+                    }, 
+                    {
+                        "certification": "certification"
+                    }, 
+                    {
+                        "certification": "accreditation"
+                    }, 
+                    {
+                        "policy": "operate"
+                    }, 
+                    {
+                        "professional certification": "certification"
+                    }, 
+                    {
+                        "professional certification": "certification"
+                    }, 
+                    {
+                        "roadmap for governance": "government entities"
+                    }, 
+                    {
+                        "agency certification": "government entities"
+                    }
+                ], 
+                "subcategory": [
+                    "cirt", 
+                    "certification", 
+                    "policy", 
+                    "professional certification", 
+                    "roadmap for governance", 
+                    "agency certification"
+                ]
+            }
+        ], 
+        "sentence": "A certification and accreditation program should be established for all critical software that will be used in government entities and business entities that operate critical national infrastructure."
+    }, 
+    {
+        "sentence_id,": "b29c86b137", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "cooperation", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "commit"
+                    }, 
+                    {
+                        "public sector partnership": "commit"
+                    }, 
+                    {
+                        "national legislation": "commit"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "public sector partnership", 
+                    "national legislation"
+                ]
+            }
+        ], 
+        "sentence": "Moreover, Government organizations and private sector will follow national guidelines, standards, rules and best practices needed to guarantee software acquisition, procurement, outsourcing, in-house developed software, and Commercially available Off-The-Shelf (COTS) components will deliver software that commit to the national security rules and do not yield security breaches."
+    }, 
+    {
+        "sentence_id,": "c4a3b56ed3", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Procedural Security Government organizations and private sector must ensure information security related procedures are in place, wellunderstood, and successfully implemented."
+    }, 
+    {
+        "sentence_id,": "eac27435cb", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "organization measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "regulation and compliance": "policies and standards"
+                    }, 
+                    {
+                        "responsible agency": "policies and standards"
+                    }, 
+                    {
+                        "un convention and protocol": "policies and standards"
+                    }
+                ], 
+                "subcategory": [
+                    "regulation and compliance", 
+                    "responsible agency", 
+                    "un convention and protocol"
+                ]
+            }
+        ], 
+        "sentence": "These procedures should meet the set of regulations, rules, best practices, national information security policies and standards that direct how an entity manages, protects its communications and distributes sensitive information."
+    }, 
+    {
+        "sentence_id,": "2245817d8f", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Electro-Magnetic Emissions (Radiations) Security Government organizations and private sector must ensure that sensitive information is not leaked through system electro-magnetic emissions (radiations)."
+    }, 
+    {
+        "sentence_id,": "80e6afd014", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "national benchmarking": "necessary measures"
+                    }
+                ], 
+                "subcategory": [
+                    "national benchmarking"
+                ]
+            }
+        ], 
+        "sentence": "Organizations should take necessary measures to protect systems having sensitive information and prevent adversaries from exploiting this vulnerability utilizing Tempest Devices, shielding, Faraday caging and or any other necessary measures."
+    }, 
+    {
+        "sentence_id,": "de681be11d", 
+        "tag": [
+            {
+                "category": [
+                    "cooperation", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "intra-state cooperation": "cooperate"
+                    }, 
+                    {
+                        "intra-state cooperation": "cooperate"
+                    }, 
+                    {
+                        "public sector partnership": "cooperate"
+                    }, 
+                    {
+                        "public sector partnership": "cooperate"
+                    }, 
+                    {
+                        "international cooperation": "cooperate"
+                    }, 
+                    {
+                        "international cooperation": "cooperate"
+                    }, 
+                    {
+                        "standardisation development": "the private sector"
+                    }, 
+                    {
+                        "manpower development": "the private sector"
+                    }, 
+                    {
+                        "public sector partnership": "the private sector"
+                    }
+                ], 
+                "subcategory": [
+                    "intra-state cooperation", 
+                    "public sector partnership", 
+                    "international cooperation", 
+                    "standardisation development", 
+                    "manpower development"
+                ]
+            }
+        ], 
+        "sentence": "2012 Critical National Infrastructure Protection (CNIP) Program Government of Jordan will cooperate with the private sector to establish a program responsible for information assurance and cyber security related-issues for the Critical A CNIP program is National Infrastructure (CNI) including needed to secure SCADA systems."
+    }, 
+    {
+        "sentence_id,": "f5a48c51a3", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The CNI are those systems of critical information assets or systems of critical value to Jordan value to Jordan."
+    }, 
+    {
+        "sentence_id,": "dacd10da2b", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Examples include telecommunications, ISP providers, banking and finance, health institutions, electrical power grid, and water supply."
+    }, 
+    {
+        "sentence_id,": "df68c11046", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "regulation and compliance": "concern"
+                    }, 
+                    {
+                        "standards": "concern"
+                    }, 
+                    {
+                        "certification": "concern"
+                    }, 
+                    {
+                        "agency certification": "concern"
+                    }
+                ], 
+                "subcategory": [
+                    "regulation and compliance", 
+                    "standards", 
+                    "certification", 
+                    "agency certification"
+                ]
+            }
+        ], 
+        "sentence": "CNI support economic, political and social life of Jordan such that any entire or partial loss or compromise of these systems may result in a serious impact on a national level; or may be of instant concern to the Government and people."
+    }, 
+    {
+        "sentence_id,": "287f454294", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "cirt": "operate"
+                    }, 
+                    {
+                        "policy": "operate"
+                    }
+                ], 
+                "subcategory": [
+                    "cirt", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The government should regulate, co-operate and work closely with those parties who manage, own, or operate CNI."
+    }, 
+    {
+        "sentence_id,": "c2671d1515", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "guidance"
+                    }, 
+                    {
+                        "national benchmarking": "guidance"
+                    }, 
+                    {
+                        "standardisation development": "guidance"
+                    }, 
+                    {
+                        "manpower development": "guidance"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "national benchmarking", 
+                    "standardisation development", 
+                    "manpower development"
+                ]
+            }
+        ], 
+        "sentence": "The government should engage with those parties in order to regulate and provide security guidance in both of physical and virtual domains to secure CNI."
+    }, 
+    {
+        "sentence_id,": "c25d90da13", 
+        "tag": [
+            {
+                "category": [
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "international cooperation": "first step"
+                    }
+                ], 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "IMPLEMENTATION ROAD MAP Having an NIACSS represents only the first step towards achieving the expected objectives."
+    }, 
+    {
+        "sentence_id,": "75a8bfc59f", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Jordan Government is committed to a persistent implementation mechanism utilizing the appropriate resources to fulfill this strategy."
+    }, 
+    {
+        "sentence_id,": "91ca24af13", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "A detailed NIACSS Due to the abstract high-level nature of Implementation Road NIACSS, it will be explored further by Map Document is NIACSA that will be established."
+    }, 
+    {
+        "sentence_id,": "bf5ca741c6", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "national benchmarking": "details"
+                    }, 
+                    {
+                        "public sector partnership": "details"
+                    }
+                ], 
+                "subcategory": [
+                    "national benchmarking", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "will provide enough details in a supplementary document NIACSS Implementation Road Map."
+    }, 
+    {
+        "sentence_id,": "83ff86ea89", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The Road Page 17 of 20 National Information Assurance and Cyber Security Strategy (NIACSS) 2012 Map document will translate priorities and objectives listed in NIACSS into specific well-defined initiatives/projects."
+    }, 
+    {
+        "sentence_id,": "62e2ab625b", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The implementation of these initiatives/projects will contribute to realizing the overall identified NIACSS objectives."
+    }, 
+    {
+        "sentence_id,": "556178206c", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "NIACSS calls for establishing a well-defined organization called National Information Assurance and Cyber Security Agency (NIACSA)."
+    }, 
+    {
+        "sentence_id,": "34e3839290", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "reference"
+                    }, 
+                    {
+                        "national benchmarking": "reference"
+                    }, 
+                    {
+                        "standardisation development": "reference"
+                    }, 
+                    {
+                        "manpower development": "reference"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "national benchmarking", 
+                    "standardisation development", 
+                    "manpower development"
+                ]
+            }
+        ], 
+        "sentence": "Be the single point of reference and a coordination lead Agency for Jordans information assurance and cyberspace security."
+    }, 
+    {
+        "sentence_id,": "38a8616c8c", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "NIACSA should act as regulatory and advisory body."
+    }, 
+    {
+        "sentence_id,": "a2c75ebe4c", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "NIACSA should develop and review all security-related strategies, standards, policies, laws, and champion required change in co-ordination with all stakeholders."
+    }, 
+    {
+        "sentence_id,": "278011f0ca", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "responsible agency": "coordinate"
+                    }
+                ], 
+                "subcategory": [
+                    "responsible agency"
+                ]
+            }
+        ], 
+        "sentence": "Manage and coordinate the efforts needed to implement the NIACSS related projects."
+    }, 
+    {
+        "sentence_id,": "d62b5cff18", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures"
+                ], 
+                "keywords": [
+                    {
+                        "regulation and compliance": "compliance"
+                    }, 
+                    {
+                        "regulation and compliance": "compliance"
+                    }, 
+                    {
+                        "standards": "compliance"
+                    }, 
+                    {
+                        "standards": "compliance"
+                    }
+                ], 
+                "subcategory": [
+                    "regulation and compliance", 
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Manage Nation-Wide Risk Management Program Audit all governments information systems and procedures to guarantee compliance with national security standards and policies."
+    }, 
+    {
+        "sentence_id,": "2fc5d4786a", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures"
+                ], 
+                "keywords": [
+                    {
+                        "regulation and compliance": "compliance"
+                    }, 
+                    {
+                        "regulation and compliance": "compliance"
+                    }, 
+                    {
+                        "standards": "compliance"
+                    }, 
+                    {
+                        "standards": "compliance"
+                    }
+                ], 
+                "subcategory": [
+                    "regulation and compliance", 
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Hence, the NIACSA will be responsible for Compliance and Certification."
+    }, 
+    {
+        "sentence_id,": "86b326e6cf", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Establish and manage the operation of : National Cyberspace Security Operations Centre (CSOC)."
+    }, 
+    {
+        "sentence_id,": "19336ab485", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "capacity building", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "cirt": "computer emergency response"
+                    }, 
+                    {
+                        "manpower development": "computer emergency response"
+                    }, 
+                    {
+                        "institutional support": "computer emergency response"
+                    }, 
+                    {
+                        "reporting mechanism": "computer emergency response"
+                    }
+                ], 
+                "subcategory": [
+                    "cirt", 
+                    "manpower development", 
+                    "institutional support", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "National Computer Emergency Response Team (JO-CERT)."
+    }, 
+    {
+        "sentence_id,": "13cfd7a259", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "encryption"
+                    }, 
+                    {
+                        "reporting mechanism": "encryption"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "National Encryption Center (NEC)."
+    }, 
+    {
+        "sentence_id,": "6fb28e81ab", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "responsible agency": "coordinate"
+                    }, 
+                    {
+                        "roadmap for governance": "government entities"
+                    }, 
+                    {
+                        "agency certification": "government entities"
+                    }
+                ], 
+                "subcategory": [
+                    "responsible agency", 
+                    "roadmap for governance", 
+                    "agency certification"
+                ]
+            }
+        ], 
+        "sentence": "Coordinate with all government entities (including Military, Public Security Department, Civil Defense Department, and General Intelligence Department) and private sector regarding information assurance and cyber security."
+    }, 
+    {
+        "sentence_id,": "b14cc440be", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "regulation and compliance": "concern"
+                    }, 
+                    {
+                        "standards": "concern"
+                    }, 
+                    {
+                        "certification": "concern"
+                    }, 
+                    {
+                        "manpower development": "raise"
+                    }, 
+                    {
+                        "agency certification": "concern"
+                    }
+                ], 
+                "subcategory": [
+                    "regulation and compliance", 
+                    "standards", 
+                    "certification", 
+                    "manpower development", 
+                    "agency certification"
+                ]
+            }
+        ], 
+        "sentence": "Raise the concern of cyberspace security within these entities."
+    }, 
+    {
+        "sentence_id,": "33d9e89bda", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "manpower development": "raise"
+                    }
+                ], 
+                "subcategory": [
+                    "manpower development"
+                ]
+            }
+        ], 
+        "sentence": "Raise the visibility of cyberspace security within entities budgets."
+    }, 
+    {
+        "sentence_id,": "98a7bbe95c", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "capacity building", 
+                    "cooperation", 
+                    "legal measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "technical assistance"
+                    }, 
+                    {
+                        "certification": "private sectors"
+                    }, 
+                    {
+                        "manpower development": "technical assistance"
+                    }, 
+                    {
+                        "public sector partnership": "private sectors"
+                    }, 
+                    {
+                        "regulation and compliance": "protection of information"
+                    }, 
+                    {
+                        "national legislation": "protection of information"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "certification", 
+                    "manpower development", 
+                    "public sector partnership", 
+                    "regulation and compliance", 
+                    "national legislation"
+                ]
+            }
+        ], 
+        "sentence": "Provide technical assistance to public and private sectors to guarantee proper protection of information systems and networks."
+    }, 
+    {
+        "sentence_id,": "5301d56c7d", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building", 
+                    "legal measures", 
+                    "technical measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "manpower development": "employees"
+                    }, 
+                    {
+                        "regulation and compliance": "standards and policies"
+                    }, 
+                    {
+                        "standards": "standards and policies"
+                    }, 
+                    {
+                        "standardisation development": "standards and policies"
+                    }, 
+                    {
+                        "un convention and protocol": "standards and policies"
+                    }
+                ], 
+                "subcategory": [
+                    "manpower development", 
+                    "regulation and compliance", 
+                    "standards", 
+                    "standardisation development", 
+                    "un convention and protocol"
+                ]
+            }
+        ], 
+        "sentence": "Page 18 of 20 National Information Assurance and Cyber Security Strategy (NIACSS) 2012 Provide proper training and awareness sessions to entities employees to help them comply with national standards and policies and to facilitate the implementation of the CIACSS."
+    }, 
+    {
+        "sentence_id,": "d5431ad834", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Define stages for cyberspace security implementation and enforcement."
+    }, 
+    {
+        "sentence_id,": "c594029846", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "crisis management"
+                    }, 
+                    {
+                        "policy": "crisis management"
+                    }, 
+                    {
+                        "national benchmarking": "crisis management"
+                    }, 
+                    {
+                        "manpower development": "crisis management"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "policy", 
+                    "national benchmarking", 
+                    "manpower development"
+                ]
+            }
+        ], 
+        "sentence": "Provide crisis management in response to attacks on national critical information systems."
+    }, 
+    {
+        "sentence_id,": "78b876f61b", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "responsible agency": "coordinate"
+                    }
+                ], 
+                "subcategory": [
+                    "responsible agency"
+                ]
+            }
+        ], 
+        "sentence": "Coordinate with peer international agencies."
+    }, 
+    {
+        "sentence_id,": "fccfa006ed", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Organize and carry out evaluation attacks on national networks in order to measure their readiness."
+    }, 
+    {
+        "sentence_id,": "e9ca633e63", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Be fully prepared to carry out preemptive and reactive attacks on hostile networks and or systems."
+    }, 
+    {
+        "sentence_id,": "c13b8dcebf", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "CONCLUSION Jordan Government realizes the threats imposed by the revolutionary changes in Information Technology and the cyberspace environment."
+    }, 
+    {
+        "sentence_id,": "36c886b11b", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "NIACSS is presented as a result of the governments review of the current information security situation."
+    }, 
+    {
+        "sentence_id,": "ad72cdc26d", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Current approaches are basic, not systematic, subjective, have no clear definitions and boundaries, not thorough, do not follow international standards, and are not able to deal effectively with the threats especially those emerging from the cyberspace."
+    }, 
+    {
+        "sentence_id,": "b87cdee543", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Efforts in this field are not consolidated and risks are not addressed at the national level."
+    }, 
+    {
+        "sentence_id,": "5362839f41", 
+        "tag": [
+            {
+                "category": [
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "institutional support": "supports"
+                    }
+                ], 
+                "subcategory": [
+                    "institutional support"
+                ]
+            }
+        ], 
+        "sentence": "NIACSS presents the strategic objectives, national information security priorities, and the implementation road map required to ensure and maintain a resilient and trusted computing environment that supports national security, enhances the economy, and builds awareness and trust of citizens towards achieving national prosperity."
+    }, 
+    {
+        "sentence_id,": "50f3537631", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "cooperation", 
+                    "technical measures", 
+                    "capacity building", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "strategic objectives"
+                    }, 
+                    {
+                        "roadmap for governance": "strategic objectives"
+                    }, 
+                    {
+                        "public sector partnership": "strategic objectives"
+                    }, 
+                    {
+                        "cirt": "computer emergency response"
+                    }, 
+                    {
+                        "manpower development": "computer emergency response"
+                    }, 
+                    {
+                        "institutional support": "computer emergency response"
+                    }, 
+                    {
+                        "reporting mechanism": "computer emergency response"
+                    }
+                ], 
+                "subcategory": [
+                    "policy", 
+                    "roadmap for governance", 
+                    "public sector partnership", 
+                    "cirt", 
+                    "manpower development", 
+                    "institutional support", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "The following nine major national information security priorities collectively contribute to achieving the strategic objectives and help to prevent, deter, and protect national infrastructures against damage or attacks and minimize damage and recovery time from attacks that do occur: 1) Risk Management Program 2) National Computer Emergency Response Team (JOCERT)."
+    }, 
+    {
+        "sentence_id,": "06787f03aa", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "child online protection", 
+                    "capacity building", 
+                    "cooperation", 
+                    "legal measures"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "encryption"
+                    }, 
+                    {
+                        "reporting mechanism": "encryption"
+                    }, 
+                    {
+                        "manpower development": "capacity building"
+                    }, 
+                    {
+                        "public sector partnership": "capacity building"
+                    }, 
+                    {
+                        "regulation and compliance": "standards and policies"
+                    }, 
+                    {
+                        "standards": "standards and policies"
+                    }, 
+                    {
+                        "standardisation development": "standards and policies"
+                    }, 
+                    {
+                        "un convention and protocol": "standards and policies"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "reporting mechanism", 
+                    "manpower development", 
+                    "public sector partnership", 
+                    "regulation and compliance", 
+                    "standardisation development", 
+                    "un convention and protocol"
+                ]
+            }
+        ], 
+        "sentence": "Page 19 of 20 National Information Assurance and Cyber Security Strategy (NIACSS) 3) 4) 5) 6) 7) 8) 9) 2012 Security Awareness and Capacity Building Program National Information Security Standards and Policies Legal and Regulatory Regime National Encryption System International Information Security Cooperation Program Securing National Information Systems/Networks Critical National Infrastructure Protection (CNIP) Program Those nine major national interdependent priorities demand collaboration within Government, with international partners, with the private sector, and with the citizenry of Jordan."
+    }, 
+    {
+        "sentence_id,": "3f5aeab6b1", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "For implementation purposes, NIACSS calls for establishing a well-defined organization called National Information Assurance and Cyber Security Agency (NIACSA) that oversees the efforts required to implement the NIACSS and its related projects."
+    }, 
+    {
+        "sentence_id,": "b711b1e3c6", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "NIACSA is foreseen as a central national entity for governmental and non-governmental organizations regarding all information assurance and cyber security related issues."
+    }
+]

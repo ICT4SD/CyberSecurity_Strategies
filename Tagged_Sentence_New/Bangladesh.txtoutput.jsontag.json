@@ -1,0 +1,3413 @@
+[
+    {
+        "sentence_id,": "f1d070036c", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "iwRvW bs wW G-1 evsjv`k MRU AwZwi msLv KZc KZ K cKvwkZ gjevi, gvP 11, 2014 MYc RvZx evsjv`k miKvi WvK, UwjhvMvhvM I Z_c hyw gYvjq Z_ I hvMvhvM c hyw wefvM (AvBwmwU-1 kvLv) c vcb ZvwiL, 03 gvP 2014 wLt bs 56.00.0000.028.22.006.14-34miKvi mvBevi SzuwK wbimb mvBevi wmwKDwiwU vUwR Abygv`b KiQ| Bnv memvaviYi vZv_cKvk Kiv njv| ivcwZi Av`kg Avi."
+    }, 
+    {
+        "sentence_id,": "23c3c387fa", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "AvjvIj Kwei mnKvix mwPe| ( 9701 ) g~j t UvKv 16.00 9702 evsjv`k MRU, AwZwi, gvP 11, 2014 NATIONAL CYBERSECURITY STRATEGY EXECUTIVE SUMMARY Bangladesh requires reliable physical and information communication technologies (ICTs)."
+    }, 
+    {
+        "sentence_id,": "bcb178e9cb", 
+        "tag": [
+            {
+                "category": [
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "international cooperation": "essential services"
+                    }
+                ], 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "The two types of infrastructure jointly support essential services in sectors such as communications, emergency services, energy, finance, food, government, health, transport and water."
+    }, 
+    {
+        "sentence_id,": "7d4c682c1e", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "roadmap for governance": "achieve"
+                    }
+                ], 
+                "subcategory": [
+                    "roadmap for governance"
+                ]
+            }
+        ], 
+        "sentence": "Therefore, to achieve our economic security and democratic objectives, we require reliable physical and digital infrastructure."
+    }, 
+    {
+        "sentence_id,": "2d4577fe5e", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "cirt": "conduct"
+                    }, 
+                    {
+                        "standards": "functioning"
+                    }, 
+                    {
+                        "policy": "functioning"
+                    }, 
+                    {
+                        "responsible agency": "functioning"
+                    }, 
+                    {
+                        "national benchmarking": "functioning"
+                    }, 
+                    {
+                        "national benchmarking": "conduct"
+                    }, 
+                    {
+                        "manpower development": "functioning"
+                    }, 
+                    {
+                        "manpower development": "conduct"
+                    }, 
+                    {
+                        "professional certification": "conduct"
+                    }, 
+                    {
+                        "international cooperation": "functioning"
+                    }, 
+                    {
+                        "policy": "digital infrastructure"
+                    }, 
+                    {
+                        "intra-agency cooperation": "digital infrastructure"
+                    }, 
+                    {
+                        "public sector partnership": "digital infrastructure"
+                    }
+                ], 
+                "subcategory": [
+                    "cirt", 
+                    "standards", 
+                    "policy", 
+                    "responsible agency", 
+                    "national benchmarking", 
+                    "manpower development", 
+                    "professional certification", 
+                    "international cooperation", 
+                    "intra-agency cooperation", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "Physical assets increasingly depend upon the reliable functioning of the digital infrastructure or critical information infrastructure (CII) to deliver services and to conduct business."
+    }, 
+    {
+        "sentence_id,": "61751b679e", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "cirt": "perform"
+                    }, 
+                    {
+                        "national benchmarking": "perform"
+                    }
+                ], 
+                "subcategory": [
+                    "cirt", 
+                    "national benchmarking"
+                ]
+            }
+        ], 
+        "sentence": "Consequently, significant disruption to CII could have an immediate and debilitating impact that reaches far beyond the ICT sector and affects the ability of a nation to perform its essential missions in multiple sectors."
+    }, 
+    {
+        "sentence_id,": "004b369049", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Therefore, critical information infrastructure protection (CIIP) is everyones responsibility."
+    }, 
+    {
+        "sentence_id,": "2d6306e62b", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "This document is The National Cybersecurity Strategy of Bangladesh."
+    }, 
+    {
+        "sentence_id,": "1db626263f", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "It is one of the long-term measures for protecting our cyber world against security threats, risks and challenges to national security."
+    }, 
+    {
+        "sentence_id,": "2b8cb729a0", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "standardisation development": "countrys"
+                    }, 
+                    {
+                        "intra-state cooperation": "countrys"
+                    }
+                ], 
+                "subcategory": [
+                    "standardisation development", 
+                    "intra-state cooperation"
+                ]
+            }
+        ], 
+        "sentence": "The Strategy addresses the countrys national security strategy."
+    }, 
+    {
+        "sentence_id,": "7a290dd172", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "capacity building", 
+                    "cooperation", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "create"
+                    }, 
+                    {
+                        "standardisation development": "create"
+                    }, 
+                    {
+                        "manpower development": "create"
+                    }, 
+                    {
+                        "public sector partnership": "create"
+                    }, 
+                    {
+                        "institutional support": "create"
+                    }, 
+                    {
+                        "reporting mechanism": "create"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "public sector partnership", 
+                    "institutional support", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "The purpose of this document is to create a coherent vision for 2021 keeping Bangladesh secure and prosperous by coordinating government, private sector, citizens and international cyberspace defense efforts."
+    }, 
+    {
+        "sentence_id,": "750780971b", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "our cyberspace"
+                    }, 
+                    {
+                        "roadmap for governance": "our cyberspace"
+                    }, 
+                    {
+                        "public sector partnership": "our cyberspace"
+                    }
+                ], 
+                "subcategory": [
+                    "policy", 
+                    "roadmap for governance", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "This National Cybersecurity Strategy outlines a framework for organizing and prioritizing efforts to manage risks to our cyberspace or critical information infrastructure."
+    }, 
+    {
+        "sentence_id,": "a3b9abfeeb", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "defines"
+                    }, 
+                    {
+                        "policy": "defines"
+                    }, 
+                    {
+                        "roadmap for governance": "achieve"
+                    }, 
+                    {
+                        "standardisation development": "defines"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "policy", 
+                    "roadmap for governance", 
+                    "standardisation development"
+                ]
+            }
+        ], 
+        "sentence": "To achieve the aforesaid goals above, this Strategy significantly raises the profile of cybersecurity within our governments and defines clear roles and responsibilities."
+    }, 
+    {
+        "sentence_id,": "c442682c91", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "cooperation", 
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "utilities"
+                    }, 
+                    {
+                        "regulation and compliance": "utilities"
+                    }, 
+                    {
+                        "international cooperation": "utilities"
+                    }, 
+                    {
+                        "policy": "critical infrastructures"
+                    }, 
+                    {
+                        "intra-state cooperation": "public-private partnership"
+                    }, 
+                    {
+                        "intra-agency cooperation": "critical infrastructures"
+                    }, 
+                    {
+                        "public sector partnership": "critical infrastructures"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "international cooperation", 
+                    "policy", 
+                    "intra-state cooperation", 
+                    "intra-agency cooperation", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "Cognizant of the shared nature of cyber vulnerabilities, this Strategy also requires a public-private partnership to fix the potential vulnerability of private sector-owned critical infrastructures in banking, utilities and telecommunications sectors against cyber attacks."
+    }, 
+    {
+        "sentence_id,": "ca4da0f5c9", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "evsjv`k MRU, AwZwi, gvP 11, 2014 9703 In addition, we recognize that cybersecurity is a global challenge that demands truly international solutions."
+    }, 
+    {
+        "sentence_id,": "fc1a992ddc", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "cooperation", 
+                    "child online protection", 
+                    "technical measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "commit"
+                    }, 
+                    {
+                        "public sector partnership": "commit"
+                    }, 
+                    {
+                        "national legislation": "commit"
+                    }, 
+                    {
+                        "standards": "international partnerships"
+                    }, 
+                    {
+                        "professional certification": "international partnerships"
+                    }, 
+                    {
+                        "agency certification": "international partnerships"
+                    }, 
+                    {
+                        "intra-state cooperation": "international partnerships"
+                    }, 
+                    {
+                        "international cooperation": "international partnerships"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "public sector partnership", 
+                    "national legislation", 
+                    "standards", 
+                    "professional certification", 
+                    "agency certification", 
+                    "intra-state cooperation", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Therefore, we commit ourselves to joining regional and international partnerships creating solutions for addressing the cybersecurity challenge regardless of threat."
+    }, 
+    {
+        "sentence_id,": "3ef0c3d861", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "We, therefore, present this Strategy in terms of the Pillars of the International Telecommunication Unions Global Cybersecurity Agenda (GCA)."
+    }, 
+    {
+        "sentence_id,": "d567cc5ada", 
+        "tag": [
+            {
+                "category": [
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "intra-state cooperation": "fight against cyber"
+                    }
+                ], 
+                "subcategory": [
+                    "intra-state cooperation"
+                ]
+            }
+        ], 
+        "sentence": "The GCA contains five strategic pillars and seven goals for building collaboration between relevant parties in the fight against cyber threats."
+    }, 
+    {
+        "sentence_id,": "0fbe14a87e", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "We aim to help the GCA become the key framework for creating a secure and safe information society."
+    }, 
+    {
+        "sentence_id,": "70845b9585", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "STRATEGIC CONTEXT Bangladesh needs to build confidence and security in the use of ICTs because of the growing sophistication, frequency and gravity of cyber threats."
+    }, 
+    {
+        "sentence_id,": "6caebeb952", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "regulation and compliance": "concern"
+                    }, 
+                    {
+                        "standards": "concern"
+                    }, 
+                    {
+                        "certification": "concern"
+                    }, 
+                    {
+                        "agency certification": "concern"
+                    }
+                ], 
+                "subcategory": [
+                    "regulation and compliance", 
+                    "standards", 
+                    "certification", 
+                    "agency certification"
+                ]
+            }
+        ], 
+        "sentence": "Cyber threats are a concern because the disruption or destruction of critical information infrastructure could potentially have severe economic, social and national security impacts."
+    }, 
+    {
+        "sentence_id,": "9772e73985", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "our cyberspace"
+                    }, 
+                    {
+                        "roadmap for governance": "our cyberspace"
+                    }, 
+                    {
+                        "public sector partnership": "our cyberspace"
+                    }
+                ], 
+                "subcategory": [
+                    "policy", 
+                    "roadmap for governance", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "Our cyberspace faces a range of threats."
+    }, 
+    {
+        "sentence_id,": "1ed014e425", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures"
+                ], 
+                "keywords": [
+                    {
+                        "regulation and compliance": "credit card"
+                    }, 
+                    {
+                        "cirt": "credit card"
+                    }
+                ], 
+                "subcategory": [
+                    "regulation and compliance", 
+                    "cirt"
+                ]
+            }
+        ], 
+        "sentence": "Cyber threats range from espionage directed towards obtaining political intelligence to phishing to facilitate credit card fraud."
+    }, 
+    {
+        "sentence_id,": "724de7b84c", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures", 
+                    "capacity building", 
+                    "cooperation", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "regulation and compliance": "electronics"
+                    }, 
+                    {
+                        "cirt": "addition"
+                    }, 
+                    {
+                        "standardisation development": "addition"
+                    }, 
+                    {
+                        "manpower development": "addition"
+                    }, 
+                    {
+                        "intra-state cooperation": "addition"
+                    }, 
+                    {
+                        "institutional support": "addition"
+                    }
+                ], 
+                "subcategory": [
+                    "regulation and compliance", 
+                    "cirt", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "intra-state cooperation", 
+                    "institutional support"
+                ]
+            }
+        ], 
+        "sentence": "In addition to Government information, espionage now targets the intellectual property of commercial enterprises in areas such as communication technologies, optics, electronics and genetics."
+    }, 
+    {
+        "sentence_id,": "8ecfa02a63", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "cirt": "design"
+                    }, 
+                    {
+                        "standardisation development": "design"
+                    }, 
+                    {
+                        "intra-agency cooperation": "design"
+                    }
+                ], 
+                "subcategory": [
+                    "cirt", 
+                    "standardisation development", 
+                    "intra-agency cooperation"
+                ]
+            }
+        ], 
+        "sentence": "The design of the Internet infrastructure facilitates some of the cyber threats due to its borderless, anonymous and cross-border nature."
+    }, 
+    {
+        "sentence_id,": "e7dc8575a4", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Yet, the same insecure Internet serves as a basis for critical government and private sector services in Bangladesh."
+    }, 
+    {
+        "sentence_id,": "92dac9d66e", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "We attach great value to the protection of all types of cyber threats."
+    }, 
+    {
+        "sentence_id,": "1ddd9673f2", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Indeed, cyberspace is swiftly becoming critical to the control of cyber threat devices linked to the energy and transportation sectors such as electronic transformers and pipeline pumps."
+    }, 
+    {
+        "sentence_id,": "8aa9ef3af3", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "New smart grid technologies deliver intelligent monitoring, control, communication and self-healing technologies."
+    }, 
+    {
+        "sentence_id,": "9c5c87edf5", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "However, smart meters are susceptible to unauthorized modification, distributed denial of service and disruption during patching."
+    }, 
+    {
+        "sentence_id,": "0c4fc04bf5", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "We are also concerned about an increasing number of cyber attacks."
+    }, 
+    {
+        "sentence_id,": "9eae680a95", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "For example, a growing number of cyber attacks aim to steal official government documents detailing negotiating positions."
+    }, 
+    {
+        "sentence_id,": "097e627d60", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "organization measures", 
+                    "cooperation", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "regulation and compliance": "disclosure"
+                    }, 
+                    {
+                        "national benchmarking": "details"
+                    }, 
+                    {
+                        "public sector partnership": "details"
+                    }, 
+                    {
+                        "institutional support": "harm"
+                    }, 
+                    {
+                        "reporting mechanism": "harm"
+                    }
+                ], 
+                "subcategory": [
+                    "regulation and compliance", 
+                    "national benchmarking", 
+                    "public sector partnership", 
+                    "institutional support", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "Disclosure of such details would seriously harm our national security and interests."
+    }, 
+    {
+        "sentence_id,": "fb1a40cddd", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "cybercrimes"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation"
+                ]
+            }
+        ], 
+        "sentence": "9704 evsjv`k MRU, AwZwi, gvP 11, 2014 Worryingly, cyber espionage and other cybercrimes are very low cost activities."
+    }, 
+    {
+        "sentence_id,": "b4dfff33ad", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "cirt": "malware"
+                    }, 
+                    {
+                        "intra-agency cooperation": "malware"
+                    }, 
+                    {
+                        "public sector partnership": "malware"
+                    }
+                ], 
+                "subcategory": [
+                    "cirt", 
+                    "intra-agency cooperation", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "Attack tools and methodologies for activities such as phishing or malware distribution are freely available on the Internet even to amateurs."
+    }, 
+    {
+        "sentence_id,": "be3f9dbfcf", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Besides, perpetrators face little risk of conviction due to incompatible legal frameworks and the lack of organizational structures to aid international cooperation, dialogue and coordination in dealing with cyber threats."
+    }, 
+    {
+        "sentence_id,": "154e904043", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "capacity building", 
+                    "cooperation", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "create"
+                    }, 
+                    {
+                        "standardisation development": "create"
+                    }, 
+                    {
+                        "manpower development": "create"
+                    }, 
+                    {
+                        "public sector partnership": "create"
+                    }, 
+                    {
+                        "institutional support": "create"
+                    }, 
+                    {
+                        "reporting mechanism": "create"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "public sector partnership", 
+                    "institutional support", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "Silent surveillance enables hostile nations to map the structure and defenses around key government and private sector infrastructures, plant backdoors, create and test attacks."
+    }, 
+    {
+        "sentence_id,": "4969999365", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "GOAL Working collaboratively home and abroad, to manage all major cyber risks that affect us directly irrespective of their origin and type, thereby creating a safe, secure and resilient critical national information infrastructure for our economy and society."
+    }, 
+    {
+        "sentence_id,": "d4d4c3cc7f", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "PURPOSE OF STRATEGY This Strategy recognizes the impact of cyber threats, risks and challenges to our national values and interests."
+    }, 
+    {
+        "sentence_id,": "3bc25ff436", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The Strategy underlines the need for concerted effort to counter these fast evolving threats."
+    }, 
+    {
+        "sentence_id,": "684a848d9f", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "international partners"
+                    }, 
+                    {
+                        "professional certification": "international partners"
+                    }, 
+                    {
+                        "agency certification": "international partners"
+                    }, 
+                    {
+                        "international cooperation": "international partners"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "professional certification", 
+                    "agency certification", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "This fully integrated approach leverages the resources of the Government, organizations across all sectors, individual private citizens and international partners in mitigating threats to our cyberspace."
+    }, 
+    {
+        "sentence_id,": "bd92f2e6e0", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "defines"
+                    }, 
+                    {
+                        "policy": "defines"
+                    }, 
+                    {
+                        "standardisation development": "defines"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "policy", 
+                    "standardisation development"
+                ]
+            }
+        ], 
+        "sentence": "The Strategy defines the organizational structures required to address this embryonic risk to our prosperity and national security."
+    }, 
+    {
+        "sentence_id,": "1a0d50ed7f", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "WAYS PRIORITIES The Strategy is the basis for a coordinated national and globally compatible approach to protecting our critical infrastructure against cyber threats."
+    }, 
+    {
+        "sentence_id,": "4f0817f9ba", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "child online protection", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "certification": "accreditation"
+                    }, 
+                    {
+                        "certification": "accreditation"
+                    }, 
+                    {
+                        "national benchmarking": "definition"
+                    }, 
+                    {
+                        "manpower development": "definition"
+                    }, 
+                    {
+                        "manpower development": "raise"
+                    }, 
+                    {
+                        "manpower development": "boost"
+                    }, 
+                    {
+                        "un convention and protocol": "protocols"
+                    }, 
+                    {
+                        "manpower development": "capacity building"
+                    }, 
+                    {
+                        "public sector partnership": "capacity building"
+                    }
+                ], 
+                "subcategory": [
+                    "certification", 
+                    "national benchmarking", 
+                    "manpower development", 
+                    "un convention and protocol", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "In line with the Global Cyber security Agenda (GCA) of ITU, our strategic Areas are: The development of a comprehensive set of national cybercrime legislation that is regionally and globally applicable and harmonized evsjv`k MRU, AwZwi, gvP 11, 2014 9705 The implementation of measures to reduce vulnerabilities in software products through the deployment of accreditation schemes, protocols and standards; The definition of strategies for capacity building mechanisms to raise awareness, transfer know-how and boost cyber security on the national policy agenda; and The development of a unified national multi-stakeholder strategy for international cooperation, dialogue and coordination in dealing with cyber threats."
+    }, 
+    {
+        "sentence_id,": "fb8989d6e9", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Cyber Security Priorities National Cyber security Strategy should have three national priorities: Legal Measures; Technical and Procedural Measures; and Organizational Structures The first priority focuses on strategies for the development of cybercrime legislation that is harmonized and applicable globally."
+    }, 
+    {
+        "sentence_id,": "b99ad133b3", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "responsible agency": "incident response"
+                    }, 
+                    {
+                        "reporting mechanism": "incident response"
+                    }
+                ], 
+                "subcategory": [
+                    "responsible agency", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "The second priority deals with organizational structures and policies on cybercrime, watch, warning and incident response as well as the creation of a generic and universal digital identity system."
+    }, 
+    {
+        "sentence_id,": "923a2068d2", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures"
+                ], 
+                "keywords": [
+                    {
+                        "certification": "accreditation"
+                    }, 
+                    {
+                        "certification": "accreditation"
+                    }
+                ], 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "Priority three focuses on a national framework of security protocols, standards and software accreditation schemes."
+    }, 
+    {
+        "sentence_id,": "fc09f04b34", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Priority 1: Legal Measures This Priority deals with the enactment of laws to deter and prosecute cybercrime."
+    }, 
+    {
+        "sentence_id,": "08618ebb8e", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Inevitably, the actions will depend on national conditions and local needs."
+    }, 
+    {
+        "sentence_id,": "f4ffdf7124", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures"
+                ], 
+                "keywords": [
+                    {
+                        "certification": "component"
+                    }
+                ], 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "The establishment and modernization of laws, procedures, and policy to prevent, deter, respond to, and prosecute cybercrime is an integral component of the National Cybersecurity Strategy of Bangladesh."
+    }, 
+    {
+        "sentence_id,": "e6c77a45dd", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Since cybersecurity is a global challenge, the lack of harmonized national and regional cybercrime legislation weakens Bangladeshs internal and worldwide ability to detect, prosecute and deter cybercrime."
+    }, 
+    {
+        "sentence_id,": "f6a89e143b", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The National Cybersecurity Strategy identifies the actions below as necessary for creating suitable cybercrime legal measures: 9706 evsjv`k MRU, AwZwi, gvP 11, 2014 Action 1: Cybercrime Legislation This Action involves creation of laws that are interoperable and applicable globally."
+    }, 
+    {
+        "sentence_id,": "0f1b209070", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Our cybercrime legislation shall be harmonized with global conventions."
+    }, 
+    {
+        "sentence_id,": "07556a6b1d", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Therefore, we shall align our cybercrime legislation with the ITU Toolkit for Cybercrime Legislation."
+    }, 
+    {
+        "sentence_id,": "3ba3c1b685", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "international cooperation"
+                    }, 
+                    {
+                        "professional certification": "international cooperation"
+                    }, 
+                    {
+                        "agency certification": "international cooperation"
+                    }, 
+                    {
+                        "international cooperation": "international cooperation"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "professional certification", 
+                    "agency certification", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "The alignment of our cybercrime legislation with the ITU Toolkit for Cybercrime helps international cooperation and addresses jurisdictional and evidentiary issues."
+    }, 
+    {
+        "sentence_id,": "d713067f56", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "standardisation development": "our country"
+                    }, 
+                    {
+                        "intra-state cooperation": "our country"
+                    }
+                ], 
+                "subcategory": [
+                    "standardisation development", 
+                    "intra-state cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Additionally, internationally harmonized legislation strengthens cybersecurity, as it helps our country build capacity for preventing, deterring and prosecuting cybercrime."
+    }, 
+    {
+        "sentence_id,": "05f785d23a", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "committees"
+                    }, 
+                    {
+                        "responsible agency": "committees"
+                    }, 
+                    {
+                        "manpower development": "committees"
+                    }, 
+                    {
+                        "international cooperation": "committees"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "responsible agency", 
+                    "manpower development", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "The cybercrime law should be evaluated by all ministries and legislative committees that might have an interest in it, even if they have nothing to do with criminal justice, so that no useful idea is missed."
+    }, 
+    {
+        "sentence_id,": "ce0dd9017c", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The cybercrime law should similarly be evaluated by the local private sector, by any local affiliate of the international private sector, by local non-governmental organizations, by academics, by unaffiliated interested citizens, by willing foreign governments, and anyone else with a recognized interest."
+    }, 
+    {
+        "sentence_id,": "175dd9aea4", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "manpower development": "aims"
+                    }, 
+                    {
+                        "intra-agency cooperation": "aims"
+                    }, 
+                    {
+                        "public sector partnership": "provisions"
+                    }
+                ], 
+                "subcategory": [
+                    "manpower development", 
+                    "intra-agency cooperation", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "It is recommended that the text of National Cybercrime law be drafted to comply with the provisions of the Convention on Cybercrime (2001) Action 2: Government Legal Authority This Action aims to ensure that governments have sufficient legal authority to secure cyberspace in public interest."
+    }, 
+    {
+        "sentence_id,": "b56bdedf28", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation", 
+                    "child online protection", 
+                    "legal measures"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "defines"
+                    }, 
+                    {
+                        "standards": "defines"
+                    }, 
+                    {
+                        "standards": "defines"
+                    }, 
+                    {
+                        "standards": "create"
+                    }, 
+                    {
+                        "policy": "defines"
+                    }, 
+                    {
+                        "policy": "defines"
+                    }, 
+                    {
+                        "policy": "defines"
+                    }, 
+                    {
+                        "standardisation development": "defines"
+                    }, 
+                    {
+                        "standardisation development": "defines"
+                    }, 
+                    {
+                        "standardisation development": "defines"
+                    }, 
+                    {
+                        "standardisation development": "create"
+                    }, 
+                    {
+                        "manpower development": "create"
+                    }, 
+                    {
+                        "public sector partnership": "create"
+                    }, 
+                    {
+                        "institutional support": "create"
+                    }, 
+                    {
+                        "reporting mechanism": "create"
+                    }, 
+                    {
+                        "criminal legislation": "legal basis"
+                    }, 
+                    {
+                        "regulation and compliance": "legal basis"
+                    }, 
+                    {
+                        "cirt": "legal basis"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "policy", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "public sector partnership", 
+                    "institutional support", 
+                    "reporting mechanism", 
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "cirt"
+                ]
+            }
+        ], 
+        "sentence": "To create cybersecurity organization structures including the National Cybersecurity Council; Defines the legal basis for creating a national CIRT, For example, the Act defines the powers to shutdown a critical infrastructure if at risk of a cyber attack; evsjv`k MRU, AwZwi, gvP 11, 2014 9707 Provides the basis for promoting cybersecurity skills, training and awareness; Defines the legal and operational basis for an integrated and fully coordinated public private sector partnership on cybersecurity; Fosters innovation in cybersecurity to help develop long-term solutions; and Grants the government authority to participate in international cooperation, dialogue and coordination activities focuses on cybersecurity such as mutual assistance."
+    }, 
+    {
+        "sentence_id,": "393d6c4848", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "capacity building", 
+                    "cooperation", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "create"
+                    }, 
+                    {
+                        "standardisation development": "create"
+                    }, 
+                    {
+                        "manpower development": "create"
+                    }, 
+                    {
+                        "public sector partnership": "create"
+                    }, 
+                    {
+                        "institutional support": "create"
+                    }, 
+                    {
+                        "reporting mechanism": "create"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "public sector partnership", 
+                    "institutional support", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "Priority 2: Technical and Procedural Measures This Priority addresses the need to create organizational structures at national and regional levels to facilitate communication, information exchange and the recognition of digital credentials across jurisdictions."
+    }, 
+    {
+        "sentence_id,": "466dfca7d3", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "regulation and compliance": "compliance"
+                    }, 
+                    {
+                        "regulation and compliance": "compliance"
+                    }, 
+                    {
+                        "standards": "guidance"
+                    }, 
+                    {
+                        "standards": "compliance"
+                    }, 
+                    {
+                        "standards": "compliance"
+                    }, 
+                    {
+                        "standards": "defines"
+                    }, 
+                    {
+                        "standards": "create"
+                    }, 
+                    {
+                        "standards": "create"
+                    }, 
+                    {
+                        "certification": "offers"
+                    }, 
+                    {
+                        "policy": "defines"
+                    }, 
+                    {
+                        "national benchmarking": "guidance"
+                    }, 
+                    {
+                        "standardisation development": "guidance"
+                    }, 
+                    {
+                        "standardisation development": "defines"
+                    }, 
+                    {
+                        "standardisation development": "create"
+                    }, 
+                    {
+                        "standardisation development": "create"
+                    }, 
+                    {
+                        "manpower development": "offers"
+                    }, 
+                    {
+                        "manpower development": "guidance"
+                    }, 
+                    {
+                        "manpower development": "aims"
+                    }, 
+                    {
+                        "manpower development": "create"
+                    }, 
+                    {
+                        "manpower development": "create"
+                    }, 
+                    {
+                        "intra-agency cooperation": "aims"
+                    }, 
+                    {
+                        "public sector partnership": "create"
+                    }, 
+                    {
+                        "public sector partnership": "create"
+                    }, 
+                    {
+                        "institutional support": "offers"
+                    }, 
+                    {
+                        "institutional support": "create"
+                    }, 
+                    {
+                        "institutional support": "create"
+                    }, 
+                    {
+                        "reporting mechanism": "offers"
+                    }, 
+                    {
+                        "reporting mechanism": "create"
+                    }, 
+                    {
+                        "reporting mechanism": "create"
+                    }
+                ], 
+                "subcategory": [
+                    "regulation and compliance", 
+                    "standards", 
+                    "certification", 
+                    "policy", 
+                    "national benchmarking", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "intra-agency cooperation", 
+                    "public sector partnership", 
+                    "institutional support", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "The structures would help create a generic and universal digital identity system and the necessary organizational structures to recognize digital credentials across jurisdictions through the following actions: Action 1: National Cybersecurity Framework This Action aims to create a Framework that defines mandatory security standards and offers guidance on issues such as risk management, compliance and assurance."
+    }, 
+    {
+        "sentence_id,": "38a38aaa60", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures"
+                ], 
+                "keywords": [
+                    {
+                        "regulation and compliance": "compliance"
+                    }, 
+                    {
+                        "regulation and compliance": "compliance"
+                    }, 
+                    {
+                        "standards": "compliance"
+                    }, 
+                    {
+                        "standards": "compliance"
+                    }
+                ], 
+                "subcategory": [
+                    "regulation and compliance", 
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "The Bangladesh National Security Framework outlines minimum-security measures that stakeholders must abide by to claim compliance with national cybersecurity requirements."
+    }, 
+    {
+        "sentence_id,": "297cd0bc94", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "a wide range"
+                    }, 
+                    {
+                        "manpower development": "a wide range"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "manpower development"
+                ]
+            }
+        ], 
+        "sentence": "The Framework contains core security values and minimum standards that apply to a wide range of stakeholders."
+    }, 
+    {
+        "sentence_id,": "b6dc281b99", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Stakeholders select the applicable standards based on their risk profile and information protection needs."
+    }, 
+    {
+        "sentence_id,": "f9c4c8b65e", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures"
+                ], 
+                "keywords": [
+                    {
+                        "regulation and compliance": "compliance"
+                    }, 
+                    {
+                        "regulation and compliance": "compliance"
+                    }, 
+                    {
+                        "standards": "compliance"
+                    }, 
+                    {
+                        "standards": "compliance"
+                    }
+                ], 
+                "subcategory": [
+                    "regulation and compliance", 
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "The stakeholders may use an internal audit or external auditor to demonstrate compliance with the minimum-security standards to a central organization."
+    }, 
+    {
+        "sentence_id,": "7eb43a7455", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "instructions"
+                    }
+                ], 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "However, the Framework does not provide detailed technical instructions on specific ICT systems."
+    }, 
+    {
+        "sentence_id,": "063abf4987", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "roadmap for governance": "government departments"
+                    }, 
+                    {
+                        "national benchmarking": "preventive measures"
+                    }, 
+                    {
+                        "agency certification": "government departments"
+                    }
+                ], 
+                "subcategory": [
+                    "roadmap for governance", 
+                    "national benchmarking", 
+                    "agency certification"
+                ]
+            }
+        ], 
+        "sentence": "The National Cybersecurity Strategy identifies the following Policy Goals as vital components of the National Cybersecurity Framework: Governance and Risk Management 9708 evsjv`k MRU, AwZwi, gvP 11, 2014 Information Security and Assurance Protective Marking and Asset Management Staff Vetting and Clearance Physical and Environmental Security Action 2: Secure Government Infrastructure This Action deals with spreading awareness of relevant risks, preventive measures and effective responses to government Departments and Agencies."
+    }, 
+    {
+        "sentence_id,": "e8173fa5d3", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The Government of Bangladesh owns and operates only a minority of critical information infrastructure."
+    }, 
+    {
+        "sentence_id,": "cbdeebbf20", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "However, Bangladesh attributes considerable importance to the protection of critical information infrastructure."
+    }, 
+    {
+        "sentence_id,": "83b1971b2c", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Therefore, the Government will lead the cyberspace security."
+    }, 
+    {
+        "sentence_id,": "23a040b9b1", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures", 
+                    "cooperation", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "mandate"
+                    }, 
+                    {
+                        "criminal legislation": "mandate"
+                    }, 
+                    {
+                        "cirt": "mandate"
+                    }, 
+                    {
+                        "cirt": "mandate"
+                    }, 
+                    {
+                        "standards": "mandate"
+                    }, 
+                    {
+                        "standards": "mandate"
+                    }, 
+                    {
+                        "intra-agency cooperation": "mandate"
+                    }, 
+                    {
+                        "intra-agency cooperation": "mandate"
+                    }, 
+                    {
+                        "institutional support": "mandate"
+                    }, 
+                    {
+                        "institutional support": "mandate"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "cirt", 
+                    "standards", 
+                    "intra-agency cooperation", 
+                    "institutional support"
+                ]
+            }
+        ], 
+        "sentence": "For example, the Governments procurement process will mandate the inclusion of security clauses in service contracts to encourage development of secure cyberspace technologies."
+    }, 
+    {
+        "sentence_id,": "3136fab437", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "capacity building", 
+                    "cooperation", 
+                    "child online protection", 
+                    "legal measures"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "create"
+                    }, 
+                    {
+                        "standards": "create"
+                    }, 
+                    {
+                        "standards": "create"
+                    }, 
+                    {
+                        "standards": "create"
+                    }, 
+                    {
+                        "standardisation development": "create"
+                    }, 
+                    {
+                        "standardisation development": "create"
+                    }, 
+                    {
+                        "standardisation development": "create"
+                    }, 
+                    {
+                        "standardisation development": "create"
+                    }, 
+                    {
+                        "manpower development": "create"
+                    }, 
+                    {
+                        "manpower development": "create"
+                    }, 
+                    {
+                        "manpower development": "create"
+                    }, 
+                    {
+                        "manpower development": "create"
+                    }, 
+                    {
+                        "public sector partnership": "create"
+                    }, 
+                    {
+                        "public sector partnership": "create"
+                    }, 
+                    {
+                        "public sector partnership": "create"
+                    }, 
+                    {
+                        "public sector partnership": "create"
+                    }, 
+                    {
+                        "institutional support": "create"
+                    }, 
+                    {
+                        "institutional support": "create"
+                    }, 
+                    {
+                        "institutional support": "create"
+                    }, 
+                    {
+                        "institutional support": "create"
+                    }, 
+                    {
+                        "reporting mechanism": "create"
+                    }, 
+                    {
+                        "reporting mechanism": "create"
+                    }, 
+                    {
+                        "reporting mechanism": "create"
+                    }, 
+                    {
+                        "reporting mechanism": "create"
+                    }, 
+                    {
+                        "criminal legislation": "following actions"
+                    }, 
+                    {
+                        "regulation and compliance": "following actions"
+                    }, 
+                    {
+                        "national legislation": "following actions"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "public sector partnership", 
+                    "institutional support", 
+                    "reporting mechanism", 
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "national legislation"
+                ]
+            }
+        ], 
+        "sentence": "The National Cybersecurity Strategy identifies the following actions as vital for securing cyberspace: Create and enforce a staff vetting and clearance scheme; Create and enforce a formal information or data classification for sensitive data; Create and enforce a cybersecurity risk management process across government ministries and agencies; Define and enforce a robust government Authentication Framework; Improve security in government outsourcing and procurement through vetting of suppliers, incorporation and enforcement of security clauses in contracts; Create a vulnerability management process for all government cyber systems; Secure government local area networks; evsjv`k MRU, AwZwi, gvP 11, 2014 9709 Action 3: Critical Information Infrastructure Protection This Action focuses on defining a process for tracking and fixing vulnerabilities; improving attack attribution and prevention capabilities."
+    }, 
+    {
+        "sentence_id,": "c14de626c9", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "regulation and compliance": "integrity and availability"
+                    }, 
+                    {
+                        "un convention and protocol": "integrity and availability"
+                    }
+                ], 
+                "subcategory": [
+                    "regulation and compliance", 
+                    "un convention and protocol"
+                ]
+            }
+        ], 
+        "sentence": "Vulnerabilities are weaknesses that allow a threat or attack to break a systems confidentiality, integrity and availability defenses."
+    }, 
+    {
+        "sentence_id,": "3c1d8dbbcc", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Most of cyber attacks result from poor technical designs or the exploitation of known but unfixed vulnerabilities."
+    }, 
+    {
+        "sentence_id,": "95f0053ce3", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "criticality"
+                    }, 
+                    {
+                        "intra-agency cooperation": "criticality"
+                    }, 
+                    {
+                        "public sector partnership": "criticality"
+                    }
+                ], 
+                "subcategory": [
+                    "policy", 
+                    "intra-agency cooperation", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "The impact of the exploitation of vulnerability depends on the value and criticality of information."
+    }, 
+    {
+        "sentence_id,": "b8873d03f4", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Critical information infrastructures inevitably store valuable information."
+    }, 
+    {
+        "sentence_id,": "3c01222cc1", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "capacity building", 
+                    "cooperation", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "create"
+                    }, 
+                    {
+                        "certification": "accreditation"
+                    }, 
+                    {
+                        "certification": "accreditation"
+                    }, 
+                    {
+                        "standardisation development": "create"
+                    }, 
+                    {
+                        "manpower development": "create"
+                    }, 
+                    {
+                        "public sector partnership": "create"
+                    }, 
+                    {
+                        "institutional support": "create"
+                    }, 
+                    {
+                        "reporting mechanism": "create"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "certification", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "public sector partnership", 
+                    "institutional support", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "The National Cybersecurity Strategy identifies the following major actions and initiatives to reduce threats and related vulnerabilities in Bangladesh: Create a process for national vulnerability assessments to help understand the potential consequences of threats and vulnerabilities; Designate important systems as critical information infrastructure and enforce an accreditation regime around them."
+    }, 
+    {
+        "sentence_id,": "5548d9fe70", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation", 
+                    "child online protection", 
+                    "legal measures"
+                ], 
+                "keywords": [
+                    {
+                        "cirt": "penetration"
+                    }, 
+                    {
+                        "national benchmarking": "penetration"
+                    }, 
+                    {
+                        "manpower development": "enhance"
+                    }, 
+                    {
+                        "intra-state cooperation": "enhance"
+                    }, 
+                    {
+                        "public sector partnership": "enhance"
+                    }, 
+                    {
+                        "international cooperation": "enhance"
+                    }, 
+                    {
+                        "un convention and protocol": "protocols"
+                    }, 
+                    {
+                        "regulation and compliance": "research and development"
+                    }, 
+                    {
+                        "standardisation development": "research and development"
+                    }, 
+                    {
+                        "un convention and protocol": "research and development"
+                    }
+                ], 
+                "subcategory": [
+                    "cirt", 
+                    "national benchmarking", 
+                    "manpower development", 
+                    "intra-state cooperation", 
+                    "public sector partnership", 
+                    "international cooperation", 
+                    "un convention and protocol", 
+                    "regulation and compliance", 
+                    "standardisation development"
+                ]
+            }
+        ], 
+        "sentence": "For example, no system will connect to critical infrastructure without a penetration test and other assurance activities; Enhance law enforcement capabilities in the investigation, prevention and prosecution of cybercrimes; Require the use of evaluated software products; Prioritize national cybersecurity research and development activities; Assess and secure emerging systems; and Participate in international efforts to improve the security of Internet protocols and routing technologies."
+    }, 
+    {
+        "sentence_id,": "8b8a550332", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Priority 3: Organisational Structures This Priority Area requires the building of organizational structures and strategies to help prevent, detect and respond to attacks against critical infrastructure."
+    }, 
+    {
+        "sentence_id,": "fe6b46e0ee", 
+        "tag": [
+            {
+                "category": [
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "public sector partnership": "countermeasures"
+                    }, 
+                    {
+                        "international cooperation": "all relevant stakeholders"
+                    }
+                ], 
+                "subcategory": [
+                    "public sector partnership", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "The National Cybersecurity Strategy identifies the actions below as essential for creating appropriate national and regional organizational structures and policies on cybercrime: 9710 evsjv`k MRU, AwZwi, gvP 11, 2014 Action 1: Governments Cybersecurity Role Cybersecurity is everyones responsibility because countermeasures only work well if all relevant stakeholders play their part."
+    }, 
+    {
+        "sentence_id,": "44bc121db6", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "infrastructure owners"
+                    }, 
+                    {
+                        "intra-agency cooperation": "infrastructure owners"
+                    }, 
+                    {
+                        "public sector partnership": "infrastructure owners"
+                    }
+                ], 
+                "subcategory": [
+                    "policy", 
+                    "intra-agency cooperation", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "The stakeholders include government, business, infrastructure owners and users."
+    }, 
+    {
+        "sentence_id,": "f3362b60d7", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "standardisation development": "the private sector"
+                    }, 
+                    {
+                        "manpower development": "the private sector"
+                    }, 
+                    {
+                        "public sector partnership": "the private sector"
+                    }
+                ], 
+                "subcategory": [
+                    "standardisation development", 
+                    "manpower development", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "Collaboration is vital because neither government nor the private sector can independently control and protect information infrastructure."
+    }, 
+    {
+        "sentence_id,": "72808e2017", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The Government of Bangladesh has overall responsibility for securing the infrastructure in public interest."
+    }, 
+    {
+        "sentence_id,": "1338d5d826", 
+        "tag": [
+            {
+                "category": [
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "international cooperation": "essential services"
+                    }
+                ], 
+                "subcategory": [
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "To improve cybersecurity in Bangladesh, it is vital that the Government puts in place appropriate national structures to protect its own infrastructure and all assets required to deliver essential services to the public."
+    }, 
+    {
+        "sentence_id,": "ab0e00563a", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The national, regional and globally compatible organizational structures aim to protect classified data and networks against cyber attacks."
+    }, 
+    {
+        "sentence_id,": "003023735f", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "standardisation development": "the private sector"
+                    }, 
+                    {
+                        "manpower development": "the private sector"
+                    }, 
+                    {
+                        "public sector partnership": "the private sector"
+                    }
+                ], 
+                "subcategory": [
+                    "standardisation development", 
+                    "manpower development", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "The Government is also responsible for communicating national priorities to the private sector to help ensure that critical infrastructure under private sector in areas such as banking, transport and telecommunications receives sufficient protection."
+    }, 
+    {
+        "sentence_id,": "cee28a2f24", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "To address the cybersecurity challenge, the Government of Bangladesh may appoint a senior aide as the National Cybersecurity Coordinator."
+    }, 
+    {
+        "sentence_id,": "aee9ea59ec", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "standardisation development": "priority areas"
+                    }, 
+                    {
+                        "manpower development": "priority areas"
+                    }, 
+                    {
+                        "intra-agency cooperation": "priority areas"
+                    }
+                ], 
+                "subcategory": [
+                    "standardisation development", 
+                    "manpower development", 
+                    "intra-agency cooperation"
+                ]
+            }
+        ], 
+        "sentence": "The official has the responsibility to establish a cross-government programme to address the priority areas of this Strategy."
+    }, 
+    {
+        "sentence_id,": "c78b228c70", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The official provides strategic leadership and ensures the coherence of cybersecurity activities across government."
+    }, 
+    {
+        "sentence_id,": "431219c951", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "agency certification": "government agencies"
+                    }
+                ], 
+                "subcategory": [
+                    "agency certification"
+                ]
+            }
+        ], 
+        "sentence": "The role cuts across government agencies and the official reports to the National Cybersecurity Council, as and when formed."
+    }, 
+    {
+        "sentence_id,": "8a1e747808", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "legal measures", 
+                    "technical measures", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "responsible agency": "coordinate"
+                    }, 
+                    {
+                        "regulation and compliance": "financial resources"
+                    }, 
+                    {
+                        "cirt": "financial resources"
+                    }, 
+                    {
+                        "policy": "financial resources"
+                    }, 
+                    {
+                        "intra-agency cooperation": "financial resources"
+                    }, 
+                    {
+                        "public sector partnership": "financial resources"
+                    }
+                ], 
+                "subcategory": [
+                    "responsible agency", 
+                    "regulation and compliance", 
+                    "cirt", 
+                    "policy", 
+                    "intra-agency cooperation", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "The Coordinator has direct access to the Head of Government as well as sufficient staff and financial resources to coordinate inter-gvernment activities at a strategic level."
+    }, 
+    {
+        "sentence_id,": "490a1311cf", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "cirt": "focal point"
+                    }, 
+                    {
+                        "standardisation development": "focal point"
+                    }
+                ], 
+                "subcategory": [
+                    "cirt", 
+                    "standardisation development"
+                ]
+            }
+        ], 
+        "sentence": "Action 2: National Cybersecurity Council The National Cybersecurity Council is the focal point for coordinating efforts to protect our cyberspace."
+    }, 
+    {
+        "sentence_id,": "85d64fbb4a", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "roadmap for governance": "government institutions"
+                    }, 
+                    {
+                        "agency certification": "government institutions"
+                    }, 
+                    {
+                        "institutional support": "government institutions"
+                    }
+                ], 
+                "subcategory": [
+                    "roadmap for governance", 
+                    "agency certification", 
+                    "institutional support"
+                ]
+            }
+        ], 
+        "sentence": "This multi-Council body unites operational cybersecurity evsjv`k MRU, AwZwi, gvP 11, 2014 9711 efforts of government institutions and leads collaboration with industry."
+    }, 
+    {
+        "sentence_id,": "1264c0f0b5", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "responsible agency": "incident response"
+                    }, 
+                    {
+                        "standardisation development": "private partnership"
+                    }, 
+                    {
+                        "manpower development": "private partnership"
+                    }, 
+                    {
+                        "intra-state cooperation": "private partnership"
+                    }, 
+                    {
+                        "public sector partnership": "private partnership"
+                    }, 
+                    {
+                        "reporting mechanism": "incident response"
+                    }
+                ], 
+                "subcategory": [
+                    "responsible agency", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "intra-state cooperation", 
+                    "public sector partnership", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "Public- private partnership coordination is critical to protecting our critical infrastructure because it enhances information sharing and cooperation on cyber threat identification, incident response and recovery."
+    }, 
+    {
+        "sentence_id,": "40b11bb777", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation", 
+                    "child online protection", 
+                    "legal measures"
+                ], 
+                "keywords": [
+                    {
+                        "cirt": "perform"
+                    }, 
+                    {
+                        "cirt": "perform"
+                    }, 
+                    {
+                        "standards": "create"
+                    }, 
+                    {
+                        "national benchmarking": "perform"
+                    }, 
+                    {
+                        "national benchmarking": "perform"
+                    }, 
+                    {
+                        "standardisation development": "create"
+                    }, 
+                    {
+                        "manpower development": "create"
+                    }, 
+                    {
+                        "public sector partnership": "countermeasures"
+                    }, 
+                    {
+                        "public sector partnership": "create"
+                    }, 
+                    {
+                        "institutional support": "create"
+                    }, 
+                    {
+                        "reporting mechanism": "create"
+                    }, 
+                    {
+                        "certification": "other agencies"
+                    }, 
+                    {
+                        "certification": "early warning"
+                    }, 
+                    {
+                        "roadmap for governance": "other government"
+                    }, 
+                    {
+                        "responsible agency": "incident response"
+                    }, 
+                    {
+                        "responsible agency": "other agencies"
+                    }, 
+                    {
+                        "standardisation development": "early warning"
+                    }, 
+                    {
+                        "agency certification": "government agencies"
+                    }, 
+                    {
+                        "agency certification": "government agencies"
+                    }, 
+                    {
+                        "agency certification": "government agencies"
+                    }, 
+                    {
+                        "agency certification": "other government"
+                    }, 
+                    {
+                        "agency certification": "other agencies"
+                    }, 
+                    {
+                        "intra-agency cooperation": "early warning"
+                    }, 
+                    {
+                        "reporting mechanism": "incident response"
+                    }, 
+                    {
+                        "regulation and compliance": "research and development"
+                    }, 
+                    {
+                        "regulation and compliance": "threat and vulnerability"
+                    }, 
+                    {
+                        "certification": "private sector organizations"
+                    }, 
+                    {
+                        "certification": "private sector organizations"
+                    }, 
+                    {
+                        "standardisation development": "research and development"
+                    }, 
+                    {
+                        "public sector partnership": "private sector organizations"
+                    }, 
+                    {
+                        "public sector partnership": "private sector organizations"
+                    }, 
+                    {
+                        "un convention and protocol": "research and development"
+                    }, 
+                    {
+                        "un convention and protocol": "threat and vulnerability"
+                    }
+                ], 
+                "subcategory": [
+                    "cirt", 
+                    "standards", 
+                    "national benchmarking", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "public sector partnership", 
+                    "institutional support", 
+                    "reporting mechanism", 
+                    "certification", 
+                    "roadmap for governance", 
+                    "responsible agency", 
+                    "agency certification", 
+                    "intra-agency cooperation", 
+                    "regulation and compliance", 
+                    "un convention and protocol"
+                ]
+            }
+        ], 
+        "sentence": "The Cybersecurity Strategy mandates the Council to perform the roles below: Developing a comprehensive national plan for securing critical infrastructure and services whether in government or private sector; Providing national major incident response capacity in an event of significant attacks on critical infrastructure; Providing government and private sector organizations strategic advice and processes for managing cybersecurity Programmes; Providing integrated security advice (combining information, personnel and physical) to the government agencies and businesses owning or operating critical information infrastructure to reduce its vulnerability to cyber and other threats; Acting as the National Technical Authority for Information Assurance for private sector organizations and government agencies in all aspects of cybersecurity; Working with other government agencies including intelligence agencies to review threat and vulnerability information and distribute advice on the countermeasures to regional and local governmental organizations, private sector, academia and the general public; Engage in international schemes such as the International Multilateral Partnership Against Cyber Threats (IMPACT) for alerts, early warning and cooperation; Perform and fund research and development with other agencies to create a new generation of secure cyber technologies."
+    }, 
+    {
+        "sentence_id,": "86392b43b0", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "effectiveness"
+                    }, 
+                    {
+                        "public sector partnership": "effectiveness"
+                    }
+                ], 
+                "subcategory": [
+                    "policy", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "An annual review assesses the effectiveness of the Councils cybersecurity activities."
+    }, 
+    {
+        "sentence_id,": "ff2c99740a", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "capacity building", 
+                    "cooperation", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "cirt": "events"
+                    }, 
+                    {
+                        "manpower development": "events"
+                    }, 
+                    {
+                        "intra-state cooperation": "events"
+                    }, 
+                    {
+                        "intra-agency cooperation": "events"
+                    }, 
+                    {
+                        "international cooperation": "events"
+                    }, 
+                    {
+                        "cirt": "incident management"
+                    }, 
+                    {
+                        "reporting mechanism": "incident management"
+                    }
+                ], 
+                "subcategory": [
+                    "cirt", 
+                    "manpower development", 
+                    "intra-state cooperation", 
+                    "intra-agency cooperation", 
+                    "international cooperation", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "9712 evsjv`k MRU, AwZwi, gvP 11, 2014 Action 3: National Incident Management Capacity Timely identification, communication and recovery from major cybersecurity events and weaknesses affecting critical information infrastructure can often mitigate the damage resulting from malicious cyberspace activity."
+    }, 
+    {
+        "sentence_id,": "919b347696", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Best practice indicates that these efforts are most effective at national level because they provide wider participation in analysis, warning, information gathering, vulnerability reduction, mitigation and recovery."
+    }, 
+    {
+        "sentence_id,": "5c68799186", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "responsible agency": "coordinate"
+                    }, 
+                    {
+                        "standardisation development": "the private sector"
+                    }, 
+                    {
+                        "manpower development": "the private sector"
+                    }, 
+                    {
+                        "public sector partnership": "the private sector"
+                    }
+                ], 
+                "subcategory": [
+                    "responsible agency", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "Inevitably, the government needs to work with the private sector to coordinate a national response because private firms own the infrastructure and often have better skills."
+    }, 
+    {
+        "sentence_id,": "711136fe4d", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "cooperation", 
+                    "legal measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "infrastructure owners"
+                    }, 
+                    {
+                        "intra-agency cooperation": "infrastructure owners"
+                    }, 
+                    {
+                        "public sector partnership": "infrastructure owners"
+                    }, 
+                    {
+                        "regulation and compliance": "owners and operators"
+                    }, 
+                    {
+                        "un convention and protocol": "owners and operators"
+                    }
+                ], 
+                "subcategory": [
+                    "policy", 
+                    "intra-agency cooperation", 
+                    "public sector partnership", 
+                    "regulation and compliance", 
+                    "un convention and protocol"
+                ]
+            }
+        ], 
+        "sentence": "The government creates legal and regulatory incentives to encourage critical infrastructure owners and operators to ensure that their systems are resilient to attacks."
+    }, 
+    {
+        "sentence_id,": "efd25fbee3", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation", 
+                    "child online protection", 
+                    "legal measures"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "create"
+                    }, 
+                    {
+                        "responsible agency": "coordinate"
+                    }, 
+                    {
+                        "standardisation development": "create"
+                    }, 
+                    {
+                        "manpower development": "create"
+                    }, 
+                    {
+                        "public sector partnership": "create"
+                    }, 
+                    {
+                        "institutional support": "create"
+                    }, 
+                    {
+                        "reporting mechanism": "create"
+                    }, 
+                    {
+                        "criminal legislation": "following actions"
+                    }, 
+                    {
+                        "regulation and compliance": "following actions"
+                    }, 
+                    {
+                        "responsible agency": "incident response"
+                    }, 
+                    {
+                        "national legislation": "following actions"
+                    }, 
+                    {
+                        "reporting mechanism": "incident response"
+                    }, 
+                    {
+                        "regulation and compliance": "threats and vulnerabilities"
+                    }, 
+                    {
+                        "un convention and protocol": "threats and vulnerabilities"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "responsible agency", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "public sector partnership", 
+                    "institutional support", 
+                    "reporting mechanism", 
+                    "criminal legislation", 
+                    "regulation and compliance", 
+                    "national legislation", 
+                    "un convention and protocol"
+                ]
+            }
+        ], 
+        "sentence": "This Strategy identifies the following actions regarding cyber incident response: Build Bangladesh Computer Incident Response Team (BD-CIRT) at the National Cybersecurity Council; Establish a public-private framework for responding to major cyber incidents; Encourage development of business continuity and disaster recovery capacity; Develop strategic and tactical cyber attack and vulnerability assessment capacity; Encourage the development of private sector capacity to share status information about the health of cyberspace; Coordinate processes for voluntary participation in the development of national public-private continuity and contingency plans; Create a Cyber Warning and Information Network at Cybersecurity Council; and evsjv`k MRU, AwZwi, gvP 11, 2014 9713 Develop mechanism to share information about cyber attacks, threats and vulnerabilities with the public and non-governmental bodies locally and globally; Where possible, it is advisable for units to have at least basic computer forensic capacity."
+    }, 
+    {
+        "sentence_id,": "193862f97f", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Such capacity will require software tools and additional training."
+    }, 
+    {
+        "sentence_id,": "efa5131517", 
+        "tag": [
+            {
+                "category": [
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "intra-state cooperation": "public-private partnerships"
+                    }
+                ], 
+                "subcategory": [
+                    "intra-state cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Action 4: Public-Private Partnerships The commercial sector owns and operates most of the critical infrastructure that Bangladesh relies on home and abroad."
+    }, 
+    {
+        "sentence_id,": "86fb9ce2e8", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "cirt": "operate"
+                    }, 
+                    {
+                        "policy": "operate"
+                    }
+                ], 
+                "subcategory": [
+                    "cirt", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Clearly, the Government alone cannot secure cyberspace since it does not own or operate the infrastructure."
+    }, 
+    {
+        "sentence_id,": "8df251caba", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "standardisation development": "the private sector"
+                    }, 
+                    {
+                        "manpower development": "the private sector"
+                    }, 
+                    {
+                        "public sector partnership": "the private sector"
+                    }
+                ], 
+                "subcategory": [
+                    "standardisation development", 
+                    "manpower development", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "Therefore, the Government of Bangladesh should form meaningful partnership with the private sector on cybersecurity."
+    }, 
+    {
+        "sentence_id,": "15429695e6", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "standardisation development": "the private sector"
+                    }, 
+                    {
+                        "manpower development": "the private sector"
+                    }, 
+                    {
+                        "public sector partnership": "the private sector"
+                    }
+                ], 
+                "subcategory": [
+                    "standardisation development", 
+                    "manpower development", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "The National Cybersecurity Strategy requires the Government of Bangladesh and its agents to consult the private sector in the development, implementation and maintenance of regulation, cybersecurity initiatives and policies."
+    }, 
+    {
+        "sentence_id,": "e827cd7ba3", 
+        "tag": [
+            {
+                "category": [
+                    "cooperation", 
+                    "capacity building", 
+                    "legal measures", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "intra-state cooperation": "relationships"
+                    }, 
+                    {
+                        "manpower development": "training courses"
+                    }, 
+                    {
+                        "regulation and compliance": "threats and vulnerabilities"
+                    }, 
+                    {
+                        "standardisation development": "the private sector"
+                    }, 
+                    {
+                        "manpower development": "the private sector"
+                    }, 
+                    {
+                        "intra-state cooperation": "exchange of information"
+                    }, 
+                    {
+                        "intra-state cooperation": "exchange of information"
+                    }, 
+                    {
+                        "public sector partnership": "the private sector"
+                    }, 
+                    {
+                        "public sector partnership": "exchange of information"
+                    }, 
+                    {
+                        "public sector partnership": "exchange of information"
+                    }, 
+                    {
+                        "un convention and protocol": "threats and vulnerabilities"
+                    }
+                ], 
+                "subcategory": [
+                    "intra-state cooperation", 
+                    "manpower development", 
+                    "regulation and compliance", 
+                    "standardisation development", 
+                    "public sector partnership", 
+                    "un convention and protocol"
+                ]
+            }
+        ], 
+        "sentence": "Cooperative relationships with the private sector are vital because they: Facilitate the exchange of information on the development of new legislation and regulation between stakeholders; Enable collaborative work and sharing of training courses that could help alleviate the severe shortage of skilled cyber security professionals; and Enable real time exchange of information about cyber threats and vulnerabilities The communication channel is valuable for the BD-CIRT as the exchange complements the stretched national incident detection and warning resources."
+    }, 
+    {
+        "sentence_id,": "b0bc7feb8e", 
+        "tag": [
+            {
+                "category": [
+                    "cooperation", 
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "public sector partnership": "discussions"
+                    }, 
+                    {
+                        "national benchmarking": "use of cyberspace"
+                    }
+                ], 
+                "subcategory": [
+                    "public sector partnership", 
+                    "national benchmarking"
+                ]
+            }
+        ], 
+        "sentence": "With private sector input, the Government shall also develop a coordinated national strategy for participating in major international discussions that shape policy in areas such as territorial jurisdiction, sovereign responsibility and the use of cyberspace for war."
+    }, 
+    {
+        "sentence_id,": "c80e119d46", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "responsible agency": "coordinate"
+                    }, 
+                    {
+                        "roadmap for governance": "government departments"
+                    }, 
+                    {
+                        "agency certification": "government departments"
+                    }, 
+                    {
+                        "standardisation development": "the private sector"
+                    }, 
+                    {
+                        "manpower development": "the private sector"
+                    }, 
+                    {
+                        "public sector partnership": "the private sector"
+                    }
+                ], 
+                "subcategory": [
+                    "responsible agency", 
+                    "roadmap for governance", 
+                    "agency certification", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "public sector partnership"
+                ]
+            }
+        ], 
+        "sentence": "Additionally, the Cybersecurity Coordinator or an equally empowered party works with government departments and agencies, the private sector and academia to formulate and coordinate Bangladeshs international cybersecurity positions."
+    }, 
+    {
+        "sentence_id,": "ddd05d9d97", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "responsible agency": "affairs"
+                    }, 
+                    {
+                        "standardisation development": "affairs"
+                    }, 
+                    {
+                        "manpower development": "affairs"
+                    }, 
+                    {
+                        "intra-agency cooperation": "affairs"
+                    }
+                ], 
+                "subcategory": [
+                    "responsible agency", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "intra-agency cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Thereafter, the ministries of Foreign Affairs should work on improving international cooperation."
+    }, 
+    {
+        "sentence_id,": "8ba5c97258", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "9714 evsjv`k MRU, AwZwi, gvP 11, 2014 Action 5: Cyber security Skills and Training The Action focuses on the creation of programmes to increase the capability of cybersecurity professionals in Managerial, Technical and Information Assurance areas."
+    }, 
+    {
+        "sentence_id,": "fc128ba26c", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "This Action requires the initiation of a programme to train a cadre of citizens to secure information flows."
+    }, 
+    {
+        "sentence_id,": "21a73b0305", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "This Action focuses on the training of professionals, not creating general awareness."
+    }, 
+    {
+        "sentence_id,": "02ec079e8d", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "organization measures", 
+                    "capacity building", 
+                    "cooperation", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "create"
+                    }, 
+                    {
+                        "certification": "certification"
+                    }, 
+                    {
+                        "certification": "certification"
+                    }, 
+                    {
+                        "responsible agency": "coordinate"
+                    }, 
+                    {
+                        "standardisation development": "create"
+                    }, 
+                    {
+                        "manpower development": "create"
+                    }, 
+                    {
+                        "professional certification": "certification"
+                    }, 
+                    {
+                        "professional certification": "certification"
+                    }, 
+                    {
+                        "public sector partnership": "create"
+                    }, 
+                    {
+                        "institutional support": "create"
+                    }, 
+                    {
+                        "reporting mechanism": "create"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "certification", 
+                    "responsible agency", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "professional certification", 
+                    "public sector partnership", 
+                    "institutional support", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "This Cybersecurity Strategy identifies the following major activities: Adopt a national Cybersecurity Skills Framework; Create a continuum of cybersecurity job descriptions; Identify commercially available cybersecurity certifications; Deliver or manage commercial delivery of training or certification examinations; Periodically measure Cybersecurity skills and training levels; Invest in mainstream cybersecurity education and research; Build cybersecurity capacity of national companies; and Work with global partners such as IMPACT to coordinate cybersecurity training; It is important that prosecutors and judges have some understanding of areas such as computers, software, and networks as well as of the increasing importance of electronic evidence."
+    }, 
+    {
+        "sentence_id,": "5494ce4d53", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "standardisation development": "countrys"
+                    }, 
+                    {
+                        "intra-state cooperation": "countrys"
+                    }
+                ], 
+                "subcategory": [
+                    "standardisation development", 
+                    "intra-state cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Similarly, legislators should have some understanding of those topics and of whether a countrys laws are adequate to address cybercrime."
+    }, 
+    {
+        "sentence_id,": "914beaaa98", 
+        "tag": [
+            {
+                "category": [
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "un convention and protocol": "children"
+                    }, 
+                    {
+                        "institutional support": "children"
+                    }
+                ], 
+                "subcategory": [
+                    "un convention and protocol", 
+                    "institutional support"
+                ]
+            }
+        ], 
+        "sentence": "It may also be helpful to train senior policy-makers, government officials, about the threats to electronic networks (for example, how the national banking system could be attacked) and about the threats posed by electronic networks (for example, the use of the Internet to locate vulnerable children for sexual trafficking)."
+    }, 
+    {
+        "sentence_id,": "7bdd1f9a49", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "manpower development": "raise"
+                    }, 
+                    {
+                        "international cooperation": "all relevant stakeholders"
+                    }
+                ], 
+                "subcategory": [
+                    "manpower development", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "evsjv`k MRU, AwZwi, gvP 11, 2014 9715 Action 6: National Culture of Cybersecurity The Action focuses on the need to raise awareness about cyber threats and the role all relevant stakeholders must play to secure their part of cyberspace."
+    }, 
+    {
+        "sentence_id,": "8edb20ecef", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Many cyber threats materialize due to insecure user activities."
+    }, 
+    {
+        "sentence_id,": "708fef742e", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "The users could be end users or system administrators."
+    }, 
+    {
+        "sentence_id,": "882d387235", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "technical measures", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "criminal legislation": "attackers"
+                    }, 
+                    {
+                        "cirt": "attackers"
+                    }, 
+                    {
+                        "intra-state cooperation": "attackers"
+                    }, 
+                    {
+                        "intra-agency cooperation": "attackers"
+                    }, 
+                    {
+                        "international cooperation": "attackers"
+                    }
+                ], 
+                "subcategory": [
+                    "criminal legislation", 
+                    "cirt", 
+                    "intra-state cooperation", 
+                    "intra-agency cooperation", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "A lack of awareness coupled with a general lack of skilled cybersecurity professionals increases the likelihood that attackers would trick users into performing insecure activities."
+    }, 
+    {
+        "sentence_id,": "614046d082", 
+        "tag": [
+            {
+                "category": [
+                    "technical measures", 
+                    "capacity building", 
+                    "cooperation", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "standards": "create"
+                    }, 
+                    {
+                        "standardisation development": "create"
+                    }, 
+                    {
+                        "manpower development": "create"
+                    }, 
+                    {
+                        "public sector partnership": "create"
+                    }, 
+                    {
+                        "institutional support": "create"
+                    }, 
+                    {
+                        "reporting mechanism": "create"
+                    }
+                ], 
+                "subcategory": [
+                    "standards", 
+                    "standardisation development", 
+                    "manpower development", 
+                    "public sector partnership", 
+                    "institutional support", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "On the contrary, user awareness helps create a cybersecurity culture that in turn reduces the likelihood and impact of cyber attacks."
+    }, 
+    {
+        "sentence_id,": "8d27723b7f", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building", 
+                    "child online protection", 
+                    "legal measures"
+                ], 
+                "keywords": [
+                    {
+                        "manpower development": "promotion"
+                    }, 
+                    {
+                        "manpower development": "promotion"
+                    }, 
+                    {
+                        "un convention and protocol": "children"
+                    }, 
+                    {
+                        "institutional support": "children"
+                    }, 
+                    {
+                        "regulation and compliance": "systems and information"
+                    }, 
+                    {
+                        "un convention and protocol": "systems and information"
+                    }
+                ], 
+                "subcategory": [
+                    "manpower development", 
+                    "un convention and protocol", 
+                    "institutional support", 
+                    "regulation and compliance"
+                ]
+            }
+        ], 
+        "sentence": "This Cybersecurity Strategy identifies the following major activities: Promotion of a national awareness programme to empower end users at home or general workforce to secure their own cyberspace-linked systems; Implementation of a cybersecurity awareness programme for government systems that contain classified data; Encouraging cybersecurity culture development in business enterprises; Adding cybersecurity awareness to the national education curriculum as a way of spreading knowledge to pupils and their relatives; Engaging civil society in outreach to children and individual users; Promotion of private-sector support for professional cybersecurity certifications; Nations are increasingly dependent on complex systems and information technology."
+    }, 
+    {
+        "sentence_id,": "0681df9375", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "In many cases, information and communications technologies (ICT) vital to national and economic security are subject to disruption from a number of causes, either originating from within or outside the nation."
+    }, 
+    {
+        "sentence_id,": "8f6abdc0dc", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building"
+                ], 
+                "keywords": [
+                    {
+                        "standardisation development": "leaders"
+                    }
+                ], 
+                "subcategory": [
+                    "standardisation development"
+                ]
+            }
+        ], 
+        "sentence": "Leaders in government and private industry are increasingly confronted with uncertainty about cyber risk and vulnerabilities."
+    }, 
+    {
+        "sentence_id,": "c309018daa", 
+        "tag": [
+            {
+                "category": [
+                    "organization measures"
+                ], 
+                "keywords": [
+                    {
+                        "policy": "complexity"
+                    }
+                ], 
+                "subcategory": [
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "This uncertainty stems from the complexity and interconnectivity of evolving technology used to support critical systems."
+    }, 
+    {
+        "sentence_id,": "519b3cdbbb", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "To ensure security and economic vitality, nations must manage cyber security in accordance with their own economic, social, and political considerations."
+    }, 
+    {
+        "sentence_id,": "bb60b1bcb6", 
+        "tag": [
+            {
+                "category": [
+                    "capacity building", 
+                    "cooperation"
+                ], 
+                "keywords": [
+                    {
+                        "standardisation development": "web"
+                    }, 
+                    {
+                        "intra-agency cooperation": "web"
+                    }
+                ], 
+                "subcategory": [
+                    "standardisation development", 
+                    "intra-agency cooperation"
+                ]
+            }
+        ], 
+        "sentence": "gvt bRij Bmjvg (DcmwPe), DccwiPvjK, evsjv`k miKvwi gy`Yvjq, ZRMuvI, XvKv KZK gyw` Z| kvn&-B-Avjg cvUvqvix, fvic v DccwiPvjK, evsjv`k dig I cKvkbv Awdm, ZRMuvI, XvKv KZ K cKvwkZ| web site: www.bgpress.gov.bd"
+    }
+]

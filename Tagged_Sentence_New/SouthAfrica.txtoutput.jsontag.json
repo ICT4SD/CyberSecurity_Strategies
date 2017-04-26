@@ -1,0 +1,202 @@
+[
+    {
+        "sentence_id,": "5d522bde3a", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "Government Gazette Staatskoerant R EPU B LI C OF S OUT H AF RICA REPUBLIEK VAN SUID-AFRIKA Vol."
+    }, 
+    {
+        "sentence_id,": "0f4d7ccb43", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "536 Pretoria, 19 February 2010 Februarie No."
+    }, 
+    {
+        "sentence_id,": "7fef1b94ee", 
+        "tag": [
+            {
+                "category": [
+                    "legal measures", 
+                    "capacity building", 
+                    "cooperation", 
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "regulation and compliance": "files"
+                    }, 
+                    {
+                        "manpower development": "publication"
+                    }, 
+                    {
+                        "intra-agency cooperation": "publication"
+                    }, 
+                    {
+                        "public sector partnership": "publication"
+                    }, 
+                    {
+                        "reporting mechanism": "files"
+                    }
+                ], 
+                "subcategory": [
+                    "regulation and compliance", 
+                    "manpower development", 
+                    "intra-agency cooperation", 
+                    "public sector partnership", 
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "The Government Printing Works will not be held responsible for the quality of Hard Copies or Electronic Files submitted for publication purposes AIDS HELPLINE: 0800-0123-22 Prevention is the cure G10-023744A 329631 2 No."
+    }, 
+    {
+        "sentence_id,": "7a75898340", 
+        "tag": [
+            {
+                "category": [
+                    "child online protection"
+                ], 
+                "keywords": [
+                    {
+                        "reporting mechanism": "contents"
+                    }
+                ], 
+                "subcategory": [
+                    "reporting mechanism"
+                ]
+            }
+        ], 
+        "sentence": "32963 GOVERNMENT GAZETTE, 19 FEBRUARY 2010 CONTENTS INHOUD Page No."
+    }, 
+    {
+        "sentence_id,": "e59c96c955", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "GOVERNMENT NOTICE Communications, Department of Government Notice 118 Electronic Communications Act (36/2005): Notice of intention to make South African National Cybersecurity Policy ."
+    }, 
+    {
+        "sentence_id,": "7c44ee19bf", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "3 32963 STAATSKOERANT, 19 FEBRUARIE 2010 No."
+    }, 
+    {
+        "sentence_id,": "e73b38dcc8", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "32963 3 GOVERNMENT NOTICE DEPARTMENT OF COMMUNICATIONS No."
+    }, 
+    {
+        "sentence_id,": "f438f9e8aa", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "118 19 February 2010 4 No."
+    }, 
+    {
+        "sentence_id,": "f39c109620", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "32963 GOVERNMENT GAZETTE, 19 FEBRUARY 2010 STAATSKOERANT, 19 FEBRUARIE 2010 No."
+    }, 
+    {
+        "sentence_id,": "1f2429f8f3", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "32963 GOVERNMENT GAZETTE, 19 FEBRUARY 2010 STAATSKOERANT, 19 FEBRUARIE 2010 No."
+    }, 
+    {
+        "sentence_id,": "dcb424efa3", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "32963 GOVERNMENT GAZETTE, 19 FEBRUARY 2010 STAATSKOERANT, 19 FEBRUARIE 2010 No."
+    }, 
+    {
+        "sentence_id,": "d8ab6bf8c5", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "32963 GOVERNMENT GAZETTE, 19 FEBRUARY 2010 STAATSKOERANT, 19 FEBRUARIE 2010 No."
+    }, 
+    {
+        "sentence_id,": "58fbb7ab66", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "32963 GOVERNMENT GAZETTE, 19 FEBRUARY 2010 STAATSKOERANT, 19 FEBRUARIE 2010 No."
+    }, 
+    {
+        "sentence_id,": "0f2f49570b", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "32963 GOVERNMENT GAZETTE, 19 FEBRUARY 2010 STAATSKOERANT, 19 FEBRUARIE 2010 No."
+    }, 
+    {
+        "sentence_id,": "ecfe5a51f1", 
+        "tag": [
+            {
+                "category": [], 
+                "keywords": [], 
+                "subcategory": []
+            }
+        ], 
+        "sentence": "32963 GOVERNMENT GAZETTE, 19 FEBRUARY 2010 Printed by and obtainable from the Government Printer, Bosman Street, Private Bag X85, Pretoria, 0001 Publications: Tel: (012) 334-4508, 334-4509, 334-4510 Advertisements: Tel: (012) 334-4673, 334-4674, 334-4504 Subscriptions: Tel: (012) 334-4735, 334-4736, 334-4737 Cape Town Branch: Tel: (021) 465-7531 Gedruk deur en verkrygbaar by die Staatsdrukker, Bosmanstraat, Privaatsak X85, Pretoria, 0001 Publikasies: Tel: (012) 334-4508, 334-4509, 334-4510 Advertensies: Tel: (012) 334-4673, 334-4674, 334-4504 Subskripsies: Tel: (012) 334-4735, 334-4736, 334-4737 Kaapstad-tak: Tel: (021) 465-7531 329631"
+    }
+]
