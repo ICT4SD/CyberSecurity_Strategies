@@ -1,0 +1,4854 @@
+[
+    {
+        "sentence_id,": "ce67bf956f", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "THE FEDERATED STATES OF MICRONESIA NATIONAL ICT AND TELECOMMUNICATIONS TELECOMMUNICATIONS POLICY September 2012 MESSAGE FROM THE PRESIDENT OF THE FEDERATED STATES OF MICRONESIA Ran Annim, Kaselehlie, Mogethin and Len Mwo!"
+    }, 
+    {
+        "sentence_id,": "a9f9b7a32a", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "technology"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "I am pleased to present the first National Information and Communication Technology (ICT) and Telecommunications Policy for the Federated States of Micronesia."
+    }, 
+    {
+        "sentence_id,": "a9f8c17698", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "technology"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The policy is an overarching framework which comprehensively addresses Information and Communication Technology and Telecommunication policies within the Federated States of Micronesia and establishes the direction for a secure and flourishing ICT environment for all citizens in FSM."
+    }, 
+    {
+        "sentence_id,": "a16c6f1732", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "consultant"
+                ]
+            }
+        ], 
+        "sentence": "To this extent, I am personally committed to the implementation of this policy which builds on the many consultations with the FSM leaders, stakeholders, and international and regional organizations."
+    }, 
+    {
+        "sentence_id,": "f9bf889bf9", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "consultant"
+                ]
+            }
+        ], 
+        "sentence": "The National ICT Policy has been a work in progress and I would like to express my appreciation to the International Telecommunications Union (ITU), the stakeholders who participated in the consultations on the development of the plan, the Chief Executives Council (CEC), the State and National Leadership Council (SNLC), the World Bank, and many individuals and organizations who have contributed to the development of the National ICT Policy."
+    }, 
+    {
+        "sentence_id,": "5fff88ae7d", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "I fully endorse this National ICT and Telecommunications Policy and Strategic Action Plan and ask you all to work with us as we implement this policy for the people of the FSM."
+    }, 
+    {
+        "sentence_id,": "020ae2f425", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "We cannot deny the fact that it is evident in other countries that changes in ICT and telecommunications policy have changed the way we communicate with each other, conduct government, handle business and commerce, educate our children, provide health services, and preserve our rich heritage and environment."
+    }, 
+    {
+        "sentence_id,": "b61e59af80", 
+        "tag": [
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "consultant"
+                ]
+            }
+        ], 
+        "sentence": "We are also cognizant of the many studies and recommendations by consultants to regional and international economic development organizations such as the Asian Development Bank and the World Bank that liberalization and reform of telecommunications in the FSM will positively contribute to economic development."
+    }, 
+    {
+        "sentence_id,": "5979bf3932", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Thus, in 2007, I established the Telecommunications and Submarine Fiber Optics Task Force and directed the Task Force in 2011 to modernize the policy, legal, and regulatory infrastructure for telecommunications and work with international funding organizations to move forward with broadband capacity for all states."
+    }, 
+    {
+        "sentence_id,": "563f0f317a", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "technology"
+                ]
+            }
+        ], 
+        "sentence": "~ ii ~ At the same time we are seeking to develop the ICT and telecommunications sector to support the social and economic objectives of the FSM, we should be mindful of the potential negative impacts associated with the new technologies."
+    }, 
+    {
+        "sentence_id,": "025b36882e", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "structure", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "It is in this context that the FSM requires a good and sound policy to ensure our people, especially our children, are provided a safe ICT environment and develop the policy and infrastructure to extend services to islands and locations not currently served."
+    }, 
+    {
+        "sentence_id,": "105849637a", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The overall vision of the National ICT Policy is to have a Secure, Efficient, and Affordable ICT to achieve equitable communication for the People of the FSM."
+    }, 
+    {
+        "sentence_id,": "661af88e2a", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "enhance"
+                ]
+            }
+        ], 
+        "sentence": "Government aims to empower citizens, enhanced democratic values and promote social and economic sustainable development."
+    }, 
+    {
+        "sentence_id,": "38d3da518a", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "effective"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "enhance", 
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "The expansion, diversification and effective application of ICT will help to establish a transparent, responsive and accountable government; develop skilled human resources; enhance social equity; ensure cost-effective delivery of services through public-private partnerships and provide enhanced opportunities for education, health and emergency management services; and enable a knowledge based society to secure a brighter future for all."
+    }, 
+    {
+        "sentence_id,": "0f4b523c28", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Towards this end, I have tasked the Department of Transportation Communication and Infrastructure to lead this challenging and important initiative and implement the Strategic Action Plan."
+    }, 
+    {
+        "sentence_id,": "2cdaa954ab", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "With the endorsement of this National ICT Policy, the Federated States of Micronesia is charting the way forward for ICT and telecommunications development, addressing barriers, and highlighting priority areas in how ICT can contribute to improving the standard of living of all the people in the Federated States of Micronesia."
+    }, 
+    {
+        "sentence_id,": "496355bafc", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "I therefore urge all offices in the National Government to commit to achieving the strategic goals and objectives to meet our Vision."
+    }, 
+    {
+        "sentence_id,": "31fe4eb373", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "I also invite the State Governments, FSM Telecom Corporation, private sectors including non-government organizations and Academia to contribute in implementing this policy."
+    }, 
+    {
+        "sentence_id,": "96e92811ad", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "digital"
+                ]
+            }
+        ], 
+        "sentence": "We must collaborate in a way that helps bridge the digital divide for FSM."
+    }, 
+    {
+        "sentence_id,": "f9741b5d3f", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "structure", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Thank you, ~ iii ~ ACKNOWLEDGEMENT CKNOWLEDGEMENT FROM SECRETARY OF THE DEPARTMENT OF TRANSPORTATION, COMMUNICATION AND INFRASTRUCTURE As the Secretary of the Department of Transportation Communication and Infrastructure, I would like to express my sincere gratitude and appreciation for all the individuals and organizations that have participated in the development and formulation of the Federated Federated States of Micronesia National ICT Policy and Strategic Action Plan."
+    }, 
+    {
+        "sentence_id,": "054c85a452", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "I am also pleased to say, that the development of this policy was truly a joint and collective effort that involved stakeholders representing the various public and private sectors sectors."
+    }, 
+    {
+        "sentence_id,": "480a6bbafd", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "consultant"
+                ]
+            }
+        ], 
+        "sentence": "We acknowledge the significant contributions from the National and State Government offices/agencies that have taken an active role in developing this policy through the public consultations and subsequent finalization of this policy and action plan."
+    }, 
+    {
+        "sentence_id,": "7c33a52dd6", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "technology"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "structure", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The National ICT Policy is structured on the regional best practices practices in the Pacific and will continue to evolve as new challenges will arise with the development of new technologies to better suit the demands of our continuing nation building efforts."
+    }, 
+    {
+        "sentence_id,": "dd8d860889", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "It is thus befitting to mention here, that the development of tthis policy started several years ago with the continued support and assistance of many regional partners."
+    }, 
+    {
+        "sentence_id,": "6fa3c9b46f", 
+        "tag": [
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "We also acknowledge the assistance of the Sasakawa Peace Foundation, the Pan-Pacific Pan Pacific Education and Communication Experiments by Satellite (PEACESAT) program of the University of Hawaii, the Secretariat of the the Pacific Community (SPC), and other regional and international development partners that have assisted FSM with ICT capacity building over the many years."
+    }, 
+    {
+        "sentence_id,": "de7679900e", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Sincerely, Francis I. Itimai Secretary ~ iv ~ Table of Contents MESSAGE FROM THE PRESIDENT OF THE FEDERATED STATES OF MICRONESIA....................... ii ACKNOWLEDGEMENT FROM SECRETARY OF THE DEPARTMENT OF TRANSPORTATION, COMMUNICATION AND INFRASTRUCTURE ........................................................................... iv Table of Contents................................................................................................................ v List Acronyms..vii Executive Summary ............................................................................................................... 2 A."
+    }, 
+    {
+        "sentence_id,": "a0f256861b", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Goals .................................................................................................................................... 2 Goal 1: Achieve Accessible, Secure and Affordable Broadband Communications for All................... 3 Goal 2: Strengthen ICT Human Resources and Increase Human Resource Development Opportunities through the Use of ICT ................................................................................ 3 Goal 3: Improve Economic Growth and Sustainable Development through ICT................................. 4 Goal 4: Utilize ICT for Good Governance.............................................................................................. 4 Goal 5: Create an Enabling ICT Environment through Policy Reform and Improvements in Legal Frameworks ............................................................................................................... 5 Introduction .......................................................................................................................... 6 Background ........................................................................................................................... 6 Telecommunication Present Situation ................................................................................... 7 Guiding Principles.................................................................................................................. 8 A."
+    }, 
+    {
+        "sentence_id,": "b4ac7c6e48", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "digital", 
+                    "technology"
+                ]
+            }
+        ], 
+        "sentence": "Leadership, decision-making and governance .................................................................... 8 B. Holistic coordinated approach ............................................................................................ 8 C. Bridging the digital divide.................................................................................................... 8 D. Sustainable livelihoods, culture, equity and gender ........................................................... 8 E. Using proven technologies: think big, start small, replicate fast ........................................ 8 F. Convergence and multi-stakeholder partnership ............................................................... 8 G. E-Environment ..................................................................................................................... 9 H. Availability of ICT data ......................................................................................................... 9 I."
+    }, 
+    {
+        "sentence_id,": "e6e3326073", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "strategy", 
+                    "monitor", 
+                    "evaluate", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Many partners, one team.................................................................................................... 9 K. Financing, monitoring and evaluation................................................................................. 9 Policy Context ..................................................................................................................... 10 Objectives and Strategies for GOAL 1: Achieve Accessible and Affordable Communications for All .................................................................................................................................. 13 A."
+    }, 
+    {
+        "sentence_id,": "c9fa1ea6a3", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "Strategies for Objective 1: Establish Mechanisms for Ensuring Non-discriminatory Access to ICT Regardless of Level of Income, Education, Age, Gender and People with Special Needs..................................................................................................................... 13 B."
+    }, 
+    {
+        "sentence_id,": "db589c2770", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "public service"
+                ]
+            }
+        ], 
+        "sentence": "Strategies for Objective 2: Develop Mechanisms for Increasing Access by Maximizing Resources and Decreasing Cost of ICT Equipment and Services for Rural Underserved and Public Service Sectors ................................................................................................. 13 C. Strategies for Objective 3: Develop an FSM National Broadband Super Highway ........... 14 ~v~ Objectives and Strategies for GOAL 2: Strengthen ICT Human Resources and Increase Human Resource Development Opportunities through the Use of ICT.................................. 14 A."
+    }, 
+    {
+        "sentence_id,": "9938ca20e5", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "strategy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Strategies for Objective 1: Provide ICT Training for Political Leaders, Policy Makers and Regulators................................................................................................................... 14 B."
+    }, 
+    {
+        "sentence_id,": "cf301f177a", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "Strategies for Objective 2: Develop a Sustainable ICT Workforce ................................... 14 C. Strategies for Objective 3: Support and Participate in Regional ICT Human Resource Development Initiatives..................................................................................................... 15 Objectives and Strategies for GOAL 3: Improve Economic Growth and Sustainable Development through ICT.................................................................................................... 15 A."
+    }, 
+    {
+        "sentence_id,": "2b5e02a5fc", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "enhance"
+                ]
+            }
+        ], 
+        "sentence": "Strategies for Objective 1: Utilize ICT to Maximize Economic Growth and Enhance Sustainable Development.................................................................................................. 15 B."
+    }, 
+    {
+        "sentence_id,": "901d885a6b", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy", 
+                    "system"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "enhance", 
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "Strategies for Objective 2: Utilize ICT to Maximize Efforts in Marketing Tourism, Improving Transportation, Energy, Agriculture and Food Security................................... 16 Marketing Tourism ............................................................................................................................. 16 Make Transportation More Efficient.................................................................................................. 16 Improve Energy Efficiency and Sustainability .................................................................................... 16 Strengthen Agriculture and Food Security ......................................................................................... 16 Develop a Health ICT Implementation Plan that will address the improvement of the delivery of health services ......17 Enhance Education Systems and Opportunities ................................................................................ 17 Improve Public Safety through ICT..................................................................................................... 18 Environment....................................................................................................................................... 18 C. Strategies for Objective 4: Promote the Use of ICT for Language and Culture Perpetuation...................................................................................................................... 19 Objectives and Strategies for GOAL 4: Utilize ICT for Good Governance................................ 19 A."
+    }, 
+    {
+        "sentence_id,": "24ce68956b", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy", 
+                    "system"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "Strategies for Objective 1: Develop an e-Government System......................................... 19 B."
+    }, 
+    {
+        "sentence_id,": "40605db5b7", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "structure", 
+                    "strategy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Strategy for Objective 2: Improve Government Efficiency through Good Governance Patterns.............................................................................................................................. 20 C. Strategy for Objective 3: Protect Citizens Rights Relating to Cybercrime, Child Protection and the Right to Information........................................................................... 20 D. Strategy for Objective 4: Improve Internal Government ICT Infrastructure and Support .............................................................................................................................. 20 Objectives and Strategies for GOAL 5: Create an Enabling ICT Environment through Policy Reform and Improvement of Legal Frameworks................................................................... 21 A."
+    }, 
+    {
+        "sentence_id,": "a5a7b343cc", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "Strategy for Objective 1: Promote Competition in the Telecommunication Market to Achieve Accessible and Affordable Communications for All............................................. 21 B."
+    }, 
+    {
+        "sentence_id,": "6bb7b4c498", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy", 
+                    "technology", 
+                    "system", 
+                    "software", 
+                    "assessment", 
+                    "technology"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "strategy", 
+                    "policy"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "enhance", 
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "Strategy for Objective 2: Establish an Independent ICT Regulatory Authority to Promote Competition, Ensure that Prices Reflect Efficient Costs, Manage Universal Access and Provide Oversight and Management of the Telecommunications Sector ..... 22 C. Strategy for Objective 3: Adopt a Universal Access Policy................................................ 23 Expected Outcomes..25 ~ vi ~ List of Acronyms Chief Executives Council (CEC) Enhanced Data rates for GSM Evolution (EDGE) Electronic Health Record (EHR) Environmental Impact Assessments (EIA) European Commission (EC) Federated States of Micronesia (FSM) Federated States of Micronesia Telecom Corporation (FSMTC) Free and Open Source Software (FOSS) Gross Domestic Product (GDP) Government to Business (G4B) General Packet Radio Services (GPRS) Global System for Mobil Communication (GSM) Health Management Information Systems (HMIS) High Frequency (HF) Information Technology (IT) Information and Communication Technology (ICT) International Telecommunication Union (ITU) ICT Capacity Building for the Pacific (ICB4PAC) National Information and Communication Technology (NICT) Strategic Development Plan (SDP) Secretariat of the Pacific Community (SPC) Single Side Band (SSB) State National Leadership Conference (SNLC) Submarine Fiber Optic Cable (SFOC) United Nations Educational Scientific and Cultural Organization (UNESCO) ~ vii ~ PART ONE National ICT and Telecommunications Policy ~1~ THE FEDERATED STATES OF MICRONESIA NATIONAL ICT AND TELECOMMUNICATIONS POLICY Executive Summary This National Information and Communication Technology (ICT) Policy establishes an overarching framework to harmonize national priorities through a participatory and inclusive approach."
+    }, 
+    {
+        "sentence_id,": "9120912b85", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The objective of this document is to integrate national ICT policy and direction with the individual sector goals of the Federated States of Micronesia."
+    }, 
+    {
+        "sentence_id,": "e82fcf66fb", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The ICT policy shall be aligned with the National Strategic Development Plan that defines social and economic goals of the Federated States of Micronesia."
+    }, 
+    {
+        "sentence_id,": "7e33aa851f", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The National ICT Policy set out in this document serves to: (i) provide a clear National ICT policy and telecommunications statement; (ii) guide ICT and telecommunications development; (iii) specify the key challenges and untapped opportunities; and, (iv)identify the strategic priorities by building on successful approaches and initiatives and mobilizing relevant resources and partnerships."
+    }, 
+    {
+        "sentence_id,": "05247fa6c4", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "enhance"
+                ]
+            }
+        ], 
+        "sentence": "Vision Secure, Efficient and Affordable ICT to achieve equitable communication for the People of FSM With this vision we aim to empower citizens, enhance democratic values and promote social and sustainable economic development."
+    }, 
+    {
+        "sentence_id,": "c2e28fa9f8", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "effective"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "enhance", 
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "The expansion, diversification and effective application of ICT will establish a transparent, responsive and accountable government; develop skilled human resources; enhance social equity; ensure cost-effective delivery of services through public-private partnerships and provide enhanced opportunities for education, health and emergency management services; and enable a knowledge based society to secure a brighter future for all."
+    }, 
+    {
+        "sentence_id,": "4663fc4f4e", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "consultant"
+                ]
+            }
+        ], 
+        "sentence": "Goals To enact on our vision, five Goals were identified in the consultations and establish the foundation of the FSM National ICT Policy: (i) Achieve Accessible and Affordable Communications for All, (ii) Strengthen ICT Human Resources and Increase Human Resource Development Opportunities through ICT, (iii) Improve Economic Growth and Sustainable Development through ICT, (iv) Utilize ICT for Good Governance and (v) Create an Enabling ICT Environment through Policy Reform and Improvements in Legal Frameworks."
+    }, 
+    {
+        "sentence_id,": "6806c0452c", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "~2~ Goal 1: Achieve Accessible, Secure and Affordable Broadband Communications for All Policy Statement: All citizens will have equitable access to affordable and secure ICT."
+    }, 
+    {
+        "sentence_id,": "b54d2bb63e", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "The Government will play a leading role in building a networked society where organizations and individuals have equitable access to ICT-enabled resources."
+    }, 
+    {
+        "sentence_id,": "5a3e303c67", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "ICT infrastructure in rural and remote communities in FSM is underdeveloped."
+    }, 
+    {
+        "sentence_id,": "0359807d78", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "computing"
+                ]
+            }
+        ], 
+        "sentence": "Furthermore, due to the developing economy and high cost of ICT and telecommunication services most homes cannot afford a computer and the recurring cost of services."
+    }, 
+    {
+        "sentence_id,": "df30f8b1ce", 
+        "tag": [
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "As a result FSM citizens in general do not have easy access to important public information available on the internet, cannot access essential health and educational material, and are not easily able to participate in online learning opportunities."
+    }, 
+    {
+        "sentence_id,": "af3c8e0d13", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "institution", 
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "The Government will increase accessibility by maximizing existing resources and sharing ICT access points in public locations such as local government institutions, post offices, health centers, and schools and thus increasing citizens awareness of and ability to access ICT and e-Government services as these services become available."
+    }, 
+    {
+        "sentence_id,": "e650b5284e", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Goal 2: Strengthen ICT Human Resources and Increase Human Resource Development Opportunities through the Use of ICT Policy Statement: To implement and sustain the national ICT vision, the Government is committed to prioritizing ICT workforce development and strengthening the overall workforce knowledge skills and abilities by increasing human resource development opportunities through the use of ICT."
+    }, 
+    {
+        "sentence_id,": "f1d9a03a24", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "ICT human resource development is needed at all levels including leaders, policy makers, consumers of ICT and the ICT workforce."
+    }, 
+    {
+        "sentence_id,": "d734660ed5", 
+        "tag": [
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "The implementation of ICT in education and training provides an opportunity for reducing cost and expanding program outreach to more people in the Federated States of Micronesia."
+    }, 
+    {
+        "sentence_id,": "e308439c6c", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "effective", 
+                    "technology", 
+                    "digital", 
+                    "technology"
+                ]
+            }
+        ], 
+        "sentence": "Government will utilize the most cost effective technologies and digital contents to produce ICT knowledge, skills, and abilities to garner confidence in our people in order to participate in the globalized economy."
+    }, 
+    {
+        "sentence_id,": "cdc83ea0db", 
+        "tag": [
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "To this means, ICT will be leveraged for education or e-Learning to address the most challenging and resource constrained subjects, including mathematics, science, and languages."
+    }, 
+    {
+        "sentence_id,": "ed2f4f44c8", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "Government will support e-Learning programs for vocational and lifelong education opportunities for youth and adults to develop updated and relevant skills needed to be competitive in the current workforce."
+    }, 
+    {
+        "sentence_id,": "b338d2c0d8", 
+        "tag": [
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "At the same time it is recognized that e-Learning programs make available for more professional development and training opportunities for private and public sector employees thus reducing the high cost of travel for overseas training programs."
+    }, 
+    {
+        "sentence_id,": "a0ea2ff9cf", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "enhance"
+                ]
+            }
+        ], 
+        "sentence": "Government encourages the coordination and participation in local and regional e-Learning programs to strengthen and enhance overall human resource development through the use of ICT."
+    }, 
+    {
+        "sentence_id,": "223f7214e4", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "~3~ Goal 3: Improve Economic Growth and Sustainable Development through ICT Policy Statement: ICT will be utilized by the Government and the private sector to maximize economic growth and sustainable development."
+    }, 
+    {
+        "sentence_id,": "f6aca6d13b", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "effective"
+                ]
+            }
+        ], 
+        "sentence": "Government will harness the potential of ICT to increase productivity of businesses, especially small and medium enterprises, and induce economic growth through widespread distribution and effective use of ICT."
+    }, 
+    {
+        "sentence_id,": "c310af3f9a", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "It is recognized that there is potential to transform the way government, business and consumers communicate and interact through ICT."
+    }, 
+    {
+        "sentence_id,": "28434af701", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "Thus Government will promote the use of ICT by the private and public sectors as a tool to maximize economic growth through the development of websites and e-Commerce to enable the buying and selling of local and overseas products online."
+    }, 
+    {
+        "sentence_id,": "bd8144e2e1", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "Government will promote ICT development and investment in FSM."
+    }, 
+    {
+        "sentence_id,": "26916b4c71", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "monitor"
+                ]
+            }
+        ], 
+        "sentence": "An ICT-based market will enable access to mechanisms that will not only benefit disadvantaged producers and businesses by ensuring equitable access to domestic and international markets but also to allow for transparent and efficient monitoring of market activities by government."
+    }, 
+    {
+        "sentence_id,": "727c550d29", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "The productivity and global competitiveness of the private sector including small businesses will increase by lowering costs of doing businesses through Government-to-Business services (G2B)."
+    }, 
+    {
+        "sentence_id,": "8696534b75", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education", 
+                    "public service"
+                ]
+            }
+        ], 
+        "sentence": "Government will also support and utilize ICT to promote sustainable development in health, education and other public service applications such as public safety, language and cultural perpetuation and protection of our environment."
+    }, 
+    {
+        "sentence_id,": "a64e920fdc", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "effective", 
+                    "system"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "enhance"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "public service"
+                ]
+            }
+        ], 
+        "sentence": "Goal 4: Utilize ICT for Good Governance Policy Statement: Every effort will be made to ensure that ICT systems and processes are used to enhance government accountability, efficiency, effectiveness, and transparency of delivering public services to all and combat corruption."
+    }, 
+    {
+        "sentence_id,": "4fc3134d7f", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "rule", 
+                    "law"
+                ]
+            }
+        ], 
+        "sentence": "Access to information is vital for transparency, accountability, and rule of law as it enables community based participatory involvement in political decision-making."
+    }, 
+    {
+        "sentence_id,": "20c3ba7739", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "institution"
+                ]
+            }
+        ], 
+        "sentence": "Increased access to ICT will enable grassroots and community based participation by instituting interactive communication channels facilitated by ICT."
+    }, 
+    {
+        "sentence_id,": "f2734000c1", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "law", 
+                    "institution", 
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "Government will utilize ICT to support and improve the process whereby public institutions conduct public affairs, manage public resources, and guarantee the realization of rights and services without abuse, corruption and in accordance to law."
+    }, 
+    {
+        "sentence_id,": "760ab7947f", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "~4~ Delivery of services to citizens will be made anytime and anywhere through creative uses of ICT such as one-stop service counters, helpdesks and e-services to ensure not only a higher degree of efficiency in the delivery mechanism but to improve transparency and accountability within the government and non-government service provider organizations."
+    }, 
+    {
+        "sentence_id,": "27b282e7c9", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Internally government will improve on the utilization of ICT to promote and standardize best practices in government."
+    }, 
+    {
+        "sentence_id,": "8cc740a4cf", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "minister", 
+                    "administration", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "monitor"
+                ]
+            }
+        ], 
+        "sentence": "For example ICT based decision support systems will be used to improve the planning, implementation and monitoring of the government including field administration personnel."
+    }, 
+    {
+        "sentence_id,": "12795ff27d", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "These systems will enable sharing of data and information across various agencies of the government transcending departments and geographic boundaries."
+    }, 
+    {
+        "sentence_id,": "bcce004be8", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "digital", 
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "The potential reallocation of government human resource may result with the automation or digitization of government systems and services."
+    }, 
+    {
+        "sentence_id,": "b55539d429", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "public service"
+                ]
+            }
+        ], 
+        "sentence": "Government will utilize ICT to facilitate access to services such as financial services, land registration, business license registration and other public service applications."
+    }, 
+    {
+        "sentence_id,": "a811297627", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "privacy", 
+                    "secure", 
+                    "protection", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "ICT will be utilized to support good government practices by developing and enacting policy reform to ensure the secure ICT services specifically with regard to electronic transactions, security, and privacy of citizens and including child online protection."
+    }, 
+    {
+        "sentence_id,": "e564d779f1", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "law", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "technology"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Goal 5: Create an Enabling ICT Environment through Policy Reform and Improvements in Legal Frameworks Policy Statement: Government will establish new laws for ICT and develop a strong regulatory framework that supports a technology-neutral ICT enabling environment and market."
+    }, 
+    {
+        "sentence_id,": "4ac95d7b61", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Government will strengthen the legal and policy framework for enabling social and economic development through ICT by developing a legal and regulatory framework that promotes competition between service providers, efficient pricing and costs, and universal access and provides oversight of the telecommunications sector."
+    }, 
+    {
+        "sentence_id,": "c152b3c447", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "It is critical that these policies ensure equitable access to ICTenabled services, applications, and content to all and particularly for rural and underserved populations."
+    }, 
+    {
+        "sentence_id,": "e3dbbfeadf", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "To achieve affordable access, Government will develop an environment that supports a robust ICT industry that enables fair competition in telecommunications markets."
+    }, 
+    {
+        "sentence_id,": "76ec0f950e", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education", 
+                    "public service"
+                ]
+            }
+        ], 
+        "sentence": "Government will adopt policies and regulations to promote universal access and will also focus efforts on policies to encourage greater use of the Internet to provide public services and services for health, education, and emergency management."
+    }, 
+    {
+        "sentence_id,": "0fecd7346e", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "technology"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "New technologies change not only the modes of production of goods and services but also create new opportunities for the execution of civic rights, personal self-actualization, the means of obtaining knowledge, providing educational opportunities for the new generation, preserving culture for future generations and increasing ways of spending leisure time."
+    }, 
+    {
+        "sentence_id,": "9ada0a782e", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "In an information society, distances reduce, good governance emerges, globalization occurs, corruption reduces and unprecedented opportunities for development of countries and regions are created."
+    }, 
+    {
+        "sentence_id,": "dfbf2d62f1", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "effective"
+                ]
+            }
+        ], 
+        "sentence": "ICT has been globally acknowledged as an essential tool for sustainable social and economic development, critical for good governance and an effective vehicle of change."
+    }, 
+    {
+        "sentence_id,": "1c4e552f46", 
+        "tag": [
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "consultant"
+                ]
+            }
+        ], 
+        "sentence": "FSM has recognized these essential contributions of ICT and have been actively involved in global, regional, and national discussions and consultations on ICT guidelines, lessons learnt from other developing countries, and best practices."
+    }, 
+    {
+        "sentence_id,": "60ac0234fe", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Much work has been done in the FSM gearing towards developing a national ICT policy in the last 10 years."
+    }, 
+    {
+        "sentence_id,": "6f55fe443b", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "structure", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "His Excellency President Mori mandated the Department of Transportation, Communications and Infrastructure to develop a national ICT policy to address the key issues facing the citizens of FSM because Government embraces the fact that ICT is recognized as a key factor in economic growth and social development in terms of providing opportunities, choices and access to information and knowledge."
+    }, 
+    {
+        "sentence_id,": "fbf58217db", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "This policy provides the strategic direction for ICT development for the Federated States of Micronesia."
+    }, 
+    {
+        "sentence_id,": "36344e0d59", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "It identifies obstacles and difficulties in development of ICT in FSM and outlines policies to address them."
+    }, 
+    {
+        "sentence_id,": "e489bf48a0", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "structure", 
+                    "strategy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The NICTP further establishes key goals and strategies to implement these policies addressing priority areas including inequality of access to ICT, ICT Infrastructure, local capacity and ICT expertise, relatively high ICT costs and the need for an improved telecommunication regulatory environment."
+    }, 
+    {
+        "sentence_id,": "e3ffd1257d", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "This National ICT Policy will provide a framework that seeks a coherent, equitable, and focused utilization of ICT in the FSM for the benefit of the FSM people."
+    }, 
+    {
+        "sentence_id,": "3282dcc040", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "structure", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The same study also found that although infrastructure is well supported with external finance, service delivery improvement depends on further policy development, particularly in the areas of regulation and market liberalization, and capacity building in project planning and implementation."
+    }, 
+    {
+        "sentence_id,": "7bf3225cfd", 
+        "tag": [
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "consultant"
+                ]
+            }
+        ], 
+        "sentence": "A study by consultants for the World Bank, in 2011, reinforced the study by the ADB and further articulated the importance and role of market liberalization in telecommunications and economic development."
+    }, 
+    {
+        "sentence_id,": "5c36570b70", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "The National Government acknowledges these barriers."
+    }, 
+    {
+        "sentence_id,": "8755642a8d", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The NICT Policy seeks to address these challenges in order to achieve the overall ICT vision of affordable and accessible communications for all FSM citizens."
+    }, 
+    {
+        "sentence_id,": "a3b357aab1", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Mountainous interiors and dense jungles also add to the challenges in deploying telecommunication infrastructure."
+    }, 
+    {
+        "sentence_id,": "51bca8dfea", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "digital"
+                ]
+            }
+        ], 
+        "sentence": "In 2011 FSMTC launched a Digital Wireless TV service in Yap and Chuuk."
+    }, 
+    {
+        "sentence_id,": "56348f91a2", 
+        "tag": [
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "enhance"
+                ]
+            }
+        ], 
+        "sentence": "The spur provides enhanced connectivity but does not fully use the capacity of the SFOC and does not unleash the potential for broadband communications for all states to achieve the economic and social benefits of telecommunications and ICT."
+    }, 
+    {
+        "sentence_id,": "0758e06d36", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "The challenge now is how to link the submarine cable to all the states in the FSM given the geographical issues described above as well as to develop a national strategy to promote a universal access to calling and broadband Internet access services including underserved communities in the FSM."
+    }, 
+    {
+        "sentence_id,": "5581a41063", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "Because of these issues, the President and the Government of FSM embarked on developing its national ICT policy, with the assistance of the ITU-EC project for Pacific Islands ACP member countries, to guide the development of ICT throughout the FSM."
+    }, 
+    {
+        "sentence_id,": "53fabaf73a", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "technology"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "enhance"
+                ]
+            }
+        ], 
+        "sentence": "If the FSM is to keep pace with the global development and provide enhanced services and access to Internet based resources, we need to exploit the advances in todays technology."
+    }, 
+    {
+        "sentence_id,": "2e80d82761", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "Leadership, decision-making and governance Strong and visionary leadership and robust governance are keys for successful ICT initiatives."
+    }, 
+    {
+        "sentence_id,": "83b6568f69", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "effective"
+                ]
+            }
+        ], 
+        "sentence": "To maximize the effectiveness and fully utilize the benefits of ICT, a holistic coordinated approach is needed."
+    }, 
+    {
+        "sentence_id,": "1b4c19205d", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "system", 
+                    "technology"
+                ]
+            }
+        ], 
+        "sentence": "Such an approach can result in a more sustainable long term outcome and minimize risks and disruptions due to the introduction of new technologies or systems."
+    }, 
+    {
+        "sentence_id,": "68025c1c30", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "digital"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "enhance", 
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "C. Bridging the digital divide Affordable and accessible ICT reduces the gaps between the haves and the have nots thereby enhancing economic opportunity for the people of the FSM."
+    }, 
+    {
+        "sentence_id,": "e08226065a", 
+        "tag": [
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "Access to ICT provides affordable communication, improved access to markets and services, a medium for building stronger social ties, improved access to education and health services, and better access to information and news."
+    }, 
+    {
+        "sentence_id,": "7c33bb8574", 
+        "tag": [
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "D. Sustainable livelihoods, culture, equity and gender ICT interventions must address the need to reduce inequities, promote access by youth and differently abled, promote gender sensitivity and culture, improve efforts to reduce poverty across and within countries and territories; and facilitate equitable access to adequate, reliable, and affordable ICT and services to improve the FSM communities livelihoods."
+    }, 
+    {
+        "sentence_id,": "2d45758919", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "effective", 
+                    "technology", 
+                    "technology"
+                ]
+            }
+        ], 
+        "sentence": "E. Using proven technologies: think big, start small, replicate fast With the limited available resources, the FSM needs cost effective, technically proven, and appropriate ICT solutions."
+    }, 
+    {
+        "sentence_id,": "7fbbe0bf91", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "structure", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Convergence requires a multistakeholder partnership where: the government can implement enabling policies and regulations provide funding and build capacity; the private sector can build infrastructure and invest in services; civil society can work with communities; and communities own and drive initiatives."
+    }, 
+    {
+        "sentence_id,": "08d8c6a4b0", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection"
+                ]
+            }
+        ], 
+        "sentence": "G. E-Environment Protection of the environment is an important issue for FSM."
+    }, 
+    {
+        "sentence_id,": "76feaa9f37", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection", 
+                    "safeguard"
+                ]
+            }
+        ], 
+        "sentence": "To complement the various environmental protection initiatives of other sectors, ICT should also play its part in preserving and safeguarding the environment."
+    }, 
+    {
+        "sentence_id,": "1574c3cff3", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "The Pacific legislators in their 2009 Rarotonga Communiqu on Sustainability, Equity and Accountability, Recognized that modern ICTs play a vital role in climate change education and awareness, maintaining communication links in times of disaster and the timely management of disaster response and relief, and contributing to disaster risk reduction through, for example, the development of early warning systems."
+    }, 
+    {
+        "sentence_id,": "561f6613e9", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "monitor", 
+                    "evaluate"
+                ]
+            }
+        ], 
+        "sentence": "Scarcity of ICT data and inappropriate monitoring and evaluation (M&E) systems make it difficult to identify what works and what does not."
+    }, 
+    {
+        "sentence_id,": "b40b475bce", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "Efforts to retained trained and qualified ICT personnel must be considered to ensure FSM has the necessary technical skills required to implement and achieve the goals and strategies of this National ICT policy."
+    }, 
+    {
+        "sentence_id,": "0486bd78ee", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "monitor", 
+                    "evaluate"
+                ]
+            }
+        ], 
+        "sentence": "K. Financing, monitoring and evaluation There are many regional and international declarations and plan of actions that are relevant to the implementation and monitoring of the implementation."
+    }, 
+    {
+        "sentence_id,": "5de3121bf6", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "It is important for FSM to ensure that they share the national ICT policy with other developing partners planning ICT work in the FSM."
+    }, 
+    {
+        "sentence_id,": "1a99292654", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "monitor", 
+                    "evaluate", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Every ~9~ effort must be made to ensure that donor funding has realistic monitoring and evaluation principles attached to such policy documents to ensure that the Government is able to justify the utilization of such funding."
+    }, 
+    {
+        "sentence_id,": "a3b73aee07", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "strategy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Policy Context This policy document sets out the over-arching goals, objectives strategies for the delivery of ICT."
+    }, 
+    {
+        "sentence_id,": "0c7658cd54", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "In this context, the National ICT Policy is designed to integrate and harmonize top-level national priorities and sectoral goals through a participatory, inclusive, and cohesive approach."
+    }, 
+    {
+        "sentence_id,": "a7bfd8deae", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "public service"
+                ]
+            }
+        ], 
+        "sentence": "This policy sets the direction to improving government efficiencies by promoting the use of ICT for internal government functions and supporting the development of eGovernment service for delivering online public services."
+    }, 
+    {
+        "sentence_id,": "afd1dd90d1", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "digital"
+                ]
+            }
+        ], 
+        "sentence": "A digitally connected society also comes with its own challenges and threats."
+    }, 
+    {
+        "sentence_id,": "1fd0b1fe12", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "law", 
+                    "protection"
+                ]
+            }
+        ], 
+        "sentence": "It is therefore essential that laws and regulations are put in place to enable electronic transactions to take place but also to protect individuals, the community, and businesses against cyber-crimes and inappropriate online content and behavior."
+    }, 
+    {
+        "sentence_id,": "2356a82bc0", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection"
+                ]
+            }
+        ], 
+        "sentence": "It is also important that our environment is protected."
+    }, 
+    {
+        "sentence_id,": "1fbb308b0c", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Policies are required to protect our countries from being used as dumping grounds for obsolete ICT equipment."
+    }, 
+    {
+        "sentence_id,": "664d988d30", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "law"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "effective"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The focus of this policy therefore, is to provide an ICT strategic framework to facilitate policies, laws, and regulations that promote competition and thereby enable socio-economic development of the Federated States of Micronesia and to make possible for our citizens and visitors to participate effectively in the local and global economy."
+    }, 
+    {
+        "sentence_id,": "30ca9ff90e", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "structure", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Responsibility for the implementation of this policy rests with the Department of Transportation, Communication, and Infrastructure."
+    }, 
+    {
+        "sentence_id,": "de8666cd9e", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The Department will issue annual reports on the annual status of policy implementation."
+    }, 
+    {
+        "sentence_id,": "48ab86adca", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "structure", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "~ 10 ~ This policy framework was developed with the assistance of the International Telecommunication Union (ITU) through the ITU-European Commission (EC) project for the Pacific Island countries (ICB4PAC) and in partnership with the Department of Transportation, Communication & Infrastructure."
+    }, 
+    {
+        "sentence_id,": "a8e37defe8", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Chronology of Events The policy framework was developed over time."
+    }, 
+    {
+        "sentence_id,": "c10b157a70", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "2005 The U.S. Space Missile Defense Command (SMDC) initiates discussions with the FSM Government regarding a Submarine Fiber Optics Cable (SFOC) connection to Kwajalein."
+    }, 
+    {
+        "sentence_id,": "db94dc7847", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "2005 The Department of Transportation Communication and Infrastructure, the Sasakawa Peace Foundation, and the University of Hawaii conduct a workshop for policymakers on telecommunications."
+    }, 
+    {
+        "sentence_id,": "859d7f641c", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "2008 The FSM Congress passes resolution supporting SFOC connectivity for all states and urges the President to direct the appropriate authority at the National Government to develop, study, plan, and come up with recommendations to transform telecommunications and ICT to be vibrant infrastructure for the economic and social development of the FSM."
+    }, 
+    {
+        "sentence_id,": "0c108f097b", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "2009 The Chief Executives Council which includes the President and four state Governors adopt a resolution calling for SFOC connections for all states."
+    }, 
+    {
+        "sentence_id,": "b1cc03e602", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "2010 The Submarine Fiber Optics cable system, HANTRU1, becomes operational and connects Pohnpei directly to Guam."
+    }, 
+    {
+        "sentence_id,": "a34396c856", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "2010 The World Banks and FSM Government discuss the need to open competition and to examine ways to ensure that the investment in the submarine fiber optics cable is optimized."
+    }, 
+    {
+        "sentence_id,": "20d3580b16", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "structure", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "2011 The State National Leadership Council supports the policy directions of President Mori which calls for liberalization, an independent regulatory body, restructuring of FSMTC, and broadband telecommunications for all states."
+    }, 
+    {
+        "sentence_id,": "ba6a720f75", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "strategy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "~ 11 ~ PART TWO Objectives and Strategic Plan ~ 12 ~ Objectives and Strategies for GOAL 1: Achieve Accessible and Affordable Communications for All Policy Statement: All citizens will have equitable access to affordable and secure ICT."
+    }, 
+    {
+        "sentence_id,": "afe9fced7b", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "The Government will play a leading role in building a networked society where organizations and individuals have equitable access to ICT-enabled resources."
+    }, 
+    {
+        "sentence_id,": "8c69838466", 
+        "tag": [
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "The objectives for this goal are: Objective 1 Establish mechanisms for ensuring non-discriminatory access to ICT regardless of level of income, education, age, gender, and people with special needs."
+    }, 
+    {
+        "sentence_id,": "42f7688121", 
+        "tag": [
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "public service"
+                ]
+            }
+        ], 
+        "sentence": "Objective 2 Develop mechanisms for increasing access to ICT by maximizing resources through shared use of facilities, subsidized ICT and decreasing the cost of ICT equipment and services for rural, underserved and public service sectors."
+    }, 
+    {
+        "sentence_id,": "e812573468", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "law"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy", 
+                    "technology", 
+                    "technology"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "structure", 
+                    "strategy", 
+                    "policy"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "Strategies for Objective 1: Establish Mechanisms for Ensuring Nondiscriminatory Access to ICT Regardless of Level of Income, Education, Age, Gender and People with Special Needs (i) Set in place non-discriminatory laws, mandates, policies, and practices for equal and equitable access to ICT infrastructure, services, assistive technology, applications and content, both for service providers and consumers."
+    }, 
+    {
+        "sentence_id,": "de43fe504d", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "(iii) Identify resources and implement programs to support education, training, and development of technical systems for people with special needs."
+    }, 
+    {
+        "sentence_id,": "6187f371f0", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "public service"
+                ]
+            }
+        ], 
+        "sentence": "Strategies for Objective 2: Develop Mechanisms for Increasing Access by Maximizing Resources and Decreasing Cost of ICT Equipment and Services for Rural Underserved and Public Service Sectors (i) Encourage public private partnerships in deploying ICT networks, especially for last mile connectivity."
+    }, 
+    {
+        "sentence_id,": "6f4d627c34", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "technology"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "public service"
+                ]
+            }
+        ], 
+        "sentence": "(ii) Establish Multipurpose Communication Telecenters with the use of affordable technologies and public service telecommunication services for connecting rural and underserved communities."
+    }, 
+    {
+        "sentence_id,": "665fc4c522", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "law"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education", 
+                    "public service"
+                ]
+            }
+        ], 
+        "sentence": "(iii) Develop and adopt laws to waive levy, customs duty or other taxes for ICT equipment for rural, underserved communities and public service sectors such as health, education, emergency management."
+    }, 
+    {
+        "sentence_id,": "5457e1928f", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "~ 13 ~ C. (i) Strategies for Objective 3: Develop an FSM National Broadband Super Highway Investigate the technical and financial options for connecting states to submarine fiber optic cable or for the adoption of alternative forms of international connectivity able to provide substantially comparable levels of service to all citizens."
+    }, 
+    {
+        "sentence_id,": "ae952c2183", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "strategy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Objectives and Strategies for GOAL 2: Strengthen ICT Human Resources and Increase Human Resource Development Opportunities through the Use of ICT Policy Statement: To implement and sustain the national ICT vision, the Government is committed to prioritizing ICT workforce development and strengthening the overall workforce knowledge skills and abilities by increasing human resource development opportunities through the use of ICT."
+    }, 
+    {
+        "sentence_id,": "4628baaf6b", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The objectives for this goal are: Objective 1 Provide ICT training for Political Leaders, Policy Makers and Regulators Objective 2 Develop an ICT-savvy workforce Objective 3 Support and participate in regional ICT human resource development initiatives A."
+    }, 
+    {
+        "sentence_id,": "37a90c11c7", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "strategy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Strategies for Objective 1: Provide ICT Training for Political Leaders, Policy Makers and Regulators (i) Given the cross sectoral nature of ICT, encourage all leaders and policy makers to attend ICT awareness workshops and trainings to ensure that ICT is integrated in the policy development of all sectors."
+    }, 
+    {
+        "sentence_id,": "9d5430ada0", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "(iii) Coordinate local and regional opportunities to provide regular and on-going ICT policy training for decision makers and policy staff."
+    }, 
+    {
+        "sentence_id,": "0b3a8c2a97", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "institution"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "Strategies for Objective 2: Develop a Sustainable ICT Workforce (i) Coordinate and implement in-country ICT technical training in conjunction with local institutions of higher education."
+    }, 
+    {
+        "sentence_id,": "9bc1bc0882", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "business partnership"
+                ]
+            }
+        ], 
+        "sentence": "(iii) Public-private business partnerships to develop plans for workforce retention of ICT skilled personnel within the Federated States of Micronesia."
+    }, 
+    {
+        "sentence_id,": "472c3906a6", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "Strategies may include remuneration incentives, assuring good working environments, providing professional development and clear career path opportunities."
+    }, 
+    {
+        "sentence_id,": "0d32cee103", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "C. Strategies for Objective 3: Support and Participate in Regional ICT Human Resource Development Initiatives (i) Coordinate through regional initiatives such as the International Telecommunication Union- European Community (ITU-EC) Project for the Pacific Island (ICB4PAC) program to leverage, support and participate in regional ICT human resource development activities."
+    }, 
+    {
+        "sentence_id,": "0f3fab879d", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "institution"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "(ii) Coordinate with local and regional educational institutions that are developing ICT human resource development programs."
+    }, 
+    {
+        "sentence_id,": "38e6646693", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "strategy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Objectives and Strategies for GOAL 3: Improve Economic Growth and Sustainable Development through ICT Policy Statement: ICT will be utilized by the Government and the private sector to maximize economic growth and social development."
+    }, 
+    {
+        "sentence_id,": "bdeb690ac6", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "enhance", 
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "The objectives for this goal are: Objective 1 Utilize ICT to maximize economic growth and enhance sustainable development Objective 2 Utilize ICT to maximize efforts in improving Energy, Transportation, Agriculture, and Food Security, Education, Health, Public Safety and Environment Objective 3 Promote the use of ICT for Language and the Perpetuation of FSM Culture A."
+    }, 
+    {
+        "sentence_id,": "55273820df", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "enhance"
+                ]
+            }
+        ], 
+        "sentence": "Strategies for Objective 1: Utilize ICT to Maximize Economic Growth and Enhance Sustainable Development (i) Develop public-private strategies for the use of ICT to enhance the productivity of local business, the marketability of local goods and services, and the overall efficiency in economic development."
+    }, 
+    {
+        "sentence_id,": "d95d37db62", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "institution", 
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "~ 15 ~ (vii) Coordinate with Banks and Lending Institutions to utilize ICT to improve the efficiency and value added services (e.g., loan applications) and connect to eGovernment Services."
+    }, 
+    {
+        "sentence_id,": "6f3320eafc", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "Strategies for Objective 2: Utilize ICT to Maximize Efforts in Marketing Tourism, Improving Transportation, Energy, Agriculture and Food Security, Health, Education, Public Safety and Environment Marketing Tourism (i) Develop a Tourism Green Code and use Internet and telephone services for advertisement, bookings, electronic payments; promotion of tourism by listing of hotels and businesses (for example through a centralized web page with contacts) and ICT services that help attract tourist and visitors."
+    }, 
+    {
+        "sentence_id,": "c2e43b6786", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "effective"
+                ]
+            }
+        ], 
+        "sentence": "(ii) Identify and track ICT indicators to demonstrate effective utilization of ICT promotion of tourism and increase of revenue through tourism."
+    }, 
+    {
+        "sentence_id,": "d76651db82", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "(ii) Identify needs and assist in the development of ICT systems and mechanism for improving the collection and dissemination of information on all forms of travel."
+    }, 
+    {
+        "sentence_id,": "9666bf7c03", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "(iii) Implement systems and services to enable access to Internet at airports."
+    }, 
+    {
+        "sentence_id,": "b9c1a33095", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "monitor"
+                ]
+            }
+        ], 
+        "sentence": "(iv) Improve ICT-based monitoring and information systems to provide weather reports for ground, maritime and air transportation."
+    }, 
+    {
+        "sentence_id,": "fb63e07c11", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "assessment"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "Improve Energy Efficiency and Sustainability (i) Each sector shall conduct an assessment of energy use and develop energy reduction plans."
+    }, 
+    {
+        "sentence_id,": "d585fce2fd", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "technology"
+                ]
+            }
+        ], 
+        "sentence": "(iii) Encourage the use of technologies that use less power and are more energy efficient."
+    }, 
+    {
+        "sentence_id,": "dcb1219f98", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "Strengthen Agriculture and Food Security (i) Support the implementation of ICT systems for improved fisheries management for sustainability, and food security."
+    }, 
+    {
+        "sentence_id,": "5c727af24c", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "technology"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "monitor"
+                ]
+            }
+        ], 
+        "sentence": "(ii) Fully utilize ICT technology to monitor and regulate fisheries to avoid over-fishing."
+    }, 
+    {
+        "sentence_id,": "ca1382af1c", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "monitor"
+                ]
+            }
+        ], 
+        "sentence": "~ 16 ~ (iv) Promote the use of ICT to improve the collection and distribution of information for agricultural support such as monitoring weather; use ICT for obtaining information on better seed crops and better breeding; informing farmers of prices of products and relative supply/demand."
+    }, 
+    {
+        "sentence_id,": "d0430e2f28", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection"
+                ]
+            }
+        ], 
+        "sentence": "(vi) Utilize ICT for consumer protection and advocacy complaints."
+    }, 
+    {
+        "sentence_id,": "91599b36d0", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy", 
+                    "system"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "Strategies for Objective 3: Promote the Use of ICT in Education, Health, Public Safety and the Protection of the Environment Improve Health Develop a Health ICT Implementation Plan that will address the improvement of the delivery of health services to all including but not limited to: (i) Develop a Health Management Information Systems (HMIS) for public health surveillance and networking with regional health officials, for inventory management in health care clinics and hospitals, share traditional medicines and treatments, online help support for doctors in the field, and for Human Resource Development in Health."
+    }, 
+    {
+        "sentence_id,": "5a252e7008", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "ICT is a tool but there are many problems that are not related to ICT such as issues of self-care via the Internet, related medical error rates, concerns for security of patient information."
+    }, 
+    {
+        "sentence_id,": "d6e8731f82", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "(iii) Establish policies, regulations, and guiding principles for patient information confidentiality relating to use of electronic patient/medical records."
+    }, 
+    {
+        "sentence_id,": "5c3d6a891e", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "(iv) Utilize the FSM ICT Super Highway infrastructure to support telehealth, telemedicine and health related education and training programs."
+    }, 
+    {
+        "sentence_id,": "48504d2a41", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "effective", 
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "(vi) Identify and implement a cost effective Electronic Health Record (EHR) system to improve clinical care."
+    }, 
+    {
+        "sentence_id,": "a92f6ac668", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "technology"
+                ]
+            }
+        ], 
+        "sentence": "(viii) Develop a Health Information Technology multidiscipline working group to identify needs and resources for development and implementation of EHRs and health information exchange in the Federated States of Micronesia."
+    }, 
+    {
+        "sentence_id,": "e1c36c9766", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "enhance", 
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "Enhance Education Systems and Opportunities Develop an Education ICT Implementation Plan that will address the improvement of the delivery of education and support the development of ICT literacy including but not limited to, the use of ICT for: (i) Increasing student opportunities for learning through the use of ICT."
+    }, 
+    {
+        "sentence_id,": "8e05fb0e2c", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system", 
+                    "assessment"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "~ 17 ~ (ii) Improving assessment of the educational system for data collection and analysis for students, educators and other stakeholders."
+    }, 
+    {
+        "sentence_id,": "f3b7d00f7e", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "(iv) Improving access to ICT infrastructure and identifying appropriate technical solutions and prioritize funding opportunities to support the implementation, operation and maintenance of the ICT networks, equipment and services."
+    }, 
+    {
+        "sentence_id,": "8fc34077e9", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "minister", 
+                    "administration"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "(v) Strengthen administrative functions of the educational system through use of ICT."
+    }, 
+    {
+        "sentence_id,": "84740c8a29", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "safeguard"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "technology"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "(ix) To develop ICT policies within the schools that also provides information regarding safeguards and awareness of the downsides of the addiction to technology by students and impact on important values."
+    }, 
+    {
+        "sentence_id,": "bb1b7b137c", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "monitor"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "Improve Public Safety through ICT (i) Integrate ICT in the FSM disaster management and recovery plan for monitoring risk reduction, early warning alert systems and for assisting in disaster recovery."
+    }, 
+    {
+        "sentence_id,": "c2b23a8976", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "(ii) Conduct an annual review and periodic test of Disaster Management Communication plans and back-up systems; for example the utilization of High Frequency (HF) or Single Side Band (SSB) radio networks for communicating off island."
+    }, 
+    {
+        "sentence_id,": "00c8244d4a", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "assessment"
+                ]
+            }
+        ], 
+        "sentence": "Environment (i) Environmental Impact Assessments (EIA) Integrate ICT into environmental assessments to improve data collection, storage, analysis, and management and to ensure the faster provision of EIAs and related decisions."
+    }, 
+    {
+        "sentence_id,": "9f08eff387", 
+        "tag": [
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "(ii) Climate Change Utilize ICT to educate and raise awareness of climate change issues and impacts and improve the mitigation and adaptation climate change programs."
+    }, 
+    {
+        "sentence_id,": "f192e8c6ac", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "(iii) Managing ICT e-Waste Develop a policy ensuring all providers have a process in place for ICT-based waste removal and disposal."
+    }, 
+    {
+        "sentence_id,": "eb1c1174b0", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The policy should include a front-end recycling fee."
+    }, 
+    {
+        "sentence_id,": "6f5ab38272", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "monitor"
+                ]
+            }
+        ], 
+        "sentence": "ICT should be used to monitor, account, and reimburse for the recycling of ICT goods."
+    }, 
+    {
+        "sentence_id,": "db743ecae3", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "~ 18 ~ C. Strategies for Objective 3: Promote the Use of ICT for Language and Culture Perpetuation (i) Develop and maintain ICT databases of cultural and historical heritage (stories, songs, crafts, etc.)"
+    }, 
+    {
+        "sentence_id,": "223452f4a0", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "technology"
+                ]
+            }
+        ], 
+        "sentence": "(ii) Utilize innovative technologies to record and maintain oral cultural heritage (including music and others)."
+    }, 
+    {
+        "sentence_id,": "ce6447f005", 
+        "tag": [
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "(iii) Utilize the resources of the United Nations Educational Scientific and Cultural Organization (UNESCO) programs that align with the perpetuation of language and culture."
+    }, 
+    {
+        "sentence_id,": "fd6cc200c7", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "digital"
+                ]
+            }
+        ], 
+        "sentence": "(iv) Provide assistance and support to local villages to digitally collect oral records."
+    }, 
+    {
+        "sentence_id,": "e6253cfd59", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "(v) Communicate and promote social decorum relating to ICT use in relation to respect for local culture and standards."
+    }, 
+    {
+        "sentence_id,": "6bdfe455d5", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "(vi) Promote the perpetuation of local content through the development of information systems and online content in local languages."
+    }, 
+    {
+        "sentence_id,": "0b6e56fb59", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy", 
+                    "effective", 
+                    "system"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "strategy", 
+                    "policy"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "enhance"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "public service"
+                ]
+            }
+        ], 
+        "sentence": "Objectives and Strategies for GOAL 4: Utilize ICT for Good Governance Policy Statement: Every effort will be made to ensure that ICT systems and processes are used to enhance government accountability, efficiency, effectiveness, and transparency of delivering public services to all and proactively combat corruption."
+    }, 
+    {
+        "sentence_id,": "5d24b12f9d", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "The objectives for this goal are: Objective 1 Develop an e-Government System Objective 2 Improve Government Efficiency through Good Governance Patterns Objective 3 Protect citizens rights relating to cybercrime, child protection and the right to information Objective 4 Improve Internal Government ICT Infrastructure and Support A."
+    }, 
+    {
+        "sentence_id,": "940d54e4d9", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy", 
+                    "system"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "Strategies for Objective 1: Develop an e-Government System (i) Conduct a feasibility study and an output proposal (technical and commercial) for an FSM e-Government system."
+    }, 
+    {
+        "sentence_id,": "d703d69fff", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "public service"
+                ]
+            }
+        ], 
+        "sentence": "(ii) Develop an e-Government strategy outlining an implementation plan for improving government processes through the use of ICT and connecting citizens to government services, so that all sectors can improve the delivery of public services and achieve the goals of transparency and accountability."
+    }, 
+    {
+        "sentence_id,": "33da7b0d44", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "(iii) Develop mechanisms to seek funding for implementing the e-Government strategy."
+    }, 
+    {
+        "sentence_id,": "f31538b514", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "technology"
+                ]
+            }
+        ], 
+        "sentence": "(iv) Develop plans for the procurement of technology efficient network equipment to support transmission of voice, data, and video for e-Government applications."
+    }, 
+    {
+        "sentence_id,": "6db47c5a54", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "~ 19 ~ (v) Develop and implement an eGovernment policy to mandate the sector implementation of the eGovernment Plan."
+    }, 
+    {
+        "sentence_id,": "a0fb900e78", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "Strategy for Objective 2: Improve Government Efficiency through Good Governance Patterns (i) Utilize ICT to improve grassroots and community based decision making."
+    }, 
+    {
+        "sentence_id,": "3f828f3e9b", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "rule", 
+                    "law", 
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "(ii) Ensure public access to government information to promote transparency, accountability, participation, and rule of law."
+    }, 
+    {
+        "sentence_id,": "c9cd59325f", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "safeguard"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "(iv) Develop systems to safeguard employees from corruption."
+    }, 
+    {
+        "sentence_id,": "cf1d9121ed", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "(vi) Further develop FSMs Financial Management Information System for online finance approval and management."
+    }, 
+    {
+        "sentence_id,": "0128554f4b", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "(vii) National Government strongly recommends that State Governments develop State ICT Policies and Implementation Plans that are in alignment with the National ICT Policy."
+    }, 
+    {
+        "sentence_id,": "fb61ffde6d", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "The Implementation Plans will also incorporate change management strategies."
+    }, 
+    {
+        "sentence_id,": "2f2883751c", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "(viii) Review and update the National ICT Policy and Action Plan at minimum every 2-years."
+    }, 
+    {
+        "sentence_id,": "4ac891c6be", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "C. Strategy for Objective 3: Protect Citizens Rights Relating to Cybercrime, Child Protection and the Right to Information (i) Cyber Crime Establish Cyber Legislation to address cyber crime."
+    }, 
+    {
+        "sentence_id,": "92591aa142", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection"
+                ]
+            }
+        ], 
+        "sentence": "(ii) Child Protection Establish a safe and secure environment for use of ICT by children."
+    }, 
+    {
+        "sentence_id,": "c556f00d26", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "software"
+                ]
+            }
+        ], 
+        "sentence": "(iii) Develop and Implement a Spam Act (iv) Develop and Implement an Evidence Act (v) Develop a Copyright and Piracy Act (e.g., for software, movies, etc.)"
+    }, 
+    {
+        "sentence_id,": "2f00e2f9f1", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy", 
+                    "effective", 
+                    "assessment"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure", 
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "D. Strategy for Objective 4: Improve Internal Government ICT Infrastructure and Support (i) Conduct an assessment of government ICT equipment, services, human resource capacity to develop an internal government strategy for the implementation of ICT to improve efficiency and effectiveness."
+    }, 
+    {
+        "sentence_id,": "757f40b15d", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "(ii) Develop standardization of ICT hardware to be used in all Government sectors."
+    }, 
+    {
+        "sentence_id,": "9a09615887", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy", 
+                    "software"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "(iii) Develop a government software strategy and encourage the use of FOSS (Free and Open Source Software)."
+    }, 
+    {
+        "sentence_id,": "f012b975ce", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "(iv) Develop an Internet Use policy for government."
+    }, 
+    {
+        "sentence_id,": "4e56a042bd", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "public service"
+                ]
+            }
+        ], 
+        "sentence": "~ 20 ~ (v) Develop a government Information Portal and Public Service Applications Portal."
+    }, 
+    {
+        "sentence_id,": "c7a7948658", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "minister", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "All government ministries, department and agencies to develop websites and where possible information management systems."
+    }, 
+    {
+        "sentence_id,": "12330e51ef", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "(vi) Develop appropriate Local Area Networks and Wide Area Networks for all government agencies."
+    }, 
+    {
+        "sentence_id,": "94a93f60f7", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "(vii) Establish a National ICT unit to leverage limited government resources, reduce costs, and provide support and technical assistance to National and State Governments."
+    }, 
+    {
+        "sentence_id,": "f09abc4fdb", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "(viii) Develop a Government ICT contingency plan that includes a secure data center and disaster recovery capability with back-up power generator."
+    }, 
+    {
+        "sentence_id,": "d48a66473e", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "law", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy", 
+                    "technology", 
+                    "technology"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "strategy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "(ix) Mandate that public information be available through ICT (e.g., web sites) Objectives and Strategies for GOAL 5: Create an Enabling ICT Environment through Policy Reform and Improvement of Legal Frameworks Policy Statement: Government will establish new laws for ICT and develop a strong regulatory framework that supports a technology-neutral ICT enabling environment and market."
+    }, 
+    {
+        "sentence_id,": "6c88bc452b", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "Objective 3 Adopt a national strategy to promote universal access to calling and broadband Internet access services."
+    }, 
+    {
+        "sentence_id,": "191fb63843", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "law", 
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "Strategy for Objective 1: Promote Competition in the Telecommunication Market to Achieve Accessible and Affordable Communications for All (i) Amend the FSMTC Act to remove the monopoly powers granted to FSMTC and enact law to establish the objective of promotion of competition in telecommunications markets, create independent regulation of those markets, with powers for the regulator to ensure prompt and fair network interconnection and access to other essential facilities, prevent anticompetitive behavior, and protect the interests of consumers."
+    }, 
+    {
+        "sentence_id,": "29b2cfe7dd", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "law"
+                ]
+            }
+        ], 
+        "sentence": "The new law will open the ICT sector to competition by providing for licensing of all network operators and retail service providers on fair and non-discriminatory terms."
+    }, 
+    {
+        "sentence_id,": "fbaafab053", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "structure", 
+                    "monitor", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "(iii) The Department of Transportation, Communication, and Infrastructure will be responsible for the development and monitoring of Government policies setting the overall direction for the sector."
+    }, 
+    {
+        "sentence_id,": "54d57bc75a", 
+        "tag": [
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "consultant"
+                ]
+            }
+        ], 
+        "sentence": "The Department will consult with the regulator concerning harmonization of frequencies used for telecommunications services."
+    }, 
+    {
+        "sentence_id,": "9991137bce", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "(v) The Division of Communication in the Department will be responsible for sector policy and for supporting the new Office of the Regulator."
+    }, 
+    {
+        "sentence_id,": "bf6d73f147", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "(vi) FSMTC will be strengthened and reformed in order to prepare the company to operate efficiently in a competitive market, including sale of all or part of the governments ownership interest in the corporation to private investors, domestic or foreign."
+    }, 
+    {
+        "sentence_id,": "49df25bb74", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "institution", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "strategy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Strategy for Objective 2: Establish an Independent ICT Regulatory Authority to Promote Competition, Ensure that Prices Reflect Efficient Costs, Manage Universal Access and Provide Oversight and Management of the Telecommunications Sector (i) Establish an ICT Regulator that is legally, institutionally, and financially independent of the Government to transparently manage sector regulation in accordance with Government sector policies."
+    }, 
+    {
+        "sentence_id,": "433770c5c0", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "The Government will provide initial funding for the establishment of the Office of the Regulator."
+    }, 
+    {
+        "sentence_id,": "c1420c1f69", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "It is however the Governments intention that once new licenses have been issued, licensing fees will be applied towards the costs of regulation."
+    }, 
+    {
+        "sentence_id,": "adcb6f4a6c", 
+        "tag": [
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "(ii) The design of the regulatory regime will give weight to suitable options for reducing the cost of regulation where that can be done without jeopardizing competitive outcomes."
+    }, 
+    {
+        "sentence_id,": "0b121056fd", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "law", 
+                    "minister"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards", 
+                    "effective", 
+                    "technology", 
+                    "technology"
+                ]
+            }
+        ], 
+        "sentence": "(iii) The regulator will have the power to: a) Issue individual and class licenses on a non-discriminatory and technologically neutral basis; b) Allocate spectrum for the use of licensed network operators and, jointly with the Ministry, control the national spectrum plan; c) Control the national numbering plan and ensure access to numbers for all licensed operators on a non-discriminatory basis; d) Make binding decisions to resolve access disputes between operators, subject only to judicial review by the FSM Supreme Court for error of law or appeals on substance to an independent expert; e) Investigate and prohibit behavior by any operator that may have the effect of restricting competition; f) Require any dominant operator to submit for prior approval by the regulator any proposed changes to retail tariffs until such time as the regulator is satisfied that there is effective competition in that service market; g) Investigate consumer complaints, set standard terms, and issue orders prohibiting unfair or misleading behavior by service providers; h) Apply to the FSM Supreme Court to impose penalties in cases of violation of the Act; ~ 22 ~ i) Review proposed ownership transactions that could diminish the level of competition in a relevant market for telecommunications services and decline permission for such transactions unless satisfied that they are in the public interest."
+    }, 
+    {
+        "sentence_id,": "f623643441", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "rule", 
+                    "law", 
+                    "minister", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "j) Administer any universal access scheme adopted by the government in order to ensure the availability of access to a minimum standard of voice calling and Internet access throughout FSM; k) Hire staff, establish and operate an office, and incur such expenses as are properly required for the conduct of the regulatory function; l) Set and collect license fees required to meet the costs of the regulatory function; m) Make rules and issue regulations as are required within the scope of the new law to efficiently perform the regulatory function, such rules and regulations to be tabled in the Congress."
+    }, 
+    {
+        "sentence_id,": "a6022b32b8", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "(v) If the Pohnpei spur submarine cable and associated assets are transferred out of FSMTC to a new Government-owned entity, that entity will provide open access to international connectivity on a cost-based and non-discriminatory basis."
+    }, 
+    {
+        "sentence_id,": "1d0a7fe466", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "minister", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "strategy", 
+                    "policy"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "consultant"
+                ]
+            }
+        ], 
+        "sentence": "C. Strategy for Objective 3: Adopt a Universal Access Policy (i) The Government will in consultation with the regulator adopt a universal access policy to achieve ICT access throughout the whole country, to be administered by the regulator."
+    }, 
+    {
+        "sentence_id,": "4badf03437", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "In order to ensure funding for implementation of the policy, it is likely that the Government will take a two-fold approach (1) mandatory coverage obligations imposed on mobile licensees, and (2) targeted subsidies used to support service expansion in the most remote and challenging areas."
+    }, 
+    {
+        "sentence_id,": "cc675e9c0a", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "Government will also explore the opportunity for participation in the United States universal service fund access program."
+    }, 
+    {
+        "sentence_id,": "85b7c8486a", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education", 
+                    "public service"
+                ]
+            }
+        ], 
+        "sentence": "(ii) Investigate and identify different policies and models for supporting increased access through the shared use of public service telecommunication services for health, education, emergency management and other public service sectors."
+    }, 
+    {
+        "sentence_id,": "a38569eef1", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "Policies for non-discriminatory access to ICT regardless of level of income, education, age, gender and people with special needs are implemented."
+    }, 
+    {
+        "sentence_id,": "edc9eea41f", 
+        "tag": [
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "2 Human Resource Development 3a Improve Economic Growth Established links are formed between ICT education and industry through the provision of a Cisco Academy in FSM in partnership with ITU attached to the COM-FSM."
+    }, 
+    {
+        "sentence_id,": "543d1e0508", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "Leadership and Policy Maker ICT education and training is organized and on-going."
+    }, 
+    {
+        "sentence_id,": "228630cc68", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "ICT human resource development programs are established across government organization with career growth incentives."
+    }, 
+    {
+        "sentence_id,": "7bbf5dff16", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Government policies provide incentives for ICT investment, regulatory certainty, and fair competition."
+    }, 
+    {
+        "sentence_id,": "d76d43afd1", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Infrastructures for facilitating financial inclusion for the poor are in place."
+    }, 
+    {
+        "sentence_id,": "ec4e47984c", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "Regulatory barriers to facilitate online commerce and to promote faster and more secure money transaction by reaching out to those outside the banking system are removed."
+    }, 
+    {
+        "sentence_id,": "c2273cecf8", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "Efficiency is seen by private sector growth through a robust financial system and ensuring equality through financial inclusion to the unbanked."
+    }, 
+    {
+        "sentence_id,": "f56a84aec4", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "digital"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "3b 3c Improve Sustainable Language and Culture Improve Sustainable Development: Education A database is developed to collect digital archives of cultural stories, songs, and images."
+    }, 
+    {
+        "sentence_id,": "606557c369", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "ICT Education Implementation Plan and Strategy is adopted."
+    }, 
+    {
+        "sentence_id,": "e39b1e7407", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "minister", 
+                    "administration"
+                ]
+            }
+        ], 
+        "sentence": "ICT is utilized to facilitate improvement in areas such as health administration, capacity building of health workers."
+    }, 
+    {
+        "sentence_id,": "6913d8a517", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "An affordable and sustainable Electronic Health Records system plan is identified for the Federated States of Micronesia."
+    }, 
+    {
+        "sentence_id,": "7b0e11795f", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "Provisions are allocated for the development and implementation of Electronic Health Records System."
+    }, 
+    {
+        "sentence_id,": "dd8bf5303c", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "3e Improve Sustainable Development: Agriculture 3f Improve Sustainable Development: Disaster Management, Environment and Climate Change 4 Good Governance ICT is used to improve efficiency and equity in the agricultural sector, particularly crop, fisheries and livestock."
+    }, 
+    {
+        "sentence_id,": "3b6b6da3c4", 
+        "tag": [
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "There is a reduction of exploitation caused by lack of market information."
+    }, 
+    {
+        "sentence_id,": "b508b8e9a5", 
+        "tag": [
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "enhance"
+                ]
+            }
+        ], 
+        "sentence": "Access to information enhances participation of farmers and fishermen in decisionmaking."
+    }, 
+    {
+        "sentence_id,": "cf06494b5f", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "ICT is incorporated in a national disaster strategy particularly in the countrys predictive capabilities, management of disaster and post-disaster situations through access to real time information by government officials."
+    }, 
+    {
+        "sentence_id,": "a8bbcfe7f5", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "assessment"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "monitor"
+                ]
+            }
+        ], 
+        "sentence": "ICT is used to increase dissemination of information to the affected, and regular monitoring and tracking of data relevant to assessing impact of climate change."
+    }, 
+    {
+        "sentence_id,": "f3ee6e584b", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "assessment"
+                ]
+            }
+        ], 
+        "sentence": "Enable ICT-based decision support is used for disaster assessments."
+    }, 
+    {
+        "sentence_id,": "eb7876908d", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "E-Government system is planned, implemented, and operational for 25% of government services."
+    }, 
+    {
+        "sentence_id,": "5b20b0aea6", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection"
+                ]
+            }
+        ], 
+        "sentence": "Child Protection and ICT Security Legislation Implemented."
+    }, 
+    {
+        "sentence_id,": "238746013f", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "privacy", 
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "5 Open the market to New Entry and Regulatory and Legal Framework Privacy and security of information policies are developed and implemented."
+    }, 
+    {
+        "sentence_id,": "9726967178", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Government has standardized on ICT hardware."
+    }, 
+    {
+        "sentence_id,": "dde2b339d0", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy", 
+                    "software"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "Government has developed a software strategy for cost efficiency."
+    }, 
+    {
+        "sentence_id,": "ace7c29b4a", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "A government data center and disaster recovery capability with back-up power is implemented."
+    }, 
+    {
+        "sentence_id,": "812b20fe72", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "law"
+                ]
+            }
+        ], 
+        "sentence": "Enact a law by mid-2013 to end the FSMTC monopoly and provide for the establishment of an independent regulator with the goal of promoting competition in telecommunications markets."
+    }, 
+    {
+        "sentence_id,": "24308fe5ac", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "~ 26 ~ MANY PARTNERS ONE TEAM This Strategic Plan is the result of multi-partnerships from all sectors that need to work together as one team to implement this policy through one implementation plan for the benefits of all the people in the Federated States of Micronesia."
+    }, 
+    {
+        "sentence_id,": "1a2e606d26", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "minister"
+                ]
+            }
+        ], 
+        "sentence": "~ 27 ~ Ms. Natasha Beschorner and Mr. Douglas Webb from the World Bank meet with President Mori Japanese ICT Expert Team meet with Vice President Presiden Alik L. Alik ~ 28 ~ Pacific Regional ICT Ministerial Meeting, Tonga SPC Cybercrime Workshop, Tonga ~ 29 ~ Pacific ICT Capacity Building for Pacific (ICB4PAC) in Kiribati and Hawaii ~ 30 ~ Seventeenth FSM Congress in Session (Photos Courtesy of Congress PIO) ~ 31 ~ ~ 32 ~"
+    }
+]

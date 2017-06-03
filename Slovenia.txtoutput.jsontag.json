@@ -1,0 +1,2927 @@
+[
+    {
+        "sentence_id,": "4f6fd15d5d", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "privacy", 
+                    "secure", 
+                    "protection", 
+                    "minister", 
+                    "administration", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "computing", 
+                    "strategy", 
+                    "technology", 
+                    "system", 
+                    "technology"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure", 
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation", 
+                    "international cooperation"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "REPUBLIC OF SLOVENIA CYBER SECURITY STRATEGY ESTABLISHING A SYSTEM TO ENSURE A HIGH LEVEL OF CYBER SECURITY Strategija kibernetske varnosti 1 Document Info Title Cyber Security Strategy Date February 2016 Participants in document preparation: Agency for Communication Networks and Services of the Republic of Slovenia Energy Agency of the Republic of Slovenia Ministry of Defence Ministry of Economic Development and Technology Ministry of Education, Science, and Sport Ministry of Finance Ministry of Foreign Affairs Ministry of Health Ministry of Infrastructure Ministry of Public Administration Ministry of the Interior Ministry of the Interior The Police National Security Council Office of the Government of the Republic of Slovenia for the Protection of Classified Information Slovenian Computer Emergency Response Team (SI-CERT) Slovenian Intelligence and Security Agency Index 1 Introduction ..................................................................................................................................... 3 2 Analysis of the present situation ..................................................................................................... 4 3 Vision ............................................................................................................................................... 6 4 Cyberspace risks .............................................................................................................................. 6 4.1 Technological Development ....................................................................................................... 7 4.2 The Internet ................................................................................................................................ 7 4.3 Cyber crime................................................................................................................................. 7 4.4 Intelligence ................................................................................................................................. 8 4.5 Changes of the security environment ........................................................................................ 8 4.6 Intrusions of privacy ................................................................................................................... 8 5 Identification of stakeholders.......................................................................................................... 8 6 The establishment of a comprehensive cyber security system and clear governance structure ... 8 7 The areas of strategy implementation .......................................................................................... 10 7.1 Prevention ................................................................................................................................ 10 7.2 Response .................................................................................................................................. 10 7.3 Awareness raising ..................................................................................................................... 10 8 Strategy objectives and measures for their achievement ............................................................. 11 8.1 Strengthening and systemic regulation of the national cyber security assurance system ...... 12 8.2 The safety of citizens in cyberspace ......................................................................................... 13 8.3 Cyber security in the economy ................................................................................................. 13 8.4 Providing the operation of critical infrastructure in the sector of ICT support........................ 14 8.5 Cyber security assurance to ensure public security and combat cyber crime ......................... 14 8.6 Development of defensive cyber capabilities ......................................................................... 15 8.7 Ensuring safe operation and availability of key ICT systems in the event of major natural and other disasters ............................................................................................ 15 8.8 Strengthening national cyber security through international cooperation ............................. 15 9 Strategy implementation risks....................................................................................................... 16 A List of abbreviations ...................................................................................................................... 18 Cyber Security Strategy 1 Purpose and summary Slovenias cyber security strategy will improve the countrys cyber security assurance system, while also systematically regulating this area."
+    }, 
+    {
+        "sentence_id,": "99e98a8740", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "Strengthening the overall system is necessary because of the ever-growing importance of cyber security for the smooth functioning of the systems the whole society depends on."
+    }, 
+    {
+        "sentence_id,": "e7abdbcbf2", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "An efficient cyber security assurance system is not and cannot be cheap, but it is incomparably cheaper than fixing any consequences that might arise as a result of security incidents if such systems were missing."
+    }, 
+    {
+        "sentence_id,": "205985d2f1", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "The strategy comprises an overview of the situation in those areas that are relevant for cyber security assurance, outlining the vision and setting objectives."
+    }, 
+    {
+        "sentence_id,": "00ddc387d4", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy", 
+                    "system"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "The strategy proposes the way the cyber security assurance system should be organised, and the measures necessary for achieving the set objectives."
+    }, 
+    {
+        "sentence_id,": "82f89f891d", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy", 
+                    "system"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "2 Cyber Security Strategy 1 Introduction In modern world, the use of information systems and networks is constantly increasing, and therefore the importance of these systems for the successful development of economic and noncommercial activities, as well as the life and welfare of the society as a whole, is also increasing."
+    }, 
+    {
+        "sentence_id,": "f8355317ee", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "the rule of law", 
+                    "rule", 
+                    "law", 
+                    "human rights", 
+                    "freedom", 
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Network and information security contributes to strengthening important societal values and objectives in the society, such as human rights and fundamental freedoms, democracy, the rule of law, and economic and political stability."
+    }, 
+    {
+        "sentence_id,": "217f6a93c0", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "technology"
+                ]
+            }
+        ], 
+        "sentence": "On the one hand, the increasingly rapid development of information and communication technologies (ICT) brings benefits to modern society, while on the other it gives rise to ever new and technologically more sophisticated cyber threats."
+    }, 
+    {
+        "sentence_id,": "62742a5db2", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Undoubtedly, cyber attacks are among the most significant security threats to the modern world, and therefore, cyber security has become an important, integral part of national security."
+    }, 
+    {
+        "sentence_id,": "e848f33655", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "In order to strengthen the cyber security assurance system, the state is encouraged and bound to adopt strategic documents at the national and international levels."
+    }, 
+    {
+        "sentence_id,": "f5e4b6b651", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy", 
+                    "effective", 
+                    "system"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure", 
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "This strategy will help Slovenia define its measures for establishing a national cyber security system that will facilitate a rapid response to security threats and will serve to effectively protect the ICT infrastructure and information systems, thus ensuring the continuous operation of both public and private sectors, and, in particular, the key functions of the state and society in all security situations."
+    }, 
+    {
+        "sentence_id,": "df1895d449", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "human rights", 
+                    "freedom", 
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Ensuring the security of cyberspace4 will be balanced with the interests of ensuring safety and economic viability as well as human rights and fundamental freedoms."
+    }, 
+    {
+        "sentence_id,": "9ec5137371", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "1 Resolution on National Security Strategy of the Republic of Slovenia."
+    }, 
+    {
+        "sentence_id,": "ddfe76a0b5", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "system", 
+                    "technology"
+                ]
+            }
+        ], 
+        "sentence": "27/2010, point 5.3.5 Responding to cyber threats and misuse of information technologies and systems."
+    }, 
+    {
+        "sentence_id,": "aa812c80db", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "2 Cyber security Strategy of the European Union: An Open, Safe and Secure Cyberspace."
+    }, 
+    {
+        "sentence_id,": "034cd2cd5b", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "freedom", 
+                    "secure", 
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "digital"
+                ]
+            }
+        ], 
+        "sentence": "Available at: http://ec.europa.eu/digital-agenda/en/news/eu-cyber security-planprotect-open-internet-and-online-freedom-and-opportunity-cyber-security 3 Proposal for a Directive of the European Parliament and of the Council concerning measures to ensure a high common level of network and information security across the Union."
+    }, 
+    {
+        "sentence_id,": "4ed0f31c02", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "freedom", 
+                    "secure", 
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "computing", 
+                    "technology", 
+                    "digital", 
+                    "system", 
+                    "technology"
+                ]
+            }
+        ], 
+        "sentence": "Available at: http://ec.europa.eu/digital-agenda/en/news/eu-cyber security-plan-protect-open-internet-and-onlinefreedom-and-opportunity-cyber-security 4 The term cyberspace covers the information technology network, telecommunication networks and computer processing systems."
+    }, 
+    {
+        "sentence_id,": "28509fa005", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "computing", 
+                    "strategy", 
+                    "software"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "Cyber Security Strategy 3 DEFINITION OF CYBER SECURITY5 Cyber security is generally defined as: a range of activities and other measures, both technical and non-technical, intended to protect computers, computer networks, hard- and software and the information stored and processed therein, including programmes and data as well as other cyberspace elements, from all threats, including threats to national security; the level of protection provided by these activities and measures; joint professional endeavours, including research and development to implement and improve these measures and increase their quality."
+    }, 
+    {
+        "sentence_id,": "c05fd91eb0", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "2 Analysis of the present situation In Slovenia, there have already been a few proposals for systemic regulation of cyber security, however, their implementation never took place."
+    }, 
+    {
+        "sentence_id,": "f100066093", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy", 
+                    "system"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "Nevertheless, it became clear that the country needs a cyber security strategy that would join and direct the efforts of all stakeholders toward strengthening and systematically regulating this important area."
+    }, 
+    {
+        "sentence_id,": "2986cb67fe", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection", 
+                    "minister", 
+                    "administration"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "computing", 
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "Currently, the operational capacities to respond to cyber threats are distributed among SI-CERT6 as the national response centre for network incidents, the Information Security Sector within the IT Directorate at the Ministry of Public Administration, the Ministry of Defence for defence system and protection against natural and other disasters, Slovenian Intelligence and Security Agency (SOVA) in counter-intelligence activities, and the Police within its IT and telecommunications Office and the Criminal Police Directorate, mainly in the Centre for Computer Investigations with the capacities to combat cybercrime."
+    }, 
+    {
+        "sentence_id,": "9a1d85692d", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "5 Dunn, M. A Comparative Analysis of Cyber security Initiatives Worldwide."
+    }, 
+    {
+        "sentence_id,": "9a849822af", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Available at: https://www.itu.int/osg/spu/cyber security/docs/Background_Paper_Comparative_ Analysis_Cyber security_Initiatives_Worldwide.pdf."
+    }, 
+    {
+        "sentence_id,": "59731bd008", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "minister", 
+                    "administration"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "computing"
+                ]
+            }
+        ], 
+        "sentence": "It coordinates incident resolution, provides technical advice in the event of intrusions, infections with computer viruses and other abuses, and issues warnings to network administrators and general public on the current threats to electronic networks."
+    }, 
+    {
+        "sentence_id,": "5a420a9483", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection", 
+                    "minister", 
+                    "administration", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Currently, it also performs the tasks of Government's centre for responding to network indigents (SIGOV-CERT) and assists in the establishment of an independent centre that will be responsible for protecting the IT infrastructure of the state administration."
+    }, 
+    {
+        "sentence_id,": "19523b852d", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "SI-CERT is a member of the Forum of Incident Response and Security Teams (FIRST), a member of the group of national response centres at CERT/CC, a member of a work group of the European response centres TF-CSIRT, and is accredited Trusted Introducer."
+    }, 
+    {
+        "sentence_id,": "4a84b86f28", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "SI-CERT is the Slovenian contact point for the security authority of the General Secretariat of the EU Council and the national information point for the IMPACT programme of the International Telecommunication Union (ITU)."
+    }, 
+    {
+        "sentence_id,": "118f4096f3", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "The increasing trend regarding the above-mentioned deficiencies of the cyber security assurance system raises concern."
+    }, 
+    {
+        "sentence_id,": "dbbe48246a", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "minister"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "The project, which is financed by the Ministry of Education, Science and Sport, is also participating in the campaigns of the European month of cyber security."
+    }, 
+    {
+        "sentence_id,": "7ddb333611", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "minister"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "Within the framework of the Centre for Safer Internet, which is run by a consortium consisting of the Faculty of Social Sciences, ARNES, Slovenian Association of Friends of Youth and the Youth Information and Counselling Centre of Slovenia - MISSS 11 and funded by the Directorate-General Connect of the European Commission and the Ministry of Education, Science and Sport, SAFE.Si 12, TOM Telephone and the Web Eye projects are being carried out."
+    }, 
+    {
+        "sentence_id,": "1a9ddfd872", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "device"
+                ]
+            }
+        ], 
+        "sentence": "The SAFE.SI program operates as a national point for raising awareness among children and adolescents about the safe use of the Internet and mobile devices."
+    }, 
+    {
+        "sentence_id,": "f6c5288e6c", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "device"
+                ]
+            }
+        ], 
+        "sentence": "The TOM Telephone program also informs children and adolescents about the safe use of the Internet and mobile devices."
+    }, 
+    {
+        "sentence_id,": "87bc0a9922", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "human rights", 
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "Web Eye is an online reporting point, which in partnership with the police, prosecution, Ombudsman for Human Rights, Internet service providers, public and other interested governmental and non-governmental organisations allows anonymous reporting of material allegedly containing instances of the sexual abuse of a minor and hate speech on the Internet, and raises awareness on the problem of illegal web content."
+    }, 
+    {
+        "sentence_id,": "19cfcd9a64", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "computing"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "In the education sector, IT or cyber security is included in the higher school study programme at the Faculty for Security Studies of the University of Maribor, and in the curricula of study programmes at the Faculty of Computer and Information Science and the Faculty of Social Sciences of the University of Ljubljana, at the Faculty of Electrical Engineering and Computer Science of the University of Maribor, the Faculty of Health Sciences of the University of Primorska, the Faculty of Information 7 The data for 2014 and the reports for past years are available at https://www.cert.si."
+    }, 
+    {
+        "sentence_id,": "ab96feb779", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "E.g., Article 81 of the Electronic Communications Act sets out the procedure of information exchange between AKOS and SI-CERT at the breach of security or integrity."
+    }, 
+    {
+        "sentence_id,": "8f61232866", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "9 European Union Agency for Network and Information Security (ENISA) 10 https://www.varninainternetu.si/ 11 Youth Information and Counselling Centre of Slovenia."
+    }, 
+    {
+        "sentence_id,": "4afb737587", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "institution", 
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "12 http://safe.si/ 8 Cyber Security Strategy 5 Studies of Novo mesto, and the licensed independent higher education institution GEA College; as part of the corporate security subject it is also included in the study programs at some other higher education institutions."
+    }, 
+    {
+        "sentence_id,": "5ea81d514e", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "In accordance with its abilities, Slovenia participates in international cyber security exercises."
+    }, 
+    {
+        "sentence_id,": "f82b257f64", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Participation in these exercises proved to be a good opportunity to check the capacities for cyber security assurance at the national level, as well as to exchange experience and establish new connections between stakeholders."
+    }, 
+    {
+        "sentence_id,": "88fe3f0031", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "National cyber security exercise has not yet been carried out."
+    }, 
+    {
+        "sentence_id,": "b40687a5f3", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "3 Vision Establishing a comprehensive cyber security system as an important integral factor of national security will contribute to ensuring an open, safe and secure cyberspace, which will make the basis for smooth functioning of infrastructure, important for state bodies' operations as well as for the life of each individual."
+    }, 
+    {
+        "sentence_id,": "c79311d749", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "effective", 
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "By 2020, Slovenia will establish an effective cyber security assurance system, which will prevent and also eliminate the consequences of security incidents."
+    }, 
+    {
+        "sentence_id,": "075e71ff29", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }, 
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "7. strengthening and systemic regulation of the national cyber security assurance system; the safety of citizens in cyberspace; cyber security in the economy; ensuring the operation of critical infrastructure in the sector of ICT support; cyber security to ensure public security and combat cyber crime; development of cyber defence capabilities; ensuring the safe operation and availability of key IC systems in the event of major natural and other disasters; 8. strengthening national cyber security through international cooperation."
+    }, 
+    {
+        "sentence_id,": "2c6eb09448", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "4 Cyberspace risks In a modern society, practically all social activities depend on ICT systems, and with further development this dependence is likely to increase."
+    }, 
+    {
+        "sentence_id,": "868321e590", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "Systems interconnectivity means that the vulnerability of one may affect the functioning of the other."
+    }, 
+    {
+        "sentence_id,": "9ba9c5c2e2", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "assessment"
+                ]
+            }
+        ], 
+        "sentence": "As it is impossible to ensure complete security against cyber attacks, abuse, fraud, human and technical errors, and other influences, the approach used in determining the priority of a particular threat should be based on risk assessment."
+    }, 
+    {
+        "sentence_id,": "517b9db5de", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "6 Cyber Security Strategy have been noted."
+    }, 
+    {
+        "sentence_id,": "d29a9f1680", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "technology"
+                ]
+            }
+        ], 
+        "sentence": "4.1 Technological Development ICT develops extremely quickly, which indeed facilitates new innovative use , new business models and a variety of development opportunities, while it also requires rapid adaptation of the legislative and other social frameworks."
+    }, 
+    {
+        "sentence_id,": "b6b2b1286a", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "computing"
+                ]
+            }
+        ], 
+        "sentence": "Development guidelines suggest the implementation of cloud computing, data-guided economy and mass data, the Internet of Things and innovative collaborative business models based on them, where the limits of control and accountability for the protection of personal and other data are blurred or at least poorly defined."
+    }, 
+    {
+        "sentence_id,": "0e815e3aaa", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "computing", 
+                    "assessment"
+                ]
+            }
+        ], 
+        "sentence": "In cloud computing, in addition to ensuring safety and privacy, the quality of service can be questionable as well, since it is based on a chain of the mutual trust of all stakeholders that form the cloud, rather than on the assessment of the cloud as a whole."
+    }, 
+    {
+        "sentence_id,": "0ab4a0d2c8", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "The ubiquitous mobile networks, the Internet of Things and mass data will increase exposure to security threats at different levels, which cannot be resolved without a systemic approach to risk management and a sufficiently high level of cyber security assurance."
+    }, 
+    {
+        "sentence_id,": "8e765a8356", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "4.2 The Internet Considering the important fact that the Internet supports the operation of information and communication systems in many areas, it must be addressed accordingly and, being a key support system, also must be suitably protected."
+    }, 
+    {
+        "sentence_id,": "995d0ee0d5", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Special attention should be given to the legislative and regulatory framework that addresses issues related to the protection of critical infrastructure in the IC support sector."
+    }, 
+    {
+        "sentence_id,": "a4ad88f7c4", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "4.3 Cyber crime The European Agenda on Security declares cyber crime to be one of the three threats to European security."
+    }, 
+    {
+        "sentence_id,": "2bd8416d60", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "digital", 
+                    "system"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "On the one hand it includes offenses related to intrusions of privacy, identity theft, obtaining information about individuals and legal entities for the purpose of extortion, fraud and online scams, dissemination of child pornography, digital piracy, economic espionage, money laundering, and counterfeiting, while on the other hand, it includes criminal offences related to attempts to obstruct the functioning of the Internet, ranging from mass-sending of unsolicited emails and implementation of distributed denial-of-services, to cyber terrorism, which may cause malfunctions of IC infrastructure and systems and may be as a result in some cases even lifethreatening."
+    }, 
+    {
+        "sentence_id,": "3dc9cab8c2", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "14 DDoS (Distributed Denial-of-Service) Cyber Security Strategy 7 4.4 Intelligence Societys overbearing dependence on ICT has increased the risks associated with the activities of foreign intelligence services."
+    }, 
+    {
+        "sentence_id,": "d0fe514126", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Various state or non-state stakeholders may exploit cyberspace to achieve their objectives, particularly by carrying out cyber-intelligence operations, which my in certain segments jeopardize the political, security and economic interests of the Republic of Slovenia."
+    }, 
+    {
+        "sentence_id,": "5bcfb0def4", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "minister", 
+                    "administration"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "4.5 Changes of the security environment Malicious hacker intrusions into the information systems of state administration or state bodies also pose a security risk."
+    }, 
+    {
+        "sentence_id,": "71039d4465", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Malicious activity against the cyber security of critical infrastructure represents a form of asymmetric warfare."
+    }, 
+    {
+        "sentence_id,": "20179d925f", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "privacy"
+                ]
+            }
+        ], 
+        "sentence": "4.6 Intrusions of privacy In an information society, individuals' privacy increasingly comes under attack, as it must be aligned with interests regarding retrieval, processing and storage of personal data by different companies for commercial purposes, as well as by state authorities."
+    }, 
+    {
+        "sentence_id,": "688cd6476c", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "privacy"
+                ]
+            }
+        ], 
+        "sentence": "It is expected that with the increasing terrorist threats and the implementation of measures to prevent them trends towards greater control and, consequently, the restriction of individuals' privacy in the cyberspace will also be on the increase."
+    }, 
+    {
+        "sentence_id,": "cf5ff517ae", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "5 Identification of stakeholders Public and private sector organisations participate in the cyber security system."
+    }, 
+    {
+        "sentence_id,": "6b1cf45259", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "minister", 
+                    "administration"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "system", 
+                    "software", 
+                    "technology"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Apart from the central coordination of the national cyber security assurance system and all the national response centres, an important role is played by the Electronic Communications Networks and Services Agency of the Republic of Slovenia (AKOS), telecom operators and telecommunication infrastructure administrators, information society service providers, academic and research community (some faculties and research organisations), occupational (chambers of commerce and industry) and professional associations (Slovenian associations and sections of international association in the area of information and communication technologies and cyber security), and software vendors that provide support to national authorities."
+    }, 
+    {
+        "sentence_id,": "240055f21a", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "In a broader sense, stakeholders in cyber security assurance in Slovenia also include relevant organisations abroad, especially when these are cooperating with Slovenian stakeholders in response to security incidents."
+    }, 
+    {
+        "sentence_id,": "578718454c", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "effective", 
+                    "system"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "6 The establishment of a comprehensive cyber security system and clear governance structure Successful high-level cyber security assurance requires the effective use of existing resources and appropriate multi-level organisation."
+    }, 
+    {
+        "sentence_id,": "7c977bf12f", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "Slovenia will set up central coordination of the national cyber security assurance system and provide conditions for its stable operation."
+    }, 
+    {
+        "sentence_id,": "dc7e79aa0e", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "This coordination body will 8 Cyber Security Strategy coordinate the cyber security assurance capabilities at the strategic level to ensure cyber security in the country at lower levels, and will represent a single point of contact for international cooperation."
+    }, 
+    {
+        "sentence_id,": "90e7dcd54a", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "The organisation form of coordination functions will be determined by the Government of the Republic of Slovenia."
+    }, 
+    {
+        "sentence_id,": "1265be4918", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection", 
+                    "minister", 
+                    "administration"
+                ]
+            }
+        ], 
+        "sentence": "At the operational level of cyber security assurance, SI-CERT will operate with its capabilities at the national level, the Ministry of Defence in the field of defence and protection against natural and other disasters, the police in ensuring cyber security in the context of public safety and the fight against cyber crime, SOVA in counter intelligence, and the emergent SIGOV-CERT in public administration."
+    }, 
+    {
+        "sentence_id,": "f3693252f2", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "Figure 1: Scheme of the cyber security assurance system The cyber security assurance system will also include other stakeholders."
+    }, 
+    {
+        "sentence_id,": "15b05478f4", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Operators of critical infrastructure in the private and public sectors are important, particularly in the energy supply sector (electricity producers and distributors), and in information and communication support (telecom operators, information society service providers, etc.)."
+    }, 
+    {
+        "sentence_id,": "84a11be4ef", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "In awareness raising, education and research, the academic and research community will contribute to the cyber security assurance system through their higher-education programmes and courses on cyber security at all levels of education, and through the results of research organisations."
+    }, 
+    {
+        "sentence_id,": "bb49480329", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy", 
+                    "system"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "The Cyber Security Strategy 9 system will also be open to civil society's initiatives."
+    }, 
+    {
+        "sentence_id,": "aacfd93671", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "technology"
+                ]
+            }
+        ], 
+        "sentence": "This applies primarily to initiatives for improvements and assistance in raising awareness among various target groups by professional associations (Slovenian associations and the Slovenian sections of international associations in the field of information and communication technologies and cyber security)."
+    }, 
+    {
+        "sentence_id,": "8fc9a783c5", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "7 The areas of strategy implementation Strategy implementation will focus on preventing security incidents, responding to security incidents and increasing awareness of the target groups about the importance of cyber security."
+    }, 
+    {
+        "sentence_id,": "dbbdb094fb", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "7.1 Prevention The prevention of security incidents ranges from the technical design of information system components to providing national and international legal frameworks and regulations that contribute to the development of safer applications and infrastructure."
+    }, 
+    {
+        "sentence_id,": "b38cf85f6e", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards", 
+                    "system"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Furthermore, it should be ensured that the design of programmes and ICT infrastructure include the safety and protection of individuals' privacy, and that the standards ensuring safe and smooth operation of the systems, including the use of encryption solutions, are observed."
+    }, 
+    {
+        "sentence_id,": "764b6f3d4f", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "assessment"
+                ]
+            }
+        ], 
+        "sentence": "Risks are assessed, which serves as a basis for the preparation and implementation of measures to mitigate unacceptable risks, and an analysis of the implemented measures."
+    }, 
+    {
+        "sentence_id,": "0208340d14", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "technology"
+                ]
+            }
+        ], 
+        "sentence": "The use of open-source technologies that ensure interoperability and allow best possible control, and which are not partially of fully closed because of patent rights, is encouraged."
+    }, 
+    {
+        "sentence_id,": "dd58d6deaf", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "7.2 Response Prevention alone is insufficient for achieving a high level of cyber security."
+    }, 
+    {
+        "sentence_id,": "f4f874d71e", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "As security incidents can never be fully eliminated, it is necessary to provide for appropriate mechanisms to respond to them."
+    }, 
+    {
+        "sentence_id,": "950eb05bb7", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "It is furthermore important to take account of the experience obtained from the prevention phase, as well as from the past security incident response events."
+    }, 
+    {
+        "sentence_id,": "40751035cc", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "institution", 
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Experience may come from domestic and foreign institutions responsible for cyber security assurance, and therefore their best possible interconnectivity is very important."
+    }, 
+    {
+        "sentence_id,": "88bf2eb90f", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Active cooperation is also observed in the preparation of standard cyber crisis response procedures at the international or global level."
+    }, 
+    {
+        "sentence_id,": "cb97edb537", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "technology"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "Awareness raising and education may help to eliminate the risks and build a culture of safe technology use."
+    }, 
+    {
+        "sentence_id,": "796aa9ad5f", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "effective"
+                ]
+            }
+        ], 
+        "sentence": "In the awareness-raising phase, the experience derived from prevention and response phases must be utilised so that users are acquainted with actual risks and effective methods of avoiding them."
+    }, 
+    {
+        "sentence_id,": "3d91163ceb", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "For children and adolescents, cyber security topics are included in the curriculum at different levels of education."
+    }, 
+    {
+        "sentence_id,": "958772ea2d", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "The use of encryption solutions, as one of the cornerstones of cyber security assurance, is encouraged."
+    }, 
+    {
+        "sentence_id,": "7ad88bfcea", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "minister", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy", 
+                    "system"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy", 
+                    "monitor"
+                ]
+            }
+        ], 
+        "sentence": "10 Cyber Security Strategy 8 Strategy objectives and measures for their achievement Strategy implementation, which will be based on the upgrade and update of the existing cyber security system capabilities, will be monitored by the Government of the Republic of Slovenia, the central coordination of the national cyber security system, and by the relevant ministries, in accordance with the grounds of jurisdiction set out in the Constitution and legislation."
+    }, 
+    {
+        "sentence_id,": "b588cae30a", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "A number of measures will be carried out to reach the objectives of cyber security."
+    }, 
+    {
+        "sentence_id,": "25458e5db9", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "system", 
+                    "technology"
+                ]
+            }
+        ], 
+        "sentence": "Strengthening and systemic regulation of the national cyber security assurance system establishing a central coordination of the national cyber security assurance system; human resource and technological strengthening of bodies at the operative level of cyber security assurance system along with the implementation of SIGOV-CERT; regular participation in international exercises on cyber security and organisation of national exercises; gradual upgrade of state bodies' HKOM networks with equipment that is appropriately approved by the Slovenian authorities as being safe and suitable for use; implementation of competent checks of safety and functionality of IT equipment within the existing and newly established bodies."
+    }, 
+    {
+        "sentence_id,": "9cf1d08905", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "The safety of citizens in cyberspace; regular implementation of awareness-raising programmes on cyber security; introducing cyber security content in education and training programmes."
+    }, 
+    {
+        "sentence_id,": "4d001cecc7", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "technology"
+                ]
+            }
+        ], 
+        "sentence": "Cyber security in the economy promotion of development and introduction of new technologies in the field of cyber security; regular implementation of awareness raising programmes on cyber security for business entities."
+    }, 
+    {
+        "sentence_id,": "9666c4d722", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "assessment"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Providing the operation of critical infrastructure in the sector of ICT support regular assessment of risks to the operation of the critical infrastructure of the ICT support sector, planning appropriate protection measures and updating risk assessment in this field."
+    }, 
+    {
+        "sentence_id,": "30c6603c31", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Cyber security assurance to ensure public security and combat cyber crime."
+    }, 
+    {
+        "sentence_id,": "c5ab178593", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "law", 
+                    "secure", 
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "Implementation of appropriate cyber capacities to protect ICT systems of the police; regular training on cyber security for law enforcement authorities participating in the development of cyber capacities for public security and in combating cyber crime; regular updating of the laws and procedures in line with the development of ICT."
+    }, 
+    {
+        "sentence_id,": "e378b0178c", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }, 
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Strengthening national cyber security through international cooperation MEASURES systems in the event of major natural and other disasters."
+    }, 
+    {
+        "sentence_id,": "825f833f59", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "ensuring conditions for the participation of Slovenian experts in the relevant international working bodies and associations in the area of cyber security."
+    }, 
+    {
+        "sentence_id,": "120181b2b4", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy", 
+                    "system"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "Table 1: Cyber security strategy objectives and actions needed to achieve them 8.1 Strengthening and systemic regulation of the national cyber security assurance system Slovenia will strengthen and upgrade its existing cyber security assurance system, including its diplomatic and consular network."
+    }, 
+    {
+        "sentence_id,": "41b773d21f", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Due to the increasing volume of security incidents, the existing capabilities of the response centres are no longer sufficient."
+    }, 
+    {
+        "sentence_id,": "f6398ec832", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection", 
+                    "minister", 
+                    "administration"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "In order to ensure the proper response, the capabilities of the National Response Centre (SI-CERT and the response centre for the needs of the defence and protection against natural and other disaster (cyber capacities of the Ministry of Defence) will be strengthened, and an independent response centre for the public administration systems will be set up (SIGOV-CERT)."
+    }, 
+    {
+        "sentence_id,": "3dfc1818ab", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "The framework of strengthening the cyber security assurance system also included the preparation of a plan to respond to security incidents."
+    }, 
+    {
+        "sentence_id,": "66d40d3d98", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "At the strategic level of cyber security assurance system, a central coordination for comprehensive approach and coordination of activities in all areas of cyber security will be set up."
+    }, 
+    {
+        "sentence_id,": "857023c91a", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "One of the functions of this coordination will be to act as a single national point of contact for international cooperation in the area of cyber security."
+    }, 
+    {
+        "sentence_id,": "e588076843", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Also in the future, Slovenia will regularly participate in international exercises on cyber security."
+    }, 
+    {
+        "sentence_id,": "92719da24c", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "assessment"
+                ]
+            }
+        ], 
+        "sentence": "The content of each exercise will possibly be consistent with the risk assessment of a specific treat, however, based on the most realistic scenario possible."
+    }, 
+    {
+        "sentence_id,": "cf0fefa135", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "At least occasionally, exercises will be carried out with the participation of all stakeholder engaged in cyber security assurance."
+    }, 
+    {
+        "sentence_id,": "a3797a1f46", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Each exercise will be followed by a detailed analysis of the results and drafting proposals for any improvements and, if necessary, upgrading or updating the security incidents response plan."
+    }, 
+    {
+        "sentence_id,": "2912386bdf", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy", 
+                    "technology", 
+                    "system", 
+                    "technology"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "To achieve the objective of strengthening and systemic regulation of national cyber security assurance system, the following measures shall be implemented: establishing a central coordination of the national cyber security assurance system; human resource and technological strengthening of bodies at the operative level of cyber security assurance system along with the implementation of SIGOV-CERT; regular participation in international exercises on cyber security and organisation of national exercises; gradual upgrade of state bodies' HKOM networks with equipment that is appropriately approved by the Slovenian authorities as being safe and suitable for use; 12 Cyber Security Strategy implementation of competent checks of safety and functionality of IT equipment within the existing and newly established bodies."
+    }, 
+    {
+        "sentence_id,": "69007701a4", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "human rights", 
+                    "privacy"
+                ]
+            }
+        ], 
+        "sentence": "8.2 The safety of citizens in cyberspace Each individual must be able to have access to the safest possible use of ICT, while respecting privacy and human rights."
+    }, 
+    {
+        "sentence_id,": "fc87dae828", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "privacy", 
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Cyber security assurance should not disproportionately infringe on privacy by using excessive measures or means."
+    }, 
+    {
+        "sentence_id,": "a87f3fbd83", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "privacy", 
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "All the relevant and interested stakeholders must always be involved in the drafting of the legislation governing permissible degree of intrusion into the privacy of information in a timely and equitable manner."
+    }, 
+    {
+        "sentence_id,": "d587c761bc", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Raising user awareness about the importance of cyber security is extremely important, as it contributes to building or improving the culture of cyber security."
+    }, 
+    {
+        "sentence_id,": "b0fa6655ba", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Thus, users learn to independently take care of their own security in cyberspace."
+    }, 
+    {
+        "sentence_id,": "3d3f5f28cc", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "effective"
+                ]
+            }
+        ], 
+        "sentence": "Effective outreach will focus on specific target groups (e.g."
+    }, 
+    {
+        "sentence_id,": "8215374dee", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "Cyber security topics will be properly included in the curricula of schools at all levels of the education system."
+    }, 
+    {
+        "sentence_id,": "80928bf6a1", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "by increased demand from the economy) to offer independent study programmes on cyber security."
+    }, 
+    {
+        "sentence_id,": "a5094adc0c", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "Key stakeholders in cyber security assurance should ensure the development of competences and certification of personnel that perform or will perform the tasks of cyber security assurance by continuous training."
+    }, 
+    {
+        "sentence_id,": "496dc0f831", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "To achieve the objective of ensuring citizens security in cyberspace, the following two measures will be taken: regular implementation of awareness raising programmes on cyber security; introducing contents in the area of cyber security in the education and training programmes."
+    }, 
+    {
+        "sentence_id,": "c71072ec1a", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "8.3 Cyber security in the economy As regards ICT in the economy, Slovenia already has a lot of potential, but with adequately focused investments in research, development and innovation, further breakthrough is also possible in the field of cyber security."
+    }, 
+    {
+        "sentence_id,": "ae2dab23bd", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "digital"
+                ]
+            }
+        ], 
+        "sentence": "Cyber security assurance in the economy is particularly important in the digitalised business and industry environment."
+    }, 
+    {
+        "sentence_id,": "3025cb9617", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "The state will co-finance projects and targeted research in this field, which have the potential of contributing to cyber security."
+    }, 
+    {
+        "sentence_id,": "722c6511cf", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "The applicable results of such projects and research must constantly upgrade the system of cyber security."
+    }, 
+    {
+        "sentence_id,": "2f51db8502", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Likewise in other areas, also in the area of cyber security the state will promote integration of academic and research sphere with the economy at both national and international levels."
+    }, 
+    {
+        "sentence_id,": "c2b4cae198", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy", 
+                    "digital"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "Cyber Security Strategy 13 For its operation, the increasingly digitalised economy should be provided with a secure communication environment."
+    }, 
+    {
+        "sentence_id,": "6954448a21", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Therefore, programmes to raise companies awareness about the risks of cyberspace and the secure use of ICT will be continued."
+    }, 
+    {
+        "sentence_id,": "ed91c45cda", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Efforts for the development and use of standards in cyber security will be promoted."
+    }, 
+    {
+        "sentence_id,": "a4b45153fb", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "technology"
+                ]
+            }
+        ], 
+        "sentence": "To achieve the objective of cyber security in the economy, the following two measures will be taken: the promotion of development and introduction of new technologies in the field of cyber security; regular implementation of awareness raising programmes on cyber security for business entities."
+    }, 
+    {
+        "sentence_id,": "ba6a632f89", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "8.4 Providing the operation of critical infrastructure in the sector of ICT support Critical infrastructure of ICT support sector must be designed and managed so as to provide systemic ICT support at various levels."
+    }, 
+    {
+        "sentence_id,": "86cadb62d9", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system", 
+                    "software"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "The uninterrupted operation of infrastructure must be ensured, which requires the functioning of internet systems, as well as hardware and software that support critical functions in the country."
+    }, 
+    {
+        "sentence_id,": "ff3bd237f4", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "sanation of damage resulting from security incidents, and preventive mechanisms that as far as possible prevent such threats and errors, are established."
+    }, 
+    {
+        "sentence_id,": "14f3c65b65", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "minister", 
+                    "administration"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "By establishing an independent response centre for public administration systems (SIGOV-CERT), SI-CERT will be relieved and thus with appropriate reinforcement able to focus attention to providing cyber security in the ICT support sector."
+    }, 
+    {
+        "sentence_id,": "9252da3ecc", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "assessment"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "To achieve the objective of ensuring the operation of critical infrastructure in the sector of ICT support, the following measure will be taken: regular assessment of risks to the operation of the critical infrastructure of the ICT support sector, planning appropriate protection measures, and updating risk assessment in this field."
+    }, 
+    {
+        "sentence_id,": "3bf0f14ec1", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "8.5 Cyber security assurance to ensure public security and combat cyber crime Slovenia will develop cyber capabilities that will be able to independently and in cooperation with other countries protect ICT systems in public security (Schengen, Europol, Interpol) and to provide support to operational police work."
+    }, 
+    {
+        "sentence_id,": "5307f0c053", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "law"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "digital"
+                ]
+            }
+        ], 
+        "sentence": "Greater attention will be paid to the development of digital forensics and care for adequate qualification of all law enforcement authorities operating in this area."
+    }, 
+    {
+        "sentence_id,": "71f864335c", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "institution"
+                ]
+            }
+        ], 
+        "sentence": "In the development of cyber capabilities, the state will cooperate with industry and academic institutions."
+    }, 
+    {
+        "sentence_id,": "5666841f0b", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "institution"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "software"
+                ]
+            }
+        ], 
+        "sentence": "In the detection of new forms of cyber crime and the exchange of information, cooperation of the police with response centres, academic and research institutions, hardware and software producers as well as with professional associations in the field of ICT at national and international level will be important."
+    }, 
+    {
+        "sentence_id,": "0dc992a2a4", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "law", 
+                    "secure", 
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy", 
+                    "system"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "14 Cyber Security Strategy To achieve the objective of cyber security assurance in the area of public security and combating cyber crime, the following measures will be taken: Implementation of appropriate cyber capacities to protect ICT systems of the police; regular training on cyber security for law enforcement authorities participating in the development of cyber capacities for public security and in combating cyber crime; regular updating of the laws and procedures in line with the development of ICT."
+    }, 
+    {
+        "sentence_id,": "2a148ef32b", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "8.6 Development of defensive cyber capabilities Slovenia will develop cyber defence capabilities that will be able to independently and in cooperation with other EU and NATO countries to protect defence ICT systems and to provide support to military operations and crisis planning."
+    }, 
+    {
+        "sentence_id,": "d8cd27bbd1", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "institution"
+                ]
+            }
+        ], 
+        "sentence": "Slovenia will develop its cyber defence capabilities independently as well as in cooperation with its EU and NATO partners, while also cooperating with industry and academic institutions."
+    }, 
+    {
+        "sentence_id,": "3b73984f75", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "To achieve the objective of defence cyber security, the following measure will be taken: development of appropriate cyber capabilities to protect defence ICT systems."
+    }, 
+    {
+        "sentence_id,": "49ef1974b9", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "8.7 Ensuring safe operation and availability of key ICT systems in the event of major natural and other disasters Slovenia is exposed to natural and other disasters15, which may also be large-scale."
+    }, 
+    {
+        "sentence_id,": "2b8c354b02", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "Therefore, it is necessary to provide adequate resources and implement measures for ensuring the smooth operation of ICT systems in all circumstances, even in the event of major natural and other disasters."
+    }, 
+    {
+        "sentence_id,": "c31c3ff8d0", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Cyber security assurance measures are intended to ensure data integrity as well as the availability, reliability and security of access to services and data."
+    }, 
+    {
+        "sentence_id,": "8c396695cc", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "To achieve the objective of ensuring safe operation and availability of key ICT systems in the event of major natural and other disasters the following measure will be taken: ensuring conditions for smooth operation of key ICT systems in the event of major natural and other disasters."
+    }, 
+    {
+        "sentence_id,": "d688459b92", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "8.8 Strengthening national cyber security through international cooperation Given the global nature of the Internet and thus also the problems of cyber security, international cooperation in ensuring cyber security for Slovenia as a small country is indispensable."
+    }, 
+    {
+        "sentence_id,": "825ca98311", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Such cooperation facilitates good exchanges of experience, knowledge and best practices, all of which contribute to the strengthening of national security."
+    }, 
+    {
+        "sentence_id,": "a14cc2c69a", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards", 
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "Cyber Security Strategy 15 development of international standards of operation in cyberspace and for the implementation of practical confidence-building measures in cooperation with other countries and international partners."
+    }, 
+    {
+        "sentence_id,": "da5ba252ea", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "At the international level, Slovenia will take an active part in knowledge transfer in the area of cyber security."
+    }, 
+    {
+        "sentence_id,": "4463430c67", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "To achieve the objective of national cyber security with international cooperation, the following measure will be taken: ensuring conditions for the participation of Slovenian experts in the relevant international cyber security working bodies and associations."
+    }, 
+    {
+        "sentence_id,": "a37efe6399", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy", 
+                    "system"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "9 Strategy implementation risks The greatest risk to the strategys implementation is insufficient awareness about the importance of cyber security assurance, which goes hand in hand with low general security culture, and the lack of political will and consensus for the systemic regulation of this area at the national level."
+    }, 
+    {
+        "sentence_id,": "ba26efcd17", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "Unsystematic development of such an important area as cyber security assurance would entail very harmful consequences for the state, which would be in the event of large-scale cyber attacks difficult to remedy."
+    }, 
+    {
+        "sentence_id,": "e1061830bd", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy", 
+                    "effective"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "Successful implementation of the strategy will, on the contrary, have a positive impact on the assurance of national security, with positive multiplicative effects associated with the increased level of security."
+    }, 
+    {
+        "sentence_id,": "5079175a39", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "digital"
+                ]
+            }
+        ], 
+        "sentence": "It will also have influence on the increase of users' confidence in the Internet and thus the development of new services and business models associated with its use, which will be reflected in digital economic growth and greater social welfare."
+    }, 
+    {
+        "sentence_id,": "31989ca43a", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "STRENGTHS WEAKNESSES Operational level of cyber security assurance has been established."
+    }, 
+    {
+        "sentence_id,": "93bcbccb80", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Strategic level of cyber security assurance has not been established."
+    }, 
+    {
+        "sentence_id,": "7e155d1769", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "Quality though insufficient human resources at the operational level of the system."
+    }, 
+    {
+        "sentence_id,": "41a03f2549", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "minister", 
+                    "administration"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "digital"
+                ]
+            }
+        ], 
+        "sentence": "OPPORTUNITIES Increased trust of users (businesses, state administration, individuals) in the use of the Internet, which increases its use (B2C, B2B, B2G, G2C), lowers operating costs and, consequently, allows digital growth."
+    }, 
+    {
+        "sentence_id,": "b681e7db8b", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "effective", 
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "THREATS Insufficient awareness of the importance of the area and the associated lack of political will and consensus for rapid and effective action and systemic regulation at national level."
+    }, 
+    {
+        "sentence_id,": "d560ea3348", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "The possibility of system failure in the event of an increase in security incidents if the system is not reinforced."
+    }, 
+    {
+        "sentence_id,": "32ee5ae5e6", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "Table 2: Analysis of strengths, weaknesses, opportunities and threats to strategy implementation 16 Cyber Security Strategy Being a strategic document, cyber security strategy has no direct financial implications; it is a guiding principle of development activities for cyber security assurance."
+    }, 
+    {
+        "sentence_id,": "52d84e2046", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "minister", 
+                    "administration", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "computing", 
+                    "strategy", 
+                    "technology", 
+                    "technology"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "Cyber Security Strategy 17 A List of abbreviations AKOS Agency for Communication Networks and Services of the Republic of Slovenia Arnes Academic and Research Network of Slovenia B2B Business to Business B2C Business to Customer B2G Business to Government CERT Computer Emergency Response Team ENISA European Union Agency for Network and Information Security EU European Union G2C Government to Customer HKOM State bodies communication network ICT Information and communications technology IT Information technology ITU International Telecommunication Union NATO North Atlantic Treaty Organization OSCE Organisation for Security and Cooperation in Europe SI-CERT Slovenian National Computer Emergency Response Team SIGOV-CERT Public Administration Computer Emergency Response Team SOVA Slovenian Intelligence and Security Agency UN United Nations 18 Cyber Security Strategy"
+    }
+]

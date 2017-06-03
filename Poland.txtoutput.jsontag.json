@@ -1,0 +1,3552 @@
+[
+    {
+        "sentence_id,": "fbfc1fb7cd", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection", 
+                    "minister", 
+                    "administration", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "computing", 
+                    "effective", 
+                    "digital", 
+                    "assessment"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "monitor", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "ASSESSMENT OF EFFECTIVENESS OF THE POLICY .................................................................... 22 6.1 EXPECTED EFFECTS OF THE POLICY ............................................................................................................................. 23 6.2 EFFECTIVENESS OF ACTIONS .......................................................................................................................................... 24 6.3 MONITORING THE EFFECTIVENESS OF ACTIONS AS A PART OF THE ADOPTED POLICY ........................................ 24 6.4 CONSEQUENCES OF VIOLATING THE PROVISIONS OF THE POLICY ........................................................................... 24 ----------------------- Page 4----------------------- This document has been drawn up in the Ministry of Administration and Digitization in cooperation with the Internal Security Agency, based on: the document discussed on 9 March 2009 by the Standing Committee of the Council of Ministers, The Government Cyberspace Protection Programme of the Republic of Poland for 2009-2011 Principles, the periodic reports on the security status of the gov.pl area, published by the Governmental Computer Security Incident Response Team CERT.GOV.PL, the decision of the Chairman of the Committee of the Council of Ministers for Digitization No."
+    }, 
+    {
+        "sentence_id,": "f88f192030", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection", 
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "1/2012 of 24 January 2012 with regard to the creation of a Task force for the protection of governmental portals."
+    }, 
+    {
+        "sentence_id,": "35e9a8fe8d", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The main prerequisites and assumptions of the Cyberspace Protection Policy of the Republic of Poland In the face of globalization, the cyberspace security has become one of the key strategic objectives in the area of security of each country."
+    }, 
+    {
+        "sentence_id,": "7502958c14", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "At a time of free movement of people, goods, information and capital the security of a democratic country depends on the development of mechanisms which allow preventing and combating threats to the cyberspace security."
+    }, 
+    {
+        "sentence_id,": "7eb2398e59", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "effective", 
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "Due to the increase in threats to the ICT systems, from which the total separation is not possible, and the fact that the responsibility for ICT security is distributed, it is necessary to coordinate actions which will allow for a fast and effective response to attacks directed against ICT systems and services offered by them."
+    }, 
+    {
+        "sentence_id,": "4b1105e9e4", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection", 
+                    "minister", 
+                    "administration", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The ICT systems operated by the government administration, the legislative authorities, the judiciary, local government, as well as the strategic systems from the point of view of the security of the State as well as entrepreneurs and natural persons are covered by this Cyberspace Protection Policy of the Republic of Poland, hereinafter referred to as the Policy."
+    }, 
+    {
+        "sentence_id,": "291952df75", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "By this Policy, the Government of the Republic of Poland accepts that by its representatives it takes an active role in ensuring the security of information assets of the State, its citizens, and it executes its constitutional duties."
+    }, 
+    {
+        "sentence_id,": "e8da258616", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "A part of the Policy includes the support for social initiatives aimed at implementing the tasks coinciding with this document."
+    }, 
+    {
+        "sentence_id,": "111389ba60", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "consultant"
+                ]
+            }
+        ], 
+        "sentence": "The Government of the Republic of Poland, in fulfilling the constitutional obligations implemented by cyberspace, consults organized groups of society, in particular the representatives of telecommunications entrepreneurs and purveyors providing services by electronic means, to agree on an acceptable level of security of execution of obligations in question."
+    }, 
+    {
+        "sentence_id,": "55c11d8369", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy", 
+                    "system"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "strategy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Accepting the status of the Policy for this document, it should be noted that under the current system of governmental strategic documents a Policy is in the group of strategic documents detailing the courses of action identified in the strategies, development programmes and other programme documents, which do not specify new priorities and activities."
+    }, 
+    {
+        "sentence_id,": "b058444cb2", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The Policy does not cover with its task area the classified ICT systems."
+    }, 
+    {
+        "sentence_id,": "4afd2edffb", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection"
+                ]
+            }
+        ], 
+        "sentence": "It should be emphasized that the area of protection of classified information has its own regulations and appropriate protective mechanisms."
+    }, 
+    {
+        "sentence_id,": "437d7f0f15", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "It has the organizational structures dedicated to the protection of classified information produced, processed and stored in separate ICT systems."
+    }, 
+    {
+        "sentence_id,": "683034eea9", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection"
+                ]
+            }
+        ], 
+        "sentence": "The main legislative act is the Act of 5 August 2010 on the protection of classified information (OJ No."
+    }, 
+    {
+        "sentence_id,": "e67fc5412a", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "computing", 
+                    "system"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "Definitions The meaning of terms and abbreviations used in this document: Abuse a common name of a security department of an internet service provider who manages the computer security incident response process and the examination of complaints of abuse, cyberspace security a set of organizational and legal, technical, physical and educational projects aimed at ensuring the uninterrupted functioning of cyberspace, CERT (Computer Emergency Response Team), CSIRT (Computer Security Incident Response Team) a team set up to respond to incidents violating security on the Internet, cyber attack an intentional disruption of the proper functioning of cyberspace, cybercrime an offence committed in cyberspace, cyberspace a space of processing and exchanging information created by the ICT systems, as defined in Article 3 point 3 of the Act of 17 February 2005 on the informatization of entities performing public tasks (OJ No."
+    }, 
+    {
+        "sentence_id,": "716fdc3f13", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "law"
+                ]
+            }
+        ], 
+        "sentence": "64, item 565, as amended), together with links between them and the relations with users; in accordance with Article 2 paragraph 1b of the Act of 29 August 2002 on martial law and the powers of the Supreme Commander of the Armed Forces as well as the Commanders subordination to the constitutional authorities of the Republic of Poland (OJ No."
+    }, 
+    {
+        "sentence_id,": "810d1f8c01", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "computing"
+                ]
+            }
+        ], 
+        "sentence": "62, item 558, as amended), cyberspace of the Republic of Poland (hereinafter referred to as CRP) cyberspace within the territory of the Polish state and beyond, in places where the representatives of the RP are functioning (diplomatic agencies, military levies), cyberterrorism an offence of a terrorist nature committed in cyberspace, computer security incident a single event or a series of adverse events related to information security which pose a significant likelihood of disruption of business operations and jeopardize the security of information (according to the PN-ISO/IEC 27000 norm series), organizational unit an organizational unit within the meaning of the Act of 23 April 1964 Civil Code (OJ No."
+    }, 
+    {
+        "sentence_id,": "df0d0b37b1", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "freedom", 
+                    "secure", 
+                    "minister", 
+                    "administration"
+                ]
+            }
+        ], 
+        "sentence": "16, item 93, as amended), PCS a plenipotentiary for cyberspace security in organizational units of public administration, entrepreneur an entrepreneur within the meaning of Article 4 of the Act of 2 July 2004 on freedom of economic activity (OJ of 2010, No."
+    }, 
+    {
+        "sentence_id,": "e651cb9b70", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "minister", 
+                    "administration"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "digital", 
+                    "assessment"
+                ]
+            }
+        ], 
+        "sentence": "220, item 1447, as amended) or any other organizational unit, regardless of the form of ownership, risk assessment means the total risk analysis, which consists of: risk identification Ministry of Administration and Digitisation, Internal Security Agency Page 5 of 24 ----------------------- Page 7----------------------- and determination of extent of risks, as well as the risk assessment process, cyberspace user each organizational unit, an office supporting a public administration authority, an entrepreneur and a natural person who uses the resources of cyberspace."
+    }, 
+    {
+        "sentence_id,": "6fee4ac27b", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Strategic Objective The strategic objective of the Policy is to achieve an acceptable level of cyberspace security of the State."
+    }, 
+    {
+        "sentence_id,": "be134e0749", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "effective", 
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "The achievement of the strategic objective is accomplished by creating a legal and organizational framework and a system for effective coordination and exchange of information between the users of CRP."
+    }, 
+    {
+        "sentence_id,": "4d7e04bf6c", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "assessment"
+                ]
+            }
+        ], 
+        "sentence": "Actions undertaken to achieve the strategic objective are the result of risk assessments conducted by the qualified entities, with respect to threats occurring in cyberspace."
+    }, 
+    {
+        "sentence_id,": "285bd6bf25", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy", 
+                    "digital"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "strategy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "At the same time, the Policy is in line with the objectives of: 1) the Digital Agenda for Europe of the European Council [COM(2010)245]; 2) the Strategy for Development of Information Society; 3) the National Security Strategy; 4) the Medium-Term National Development Strategy; 5) the Europe 2020 Strategy; 6) the Efficient State Strategy."
+    }, 
+    {
+        "sentence_id,": "cf8b693f09", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Specific Objectives 1) Increasing the level of security of the State ICT infrastructure."
+    }, 
+    {
+        "sentence_id,": "589aef9bf8", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "3) Reducing the impact of incidents threatening the ICT security."
+    }, 
+    {
+        "sentence_id,": "f22ce7099d", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "4) Determining the competence of entities responsible for the security of cyberspace."
+    }, 
+    {
+        "sentence_id,": "2f2d579a22", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "minister", 
+                    "administration", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "5) Creating and implementing a coherent system of cyberspace security management for all government administration entities and establishing guidelines in this area for non-state actors."
+    }, 
+    {
+        "sentence_id,": "99f916e1c2", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "6) Creating a sustainable system of coordination and exchange of information between the entities responsible for the security of cyberspace and the cyberspace users."
+    }, 
+    {
+        "sentence_id,": "cf056ce9d0", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "minister", 
+                    "administration", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "digital", 
+                    "system"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "Page 6 of 24 Ministry of Administration and Digitisation, Internal Security Agency ----------------------- Page 8----------------------- The objectives of the Policy are implemented through: a) the coordination system to prevent and respond to threats and attacks on cyberspace, including attacks of a terrorist nature; b) the widespread adoption of mechanisms for the prevention and early detection of threats to the cyberspace security and the proper procedure for the identified incidents among the government administration units as well as non-state actors; c) the general and specialized social education in the field of security of CRP."
+    }, 
+    {
+        "sentence_id,": "3dec98ecdc", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Addressees and extent of impact The Policy is addressed to all the cyberspace users within the State and beyond its territory, in places where the representatives of the RP are functioning (diplomatic agencies, military levies)."
+    }, 
+    {
+        "sentence_id,": "aa80a6a1cc", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "minister", 
+                    "administration", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "This Policy applies to the government administration: 1) offices supporting the state bodies of government administration: Prime Minister, the Council of Ministers, ministers and chairmen specified in statutes of committees; 2) offices supporting central bodies of government administration: other than the above-mentioned, i.e."
+    }, 
+    {
+        "sentence_id,": "839935c35f", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "minister", 
+                    "administration", 
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "bodies subordinate to the Prime Minister or individual ministers; 3) offices supporting local bodies of government administration: province governors, bodies of combined and non-combined administration; 4) Government Centre for Security."
+    }, 
+    {
+        "sentence_id,": "747f4b3dbe", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "law", 
+                    "human rights", 
+                    "protection", 
+                    "minister", 
+                    "administration", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "At the same time the Policy is recommended for local government administration of communes, districts and provinces and other offices (units which do not belong to the state and local government administration), including: a) Chancellery of the President of the Republic of Poland; b) Chancellery of the Sejm of the Republic of Poland; c) Chancellery of the Senate of the Republic of Poland; d) Office of the National Broadcasting Council; e) Office of the Human Rights Defender; f) Office of the Childrens Ombudsman; g) Office of the National Council of the Judiciary of Poland; h) offices of state control bodies and protection of the law; i) National Bank of Poland; j) office of the Polish Financial Supervision Authority; k) state legal persons and state organizational units other than the above- mentioned."
+    }, 
+    {
+        "sentence_id,": "2a45ee39c3", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "minister", 
+                    "administration"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "digital"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Ministry of Administration and Digitisation, Internal Security Agency Page 7 of 24 ----------------------- Page 9----------------------- The Policy is at the same time a guide to actions for all other users of cyberspace who are not mentioned above."
+    }, 
+    {
+        "sentence_id,": "11d9b9cfc7", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "minister"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Establishing responsibility for the security of CRP Due to the international nature of the Policy the entity coordinating the implementation of the Policy, on behalf of the Council of Ministers, is the minister responsible for informatization who, with the help of the Team referred to in point 3.4.1, ensures coordination and consistency of actions undertaken to ensure the security of CRP."
+    }, 
+    {
+        "sentence_id,": "6530b0085b", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "minister", 
+                    "administration", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "computing"
+                ]
+            }
+        ], 
+        "sentence": "In the implementation of tasks relating to the security of CRP the Governmental Computer Security Incident Response Team CERT.GOV.PL is acting as the primary CERT in the area of government administration and the civil area."
+    }, 
+    {
+        "sentence_id,": "88f9b6b4ac", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection", 
+                    "minister", 
+                    "administration"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "The main task is to provide and develop the capacity of organizational units of public administration of the Republic of Poland to protect against cyber threats, with particular emphasis on attacks targeted at infrastructure including ICT systems and networks, destruction or disruption of which could pose a threat to human life, health, national heritage and the environment to a significant extent, or cause serious property damage and disrupt the functioning of the state."
+    }, 
+    {
+        "sentence_id,": "9e19ca1506", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Similarly, in the military this role is performed by Departmental Centre for Security Management of ICT Networks and Services."
+    }, 
+    {
+        "sentence_id,": "f0623c391b", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "For the success of the Policy, an active participation of users of CRP in the efforts aimed at improving the level of its security is essential."
+    }, 
+    {
+        "sentence_id,": "440921a852", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "consultant"
+                ]
+            }
+        ], 
+        "sentence": "It is also important to increase the participation of users of CRP in the implementation of the Policy by consulting its content and participation in the coordination of the implementation of the Policy and its reviews with the representatives of society and ICT community."
+    }, 
+    {
+        "sentence_id,": "610bcb9a29", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "The general use of solutions aimed at improving the security by the users of CRP will be an expression of approval for the actions undertaken by the Government of the Republic of Poland in this area."
+    }, 
+    {
+        "sentence_id,": "0b9bb79002", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "law"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Compliance of the Policy with legal acts The Policy is in compliance with the generally applicable laws of the Republic of Poland (the Constitution, acts, ratified international agreements and regulations) and without prejudice to any of them."
+    }, 
+    {
+        "sentence_id,": "3247675d14", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "technology"
+                ]
+            }
+        ], 
+        "sentence": "Conditions and problems of the cyberspace area Functioning of the State and the implementation of its constitutional obligations is increasingly dependent on the development of modern technology, information society and uninterrupted functioning of cyberspace."
+    }, 
+    {
+        "sentence_id,": "e2af9b86f8", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Currently, the safe functioning of cyberspace largely depends on the security of ICT infrastructure, which allows the use of cyberspace, information resources and services gathered in it, operating thanks to it."
+    }, 
+    {
+        "sentence_id,": "e20ec662b6", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "minister", 
+                    "administration", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "effective"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "The infrastructure functioning in CRP allows the State to fulfil its constitutional obligation to the citizen, ensures continuity and effectiveness of government administration as well as uninterrupted and efficient development of the economy of the Republic of Poland."
+    }, 
+    {
+        "sentence_id,": "088937e133", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Polish government sees the need to introduce measures aimed at ensuring the security of the State ICT infrastructure, namely ensuring the correctness and continuity of functioning of ICT systems, facilities and installations used to implement the constitutional duties of the State to the citizens and its internal security."
+    }, 
+    {
+        "sentence_id,": "03248bee02", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "For this purpose it is necessary to determine the minimum security standard which will allow for the implementation of this objective and will reduce to the minimum potential damage which may be entailed by attack on individual elements of cyberspace of RP."
+    }, 
+    {
+        "sentence_id,": "cad5ecd679", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "minister", 
+                    "administration", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "structure", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The Policy is the basis for developing the concept of management of infrastructure security functioning within CRP and developing guidelines for the creation of the legal basis serving the implementation of tasks in this regard by the government administration."
+    }, 
+    {
+        "sentence_id,": "ada7354704", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "The principles of ensuring cyberspace security developed under the cooperation referred to in point 4.4, within the infrastructure of CRP are also recommended to entrepreneurs."
+    }, 
+    {
+        "sentence_id,": "d00ed8c019", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "The actions concerning the security of ICT infrastructure will be complementary to the efforts aimed at protection of the critical infrastructure of the State."
+    }, 
+    {
+        "sentence_id,": "931496c50c", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "structure", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "In this respect, the Policy does not affect the provisions contained in the National Critical Infrastructure Protection Programme."
+    }, 
+    {
+        "sentence_id,": "20476aa68c", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "minister", 
+                    "administration", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "structure", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The Policy indicates the need to develop the concept of ensuring security of infrastructure functioning within CRP and prepare legal basis for performance of tasks in this regard by the government administration."
+    }, 
+    {
+        "sentence_id,": "e8907e37ce", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "The ICT infrastructure of CRP must be protected against attacks from cyberspace, destruction, damage or unauthorized access."
+    }, 
+    {
+        "sentence_id,": "c415cb9f58", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system", 
+                    "assessment"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "As a part of actions connected with the implementation of the Policy a risk assessment is carried out with regard to the identification of resources, sub-systems, functions and dependencies on other systems relevant to the functioning of CRP."
+    }, 
+    {
+        "sentence_id,": "b027a520a7", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "At the same time, the implementation of the Policy will allow for the development of target guidelines for performance of risk estimates and model of reports containing general data on types of risks, threats and vulnerabilities identified in each of the sectors of the Polish economy in relation to the constitutional tasks carried out on the basis of CRP."
+    }, 
+    {
+        "sentence_id,": "61cee19583", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards", 
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "There is a need to develop, on the basis of the conducted risk analysis, the minimum safety standards according to which the identified resources and systems will be protected, thanks to which the constitutional obligations of the State are fulfilled."
+    }, 
+    {
+        "sentence_id,": "696365fd8c", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The main lines of action The Policy will be implemented through the following actions, in accordance with the priorities resulting from the order shown."
+    }, 
+    {
+        "sentence_id,": "2767761f9c", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "assessment"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "Risk Assessment The assessment of risk associated with the functioning of cyberspace is a key element of the process of cyberspace security, determining and justifying the actions undertaken to reduce it to an acceptable level."
+    }, 
+    {
+        "sentence_id,": "e59150c8ff", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "minister", 
+                    "administration", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "assessment"
+                ]
+            }
+        ], 
+        "sentence": "In order to achieve an acceptable level of security, it is assumed that each government administration unit, referred to in point 1.4 (points 1-4), shall, no later than January 31 each year, submit to the minister responsible for informatization the report summarizing the results of the risk assessment (in accordance with the model developed by the minister responsible for informatization)."
+    }, 
+    {
+        "sentence_id,": "ea46d42bf3", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "institution"
+                ]
+            }
+        ], 
+        "sentence": "The report should contain general information on types of risks, threats and vulnerabilities diagnosed in each of the sectors which an individual institution is operating in and is responsible for."
+    }, 
+    {
+        "sentence_id,": "5917ac2036", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "institution", 
+                    "minister"
+                ]
+            }
+        ], 
+        "sentence": "Minister responsible for informatization in collaboration with the involved institutions will determine the uniform methodology for performing risk analyses."
+    }, 
+    {
+        "sentence_id,": "187a034612", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "institution", 
+                    "minister", 
+                    "administration", 
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "There is a necessity for the use of this methodology to be eventually mandatory for the institutions of government administration."
+    }, 
+    {
+        "sentence_id,": "620c2add8e", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "minister", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "computing"
+                ]
+            }
+        ], 
+        "sentence": "It is recommended that the Governmental Computer Security Incident Response Team CERT.GOV.PL presented to the minister responsible for informatization, in order to unify the approach, complied directories containing the specification of the risks and possible vulnerabilities affecting the security of cyberspace."
+    }, 
+    {
+        "sentence_id,": "45fca81f02", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "minister", 
+                    "administration", 
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "The security of government administration portals The main place for exchanging information between the government administration units and a citizen, in e-society, are websites."
+    }, 
+    {
+        "sentence_id,": "afa58fb91b", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "assessment"
+                ]
+            }
+        ], 
+        "sentence": "Each organizational unit should independently assess the risk (referred to in point 3.1) for its portals."
+    }, 
+    {
+        "sentence_id,": "9c46fad449", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "assessment"
+                ]
+            }
+        ], 
+        "sentence": "It is assumed that on this basis the appropriate (depending on the type of site and the results of the risk assessment) organizational and technical solutions will be implemented so as to ensure an adequate level of security."
+    }, 
+    {
+        "sentence_id,": "07e2d5b856", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection", 
+                    "minister", 
+                    "administration", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "computing", 
+                    "digital"
+                ]
+            }
+        ], 
+        "sentence": "It is proposed that the government administration units running Internet portals, in addition to complying with the minimum requirements, implement also the relevant Page 10 of 24 Ministry of Administration and Digitisation, Internal Security Agency ----------------------- Page 12----------------------- recommendations and good practices in the field of security, which will be prepared by the Task force for the protection of government portals in cooperation with the Governmental Computer Security Incident Response Team CERT.GOV.PL."
+    }, 
+    {
+        "sentence_id,": "4664404479", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "minister"
+                ]
+            }
+        ], 
+        "sentence": "The Council of Ministers, understanding a high priority of these actions, notices the need for their initiation by the minister responsible for informatization in order to create regulations which give grounds for further actions in the implementation of the provisions of the Policy."
+    }, 
+    {
+        "sentence_id,": "5eb0bef3df", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "institution", 
+                    "secure", 
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "It is necessary to review the existing regulations with a view to the preparation of solutions aimed at increasing the sense of security, not only of government institutions, but of all the users of cyberspace."
+    }, 
+    {
+        "sentence_id,": "b30a13af47", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Principles of procedural and organizational actions An important step in the implementation of the Policy will be the procedural and organizational actions."
+    }, 
+    {
+        "sentence_id,": "0d6a907ae2", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Their aim is to optimize the functioning of CRP through the implementation of best practices and standards in this area."
+    }, 
+    {
+        "sentence_id,": "0af2cb5f6b", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "minister"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "effective"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Management of the cyberspace security of the Republic of Poland As a part of the management of the cyberspace security of the RP, as well as to improve the process of implementation of the Policy objectives and to ensure effectiveness of the State authorities in the field of security of CRP, it is necessary for the Prime Minister to appoint a team responsible for the preparation of recommendations concerning the implementation and coordination of any actions related to its security (hereinafter referred to as the Team)."
+    }, 
+    {
+        "sentence_id,": "6b832685fa", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection", 
+                    "minister", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "digital"
+                ]
+            }
+        ], 
+        "sentence": "The Team may be organized with the use of the existing potential of the Task force for the protection of government portals, appointed by the Chairman of the Committee of the Council of Ministers for the Digitization by the Decision No."
+    }, 
+    {
+        "sentence_id,": "6279b9bfef", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "It is recommended that the Team, within 30 days from the date of appointment, prepared and presented an action plan to ensure the security of cyberspace of the Republic of Poland."
+    }, 
+    {
+        "sentence_id,": "d2bf84a3e2", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "The primary task of the Team shall be recommending actions aimed at coordination 1 A soft regulation means, for example, codes of good practice, guidelines, recommendations, code of ethics, etiquette, best practices or standards, etc."
+    }, 
+    {
+        "sentence_id,": "f33bf65ecb", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "institution", 
+                    "secure", 
+                    "minister", 
+                    "administration"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "digital"
+                ]
+            }
+        ], 
+        "sentence": "Ministry of Administration and Digitisation, Internal Security Agency Page 11 of 24 ----------------------- Page 13----------------------- of activities of the institutions carrying out the tasks imposed by the Policy, organization of regular meetings, recommending the proposed solutions for the security of CRP."
+    }, 
+    {
+        "sentence_id,": "ebbcb4cff6", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "minister", 
+                    "administration", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "computing"
+                ]
+            }
+        ], 
+        "sentence": "It is assumed that as for the implementation of tasks related to the security of CRP in the area of government administration and the civil area, the role of the main CERT is performed by the Governmental Computer Security Incident Response Team CERT."
+    }, 
+    {
+        "sentence_id,": "4be5b786af", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Similarly, in the military this role is performed by Departmental Centre for Security Management of ICT Networks and Services."
+    }, 
+    {
+        "sentence_id,": "a72223afa9", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "minister", 
+                    "administration", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "The safety management system in organizational unit In each organizational unit of government administration, as a part of ensuring the cyberspace security, the head of the unit should establish an information security management system, in accordance with the applicable provisions and best practice."
+    }, 
+    {
+        "sentence_id,": "a0a0c2a092", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "It is assumed that the public body will develop and modify according to the needs, and implement a security policy for ICT systems used by it for the execution of public tasks."
+    }, 
+    {
+        "sentence_id,": "c09478b1a6", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "While developing the security policy a public body includes obligations arising from the Act of 17 February 2005 on the informatization of entities performing public tasks (OJ No."
+    }, 
+    {
+        "sentence_id,": "076dfcfa64", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "64, item 565, as amended) concerning the minimum requirements for ICT systems in the field of information security."
+    }, 
+    {
+        "sentence_id,": "e79018ba8b", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "minister"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "consultant"
+                ]
+            }
+        ], 
+        "sentence": "In order to ensure consistency of information security policies of organizational units, it is assumed that the minister responsible for informatization in consultation with the Minister of National Defence and the Head of the Internal Security Agency may prepare guidelines for information security management systems."
+    }, 
+    {
+        "sentence_id,": "2537fa3523", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "minister", 
+                    "administration", 
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "The role of plenipotentiaries for cyberspace security The organizational units of government administration should define the role of a plenipotentiary for cyberspace security (hereinafter referred to as PCS)."
+    }, 
+    {
+        "sentence_id,": "51be40d041", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "computing"
+                ]
+            }
+        ], 
+        "sentence": "The tasks of a plenipotentiary within the scope of cyberspace security shall include in particular: 1) implementation of the obligations arising from the provisions of legal acts relevant to ensure cyberspace security; 2) development and implementation of procedures for responding to computer incidents which will apply in the organization; 3) identification and conducting periodic risk analyses; 4) preparation of emergency plans and testing them; 5) development of procedures to ensure information of appropriate CERTs about: a) the occurrence of computer incidents, b) the relocation of an organizational unit, contact information, etc."
+    }, 
+    {
+        "sentence_id,": "a432ff8923", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "structure", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The Policy does not indicate the location of a plenipotentiary for cyberspace security in the structure of an organizational unit, however, the role of a plenipotentiary should be assigned to the person responsible for carrying out the process of ICT security."
+    }, 
+    {
+        "sentence_id,": "df9ed1aa5a", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "minister"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "Principles of education, training and awareness- raising in the field of security As a part of execution of the Policy, the Council of Ministers recognizes the need to begin work on the implementation of educational activities."
+    }, 
+    {
+        "sentence_id,": "587286af0b", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "Training of plenipotentiaries for cyberspace security In order to improve qualifications there is a need to develop a training system for plenipotentiaries for cyberspace security."
+    }, 
+    {
+        "sentence_id,": "04f5daa777", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "The project of trainings should place emphasis on the issue of responding to incidents relating to the cyberspace security."
+    }, 
+    {
+        "sentence_id,": "d302b8e6c0", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "Introduction of ICT security topics as a permanent element of higher education One of the fundamental aspects of ensuring security of CRP is highly qualified personnel working in the public and private sectors, responsible for maintenance of ICT systems with particular emphasis on resources crucial for the safety of the state."
+    }, 
+    {
+        "sentence_id,": "c6e464ebf5", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "institution", 
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "In order to ensure a continuous supply of well-trained professionals in the field of ICT security it is necessary to involve higher education institutions in achieving the objectives of the Policy."
+    }, 
+    {
+        "sentence_id,": "409f330e53", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "The issues relating to the cyberspace security should become a permanent element of education."
+    }, 
+    {
+        "sentence_id,": "4be1429e88", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "institution"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "computing"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "This applies in particular to technical higher education institutions teaching computer scientists."
+    }, 
+    {
+        "sentence_id,": "3c2c67275b", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection", 
+                    "minister", 
+                    "administration"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "computing", 
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "The situation where designers, computer programmers focus exclusively on functionality, forgetting the principles of creating a secure code, and system administrators give priority to the availability of resources of users forgetting the need to protect the processed information from intruders should be prevented from happening."
+    }, 
+    {
+        "sentence_id,": "b054962cd8", 
+        "tag": [
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "For this purpose it is necessary to take into account the issues of ICT safety among the outcomes of education specified in the 2 National Qualification Framework for Higher Education."
+    }, 
+    {
+        "sentence_id,": "3db74185cf", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "minister", 
+                    "administration", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "Education of clerical staff in government administration The Council of Ministers notices the need for education of government administration employees having access to and using CRP, in the scope of issues concerning the security of ICT systems according to their positions and risks associated with them."
+    }, 
+    {
+        "sentence_id,": "57bc03667f", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "minister"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "2 Regulation of the Minister of Science and Higher Education of 2 November 2011 on the National Qualification Framework for Higher Education, OJ No."
+    }, 
+    {
+        "sentence_id,": "9ba3560bb2", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "Social campaign of educational and preventive nature The widespread use of systems connected to the Internet by the citizens and the increasing importance of the availability of services offered by cyberspace forces the necessary to raise awareness of the safe methods of using the Internet and to sensitize the citizens to the emerging threats."
+    }, 
+    {
+        "sentence_id,": "cbca22299b", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "effective"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "Only responsible behaviour of appropriately educated user can effectively minimize the risks arising from the existing threats."
+    }, 
+    {
+        "sentence_id,": "e4fbd15edb", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "It should be emphasized that in the modern world the assurance of ICT security is largely dependent on the knowledge and actions of each user of cyberspace."
+    }, 
+    {
+        "sentence_id,": "37ef0b815b", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "institution"
+                ]
+            }
+        ], 
+        "sentence": "Due to the fact that both individuals as well as public institutions, entrepreneurs, social organizations are at risk of crime in cyberspace, the campaign will be multi- dimensional and will take into account the necessary diversity of forms and content of communication, depending on the needs of its recipients."
+    }, 
+    {
+        "sentence_id,": "205c4670cd", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "minister", 
+                    "administration", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Due to the ICT security conditioning the implementation of public tasks, the addressees of information campaigns will be, in particular, government administration employees and entities whose resources are included in the ICT infrastructure of CRP."
+    }, 
+    {
+        "sentence_id,": "5df8e60f24", 
+        "tag": [
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "It is assumed that the educational and preventive campaign will be directed to the public, and in particular: 1) children and youth as the group most susceptible to influence."
+    }, 
+    {
+        "sentence_id,": "c6605a621d", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "Education should begin already from an early age in order to develop habits which will protect young people from the dangers lurking on the Web (e.g."
+    }, 
+    {
+        "sentence_id,": "d0312d9559", 
+        "tag": [
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "Knowledge about the dangers of cyberspace should be received by a child, in the first place, at school at all levels of education (primary school, lower secondary school, upper-secondary school)."
+    }, 
+    {
+        "sentence_id,": "70c9eaf855", 
+        "tag": [
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "2) parents as those responsible for the education of successive generations."
+    }, 
+    {
+        "sentence_id,": "2fcb5ea7f8", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "effective"
+                ]
+            }
+        ], 
+        "sentence": "With the aim to effectively oversee the activities of a child on the Internet, parents should get adequate knowledge about the dangers of cyberspace and the methods of their elimination."
+    }, 
+    {
+        "sentence_id,": "38d6842e09", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "minister"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "3) teachers since 2004, the education of teachers within the specializations has taken place in accordance with the Regulation of the Minister of National 3 Education, defining the standards of teacher education."
+    }, 
+    {
+        "sentence_id,": "bb99a6bed1", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "system", 
+                    "technology"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "As a part of the mandatory classes of higher education teachers gain basic knowledge in the field of information technology, including the safe and conscious use of ICT systems."
+    }, 
+    {
+        "sentence_id,": "0098279ed5", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "minister"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "3 Regulation of the Minister of National Education and Sport of 7 September 2004 on teacher education standards (OJ No."
+    }, 
+    {
+        "sentence_id,": "dcfd98a451", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "institution", 
+                    "secure", 
+                    "minister", 
+                    "administration"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "digital"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "Page 14 of 24 Ministry of Administration and Digitisation, Internal Security Agency ----------------------- Page 16----------------------- Social campaign directed at children, youth and their parents should be largely implemented in educational institutions of all levels."
+    }, 
+    {
+        "sentence_id,": "bae2ceeba6", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "effective"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Mass media as an important partner in promoting security issues, CRP and popularization of projects contained in the Policy will improve the effectiveness of execution of the objectives."
+    }, 
+    {
+        "sentence_id,": "9e5ba8738b", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "With its help during the implementation of the Policy it will be also possible to carry out informational and educational campaigns."
+    }, 
+    {
+        "sentence_id,": "fae5b5255a", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "minister", 
+                    "administration", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "computing", 
+                    "digital"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "The assumption is that as a part of the social campaign information about the ICT security and educational and organizational and legal undertakings within the Policy will be presented on the websites of the Ministry of Administration and Digitization and on the website of the Governmental Computer Security Incident Response Team CERT.GOV.PL."
+    }, 
+    {
+        "sentence_id,": "db21c05557", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "effective"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "At the same time, an effective communication of content, initiatives and results of the Policy to broad social and professional circles is assumed."
+    }, 
+    {
+        "sentence_id,": "25ffa80516", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "plan for dealing with risk), the last stage of implementation of the Policy should be technical actions."
+    }, 
+    {
+        "sentence_id,": "aa5527a866", 
+        "tag": [
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "Their goal will be to reduce the risk of threats from CRP."
+    }, 
+    {
+        "sentence_id,": "bacc822a79", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "effective"
+                ]
+            }
+        ], 
+        "sentence": "Research programmes Supporting research initiatives relating to the ICT security is essential for the effective implementation of the Policy."
+    }, 
+    {
+        "sentence_id,": "8a5560b03c", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "minister", 
+                    "administration"
+                ]
+            }
+        ], 
+        "sentence": "The formula of support should encourage to conducting joint research by the actors in the sphere of ICT security from the sphere of public administrations, research centres and telecommunications companies and purveyors providing services by electronic means."
+    }, 
+    {
+        "sentence_id,": "675c30d4be", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "minister"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "It is assumed that the entity coordinating the implementation of the Policy provisions in this regard will be the Ministry of Science and Higher Education (MNiSW), as the one responsible for the research and development work."
+    }, 
+    {
+        "sentence_id,": "e770cb1956", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The list of initiatives which take account of the dynamics of the state of knowledge will be defined at the level of specific projects, developed on the basis of the Policy and may be revised at the initiative of the competent bodies responsible for its implementation."
+    }, 
+    {
+        "sentence_id,": "3085a09430", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "minister", 
+                    "administration", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "effective", 
+                    "digital", 
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "Expansion of ICT security incident response teams in government administration In order to be able to effectively carry out activities related to ensuring the security of CRP, including response to ICT security incidents, it is necessary to provide adequate technical facilities which will not only enable the execution of current tasks, but will Ministry of Administration and Digitisation, Internal Security Agency Page 15 of 24 ----------------------- Page 17----------------------- also take into account the increasing demand for specialized ICT systems in the future."
+    }, 
+    {
+        "sentence_id,": "e8445e8fa2", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "computing", 
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "All the teams, after the unification of responsibilities and response procedures, as well as determination of the constituency, would create a national computer security incident response system, which, in addition to cooperation, would also cover joint conferences, training and exercises."
+    }, 
+    {
+        "sentence_id,": "e2b0db9d3b", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "computing", 
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "Development of an early warning system and implementation and maintenance of preventive solutions The ICT Security Department of the Internal Security Agency together with the CERT Poland, which is part of the Research and Academic Computer Network (NASK), has implemented an early warning system against threats from the Internet ARAKIS-GOV."
+    }, 
+    {
+        "sentence_id,": "19b1c44154", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "Development of the system will be implemented in accordance with the specific project."
+    }, 
+    {
+        "sentence_id,": "88e9f1abba", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "technology"
+                ]
+            }
+        ], 
+        "sentence": "At the same time, bearing in mind the progress taking place in ICT technologies and the related trend of emergence of increasingly sophisticated threats, taking initiatives to promote the creation of more and more modern solutions supporting the ICT security is assumed during the implementation of the Policy."
+    }, 
+    {
+        "sentence_id,": "61465fea8f", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "The aim should be to use the widest possible range of different types of security systems to ensure the security of critical ICT resources."
+    }, 
+    {
+        "sentence_id,": "3703b82e3b", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection"
+                ]
+            }
+        ], 
+        "sentence": "Testing the level of security and the continuity of actions As a part of testing the level of security and ensuring continues implementation of processes of CRP, the PCS should organize and coordinate periodic tests of both the level of technical, organizational protection and procedural solutions (e.g."
+    }, 
+    {
+        "sentence_id,": "f06c14ebc1", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "evaluate"
+                ]
+            }
+        ], 
+        "sentence": "The results of exercises will be used for evaluation of the current resistance of cyberspace to attacks, while the conclusions will form the basis for the preparation of recommendations for further preventive measures."
+    }, 
+    {
+        "sentence_id,": "6e4a988ace", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Development of security teams The CERT-type teams are competency centres offering substantive help at the stage of creating appropriate structures and procedures."
+    }, 
+    {
+        "sentence_id,": "a7cd9b3594", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "minister", 
+                    "administration", 
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "In addition, they are also used to solve problems during their operation in various organizational units of government administration or of entrepreneurs."
+    }, 
+    {
+        "sentence_id,": "09d6160d55", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "computing"
+                ]
+            }
+        ], 
+        "sentence": "Moreover, the tasks of Computer Security Incident Response Teams should include maintaining internal informational sites."
+    }, 
+    {
+        "sentence_id,": "703f1cd15d", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "institution", 
+                    "secure", 
+                    "minister", 
+                    "administration", 
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "The sites will be the main sources of information about the ICT security for people involved in ICT security in government administration institutions, as well as other persons interested in this subject."
+    }, 
+    {
+        "sentence_id,": "9ce6470b9e", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "minister", 
+                    "administration"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "digital"
+                ]
+            }
+        ], 
+        "sentence": "Page 16 of 24 Ministry of Administration and Digitisation, Internal Security Agency ----------------------- Page 18----------------------- In particular, the site will be a place for publication of the following information: 1) news related to ICT security; 2) information about potential risks and threats; 3) security bulletins; 4) different types of guides, best practices; 5) reports and information on the trends and statistics; 6) forum for the exchange of information and experience of those involved in activities related to ICT security."
+    }, 
+    {
+        "sentence_id,": "6818956fce", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "The sites will function as points for reporting ICT security incidents."
+    }, 
+    {
+        "sentence_id,": "c75b419f65", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "computing"
+                ]
+            }
+        ], 
+        "sentence": "A site will be designed so that users without much computer knowledge can report the incident or find information where to report the incident."
+    }, 
+    {
+        "sentence_id,": "6a8a7e5209", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "assessment"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Implementation and delivery mechanisms of the provisions of the document It is assumed that the objectives and principles of the Policy will be executed taking into account risk assessment and implemented within the specific projects."
+    }, 
+    {
+        "sentence_id,": "e9d29f3f2c", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "minister"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Supervision and coordination of the implementation Due to the international nature of the Policy the body supervising its implementation is the Council of Ministers."
+    }, 
+    {
+        "sentence_id,": "54fc05850c", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "minister"
+                ]
+            }
+        ], 
+        "sentence": "The entity coordinating the implementation of the Policy, on behalf of the Council of Ministers, is the minister responsible for informatization."
+    }, 
+    {
+        "sentence_id,": "c0309178f7", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "minister", 
+                    "administration", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "computing", 
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "The National Response System for Computer Security Incidents in CRP The government of the Republic of Poland establishes a three-level National Response System for Computer Security Incidents in CRP: 1) Level I the level of coordination the minister responsible for informatization; 2) Level II computer incident response: a) the Governmental Computer Security Incident Response Team CERT.GOV.PL at the same time performing the tasks of the main national team responsible for coordinating the process of handling computer incidents in CRP, b) Departmental Centre for Security Management of ICT Networks and Services performing tasks in the military sphere, 3) Level III the level of implementation administrators responsible for individual ICT systems operating in cyberspace."
+    }, 
+    {
+        "sentence_id,": "a78702856c", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "law", 
+                    "minister", 
+                    "administration", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "The established response system ensures the exchange of information between teams of government administration and CERTs (CERT Poland, TP CERT, PIONIERCERT), CSIRT, ABUSE, telecommunications companies, within the meaning of the Act of 16 July 2004 Telecommunications Law (OJ No."
+    }, 
+    {
+        "sentence_id,": "3499a70cb0", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "law", 
+                    "protection"
+                ]
+            }
+        ], 
+        "sentence": "144, item 1204, as amended), in accordance with applicable laws, and in particular in accordance with the Act of 29 August 1997 on the protection of personal data (OJ of 2002, No."
+    }, 
+    {
+        "sentence_id,": "cc6435230c", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection"
+                ]
+            }
+        ], 
+        "sentence": "101, item 926, as amended) and the Act of 5 August 2010 on the protection of classified information (OJ No."
+    }, 
+    {
+        "sentence_id,": "01bc7fa596", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "law", 
+                    "protection", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }, 
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Information exchange mechanism An efficient system of coordination will ensure the exchange of information gained from the international cooperation between the governmental, military and civilian teams, in accordance with applicable law, and in particular in accordance with the Act of 29 August 1997 on the protection of personal data (OJ of 2002, No."
+    }, 
+    {
+        "sentence_id,": "622f68ef24", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection"
+                ]
+            }
+        ], 
+        "sentence": "101, item 926, as amended) and the Act of 5 August 2010 on the protection of classified information (OJ No."
+    }, 
+    {
+        "sentence_id,": "3dc075d478", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "effective", 
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "This system will, among other things, identify alternative channels for the exchange of information and introduce periodic tests of effectiveness of the information exchange processes."
+    }, 
+    {
+        "sentence_id,": "07613335d4", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "computing"
+                ]
+            }
+        ], 
+        "sentence": "Methods and forms of cooperation As a part of implementation of the Policy, forms of cooperation between the authorities responsible for the security of cyberspace and responsible for combating computer crime of criminal nature should be developed."
+    }, 
+    {
+        "sentence_id,": "a5d6587e12", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "computing"
+                ]
+            }
+        ], 
+        "sentence": "These forms of cooperation will have both a working form, in order to minimize delays of computer incident response, as well as a formalized form serving the elimination of jurisdiction problems."
+    }, 
+    {
+        "sentence_id,": "d99e90696c", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection"
+                ]
+            }
+        ], 
+        "sentence": "Cooperation with entrepreneurs It is essential to activate entrepreneurs whose protection from the cyberspace threats is important from the point of view of the proper functioning of the State."
+    }, 
+    {
+        "sentence_id,": "01fba43a4b", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "structure", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The Policy assumes taking up actions activating the cooperation between entrepreneurs managing their own ICT infrastructure, falling within the ICT infrastructure of CRP of a similar nature, and thus exposed to similar types of vulnerabilities and methods of attacks."
+    }, 
+    {
+        "sentence_id,": "0263d2f669", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "minister", 
+                    "administration"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "One of the forms of cooperation will be the creation of bodies appointed for the internal exchange of information and experiences and the cooperation with the public administration in the field of security of ICT infrastructure of CRP."
+    }, 
+    {
+        "sentence_id,": "c6e972b029", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "institution", 
+                    "secure", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system", 
+                    "software"
+                ]
+            }
+        ], 
+        "sentence": "Cooperation with manufacturers of ICT equipment and systems Important partners for government institutions and other entities responsible for the ICT security and increasing the security in cyberspace are manufacturers of hardware and software."
+    }, 
+    {
+        "sentence_id,": "f772e468f1", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "specialist", 
+                    "system"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "Development of cooperation with these partners, including the exchange of experiences and expectations, should be one of the most important factors which significantly influence the public and specialist education system, as well as the quality of the created systems."
+    }, 
+    {
+        "sentence_id,": "f99c7522f6", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "The cooperation of entities responsible for the ICT security with manufacturers of security systems should be of particular importance for the expansion of the spectrum of available tools."
+    }, 
+    {
+        "sentence_id,": "ecd8f2365d", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection"
+                ]
+            }
+        ], 
+        "sentence": "The aim should be to provide the users with the largest range of solutions for the broadly understood ICT security and protection of information."
+    }, 
+    {
+        "sentence_id,": "7e3325f115", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Cooperation with telecommunication entrepreneurs Due to the global nature of threats, a close, coordinated cooperation in the field of cyberspace security between the Office of Electronic Communications (UKE), telecommunication companies and the users of CRP is required."
+    }, 
+    {
+        "sentence_id,": "dcef3301d5", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "4.6. International cooperation Due to the global nature of the problems related to cyberspace security, an important element is to maintain and develop international cooperation in this regard."
+    }, 
+    {
+        "sentence_id,": "414e88bc09", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "institution", 
+                    "secure", 
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "The government of the Republic of Poland recognizes the need for Poland, through its representatives, government agencies, public institutions and cooperation with non-governmental institutions, to initiate and conduct active steps to increase the security of CRP and the international security."
+    }, 
+    {
+        "sentence_id,": "7197c12805", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "minister", 
+                    "administration", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "digital"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Page 20 of 24 Ministry of Administration and Digitisation, Internal Security Agency ----------------------- Page 22----------------------- 5. Financing The Policy will not imply additional resources from the state budget to finance the assumed activities in the year of its entry into force, because the current organizational units of government administration have been already partially fulfilling the objectives set out in the Policy."
+    }, 
+    {
+        "sentence_id,": "634b82193b", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "It is assumed that since the entry into force of the Policy individual units are estimating the costs of the implemented tasks corresponding to the tasks imposed by this Policy."
+    }, 
+    {
+        "sentence_id,": "ca4a90466d", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "The presented estimates of costs will allow for their inclusion in the plan of the following fiscal year with a clear indication that they relate to cyberspace security."
+    }, 
+    {
+        "sentence_id,": "46864fe756", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "minister"
+                ]
+            }
+        ], 
+        "sentence": "Individual organizational units transmit data on the costs of implementation of tasks estimated by them to the minister responsible for informatization."
+    }, 
+    {
+        "sentence_id,": "4c9f317bdc", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "assessment"
+                ]
+            }
+        ], 
+        "sentence": "The costs of the implementation of tasks will be determined by the results of the risk assessment and presented in specific projects with ascribing them to individual units and an indication of the sources of funding."
+    }, 
+    {
+        "sentence_id,": "e8544f70a3", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Necessary expenses related to the implementation of the Policy will be financed within the limit of budgetary expenditure provided for in the relevant part of the budget in the budget act for a given year."
+    }, 
+    {
+        "sentence_id,": "61ca6ac044", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "effective", 
+                    "assessment"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Assessment of effectiveness of the Policy Due to the innovative nature of this document, detailed indicators of implementation of the provisions of the Policy will be developed following the risk assessment."
+    }, 
+    {
+        "sentence_id,": "753de9f82a", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "assessment"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "It is assumed that the presented proposals of global indicators will be used in updating the Policy and allow for assessment of the degree of implementation of the planned objectives and tasks related to the security of CRP."
+    }, 
+    {
+        "sentence_id,": "e8ad3b2d33", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection", 
+                    "minister", 
+                    "administration"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards", 
+                    "system", 
+                    "software"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "evaluate", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The degree of implementation of projects related to the implementation of the strategic objective and specific objectives of the Policy will be evaluated within the specific projects by the following criteria: 1) the degree of saturation of all organizational units which have security systems and early warning systems in relation to the number of public administration employees; 2) the level of integration: a) the method and procedure for the exchange of information between teams, ensuring confidentiality, integrity and availability, b) the possibilities for and scope of achieving a common, dynamic imagery of cyberspace covered by this Policy, 3) the degree of standardization the degree of implementation of the standards, categories of incidents and procedures; 4) the degree of equipping the systems in a comprehensive anti-virus software, firewalls, anti-spam with relation to those requiring protection (identification of resources)."
+    }, 
+    {
+        "sentence_id,": "c348633cd1", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "effective"
+                ]
+            }
+        ], 
+        "sentence": "Effectiveness measures measure the degree of achieving the objectives and can be applied at all levels of task classification."
+    }, 
+    {
+        "sentence_id,": "a3c17f22c4", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "effective"
+                ]
+            }
+        ], 
+        "sentence": "Sample effectiveness measure: the number of closed incidents in relation to the total number of categorized incidents."
+    }, 
+    {
+        "sentence_id,": "549362a628", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "minister", 
+                    "administration"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "digital"
+                ]
+            }
+        ], 
+        "sentence": "Sample product measures: the number of responses to incidents reported by citizens, Page 22 of 24 Ministry of Administration and Digitisation, Internal Security Agency ----------------------- Page 24----------------------- the number of handled incidents."
+    }, 
+    {
+        "sentence_id,": "ad94bb61d8", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "effective"
+                ]
+            }
+        ], 
+        "sentence": "Result measures measure the effects achieved through the actions included in a task or under a task, carried out by the appropriate expenditure, at the level of task/subtask/action."
+    }, 
+    {
+        "sentence_id,": "59bf27bb27", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "effective"
+                ]
+            }
+        ], 
+        "sentence": "Result measures measure direct effects of undertaken actions in the short or medium term."
+    }, 
+    {
+        "sentence_id,": "6a4bd5203b", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "effective"
+                ]
+            }
+        ], 
+        "sentence": "They can measure the direct effects of the implementation of a task which become apparent after a long period of time."
+    }, 
+    {
+        "sentence_id,": "71f5c720f4", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Sample impact measure: the increase of the sense of security on the Internet in Poland (research of CBOS Public Opinion Research Centre)."
+    }, 
+    {
+        "sentence_id,": "720d75c47e", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "assessment"
+                ]
+            }
+        ], 
+        "sentence": "The degree of implementation will be assessed in percentage, while 100% means the implementation of all the tasks under specific projects developed on the basis of the Policy."
+    }, 
+    {
+        "sentence_id,": "7eec9e0e37", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Within one year from the entry into force of the Policy, each involved entity, referred to in point 1.4. paragraph 1 of this document, shall estimate (in %) to what extent the principles of the Policy have been already achieved."
+    }, 
+    {
+        "sentence_id,": "3122bb2fe9", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection", 
+                    "minister", 
+                    "administration"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "effective", 
+                    "digital", 
+                    "system"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "structure", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Expected effects of the Policy The following long-term effects of actions resulting from the implementation of this Policy and specific projects developed on its basis are expected: a higher level of security of CRP and a higher level of resistance of the state to attacks in CRP, a policy concerning the cyberspace security consistent for all the involved agents, lower effectiveness of terrorist attacks in CRP and lower costs of removing the results of cyberterrorist attacks, effective system of coordination and exchange of information between public and private entities responsible for ensuring the security of cyberspace and those administering the resources constituting the critical ICT infrastructure of the state, greater competence of actors involved in the ICT infrastructure security of the State functioning in cyberspace, Ministry of Administration and Digitisation, Internal Security Agency Page 23 of 24 ----------------------- Page 25----------------------- greater confidence of the citizens in the proper protection of the state services provided by electronic means, greater public awareness as to the methods of the safe use of systems available electronically and ICT networks."
+    }, 
+    {
+        "sentence_id,": "7edff4c8d4", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "institution", 
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "effective", 
+                    "system", 
+                    "assessment"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Effectiveness of actions The measure of effectiveness of actions undertaken as a part of the Policy will be the assessment of the created regulations, institutions and relationships which will enable the actual existence of an effective cyberspace security system."
+    }, 
+    {
+        "sentence_id,": "7614f7c639", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "institution"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "effective"
+                ]
+            }
+        ], 
+        "sentence": "One of the basic methods of influencing the effectiveness of the planned activities performed by many institutions is to establish the scope of tasks of each of the entities and to determine the responsibility for their implementation."
+    }, 
+    {
+        "sentence_id,": "475577f1dd", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "minister"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "effective"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "monitor", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Monitoring the effectiveness of actions as a part of the adopted Policy Reports on the progress of implementation of the Policy will be sent by the bodies mentioned in point 1.4 to the minister responsible for informatization."
+    }, 
+    {
+        "sentence_id,": "2970f5e7c5", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "law", 
+                    "minister", 
+                    "administration", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Consequences of violating the provisions of the Policy Each government administration entity shall apply the provisions of this Policy, regardless of liability specified in the provisions of generally applicable law."
+    }, 
+    {
+        "sentence_id,": "e188a9d1c0", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "rule"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Violation of the rules set out in this Policy may result in the exclusion of the entity from the information society and emergence of barriers in access to public information."
+    }, 
+    {
+        "sentence_id,": "3b67ff1eb5", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "Adequate protection, security of the processed data and reliability of the ICT systems are the highest values faced by the modern systems."
+    }, 
+    {
+        "sentence_id,": "cd3d95cd43", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Entities implementing the Policy in question should indicate ways for securing information systems, procedures for the ICT security breach in information systems in security policies of these systems."
+    }, 
+    {
+        "sentence_id,": "b67ad3fa32", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "evaluate"
+                ]
+            }
+        ], 
+        "sentence": "The implementation of the provisions of this document is to provide an adequate response, evaluation and documentation of cases of the system security breaches and ensure an appropriate way of responding to incidents in order to restore an acceptable level of security."
+    }, 
+    {
+        "sentence_id,": "7571572be5", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "minister", 
+                    "administration"
+                ]
+            }
+        ], 
+        "sentence": "An important obligation is to immediately inform an administrator or an appropriate CERT about detected incidents and take or refrain from actions aimed at handling them."
+    }, 
+    {
+        "sentence_id,": "658a3ef81b", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "minister", 
+                    "administration"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "digital"
+                ]
+            }
+        ], 
+        "sentence": "Page 24 of 24 Ministry of Administration and Digitisation, Internal Security Agency ----------------------- Page 26----------------------- WARSAW, 25 June 2013"
+    }
+]

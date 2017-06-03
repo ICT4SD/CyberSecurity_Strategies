@@ -1,0 +1,4588 @@
+[
+    {
+        "sentence_id,": "91a30b1e18", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy", 
+                    "technology", 
+                    "system", 
+                    "assessment", 
+                    "technology"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure", 
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "NEXT STEPS ................................................................................................................................................. 29 4.1 Immediate Actions Phase A ......................................................................................................................... 29 4.2 Cost of Implementation .................................................................................................................................. 29 4.3 Planning of Actions 2012 - 2015 ..................................................................................................................... 30 4.4 Results Assessment and Strategy Review....................................................................................................... 30 APPENDIX I - OVERVIEW OF STRATEGY ACTIONS ............................................................................................. 31 APPENDIX II - ACTION INTERDEPENDENCIES ................................................................................................. 33 EXECUTIVE SUMMARY Information and communications technologies and systems are one of the most important drivers of social and economical development today, whilst undoubtedly being necessary tools for the operation of functional and social structures in any country."
+    }, 
+    {
+        "sentence_id,": "06e001ed8f", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "technology"
+                ]
+            }
+        ], 
+        "sentence": "As a result of this, a vital need is created for these technologies to offer security in their use, which is defined as the preservation of the principles of confidentiality, integrity and availability of information during its transmission, processing and storage."
+    }, 
+    {
+        "sentence_id,": "0bed8763a3", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "These principles lead to the building of trust in information systems and electronic services, which is considered a prerequisite for the continued development and growth in this valuable sector of the economy."
+    }, 
+    {
+        "sentence_id,": "bff5d1a86f", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Network and information security, and more generally cybersecurity, operates to maintain the above principles."
+    }, 
+    {
+        "sentence_id,": "99a34123ae", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure", 
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "This Strategy aims to establish a safe electronic environment in the Republic of Cyprus, with specific considerations and actions for the protection of critical information infrastructures, whose disruption or destruction would have severe consequences to vital societal functions."
+    }, 
+    {
+        "sentence_id,": "7eb154216f", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "The development and preparation of this Strategy has followed a holistic approach for responding to threats in cyberspace, recognising that a valid strategy must offer multiple levels of security."
+    }, 
+    {
+        "sentence_id,": "8ae4b586dc", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "The European Commission has set strong targets for the area of network and information security, which are evident from its intensified activities in this area, in cooperation with member states and with ENISA (European Network and Information Security Agency)."
+    }, 
+    {
+        "sentence_id,": "e6585c04c5", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection"
+                ]
+            }
+        ], 
+        "sentence": "The new European Regulatory Framework for Electronic Communications places special emphasis on the area of security and integrity of networks and services, and also on the area of protection of personal data."
+    }, 
+    {
+        "sentence_id,": "bb7f9b20f3", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "computing", 
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "One of the main targets of the Commission is the development of National Strategies for network and information security (like this document), the development of National Contingency Plans for related matters and the creation of CERTs (Computer Emergency Response Teams) for incidents that involve electronic security breaches."
+    }, 
+    {
+        "sentence_id,": "ba04ada97b", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Even though the area of network and information security is not a new one, and there have been a number of related actions by various competent state authorities in the past, this document represents the first organised approach for coordinated response to threats that manifest in cyberspace, on a National level."
+    }, 
+    {
+        "sentence_id,": "9b9a9912da", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "The following priority areas have been identified to meet this target: coordination of the governmental stakeholders, development of a complete legal framework, technical and procedural measures, capability development and training, productive collaboration between the public and private sector and the creation or adaptation of the necessary structures and instruments within the Cyprus Government."
+    }, 
+    {
+        "sentence_id,": "df2613a54d", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "This strategy document contains a series of actions that have been identified to achieve the goals discussed above, in the following areas: ."
+    }, 
+    {
+        "sentence_id,": "2aa93a2269", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Organisational structures ."
+    }, 
+    {
+        "sentence_id,": "e325da3963", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Identification of Critical Information Infrastructures ."
+    }, 
+    {
+        "sentence_id,": "31efd6042c", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "National Cybersecurity Framework ."
+    }, 
+    {
+        "sentence_id,": "00d61d6fb1", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Development of a National Contingency Plan for Critical Information Infrastructures ."
+    }, 
+    {
+        "sentence_id,": "9238e82589", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "assessment"
+                ]
+            }
+        ], 
+        "sentence": "Short summaries of the Actions, together with an initial graphical assessment of the interdependencies between them, are presented in Appendices I and II respectively."
+    }, 
+    {
+        "sentence_id,": "bf7242aebb", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy", 
+                    "assessment"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "This document also analyses the immediate actions that are to be taken within Phase A (see section 3.2), as well as the next steps that must follow, such as the detailed planning and costing for each action, the prioritisation and planning of the national cybersecurity programme, and the assessment of the results of the strategy actions that will follow."
+    }, 
+    {
+        "sentence_id,": "90b0998292", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy", 
+                    "assessment"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "It should be noted that the Cybersecurity Strategy of the Republic of Cyprus will be reviewed on a regular basis, taking into account the results of the assessment process, as well as new threats that appear (and will continue to appear) in cyberspace."
+    }, 
+    {
+        "sentence_id,": "5611563f92", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy", 
+                    "assessment"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "The targets are to perform a holistic assessment of the results of the above actions and to update the strategy accordingly so that it continues to be in a position to provide the maximum benefit to Cypriot society."
+    }, 
+    {
+        "sentence_id,": "2f894d2a10", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "system", 
+                    "technology"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "INTRODUCTION 1.1 Network and Information Security Information and communications technologies and systems are one of the most important drivers of social and economical development today, whilst undoubtedly being necessary tools for the operation of functional and social structures in any country."
+    }, 
+    {
+        "sentence_id,": "d3226f5f67", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "As cyberspace develops, the protection of the electronic systems present in organisations of all kinds becomes all the more important, so that any activity conducted through these systems is safe and secure."
+    }, 
+    {
+        "sentence_id,": "7d7501300c", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "A basic security system must cover the confidentiality, integrity and high availability of infrastructure and information, while allowing the operation of the infrastructure to be reliable, flexible and controlled."
+    }, 
+    {
+        "sentence_id,": "88ec5e4d50", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Infrastructure security refers to the capability and resilience of the infrastructure against threats and malfunctions that may afflict its constituent parts."
+    }, 
+    {
+        "sentence_id,": "30c168fcba", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Relevant security measures that are taken mainly target the increase of readiness levels and the strengthening of preventative mechanisms, the identification and response to potential risks (including malicious actions or attacks), as well as putting in place measures for mitigation and recovery from malfunctions, failures and the availability of services that are offered, covering also emergency or crisis situations."
+    }, 
+    {
+        "sentence_id,": "40b8549042", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "In this document, the terms network and information security and cybersecurity are used."
+    }, 
+    {
+        "sentence_id,": "eb468111e9", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Network and information security refers to the preservation of the principles of confidentiality, integrity and availability, as they are described below."
+    }, 
+    {
+        "sentence_id,": "667e518b1c", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "Cybersecurity refers to the broader security of networked systems that operate in cyberspace, i.e."
+    }, 
+    {
+        "sentence_id,": "6f1156ea92", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "in most cases connected to the Internet, and this term also covers the safe and secure usage of these systems by end users."
+    }, 
+    {
+        "sentence_id,": "c5a8271d48", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection"
+                ]
+            }
+        ], 
+        "sentence": "It is clarified that the applicable level of information security must be guided through the determination of the value of the information to be protected (irrespective of the form of that information, whether it be physical or electronic)."
+    }, 
+    {
+        "sentence_id,": "2340f89ed4", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "The value parameter will be taken into account during the implementation of the actions described in the present document, especially those that are related to informing people regarding security to foster awareness and a security culture."
+    }, 
+    {
+        "sentence_id,": "259b404461", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection"
+                ]
+            }
+        ], 
+        "sentence": "As a general principle, information must be protected appropriately, according to its value."
+    }, 
+    {
+        "sentence_id,": "23ede5209c", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "technology"
+                ]
+            }
+        ], 
+        "sentence": "Network and Information Security is a basic and necessary consequence of the development and pervasiveness of new information and communication technologies."
+    }, 
+    {
+        "sentence_id,": "275b96f239", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection"
+                ]
+            }
+        ], 
+        "sentence": "Taking into account the globalisation of communications, especially with the use of the Internet but also the continuously increasing dangers that users are faced with at all levels, it has become vital to take adequate protection measures but also to ensure a high level of cooperation between all parts of society, the public and private sectors, on a national, European and international level."
+    }, 
+    {
+        "sentence_id,": "e525c81129", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "Citizens, businesses and governments strongly need to be able to trust the media through which important information and data, personal or otherwise, is transmitted."
+    }, 
+    {
+        "sentence_id,": "da8b8cb9d9", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "technology"
+                ]
+            }
+        ], 
+        "sentence": "The safe development of information and communication technologies is important for citizens and societies, for growth in employment (and the economy in general), on the national but also the European and international level."
+    }, 
+    {
+        "sentence_id,": "eefc02a1b6", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Investments in the area of security serve to increase the trust of users in new services and contribute to the wider development of the economy and society itself."
+    }, 
+    {
+        "sentence_id,": "dee38dc5f4", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "system", 
+                    "technology"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "evaluate"
+                ]
+            }
+        ], 
+        "sentence": "Governments, as well as businesses, must evaluate their investments in this area, with the basic criterion being the costs associated with failures of their information technology or communication systems against malicious actions or natural causes."
+    }, 
+    {
+        "sentence_id,": "0b76d129aa", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "technology"
+                ]
+            }
+        ], 
+        "sentence": "Security, in the information and communications technology world, generally refers to the preservation of three principles: ."
+    }, 
+    {
+        "sentence_id,": "8ac71f7090", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection"
+                ]
+            }
+        ], 
+        "sentence": "the protection of information from any unwanted modification or destruction, ."
+    }, 
+    {
+        "sentence_id,": "8c1da4ed24", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "availability of information or systems, i.e."
+    }, 
+    {
+        "sentence_id,": "6075f5e1ec", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "for a system to be able to provide service and/or information when it is requested."
+    }, 
+    {
+        "sentence_id,": "632ac8d495", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "The preservation of the above principles aims to ensure network and information security to the highest possible degree, in relation to: ."
+    }, 
+    {
+        "sentence_id,": "2f8a01f3de", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection"
+                ]
+            }
+        ], 
+        "sentence": "the protection of information/data in transit, ."
+    }, 
+    {
+        "sentence_id,": "039bff97e1", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection"
+                ]
+            }
+        ], 
+        "sentence": "the protection of information/data in processing, ."
+    }, 
+    {
+        "sentence_id,": "9a4418fca1", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection"
+                ]
+            }
+        ], 
+        "sentence": "the protection of information/data in storage."
+    }, 
+    {
+        "sentence_id,": "1a71bcf7d1", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Going beyond the protection of infrastructure, systems and information, the preservation of a high level of security, as per the principles described above, is necessary in order to built trust in information systems, communications and other electronic services that are offered by the government and other important organisations in Cyprus."
+    }, 
+    {
+        "sentence_id,": "6e67e6a887", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "digital", 
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "The development of trust on behalf of citizens in these systems and ensuring secure transactions in cyberspace will contribute to a significant degree to the economic development of Cyprus and to meeting the targets of the Digital Agenda for Cyprus."
+    }, 
+    {
+        "sentence_id,": "9b2548bfb6", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "1.2 Critical Information Infrastructures Information infrastructures have greatly increased in recent years in the Republic of Cyprus, and they have penetrated into almost every part of the life of the average citizen."
+    }, 
+    {
+        "sentence_id,": "b179c89c5a", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "These infrastructure are used not only directly (e.g."
+    }, 
+    {
+        "sentence_id,": "fc5aa88152", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "), but also indirectly, since almost all of the services that are offered by the government and used by citizens are heavily supported by them."
+    }, 
+    {
+        "sentence_id,": "c64f82cfb8", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Some of these information infrastructures form a critical part of Cypriot economy and society, either through the provision of vital goods and services, or forming a supporting platform for other (critical) infrastructures."
+    }, 
+    {
+        "sentence_id,": "6e908c3c75", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "These are thus considered to be critical information infrastructures, given that their disruption or destruction would have severe consequences to vital governmental and societal functions."
+    }, 
+    {
+        "sentence_id,": "4538b7c1f0", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure", 
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "It thus becomes necessary, via a wider framework of a cybersecurity strategy of a country, to place special emphasis on the protection of such critical information infrastructures."
+    }, 
+    {
+        "sentence_id,": "85d4e0e39c", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "A number of actions that are described in the present document cover the protection of critical information infrastructures, and also the wider area of cybersecurity, given that these two areas are closely related and always interact with each other."
+    }, 
+    {
+        "sentence_id,": "74fddeb7cf", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Section 3.6 describes, in further detail, the criteria that will be used to identify the critical information infrastructures in the Republic of Cyprus."
+    }, 
+    {
+        "sentence_id,": "55799d74a3", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "The work that will follow for the development of a National Contingency Plan for critical information infrastructures is described in section 3.14 and forms a priority of this strategic plan."
+    }, 
+    {
+        "sentence_id,": "722f50cee5", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy", 
+                    "technology", 
+                    "technology"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "1.3 Vision The vision of the Cybersecurity Strategy of the Republic of Cyprus is the operation of information and communications technologies in Cyprus with the necessary levels of security, to the benefit of every user."
+    }, 
+    {
+        "sentence_id,": "a468cfd01c", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "1.4 Aims and Objectives The development of this strategy and the actions that have been identified have the following aims and objectives: ."
+    }, 
+    {
+        "sentence_id,": "4aaab06f4d", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "the development and preservation of a safe and secure electronic business environment in Cyprus, ."
+    }, 
+    {
+        "sentence_id,": "70bf336762", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy", 
+                    "digital"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "support of the targets of the government that have been identified in the Digital Cyprus strategy programme to develop conditions for an Information Society, ."
+    }, 
+    {
+        "sentence_id,": "f41dae9254", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "the development of trust, on behalf of citizens and organisations/businesses, in e-government services, including the preservation of information and data in transit, processing and storage, ."
+    }, 
+    {
+        "sentence_id,": "38c341d525", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "effective"
+                ]
+            }
+        ], 
+        "sentence": "the mitigation of the effects of threats in cyberspace and the effective response to emergencies, ."
+    }, 
+    {
+        "sentence_id,": "5d4165501d", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "the support of a future coordinated national response plan for the protection of critical infrastructures (beyond ICT) in the Republic of Cyprus."
+    }, 
+    {
+        "sentence_id,": "79ee73c31c", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "1.5 Guiding Principles The structure and contents of this document are based on the following guiding principles: ."
+    }, 
+    {
+        "sentence_id,": "537edebe96", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "strategy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "the development of strategy and policy within a framework of cooperation between all competent authorities, taking into account the competences of each governmental stakeholder, ."
+    }, 
+    {
+        "sentence_id,": "ac6e9975a0", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "the recognition that a valid strategy must offer multiple levels of security (layered security, defence in depth, etc."
+    }, 
+    {
+        "sentence_id,": "b9c4100fa3", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "and the setting of ambitious goals with the will for the Strategy and its actions to contribute tangibly to the improvement of the levels of electronic security in Cyprus."
+    }, 
+    {
+        "sentence_id,": "9cd1eabdcf", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "digital"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "STRATEGIC CONTEXT 2.1 European Policy Security matters form an important pillar of the Digital Agenda for Europe, and this specific European policy covers a number of important topics related to network and information security."
+    }, 
+    {
+        "sentence_id,": "e69ee3c0f0", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "The position of the European Commission regarding these issues is covered in detail in the strategy document for Network and Information Security (NIS)."
+    }, 
+    {
+        "sentence_id,": "d768cbba2e", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "international action", 
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "This organisation is headquartered in Herakleion, Crete and it develops pan-European and international actions in the area of network and information security, helping the application of European policy, the dissemination of information and best practices, the harmonisation and coordination of common actions, the organisation and execution of European and international cyber exercises and also international cooperation and coordination."
+    }, 
+    {
+        "sentence_id,": "0494e84e01", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "minister"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "consultant"
+                ]
+            }
+        ], 
+        "sentence": "The renewal of ENISAs operations (in time), with expanded terms of mandate, is the subject of intensive consultations during this period at the Council of Ministers level, and also in the European Parliament, given that everyone recognises the necessity of such an organisation to exist and operate in Europe."
+    }, 
+    {
+        "sentence_id,": "c2db7ef54c", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "privacy", 
+                    "secure", 
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "The new European Regulatory Framework for Electronic Communications (with a May 2011 date of entry into force on a pan-European level), places special emphasis on the area of security, mainly in topics relating to: (a) the security and integrity of networks and services, as well as the application of regulatory measures and cooperation mechanisms on a national and pan-European level, together with national notification mechanisms for security breach incidents, contained in the Framework Directive (2002/21/EC, as amended), and (b) the security of personal data, the processing of such data and related security breaches, the protection of data contained within customer terminal equipment, and the use of automated calling systems and communication without human intervention, contained in the Directive on Privacy and Electronic Communications (2002/58/EC, as amended)."
+    }, 
+    {
+        "sentence_id,": "f235a8b3e9", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "minister"
+                ]
+            }
+        ], 
+        "sentence": "Additionally, cybersecurity matters have recently been placed high on the agenda of the Telecommunications Ministerial1 Council of the European Union."
+    }, 
+    {
+        "sentence_id,": "81e41e3fe7", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "structure", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The Council, during its recent meetings, has examined policy and the actions to follow, including the preparation of new Directives in the area of security and especially for Critical Information Infrastructure Protection (CIIP)."
+    }, 
+    {
+        "sentence_id,": "1a8f015496", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "minister"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "1 The finalisation of the new European Strategy for Internet Security will form part of the activities of the Telecommunications Ministerial Council under the Cyprus Presidency of the Council."
+    }, 
+    {
+        "sentence_id,": "abbc2e4e87", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "effective"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "The Council has also requested the cooperation between Member States, the European Commission and third countries for: (a) the identification and securing of parts of critical infrastructure that could, if damaged or destroyed, have severe negative effects on member states, and (b) the exchange of information and best practices, while (c) urging member states to encourage effective cooperation between public and private sector entities, both within the member states themselves and with third countries."
+    }, 
+    {
+        "sentence_id,": "6c546454ef", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "minister"
+                ]
+            }
+        ], 
+        "sentence": "After the meeting of the Telecommunications Ministerial Council on the 27th of May 2011, in which these matters were discussed, the European Commission announced the actions that it expects the member states of the European Union to undertake, asking for the commitment of all those involved for the promotion of common goals."
+    }, 
+    {
+        "sentence_id,": "85db5122af", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "effective"
+                ]
+            }
+        ], 
+        "sentence": "Specifically, the European Commission is requesting that member states and the Council state their strong commitment to the improvement and strengthening of national security in cyberspace to the best of their abilities, with the target of securing a high level of protection within the European Union and more effective collaboration on the international level."
+    }, 
+    {
+        "sentence_id,": "245beb72d3", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "computing", 
+                    "strategy", 
+                    "effective"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy", 
+                    "monitor"
+                ]
+            }
+        ], 
+        "sentence": "As such, the European Commission is planning to monitor the performance of the member states closely, as regards meeting the three basic targets that are being promoted on the European level: (a) The operation of national / governmental Computer Emergency Response Teams (CERTs) in each member state and the creation of a common and functional network of national / governmental CERTs in Europe by 2012, which will be supported by effective national cybersecurity strategies."
+    }, 
+    {
+        "sentence_id,": "f4e48b8c4f", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "(b) The organisation of regular national and pan-European exercises for security in cyberspace (with CERTs participating as a prerequisite), in which a pan-European cyber exercise which has been scheduled for the second half of 2012 is included."
+    }, 
+    {
+        "sentence_id,": "2e7088fb16", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "effective"
+                ]
+            }
+        ], 
+        "sentence": "Based on national experiences, such a plan must lay the foundation and define appropriate processes for effective communications between member states in situations where common threats and malicious attacks affect a number of member states."
+    }, 
+    {
+        "sentence_id,": "77c9b05a24", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "minister"
+                ]
+            }
+        ], 
+        "sentence": "All member states were represented at this conference, which was under the auspices of the Telecommunications Ministerial Council and under the area of network and information security."
+    }, 
+    {
+        "sentence_id,": "69643edfb8", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "institution", 
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "Specifically regarding the matters related to CERTs, the conference conclusions state that: put in place well-functioning and operational national/governmental CERTs as soon as possible; provide technical support to the EU institutions in setting up their own CERT by 2012; establish a well- functioning network of CERTs at EU level, which will include the CERT for the EU institutions;."
+    }, 
+    {
+        "sentence_id,": "6864275eb9", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "In summary, the European Union, in recent years, has been planning, preparing and executing actions to strengthen its position in relation to cybersecurity."
+    }, 
+    {
+        "sentence_id,": "3ed9878a71", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "effective"
+                ]
+            }
+        ], 
+        "sentence": "Its aim is to effectively handle the rapidly increasing rates of crimes and attacks in cyberspace, and the European Commission is asking from member state governments to seriously examine the issue of security in cyberspace."
+    }, 
+    {
+        "sentence_id,": "9e37a951e0", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "digital"
+                ]
+            }
+        ], 
+        "sentence": "The statement of Neelie Kroes, Vice-President of the European Commission for the Digital Agenda on the EU website is indicative: \"Cyber-attacks are a very real and ever-increasing threat."
+    }, 
+    {
+        "sentence_id,": "7df20c858e", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Whether against individual countries, companies or most recently against the European Commission, they can paralyse key infrastructure and cause huge long-term damage."
+    }, 
+    {
+        "sentence_id,": "9264aae0a3", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "institution", 
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "She also added that: Setting up this CERT pre-configuration team is a further demonstration of how seriously the EU Institutions take the cyber-security threat.\""
+    }, 
+    {
+        "sentence_id,": "78b08a69db", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "minister"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "technology"
+                ]
+            }
+        ], 
+        "sentence": "2.2 Network and Information Security in the Republic of Cyprus The Republic of Cyprus and especially the Ministry of Communications and Works (MCW), and the competent coordinating authority2 for Network and Information Security in Cyprus, which is the Office of the Commissioner of Electronic Communications and Postal Regulation (OCECPR), have recognised the essential role of security topics in the promotion of new communications services, the use of new technologies and more generally in the development of an information society."
+    }, 
+    {
+        "sentence_id,": "c8fde42699", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "structure", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Towards this end, a number of specific actions and policies have been promoted on the national level: 2 Based on the provisions of the legislation that pervades its operations, OCECPR is responsible for the security of electronic communications infrastructures, as well as for the information that is transmitted through or stored within them."
+    }, 
+    {
+        "sentence_id,": "77dee888a9", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "institution", 
+                    "secure", 
+                    "minister"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "computing"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "structure", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "3 Policy Document on Network and Information security 2006 4 Policy Document on the Formation of Emergency Response Teams for Incidents related to Network and Information Security (CSIRT/CERT) 2010 (a) In 2006, the Ministry of Communications and Works (MCW) approved a policy document3, through which a number of specific actions in the area of network and information security are promoted, via OCECPR: the formation of Computer Emergency Response Teams (CERTs / CSIRTs), the creating of an institutional framework for the security and integrity of information infrastructures, and the raising of awareness of all stakeholders and Cypriot society about relevant security matters."
+    }, 
+    {
+        "sentence_id,": "51974be879", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "(b) In 2010, upon recommendations by OCECPR which were received favourably by ENISA, MCW also approved a detailed policy document4 regarding the operation of a governmental and an academic CERT."
+    }, 
+    {
+        "sentence_id,": "0fe0c959c8", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "law", 
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "(c) Within 2012, new provisions are being introduced into The Regulation of Electronic Communications and Postal Services Law of 2004 (112(I)2004), which stem from the new Regulatory Framework for Electronic Communications5 and which cover matters related to network and information security."
+    }, 
+    {
+        "sentence_id,": "ae3973a9ec", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "minister"
+                ]
+            }
+        ], 
+        "sentence": "(d) The Republic of Cyprus, in cooperation with the relevant stakeholders, has committed, via the Telecommunications Ministerial Council, to contribute to European and international collaboration for responding to threats and challenges in cyberspace."
+    }, 
+    {
+        "sentence_id,": "7d91b4c1f0", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "The National Cybersecurity Strategy that is described in this document adopts and complements the actions discussed above."
+    }, 
+    {
+        "sentence_id,": "ea2b233bdc", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure", 
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "Based on the provisions of this strategy and the priorities of the Republic of Cyprus, the actions related to network and information security form part of the wider strategy for the development of an Information Society6, and will also allow for Cyprus to contribute actively in the planning process for protecting European critical information infrastructures from 2012 onwards."
+    }, 
+    {
+        "sentence_id,": "478be28bc6", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "system", 
+                    "technology"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "2.3 Competent/Related Authorities and Observers of the Republic of Cyprus Beyond the policies and actions that are mentioned in section 2.2, there are a number of authorities within the Republic of Cyprus that are active in the security of networks, services, information technology systems and information itself, in addition to having direct or indirect input on critical security matters."
+    }, 
+    {
+        "sentence_id,": "4c1cc68296", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Each authority has direct or indirect responsibilities in the area of network and information security, as well as interdependencies between them that must be taken into account for the implementation of this strategy."
+    }, 
+    {
+        "sentence_id,": "7e8b4cce89", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "technology"
+                ]
+            }
+        ], 
+        "sentence": "Department of Information Technology Services (DITS) ."
+    }, 
+    {
+        "sentence_id,": "5070709fa0", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "National Security Authority ."
+    }, 
+    {
+        "sentence_id,": "357e05b742", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection"
+                ]
+            }
+        ], 
+        "sentence": "Office of the Commissioner for Personal Data Protection ."
+    }, 
+    {
+        "sentence_id,": "a08717976d", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "minister"
+                ]
+            }
+        ], 
+        "sentence": "Ministry of Communications and Works (MCW) ."
+    }, 
+    {
+        "sentence_id,": "7921d517cf", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "law"
+                ]
+            }
+        ], 
+        "sentence": "Law Office of the Republic of Cyprus ."
+    }, 
+    {
+        "sentence_id,": "be8e7dbdb2", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "It is noted that the competent authority of the Republic of Cyprus that has responsibilities relating to Classified Information (CI) and European Union Classified Information (EU CI) is the National Security Authority."
+    }, 
+    {
+        "sentence_id,": "1010c84ce5", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Even though this document is not aimed exclusively or directly at the protection of Classified Information, any electronic transmission of such information is essentially implemented through communications infrastructure of communications service providers."
+    }, 
+    {
+        "sentence_id,": "ae3f9f1f20", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "computing", 
+                    "technology", 
+                    "system", 
+                    "technology"
+                ]
+            }
+        ], 
+        "sentence": "2.4 Threats in Cyberspace Today The use of computers and communications systems has nowadays penetrated our lives to a very high degree, and so our level of dependence on these technologies for much of our daily activity is increasing."
+    }, 
+    {
+        "sentence_id,": "bb7bd126b0", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "law", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "system", 
+                    "technology"
+                ]
+            }
+        ], 
+        "sentence": "These technologies are used today in many sectors beyond just for communications: they are used for the production and distribution of energy, the management of water and sewage systems, financial services, in the armed forces and law enforcement, governmental departments and services, health services, etc."
+    }, 
+    {
+        "sentence_id,": "67509640e8", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "computing", 
+                    "technology", 
+                    "technology"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Even though the benefits stemming from information and communications technologies (ICT) are huge, new network technologies have introduced a plethora of security issues that are taken advantage of by malicious actors that target vulnerabilities in infrastructure and network components, such as computers, routers, switches, etc."
+    }, 
+    {
+        "sentence_id,": "7b1981e935", 
+        "tag": [
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "The probability of such incidents occurring can however be significantly reduced if appropriate measures are taken by an organisation or enterprise."
+    }, 
+    {
+        "sentence_id,": "edab365a19", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "computing"
+                ]
+            }
+        ], 
+        "sentence": "A relatively recent phenomenon that is being observed in cyberspace is that of botnets automated virtual networks involving large numbers of computers (some have been reported with tens of thousands of members) that are controlled by malicious actors."
+    }, 
+    {
+        "sentence_id,": "e29fcf5c35", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "computing"
+                ]
+            }
+        ], 
+        "sentence": "These computers can be found in homes and businesses, and also perhaps in governmental departments, without the users themselves being aware or having knowledge of this, and they are being used for large scale attacks in cyberspace."
+    }, 
+    {
+        "sentence_id,": "d126b26553", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "computing", 
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "Nowadays, given that many of an armys communications systems include computers, some nation states have already developed electronic weapons for attacks in cyberspace that can be used as part of a wider military offensive (or even for terrorist actions if they fall into the wrong hands)."
+    }, 
+    {
+        "sentence_id,": "51c93ad909", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "In addition to this, any vulnerabilities in the ICT systems of the armed forces could lead to the leak of very sensitive information to unauthorised users."
+    }, 
+    {
+        "sentence_id,": "72e74d458b", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "The strength, stability and safe operations of a country are now fully dependent on the smooth running of its infrastructures, and as can be seen from the examples mentioned above, cyber attacks cannot be ignored."
+    }, 
+    {
+        "sentence_id,": "914ee1e2f8", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "technology"
+                ]
+            }
+        ], 
+        "sentence": "It is noted that the strategic response (see section 3) and the actions described in this document do not relate to the handling of military issues in network and information security, nor to the handling of related terrorism issues; however, the examples discussed above serve to highlight the level of dependence on the technologies that are discussed in this document that military networks and information have."
+    }, 
+    {
+        "sentence_id,": "0cb3ab3903", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "STRATEGIC RESPONSE 3.1 Priority Areas The strategic response of the Republic of Cyprus to the previously mentioned threats can be split into a number of priority areas that have been identified for the optimal protection of critical information infrastructures."
+    }, 
+    {
+        "sentence_id,": "a1c30546b5", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "The areas that have been prioritised in relation to the needs of the Republic of Cyprus are the following, as shown in Figure 1: Figure 1: Priorities of the Cybersecurity Strategy of the Republic of Cyprus Legal Framework Technical and Organisational Measures and Procedures Capability Development Immediate Response to Significant Incidents Coordination of governmental stakeholders Productive Collaboration between the Public and Private Sector ."
+    }, 
+    {
+        "sentence_id,": "e19495ee37", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "coordination of governmental stakeholders to ensure correct and efficient cooperation, ."
+    }, 
+    {
+        "sentence_id,": "9a7c1b6399", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection"
+                ]
+            }
+        ], 
+        "sentence": "creation of a comprehensive legal framework by the competent authorities of the state, that covers all aspects of network and information security, including cybercrime and the protection of personal data, ."
+    }, 
+    {
+        "sentence_id,": "2ef24333b3", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "software"
+                ]
+            }
+        ], 
+        "sentence": "formulation of technical and organisational measures and procedures to harden the security of relevant hardware, software and physical spaces, to the required degree, ."
+    }, 
+    {
+        "sentence_id,": "700d845dc4", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "development of the necessary skills, training and awareness in security topics, for those that are directly involved and also for the public, ."
+    }, 
+    {
+        "sentence_id,": "f0ded5c062", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "creation or adaptation of the necessary structures and instruments within the competent authorities and the more generally the Cyprus Government, to secure the demands and capabilities of immediate incident response."
+    }, 
+    {
+        "sentence_id,": "184e4c03be", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Current organisational structures and available resources are not at a level that would allow an immediate start to all of the actions that have been identified, and as such each action description that follows also indicates the phase in which it will be executed: ."
+    }, 
+    {
+        "sentence_id,": "93e2d4fec3", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure", 
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "Phase B o Phase B includes the actions that OCECPR will be in a position to coordinate once a new organisational structure has been developed, with the necessary resources to carry out the implementation of this Strategy in its entirety."
+    }, 
+    {
+        "sentence_id,": "c993eff32e", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "The majority of the actions of this Strategy will continue to be executed on a long-term basis for the continued protection of cyberspace in Cyprus."
+    }, 
+    {
+        "sentence_id,": "efe51133a1", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "However, due to this multi-stakeholder approach to security matters, it is vital for all involved to understand and accept that the maintenance of acceptable levels of security in the electronic world can be accomplished only via cooperation between the different stakeholders involved, within a framework of coordinated response to the various threats that have already been mentioned."
+    }, 
+    {
+        "sentence_id,": "5f854e3aae", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "It follows that the coordination of the competent or relevant governmental authorities is absolutely necessary."
+    }, 
+    {
+        "sentence_id,": "b76d9701e1", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "the necessary links and good working relationships with the competent or relevant authorities of the Republic, the electronic communications providers in Cyprus, the private sector stakeholders and international working groups and fora that are relevant to the area of cybersecurity."
+    }, 
+    {
+        "sentence_id,": "04c92be5f1", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure", 
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "Taking into account the fact that the definition and creating of an integrated and complete organisational structure is necessary for the optimum implementation of the strategic actions, but also that the processes involved to accomplish this are affected by external factors related to the current severe financial crisis that is manifesting in Cyprus, and the lengthy recruitment procedures involved, the implementation of such an organisational structure will form part of Phase B of the strategy activities."
+    }, 
+    {
+        "sentence_id,": "c805e2aab4", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Existing structures will be leveraged to the maximum extent possible, with gradual upgrading of their capabilities to the required level."
+    }, 
+    {
+        "sentence_id,": "f8bea80d7e", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy", 
+                    "assessment"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "The necessary time will be given for the appropriate needs assessment, in relation to the requirements for the strategy implementation, the coordination of activities and the supervision of incident response mechanisms and related actions."
+    }, 
+    {
+        "sentence_id,": "68b8304f75", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system", 
+                    "assessment"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Phase A will formulate the cooperation framework between OCECPR, as the coordinating body, and the other competent authorities for the implementation of the high priority actions, such as developing the plan for the protection of critical information infrastructures, the operation of the governmental CSIRT/CERT, the assessment and improvement of the readiness levels of network infrastructures as regards their resilience to risk and their response to security threats, the handling and notification of security incidents on networks, systems and information, and the organisation of national exercises with additional participation in European exercises."
+    }, 
+    {
+        "sentence_id,": "6cdabd9f34", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "These activities refer to the wider responsibilities that OCECPR has in the area of network and information security, and section 2.2 discusses the specific actions that have been prioritised and have been included in this strategy."
+    }, 
+    {
+        "sentence_id,": "5acd3239b4", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "At this point, an agreed basis for cooperation is required between the competent authorities, and which will be expanded and adjusted as the strategy programme progresses."
+    }, 
+    {
+        "sentence_id,": "f139b579a7", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "effective"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Action 1 - Phase A Formulation of the framework for collaboration and information exchange with OCECPR, and between public authorities, so that OCECPR will be in a position to effectively coordinate the nations strategic response in the area of cybersecurity and the protection of critical information infrastructures, as well as coordinating the actions that relate to other stakeholders in the priority areas that can be addressed immediately."
+    }, 
+    {
+        "sentence_id,": "7b879be80b", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "The way that existing activities in the area of network and information security, that fall under the responsibilities of OCECPR, are planned and executed is based on its existing organisational structure."
+    }, 
+    {
+        "sentence_id,": "a3098d9457", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "The present structure and resources are not adequate to take on and execute all of the actions that are described in this document."
+    }, 
+    {
+        "sentence_id,": "6786144469", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "minister"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "As a result of this, and in tandem with pushing forward with the immediate priorities based on current urgent national and European commitments and needs of the Republic of Cyprus, OCECPR, in cooperation with the other competent authorities in the Republic, will study and submit recommendations regarding new policy for its reorganisation to the Minister of Communications and Works, so that it will be in a position to fully coordinate the very large volume of work associated with the areas of network and information security and cybersecurity."
+    }, 
+    {
+        "sentence_id,": "eb58dea8a9", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "effective"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Action 2 - Phase A OCECPR will, at the appropriate time and in cooperation with the other competent authorities, develop a report regarding new policy for its reorganisation, so that it will be in a position to fully coordinate the efforts of the Republic of Cyprus for optimum implementation, application and supervision of all of the actions and the effective response to threats that are prevalent in cyberspace today, as well as rising threats that will appear in the future."
+    }, 
+    {
+        "sentence_id,": "e4deac2095", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "These working groups will be staffed by personnel with the necessary technical and other skills from the competent authorities of the state, as well as by experts from the private sector and representatives of critical information infrastructure operators (see also section 3.5)."
+    }, 
+    {
+        "sentence_id,": "df6cec8060", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system", 
+                    "assessment"
+                ]
+            }
+        ], 
+        "sentence": "For the identification and assessment of potential risks, it may be the case that the members of some of the working groups might need access to classified information; that is the information that refers to vulnerabilities in critical parts of each network or system that will be deemed as important or critical."
+    }, 
+    {
+        "sentence_id,": "63907a3ab7", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "effective", 
+                    "assessment"
+                ]
+            }
+        ], 
+        "sentence": "Taking into account that the relevant risk assessments must be conducted in tandem with the development of plans to respond to incidents relating to these risks, and also the development of contingency plans to mitigate the effects of related disasters, the composition of the working groups must be such that confidentiality is assured."
+    }, 
+    {
+        "sentence_id,": "59dc64cc44", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "Action 3 - Phase A/B Formation of working groups, with representatives from the public and private sectors (as necessary), to implement the Strategy Actions."
+    }, 
+    {
+        "sentence_id,": "f7918829d0", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "3.4 Legal Framework Legislation in the Republic of Cyprus already covers a large number of areas relating to network and information security, as well as cybercrime (and other electronic crime) matters."
+    }, 
+    {
+        "sentence_id,": "742e987732", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "law"
+                ]
+            }
+        ], 
+        "sentence": "However, it is still considered necessary to identify all relevant laws in Cyprus and to update them where needed, and also to promote the creation of new primary and secondary legislation to cover all of the provisions of this Strategy."
+    }, 
+    {
+        "sentence_id,": "c0b86a6fd3", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "law"
+                ]
+            }
+        ], 
+        "sentence": "This legislation (whether new or updated) must cover processes for the prevention, deterrence and dynamic response to all forms of cybercrime, and also be harmonised with the relevant law and directives of the European Union."
+    }, 
+    {
+        "sentence_id,": "7687302239", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }, 
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "International cooperation with other member states of the European Union, as well as third countries, will be required in the areas of network and information security and the protection of critical information infrastructures."
+    }, 
+    {
+        "sentence_id,": "1d5d9ef913", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "effective"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "It is thus considered necessary to create an appropriate legal infrastructure also regarding the effective cooperation with entities outside Cyprus to solve related problems as they arise."
+    }, 
+    {
+        "sentence_id,": "46e9e18ee8", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Action 4 - Phase B Creation of an appropriate legal framework to fully support the provisions of the Cybersecurity Strategy."
+    }, 
+    {
+        "sentence_id,": "4a1500433e", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "law"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "assessment"
+                ]
+            }
+        ], 
+        "sentence": "All relevant laws of the competent authorities must be assessed for any updated needs."
+    }, 
+    {
+        "sentence_id,": "36062fef71", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "3.5 Cooperation between the State and the Private Sector The State will make significant efforts in the area of network and information security, and especially on the topic of critical information infrastructure protection within Cyprus."
+    }, 
+    {
+        "sentence_id,": "660ce626d3", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "The State recognises that the role of the private sector in the security and protection of critical information infrastructures is extremely important, for the following reasons: ."
+    }, 
+    {
+        "sentence_id,": "453e989f08", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "The private sector (including the semi-governmental electronic communications provider) operates the majority of the critical communications infrastructure of the government, e.g."
+    }, 
+    {
+        "sentence_id,": "80a03e692c", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "the public communications networks that are used by the different government departments, as well as by the business and academic worlds, and the citizens of the Republic."
+    }, 
+    {
+        "sentence_id,": "665aa5701a", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "The State relies on the private sector, not only for the communications networks, but also for the provision of the equipment that it uses, and for the implementation of many of activities that are related to network and information security, whether those are conducted as a matter of course for security reasons or for the reliable operation of their systems and services, or they are imposed on the operators via legal and / or regulatory measures."
+    }, 
+    {
+        "sentence_id,": "75b8ef5082", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "effective"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "consultant"
+                ]
+            }
+        ], 
+        "sentence": "Taking the above into consideration, the Republic of Cyprus sets a high priority on consultation with the private sector for the achievement of its goals, the implementation of the provisions of this Strategy, the continuous improvement of the actions and effects of the Strategy, as well as for the gaining of further technical skills and specialisation."
+    }, 
+    {
+        "sentence_id,": "551e84cb79", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Action 5 - Phase A/B Comprehensive survey of the private sector, for the identification of groups and stakeholders that can contribute in a positive way to the improvement of the levels of electronic security in the Republic of Cyprus, while simultaneously creating the conditions for developing close collaborative relationships."
+    }, 
+    {
+        "sentence_id,": "8a1fc46637", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "effective"
+                ]
+            }
+        ], 
+        "sentence": "Beyond what has been described above, the PPP (Public-Private Partnership) model is emphasised, which is considered on a European and international level to be an effective model of cooperation between entities in the public and private sectors."
+    }, 
+    {
+        "sentence_id,": "9570162811", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "With the requisite preparatory work, the possibility of creating a dynamic PPP in the area of critical information infrastructure protection will be investigated, and which will: ."
+    }, 
+    {
+        "sentence_id,": "cb4ad34383", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "contribute to the development of trust between the public and private sectors in the area of network and information security, ."
+    }, 
+    {
+        "sentence_id,": "7a9dcb4fb0", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "create a safe cooperation framework to achieve common security goals, ."
+    }, 
+    {
+        "sentence_id,": "af7f0d9cbd", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Action 6 - Phase B Investigate the possibility of creating a dynamic PPP (Public-Private Partnership) in the area of critical information infrastructure protection in the Republic of Cyprus and promote active cooperation with international entities through participation in international fora."
+    }, 
+    {
+        "sentence_id,": "4c18167f7a", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "effective"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "3.6 Identification of Critical Information Infrastructures The need for the protection of critical information infrastructures, as highlighted and explained in this document, is necessary to minimize the negative impacts and possible catastrophic consequences of malicious acts or natural disasters on infrastructure, on a national level within the Republic of Cyprus but also because of potential negative effects to other countries, as a consequence of the high levels of interconnection and interdependence between international communications networks."
+    }, 
+    {
+        "sentence_id,": "a9fa2627cf", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "The question is raised as to which particular infrastructures should be considered (and designated) as critical."
+    }, 
+    {
+        "sentence_id,": "717827aaf7", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "institution", 
+                    "secure", 
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "Each stakeholder (electronic communications companies, governmental departments and services, security forces, armed forces, hospitals, financial institutions, energy and water providers, etc.)"
+    }, 
+    {
+        "sentence_id,": "b0996c93f0", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "will consider their infrastructure as vitally important and the ideal situation would be the complete and total protection of all information infrastructures in the Republic of Cyprus, without exception."
+    }, 
+    {
+        "sentence_id,": "74c5ffe12b", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "assessment"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "However, given that such an approach is not feasible, it is necessary to identify and assess the truly critical infrastructures within the Republic of Cyprus and to target them for the best possible protection."
+    }, 
+    {
+        "sentence_id,": "108a2c3759", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "assessment"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "These critical infrastructures will be identified and assessed based on a number of predetermined criteria."
+    }, 
+    {
+        "sentence_id,": "d617535699", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "For the determination of these criteria, as well as national conditions, related activities of the European Commission and ENISA (European Network and Information Security Agency) will also be taken into consideration, with the appropriate adaptation for Cyprus."
+    }, 
+    {
+        "sentence_id,": "b4bf2a5181", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "assessment"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "The public sector, as well as the private sector, must contribute to the determination and assessment of critical information infrastructures, within the boundaries of the relevant working group(s)."
+    }, 
+    {
+        "sentence_id,": "90c132daf1", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "The steps that will be followed for the identification of critical information infrastructures will include the following: ."
+    }, 
+    {
+        "sentence_id,": "8e0cb68060", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Identification of infrastructures that are technically indispensable for the operation of these services, ."
+    }, 
+    {
+        "sentence_id,": "87e1adb1eb", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Introduction of objective criteria for the level of protection that each infrastructure element needs, with categorisation of infrastructures and the use of criteria such as the number of affected users, the sensitivity level of the information that is concentrated, stored, transmitted or processed on these infrastructures, etc."
+    }, 
+    {
+        "sentence_id,": "ee9f408492", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "check the criteria with the development of scenarios that consider the disruption of operation of selected infrastructure, within the bounds of regular exercises."
+    }, 
+    {
+        "sentence_id,": "0e988a3598", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "assessment"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Action 7 - Phase A Identification and assessment of the critical information infrastructures in the republic of Cyprus, to better target activities and actions for their protection, with the contribution of both the public and private sectors."
+    }, 
+    {
+        "sentence_id,": "494f717e54", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "The protection of information infrastructures can be achieved through general measures only (to some extent), but the strategic response to threats in cyberspace will be greatly improved if the main threats that are actually present and manifest in Cyprus become known."
+    }, 
+    {
+        "sentence_id,": "334d508077", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection"
+                ]
+            }
+        ], 
+        "sentence": "This will not only allow better targeting of response measures, but also better targeting of the most prevalent threats if the necessary protective controls are put in place gradually through a feasible implementation programme for the provisions of this Strategy."
+    }, 
+    {
+        "sentence_id,": "2b87696f16", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "monitor"
+                ]
+            }
+        ], 
+        "sentence": "Action 8 - Phase B Comprehensive survey to record current threats and attacks in cyberspace that have been published in Cyprus, as well as monitoring new threats that appear in the European and international space."
+    }, 
+    {
+        "sentence_id,": "645188cd0f", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "effective"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "3.8 National Cybersecurity Framework The easiest and most effective method to achieve an acceptable level of security in all critical information infrastructures in the Republic of Cyprus is to develop a National Cybersecurity Framework, which will be used as the basis for the protection of critical information infrastructures, and for information assurance."
+    }, 
+    {
+        "sentence_id,": "200124ca3d", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "This framework must be developed based on international security standards and include the following (among others): ."
+    }, 
+    {
+        "sentence_id,": "8bf5a96e99", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "Governance and risk management ."
+    }, 
+    {
+        "sentence_id,": "7e5c6a7bec", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "assessment"
+                ]
+            }
+        ], 
+        "sentence": "Vulnerability assessment ."
+    }, 
+    {
+        "sentence_id,": "e53f9b0277", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "software"
+                ]
+            }
+        ], 
+        "sentence": "Management of physical spaces, hardware and software ."
+    }, 
+    {
+        "sentence_id,": "2260d41141", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Physical security and environmental management ."
+    }, 
+    {
+        "sentence_id,": "ed7794c5a0", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "monitor"
+                ]
+            }
+        ], 
+        "sentence": "Continuous monitoring of electronic communications for malicious attacks to determine incidents in progress."
+    }, 
+    {
+        "sentence_id,": "b4a77a24a4", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "This Framework must be adopted by all operators of critical information infrastructures, and must also be examined for adoption by all government departments and other important organisations in Cyprus."
+    }, 
+    {
+        "sentence_id,": "30f131239b", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection"
+                ]
+            }
+        ], 
+        "sentence": "To achieve this target, the National Cybersecurity Framework will be developed in such a way so that it can be promoted within the remainder of the private sector, for the optimum protection of all those that use electronic communications services."
+    }, 
+    {
+        "sentence_id,": "bd77b63cae", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Action 9 - Phase B Development of a National Cybersecurity Framework which will promote the protection of critical information infrastructures in the Republic of Cyprus, as well as governmental departments and services."
+    }, 
+    {
+        "sentence_id,": "75bcb0e7ff", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "system", 
+                    "technology"
+                ]
+            }
+        ], 
+        "sentence": "It should be noted that the specific targets that will be set for the protection levels for these technologies and systems will be determined based on appropriate risk analysis and balancing these levels with the associated cost of implementing specific controls to respond to threats in cyberspace."
+    }, 
+    {
+        "sentence_id,": "8cf9c2dc31", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "A usual method used is to keep the related annual costs below the annual estimated cost of damages or losses if these threats were to manifest on information and communications networks and systems."
+    }, 
+    {
+        "sentence_id,": "a13045acc1", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "computing"
+                ]
+            }
+        ], 
+        "sentence": "3.9 Incident Response Ensuring the full functionality of Computer Emergency Response Teams (CERTs/CSIRTs) within Cyprus is an integral and vital part of this Strategy, and also of meeting our commitments as a nation."
+    }, 
+    {
+        "sentence_id,": "5c3fcc088f", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "The main functions of a CERT are the prevention of serious incidents related to network and information security, as well as the immediate and appropriate response to such incidents when they occur."
+    }, 
+    {
+        "sentence_id,": "c815cc0628", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "It is emphasised that for the correct operation of a CERT/CSIRT, the following are required: (a) necessary infrastructure and (b) staffing with appropriately trained (to a very high level) personnel."
+    }, 
+    {
+        "sentence_id,": "64c885b34b", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "effective"
+                ]
+            }
+        ], 
+        "sentence": "A basic prerequisite for such services to operate effectively is strong support from the State."
+    }, 
+    {
+        "sentence_id,": "8f8a868fa0", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "The cooperation between CERTs/CSIRTs that operate in each member state lies within the framework of European cooperation in the area of information security."
+    }, 
+    {
+        "sentence_id,": "295ab5932a", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "Given the target of integrating Cypriot CERTs/CSIRTs into these cooperation mechanisms, their full functionality must be ensured so that they may gain the necessary certifications to allow their participated in relevant European working groups."
+    }, 
+    {
+        "sentence_id,": "a62673769f", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "computing"
+                ]
+            }
+        ], 
+        "sentence": "Action 10 - Phase A Ensure the full functionality of Computer Emergency Response Teams (CERTs/CSIRTs), with immediate priority for the operation of the Governments CERT/CSIRT."
+    }, 
+    {
+        "sentence_id,": "2225163d60", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "Necessary certifications and memberships will be obtained to allow their participation in relevant European working groups."
+    }, 
+    {
+        "sentence_id,": "05f495fd42", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "assessment"
+                ]
+            }
+        ], 
+        "sentence": "Action 11 - Phase B Assessment by OCECPR, in cooperation with the CERTs/CSIRTs, of expanding their activities or creating new CERTs/CSIRTs to cover the needs of the private sector and the business community."
+    }, 
+    {
+        "sentence_id,": "376d8196a7", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "assessment"
+                ]
+            }
+        ], 
+        "sentence": "However, it is not enough to just create the necessary cooperation mechanisms, if these mechanisms are not assessed and tested on a regular basis, especially via the emulation of crisis situations."
+    }, 
+    {
+        "sentence_id,": "7d6af6a49e", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "The completing of such exercises will contribute to the maximisation of the Republics readiness levels to withstand significant events in the area of network and information security that could potentially affect a large part of the population."
+    }, 
+    {
+        "sentence_id,": "f677cec6ff", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Action 12 - Phase A Planning and organisation of regular national cybersecurity exercises, with increasingly realistic scenarios, as well as active participation in pan-European and other international cyber exercises."
+    }, 
+    {
+        "sentence_id,": "483ace3ff2", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "3.11 Training and Capability Development The appropriate technical training and development of capabilities in the cyberspace security area is a necessary prerequisite for the smooth operation of security systems, as well as for the correct implementation of any actions related to this theme."
+    }, 
+    {
+        "sentence_id,": "8c170db650", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "As such, the government will support the appropriate personnel training in the area of electronic security, via the following actions: ."
+    }, 
+    {
+        "sentence_id,": "35a373aeff", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "Identification of appropriate (and available) training programmes and certifications, ."
+    }, 
+    {
+        "sentence_id,": "cc24936433", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "Promote the uptake of such programmes within the government, ."
+    }, 
+    {
+        "sentence_id,": "583bbb46a3", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "Inclusion of relevant certifications and experience into job descriptions that relate to electronic security, ."
+    }, 
+    {
+        "sentence_id,": "37dfd71621", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "institution", 
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "Support activities in Cypriot higher education institutions in the area of network and information security, through the inclusion of electronic security topics in their curricula and the institution of related research programmes."
+    }, 
+    {
+        "sentence_id,": "694a9ca0be", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "It is noted that this action refers to the education and training of professionals in the area of cybersecurity and not in awareness raising measures for the public (see section 3.12)."
+    }, 
+    {
+        "sentence_id,": "51b9c2af1c", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification", 
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "Action 13 - Phase B Development of suitable human resources that will have the necessary technical know-how and certifications to implement the provisions of this Strategy to a high level, in the mid- and long-term, and inclusion of these skills and certifications into the job descriptions for related positions."
+    }, 
+    {
+        "sentence_id,": "b3efb15a8c", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "computing"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "3.12 Security Culture (Awareness) The dimensions of potential threats to cybersecurity, as discussed in section 2.4, clearly show that this issue concerns all users of information infrastructures, given that any connected computer could serve as an entry point or malicious and/or harmful elements to local cyberspace."
+    }, 
+    {
+        "sentence_id,": "904ed33d27", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "It is very important for Internet users, as well as users of IT systems in every workplace have a satisfactory level of knowledge/awareness regarding the potential threats that they must protect themselves from."
+    }, 
+    {
+        "sentence_id,": "1fdde8f89a", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "The Republic of Cyprus will promote a National Awareness Programme for cybersecurity matters, which will include the following: ."
+    }, 
+    {
+        "sentence_id,": "a5969cd63b", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection"
+                ]
+            }
+        ], 
+        "sentence": "ENISA), for citizens regarding safe and secure Internet use, with a focus on the protection of personal data, ethical behaviour in cyberspace and protection of children on the Internet, ."
+    }, 
+    {
+        "sentence_id,": "5b217ceccf", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "Development of specialised training seminars for governmental users of IT systems that contain sensitive and/or classified information, ."
+    }, 
+    {
+        "sentence_id,": "9d06201c38", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "Promotion of the development of a positive security culture in all government departments and services, as well as in private businesses."
+    }, 
+    {
+        "sentence_id,": "14ac7e675a", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "Action 14 - Phase B Development of a comprehensive National Awareness Programme for cybersecurity matters, covering all users of electronic systems, from governmental workers to citizens of the State."
+    }, 
+    {
+        "sentence_id,": "e30bc7f094", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "Reaching the appropriate level of knowledge and awareness in Cyprus, combined with the development of skilled human resources for key positions, will contribute significantly in the long run to securing IT systems that are part of cyberspace."
+    }, 
+    {
+        "sentence_id,": "2cb740bb9c", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "3.13 Cooperation with External Agencies and International Working Groups As has been discussed extensively previously in section 3.5, cooperation of the main body responsible for ensuring the security of cyberspace in the Republic of Cyprus with other stakeholders is not merely a choice, but has become absolutely necessary to achieve the required targets and results."
+    }, 
+    {
+        "sentence_id,": "a867300304", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Close ties will be created with respective competent authorities in other member states of the European Union, and these ties will be leveraged for the continuous development and improvement of the strategic response capabilities of the Republic of Cyprus in cybersecurity."
+    }, 
+    {
+        "sentence_id,": "2663b2a7a3", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Full support of actions and activities, that aim to improve the cybersecurity levels of European information infrastructures, as well as participation in other international activities and related groups7, will also be continued."
+    }, 
+    {
+        "sentence_id,": "e81b63aac7", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "This cooperation will support the actions and activities on a Union level to improve the level of cybersecurity in the whole of Europe."
+    }, 
+    {
+        "sentence_id,": "8f3b5e7d59", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "3.14 Development of a National Contingency Plan for Critical Information Infrastructures The measures and actions that have been discussed in preceding sections will contribute, to a large extent, to the improvement of cybersecurity in the Republic of Cyprus, including both the public and private sectors."
+    }, 
+    {
+        "sentence_id,": "4021bfba52", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "effective"
+                ]
+            }
+        ], 
+        "sentence": "The implementation of all of the actions in an organised and effective way will help reach the target of a safer and more secure information society."
+    }, 
+    {
+        "sentence_id,": "097cf23671", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "system", 
+                    "technology"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "However, no technological system or set of measures and actions, regardless of how comprehensive they are, will be able to protect cyberspace to an absolute degree, especially the critical information infrastructures of any country."
+    }, 
+    {
+        "sentence_id,": "f74cb13e05", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Bearing this in mind, it is essential to develop a National Contingency Plan for Critical Information Infrastructures."
+    }, 
+    {
+        "sentence_id,": "fd11d484c0", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "The target of this plan will be to guide and develop detailed processes and measures that will be taken when a large scale crisis affects the operations of critical information infrastructures (as will be defined and identified in the relevant action described in section 3.6) in the Republic of Cyprus to a significant degree."
+    }, 
+    {
+        "sentence_id,": "13e2b99c1f", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "The creation and development of the National Contingency Plan will be performed in tandem with the identification of critical information infrastructures in the Republic of Cyprus, and will include the following activities: ."
+    }, 
+    {
+        "sentence_id,": "e6056e960d", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Designation of categories and hierarchies of critical infrastructures, based on their contribution to the operation of vital communications and information services, ."
+    }, 
+    {
+        "sentence_id,": "84b97035ad", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Designation of the level of protection required for each part of this infrastructure (e.g."
+    }, 
+    {
+        "sentence_id,": "d08954e05e", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "redundancy, alternative routes, physical security, etc.)"
+    }, 
+    {
+        "sentence_id,": "ef459cfd12", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "effective"
+                ]
+            }
+        ], 
+        "sentence": "to minimise the effects of its potential damage or destruction, ."
+    }, 
+    {
+        "sentence_id,": "0ef83cee15", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure", 
+                    "monitor"
+                ]
+            }
+        ], 
+        "sentence": "Development of early warning systems and processes to monitor critical infrastructures, potentially with the help of the CERTs, ."
+    }, 
+    {
+        "sentence_id,": "9a2908f470", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Development of comprehensive communications and management processes, between critical information infrastructure operators, for the handling of a potential crisis and to achieve constructive collaboration between them, ."
+    }, 
+    {
+        "sentence_id,": "db97415d00", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Identification of all the critical information infrastructures that are connected to other countries, or which provide services that could affect information infrastructures in other countries, ."
+    }, 
+    {
+        "sentence_id,": "b0f7443e89", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Identification of available resources in terms of equipment and infrastructure, where deemed useful or necessary, between the relevant departments and services, and the creation of synergies for covering each others resources and services in emergencies."
+    }, 
+    {
+        "sentence_id,": "f8ceed9158", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure", 
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "ENISA has prepared a comprehensive document8 which describes best practices for the development of National Contingency Plans for critical information infrastructures, and which will be taken into account for the development of the related plan for the Republic of Cyprus; it emphasises the importance of a comprehensive cybersecurity and protection of critical information infrastructures strategy as a basis."
+    }, 
+    {
+        "sentence_id,": "785b238c51", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "It is noted that these above provisions, where needed, will be leveraged for the contribution of Cyprus to the development of a wider European Contingency Plan for the protection of European critical information infrastructures, whose abnormal operation would have negative impact in more than one member state."
+    }, 
+    {
+        "sentence_id,": "dd759aeb4d", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "8ENISA Good Practice Guide on National Contingency Plans for Critical Information Infrastructure Action 16 - Phase A Development of a National Contingency Plan, which will contain detailed processes and measures that will be taken when a large scale crisis affects the operations of critical information infrastructures in the Republic of Cyprus to a significant degree, with the aim of maintaining their operation at an acceptable minimum level until full restoration."
+    }, 
+    {
+        "sentence_id,": "3b8902d46f", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "3.15 Interdependencies This Strategy places special emphasis on the interdependencies and interactions between the actions that are described, even though each one has its own specific and separate targets, for its successful completion."
+    }, 
+    {
+        "sentence_id,": "840dc7a55a", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "The strategic response to threats against network and information security must be approached in a holistic fashion and it needs to be understood that many of these actions have to be implemented in combination, with the target of maximal success of such a strategic response."
+    }, 
+    {
+        "sentence_id,": "d4a8f9a6b0", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "As can be seen in section 2.3, there are a number of competent authorities handling different aspects of security, each one with its own areas of responsibility."
+    }, 
+    {
+        "sentence_id,": "a19b1328b1", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "effective"
+                ]
+            }
+        ], 
+        "sentence": "Despite the fact that duplication needs to be avoided, all interdependencies must be recognised and the cooperation between these authorities must be ensured so that the specialised knowledge and capabilities within each authority can be leveraged to maximum effect."
+    }, 
+    {
+        "sentence_id,": "79c35ccc44", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "In addition to this, operators of critical information infrastructures must explore, as part of their activities to manage threats and risks and for the development of business continuity plans, the interdependencies that they have for the secure management of their infrastructures, at all levels."
+    }, 
+    {
+        "sentence_id,": "e9b9bcd37f", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "On whom does the business depend in relation to security?"
+    }, 
+    {
+        "sentence_id,": "8c4eb8ed9f", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Who depends on the business in relation to security?"
+    }, 
+    {
+        "sentence_id,": "991f0973cc", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "These interdependencies will initially be identified as existing in the relationships between the actions themselves, the relationships between the competent authorities of the State, and the relationships between the critical infrastructure operators with their suppliers, customers and staff."
+    }, 
+    {
+        "sentence_id,": "98b85a9a38", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "computing"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Taking into account the activities that are prioritised in section 3.2, and their associated actions described herein, the following activities must begin in 2012: the identification of critical information infrastructures (section 3.6), the development of a National Contingency Plan for these infrastructures (section 3.14), ensuring the full operation of Computer Emergency Response Teams for incidents related to network and information security (CSIRT/CERT) and the planning and participation of Cyprus in the pan-European exercise Cyber Europe 2012 (section 3.10)."
+    }, 
+    {
+        "sentence_id,": "36b3d212e9", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Action 2 - Organisational Structure ."
+    }, 
+    {
+        "sentence_id,": "c40e03ee27", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Action 7 - Identification of Critical Information Infrastructures ."
+    }, 
+    {
+        "sentence_id,": "e4fa2061c4", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Action 15 International Cooperation ."
+    }, 
+    {
+        "sentence_id,": "fa15ae1270", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Action 16 - Development of a National Contingency Plan for Critical Information Infrastructures ."
+    }, 
+    {
+        "sentence_id,": "1ac2eb4b1f", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "This document provides synopses of the most important actions that have been identified for a coherent strategic response, so that cyberspace (and more generally the networks and information that are used on a daily basis) is secured, across the whole of Cypriot society."
+    }, 
+    {
+        "sentence_id,": "0a4bcccb94", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "assessment"
+                ]
+            }
+        ], 
+        "sentence": "4.2 Cost of Implementation In the context of detailed assessment and analysis of the individual actions, to the point to which it is feasible, the cost of implementing each action, as well as the time periods where specific budget items will be required, will be identified."
+    }, 
+    {
+        "sentence_id,": "eaa292f786", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "effective", 
+                    "assessment"
+                ]
+            }
+        ], 
+        "sentence": "This planning will be undertaken based on the results of the detailed assessment, costing and prioritisation of the actions, so that the implementation of the Strategic Response as a whole can be achieved in the best and most effective way possible, given available resources."
+    }, 
+    {
+        "sentence_id,": "e87bca0533", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy", 
+                    "monitor"
+                ]
+            }
+        ], 
+        "sentence": "The result of this process will be a detailed timeline which will allow the monitoring of the implementation status of all of the current Strategys actions."
+    }, 
+    {
+        "sentence_id,": "3f11dc97ab", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy", 
+                    "effective", 
+                    "assessment"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "4.4 Results Assessment and Strategy Review To achieve an effective strategic response, its implementation progress must be regularly and strictly reviewed."
+    }, 
+    {
+        "sentence_id,": "371c030bad", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "Towards this end, the results of the implementation of the measures and provisions included in the strategy actions will be analysed quantitatively and qualitatively accordingly."
+    }, 
+    {
+        "sentence_id,": "bd06143c09", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "A proper cybersecurity strategy cannot be considered to be a final plan; on the contrary, its implementation must be observed and updated at regular intervals."
+    }, 
+    {
+        "sentence_id,": "fa73ee8f11", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "assessment"
+                ]
+            }
+        ], 
+        "sentence": "This review process needs to take into consideration the assessment results, as well as new threats that appear (and will continue to appear) in cyberspace and any other new conditions that manifest in this area."
+    }, 
+    {
+        "sentence_id,": "19945adef3", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy", 
+                    "assessment"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "The detailed expansion of the strategy actions, as described in section 4.1, will include indicators and criteria for assessing the performance of each action, where feasible, and the results of this assessment will allow the proper review of the Strategy in the future, with substantial benefits to Cypriot society."
+    }, 
+    {
+        "sentence_id,": "fcc92efffb", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "APPENDIX I - OVERVIEW OF STRATEGY ACTIONS ."
+    }, 
+    {
+        "sentence_id,": "68da21a570", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure", 
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "Phase B o Phase B includes the actions that OCECPR will be in a position to coordinate once a new organisational structure has been developed, with the necessary resources to carry out the implementation of this Strategy in its entirety."
+    }, 
+    {
+        "sentence_id,": "cc33ce978b", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "effective"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Action 1 - Phase A Formulation of the framework for collaboration and information exchange with OCECPR, and between public authorities, so that OCECPR will be in a position to effectively coordinate the nations strategic response in the area of cybersecurity and the protection of critical information infrastructures, as well as coordinating the actions that relate to other stakeholders in the priority areas that can be addressed immediately."
+    }, 
+    {
+        "sentence_id,": "8a265c9fbf", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "effective"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "....................................................................................................................................................... 17 Action 2 - Phase A OCECPR will, at the appropriate time and in cooperation with the other competent authorities, develop a report regarding new policy for its reorganisation, so that it will be in a position to fully coordinate the efforts of the Republic of Cyprus for optimum implementation, application and supervision of all of the actions and the effective response to threats that are prevalent in cyberspace today, as well as rising threats that will appear in the future."
+    }, 
+    {
+        "sentence_id,": "d014fa0e2c", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": ".................................................................................................................. 17 Action 3 - Phase A/B Formation of working groups, with representatives from the public and private sectors (as necessary), to implement the Strategy Actions."
+    }, 
+    {
+        "sentence_id,": "866b187002", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "................................................................................................... 18 Action 4 - Phase B Creation of an appropriate legal framework to fully support the provisions of the Cybersecurity Strategy."
+    }, 
+    {
+        "sentence_id,": "bcd63e61da", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "law"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "assessment"
+                ]
+            }
+        ], 
+        "sentence": "All relevant laws of the competent authorities must be assessed for any updated needs."
+    }, 
+    {
+        "sentence_id,": "39f4532742", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "............................................................................................................................................................................ 18 Action 5 - Phase A/B Comprehensive survey of the private sector, for the identification of groups and stakeholders that can contribute in a positive way to the improvement of the levels of electronic security in the Republic of Cyprus, while simultaneously creating the conditions for developing close collaborative relationships."
+    }, 
+    {
+        "sentence_id,": "4f75338aeb", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "....................................................................................................................................................... 19 Action 6 - Phase B Investigate the possibility of creating a dynamic PPP (Public-Private Partnership) in the area of critical information infrastructure protection in the Republic of Cyprus and promote active cooperation with international entities through participation in international fora."
+    }, 
+    {
+        "sentence_id,": "a421d7c405", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "assessment"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "...................................................................................... 20 Action 7 - Phase A Identification and assessment of the critical information infrastructures in the republic of Cyprus, to better target activities and actions for their protection, with the contribution of both the public and private sectors."
+    }, 
+    {
+        "sentence_id,": "c036b4e164", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "monitor"
+                ]
+            }
+        ], 
+        "sentence": ".................................................................................................................................................... 21 Action 8 - Phase B Comprehensive survey to record current threats and attacks in cyberspace that have been published in Cyprus, as well as monitoring new threats that appear in the European and international space."
+    }, 
+    {
+        "sentence_id,": "66777e1da7", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": ".. 21 Action 9 - Phase B Development of a National Cybersecurity Framework which will promote the protection of critical information infrastructures in the Republic of Cyprus, as well as governmental departments and services."
+    }, 
+    {
+        "sentence_id,": "efe53f6bf3", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "computing"
+                ]
+            }
+        ], 
+        "sentence": "............................................................................................................................................................................ 22 Action 10 - Phase A Ensure the full functionality of Computer Emergency Response Teams (CERTs/CSIRTs), with immediate priority for the operation of the Governments CERT/CSIRT."
+    }, 
+    {
+        "sentence_id,": "e1fd3c9d28", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "Necessary certifications and memberships will be obtained to allow their participation in relevant European working groups."
+    }, 
+    {
+        "sentence_id,": "051b5f9fa4", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "assessment"
+                ]
+            }
+        ], 
+        "sentence": "..................... 23 Action 11 - Phase B Assessment by OCECPR, in cooperation with the CERTs/CSIRTs, of expanding their activities or creating new CERTs/CSIRTs to cover the needs of the private sector and the business community................. 23 Action 12 - Phase A Planning and organisation of regular national cybersecurity exercises, with increasingly realistic scenarios, as well as active participation in pan-European and other international cyber exercises."
+    }, 
+    {
+        "sentence_id,": "d9dd98d795", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification", 
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "...... 24 Action 13 - Phase B Development of suitable human resources that will have the necessary technical know- how and certifications to implement the provisions of this Strategy to a high level, in the mid- and long-term, and inclusion of these skills and certifications into the job descriptions for related positions."
+    }, 
+    {
+        "sentence_id,": "09095db8ab", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "............................ 24 Action 14 - Phase B Development of a comprehensive National Awareness Programme for cybersecurity matters, covering all users of electronic systems, from governmental workers to citizens of the State."
+    }, 
+    {
+        "sentence_id,": "322f0f77d8", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "This cooperation will support the actions and activities on a Union level to improve the level of cybersecurity in the whole of Europe."
+    }, 
+    {
+        "sentence_id,": "ef4c32a944", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "............................................................................................... 26 Action 16 - Phase A Development of a National Contingency Plan, which will contain detailed processes and measures that will be taken when a large scale crisis affects the operations of critical information infrastructures in the Republic of Cyprus to a significant degree, with the aim of maintaining their operation at an acceptable minimum level until full restoration."
+    }, 
+    {
+        "sentence_id,": "6ad1341c91", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "These interdependencies will initially be identified as existing in the relationships between the actions themselves, the relationships between the competent authorities of the State, and the relationships between the critical infrastructure operators with their suppliers, customers and staff."
+    }, 
+    {
+        "sentence_id,": "eb34f00094", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": ".......................................................................... 28 APPENDIX II - ACTION INTERDEPENDENCIES The diagram below shows the indicative interdependencies between the Strategy actions."
+    }
+]

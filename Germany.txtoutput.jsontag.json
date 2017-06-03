@@ -1,0 +1,1742 @@
+[
+    {
+        "sentence_id,": "d73ee755f6", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy", 
+                    "assessment"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure", 
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "Cyber Security Strategy for Germany Contents Introduction 2 IT threat assessment 3 Framework conditions 4 Basic principles of the Cyber Security Strategy 4 Strategic objectives and measures 6 Sustainable implementation 13 Abbreviations 14 Definitions 14 1 Introduction Cyberspace includes all information infrastructures accessible via the Internet beyond all territorial boundaries."
+    }, 
+    {
+        "sentence_id,": "bc8eb47a43", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "technology"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "As part of an increasingly interconnected world, the state, critical infrastructures, businesses and citizens in Germany depend on the reliable functioning of information and communication technology and the Internet."
+    }, 
+    {
+        "sentence_id,": "89ba28bad8", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "minister", 
+                    "administration"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "technology"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Malfunctioning IT products and components, the break-down of information infrastructures or serious cyber attacks may have a considerable negative impact on the performance of technology, businesses and the administration and hence on Germanys social lifelines."
+    }, 
+    {
+        "sentence_id,": "731ec15997", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Ensuring cyber security has thus turned into a central challenge for the state, business and society both at national and international level."
+    }, 
+    {
+        "sentence_id,": "4ed0c9daa7", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "The Cyber Security Strategy is intended to improve the framework conditions in this area."
+    }, 
+    {
+        "sentence_id,": "d67a2b0fed", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "assessment"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "2 IT threat assessment In recent years attacks against information infrastructures have become ever more frequent and complex, while at the same time perpetrators have become more professional."
+    }, 
+    {
+        "sentence_id,": "11e482e4cb", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "Given the openness and extent of cyberspace it is possible to conduct covert attacks and misuse vulnerable systems as tools for an attack."
+    }, 
+    {
+        "sentence_id,": "93836ff274", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "technology"
+                ]
+            }
+        ], 
+        "sentence": "In view of technologically sophisticated malware the possibilities of responding to and retracing an attack are rather limited."
+    }, 
+    {
+        "sentence_id,": "17d516fd05", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards", 
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "The trend to develop information systems for industry on the basis of standard components and connect them to cyberspace, which is motivated mainly by economic concerns, entails new vulnerabilities."
+    }, 
+    {
+        "sentence_id,": "fa98e1a3e1", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Experience with the Stuxnet virus shows that important industrial infrastructures are no longer exempted from targeted IT attacks."
+    }, 
+    {
+        "sentence_id,": "19ed4b2c01", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Given the increasing complexity and vulnerability of information infrastructures the cyber security situation will remain critical also in the future."
+    }, 
+    {
+        "sentence_id,": "0b5bc34e7d", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "3 Framework conditions Ensuring cyber security, enforcing rights and protecting critical information infrastructures require major efforts by the state both at national level and in cooperation with international partners."
+    }, 
+    {
+        "sentence_id,": "e9d8c19c0e", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "Given the shared responsibilities of the state, the industry and the society a cyber security strategy will only be successful if all players act as partners and fulfil their tasks together."
+    }, 
+    {
+        "sentence_id,": "5ac702de86", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Since IT systems are interconnected in global networks, incidents in other countries information infrastructures may also indirectly affect Germany."
+    }, 
+    {
+        "sentence_id,": "53e0c87315", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "rule", 
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "For this reason, strengthening cyber security also requires the enforcement of international rules of conduct, standards and norms."
+    }, 
+    {
+        "sentence_id,": "9eb4e31a16", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Only a mix of domestic and external policy measures will be appropriate for the dimension of the problem."
+    }, 
+    {
+        "sentence_id,": "6ff530eb79", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "enhance"
+                ]
+            }
+        ], 
+        "sentence": "Cyber security can be improved by enhancing the framework conditions for drawing up common minimum standards (code of conduct) with allies and partners."
+    }, 
+    {
+        "sentence_id,": "4c7b77802c", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "law"
+                ]
+            }
+        ], 
+        "sentence": "Fighting the rapid growth of cybercrime requires close cooperation between law enforcement authorities worldwide."
+    }, 
+    {
+        "sentence_id,": "b7d889d944", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "Basic principles of the Cyber Security Strategy The Federal Government aims at making a substantial contribution to a secure cyberspace, thus maintaining and promoting economic and social prosperity in Germany."
+    }, 
+    {
+        "sentence_id,": "8ae9e91a21", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Cyber security in Germany must be ensured at a level commensurate with the importance and protection required by interlinked information infrastructures, without hampering the opportunities and the utilization of the cyberspace."
+    }, 
+    {
+        "sentence_id,": "6085d58dc4", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "technology"
+                ]
+            }
+        ], 
+        "sentence": "In this context the level of cyber security reached is the sum of all national and international measures taken to protect the availability of information and communications technology and the integrity, authenticity and confidentiality of data in cyberspace."
+    }, 
+    {
+        "sentence_id,": "55c14f17f7", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "4 Cyber security must be based on a comprehensive approach."
+    }, 
+    {
+        "sentence_id,": "27f380f280", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "The Cyber Security Strategy mainly focuses on civilian approaches and measures."
+    }, 
+    {
+        "sentence_id,": "6e977e4b9e", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection"
+                ]
+            }
+        ], 
+        "sentence": "They are complemented by measures taken by the Bundeswehr 1 to protect its capabilities and measures based on mandates to make cyber security a part of Germanys preventive security strategy."
+    }, 
+    {
+        "sentence_id,": "918b1bc1ea", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "technology"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Given the global nature of information and communications technology, international coordination and appropriate networks focusing on foreign and security policy aspects are indispensable."
+    }, 
+    {
+        "sentence_id,": "394e36c0fe", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection"
+                ]
+            }
+        ], 
+        "sentence": "The aim is to ensure the coherence and capabilities of the international community to protect cyberspace."
+    }, 
+    {
+        "sentence_id,": "9b1bf0def6", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "minister", 
+                    "administration", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure", 
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "1 Armed Forces (Bundeswehr) 5 Strategic objectives and measures With the present Cyber Security Strategy the Federal Government adapts measures to the current threats on the basis of the structures established by the CIP implementation plan and the implementation plan for the federal administration."
+    }, 
+    {
+        "sentence_id,": "7f3e24c9b4", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Protection of critical information infrastructures The protection of critical information infrastructures is the main priority of cyber security."
+    }, 
+    {
+        "sentence_id,": "0711eb1b0d", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "They are a central component of nearly all critical infrastructures and become increasingly important."
+    }, 
+    {
+        "sentence_id,": "b4a5ff6ae0", 
+        "tag": [
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "enhance"
+                ]
+            }
+        ], 
+        "sentence": "The public and the private sector must create an enhanced strategic and organizational basis for closer coordination based on intensified information sharing."
+    }, 
+    {
+        "sentence_id,": "06edf81247", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "enhance"
+                ]
+            }
+        ], 
+        "sentence": "To this end, cooperation established by the CIP implementation plan is systematically extended, and legal commitments to 6 enhance the binding nature of the CIP implementation plan are examined."
+    }, 
+    {
+        "sentence_id,": "018551bac6", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "With the participation of the National Cyber Security Council (cf."
+    }, 
+    {
+        "sentence_id,": "4487d35e01", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "technology"
+                ]
+            }
+        ], 
+        "sentence": "objective 5), the integration of additional sectors is examined and the introduction of new relevant technologies is considered to a greater extent."
+    }, 
+    {
+        "sentence_id,": "3baa36b68a", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection"
+                ]
+            }
+        ], 
+        "sentence": "Whether and where protective measures have to be made mandatory and whether and where additional powers are required in case of specific threats have to be clarified, too."
+    }, 
+    {
+        "sentence_id,": "bc77ff76a4", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "rule"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Furthermore we will examine the necessity of harmonizing rules to maintain critical infrastructures during IT crises."
+    }, 
+    {
+        "sentence_id,": "e4b3290657", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Secure IT systems in Germany Infrastructure protection requires more security with regard to IT systems used by citizens and small and medium-sized businesses."
+    }, 
+    {
+        "sentence_id,": "a37ccf8600", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "Users need appropriate and consistent information on risks related to the use of IT systems and on security measures they can take to use cyberspace in a secure manner."
+    }, 
+    {
+        "sentence_id,": "c2b499b309", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Furthermore we will examine whether providers may have to assume greater responsibility and make sure that a basic collection of appropriate security products and services are made available to users by providers."
+    }, 
+    {
+        "sentence_id,": "7e0624290e", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "We want to provide specific incentives and funds for basic security functions certified by the state (e. g. electronic proof of identity or De-mail) to be used by the vast majority of citizens."
+    }, 
+    {
+        "sentence_id,": "7f7deb2a47", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "minister"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "system", 
+                    "technology"
+                ]
+            }
+        ], 
+        "sentence": "To support small and medium-sized businesses in the secure use of IT systems, the Federal Ministry of Economics and Technology has set up a task force on IT security in industry with the participation of industry."
+    }, 
+    {
+        "sentence_id,": "9dd9c502da", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection", 
+                    "minister", 
+                    "administration"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "enhance"
+                ]
+            }
+        ], 
+        "sentence": "Strengthening IT security in the public administration The public administration will further enhance the protection of its IT systems."
+    }, 
+    {
+        "sentence_id,": "abcdccad33", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "State authorities have to serve as role models for data security."
+    }, 
+    {
+        "sentence_id,": "8ff4000658", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "minister", 
+                    "administration"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "We will create a common, uniform and secure network infrastructure in the federal administration (federal networks) as a basis for electronic audio and data communication."
+    }, 
+    {
+        "sentence_id,": "86cb6b6c56", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "minister", 
+                    "administration"
+                ]
+            }
+        ], 
+        "sentence": "We will continue to press ahead with the implementation plan for the federal administration."
+    }, 
+    {
+        "sentence_id,": "98bb0ab9f5", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Should the IT security situation get worse, this plan may be 7 aligned accordingly."
+    }, 
+    {
+        "sentence_id,": "fe90c80c7d", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "effective"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Effective IT security requires powerful structures in all federal authorities."
+    }, 
+    {
+        "sentence_id,": "26f8d2c073", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "To facilitate implementation through uniform action by authorities, joint investments into the Federal Governments IT security will be made regularly in line with budgetary possibilities."
+    }, 
+    {
+        "sentence_id,": "34cb626508", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "computing"
+                ]
+            }
+        ], 
+        "sentence": "Operational cooperation with the federal Lnder, particularly with regard to CERTs (computer emergency response teams), will be further intensified by the IT planning council."
+    }, 
+    {
+        "sentence_id,": "48b68ef1c5", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection"
+                ]
+            }
+        ], 
+        "sentence": "National Cyber Response Centre To optimize operational cooperation between all state authorities and improve the coordination of protection and response measures for IT incidents we will set up a National Cyber Response Centre."
+    }, 
+    {
+        "sentence_id,": "5f3361f539", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection"
+                ]
+            }
+        ], 
+        "sentence": "It will report to the Federal Office for Information Security (BSI) and cooperate directly with the Federal Office for the Protection of the Constitution (BfV) and the Federal Office of Civil Protection and Disaster Assistance (BBK)."
+    }, 
+    {
+        "sentence_id,": "18b0fce264", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "The Federal Criminal Police Office (BKA), the Federal Police (BPOL), the Customs Criminological Office (ZKA), the Federal Intelligence Service (BND), the Bundeswehr and authorities supervising critical infrastructure operators all participate in this centre within the framework of their statutory tasks and powers."
+    }, 
+    {
+        "sentence_id,": "28e1194355", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection"
+                ]
+            }
+        ], 
+        "sentence": "The interests of the private sector to protect itself against crime and espionage in cyberspace should also be adequately taken into account."
+    }, 
+    {
+        "sentence_id,": "e469fe4830", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "assessment"
+                ]
+            }
+        ], 
+        "sentence": "Every stakeholder takes the necessary measures in its remit on the basis of the jointly developed national cyber security assessment and coordinates them with the competent authorities as well as partners from industry and academia."
+    }, 
+    {
+        "sentence_id,": "7e113a3be4", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Since security preparedness is best achieved by early warning and prevention, the Cyber Response Centre will submit recommendations to the National Cyber Security Council both on a regular basis and for specific incidents."
+    }, 
+    {
+        "sentence_id,": "be2e211b01", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "minister"
+                ]
+            }
+        ], 
+        "sentence": "If the cyber security situation reaches the level of an imminent or already occurred crisis, the National Cyber Response Centre will directly inform the crisis management staff headed by the responsible State Secretary at the Federal Ministry of the Interior."
+    }, 
+    {
+        "sentence_id,": "cd01ed7620", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "National Cyber Security Council The identification and removal of structural causes for crises are considered an important preventive tool for cyber security."
+    }, 
+    {
+        "sentence_id,": "ff16974a66", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "technology"
+                ]
+            }
+        ], 
+        "sentence": "For this reason we want to establish and maintain cooperation within the Federal Government and between the public and the private sector within the responsibility of the Federal Government Commissioner for Information Technology more visible and set up a National Cyber Security Council."
+    }, 
+    {
+        "sentence_id,": "b14bfcf5b8", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "minister"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "technology"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "The Federal Chancellery and a State Secretary from each the Federal Foreign Office, the Federal Ministry of the Interior, the Federal Ministry of Defence, the Federal Ministry for Economics and Technology, the Federal Ministry of Justice, the Federal Ministry of Finance, the Federal Ministry of Education and Resarch and representatives of the federal Lnder will participate."
+    }, 
+    {
+        "sentence_id,": "67a6bbea0f", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "minister"
+                ]
+            }
+        ], 
+        "sentence": "On specific occasions additional ministries will be included."
+    }, 
+    {
+        "sentence_id,": "de6d593315", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "The National Cyber Security Council is intended to coordinate preventive tools and the interdisciplinary cyber security 9 approaches of the public and the private sector."
+    }, 
+    {
+        "sentence_id,": "ccb9192931", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "The National Cyber Security Council will complement and interlink IT management at federal level and the work of the IT Planning Council in the area of cyber security at a political and strategic level."
+    }, 
+    {
+        "sentence_id,": "e828df9670", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "law", 
+                    "secure", 
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "effective"
+                ]
+            }
+        ], 
+        "sentence": "Effective crime control also in cyberspace The capabilities of law enforcement agencies, the Federal Office for Information Security and the private sector in combating cyber crime, also with regard to protection against espionage and sabotage, must be strengthened."
+    }, 
+    {
+        "sentence_id,": "987faa643d", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "law", 
+                    "institution"
+                ]
+            }
+        ], 
+        "sentence": "To improve the exchange of know how in this area we intend to set up joint institutions with industry with the participation of the competent law enforcement agencies, which will act in an advisory capacity."
+    }, 
+    {
+        "sentence_id,": "94b8bc4701", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Projects to support partner countries with structural weaknesses will also serve the aim of combating cyber crime."
+    }, 
+    {
+        "sentence_id,": "01904ffd06", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "law"
+                ]
+            }
+        ], 
+        "sentence": "To face up to the growing challenges of global cyber crime activities we will make a major effort to achieve global harmonization in criminal law based on the Council of Europe Cyber Crime Convention."
+    }, 
+    {
+        "sentence_id,": "2076988546", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "effective"
+                ]
+            }
+        ], 
+        "sentence": "Effective coordinated action to ensure cyber security in Europe and worldwide In global cyberspace security can be achieved only through coordinated tools at national and international level."
+    }, 
+    {
+        "sentence_id,": "e04d17160e", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "institution", 
+                    "secure", 
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "At EU level we support appropriate measures based on the action plan for the protection of critical information infrastructures, the extension and moderate enlargement of the mandate of the European Network and Information Security Agency (ENISA) in view of the changed threat situation in ICT and the pooling of IT competences in EU institutions."
+    }, 
+    {
+        "sentence_id,": "edcb4df885", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy", 
+                    "digital"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "The EU Internal Security Strategy and the Digital Agenda provide guidance for further activities."
+    }, 
+    {
+        "sentence_id,": "bd981fd7c1", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "We will shape our external cyber policy in such a way that German interests and ideas concerning cyber security are coordinated and pursued in international organizations, such as the United Nations, the OSCE, the Council of Europe, the OECD and NATO."
+    }, 
+    {
+        "sentence_id,": "790a15f325", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "evaluate"
+                ]
+            }
+        ], 
+        "sentence": "An increasingly multilateral approach must be brought in line with the necessity of sovereign evaluation and decision-making powers."
+    }, 
+    {
+        "sentence_id,": "25acc52ea5", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "In this context, a code for state conduct in cyberspace (cyber code) should be established, which is signed by as many countries as possible and includes confidencebuilding security measures."
+    }, 
+    {
+        "sentence_id,": "f6bdeaa2ae", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "NATO serves as the basis of transatlantic security."
+    }, 
+    {
+        "sentence_id,": "68f71b292b", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Hence, NATO must take cyber security appropriately into account in its entire range of responsibilities."
+    }, 
+    {
+        "sentence_id,": "5c2982ed93", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "We are in favour of the alliances commitment to establishing uniform security standards, which Member States may also use for civilian critical infrastructures on a voluntary basis, as foreseen in NATOs new Strategic Concept."
+    }, 
+    {
+        "sentence_id,": "47007ce9ce", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "system", 
+                    "technology"
+                ]
+            }
+        ], 
+        "sentence": "Use of reliable and trustworthy information technology The availability of reliable IT systems and components must be ensured on a permanent basis."
+    }, 
+    {
+        "sentence_id,": "2004590af5", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection"
+                ]
+            }
+        ], 
+        "sentence": "The development of innovative protection plans for improved security which take into account social and economic aspects is strongly supported."
+    }, 
+    {
+        "sentence_id,": "95af4f1508", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "To this end, we will continue and intensify research on IT security and on critical infrastructure protection."
+    }, 
+    {
+        "sentence_id,": "ce33196edd", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy", 
+                    "technology", 
+                    "technology"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "Furthermore we will strengthen Germanys technological sovereignty and economic capacity in the entire range of core strategic IT competences, include them in our political strategies and develop them further."
+    }, 
+    {
+        "sentence_id,": "87e4598cc6", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "technology"
+                ]
+            }
+        ], 
+        "sentence": "We are in favour of diversity in technology."
+    }, 
+    {
+        "sentence_id,": "a2dfa4f4d4", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards", 
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "Our aim is to use components in critical security areas which are certified against an international recognized certification standard."
+    }, 
+    {
+        "sentence_id,": "78d21ff909", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Personnel development in federal authorities Given the strategic importance of cyber security, it must be examined as a priority whether additional staff is necessary in authorities in the interest of cyber security."
+    }, 
+    {
+        "sentence_id,": "fd888defc5", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "minister"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "enhance"
+                ]
+            }
+        ], 
+        "sentence": "Furthermore, intensified personnel exchange between federal authorities and appropriate further training measures will enhance interministerial cooperation."
+    }, 
+    {
+        "sentence_id,": "7a4eb63abb", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "assessment"
+                ]
+            }
+        ], 
+        "sentence": "We will continue to assess the threat situation regularly and take appropriate protection measures."
+    }, 
+    {
+        "sentence_id,": "a23d3cb6d8", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "institution"
+                ]
+            }
+        ], 
+        "sentence": "Above all, the aims, mechanisms and institutions mentioned above must be internalized through a permanent exercise process with the relevant federal and Lnder authorities as well as businesses."
+    }, 
+    {
+        "sentence_id,": "e009f2df30", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "freedom", 
+                    "secure", 
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "12 Sustainable implementation With the implementation of the strategic objectives and measures the Federal Government contributes to ensuring cyber security and thus to freedom and prosperity in Germany."
+    }, 
+    {
+        "sentence_id,": "db65cd14f9", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "effective"
+                ]
+            }
+        ], 
+        "sentence": "A lot will depend on whether we succeed at international level in taking effective measures to protect cyberspace."
+    }, 
+    {
+        "sentence_id,": "42c5127221", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "technology"
+                ]
+            }
+        ], 
+        "sentence": "The information technologies used are subject to short innovation cycles."
+    }, 
+    {
+        "sentence_id,": "e7ced59f7f", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "For this reason the Federal Government will regularly review whether the aims of the Cyber Security Strategy have been achieved under the overall control of the National Cyber Security Council and will adapt the strategies and measures to the given requirements and framework conditions."
+    }, 
+    {
+        "sentence_id,": "3839bd1943", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection", 
+                    "minister"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "computing", 
+                    "technology", 
+                    "system", 
+                    "technology"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "13 Abbreviations BBK Federal Office of Civil Protection and Disaster Assistance BfV Federal Office for the Protection of the Constitution BKA Federal Criminal Police Office BMI Federal Ministry of the Interior BND Federal Intelligence Service BPOL Federal Police BSI Federal Office for Information Security CERT Computer Emergency Response Team CIP Critical infrastructure protection ENISA European Network and Information Security Agency EU European Union G8 Group of leading industrialized nations in the world (Germany, USA, Japan, United Kingdom, Canada, France, Italy and the Russian Federation) IT Information technology NATO North Atlantic Treaty Organization OSZE Organization for Security and Co-operation in Europe ZKA Customs Criminological Office Definitions (Explanations and terminology used in this document) Cyberspace Cyberspace is the virtual space of all IT systems linked at data level on a global scale."
+    }, 
+    {
+        "sentence_id,": "d19dae00ba", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "IT systems in an isolated virtual space are not part of cyberspace."
+    }, 
+    {
+        "sentence_id,": "fc5d5dbb49", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "Cyber attack, cyber espionage and cyber sabotage A cyber attack is an IT attack in cyberspace directed against one or several other IT systems and aimed at damaging IT security."
+    }, 
+    {
+        "sentence_id,": "0d0d341e53", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "The aims of IT security, confidentiality, integrity and availability may all or individually be compromised."
+    }, 
+    {
+        "sentence_id,": "2581998f99", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "Cyber attacks directed against the confidentiality of an IT system, which are launched 14 or managed by foreign intelligence services, are called cyber espionage."
+    }, 
+    {
+        "sentence_id,": "14dc435b7b", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "Cyber attacks against the integrity and availability of IT systems are termed cyber sabotage."
+    }, 
+    {
+        "sentence_id,": "a09c27f120", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "Cyber security and civilian and military cyber security (Global) cyber security is the desired objective of the IT security situation, in which the risks of global cyberspace have been reduced to an acceptable minimum."
+    }, 
+    {
+        "sentence_id,": "7a4deda601", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "Hence, cyber security in Germany is the desired objective of the IT security situation, in which the risks of the German cyberspace have been reduced to an acceptable minimum."
+    }, 
+    {
+        "sentence_id,": "5b11007078", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Cyber security (in Germany) is the sum of suitable and appropriate measures."
+    }, 
+    {
+        "sentence_id,": "ea4a11d3cb", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "Civilian cyber security focuses on all IT systems for civilian use in German cyberspace."
+    }, 
+    {
+        "sentence_id,": "bdbccb3f4d", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "Military cyber security focuses on all IT systems for military use in German cyberspace."
+    }, 
+    {
+        "sentence_id,": "80120dfe1d", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "institution", 
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Critical infrastructures Critical infrastructures are organizations or institutions with major importance for the public good, whose failure or damage would lead to sustainable supply bottlenecks, considerable disturbance of public security or other dramatic consequences."
+    }, 
+    {
+        "sentence_id,": "f10a94139a", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "minister", 
+                    "administration"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "technology"
+                ]
+            }
+        ], 
+        "sentence": "At federal level, the following areas have been identified: Energy Information technology and telecommunication Transport Health Water Food Finance and insurance sector State and administration Media and culture 15 This brochure has been published free of charge as part of the public information efforts of the Federal Ministry of the Interior."
+    }, 
+    {
+        "sentence_id,": "4b00ad30e4", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "Regardless of when, by what means and in what quantities this publication was delivered to the recipient, even without reference to any upcoming election it may not be used in a manner that could be construed as bias by the Federal Government on behalf of any individual political group."
+    }, 
+    {
+        "sentence_id,": "325a0f04ef", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "minister"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "consultant"
+                ]
+            }
+        ], 
+        "sentence": "Imprint Published by: Federal Ministry of the Interior Alt-Moabit 101 D 10559 Berlin Edited by: Department IT 3 Design and production: MEDIA CONSULTA Deutschland GmbH Photo credits: iStockphoto, shutterstock English translation: Federal Ministry of the Interior Translation Service Edition: February 2011 www.bmi.bund.de"
+    }
+]

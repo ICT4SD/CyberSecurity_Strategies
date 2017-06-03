@@ -1,0 +1,1939 @@
+[
+    {
+        "sentence_id,": "b0e77f6a59", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "Parties related to the strategy ........................................................................................................................ 13 INTRODUCTION The Cyber Security Strategy 2014-2017 is the basic document for planning Estonias cyber security and a part of Estonias broader security strategy."
+    }, 
+    {
+        "sentence_id,": "653fabc540", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy", 
+                    "assessment"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "The strategy highlights important recent developments, assesses threats to Estonias cyber security and presents measures to manage threats."
+    }, 
+    {
+        "sentence_id,": "0671d9a368", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "This strategy continues the implementation of many of the goals found in the Cyber Security Strategy 2008-2013; however, new threats and needs which were not covered by the previous strategy have also been added."
+    }, 
+    {
+        "sentence_id,": "7e25bfc438", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "Sectoral progress In 2009, a Cyber Security Council was added to the Security Committee of the Government of the Republic, whose main task is to support strategic level inter-agency co-operation and oversee the implementation of Cyber Security Strategy objectives."
+    }, 
+    {
+        "sentence_id,": "8ec3dafdea", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "In 2010, by a decision of the Government of the Republic, the Estonian Informatics Centre was given government agency status."
+    }, 
+    {
+        "sentence_id,": "74636c4cc7", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "system", 
+                    "technology"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "The renamed Estonian Information System Authority (Riigi Infossteemi Amet hereinafter RIA) received additional powers and resources for organising protection of the states information and communication technology (hereinafter ICT) infrastructure, and exercising supervision over the security of information systems."
+    }, 
+    {
+        "sentence_id,": "8c0e74811a", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "For the purposes of organising the protection of infrastructure, the Department of Critical Information Infrastructure Protection (hereinafter CIIP) was formed within the RIA."
+    }, 
+    {
+        "sentence_id,": "a81e288e2d", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "In early 2010, the RIA launched the critical information infrastructure (hereinafter CII) mapping project, which identified the dependencies of vital services on information systems."
+    }, 
+    {
+        "sentence_id,": "fa4993ea7b", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "On the basis of the mapping, security requirements for vital information systems necessary for the functioning of the state were developed."
+    }, 
+    {
+        "sentence_id,": "b3d168692a", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "The purpose of the commission, which brings together cyber security and IT managers from vital services agencies, is to exchange operational information, identify problems and make suggestions for improving the cyber security of the country's critical infrastructure."
+    }, 
+    {
+        "sentence_id,": "8032664e7c", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection"
+                ]
+            }
+        ], 
+        "sentence": "A web-constable is tasked with raising people's awareness about the security of the Internet and protecting children and young people online."
+    }, 
+    {
+        "sentence_id,": "fc0b5bdd06", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "The Estonian Internal Security Service strengthened its investigative capabilities in order to prevent threats to national security, including cyber attacks and espionage."
+    }, 
+    {
+        "sentence_id,": "578423ccec", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "The expertise of EDL CU volunteers is applied to improve the security of Estonian state agencies and companies information systems through coordinated exercises, testing of solutions, training, etc.."
+    }, 
+    {
+        "sentence_id,": "0042dd1b20", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "institution", 
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "The EDL CU can also be engaged to support civilian institutions and protect critical infrastructure in a crisis situation."
+    }, 
+    {
+        "sentence_id,": "2f78883374", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "assessment"
+                ]
+            }
+        ], 
+        "sentence": "Domestic and international cyber security training exercises have also played an important role in the development and assessment of cyber security capabilities."
+    }, 
+    {
+        "sentence_id,": "a7ab2ddbfb", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "technology"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "In the field of cyber security, the main provider of training and awareness-raising is the Information Technology Foundation for Education (hereinafter HITSA), formerly known as the Tiger Leap Foundation."
+    }, 
+    {
+        "sentence_id,": "63d020f27c", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "device"
+                ]
+            }
+        ], 
+        "sentence": "A state-private partnership project was launched in 2013 to raise the skills and security awareness of smart device users, developers and vendors."
+    }, 
+    {
+        "sentence_id,": "38fab050b0", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "technology"
+                ]
+            }
+        ], 
+        "sentence": "In cooperation between Tallinn University of Technology (TUT) and the University of Tartu, the international Masters programme in Cyber Security was opened in 2009, with 50 students accepted into the programme each year."
+    }, 
+    {
+        "sentence_id,": "d6924da7f7", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "digital"
+                ]
+            }
+        ], 
+        "sentence": "In 2014, TUT, in cooperation with the Estonian Centre 2CENTRE, opened a Masters programme in Digital Forensics."
+    }, 
+    {
+        "sentence_id,": "8c85744332", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Estonia has successfully cooperated with other ICT-advanced countries and international organizations in the field of cyber security."
+    }, 
+    {
+        "sentence_id,": "e728571b47", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "An active role in shaping cyber security policy led to the establishment of the NATO Cooperative Cyber Defence Centre of Excellence in Estonia."
+    }, 
+    {
+        "sentence_id,": "822c068330", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Estonia has contributed to cyber security becoming part of NATO and European Union policy, and other countries interest towards Estonias experience in cyber security has grown significantly."
+    }, 
+    {
+        "sentence_id,": "7f59da15aa", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Cyber security related cooperation has been successful on the regional level between the Nordic countries and the Baltic States, as well as with other strategic partners and like-minded countries."
+    }, 
+    {
+        "sentence_id,": "b5f5329952", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "freedom", 
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "Estonia is also participating in newer forms of cooperation - the Freedom Online Coalition, the United Nations Group of Governmental Experts, the OSCE informal working group on developing confidence building measures in cyberspace, Friends of the Presidency of the European Union, and others."
+    }, 
+    {
+        "sentence_id,": "db56ee937f", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "technology"
+                ]
+            }
+        ], 
+        "sentence": "Trends The continued rapid development of information and communication technologies, globalization, the drastic increase in data volumes and the growing number of different types of equipment connected to data networks have an impact on daily life, the economy and the functioning of the state."
+    }, 
+    {
+        "sentence_id,": "b0c7c76abd", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "enhance"
+                ]
+            }
+        ], 
+        "sentence": "On the one hand, this level of ICT development will contribute to the improved availability and usability of services, enhance transparency and citizen participation in governance, and cut public as well as private sector costs."
+    }, 
+    {
+        "sentence_id,": "6a1d3b3e60", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "technology"
+                ]
+            }
+        ], 
+        "sentence": "On the other hand, the increasing importance of technology is accompanied by an increase in the states growing dependence on already entrenched e-solutions, and cements the expectation of technology operating seamlessly."
+    }, 
+    {
+        "sentence_id,": "9d99cecec5", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "computing", 
+                    "technology", 
+                    "technology"
+                ]
+            }
+        ], 
+        "sentence": "In addition, the Internet is becoming increasingly accessible, the number of users continues to grow, and with new technological solutions and services - such as the \"Internet of things\", and cloud computing - the number of potential vectors for attacks, along with the complexity of attacks, is growing."
+    }, 
+    {
+        "sentence_id,": "86ea31eab0", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "technology"
+                ]
+            }
+        ], 
+        "sentence": "Social processes are also becoming increasingly dependent on a growing number of information technology resources, and in the future attention must be drawn to the fact that society at large, and each individual in particular, will be able to maintain control over the corresponding processes."
+    }, 
+    {
+        "sentence_id,": "cc33c92adc", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "technology"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "Otherwise, there is potential for information technologies to reduce the role of humans in the decision-making process, and processes may become self-regulatory (technological singularity)."
+    }, 
+    {
+        "sentence_id,": "79872a38ab", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "digital"
+                ]
+            }
+        ], 
+        "sentence": "An integral part of the processing of crimes is the collection and handling of digital evidence, which poses new challenges to the procedural and digital forensics capabilities of the police."
+    }, 
+    {
+        "sentence_id,": "be844150d6", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "National cyber security is affected by the actors operating in cyberspace with their various skills, targets and motivations."
+    }, 
+    {
+        "sentence_id,": "553478b465", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "computing"
+                ]
+            }
+        ], 
+        "sentence": "The number of state actors in cyberspace that are involved in cyber espionage targeted at computers connected to the Internet as well as closed networks continues to grow, with their aim being to collect information on both national security as well as economic interests."
+    }, 
+    {
+        "sentence_id,": "ba36e5b9d6", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "effective"
+                ]
+            }
+        ], 
+        "sentence": "Meaningful and effective cooperation between the public and private sector in the development of cyber security organisation as well as in preventing and resolving cyber incidents is becoming increasingly unavoidable."
+    }, 
+    {
+        "sentence_id,": "58a2c591a7", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "National defence and internal security are dependent on the private sectors infrastructure and resources, while at the same time the state can assist vital service providers and guarantors of national critical information infrastructure as a coordinator and balancer of various interests."
+    }, 
+    {
+        "sentence_id,": "7d01b1d8b9", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Challenges The main cyber security risks arise from the extensive and growing dependence on ICT infrastructure and e-services by the Estonian state, the economy and the population."
+    }, 
+    {
+        "sentence_id,": "697e1f6bda", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy", 
+                    "effective"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "Therefore, the key fields on which the Cyber Security Strategy focuses are ensuring vital services, combating cybercrime more effectively and advancing national defence capabilities."
+    }, 
+    {
+        "sentence_id,": "ec9589687f", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "specialist"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation", 
+                    "international cooperation"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "Additional supporting activities will include: shaping the legal framework, promoting international cooperation and communication, raising awareness, and ensuring specialist education as well as the development of technical solutions.."
+    }, 
+    {
+        "sentence_id,": "6faf87bdf4", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "technology"
+                ]
+            }
+        ], 
+        "sentence": "In the case of vital services, cross-border information technology interdependencies have emerged and securing them is no longer dependent solely on parties based in Estonia."
+    }, 
+    {
+        "sentence_id,": "be13ac05f7", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "effective"
+                ]
+            }
+        ], 
+        "sentence": "The Estonian state has no option for effectively supervising services or parts of services which are provided outside of the Republic of Estonia ."
+    }, 
+    {
+        "sentence_id,": "1781b0c5f9", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "The preservation of data and information systems that are essential to the functioning of society must be ensured in both the public and private sectors."
+    }, 
+    {
+        "sentence_id,": "a5d67d38dd", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "digital"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "Cybercrime undermines the functioning of the economic space, reduces trust in digital services, and, in a worst-case scenario, could lead to incidents causing loss of life."
+    }, 
+    {
+        "sentence_id,": "07befe2185", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "technology"
+                ]
+            }
+        ], 
+        "sentence": "In order to prevent and deter future security threats, it is necessary to constantly develop cyber security related know-how and to invest in technology."
+    }, 
+    {
+        "sentence_id,": "823abb1ea4", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "At the international level, the preservation of a free and secure cyberspace as well as Estonias central role in guiding and developing international cyber security policy in international organizations as well as like-minded communities must be ensured."
+    }, 
+    {
+        "sentence_id,": "fde460c6d1", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Cyber security is an integral part of national security, it supports the functioning of the state and society, the competitiveness of the economy and innovation."
+    }, 
+    {
+        "sentence_id,": "17437661be", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "freedom", 
+                    "secure", 
+                    "protection"
+                ]
+            }
+        ], 
+        "sentence": "Cyber security is guaranteed by respecting fundamental rights and freedoms as well as by protecting individual liberties, personal information, and identity."
+    }, 
+    {
+        "sentence_id,": "240cc5ebd1", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Cyber security is ensured on the basis of the principle of proportionality while taking into account existing and potential risks and resources."
+    }, 
+    {
+        "sentence_id,": "b0c80600f6", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Cyber security is ensured in a coordinated manner through cooperation between the public-, private- and third sectors, taking into account the interconnectedness and interdependence of existing infrastructure and services in cyberspace."
+    }, 
+    {
+        "sentence_id,": "e93517621e", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Cyber security starts with individual responsibility for safe use of ICT tools."
+    }, 
+    {
+        "sentence_id,": "c17a14ebc9", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "effective"
+                ]
+            }
+        ], 
+        "sentence": "A top priority in ensuring cyber security is anticipating as well as preventing potential threats and responding effectively to threats that materialize."
+    }, 
+    {
+        "sentence_id,": "085876615b", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Cyber security is supported by intensive and internationally competitive research and development."
+    }, 
+    {
+        "sentence_id,": "23603164a9", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Cyber security is ensured via international cooperation with allies and partners."
+    }, 
+    {
+        "sentence_id,": "0c465f267e", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "enhance"
+                ]
+            }
+        ], 
+        "sentence": "Through cooperation, Estonia promotes global cybersecurity and enhances its own competence."
+    }, 
+    {
+        "sentence_id,": "546effd4a5", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "GENERAL OBJECTIVE OF THE STRATEGY FOR 2017 Vision: Estonia is able to ensure national security and support the functioning of an open, inclusive and safe society."
+    }, 
+    {
+        "sentence_id,": "89aeeffd77", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "General objective: The four-year goal of the cybersecurity strategy is to increase cybersecurity capabilities and raise the populations awareness of cyber threats, thereby ensuring continued confidence in cyberspace."
+    }, 
+    {
+        "sentence_id,": "30c213743a", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "SUBGOALS Subgoal 1: Ensuring the protection of information systems underlying important services The functioning of the Estonian state and society, the economic and social well-being of every person, their life and health, increasingly depend on the security of the systems and services."
+    }, 
+    {
+        "sentence_id,": "a22d5c7cb5", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure", 
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "One of the main aims of the strategy is to describe methods for ensuring the uninterrupted operation and resilience of vital services, and the protection of critical information infrastructures against cyber threats."
+    }, 
+    {
+        "sentence_id,": "af0904cd90", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Ensuring alternative solutions for important services National dependencies on ICT infrastructure and e-services are constantly updated, mapped and managed."
+    }, 
+    {
+        "sentence_id,": "df430e965d", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "This includes a system of alternate solutions that are to be used in cases where the normal functioning of ICT infrastructure and e-services is disrupted."
+    }, 
+    {
+        "sentence_id,": "7076b496a0", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system", 
+                    "assessment"
+                ]
+            }
+        ], 
+        "sentence": "Managing cross-dependency between important services The mapping of significant cross-dependencies between services is kept up to date, the assessment of the extent of the impact of cross-dependencies on the functioning of services is conducted in a timely manner, and related risks are systematically grounded."
+    }, 
+    {
+        "sentence_id,": "5ba9990bd1", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "evaluate"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "Information relating to dependencies on critical services provided from outside the Republic of Estonia is kept up to date, the extent of their impact on the functioning of services is promptly evaluated, and associated risks are systematically reduced."
+    }, 
+    {
+        "sentence_id,": "b882bc6b40", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "technology"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Ensuring the security of ICT infrastructure and services Information and communication technology infrastructure is protected from modern threats."
+    }, 
+    {
+        "sentence_id,": "2438979649", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Critical data is kept and processed in highly secure data centres, and, among other things, data may also be stored securely abroad."
+    }, 
+    {
+        "sentence_id,": "b4e106f18a", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "Information systems necessary for the operation of state and vital services will be developed and managed in a manner that accounts for security risks and provides the means and measures to manage risks."
+    }, 
+    {
+        "sentence_id,": "fba271fe22", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "assessment", 
+                    "technology"
+                ]
+            }
+        ], 
+        "sentence": "Managing cyber threats to the public and private sector Information technology risks will be assessed and measured, with the requisite qualified staff available, along with methodologies, training opportunities and other resources."
+    }, 
+    {
+        "sentence_id,": "3bc83397f0", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "monitor"
+                ]
+            }
+        ], 
+        "sentence": "Introduction of a national monitoring system for cyber security In order to identify and react in a timely manner to cyber threats endangering the state, society and the individual, a national comprehensive monitoring, analysis and reporting system is adopted."
+    }, 
+    {
+        "sentence_id,": "ddf68a278a", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "digital", 
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "Ensuring digital continuity of the state E-services, processes, and information systems (including digital registers of evidential value) that are essential for the digital continuity of the state are constantly updated and mapped, and they have mirror and backup alternatives."
+    }, 
+    {
+        "sentence_id,": "81225d38a4", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "enhance"
+                ]
+            }, 
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Promotion of international cooperation in the protection of the infrastructure of critical information Protection of critical information infrastructure is enhanced through the participation in the work of international organizations, being represented in the interest groups of partners and allies, and through contributing to the professional development of experts."
+    }, 
+    {
+        "sentence_id,": "0506aaef79", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "digital"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "enhance", 
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "Subgoal 2: Enhancing of the fight against cybercrime The economic damage deriving from cybercrime reduces trust in digital services, and, in a worst-case scenario, could lead to loss of life."
+    }, 
+    {
+        "sentence_id,": "f9e16bb0ae", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Greater awareness among the general public about cyber security risks helps to prevent cybercrimes."
+    }, 
+    {
+        "sentence_id,": "753cd2dbea", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "Greater awareness is achieved by addressing cyber-related topics at all levels of education and informing people based on research and analysis of secure behaviours."
+    }, 
+    {
+        "sentence_id,": "c6197e02a0", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "law"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "digital"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "enhance"
+                ]
+            }
+        ], 
+        "sentence": "Enhancing detection of cybercrime In order to improve the efficiency of cybercrime detection and prosecution, the current structure of law enforcement and its organisation of work will be further clarified, the number of personnel dealing with cybercrime will be increased and the capabilities of bodies conducting proceedings to process digital data carriers will be raised."
+    }, 
+    {
+        "sentence_id,": "88c0b29a09", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "technology"
+                ]
+            }
+        ], 
+        "sentence": "Users of e-services are directed to use the most secure solutions and are informed about new technologies and how to securely use these solutions."
+    }, 
+    {
+        "sentence_id,": "6c44a8ccda", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "effective"
+                ]
+            }, 
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Promoting international cooperation against cybercrime In order to achieve more effective and timely prosecution of cybercrimes with an international dimension, information exchange between countries is improved."
+    }, 
+    {
+        "sentence_id,": "a574b8d3e6", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Subgoal 3: Development of national cyber defence capabilities Civil, military, and international cooperation based on the resources at the disposal of the state must also function adequately in cyberspace with regards to warning, deterrence and active defence."
+    }, 
+    {
+        "sentence_id,": "436055647f", 
+        "tag": [
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "enhance"
+                ]
+            }
+        ], 
+        "sentence": "Developing collective cyber defence and international collaboration To ensure collective defence in an international environment, information exchange and cooperation are enhanced with NATO, European Union cyber instances and other partners."
+    }, 
+    {
+        "sentence_id,": "1a06b7168a", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Efforts are made concerning the creation and development of NATO joint cyber security capabilities, standards, training and training opportunities."
+    }, 
+    {
+        "sentence_id,": "c37e8bc7eb", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "specialist"
+                ]
+            }
+        ], 
+        "sentence": "The latter will be ensured by involving specialists from the Defence Forces and the Estonian Defence League, as well as other public and private sector professionals."
+    }, 
+    {
+        "sentence_id,": "288653eeae", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Ensuring a high level of awareness concerning the role of cyber security in national defence In order to raise the level of awareness concerning cyber security risks in the field of national defence and to link it with other military domains, additional training is organised for personnel in the field."
+    }, 
+    {
+        "sentence_id,": "7897b73cfe", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Subgoal 4: Estonia manages evolving cyber security threats To maintain and improve its cyber security capability, Estonia will adopt independent cyber security solutions, which are backed by cyber security training and training opportunities, research and development and entrepreneurship."
+    }, 
+    {
+        "sentence_id,": "c834d1762a", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "In order to ensure the sustainability of solutions, the state acts as a smart contractor, and supports the export of cyber security solutions."
+    }, 
+    {
+        "sentence_id,": "5d51a76a8b", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "Ensuring the next generation cyber security professionals To ensure the next generation of cyber security professionals, opportunities for additional education will be established, both in the form of higher education as well as forms of in- service training."
+    }, 
+    {
+        "sentence_id,": "49692c0f72", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Support will be given to raise the number of students having completed a Masters Degree in cyber security and increase the number of doctoral theses on cyber security."
+    }, 
+    {
+        "sentence_id,": "3189c89df4", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Developing smart contracting for cyber security solutions In order to create secure solutions, the state will contribute to cyber security-related research and development."
+    }, 
+    {
+        "sentence_id,": "1cacdb388d", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "A supervisory board shall be set up to coordinate the corresponding activities and to consolidate the domains of national defence, security, economic development and academia."
+    }, 
+    {
+        "sentence_id,": "a62eb33833", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Supporting development of enterprises providing cyber security and national cyber security solutions To support the sustainability of secure solutions, the state will contribute to the export of cyber security solutions, and to increasing their use at the international level."
+    }, 
+    {
+        "sentence_id,": "d3fe6f9f17", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "assessment", 
+                    "technology"
+                ]
+            }
+        ], 
+        "sentence": "Preventing security risks in new solutions In order to avoid large-scale cyber incidents, the technological risks pertaining to the development and introduction of new technologies are investigated and assessed in depth."
+    }, 
+    {
+        "sentence_id,": "308d8fa338", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Adjusting the legal framework and developing cyber foreign policy are vital for protecting critical services, the fight against cybercrime, as well as for designing national defence in cyberspace."
+    }, 
+    {
+        "sentence_id,": "c81ef1631e", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Development of a legal framework to support cyber security In order to implement cyber security measures ensuring a more secure cyberspace, the legal framework related to cyber security will be updated."
+    }, 
+    {
+        "sentence_id,": "16a606dffe", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Promoting international cyber security policy In international organisations, an emphasis is placed on introducing and protecting Estonia's foreign cyber security policy positions and vision, along with developing a common understanding on the application of international legal norms and confidence building measures in cyber space."
+    }, 
+    {
+        "sentence_id,": "127269778f", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "freedom", 
+                    "protection", 
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "Special attention is paid to the protection of fundamental rights and freedoms and the topic of Internet governance."
+    }, 
+    {
+        "sentence_id,": "9a1dcc9413", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "freedom", 
+                    "secure", 
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "In addition, development assistance and secure e-solutions support the emergence of free and secure cyberspace in countries where the non- governmental sector lacks the freedom to act and the necessary technical base."
+    }, 
+    {
+        "sentence_id,": "db070fa06a", 
+        "tag": [
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "enhance"
+                ]
+            }
+        ], 
+        "sentence": "Closer cooperation with allies and partners With a view to enhancing relations with allies and partners, cooperation is intensified with close neighbours and cooperation formats are expanded with like-minded countries."
+    }, 
+    {
+        "sentence_id,": "889b62e25f", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "A significant effort is made to share cyber security related know-how and experience."
+    }, 
+    {
+        "sentence_id,": "328f681eab", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "enhance"
+                ]
+            }
+        ], 
+        "sentence": "Enhancing the capability of the European Union With the goal of promoting the European Union's common cyber security and its policies, joint efforts will be made to raise the cyber capability of Member States and to improve their readiness and ability to deal with new threats."
+    }, 
+    {
+        "sentence_id,": "2e28da199b", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "minister"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "strategy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "PARTIES RELATED TO THE STRATEGY The Ministry of Economic Affairs and Communications directs cyber security policy and coordinates the implementation of the strategy."
+    }, 
+    {
+        "sentence_id,": "1e6faec5f7", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "minister", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy", 
+                    "system"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "The strategy will be implemented by involving all ministries and government agencies, especially the Ministry of Defence, the Information System Authority, the Ministry of Justice, Police and Border Guard Board, the Government Office, the Ministry of Foreign Affairs, the Ministry of the Interior and the Ministry of Education and Research."
+    }, 
+    {
+        "sentence_id,": "1672f7a33b", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "institution", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "assessment"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "NGOs, business organizations, governments, and educational institutions will cooperate in the implementation and assessment of the strategy."
+    }, 
+    {
+        "sentence_id,": "d7164ee8ef", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "minister"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "At the request of the Ministry of Economic Affairs and Communications, agencies involved in executing the strategy will submit a written overview of the implementation of the measures and activities each year by 31 January, at the latest."
+    }, 
+    {
+        "sentence_id,": "ac1d1bc1a8", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "minister"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy", 
+                    "effective"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy", 
+                    "evaluate"
+                ]
+            }
+        ], 
+        "sentence": "Based on the reviews, the Ministry of Economic Affairs and Communication will evaluate the effectiveness of the measures and activities and will compile a report on the implementation of the strategy annually by 31 May, at the latest."
+    }, 
+    {
+        "sentence_id,": "2eed018ec7", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "A brief report on the execution of the strategy, consisting of an overview of the activities, difficulties with and the cost of the application, will be presented annually to the Government of the Republic by 30 June, at the latest."
+    }, 
+    {
+        "sentence_id,": "7a49e32edb", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "minister", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "The final report on the execution of the strategy shall be presented by the Ministry of Economic Affairs and Communication to the Government of the Republic by 31 May 2018, at the latest."
+    }, 
+    {
+        "sentence_id,": "367ce8c8bd", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "The action plan will lay out the activities and budget of the strategy as well as the individuals responsible for each part."
+    }, 
+    {
+        "sentence_id,": "0c2983f1cd", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "The four-year cost of the strategy will be nearly EUR 16 million."
+    }, 
+    {
+        "sentence_id,": "50e51b820a", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "The report of the action plan that will be submitted to the Government of the Republic will also include propositions on improving the action plan."
+    }, 
+    {
+        "sentence_id,": "347156a21a", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "institution", 
+                    "minister", 
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "The activities of the action plan will be reflected in the work plans of the various ministries and other government institutions."
+    }, 
+    {
+        "sentence_id,": "970fd79abb", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "The strategy will not redefine the competencies of the different offices responsible for cyber security."
+    }
+]

@@ -1,0 +1,2140 @@
+[
+    {
+        "sentence_id,": "1d9221d1af", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy", 
+                    "system"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "Information systems defence and security Frances strategy Foreword In the French White Paper on Defence and National Security presented by the President in June 2008, information systems security emerged, alongside deterrence, as an area in which the sovereignty of France should be fully expressed."
+    }, 
+    {
+        "sentence_id,": "f9c1f0f302", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Yet cyberspace may seem only remotely related to defence and national security."
+    }, 
+    {
+        "sentence_id,": "7b4eea35a7", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "institution"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "digital", 
+                    "technology"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "public service"
+                ]
+            }
+        ], 
+        "sentence": "In twenty years, digital technologies have eroded the boundaries between our personal and professional lives, raised corporate competitiveness to unprecedented levels, made public services more accessible to users and promoted a transparency drive in our countrys institutions."
+    }, 
+    {
+        "sentence_id,": "30202e6c75", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "digital"
+                ]
+            }
+        ], 
+        "sentence": "Exclusion from the digital world condemns individuals to isolation, companies to decline and nations to dependency."
+    }, 
+    {
+        "sentence_id,": "31cd9e061e", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "computing", 
+                    "specialist", 
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "In cyberspace, the consequences of computer attacks on government, companies or individuals information systems are most of the time visible only to specialists and remain unknown to the general public."
+    }, 
+    {
+        "sentence_id,": "2a2ce8d3c4", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "digital"
+                ]
+            }
+        ], 
+        "sentence": "Cyberspace, like a virtual battleground, has become a place for confrontation: appropriation of personal data, espionage of the scientific, economic and commercial assets of companies which fall victim to competitors or foreign powers, disruption of services necessary for the proper functioning of the economy and daily life, compromise of information related to our sovereignty and even, in certain circumstances, loss of human lives are nowadays the potential or actual consequences of the overlap between the digital world and human activity."
+    }, 
+    {
+        "sentence_id,": "1d28684502", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Given the sudden emergence of cyberspace in the field of national security and the extent of the challenges ahead, the French government decided to provide France with a structured defence and security capability."
+    }, 
+    {
+        "sentence_id,": "e3c62d2659", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "institution", 
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "In 2009, therefore, it set up the French Network and Information Security Agency (Agence nationale de la scurit des systmes dinformation or ANSSI), to meet the needs of public institutions, companies and individuals."
+    }, 
+    {
+        "sentence_id,": "cb74e4486a", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "In July 2010, the President decided to make the Agency responsible for the defence of information systems in addition to its security role."
+    }, 
+    {
+        "sentence_id,": "4775f4635c", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "safeguard"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "The purpose of this document is to outline the strategy undertaken by France since the publication of the French White Paper on Defence and National Security in order to safeguard the security of our citizens, our companies and our nation in cyberspace."
+    }, 
+    {
+        "sentence_id,": "7fea2ad396", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Francis Delon Secretary General for Defence and National Security Words followed by an asterisk are defined in the glossary."
+    }, 
+    {
+        "sentence_id,": "ba4b89611f", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection", 
+                    "safeguard"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy", 
+                    "system"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure", 
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "enhance"
+                ]
+            }
+        ], 
+        "sentence": "Photo credits : cover Jean Mottershead (CC BY-NC-ND 2.0), or free of copyright page 11 Ruby MV (CC BY-NC-SA 2.0) page 12 Simon BISSON (CC BY-NC-ND 2.0) page 13 MrFenwick (CC BY-NC-ND 2.0) page 14 Runran (CC BY-SA 2.0) Contents Foreword Summary Four strategic objectives Become a cyberdefence world power in cyberdefence Safeguard Frances ability to make decisions through the protection of information related to its sovereignty Strengthen the cybersecurity of critical national infrastructures Ensure security in cyberspace Seven areas of action Anticipate and analyse Detect, alert and respond Enhance and perpetuate our scientific, technical, industrial and human capabilities Protect the information systems of the State and the operators of critical infrastructures Adapt French legislation Develop our international collaborations Communicate to inform and convince Glossary Information systems defence and security strategy Summary Among the major threats that France will have to face over the next fifteen years, the 2008 French White Paper on Defence and National Security cited large-scale cyberattacks on national infrastructures."
+    }, 
+    {
+        "sentence_id,": "e41566e1dd", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "This observation led to the French Governments decision to significantly strengthen national cyberdefence capabilities."
+    }, 
+    {
+        "sentence_id,": "00583dcf8e", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "The creation of the French Network and Information Security Agency (ANSSI) in 2009 was the first step of this process."
+    }, 
+    {
+        "sentence_id,": "77df17c5d3", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy", 
+                    "system"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "This description of the national strategy on information systems defence and security presented in this document reflects the ambitions set out in the White Paper."
+    }, 
+    {
+        "sentence_id,": "a107240288", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "This strategy is based on four objectives."
+    }, 
+    {
+        "sentence_id,": "2030fa20dc", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy", 
+                    "effective"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "We will thus benefit from the knock-on effect of cooperation both at an operational level and in the implementation of a unified strategy to face common threats."
+    }, 
+    {
+        "sentence_id,": "2c4f00390d", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection", 
+                    "safeguard", 
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "Safeguard Frances ability to make decisions through the protection of information related to its sovereignty Governmental authorities and crisis management actors must have the resources to communicate in any situation and in total confidentiality."
+    }, 
+    {
+        "sentence_id,": "ab5586f153", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Ensuring the confidentiality of the information circulating over these networks requires mastered security products."
+    }, 
+    {
+        "sentence_id,": "dc0213b7cc", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Strengthen the cybersecurity of critical national infrastructures To function correctly, our society is increasingly dependent on information systems and networks, particularly the Internet."
+    }, 
+    {
+        "sentence_id,": "4c876ed552", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "A successful attack on a French critical information system or the Internet could have serious human or economic consequences."
+    }, 
+    {
+        "sentence_id,": "0137b8bb10", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "In close collaboration with the relevant equipment manufacturers and operators, the State must work to guarantee and improve the security of these critical systems."
+    }, 
+    {
+        "sentence_id,": "cd23816a0d", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "public service"
+                ]
+            }
+        ], 
+        "sentence": "Ensure security in cyberspace The threats to information systems simultaneously affect public services, private companies and citizens."
+    }, 
+    {
+        "sentence_id,": "b4f8046d48", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "public service"
+                ]
+            }
+        ], 
+        "sentence": "Public services must operate in an exemplary fashion and improve the protection of their information systems and the data entrusted to them."
+    }, 
+    {
+        "sentence_id,": "bd3e1b7771", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "effective"
+                ]
+            }
+        ], 
+        "sentence": "Effectively anticipate and analyse the environment in order to make appropriate decisions."
+    }, 
+    {
+        "sentence_id,": "3d3219a43f", 
+        "tag": [
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "enhance"
+                ]
+            }
+        ], 
+        "sentence": "Enhance and perpetuate our scientific, technical, industrial and human capabilities in order to maintain our independence."
+    }, 
+    {
+        "sentence_id,": "bba2e7fa0b", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection", 
+                    "national resilience"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Protect the information systems of the State and the operators of critical infrastructures to ensure better national resilience."
+    }, 
+    {
+        "sentence_id,": "627c035f51", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "technology"
+                ]
+            }
+        ], 
+        "sentence": "Adapt French legislation to incorporate technological developments and new practices."
+    }, 
+    {
+        "sentence_id,": "a62e2f3f76", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "Develop international collaboration initiatives in the areas of information systems security, cyberdefence and fight against cybercrime in order to better protect national information systems."
+    }, 
+    {
+        "sentence_id,": "52402a67c0", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "Communicate, inform and convince to increase the understanding by the French population of the extent of the challenges related to information systems security."
+    }, 
+    {
+        "sentence_id,": "18f3aedd94", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "institution", 
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "This document summarises the public part of the guidelines and actions approved by the strategic committee on information systems security instituted under Decree No."
+    }, 
+    {
+        "sentence_id,": "5f07156042", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "2009-834 of 7 July 2009 creating the French Network and Information Security Agency* (ANSSI) ."
+    }, 
+    {
+        "sentence_id,": "509acb7d8b", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy", 
+                    "system"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "Information systems defence and security strategy France must retain its areas of sovereignty, concentrated on the capability necessary for the maintenance of the strategic and political autonomy of the nation: nuclear deterrence; ballistic missiles; SSBNs and SSNs; and cyber-security are amongst the priorities."
+    }, 
+    {
+        "sentence_id,": "e2d8382285", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "technology"
+                ]
+            }
+        ], 
+        "sentence": "Some conduct wide-scale espionage operations through these networks in order to access information relating to our sovereignty such as classified national defence material, or to the scientific, technological, commercial or financial assets of companies operating in our nations strategic sectors."
+    }, 
+    {
+        "sentence_id,": "54d92a4651", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "In the near future, foreign States or terrorist groups could attack the critical infrastructures of States that they consider as ideologically hostile."
+    }, 
+    {
+        "sentence_id,": "4cb6fc2d7d", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection"
+                ]
+            }
+        ], 
+        "sentence": "It must rely upon a network of allies with whom real-time information can be exchanged on vulnerabilities, protection mechanisms, attacks and countermeasures that can be implemented against cyberattacks led directly or indirectly by States or terrorist groups."
+    }, 
+    {
+        "sentence_id,": "f9d2641abf", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "France will strengthen its operational partnerships with its closest allies and will build on its expertise to actively contribute to formulating cyberdefence policies within international organisations, in particular the European Union."
+    }, 
+    {
+        "sentence_id,": "b73153a80c", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection", 
+                    "safeguard"
+                ]
+            }
+        ], 
+        "sentence": "Safeguard Frances ability to make decisions through the protection of information related to its sovereignty The need to instantly access and share information in multiple formats is increasingly becoming a trend in todays society."
+    }, 
+    {
+        "sentence_id,": "ff8412f497", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "freedom"
+                ]
+            }
+        ], 
+        "sentence": "the fragments of diplomatic, military, scientific, technical and economic information that allow freedom of action and determine the prosperity of nations."
+    }, 
+    {
+        "sentence_id,": "baec073dd4", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "effective"
+                ]
+            }
+        ], 
+        "sentence": "The most effective way to protect information related to our sovereignty is the use of cryptography* techniques which prevent, or at least delay, the understanding of information should it be disclosed or intercepted."
+    }, 
+    {
+        "sentence_id,": "d43f1d7fcf", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "computing"
+                ]
+            }
+        ], 
+        "sentence": "Developments in cryptanalysis*, which mirror those in computer processing power, require the conception and use of methods and techniques that are more difficult to analyse and regularly renewed."
+    }, 
+    {
+        "sentence_id,": "7a0d196a16", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "system", 
+                    "technology"
+                ]
+            }
+        ], 
+        "sentence": "Preserving our strategic independence depends on our ability to master cryptographic techniques and key technologies needed to design our security products*; therefore we need to ensure that the field of information systems security remains attractive for young graduates in order to prevent the gradual erosion of our expertise."
+    }, 
+    {
+        "sentence_id,": "6bc5ae7cce", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "These secured resources for electronic data exchange, telephony and videoconferencing have already been designed and developed."
+    }, 
+    {
+        "sentence_id,": "ad539524fe", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "We will keep on deploying them over the coming years, in particularly for operators of critical infrastructures*."
+    }, 
+    {
+        "sentence_id,": "2b70b27926", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "technology"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Strengthen the cybersecurity of critical national infrastructures Through the convergence of multiple technologies, the real and virtual worlds are increasingly becoming overlapped."
+    }, 
+    {
+        "sentence_id,": "29cb4dce0b", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "Many real world objects - from supermarket labels to refineries, from photocopiers to combat drones - have built-in information systems and are connected to others."
+    }, 
+    {
+        "sentence_id,": "e49f489ebe", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "In its Defence Code, France defined critical sectors in which operators meet needs essential to the life of the population, the exercise of State authority, the running of the economy, the maintaining of defence capabilities and the nations security, as these activities are difficult to substitute or replace."
+    }, 
+    {
+        "sentence_id,": "190fd5bd67", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Most operators of critical infrastructures make widespread use of communication networks, especially the Internet, both for the management of their activities and their work."
+    }, 
+    {
+        "sentence_id,": "1c5bd0879c", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "However, in the long-standing relationship between the industrial world and the IT world, revolutionised by the interconnection of systems, the industrial world lacks training and awareness of information systems security, while the IT world often has a poor understanding of the constraints and functioning of industrial systems."
+    }, 
+    {
+        "sentence_id,": "c42b935c55", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "computing"
+                ]
+            }
+        ], 
+        "sentence": "The dependence of all stakeholders on the Internet is increased due to the major trends of our economic and social organisation: outsourcing and cloud computing, pooling of support services, real-time and just-in-time management, roaming, task transfer to customers and citizens, creation or re-engineering of numerous processes."
+    }, 
+    {
+        "sentence_id,": "2dc8f27578", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "digital"
+                ]
+            }
+        ], 
+        "sentence": "Should communications networks or the Internet be interrupted, the resources available to replace them may prove to be highly insufficient, especially because of the lack of qualified personnel capable of reinstating processes prior to the advent of the digital era."
+    }, 
+    {
+        "sentence_id,": "e6cbe1f987", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "technology"
+                ]
+            }
+        ], 
+        "sentence": "In the case of processes resulting directly from new practices linked to information technology, the resources to replace them do not yet exist."
+    }, 
+    {
+        "sentence_id,": "383b96da3a", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system", 
+                    "assessment"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "As world news regularly demonstrates, the possible consequences of malicious actions against the automated control systems of industrial processes used by operators of critical infrastructures have not yet been properly assessed."
+    }, 
+    {
+        "sentence_id,": "b3d8d2a704", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "As a result, protecting electronic communication networks - and in particular the Internet - together with securing the core systems of critical infrastructures operators have become national priorities."
+    }, 
+    {
+        "sentence_id,": "90f68bb78e", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "minister", 
+                    "administration"
+                ]
+            }
+        ], 
+        "sentence": "Ensure security in cyberspace For an increasing number of our citizens, the use of electronic communication networks like the Internet is permeating the most common activities of daily life such as shopping, administrative procedures and interpersonal communications."
+    }, 
+    {
+        "sentence_id,": "ea835c4c6e", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "computing"
+                ]
+            }
+        ], 
+        "sentence": "Cases of malicious remote takeovers of computers, in order to incorporate them into networks of compromised machines (botnets*) to carry out illegal activities such as cyberattacks or sending malicious e-mails, have also been dramatically increasing."
+    }, 
+    {
+        "sentence_id,": "852e74c2b6", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection"
+                ]
+            }
+        ], 
+        "sentence": "Given these developments, public authorities must set an example by protecting public cyberspace."
+    }, 
+    {
+        "sentence_id,": "568043b134", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection", 
+                    "minister", 
+                    "administration"
+                ]
+            }
+        ], 
+        "sentence": "Users must be able to trust the electronic services offered by the administration, particularly in regard to protection of their personal data."
+    }, 
+    {
+        "sentence_id,": "ba3b509554", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "The General Security Framework* (RGS) published in early 2010 provides a regulatory context for strengthening this security."
+    }, 
+    {
+        "sentence_id,": "b631f16323", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "Securing cyberspace systematically involves providing companies and individuals with the relevant information on the risks and the ways to limit them."
+    }, 
+    {
+        "sentence_id,": "999319a351", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "The long-term objective is to raise citizens awareness of cybersecurity issues during the education process."
+    }, 
+    {
+        "sentence_id,": "aff759e127", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "This initiative will require the implementation of an active governmental communication policy."
+    }, 
+    {
+        "sentence_id,": "a391c52926", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "law", 
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "Last but not least, laws must govern the Internet."
+    }, 
+    {
+        "sentence_id,": "8eff67737b", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "rule"
+                ]
+            }
+        ], 
+        "sentence": "France must support the strengthening or enactment of legal rules in cyberspace when existing legislation proves to be insufficient, and promote international judicial cooperation on repression of offences committed on or through electronic communication networks."
+    }, 
+    {
+        "sentence_id,": "c1ee97bc33", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "law", 
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "system", 
+                    "software", 
+                    "technology"
+                ]
+            }
+        ], 
+        "sentence": "The release of a new product or a new version of software, the disclosure of an uncorrected flaw in a widely used software product, the development of new technologies or practices, or even a political statement can threaten the security of information systems within a very short period of time."
+    }, 
+    {
+        "sentence_id,": "e12e503b4a", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "system", 
+                    "technology"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "monitor"
+                ]
+            }
+        ], 
+        "sentence": "In light of this, the first step to ensure our information systems security and defence is to monitor the latest technology developments and analyse, fully understand and even anticipate the actions of public or private actors."
+    }, 
+    {
+        "sentence_id,": "0cc102b10c", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "law"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Detect, alert and respond Given the increasing dependence of companies, infrastructures and services on the Internet, and because of the systemic risks related to some weaknesses, it is essential to be able to detect flaws and attacks as soon as possible, alert potential and known victims and offer them rapid assistance with the analysis and development of countermeasures."
+    }, 
+    {
+        "sentence_id,": "2037858a72", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "As planned in the French White Paper on Defence and National Security, France is developing a detection capability for attacks on information systems."
+    }, 
+    {
+        "sentence_id,": "0370f089be", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "minister"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system", 
+                    "assessment"
+                ]
+            }
+        ], 
+        "sentence": "Deployed in particular within ministry networks, these systems enable the relevant personnel to be alerted, help assess the nature of attacks and create appropriate countermeasures."
+    }, 
+    {
+        "sentence_id,": "9c3bfe3f72", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "monitor"
+                ]
+            }
+        ], 
+        "sentence": "In order to manage all the information either gathered by these detection tools, by monitoring mechanisms or provided by our partners, so as to obtain a real- time picture of the national network situation, and if necessary manage a crisis situation, the ANSSI has been equipped with an operations room adapted to the challenges."
+    }, 
+    {
+        "sentence_id,": "63690f5ae1", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "minister", 
+                    "administration"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "In order to respond to major crises affecting or threatening the security of the information systems of the administration or the operators of critical infrastructures, the State must be able to take the necessary measures rapidly."
+    }, 
+    {
+        "sentence_id,": "7b042c83a8", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "To this end, the ANSSI is the national Authority in charge of information systems defence."
+    }, 
+    {
+        "sentence_id,": "be61ed1080", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "system", 
+                    "technology"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "enhance"
+                ]
+            }
+        ], 
+        "sentence": "Enhance and perpetuate our scientific, technical, industrial and human capabilities The security of information systems is based on mastery of technology and knowhow that is also accessible to organisations and individuals intending on damaging them."
+    }, 
+    {
+        "sentence_id,": "4690118151", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "system", 
+                    "technology"
+                ]
+            }
+        ], 
+        "sentence": "State actors responsible for information systems security must not only be familiar with state-of-the-art technology, they must also be able to foresee or even spur on technological developments by maintaining their research capabilities, as this is the only way of limiting the tactical advantage of the attacker over the defender."
+    }, 
+    {
+        "sentence_id,": "f8cbe38942", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "In other areas, such as security architecture of information systems, it is rapidly catching up with the most advanced nations."
+    }, 
+    {
+        "sentence_id,": "a7ed4d6637", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "law", 
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "software"
+                ]
+            }
+        ], 
+        "sentence": "This centre would carry out scientific research activities (cryptology studies, analysis of attacking groups and their methods, expertise on malware and software flaws, development of secure open source software, drafting of cyberdefence concepts,...), as well as expertise and training activities."
+    }, 
+    {
+        "sentence_id,": "4fd50a2661", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "As far as information systems security is concerned, this situation is neither desirable nor tenable."
+    }, 
+    {
+        "sentence_id,": "338b6c95d9", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "technology"
+                ]
+            }
+        ], 
+        "sentence": "Yet France does have a state-of-the-art industrial base unique in Europe, with the potential to master a large part of the technologies needed for the design of security products, including components."
+    }, 
+    {
+        "sentence_id,": "80dc3357d5", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "In order to ensure better efficiency, the designers of IT products and information systems must take security issues into account from the very beginning of the development process."
+    }, 
+    {
+        "sentence_id,": "032bd04b73", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "The presence of information systems security experts in our industrial base must therefore be increased."
+    }, 
+    {
+        "sentence_id,": "a9e4ba2172", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "rule", 
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "system", 
+                    "technology"
+                ]
+            }
+        ], 
+        "sentence": "As a general rule, scientific and technical training on information technology must incorporate courses on information systems security."
+    }, 
+    {
+        "sentence_id,": "4e99e368a5", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Protect the information systems of the State and the operators of critical infrastructures As stated in the French White Paper on National Defence and Security, France must master and develop very high-security products to protect State secrets, as well as a range of guaranteed trusted products and services for use by government agencies and services which will be made widely available to the business sector."
+    }, 
+    {
+        "sentence_id,": "999e09638b", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Resilient secure networks* for the entire decision-making and command chain in Metropolitan France must be used."
+    }, 
+    {
+        "sentence_id,": "ce35517d65", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "With regard to classified information*, the French strategy on security products and components has been redefined."
+    }, 
+    {
+        "sentence_id,": "c9fcec4e28", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "minister"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "system", 
+                    "technology"
+                ]
+            }
+        ], 
+        "sentence": "Within ministerial networks, the introduction of robust authentication systems based, for example, on the use of smart card technology, an area of French excellence, will have a very significant impact on the level of security."
+    }, 
+    {
+        "sentence_id,": "97f4a18ef9", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "minister", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "Government authorities now have a secure interdepartmental intranet, a high- availability telephone network that will be fully equipped with new encryption terminals by 2012, and a secure videoconferencing system mainly for use in ministerial decision-making centres."
+    }, 
+    {
+        "sentence_id,": "519b3528ea", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "minister", 
+                    "administration"
+                ]
+            }
+        ], 
+        "sentence": "Deployment of these various networks will continue, especially in local administrations."
+    }, 
+    {
+        "sentence_id,": "0f99f859cb", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "With regard to the security of the information systems of operators of critical infrastructures, a public-private partnership will be set up, firstly so that these operators can benefit from the information gathered by the State on threat analysis; and secondly, to allow the State to ensure the appropriate level of protection of the infrastructures that are crucial to keep the country running properly."
+    }, 
+    {
+        "sentence_id,": "57d6b6060e", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "assessment"
+                ]
+            }
+        ], 
+        "sentence": "Such assessments will also be undertaken with equipment manufacturers."
+    }, 
+    {
+        "sentence_id,": "9f4aae2deb", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "freedom"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Adapt French legislation New practices introduced through the development of cyberspace can, if not enough attention is paid, threaten individual freedoms, the functioning of critical infrastructures and the stability of our companies."
+    }, 
+    {
+        "sentence_id,": "326cafa831", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy", 
+                    "technology", 
+                    "system", 
+                    "technology"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "Information systems defence and security strategy 17 Seven areas of action Seven areas of action Our legislative and regulatory framework must reflect recent developments in technology."
+    }, 
+    {
+        "sentence_id,": "9fb5c5c676", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "law", 
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "technology"
+                ]
+            }
+        ], 
+        "sentence": "Laws will be reviewed as new technologies and new practices emerge in order to strengthen the security of individuals while at the same time ensuring a balance between the desire to minimise the impact on companies competitiveness and the need for the State to be able to intervene in the nations best interest."
+    }, 
+    {
+        "sentence_id,": "88e081de30", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "rule", 
+                    "law", 
+                    "protection", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "Regarding operators of electronic communications, transposition of European directives into French law will enable the enactment of new rules to protect information systems and alert government authorities in case of incidents."
+    }, 
+    {
+        "sentence_id,": "21dea8a421", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "The enforcement of the General Security Framework (RGS) and its development will allow public authorities to significantly raise the protection levels of their information systems, particularly in their relations with users."
+    }, 
+    {
+        "sentence_id,": "8d3447deb6", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "Develop our international collaborations The security of information systems is partly based on the quality of the data exchange between relevant services of various States."
+    }, 
+    {
+        "sentence_id,": "94879832eb", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "law"
+                ]
+            }
+        ], 
+        "sentence": "information on vulnerabilities or flaws of products and services."
+    }, 
+    {
+        "sentence_id,": "e13e85aa57", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "effective"
+                ]
+            }
+        ], 
+        "sentence": "Similarly, strong relations between allies form the basis of an effective cyberdefence policy."
+    }, 
+    {
+        "sentence_id,": "7ebfab60e2", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "Communicate to inform and convince The security of information systems relies as much on personal vigilance as on the organisation, the choices and technical measures introduced by companies and the action of governments."
+    }, 
+    {
+        "sentence_id,": "978f7cf74d", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "Given the potential consequences of a major attack on information systems on the country and its citizens, we must ensure the awareness and motivation of individuals and organisations."
+    }, 
+    {
+        "sentence_id,": "9e6d882a56", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy", 
+                    "system"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "18 Information systems defence and security strategy Seven areas of action Seven areas of action In France, information and public debate on the threats posed by damage to the security of information systems and its impact on defence and national security, or simply on our daily lives, remain largely underdeveloped."
+    }, 
+    {
+        "sentence_id,": "ea3eb95401", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "ANSSI will provide targeted support to decision-makers in order to help them draw up measures and make the necessary decisions regarding the security of information systems that are critical to the running of their organisations and the protection of their technical, scientific, commercial and financial assets."
+    }, 
+    {
+        "sentence_id,": "769716801e", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy", 
+                    "system"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "Information systems defence and security strategy 19 Glossary Botnet A botnet, or robot network, is a network of compromised machines controlled by a malicious individual (the master)."
+    }, 
+    {
+        "sentence_id,": "91cd68c17c", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "The network is structured in a way that allows its master to transmit orders to some or all of the machines in the network and operate freely."
+    }, 
+    {
+        "sentence_id,": "0c81202d27", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "computing"
+                ]
+            }
+        ], 
+        "sentence": "Classified information Article 413-9 of the French Penal Code states that processes, objects, documents, pieces of information, computer networks, computerised data or files whose disclosure or access would be prejudicial to national defence or would lead to the disclosure of a national defence secret are subject to classification measures to restrict their distribution or access."
+    }, 
+    {
+        "sentence_id,": "36ab193c2a", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "law"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "Cybercrime Acts contravening international treaties and national laws, targeting networks or information systems, or using them to commit an offence or crime."
+    }, 
+    {
+        "sentence_id,": "2f4c179f01", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "Cyberdefence The set of all technical and non-technical measures allowing a State to defend in cyberspace information systems that it considers to be critical."
+    }, 
+    {
+        "sentence_id,": "929c9ead85", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "Cybersecurity The desired state of an information system in which it can resist events from cyberspace likely to compromise the availability, integrity or confidentiality of the data stored, processed or transmitted and of the related services that these systems offer or make accessible."
+    }, 
+    {
+        "sentence_id,": "5a8fbdbcd6", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "Cybersecurity makes use of information systems security techniques and is based on fighting cybercrime and establishing cyberdefence."
+    }, 
+    {
+        "sentence_id,": "89a22418fe", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "digital"
+                ]
+            }
+        ], 
+        "sentence": "Cyberspace The communication space created by the worldwide interconnection of automated digital data processing equipment."
+    }, 
+    {
+        "sentence_id,": "5580ab5215", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "law"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "computing", 
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "Flaw Vulnerability in a computer system allowing an attacker to negatively affect its normal functioning, or the confidentiality or integrity of the data it contains."
+    }, 
+    {
+        "sentence_id,": "2e5346fa5c", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "rule", 
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "General Security Mechanism (RGS - Rfrentiel gnral de scurit) Set of rules drawn up by ANSSI and stipulated in Ordinance No."
+    }, 
+    {
+        "sentence_id,": "657bbd04a7", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "minister", 
+                    "administration"
+                ]
+            }
+        ], 
+        "sentence": "2005-1516 of 8 December 2005 on electronic exchanges between users and the public administration and between public administrations that certain functions contributing to the security of information must comply with."
+    }, 
+    {
+        "sentence_id,": "44504011ba", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "rule", 
+                    "secure", 
+                    "minister", 
+                    "administration"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy", 
+                    "system"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "The rules set out in the RGS are mandatory and are adjusted to reflect the level of security defined by the administrative authority concerning the security of the online services for which Information systems defence and security strategy 21 Glossaire Glossaire it is responsible."
+    }, 
+    {
+        "sentence_id,": "7abc6d5318", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "2010112 of 2 February 2010 related to the application of Articles 9, 10 and 12 of the ordinance cited on the security of information exchanged through electronic networks."
+    }, 
+    {
+        "sentence_id,": "b6cd27cc21", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system", 
+                    "software"
+                ]
+            }
+        ], 
+        "sentence": "Information system Organised set of resources (hardware, software, personnel, data and procedures) used to process and circulate information."
+    }, 
+    {
+        "sentence_id,": "75e66b3d83", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "Information systems security All technical and non-technical protective measures enabling an information system to withstand events likely to compromise the availability, integrity or confidentiality of stored, processed or transmitted data and of the related services that these systems offer or make accessible."
+    }, 
+    {
+        "sentence_id,": "d76e009ca4", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "rule"
+                ]
+            }
+        ], 
+        "sentence": "Netiquette Charter drawn up in 1995 by the Internet Engineering Task Force (IETF) introducing recommended network etiquette rules for exchanges taking place in cyberspace (see http://tools.ietf.org/html/rfc1855)."
+    }, 
+    {
+        "sentence_id,": "9cac00b727", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "An operator of critical infrastructure: - exercises activities cited in Article R. 1332-2 and included in a critical sector; -manages or uses for this activity one or more organisations or works, one or more facilities, whose damage, unavailability or destruction due to malicious action, sabotage or terrorism would directly or indirectly seriously compromise the military or economic capabilities, the security or the survival ability of the nation or seriously threaten the lives of its population."
+    }, 
+    {
+        "sentence_id,": "e841a1e5c1", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "computing", 
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "Resilience In the field of computing, the ability of an information system to withstand a breakdown or cyberattack and return to its initial operating state after the incident."
+    }, 
+    {
+        "sentence_id,": "dc32a1b5eb", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system", 
+                    "software"
+                ]
+            }
+        ], 
+        "sentence": "Security product Hardware or software designed to protect the availability, integrity or confidentiality of the data stored, processed or transmitted and of the related services that information systems offer or make accessible."
+    }, 
+    {
+        "sentence_id,": "0b8003497d", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "minister", 
+                    "administration"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy", 
+                    "system"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "22 Information systems defence and security strategy About ANSSI The French Network and Information Security Agency (ANSSI) was created on 7 July 2009 in the form of a nationwide administrative service."
+    }, 
+    {
+        "sentence_id,": "7b6ab207f3", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "2011-170 of 11 February 2011, the agency is the information systems defence and security national authority."
+    }, 
+    {
+        "sentence_id,": "73ef7c7de4", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "minister"
+                ]
+            }
+        ], 
+        "sentence": "It is directly attached to the Head of Secretary General for Defence and National Security, under the authority of the Prime Minister."
+    }, 
+    {
+        "sentence_id,": "e41c88e0c5", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Freely reusable public information licence (LIP V1 2010.04.02) February 2011 French Network and Information Security Agency ANSSI - 51 boulevard de la Tour-Maubourg - 75700 PARIS 07 SP - France Websites : www.ssi.gouv.fr and www.securite-informatique.gouv.fr E-mail : communication [at] ssi.gouv.fr"
+    }
+]

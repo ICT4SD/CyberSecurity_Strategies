@@ -1,0 +1,1559 @@
+[
+    {
+        "sentence_id,": "938ec19e34", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "STRATEGY OF THE CZECH REPUBLIC IN THE FIELD OF CYBERNETIC SECURITY FOR 2012 - 2015 Content Introduction ................................................................................................................................ 2 I."
+    }, 
+    {
+        "sentence_id,": "ea23a4ac75", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Basic principles of strategy of cybernetic security .......................................................... 4 Individual responsibility ......................................................................................................... 4 International Cooperation ....................................................................................................... 5 III."
+    }, 
+    {
+        "sentence_id,": "d3a9186b25", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy", 
+                    "system"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "Strategic goals and measures ........................................................................................... 5 Establishing National Centre for Cybernetic Security and Governmental CERT ................. 6 Strengthening of cybernetic security of information and communication systems of public governance ............................................................................................................................. 6 Using of reliable IT ................................................................................................................ 7 Response to cybernetic attacks ............................................................................................... 8 Introduction Strategy of the Czech Republic in the field of cybernetic security for 2012 2015 (hereinafter referred to as Strategy) is one of the steps of the Government of the Czech Republic in reaction to worldwide rise of cybernetic threats."
+    }, 
+    {
+        "sentence_id,": "8202b681d0", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "The Strategy stems from efforts of governmental and non-governmental entities to raise level of cybernetic security."
+    }, 
+    {
+        "sentence_id,": "876080c804", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "enhance"
+                ]
+            }
+        ], 
+        "sentence": "It brings initiatives to enhance cybernetic security for state bodies, critical infrastructure and commercial sphere as well as for citizens."
+    }, 
+    {
+        "sentence_id,": "5682e44093", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "The Strategy defines aims and interests of the Czech Republic in the field of cybernetic security for building of reliable information society and is in line with the Security Strategy of the Czech Republic."
+    }, 
+    {
+        "sentence_id,": "ac30fc10f8", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "rule", 
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards", 
+                    "strategy", 
+                    "system"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "strategy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "This Strategy is the basic document for the creation of legal acts, security policies of information and communication systems, standards, rules, operation measures, maintenance plans, recommendations and other tools for cybernetic security."
+    }, 
+    {
+        "sentence_id,": "28baec4d19", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "The Strategy is divided into three parts."
+    }, 
+    {
+        "sentence_id,": "c65f7df669", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "The second one brings analysis and basic principles of cybernetic security."
+    }, 
+    {
+        "sentence_id,": "ddccf0a0b3", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "enhance"
+                ]
+            }
+        ], 
+        "sentence": "The third states goals and describes activities crucial for enhancing cybernetic security activities implemented by the Government of the Czech Republic and activities in cooperation with partners."
+    }, 
+    {
+        "sentence_id,": "ad986571e5", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Foundations Attacks on critical information infrastructure have become more often, complex and sophisticated as the perpetrators are more professional in the recent years."
+    }, 
+    {
+        "sentence_id,": "9fd67eb434", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "The trend of the development of ISs for industrial use connected to the internet brings new vulnerabilities of those systems."
+    }, 
+    {
+        "sentence_id,": "dee0985875", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Cyber security shall remain crucial for maintaining functioning state in the future."
+    }, 
+    {
+        "sentence_id,": "0546583fb0", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "technology"
+                ]
+            }
+        ], 
+        "sentence": "Information and communication technologies and their impact on modern society and economics Safe and sound functioning if information and communication technologies (hereinafter ICT) is necessary for operations of state and public entities and is one of the basic preconditions of prosperity and sustainable economic growth."
+    }, 
+    {
+        "sentence_id,": "9a22a006bd", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Networks and online services have to be not only secure but also reliable."
+    }, 
+    {
+        "sentence_id,": "ea0f0b475d", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "enhance"
+                ]
+            }
+        ], 
+        "sentence": "The whole society has to enhance its activities towards the security and reliability of ICT."
+    }, 
+    {
+        "sentence_id,": "3f14a41e12", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "ICT and societies dependent on them are vulnerable Constant and rapid progress in the field of ICT brings new opportunities for the society but also new security challenges."
+    }, 
+    {
+        "sentence_id,": "35674831cb", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "law"
+                ]
+            }
+        ], 
+        "sentence": "Combination of increased dependence on ICT which is not flawless with human failure or intentional damage makes mitigation of damages more complicated."
+    }, 
+    {
+        "sentence_id,": "c20580e01c", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "technology"
+                ]
+            }
+        ], 
+        "sentence": "The emergence of new technologies brings new opportunities for the development of the society but also new vulnerabilities and new demands for the security of ICT and whole society."
+    }, 
+    {
+        "sentence_id,": "1c8a85aeab", 
+        "tag": [
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "enhance"
+                ]
+            }
+        ], 
+        "sentence": "Increased dependence on ICT enhances vulnerability of the state and its citizens to the cybernetic attacks."
+    }, 
+    {
+        "sentence_id,": "ffc2d4a518", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "institution"
+                ]
+            }
+        ], 
+        "sentence": "Leaks of strategic information, infringements into ICT of state institutions or strategic companies may endanger interests of the Czech Republic."
+    }, 
+    {
+        "sentence_id,": "a58f27549a", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Examples show rapid and diverse development in the field of cybernetic security."
+    }, 
+    {
+        "sentence_id,": "a2b0097ed8", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Parts of the critical infrastructure, crucial for functioning of the state, are becoming target of attacks more and more often."
+    }, 
+    {
+        "sentence_id,": "56c3f14813", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "digital"
+                ]
+            }
+        ], 
+        "sentence": "Considering the fact that digital society is globalised and cybernetic attack are crossing state, cultural and legislative boundaries, it is often not obvious which jurisdiction should be applied to them."
+    }, 
+    {
+        "sentence_id,": "f60f018b43", 
+        "tag": [
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "Close international cooperation is therefore needed also in the area of legislation."
+    }, 
+    {
+        "sentence_id,": "4e8aa25f86", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "Basic principles of strategy of cybernetic security Investment into cybernetic security means investing into our future and our economic growth."
+    }, 
+    {
+        "sentence_id,": "aa77b2343e", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection"
+                ]
+            }
+        ], 
+        "sentence": "The level of cybernetic security comprises from all measures, both national and international, adopted to protect availability of ICT and integrity, authenticity and confidentiality of data in the cyberspace."
+    }, 
+    {
+        "sentence_id,": "c5b5c13271", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Cyber security has to be based on complex approach demanding information sharing and coordination of activities."
+    }, 
+    {
+        "sentence_id,": "0abfc00a24", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "The cooperation between military and civilian, public and private and international and national spheres is to be ensured while building the system of cybernetic security."
+    }, 
+    {
+        "sentence_id,": "7321135e8b", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "effective", 
+                    "digital"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Only such approach ensures sound operation of ICT infrastructure in critical areas, rapid and effective reaction to cybernetic attacks and legal protection in the digital world."
+    }, 
+    {
+        "sentence_id,": "87fe1e76f0", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "The issue of cybernetic security cannot be seen as an isolated problem of the Czech Republic or several parts of our society."
+    }, 
+    {
+        "sentence_id,": "766c866201", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "minister"
+                ]
+            }
+        ], 
+        "sentence": "Its not only international, inter-ministerial public or private sphere issue but the problem of whole society."
+    }, 
+    {
+        "sentence_id,": "ef66101c75", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Therefore, ensuring of cybernetic security deserves the highest priority."
+    }, 
+    {
+        "sentence_id,": "3f3ea4dd9f", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "enhance"
+                ]
+            }
+        ], 
+        "sentence": "Only coordinated effort leads towards enhancing of cybernetic security without dispersion and useless doubling of efforts and growth of costs."
+    }, 
+    {
+        "sentence_id,": "accf3db23c", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "ICT infrastructure, goods and services are from largest part provided by the private sector."
+    }, 
+    {
+        "sentence_id,": "ec2632c1b1", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "rule", 
+                    "secure", 
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Individual responsibility It is the basic interest of the state to establish the ICT security rules in a way to be accepted by all users of cyberspace (state bodies, critical infrastructure entities, public entities, commercial companies and citizens) and service providers in order to adopt in their ICT systems appropriate measures to protect the system against internal and external attacks and not to pose a threat for other systems."
+    }, 
+    {
+        "sentence_id,": "c15ef63586", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "minister", 
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "Inter-ministerial cooperation According to the decision of the Government of the Czech Republic no."
+    }, 
+    {
+        "sentence_id,": "2fca6c5bb7", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "781 from 19th October 2011 the body responsible for the field of cybernetic security is the national Security Authority (hereinafter NSA)."
+    }, 
+    {
+        "sentence_id,": "e362763a0f", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "minister"
+                ]
+            }
+        ], 
+        "sentence": "The Council for Cybernetic Security (hereinafter Council) plays a key role in the inter-ministerial coordination."
+    }, 
+    {
+        "sentence_id,": "b99b1c5a0f", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "The working groups will draft documents dealing with specific issues of cybernetic security for the Council."
+    }, 
+    {
+        "sentence_id,": "99cbdfffc4", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards", 
+                    "effective"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }, 
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation", 
+                    "international cooperation"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "national legislation", 
+                    "national legislation"
+                ]
+            }
+        ], 
+        "sentence": "International Cooperation Bearing in mind that a measure could be effective only if implemented or coordinated on an international level the Czech Republic will actively support through common bodies and working groups the efforts of the European Union (hereinafter EU) and North Atlantic Treaty Organisation (hereinafter NATO) to create international policies, standards and norms and adequately implement those policies, standards and norms into national legislation dealing with cybernetic security."
+    }, 
+    {
+        "sentence_id,": "417734f2c0", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Adequacy of adopted measures There is no way how to achieve absolute cybernetic security."
+    }, 
+    {
+        "sentence_id,": "9cf324cf20", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "evaluate"
+                ]
+            }
+        ], 
+        "sentence": "The Czech Republic will adopt measures based on realistic evaluation of risks and shall be appropriate to such risks."
+    }, 
+    {
+        "sentence_id,": "983e2a2224", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "freedom", 
+                    "privacy", 
+                    "protection"
+                ]
+            }
+        ], 
+        "sentence": "They will respect protection of privacy and basic rights as free access to information, freedom of speech and others."
+    }, 
+    {
+        "sentence_id,": "6911352539", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "freedom", 
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "The measures shall be appropriate to the necessity to ensure security on one side and to respect basic rights and freedoms on the other side."
+    }, 
+    {
+        "sentence_id,": "9a5a9b8852", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "Strategic goals and measures Strategy adopts measures against current threats and is a basis for the Action Plan which defines particular steps and identifies those responsible for their achievement."
+    }, 
+    {
+        "sentence_id,": "26e984f115", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "law", 
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "The following areas shall be prioritised: Creation of legislative framework The NSA shall draft a specialised law on cybernetic security which will determine responsibilities of the national Centre for Cybernetic Security (hereinafter NCCS)."
+    }, 
+    {
+        "sentence_id,": "a8127c1194", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "law"
+                ]
+            }
+        ], 
+        "sentence": "The law shall define obligations of entities offering and/or using services in the cyberspace."
+    }, 
+    {
+        "sentence_id,": "60e4e2cfbd", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "institution"
+                ]
+            }
+        ], 
+        "sentence": "It shall further determine means and scope of cooperation with private sector, public and international institutions."
+    }, 
+    {
+        "sentence_id,": "4582d48e0f", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "law", 
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "evaluate"
+                ]
+            }
+        ], 
+        "sentence": "International laws, agreements, trends and recommendation in the field of cybernetic security e-commerce and electronic transactions shall be regularly evaluated and the conclusions and recommendations stemming from such evaluation shall be implemented."
+    }, 
+    {
+        "sentence_id,": "15b8a77a9b", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "law", 
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "The Czech Republic shall actively participate in drafting of laws, norms and other cooperation associated with cybernetic security in the framework of EU, NATO and other international organisations."
+    }, 
+    {
+        "sentence_id,": "3558f8b9e8", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection", 
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "Establishing National Centre for Cybernetic Security and Governmental CERT The NCCS shall be established within NSA to optimize cooperation between state bodies and improve coordination of protection and implementation of counter- measures."
+    }, 
+    {
+        "sentence_id,": "f7eb7aa00f", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "computing"
+                ]
+            }
+        ], 
+        "sentence": "Governmental CERT (Computer Emergency Response Team) will be part of the NCCS."
+    }, 
+    {
+        "sentence_id,": "0786b38084", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "institution"
+                ]
+            }
+        ], 
+        "sentence": "The NCCS shall actively cooperate with other state bodies, academic institutions and commercial entities on the basis of cooperation agreements."
+    }, 
+    {
+        "sentence_id,": "b1480756ad", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "effective"
+                ]
+            }
+        ], 
+        "sentence": "Quick and effective sharing of information about vulnerabilities of ICT, forms of cybernetic attacks profiles and motivation of the perpetrators will enable NCCS to analyse security incidents and draft recommendations of counter-measures."
+    }, 
+    {
+        "sentence_id,": "9ca1d01663", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "It is in the best interest of the private sphere to cooperate with NCCS in protection of their own ICT systems against attack through cybernetic attacks."
+    }, 
+    {
+        "sentence_id,": "3add315a1d", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "Bearing in mind that the best way to ensure security is through proper preparation and prevention, the NCCS shall establish a system of early warning and shall provide recommendations how to protect against cybernetic attacks."
+    }, 
+    {
+        "sentence_id,": "3973e99a04", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "NCCS shall push for the system of testing of handling security risks and proposed counter-measures as a part of risk management system."
+    }, 
+    {
+        "sentence_id,": "60ab94c390", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Protection of critical information infrastructure Protection of critical information infrastructure is one of the main priorities in cybernetic security."
+    }, 
+    {
+        "sentence_id,": "66c3db3843", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "This infrastructure poses main part of almost all parts of critical infrastructure and is becoming more and more important."
+    }, 
+    {
+        "sentence_id,": "c1bbdff9be", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "evaluate"
+                ]
+            }
+        ], 
+        "sentence": "It will be properly evaluated where the security measures will be fully implemented and where shall be additional powers in case of specific attacks and threats."
+    }, 
+    {
+        "sentence_id,": "c557003025", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "Strengthening of cybernetic security of information and communication systems of public governance Users of ICT need to be provided with relevant and consistent information about risks and safe ways how to utilize the cyberspace."
+    }, 
+    {
+        "sentence_id,": "26ca293ad7", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Also information about available security products and services will be provided on the portal."
+    }, 
+    {
+        "sentence_id,": "20154ac9d5", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "rule", 
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards", 
+                    "system"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "enhance"
+                ]
+            }
+        ], 
+        "sentence": "Implementation of security rules and standards in information systems whose secure operation is crucial for the functioning of the state is one of the preconditions for enhancing cybernetic security of those systems."
+    }, 
+    {
+        "sentence_id,": "5bd0db7843", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "rule", 
+                    "secure", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards", 
+                    "effective"
+                ]
+            }
+        ], 
+        "sentence": "Effective cybernetic security demands obligatory implementation and proper adherence to those rules and standards and regular inspections of their implementation in the public governance bodies."
+    }, 
+    {
+        "sentence_id,": "c1d973f285", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "enhance"
+                ]
+            }
+        ], 
+        "sentence": "Enhancing of level of information security will be done through implementation of the ISMS (Information Security Management System)."
+    }, 
+    {
+        "sentence_id,": "37e79aaafd", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "law"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "effective"
+                ]
+            }
+        ], 
+        "sentence": "Effectiveness of fighting crime in the cyberspace NCCS shall contribute to fight against cybernetic criminality by cooperating with law enforcement bodies and shall use their experience during development of means and measures against cybernetic attacks."
+    }, 
+    {
+        "sentence_id,": "2d75d07a50", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Coordination of activities to ensure cybernetic security in Europe Global cyberspace security may be achieved only through coordination on national and international level."
+    }, 
+    {
+        "sentence_id,": "51a4296aac", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "The NSA shall support appropriate measures based on European Action Plan for Protection of Critical Information Infrastructure in the framework of the EU."
+    }, 
+    {
+        "sentence_id,": "2b506ed16e", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Further, the cooperation with the European Network and Information Security Agency (ENISA) shall commence in the field of training and information sharing."
+    }, 
+    {
+        "sentence_id,": "ab80507ce3", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy", 
+                    "digital"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "strategy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "The ideas for future activities may be found in EU Internal Security Strategy and in Digital Agenda for Europe as well as in the new NATO Policy on Cyber Defence."
+    }, 
+    {
+        "sentence_id,": "084580f846", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "The cooperation in the areas under NSA responsibility shall be also established with the newly established European Agency for Management of Large-Scale IT Systems and with the EU Centre for Cybernetic Criminality."
+    }, 
+    {
+        "sentence_id,": "2d4ae0453b", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "Using of reliable IT Availability of reliable ICT systems to public governance users has to be ensured."
+    }, 
+    {
+        "sentence_id,": "41efc3a7c5", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Research and development of means for protection of ICT systems of public governance and critical infrastructure facilities shall be supported."
+    }, 
+    {
+        "sentence_id,": "15a55791a3", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards", 
+                    "software"
+                ]
+            }
+        ], 
+        "sentence": "The aim will be to use technical and software means accredited according to international standards in areas critical for the security of the state."
+    }, 
+    {
+        "sentence_id,": "7582a26dce", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Raising awareness about cybernetic security Establishing cybernetic security cannot rely on technical means only."
+    }, 
+    {
+        "sentence_id,": "631225433c", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "minister", 
+                    "administration"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "Proper care has to be given also to end-users and administrators of ICT systems, development workers, public contract awarders, auditors and managers."
+    }, 
+    {
+        "sentence_id,": "1ca3df383b", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "Insufficient information about security of ICT systems brings serious risks."
+    }, 
+    {
+        "sentence_id,": "8d6c8795c6", 
+        "tag": [
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "Lack of trained and informed personnel and further education raise vulnerability and damages."
+    }, 
+    {
+        "sentence_id,": "0084001fb2", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Awareness of citizens about cybernetic security shall be risen through spreading of relevant information in cooperation with media."
+    }, 
+    {
+        "sentence_id,": "25d77d3364", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Cybernetic security shall part of training of public employees and will be supported in the private sphere as well."
+    }, 
+    {
+        "sentence_id,": "f9df24ebdb", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "The aim is to reach sufficient level of knowledge for each position in the area of cybernetic security."
+    }, 
+    {
+        "sentence_id,": "9aa9d992b1", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Cooperation aimed at creating training programmes focusing on cybernetic security shall be started with the academic and private spheres."
+    }, 
+    {
+        "sentence_id,": "e538d47266", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "evaluate"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "Needs for qualification in cybernetic security, opportunities of school and other education shall be evaluated on a regular basis."
+    }, 
+    {
+        "sentence_id,": "b51b89eb09", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "The issue of cybernetic security will be implemented into all levels of education."
+    }, 
+    {
+        "sentence_id,": "f1c8e680d5", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Response to cybernetic attacks Bearing in mind that the cybernetic attacks against the systems of public governance and critical infrastructure cannot be avoided the state has to prepared for such attacks."
+    }, 
+    {
+        "sentence_id,": "102c95d7de", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "Strategy in the Field of Cybernetic Security for 2012 2015 follows up to the Security Strategy of The Czech Republic and reflects the challenges of modern information society."
+    }, 
+    {
+        "sentence_id,": "7e669fdf5a", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "institution", 
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy", 
+                    "system"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "The Strategy provides institutional framework contributing to the security system of the Czech Republic."
+    }, 
+    {
+        "sentence_id,": "6dbf201bdb", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "evaluate", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "This framework constitutes beginning of active policy of cybernetic protection of the state which is to be permanently evaluated and amended."
+    }, 
+    {
+        "sentence_id,": "71110733cf", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "minister", 
+                    "administration"
+                ]
+            }
+        ], 
+        "sentence": "Awareness of every individual, operator, administrator, university or company about security challenges of ICT is a basic precondition to ensure reliability and security of the cyberspace."
+    }, 
+    {
+        "sentence_id,": "c38136b69b", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "The Czech Republic considers the issue of cybernetic security to be an important part of daily use of ICT and shall further work to ensure it."
+    }
+]

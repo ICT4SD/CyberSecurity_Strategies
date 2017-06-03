@@ -1,0 +1,1972 @@
+[
+    {
+        "sentence_id,": "f63a6a7613", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "minister"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "Icelandic National Cyber Security Strategy 20152026 Plan of action 20152018 Summary in English of the Icelandic National Cyber Security Strategy approved by the Minister of the Interior in April 2015 Ministry of the Interior June 2015 Contents Future vision and strategy regarding cyber security ....................................................................... 3 Future Vision 2026 ............................................................................................................................... 3 Main strategy aims ............................................................................................................................... 3 Introduction ............................................................................................................................................ 4 Strategy and action in Iceland: Taking the initiative on security .................................................. 5 Review of the strategy and action plan ......................................................................................... 6 2 Future vision and strategy regarding cyber security This is a summary of Icelands Future Vision 2026 on National Cyber Security and Main Strategy Aims."
+    }, 
+    {
+        "sentence_id,": "c31bdf2794", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "The Introduction describes the work of the task force which prepared the strategy and action plan; subsequently presenting a survey of various cyber security threats and stressing the importance of tackling them."
+    }, 
+    {
+        "sentence_id,": "3c287bfcd9", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "This is followed by a discussion of how well Iceland is prepared to deal with these threats and what can be done to take the initiative and use cyber security as a means of promoting progress and welfare."
+    }, 
+    {
+        "sentence_id,": "c6f5ed3bc1", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "human rights", 
+                    "freedom", 
+                    "protection"
+                ]
+            }
+        ], 
+        "sentence": "Future Vision 2026 Iceland should have an Internet culture that is sound, promotes human rights, protects the individual and respects freedom of action to support economic prosperity and development."
+    }, 
+    {
+        "sentence_id,": "36faf912e0", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Security in cyber space should be one of the main cornerstones of economic prosperity in Iceland, resting on a foundation of sophisticated awareness of security issues and adequate legislation."
+    }, 
+    {
+        "sentence_id,": "d49f095e0b", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "The public, enterprises and government should have the knowledge, skills and equipment needed to cope with cyber security threats."
+    }, 
+    {
+        "sentence_id,": "5cb1d98c44", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "assessment"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "enhance"
+                ]
+            }
+        ], 
+        "sentence": "Key factors in enhanced resilience are greater capacity in the fields of assessment, preparedness and response."
+    }, 
+    {
+        "sentence_id,": "e7dfc94222", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "The aim is to raise the resilience of Icelands information systems and their preparedness to a level comparable with that of the other Nordic countries."
+    }, 
+    {
+        "sentence_id,": "db53ec90a3", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system", 
+                    "assessment"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "enhance"
+                ]
+            }
+        ], 
+        "sentence": "This should be done through, amongst other things, improving capacity in threat assessment, enhanced cooperation and making security concerns an integral part of the maintenance of cyber systems."
+    }, 
+    {
+        "sentence_id,": "62c58626f5", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection"
+                ]
+            }
+        ], 
+        "sentence": "Icelandic legislation should reflect the international demands and obligations the country undertakes regarding cyber security and the protection of personal data."
+    }, 
+    {
+        "sentence_id,": "e20b633eb6", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Furthermore, legislation must also support innovation and the development of security-related services, e.g."
+    }, 
+    {
+        "sentence_id,": "ec36e4b6d3", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "The police should have, or have access to, the professional knowledge, skills and equipment needed to resolve issues concerning cyber security."
+    }, 
+    {
+        "sentence_id,": "fd00357850", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure", 
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "Its main task is to formulate government strategy on cyber security and the protection of IT infrastructure elements that are relevant to national security, i.e."
+    }, 
+    {
+        "sentence_id,": "a63a4e3210", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "institution"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "the IT systems of key institutions in Icelandic society."
+    }, 
+    {
+        "sentence_id,": "5cff628d87", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "Most of these systems are in turn linked to other IT systems in one way or another via the Internet."
+    }, 
+    {
+        "sentence_id,": "fa25d61d43", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure", 
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "Demarcation of the strategy The strategy is intended to address the protection of important elements of the infrastructure in Iceland and the responses called for in view of the growing cyber-threats which pose a hazard to the government, the economy and the ordinary citizen."
+    }, 
+    {
+        "sentence_id,": "7f6fca6fe4", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy", 
+                    "technology", 
+                    "technology"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "In this environment, security is of paramount importance; hence, the strategy covers all use of the Internet and Information Technology."
+    }, 
+    {
+        "sentence_id,": "4e84a76cc5", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "enhance"
+                ]
+            }
+        ], 
+        "sentence": "The social aims of the strategy are as follows: To enhance the security of individuals and groups in society by increasing cyber security."
+    }, 
+    {
+        "sentence_id,": "9d0de8425a", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "To promote the integrated functioning of important elements of the infrastructure of society by increasing the resilience of cyber systems to cope with hazards."
+    }, 
+    {
+        "sentence_id,": "c68a76c67f", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "To establish closer collaboration and coordination on cyber security between Icelandic and international authorities."
+    }, 
+    {
+        "sentence_id,": "8656cce55c", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Efficient collaboration must be established between Icelandic and international authorities, with a demarcation of the division of responsibilities and tasks between them in the field of cyber security."
+    }, 
+    {
+        "sentence_id,": "6968b0bd7d", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "In drawing up the strategy, attention was given to various other strategies in this field, both in Iceland and in the other Nordic countries and also those of international organisations of which Iceland is a member."
+    }, 
+    {
+        "sentence_id,": "6e7b737c1f", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection", 
+                    "minister", 
+                    "administration"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "specialist"
+                ]
+            }
+        ], 
+        "sentence": "The task force consists of: Sigurur Emil Plsson, a specialist at the Ministry of the Interior (Chairman); Gubjrg Sigurardttir, Head of Department in charge of the Information Society Project at the Ministry of the Interior; Pll Heiar Halldrsson and Ott V. Winther, specialists at the Ministry of the Interior, Jn F. Bjartmarz, Detective Chief Superintendent and gst Finnsson (from January 2014), specialist, at the Office of the National Commissioner of the Icelandic Police, Hrafnkell V. Gslason, Director of the Post and Telecom Administration, Stefn Snorri Stefnsson, Head of the National CERT - CERT-S at the Post and Telecom Administration, Jnas Haraldsson, specialist at the Ministry of Foreign Affairs and orsteinn Arnalds (from May 2014), specialist at the Data Protection Authority (Persnuvernd)."
+    }, 
+    {
+        "sentence_id,": "c082fec26c", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "The task force focused on reviewing the general foundations and recommendations on which strategies in this area have been based."
+    }, 
+    {
+        "sentence_id,": "0c1b5cdb45", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "consultant"
+                ]
+            }
+        ], 
+        "sentence": "The strategies of some of the other Nordic countries were examined and discussions were held with domestic and foreign parties, consultants and government officials on various aspects of information security."
+    }, 
+    {
+        "sentence_id,": "6b21f66137", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "institution"
+                ]
+            }
+        ], 
+        "sentence": "Those present included about 80 representatives of some 60 institutions and enterprises."
+    }, 
+    {
+        "sentence_id,": "394a9f44d3", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "Connection with other strategies and parliamentary resolutions Direct and indirect links exist between the strategy on cyber security and many other official strategies and resolutions, e.g."
+    }, 
+    {
+        "sentence_id,": "28db15c98d", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "law", 
+                    "secure", 
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "strategy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "the national strategy on civil protection and public security, law enforcement, telecommunications, the planned strategy on national security and the Icelandic State and Municipal Policy on the Information Society 2013-2016: e-Power Expansion: create, connect, participate Strategy and action in Iceland: Taking the initiative on security The threats and challenges outlined above call for responses."
+    }, 
+    {
+        "sentence_id,": "a55dca831a", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "As a whole, the situation presents an important opportunity to forge ahead and make Icelands IT environment more secure and more competitive in the international context."
+    }, 
+    {
+        "sentence_id,": "4571fe9428", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Generally, prioritising security straight away at the initial planning stage means that expensive situations can be avoided later on."
+    }, 
+    {
+        "sentence_id,": "911eb64d12", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "computing", 
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "Integrating security considerations in the initial plan makes it possible to design reliable computer systems, just as sound foundations make it possible to build a skyscraper: without them, the project remains a castle in the air."
+    }, 
+    {
+        "sentence_id,": "c7175581a1", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "privacy", 
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Priority must be given to security by design and privacy by design, i.e."
+    }, 
+    {
+        "sentence_id,": "f9849cefd4", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "privacy", 
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "the inclusion of security and privacy considerations from the outset in the design process."
+    }, 
+    {
+        "sentence_id,": "144c71eaac", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "computing", 
+                    "system"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "Cyber security must form a part of computer-related studies at all levels of the educational system."
+    }, 
+    {
+        "sentence_id,": "6a4bbbb851", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Moreover, such studies at university level must be upgraded, with closer collaboration with universities abroad to enable students graduating from Icelandic universities to undertake postgraduate studies in cyber security."
+    }, 
+    {
+        "sentence_id,": "935a90de02", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "software"
+                ]
+            }
+        ], 
+        "sentence": "It is likely that ever more stringent security requirements will be made on the market for software and software-related services."
+    }, 
+    {
+        "sentence_id,": "e20fc6e205", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "This could involve both a more secure environment for e-commerce and also being in the forefront of cyber security and making it into a valuable export product."
+    }, 
+    {
+        "sentence_id,": "1c27569607", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Defence against industrial espionage is also an important aspect of this, since such espionage constitutes a large part of the economic damage caused by cyber security threats."
+    }, 
+    {
+        "sentence_id,": "7aa7bd122b", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "computing"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "consultant"
+                ]
+            }
+        ], 
+        "sentence": "Consultancies are starting to use nations cyber security status as a factor in their advice on choice of location for enterprises which intend to set up data centres or other computer-related services."
+    }, 
+    {
+        "sentence_id,": "d526c3529c", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "software"
+                ]
+            }
+        ], 
+        "sentence": "The legal environment in Iceland must also support software-related development and provide protection against cybercrime in order to deter criminal organisations from seeing the country as a suitable venue for their activities because of low level of cyber security."
+    }, 
+    {
+        "sentence_id,": "c4a0376469", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "evaluate"
+                ]
+            }
+        ], 
+        "sentence": "At any given time, steps must be taken to evaluate how Icelands legislation stands in comparison with that of the other Nordic countries."
+    }, 
+    {
+        "sentence_id,": "599c2d653e", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Particular attention must be given to the protection of personal data: technical developments and standards can change very rapidly and it is important that the level of protection in Iceland is not lower than in other Nordic countries."
+    }, 
+    {
+        "sentence_id,": "d3a1f0360b", 
+        "tag": [
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "By employing relatively simple precautionary measures, it is believed that hazards both to private individuals and enterprises can be reduced significantly."
+    }, 
+    {
+        "sentence_id,": "83f108b58b", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Defences must be raised around important elements in the infrastructure in Iceland."
+    }, 
+    {
+        "sentence_id,": "c2407db5bb", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "evaluate"
+                ]
+            }
+        ], 
+        "sentence": "It is important to have a high-capacity cyber security team capable of analysing and evaluating cyber-attacks of various types and providing assistance in the case of attacks."
+    }, 
+    {
+        "sentence_id,": "5168191517", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "5 Telecommunications systems and the primary data transmission networks must be reliable."
+    }, 
+    {
+        "sentence_id,": "93baf0fa5f", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "minister", 
+                    "administration"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "enhance", 
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "IT and IT security in public administration must be enhanced, for example regarding coordination, education and awareness-raising."
+    }, 
+    {
+        "sentence_id,": "7f71543787", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "The main basis of Icelands security and defence lies in the countrys collaboration with NATO, active collaboration with other Nordic countries and the Defence Agreement with the United States."
+    }, 
+    {
+        "sentence_id,": "0acc26d691", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "It also includes the IT infrastructures mentioned above."
+    }, 
+    {
+        "sentence_id,": "c013ca1be9", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "The protection of the infrastructures on which these activities rely in Iceland is therefore one of the most important aspects of Icelands national defence."
+    }, 
+    {
+        "sentence_id,": "efc478e599", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "As an indication of the importance attached by NATO to cyber security, it was decided that cyber-attacks could be classified under Article 5 of the NATO Treaty."
+    }, 
+    {
+        "sentence_id,": "562dac8077", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Increased collaboration with other international organisations such as the United Nations, the Council of Europe, the European Union and the Organisation for Security and Cooperation in Europe can also promote cyber security in Iceland."
+    }, 
+    {
+        "sentence_id,": "8cd6fc0772", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Building up cyber security is a challenge that no single entity in our society can undertake."
+    }, 
+    {
+        "sentence_id,": "3241da5e8e", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "institution", 
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "Both government institutions and private companies in addition to individuals should be included in this process.."
+    }, 
+    {
+        "sentence_id,": "4423e945b3", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "regarding security standards, coordination, identification of cyber security threats and the organisation of responses."
+    }, 
+    {
+        "sentence_id,": "0f7bcdb900", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy", 
+                    "assessment"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "The strategy envisages the development of cyber security along the same lines as other aspects of civil protection and security.In the event of a catastrophe or cyber-threat, the emphasis will be on the rapid exchange of information between the parties concerned in order to minimise and mitigate damage, after which work will proceed on the next steps to be taken; assessment and recovery measures will follow the same pattern as is described in the civil defence programme."
+    }, 
+    {
+        "sentence_id,": "59cceed8e4", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "Review of the strategy and action plan This strategy shall be examined and reviewed as necessary, at minimum every four years."
+    }, 
+    {
+        "sentence_id,": "625ac73b57", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "Measures based on the strategy shall be designed to cover shorter periods and shall be reviewed at least once a year."
+    }, 
+    {
+        "sentence_id,": "7645814ce7", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "minister", 
+                    "administration"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "Procedure in implementing the strategy shall be in the spirit of public administration."
+    }, 
+    {
+        "sentence_id,": "4131046b7b", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "6 Action plan 20152018 In order to put the cyber security strategy into action, it is proposed that a special cyber security council shall be appointed, consisting of representatives of the government bodies involved in the implementation of the strategy., Moreover, a cyber security forum should be set up, representing stakeholders both public and private entities."
+    }, 
+    {
+        "sentence_id,": "db455f1ffa", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "minister"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "The Cyber Security Council Supervision of implementation of the strategy is to be the responsibility of the Cyber Security Council, which will be appointed by the Minister of the Interior."
+    }, 
+    {
+        "sentence_id,": "d5b232cb2c", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "The Cyber Security Council will coordinate measures, particularly those involving government bodies."
+    }, 
+    {
+        "sentence_id,": "88e3f5acc1", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "minister"
+                ]
+            }
+        ], 
+        "sentence": "The Cyber Security Council will submit a report to the Minister of the Interior every year on implementation of the strategy."
+    }, 
+    {
+        "sentence_id,": "fce9e8366b", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "The Cyber Security Forum This is a collaborative venue for representatives of public bodies who sit on the Cyber Security Council and of private entities."
+    }, 
+    {
+        "sentence_id,": "1044b653f0", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "The forum will be able to coordinate projects involving stakeholders, in part or in their entirety, and create a basis for collaboration on specific projects, addressing cyber security in demarcated areas."
+    }, 
+    {
+        "sentence_id,": "15230bca55", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection", 
+                    "minister", 
+                    "administration", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards", 
+                    "strategy", 
+                    "technology", 
+                    "system", 
+                    "technology"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "Cyber Security Forum Cyber Security Council Ministry of the Interior Data Protection Authority Ministry for Foreign Affairs Telecommunications (including Defence) Financial systems Information Society Project Public Adiministration Ministry of Education, Culture and Science Ministry of Industries and Innovation Utilities National Commissioner of the Icelandic Police Ministry of Finance and Economic Affairs CERT-IS Transport and communications Information technology Health services Post and Telecom Administration Universities 7 The measures planned for the first period will call for a special effort to establish the broad collaboration needed between the government and stakeholders According to the plan these measures will be reviewed annually; in subsequent periods procedure will be harmonised with normal standards of other strategy applications."
+    }, 
+    {
+        "sentence_id,": "9c0abf7d86", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "The strategy is intended to form the basis of collaboration and development in cyber security."
+    }, 
+    {
+        "sentence_id,": "931e96593e", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "The strategy itself will not change the responsibilities and duties of those involved in cyber security even though proposals may be made for measures that may involve changes in these areas."
+    }, 
+    {
+        "sentence_id,": "0208061dcc", 
+        "tag": [
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "Nevertheless to ensure the effort will have sufficient capacity, about ISK 20 million will probably be needed to pay for coordination, reports and educational/training/awareness-raising work."
+    }, 
+    {
+        "sentence_id,": "46c6974801", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "consultant"
+                ]
+            }
+        ], 
+        "sentence": "Proposals for projects requiring public funding will be submitted to the Cyber Security Council, which will make proposals on priority ranking of projects, following consultation with stakeholders."
+    }, 
+    {
+        "sentence_id,": "f4b84e68f2", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "consultant"
+                ]
+            }
+        ], 
+        "sentence": "At the end of each period, the Cyber Security Council will compile a report based on summaries submitted by those responsible for all the measures, give an account of the results of the work and submit proposals, following consultation with stakeholders, on a plan of action for the next three years."
+    }, 
+    {
+        "sentence_id,": "78ecec8a9c", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "law", 
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "The aim is that the work of the Cyber Security Council will be transparent: minutes of meetings and other materials will be published except where publication would be contrary to law, e.g."
+    }, 
+    {
+        "sentence_id,": "bc404accf0", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection"
+                ]
+            }
+        ], 
+        "sentence": "in view of personal data protection considerations."
+    }, 
+    {
+        "sentence_id,": "0b8f8b0f25", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "1: Capacity building The public, enterprises and government should have the knowledge, skills and equipment needed to cope with cyber security threats."
+    }, 
+    {
+        "sentence_id,": "bca5af69e6", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Knowledge is the prerequisite for being able to build up capacity in cyber security."
+    }, 
+    {
+        "sentence_id,": "d1ba371998", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "The challenge is similar to that in raising the level of traffic safety: There is a technical side, similar to having the highest possible standards of vehicle safety and well-constructed roads, etc."
+    }, 
+    {
+        "sentence_id,": "dfba3b1b74", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "An active interest in security need not be daunting or difficult; on the contrary, it makes things easier for everyone."
+    }, 
+    {
+        "sentence_id,": "1e1a8a4eff", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "computing", 
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "Security issues must be a part of peoples use of computers and other equipment from the outset when children are first introduced to them and so on up through the school system."
+    }, 
+    {
+        "sentence_id,": "8de1bc14b9", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "Awareness-raising is a key component in the cyber security strategies of most of our neighbouring countries."
+    }, 
+    {
+        "sentence_id,": "cae0b45b2a", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "If the subject is to thrive and develop, it will be necessary to standardise and coordinate this terminology."
+    }, 
+    {
+        "sentence_id,": "55cff5d046", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Nevertheless it is a major challenge to develop a reliable foundation on which to build a cyber security culture."
+    }, 
+    {
+        "sentence_id,": "adaced44e8", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "assessment"
+                ]
+            }
+        ], 
+        "sentence": "The degree to which such a culture is established is one of the factors that investors take into account when they assess countries as potential locations for new projects."
+    }, 
+    {
+        "sentence_id,": "f34649fed1", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "enhance"
+                ]
+            }
+        ], 
+        "sentence": "Awareness-raising Enhancement of general awareness of cyber security issues."
+    }, 
+    {
+        "sentence_id,": "a30bc7fc9b", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Terminology Relevant international definitions of important terms in cyber security to be collected and translated into Icelandic where necessary."
+    }, 
+    {
+        "sentence_id,": "e4a802aec1", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "computing"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "Education Cyber security to be included in all computer-related studies at all school levels."
+    }, 
+    {
+        "sentence_id,": "5d1ac0884e", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Postgraduate studies Students with first degrees from Icelandic universities to have access to postgraduate studies in cyber security meeting requirements comparable to those made in the other Nordic countries."
+    }, 
+    {
+        "sentence_id,": "b998473143", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "software"
+                ]
+            }
+        ], 
+        "sentence": "Design values Secure design and personal data protection to be included in the basic values observed in Icelandic software development."
+    }, 
+    {
+        "sentence_id,": "eeae69f783", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Personal data protection International standards and obligations regarding personal data protection to be taken into account when developing cyber security."
+    }, 
+    {
+        "sentence_id,": "d0316720ec", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "2: Increased resilience An upgrading of the resilience of information systems."
+    }, 
+    {
+        "sentence_id,": "86f4307750", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "assessment"
+                ]
+            }
+        ], 
+        "sentence": "Greater capacity in the fields of assessment, preparedness and response as key factors in increased resilience."
+    }, 
+    {
+        "sentence_id,": "d9da95b9a4", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "monitor"
+                ]
+            }
+        ], 
+        "sentence": "Monitoring and response capacity must be increased so as to respond to abnormal situations on the Internet."
+    }, 
+    {
+        "sentence_id,": "9dcc013526", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Therefore it is important to establish one or more collaborative forums on which information on cyber security threats can be shared in a clearly defined manner without infringement of competition or personal data considerations."
+    }, 
+    {
+        "sentence_id,": "df752c46f8", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "The pace of development in the field of cyber security is very rapid."
+    }, 
+    {
+        "sentence_id,": "f5edaff09e", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "It is also vital that Iceland presents a single coordinated strategy in cyber security matters when the country takes part in international collaboration."
+    }, 
+    {
+        "sentence_id,": "682cd55ca7", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "Increased resilience in information systems will depend on reliable design."
+    }, 
+    {
+        "sentence_id,": "7be5f098d8", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "software"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Reliable design must be a crucial consideration in the purchase and development of software, particularly in the case of key elements in IT infrastructure."
+    }, 
+    {
+        "sentence_id,": "d9bc00602f", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "A collaborative forum A forum must be established where representatives of government and private enterprises can work together on cyber security issues."
+    }, 
+    {
+        "sentence_id,": "7d6ef5d6b7", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Security yardsticks Choice of appropriate yardsticks (standards and others) for cyber security."
+    }, 
+    {
+        "sentence_id,": "25910ef865", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "9. International collaboration Icelands involvement in cyber security abroad must be increased and coordinated."
+    }, 
+    {
+        "sentence_id,": "f7e15f7995", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Reliability of primary data systems Telecommunications systems and the primary data transmission networks must offer support, with a defined degree of reliability, the Internet and IT networks of key elements in Icelands infrastructure, both as regards connections within the country and their interface with other countries."
+    }, 
+    {
+        "sentence_id,": "7f44721894", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "minister", 
+                    "administration"
+                ]
+            }
+        ], 
+        "sentence": "Public administration Cyber security in the field of public administration must be upgraded by means of increased training, coordination and collaboration."
+    }, 
+    {
+        "sentence_id,": "acbcf57fd0", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Analysis Principal cyber security threats must be analysed and key elements in the Icelandic infrastructure identified."
+    }, 
+    {
+        "sentence_id,": "55fbe2dc60", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Protection of the infrastructure The capacity of the cyber security team to raise the level of protection and assist important elements in the national infrastructure must be increased, and an active response mechanism must be in place on a round-the-clock basis every day of the year."
+    }, 
+    {
+        "sentence_id,": "8511aa90a6", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "Particular emphasis should be placed on telecoms, utilities and financial companies and the systems necessary for international aviation."
+    }, 
+    {
+        "sentence_id,": "1dc2963bbb", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Response Response contingency plans to deal with cyber security threats must be developed and tested by means of exercises."
+    }, 
+    {
+        "sentence_id,": "681d60e116", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "The focus must be on protecting important elements in the national infrastructure."
+    }, 
+    {
+        "sentence_id,": "ad64c3c4e9", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection"
+                ]
+            }
+        ], 
+        "sentence": "3: Strengthened legislation Icelandic legislation should reflect the international demands and obligations the country undertakes regarding cyber security and the protection of personal data."
+    }, 
+    {
+        "sentence_id,": "377c1f49c5", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Furthermore, legislation must also support innovation and the development of security related services, e.g."
+    }, 
+    {
+        "sentence_id,": "c210e2798b", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Good legislation is a crucial factor for developing cyber security."
+    }, 
+    {
+        "sentence_id,": "ff6bde7ed7", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "The European Unions strategy on cyber security must be taken into account in Icelands legislation."
+    }, 
+    {
+        "sentence_id,": "d7b9252bfd", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "technology"
+                ]
+            }
+        ], 
+        "sentence": "The use of cloud technology entails various legal implications and challenges."
+    }, 
+    {
+        "sentence_id,": "bf51109f27", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "The reporting of cyber security incidents must be made obligatory."
+    }, 
+    {
+        "sentence_id,": "e2a3ea8338", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Strengthened legislation A review of Icelandic legislation should be made to ensure that it conforms to the countrys international obligations and makes it possible to tackle cyber security threats in the same way as is done in other Nordic countries."
+    }, 
+    {
+        "sentence_id,": "4fbd2c7cc1", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "At the same time, it must be ensured that cyber security threats can be appropriately tackled in the same way as other threats."
+    }, 
+    {
+        "sentence_id,": "106cdcea3a", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "law", 
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "4: Tackling cybercrime The police should have, or have access to, the professional knowledge, skills and equipment needed to resolve issues concerning cyber security Issues of various types may arise in connection with law-enforcement and the investigation of cybercrime due to the international nature of the Internet."
+    }, 
+    {
+        "sentence_id,": "458f8174d0", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "specialist"
+                ]
+            }
+        ], 
+        "sentence": "To ensure that this is the case, sufficient attention must be given to the training of specialists, but also for ordinary police officers, covering how to recognise and respond to offences in this area."
+    }, 
+    {
+        "sentence_id,": "a054a4d49a", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection"
+                ]
+            }
+        ], 
+        "sentence": "Capacity to offer protection against espionage on the Internet and other abnormal data collection must be increased."
+    }, 
+    {
+        "sentence_id,": "457fa7768f", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "law"
+                ]
+            }
+        ], 
+        "sentence": "Law-enforcement capacity to tackle cybercrime is one of the factors which companies take into account when choosing a safe operating environment."
+    }
+]

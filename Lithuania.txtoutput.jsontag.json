@@ -1,0 +1,1064 @@
+[
+    {
+        "sentence_id,": "ebc17fe8af", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "To approve the Programme for the Development of Electronic Information Security (Cyber-Security) for 20112019 (as appended)."
+    }, 
+    {
+        "sentence_id,": "ce404e40c2", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "minister", 
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "Prime Minister Andrius Kubilius Minister of Justice acting as Minister of the Interior Remigijus imaius APPROVED by Resolution No 796 of the Government of the Republic of Lithuania Of 29 June 2011 THE PROGRAMME FOR THE DEVELOPMENT OF ELECTRONIC INFORMATION SECURITY (CYBER-SECURITY) FOR 20112019 I."
+    }, 
+    {
+        "sentence_id,": "47bd173f52", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "minister", 
+                    "administration"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "technology"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "public service"
+                ]
+            }
+        ], 
+        "sentence": "The Programme for the Development of Electronic Information Security (CyberSecurity) for 20112019 has been developed considering the increasing significance of electronic information, processed and transmitted by means of information and communication technologies, and also considering the fact that the newly emerged possibilities of electronic information processing fostered the development of national and global information societies and facilitated further modernization of national economies as well as led to more efficient public administration, while at the same time, with more and more information being converted into electronic format and various public administration and economic processes being automated, the global cyberspace and the public services delivered online have become an attractive target for individuals, criminal groups, political forces and other subjects."
+    }, 
+    {
+        "sentence_id,": "3bfa2a3aa1", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection", 
+                    "safeguard"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "The purpose of the Programme is to determine the objectives and tasks for the development of electronic information in order to ensure the confidentiality, integrity and accessibility of electronic information and services provided in cyberspace, safeguarding of electronic communication networks, information systems and critical information infrastructure against incidents and cyber attacks, protection of personal data and privacy, as well as to set the tasks, implementation of which would allow total security of cyberspace and entities operating in this medium."
+    }, 
+    {
+        "sentence_id,": "083ea3d560", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "The strategic objective of the Programme is the development of the security of electronic information in Lithuania, ensuring cyber security in order to achieve, in the year 2019, a 98 per cent level of compliance of state-owned information resources with legislative requirements on electronic information security (cyber security), reduction to 0.5 hour of the average time of response to critical information infrastructure incidents and a 60 per cent level of the Lithuanian residents who feel secure in cyberspace."
+    }, 
+    {
+        "sentence_id,": "f0ee29df10", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "technology"
+                ]
+            }
+        ], 
+        "sentence": "The terms used in the Programme shall have the following meaning: Information resources shall mean an aggregate of information which is managed by members of the information society and processed by means of information technology as well as the information technology means used to process the said information."
+    }, 
+    {
+        "sentence_id,": "e0c2d64b02", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "Incident shall mean an event, act or omission which gives rise or may give rise to an unauthorized access to an information system or electronic communications network, disruption or change of the operation (including takeover of control) of an information system 2 or electronic communications network, destruction, damage, deletion or the change of electronic information, removal or limiting of the possibility to use electronic information and, also, which gives rise or may give rise to the appropriation, publication, dissemination or any other use of non-public electronic information by persons unauthorized to do so."
+    }, 
+    {
+        "sentence_id,": "3de102cf19", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Critical information infrastructure shall mean an electronic communications network, information system or a group of information systems where an incident that occurs causes or may cause grave damage to national security, national economy or social wellbeing."
+    }, 
+    {
+        "sentence_id,": "e1c1495ad1", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "To ensure the security of state-owned information resources."
+    }, 
+    {
+        "sentence_id,": "646bfac5c1", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "This objective is being addressed, since no system for coordination of the management of electronic information security has yet been created, except in the public sector (i.e."
+    }, 
+    {
+        "sentence_id,": "2ee478ce55", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "institution", 
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "in the institutions accountable to the Government of the Republic of Lithuania)."
+    }, 
+    {
+        "sentence_id,": "5792852556", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "institution", 
+                    "secure", 
+                    "minister", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "technology"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "The Ministry of the Interior has no power to exercise a proper control and coordination for ensuring the security of electronic information (cyber security), the governance and supervision structure at the level of state and public institutions is not hierarchical, the lack of cooperation among Lithuanian public and private sector entities prevents an efficient planning of the development of the sphere of electronic information security (cyber security), the existing and regularly detected vulnerabilities of information technologies, if not removed on time, give rise to the disruption of the operation of information resources as well as critical information infrastructures, while the efficiency of detection and removal of these vulnerabilities increases through the centralization of said activities."
+    }, 
+    {
+        "sentence_id,": "6fdee4fe88", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "The compliance with the requirements on electronic information security (cyber security) ensures that information resources are managed in accordance with the requirements of international standards and examples of good practice, however, Lithuania has no efficient compliance management structure; the information maturity model of an organization allows for a better awareness among information resources managers of the need for information resources security and a more efficient management thereof."
+    }, 
+    {
+        "sentence_id,": "ac9438037b", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "law", 
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "3 There is no law on electronic information security (cyber security) and the regulation thereof by legal acts of lower force is fragmentary and does not cover all members of the information society, at the same time, there is no legal basis to allow an efficient response to incidents in public electronic communications networks, the providers of electronic communications and Internet access services are not required to report the incidents to the National Electronic Communications Network and Information Security Incidents Investigation Service CERT-LT (hereinafter referred to as CERT-LT)."
+    }, 
+    {
+        "sentence_id,": "d02a160d9b", 
+        "tag": [
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "Consequently, the instructions of the national CERT-LT for services providers regarding the elimination of incidents are not mandatory either, there is no legal basis to regulate the use of identification measures directed at reducing the risk of identity falsification and theft in cyberspace."
+    }, 
+    {
+        "sentence_id,": "37a81db540", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Often, the services delivered by providers of Internet and other information infrastructure services do not ensure their users security."
+    }, 
+    {
+        "sentence_id,": "4a101f8f71", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "During the period of economic hardship, electronic information security (cyber security) received neither sufficient attention nor information resources, however, the application of the principle of collective security would allow for a more efficient use of information resources; no backup information resources or backup infrastructure to sustain the emergency operation of critical infrastructures and information resources have yet been developed."
+    }, 
+    {
+        "sentence_id,": "5aaadaf973", 
+        "tag": [
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "Reliable identification reduces the risk of major threats related to cyberspace and increases users confidence in cyberspace."
+    }, 
+    {
+        "sentence_id,": "f1b8c59219", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "institution", 
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "assurance of electronic information security (cyberspace) security) is the concern of all entities whose activities are related to the provision of services in cyberspace (public institutions, private economic entities, academic society and others)."
+    }, 
+    {
+        "sentence_id,": "0c29158e6d", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection"
+                ]
+            }
+        ], 
+        "sentence": "Electronic information security (cyberspace security) projects implemented in cooperation enable the achievement of protection of all stakeholders interests."
+    }, 
+    {
+        "sentence_id,": "7277572180", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "The European Union and NATO devote much attention to the security of electronic information and critical information infrastructure."
+    }, 
+    {
+        "sentence_id,": "384a838f1e", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "It would be appropriate to apply the principle of collective security not only on a national, but also on international level."
+    }, 
+    {
+        "sentence_id,": "abc02901f8", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "To ensure an efficient functioning of critical information infrastructure."
+    }, 
+    {
+        "sentence_id,": "b6ff34f04f", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "institution", 
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "The objective is being pursued, since, currently, the security of critical information infrastructure is ensured only on an institutional level, the coordination structure is not yet in place, no analysis of relationship between objects of this infrastructure or the national impact of its failure has been done, there is no planning of the continuity of activities."
+    }, 
+    {
+        "sentence_id,": "b0b5416d63", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "evaluate"
+                ]
+            }
+        ], 
+        "sentence": "Penetration test is the most objective method to evaluate the proper functioning of a security system, however, neither a regulatory framework for its application nor a practice of such testing exist."
+    }, 
+    {
+        "sentence_id,": "9eba48fe7b", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "monitor"
+                ]
+            }
+        ], 
+        "sentence": "An efficient monitoring system facilitates the prevention of incidents."
+    }, 
+    {
+        "sentence_id,": "8c6c53a9ea", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "To seek to ensure the cyber security of the Lithuanian residents and persons staying in Lithuania."
+    }, 
+    {
+        "sentence_id,": "0be0f54f6a", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "This objective is being pursued, since not all users of electronic information are concerned about electronic information security (cyber security), there is a shortage and it is likely to be felt even more in the future of qualified electronic information security experts."
+    }, 
+    {
+        "sentence_id,": "4f2168f09e", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Basic knowledge and tools of electronic information security (cyber security) allow the users to avoid many threats facing them in cyberspace."
+    }, 
+    {
+        "sentence_id,": "f626d7d959", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "To ensure cyberspace security it is necessary to establish a continuous and properly managed system covering all phases of incident management, such as early warning, prevention, detection, elimination and investigation."
+    }, 
+    {
+        "sentence_id,": "3451b54f9a", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "computing", 
+                    "effective"
+                ]
+            }
+        ], 
+        "sentence": "An effective way to fight against malware spreading via remote control computer networks or other malicious cyber activities is to block Internet access to persons and/or equipment engaged in malicious activates."
+    }, 
+    {
+        "sentence_id,": "074a2d583f", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection"
+                ]
+            }
+        ], 
+        "sentence": "The Lithuanian Internet Traffic Exchange (ITE) node, being a naturally emerged entity, serves as a convenient and efficient centre for hosting protection capabilities of Lithuania's cyberspace (as well as of its virtual perimeter)."
+    }, 
+    {
+        "sentence_id,": "264e172794", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Given the implementation of a one-stop-shop principle, the prevailing trend in the area of electronic services is that of unification and centralization; it would be appropriate to exploit this trend also for ensuring the security of these services."
+    }, 
+    {
+        "sentence_id,": "7a51935f9b", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }, 
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation", 
+                    "international cooperation"
+                ]
+            }
+        ], 
+        "sentence": "In order to achieve the objective specified in paragraph 6.1 of the Programme, the following tasks shall be implemented: 7.1. to improve the coordination and supervision of electronic information security (cyber security); 7.2. to improve the regulatory framework of electronic information security (cyber security); 7.3. to expand and improve a secure national information infrastructure; 7.4. to promote the implementation of electronic information (security cyber security) projects; 7.5. to develop international cooperation in the area of electronic information security (cyber security)."
+    }, 
+    {
+        "sentence_id,": "53386ea4d5", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "In order to achieve the objective specified in paragraph 6.2 of the Programme, it is necessary to implement the task of ensuring the security of critical information infrastructure."
+    }, 
+    {
+        "sentence_id,": "7167ab7e52", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "enhance"
+                ]
+            }
+        ], 
+        "sentence": "In order to achieve the objective specified in paragraph 6.3 of the Programme, the following tasks must be implemented: 5 9.1. to enhance the culture of protection of electronic information security (cyber security); 9.2. to strengthen Lithuanias cyber security; 9.3. to ensure the protection of Lithuanias virtual cyber perimeter from external cyber attacks; 9.4. to reinforce the security of services delivered in cyberspace."
+    }, 
+    {
+        "sentence_id,": "ac8c704359", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "assessment"
+                ]
+            }
+        ], 
+        "sentence": "The assessment criteria for Programme implementation and their indicators to be attained in 2011, 2015 and 2019 are specified in the Annex to the Programme."
+    }, 
+    {
+        "sentence_id,": "771cec259d", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "institution", 
+                    "minister", 
+                    "administration"
+                ]
+            }
+        ], 
+        "sentence": "Taking into account the fact that the Programme covers one area, the administration of which falls under the responsibility of the Minister of the Interior, no allocation of EU-financed Programme funding among Programme implementing institutions will be planned."
+    }, 
+    {
+        "sentence_id,": "8ea3883e6c", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "minister"
+                ]
+            }
+        ], 
+        "sentence": "Coordination of Programme implementation shall be carried out by the Ministry of the Interior (hereinafter referred to as Programme Coordinator)."
+    }, 
+    {
+        "sentence_id,": "98a4fb6185", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "institution"
+                ]
+            }
+        ], 
+        "sentence": "Responsibility for the implementation of the objectives and tasks of the Programme shall be with the institutions and bodies specified in the Annex to the Programme."
+    }, 
+    {
+        "sentence_id,": "6746c7b85f", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "institution"
+                ]
+            }
+        ], 
+        "sentence": "Institutions participating in the implementation of the Programme shall: 14.1. taking into account the tasks and targeted outcomes laid down in the Programme, plan the level of the outcome to be achieved within the planned period, select measures and plan funds and include them into strategic action plans and/or annual action plans and annually, by 1 August, submit this information to the Programme Coordinator; 14.2. submit annually, by 1 February, to the Programme Coordinator information on implemented measures and achieved results."
+    }, 
+    {
+        "sentence_id,": "d7672fffa5", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "assessment"
+                ]
+            }
+        ], 
+        "sentence": "The Programme Coordinator shall: 15.1. supervise the implementation of the strategic goal, objectives and tasks of the Programme, carry out an interim review of the tasks laid down in the Programme and changes in the levels of task assessment criteria and, if necessary, initiate an update of the Programme; 15.2. present information on implementation and results of the Programme in an annual Programme Coordinators Activity Report."
+    }, 
+    {
+        "sentence_id,": "a4034820bc", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "assessment"
+                ]
+            }
+        ], 
+        "sentence": "Annex to the 20112019 Programme for the Development of Electronic Information Security (Cyber Security) PROGRAMME FOR THE DEVELOPMENT OF ELECTRONIC INFORMATION SECURITY (CYBER SECURITY) FOR 20112019 ASSESSMENT CRITERIA AND THEIR EXPECTED INDICATORS No."
+    }, 
+    {
+        "sentence_id,": "e2903f18e2", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "law", 
+                    "institution", 
+                    "secure", 
+                    "protection", 
+                    "minister"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system", 
+                    "assessment"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "monitor", 
+                    "evaluate", 
+                    "policy"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "consultant"
+                ]
+            }
+        ], 
+        "sentence": "To ensure the security of national information resources 1.1. to improve the coordination and monitoring of electronic information security (cyber security); Assessment criterion Indicator Indicator Indicator in 2011 in 2015 in 2019 Level of compliance of national information resources with security requirements, (%) 95 98 Level of resources (%), security of which is monitored by an institution designated by the law on the basic requirements related to ensuring electronic information security (cyber security) Percentage of entities in defining and implementing national policy in the area of electronic information security (cyber security) that belong to the national system of coordination of electronic information security (cyber security), (%) Permanent collegial consultative council of electronic information security (cyber security) established Number of evaluation studies of existing capabilities in the area of electronic information security (cyber security) and their potential 70 100 80 100 yes yes 1 2 Institution responsible for implementation of the criterion All the institutions specified in items 3 to 29 of this Annex, according to their competences All the institutions specified in items 3 to 10 of this Annex, according to their competences Ministry of the Interior, Ministry of National Defence, Ministry of Transport and Communications, State Data Protection Inspectorate Ministry of the Interior 2 No."
+    }, 
+    {
+        "sentence_id,": "8721767b75", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "institution", 
+                    "secure", 
+                    "protection", 
+                    "minister"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "system", 
+                    "assessment", 
+                    "technology"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "monitor", 
+                    "evaluate"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "enhance"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "public service"
+                ]
+            }
+        ], 
+        "sentence": "1.2. to improve the regulatory framework of electronic information security (cyber security) Assessment criterion Methods for evaluation of threats and vulnerabilities approved Number of performed evaluations of threats and vulnerabilities Level of uncontrollable vulnerabilities, (%) Percentage of information systems monitored by the system for monitoring compliance with the requirements of electronic information security (cyber security), (%) Percentage of information systems managers who have enhanced their level of maturity in electronic information security management, (%) Percentage of public institutions, economic entities that provide services to public institutions and of public services provided to society with an estimated level of reliance on cyberspace and the use of information and communication technologies, (%) Percentage of completed pre-trial investigations into criminal offences in cyberspace, (%) Participation in the investigation of cyber incidents that have caused or may have caused a crisis, (%) Percentage of adopted or amended legal acts among the legislation for which the need for adoption or amendment was identified (%) Indicator Indicator Indicator in 2011 in 2015 in 2019 Institution responsible for implementation of the criterion Ministry of the Interior, Communications Regulatory Authority, State Data Protection Inspectorate yes yes 4 8 0 20 60 10 100 Ministry of the Interior 50 100 Ministry of the Interior 60 100 Ministry of the Interior, Ministry of Transport and Communications 30 50 Police Department under the Ministry of the Interior 60 90 Office of the Prime Minister 80 100 All the institutions specified in items 12 to 15 of this Annex, according to their competences 3 No."
+    }, 
+    {
+        "sentence_id,": "5cc7d4563c", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "law", 
+                    "institution", 
+                    "secure", 
+                    "protection", 
+                    "minister"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "assessment"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "enhance"
+                ]
+            }
+        ], 
+        "sentence": "Objective Task Assessment criterion Indicator Indicator Indicator in 2011 in 2015 in 2019 Specific laws providing for the basic requirements related to ensuring electronic information security (cyber security) and regulating appropriate acts and legal relationships (including the Law of the Republic of Lithuania on Electronic Communications Networks and Information Security) adopted Percentage of adopted or amended legal acts among the legislation for which the need for adoption or amendment was identified, (%) yes yes 80 100 Requirements for the provision of services of a secure national (state) data communication network approved yes yes yes yes 70 100 yes yes Classification of identification measures (methods) and reliability of services (harmonized with that of other Member States of the European Union), technical and procedural requirements as well as the procedure for its accreditation and use approved 1.3. to expand and Level of information resources using the improve a secure national secure infrastructure, (%) information infrastructure Approval of service provision requirements for enhancing the responsibility of economic entities in the provision of information infrastructure services for the security of provided services Institution responsible for implementation of the criterion Ministry of the Interior, Ministry of Transport and Communications, Communications Regulatory Authority Ministry of the Interior, Communications Regulatory Authority, State Data Protection Inspectorate Ministry of Transport and Communications, Ministry of the Interior, Communications Regulatory Authority Ministry of the Interior, Communications Regulatory Authority (as far as it is related to its function as a supervisory authority for electronic signature) All the institutions specified in items 17 to 21 of this Annex, according to their competences Ministry of Transport and Communications 4 No."
+    }, 
+    {
+        "sentence_id,": "4039f03174", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "institution", 
+                    "secure", 
+                    "protection", 
+                    "minister", 
+                    "administration", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "computing", 
+                    "system", 
+                    "assessment"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "1.4. to encourage the implementation of electronic information security (cyber security) projects Assessment criterion Proportion of the amount of funds planned for information systems security by information systems managers compared to the amount planned for the development and maintenance of information systems, (%) Proportion of the backup capabilities of communications and information systems designed to ensure public administration needs compared to the active capabilities, (%) Level of information systems using the collective defence system of e-Government information resources against public network threats, (%) 1st category information system 2nd category information system 3rd category information system 4th category information system System for ensuring a reliable identification of the users and information resources within the national information infrastructure and the critical information infrastructure as well as for providing electronic identification services is in place Proportion of projects implemented on the basis of cooperation between entities engaged in government activities compared to the total number of information infrastructure protection projects, (%) Indicator Indicator Indicator in 2011 in 2015 in 2019 10 15 20 30 Institution responsible for implementation of the criterion Ministry of the Interior, Ministry of Transport and Communications Ministry of the Interior, Ministry of Transport and Communications Ministry of the Interior 0 0 0 0 80 60 50 40 yes 100 100 100 100 yes 30 50 Ministry of the Interior Ministry of the Interior, Ministry of National Defence, Lithuanian Research and Studies Computer Network LITNET Council (hereinafter referred to as LITNET) 5 No."
+    }, 
+    {
+        "sentence_id,": "37a72b5abf", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "institution"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "assessment"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "Objective Task Assessment criterion Indicator Indicator Indicator in 2011 in 2015 in 2019 20 50 Percentage of the initiatives of national economic entities and education institutions (research, projects, decisions and etc.)"
+    }, 
+    {
+        "sentence_id,": "121166c93c", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "institution", 
+                    "secure", 
+                    "minister"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "cooperation", 
+                "subcategory": [
+                    "international cooperation", 
+                    "international cooperation"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "implemented jointly with public institutions, (%) 1.5. to develop Number of areas (the pillars for addressing the international cooperation challenges specified in the EC Communication in the area of electronic COM (2009) 149 of 30 March 2009) of information security international cooperation (cyber security) Participation, upon invitation, in the events on electronic information security (cyber security) organized by the NATO, European Union and the United Nations Organization, (%) 30 50 3 5 50 80 Number of representatives delegated to the NATO Cooperative Cyber Defence Centre of Excellence Participation, upon invitation, in events organized by to the NATO Cooperative Cyber Defence Centre of Excellence, (%) Participation, upon invitation, in international cyber security exercises, (%) 1 1 2 50 80 50 80 Percentage of projects that received proposals from associations, (%) Institution responsible for implementation of the criterion Ministry of the Interior, Communications Regulatory Authority Ministry of Education and Science, Ministry of the Interior, Communications Regulatory Authority, LITNET Council All the institutions specified in items 26 to 29 of this Annex, according to their competences Communications Regulatory Authority, Ministry of National Defence, Ministry of the Interior, Ministry of Transport and Communications Ministry of National Defence Communications Regulatory Authority, Ministry of National Defence, LITNET Council 6 No."
+    }, 
+    {
+        "sentence_id,": "48be1a5274", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "institution", 
+                    "minister"
+                ]
+            }
+        ], 
+        "sentence": "Institution responsible for implementation of the criterion Communications Regulatory Authority, Ministry of National Defence, Ministry of the Interior, LITNET Council All the institutions specified in items 32 to 40 of this Annex, according to their competences All the institutions specified in items 32 to 40 of this Annex, according to their competences Ministry of the Interior, Communications Regulatory Authority, Ministry of National Defence, LITNET Council Ministry of the Interior, Ministry of National Defence, LITNET Council Ministry of the Interior 7 No."
+    }, 
+    {
+        "sentence_id,": "d6b1a2b1cf", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "institution", 
+                    "secure", 
+                    "protection", 
+                    "minister"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "assessment"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure", 
+                    "monitor"
+                ]
+            }
+        ], 
+        "sentence": "Objective Task Assessment criterion Indicator Indicator Indicator in 2011 in 2015 in 2019 Institution responsible for implementation of the criterion Communications Regulatory Authority, LITNET Council Number of Lithuanias critical electronic communications and Internet network infrastructures that are under regular monitoring and the number of elements of Lithuanias cyber perimeter compared to the total, (%) Number of institutions taking part in the activities of the European Unions Critical Infrastructure Warning Information Network (CIWIN) Institution responsible for continuity of the performance of critical infrastructures during failures designated Cyber Defence Plan for protecting critical information infrastructures by institutions for national defence approved National Cyber Defence Plan for protecting critical information infrastructures and national information resources approved 95 99,5 7 12 Office of the Prime Minister yes yes Office of the Prime Minister yes yes yes The plan for preparation and management, during a crisis, of backup infrastructure required for ensuring the viability of critical information infrastructures approved yes yes Ministry of National Defence, State Security Department, Communications Regulatory Authority, Ministry of the Interior, Ministry of Transport and Communications, Ministry of Economy, Ministry of Energy, Ministry of Finance Ministry of the Interior, Ministry of National Defence 8 No."
+    }, 
+    {
+        "sentence_id,": "0a82533bd0", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "law", 
+                    "institution", 
+                    "minister"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "specialist"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "Number of specialists who have been trained in information law Research in the area of information law carried out Indicator Indicator Indicator in 2011 in 2015 in 2019 Institution responsible for implementation of the criterion Ministry of the Interior 70 100 40 60 All the institutions specified in items 43 to 59 of this Annex, according to their competences 60 80 1 2 80 200 All the institutions specified in items 43 to 48 of this Annex, according to their competences Ministry of Education and Science, Ministry of the Interior, Communications Regulatory Authority, LITNET Council 20 30 10 15 Ministry of Education and Science LITNET Council 9 No."
+    }, 
+    {
+        "sentence_id,": "43cbfbdacb", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "institution", 
+                    "secure", 
+                    "protection", 
+                    "minister"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "3.2. to strengthen Lithuanias cyber security Institution responsible for implementation of the criterion Ministry of the Interior, State Data Protection Inspectorate Ministry of the Interior, Communications Regulatory Authority, Ministry of Education and Science, State Data Protection Inspectorate Ministry of the Interior, Ministry of Transport and Communications, Communications Regulatory Authority Communications Regulatory Authority, Ministry of the Interior, Ministry of Education and Science All the institutions specified in items 50 to 52 of this Annex, according to their competences Communications Regulatory Authority, Ministry of National Defence, LITNET Council 10 No."
+    }, 
+    {
+        "sentence_id,": "89aaa57d83", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "computing"
+                ]
+            }
+        ], 
+        "sentence": "3.3. to ensure the protection of Lithuanias computer network (virtual cyber perimeter) from external cyber attacks 11 No."
+    }, 
+    {
+        "sentence_id,": "0a5839707d", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "institution", 
+                    "secure", 
+                    "protection", 
+                    "minister", 
+                    "administration"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system", 
+                    "assessment"
+                ]
+            }
+        ], 
+        "sentence": "3.4. to reinforce the security of services delivered in cyberspace Assessment criterion Indicator Indicator Indicator in 2011 in 2015 in 2019 Provisions on the Lithuanian Internet Traffic Exchange (ITE) approved yes yes Percentage of cyber services that comply with the requirements of electronic information security (cyber security), (%) 70 100 Percentage of services protected and controlled by the system for implementation and control of collective security of services provided in cyberspace, (%) Proportion of the Lithuanian population who trust in the services provided in cyberspace, (%) 70 100 50 67 Institution responsible for implementation of the criterion Ministry of the Interior, Ministry of Transport and Communications, State Data Protection Inspectorate All the institutions specified in items 58 to 59 of this Annex, according to their competences Ministry of Transport and Communications, Ministry of the Interior Ministry of the Interior, Communications Regulatory Authority, public administration institutions providing services in cyberspace"
+    }
+]

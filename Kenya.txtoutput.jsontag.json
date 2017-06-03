@@ -1,0 +1,1503 @@
+[
+    {
+        "sentence_id,": "8e5943450a", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "minister", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "technology"
+                ]
+            }
+        ], 
+        "sentence": "February 2014 i Government of Kenya Ministry of Information Communications and Technology Telposta Towers, 10th Floor, Kenyatta Ave Nairobi, Kenya ii February 2014 Executive Summary Global information and communication technology (ICT) growth has transformed how individuals, businesses, and governments produce and receive information."
+    }, 
+    {
+        "sentence_id,": "9628d44ce5", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "The Government of Kenya is proud of this development and is actively encouraging its continued growth through national initiatives such as Kenyas Vision 2030, ICT Master Plan, and the recent deployment of nationwide fiberoptic network infrastructure."
+    }, 
+    {
+        "sentence_id,": "637c6c721f", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "This is simply a reality that every nation with robust ICT infrastructure faces."
+    }, 
+    {
+        "sentence_id,": "739345427f", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection", 
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "While these actors seek to illicitly access, alter, disrupt, or destroy sensitive personal, business, and government information, we are working diligently to evolve our means of protecting information in order to counter todays threats as well as those coming from over the horizon."
+    }, 
+    {
+        "sentence_id,": "e2139fff94", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "minister"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "In response to these threats, and in direct support of the national priorities and ICT goals defined in Vision 2030, Kenyas ICT Ministry developed a National Cybersecurity Strategy (Strategy)."
+    }, 
+    {
+        "sentence_id,": "106d4259b6", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure", 
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "The Strategy defines Kenyas cybersecurity vision, key objectives, and ongoing commitment to support national priorities by encouraging ICT growth and aggressively protecting critical information infrastructures."
+    }, 
+    {
+        "sentence_id,": "43d5851b39", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "The Government of Kenya is committed to the safety, security, and prosperity of our nation and its partners."
+    }, 
+    {
+        "sentence_id,": "96c54f5c76", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "We see cybersecurity as a key component in that commitment, providing organizations and individuals with increased confidence in online and mobile transactions, encouraging greater foreign investment, and opening a broader set of trade opportunities within the global marketplace."
+    }, 
+    {
+        "sentence_id,": "f3477d47cc", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "Successful implementation of the strategy will further enable Kenya to achieve its economic and societal goals through a secure online environment for citizens, industry, and foreign partners to conduct business."
+    }, 
+    {
+        "sentence_id,": "779130b993", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Cybersecurity is a shared responsibility."
+    }, 
+    {
+        "sentence_id,": "ac048c0e84", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy", 
+                    "effective"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "The Government of Kenya will continue to partner with government, private sector, academia, and other non-government entities to implement our Strategy in the most efficient and effective way possible."
+    }, 
+    {
+        "sentence_id,": "3860a97d9f", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "We have every confidence that we will meet these challenges together and increase recognition of Kenya as a trusted partner and cybersecurity leader in the East African Community (EAC), Africa, and the world."
+    }, 
+    {
+        "sentence_id,": "7aec47b8eb", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "minister"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "technology"
+                ]
+            }
+        ], 
+        "sentence": "February 2014 1 MINISTRY OF INFORMATION COMMUNICATIONS AND TECHNOLOGY INTRODUCTION The Importance of Cyberspace Cyberspace is more than just the Internet and information and communications technology (ICT)."
+    }, 
+    {
+        "sentence_id,": "752fceac6c", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "digital", 
+                    "system"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "The cyber domain is characterized by the digital storage, modification, and exchange of data via networked systems and supported by critical information infrastructures."
+    }, 
+    {
+        "sentence_id,": "1a0baa8994", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "technology"
+                ]
+            }
+        ], 
+        "sentence": "It has national and international dimensions that include industry, commerce, intellectual property, security, technology, culture, policy, and diplomacy."
+    }, 
+    {
+        "sentence_id,": "0a3e4278b5", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "digital"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Similar to other nations with a robust ICT infrastructure, Kenyas conducts its social, economic and national security activities in this digital, interconnected environment."
+    }, 
+    {
+        "sentence_id,": "eab7a583be", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "effective", 
+                    "technology", 
+                    "technology"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "For example, the Government of Kenya relies on common infrastructure, information technology (IT) platforms, and new technologies to increase the efficiency and effectiveness of government services."
+    }, 
+    {
+        "sentence_id,": "3c00f77041", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "One of the main priorities of the Government of Kenya towards the realization of national development goals and objectives for wealth and employment creation, as stipulated in the Kenya Vision 2030, is to achieve an e-Government capability."
+    }, 
+    {
+        "sentence_id,": "499084ee16", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "computing", 
+                    "technology", 
+                    "technology"
+                ]
+            }
+        ], 
+        "sentence": "At the same time, the development, implementation, and adoption of technologies such as mobile computing, mobile banking, and broadband communications enables Kenyans to connect with a speed and easeunthinkable only five years ago."
+    }, 
+    {
+        "sentence_id,": "5fc5440219", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "technology"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "However, these same technologies can present new risks that can cause widespread damage to national security, economic growth, and critical infrastructures."
+    }, 
+    {
+        "sentence_id,": "2b1f69b823", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "Moreover, the reach and impact of cyberspace is accelerating across the national and international boundaries, making it a complex challenge for any government to address alone."
+    }, 
+    {
+        "sentence_id,": "cd01c179f8", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "For this reason, the Government of Kenya considers securing its national cyberspace a national priority to continue to facilitate economic growth for the country and its citizens."
+    }, 
+    {
+        "sentence_id,": "61a0541f57", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "technology"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "2 February 2014 Government of Kenya Cybersecurity Implementation Hierarchy ICT growth is particularly prevalent in Africa, where technological advancement and innovation are driving progress in key sectors (e.g., agriculture, education, financial services, government, and health)."
+    }, 
+    {
+        "sentence_id,": "4590091e11", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "technology"
+                ]
+            }
+        ], 
+        "sentence": "With the rapid growth of technology, the Kenyan people have quickly become accustomed to and dependent on the services provided to them through government and business websites, banking connectivity with central banks and other individuals, and ease of communications."
+    }, 
+    {
+        "sentence_id,": "bc05bf3094", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "minister"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "computing", 
+                    "technology", 
+                    "technology"
+                ]
+            }
+        ], 
+        "sentence": "February 2014 According to statistics released by The Communications Authority of Kenya (CAK), Kenya had an estimated 16.4 million Internet users and 30.7 million mobile network subscribers as of the second quarter of fiscal year 2012/2013 (source: http://www.cck.go.ke/resc/downloads/Sector_statistics_for_ Quarter_2_-_2012-2013.pdf) 3 MINISTRY OF INFORMATION COMMUNICATIONS AND TECHNOLOGY THE CYBERSECURITY CHALLENGE The Evolving Threat Landscape Aggressively supporting the technological advancements in Kenya has resulted in a more open, interconnected nation which can offer adversaries avenues for exploiting computer networks."
+    }, 
+    {
+        "sentence_id,": "e5727e1727", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "These cyber attacks may come from hacktivists seeking to publicize political views, from criminal organizations seeking financial gain, from terrorist groups seeking to inflict economic or political damage, or from state-sponsored intelligence and security organizations advancing their own economic or national security aims."
+    }, 
+    {
+        "sentence_id,": "9ae692a527", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "technology"
+                ]
+            }
+        ], 
+        "sentence": "Many attacks involve extremely sophisticated technological and social engineering techniques; however, low-technology penetrationssuch as insider threatsremain a danger."
+    }, 
+    {
+        "sentence_id,": "bd2045ef31", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Figure 1: Compounding Cyber Attack Progression 4 February 2014 Cybersecuritya National Priority The expansive and dynamic nature of ICT creates a wide and deep range of challenges."
+    }, 
+    {
+        "sentence_id,": "1b71be5bc5", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection", 
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "The Government of Kenya is addressing these challenges to provide for cybersecurity at the national level, enabling economic growth and protecting the interests of the Kenyan people."
+    }, 
+    {
+        "sentence_id,": "02b3830013", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "evaluate"
+                ]
+            }
+        ], 
+        "sentence": "In evaluating the potential paths forward, the Government of Kenya identified several key challenges resulting directly from emerging risk areas inside Kenya, the East Africa Community (EAC), and internationally."
+    }, 
+    {
+        "sentence_id,": "0849dc8e62", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "technology"
+                ]
+            }
+        ], 
+        "sentence": "By addressing these risks and understanding the impact of Kenyas cybersecurity efforts, technology growth and economic development will be significantly enabled by cybersecurity implementation."
+    }, 
+    {
+        "sentence_id,": "52f5ff4795", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "institution", 
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "Both financial and non-financial institutions need high awareness of the need for secure online systems."
+    }, 
+    {
+        "sentence_id,": "091c3375ba", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "This will ensure a secure online environment for conducting business and other economic activities."
+    }, 
+    {
+        "sentence_id,": "0e7703ab58", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards", 
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "Encourage the use of security standards while designing, building and deploying IT systems."
+    }, 
+    {
+        "sentence_id,": "cd0ded0306", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "technology"
+                ]
+            }
+        ], 
+        "sentence": "(source: http://www.ict.go.ke/docs/MasterPlan2017.pdf) Risks and challenges can manifest from various sourceseven from those areas where technology is enabling significant growth and prosperity."
+    }, 
+    {
+        "sentence_id,": "e4f1ca39d3", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "The National Cyber Security Master Plan addresses emerging cyber risks and the challenges that the ICT may face in the future."
+    }, 
+    {
+        "sentence_id,": "d819e3fa0b", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "Recognizing this and understanding the critical role ICT plays in Kenyas economy, the Government of Kenya developed the National Cybersecurity Strategy (Strategy)."
+    }, 
+    {
+        "sentence_id,": "16d841f6e4", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "The Strategy supports the three pillars of the Vision 2030 and supports other national initiatives such as the National ICT Master Plan1 (see Figure 2)."
+    }, 
+    {
+        "sentence_id,": "9d5b62eaea", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "The purpose of the Strategy is to clearly define Kenyas cybersecurity vision, goals, and objectives to secure the nations cyberspace, while continuing to promote the use of ICT to enable Kenyas economic growth."
+    }, 
+    {
+        "sentence_id,": "66ddb5fdb6", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "public service"
+                ]
+            }
+        ], 
+        "sentence": "Figure 2: Cybersecurity Strategy Benefits 1 The National ICT Master Plan strategic goals are: (1) every citizen connected; (2) Kenya is Africas ICT hub; (3) public service for all; and (4) a society built on knowledge."
+    }, 
+    {
+        "sentence_id,": "13a6afb0d8", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "enhance"
+                ]
+            }
+        ], 
+        "sentence": "Enhance the nations cybersecurity posture in a manner that facilitates the countrys growth, safety, and prosperity."
+    }, 
+    {
+        "sentence_id,": "d3e6ea119a", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Build national capability by raising cybersecurity awareness and developing Kenyas workforce to address cybersecurity needs."
+    }, 
+    {
+        "sentence_id,": "b270b244ba", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "Foster information sharing and collaboration among relevant stakeholders to facilitate an information sharing environment focused on achieving the Strategys goals and objectives."
+    }, 
+    {
+        "sentence_id,": "b753dee59a", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Provide national leadership by defining the national cybersecurity vision, goals, and objectives and coordinating cybersecurity initiatives at the national level."
+    }, 
+    {
+        "sentence_id,": "1104d5b675", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "technology"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "enhance"
+                ]
+            }
+        ], 
+        "sentence": "Goal 1: Enhance the Nations Cybersecurity Posture Objective: Protect Critical Information Infrastructure The Government of Kenya is promoting ICT usage to both the government and the Kenyan public through an undersea and terrestrial cable and network installations, increased availability of mobile/wireless technology, and a movement towards e-government services."
+    }, 
+    {
+        "sentence_id,": "0616006797", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "Threat actors can exploit ICT vulnerabilities to perpetrate crimes against the Government of Kenya and Kenyas citizens who rely on ICT to perform electronic transactions or obtain key critical government services."
+    }, 
+    {
+        "sentence_id,": "ef685d189d", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Also, natural disaster may pose a threat by causing potential damage critical information infrastructure and disrupting communications."
+    }, 
+    {
+        "sentence_id,": "c703974166", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "As such, it is imperative that as the Government of Kenya protect critical information infrastructure."
+    }, 
+    {
+        "sentence_id,": "f7b36b679f", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Its cybersecurity activities should also be flexible enough to counter and mitigate the increasingly complex threats and vulnerabilities to ICT infrastructures."
+    }, 
+    {
+        "sentence_id,": "fd48b3b4ff", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "The Government of Kenya is taking steps to increase the security and resilience of its critical information infrastructure to protect its government, citizens and residents, and corporations from cyber threats and to reap the social and economic benefits of cyberspace."
+    }, 
+    {
+        "sentence_id,": "254a12225d", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "The government is doing this through a coordinated 6 February 2014 effort with other countries to increase the security of global cyberspace as a whole."
+    }, 
+    {
+        "sentence_id,": "672b3a604d", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "This includes securing critical infrastructures, applications, and services."
+    }, 
+    {
+        "sentence_id,": "2ce2097473", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Additionally, the Government of Kenya is working with relevant stakeholders to build cybersecurity capabilities focused on operations, infrastructure and mission assurance."
+    }, 
+    {
+        "sentence_id,": "2e9ed5a523", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Within the National Cybersecurity Master Plan the Government has identified a governance and capability structure (Figure 3) which will support scalable growth of cybersecurity within the public and private sectors."
+    }, 
+    {
+        "sentence_id,": "d45fa0a5a5", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "Goal 2: Build National Capability Objective: Awareness and Training: Inform and educate the Kenyan public and workforce to secure the national cyberspace As part of building national capability goal, the Government of Kenya is informing and educating the public and workforce on how to secure the national cyberspace."
+    }, 
+    {
+        "sentence_id,": "cbf630002b", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "This includes partnering with other government organizations, the private sector, and academia to ensure that people with cybersecurity responsibilities possess the appropriate level of cyber qualifications and competencies."
+    }, 
+    {
+        "sentence_id,": "7694d0b0ac", 
+        "tag": [
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "This effort incorporates human capital management, leadership development, education and training, and strategic communication and change management to develop a nation-wide workforce for the future."
+    }, 
+    {
+        "sentence_id,": "6960209c79", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "Additionally, the Government of Kenya is: Figure 3: Kenya Cybersecurity Goals and Objectives Working with academia to develop cybersecurity curriculums for higher education and specialized training programs to ensure competency building for cybersecurity professionals; and Developing, promoting, and implementing incentive programs to increase the appeal of cybersecurity career paths to attract and retain Kenyans into this critical field."
+    }, 
+    {
+        "sentence_id,": "cc34d9561c", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "Objective: Communications and Outreach: Elevate cybersecurity awareness for government, private sector, and the Kenyan public The Government of Kenya is developing, launching, and promoting targeted awareness programs to inform the general public and workforce of common cybersecurity threats and counter measures."
+    }, 
+    {
+        "sentence_id,": "947f36ead0", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "Through targeted communications and outreach activities, the Government of Kenya is: Increasing the understanding of cyber threats and empower the Kenyan public to be safer and more secure online; and Communicating approaches and strategies for the public to keep themselves and their families and communities safer online."
+    }, 
+    {
+        "sentence_id,": "82da033dae", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "February 2014 7 Goal 3: Foster Information Sharing and Collaboration Objective: Develop a comprehensive governance framework to leverage resources, reduce conflict and duplication of effort, and work toward Kenyas long-term cybersecurity goals Cybersecurity is a complex, multidisciplinary challenge that requires coordination across a wide array of stakeholders."
+    }, 
+    {
+        "sentence_id,": "b9a0a983c8", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "Therefore, implementing the Strategy requires developing a comprehensive governance model that includes meaningful participation by relevant stakeholders, working together toward the common goal of securing Kenyas cyberspace."
+    }, 
+    {
+        "sentence_id,": "75c4db767e", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "law", 
+                    "privacy", 
+                    "secure", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Through this governance framework, the Government of Kenya intends to: Develop the required laws, regulations and policies required to secure the nations cyberspace; Solicits stakeholder input and feedback, as appropriate; and Balance information security, privacy considerations and economic priorities."
+    }, 
+    {
+        "sentence_id,": "f1d4c02929", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure", 
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "Cultivate a culture of information sharing that facilitates the real time exchange of cybersecurity information Successful implementation of the Strategy requires the sharing of cybersecurity information (crossorganizational and cross-sector) in a trusted and structured manner."
+    }, 
+    {
+        "sentence_id,": "28294eb7e4", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "The Government of Kenya will develop and manage a secure information-sharing capability to promote knowledge and lessons learned among relevant stakeholders."
+    }, 
+    {
+        "sentence_id,": "0c2c29dde0", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "enhance"
+                ]
+            }
+        ], 
+        "sentence": "Goal 4: Provide National Leadership Objective: Develop and Coordinate Implementation of the National Cybersecurity Strategy and Master Plan Enhancing Kenyas cybersecurity posture is a top priority for the Government of Kenya."
+    }, 
+    {
+        "sentence_id,": "1ebb348a73", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "As such, the Government of Kenya will continue to provide a single, unified agenda that will guide all relevant national stakeholders."
+    }, 
+    {
+        "sentence_id,": "444b30c80f", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "minister"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "Specifically, the ICT Ministry will: Continue to refresh the Strategy (vision, goals, and objectives), as required and establish a tactical roadmap for achieving national cybersecurity objectives; and Use the Strategy, and complementary Cyber Security Master Plan to identify and implement relevant cybersecurity initiatives, in conjunction and in collaboration with relevant stakeholders."
+    }, 
+    {
+        "sentence_id,": "446231d54e", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "minister", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "technology"
+                ]
+            }
+        ], 
+        "sentence": "8 February 2014 MINISTRY OF INFORMATION COMMUNICATIONS AND TECHNOLOGY KEY BENEFITS The Government of Kenya expects to see considerable benefit from the development of a holistic national cybersecurity strategy."
+    }, 
+    {
+        "sentence_id,": "7a814b9b0d", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Benefit Area Private Sector Growth Details of Benefits Resulting from Improved Cybersecurity Added e-commerce applications due to a more secure environment Growth in the quantity of e-commerce transactions Lower business risk and uncertainty More competition among firms as secure e-commerce grows Financial sector growth as the number of financial transactions grow More sustainable economic growth through sustained security and increased confidence in e-commerce Through e-markets, suppliers are able to interact and transact directly with buyers, thereby eliminating the costs related to intermediaries and distributors."
+    }, 
+    {
+        "sentence_id,": "1aa635c152", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "rule", 
+                    "law", 
+                    "secure", 
+                    "protection", 
+                    "minister", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards", 
+                    "technology", 
+                    "technology"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "structure", 
+                    "policy"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "enhance", 
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "Businesses can increase revenues and margins Greater Cooperation with Relevant International Organizations February 2014 Increased incentives to participate in the formation of international rules, including intellectual property rights, contract law, electronic signatures and authentication, consumer protection, jurisdiction and others; secure electronic commerce issues are addressed in international for a such as WIPO (World Intellectual Property Organization), UNCITRAL (United Nations Commission on International Trade Law), the Hague Conference on Private International Laws, ISO (International Standard Organization) including COPOLCO (Consumer Policy Committee), OECD and others 9 Benefit Area Improved Organizational Performance and Reduced Transactions Cost Details of Benefits Resulting from Improved Cybersecurity Lower costs due to improved efficiency of transactions Lower cost leads to an increase in the number of firms in the market Provides avenues for firms to enter into the business-to-business and businessto-government global supply chains Easier marketing of agricultural products and local sourced goods in the global market Reduction of search costs as buyers and sellers are together in a single online trading community Reduction in the costs of processing transactions (e.g., invoices, purchase orders and payment schemes), with the automation of transaction processes Efficiency in trading processes and transactions as sales can be processed through online auctions Online processing improves inventory management and logistics Promote AntiCorruption in Government and Industry Increase in price transparency as the gathering of a large number of buyers and sellers in a single e-market reveals market price information and transaction processing to participants; the publication of information on a single purchase or transaction makes the information readily accessible and available to all members of the e-market Increased price transparency can exert downward pressure on price differentials in the market; buyers are provided much more time to compare prices and make better buying decisions Expansion of borders for dynamic and negotiated pricing wherein multiple buyers and sellers collectively participate in price-setting and two-way auctions; prices can be set through automatic matching of bids and offers; the requirements of both buyers and sellers can be more easily aggregated to reach equilibrium price levels, which are lower than those resulting from individual actions A More Competitive Business Environment Trade liberalization as cross-border transactions costs decline Resolution of patent issues: international programs will contribute to achieving harmonized patent protection for progress and developments in secure transactions Enhanced public welfare through improved access to online goods and services Greater social cohesion as wage and income disparities lessen due to improved communication and information sharing, i.e., a better functioning labor market More options for consumer transactions (more, reliable distribution channels) Lower transactions costs Lower prices in longer term Transparency and Efficiency in Government 10 Expedited government financial transactions enabling greater efficiency and expediency in resource allocation Improved communications February 2014 MINISTRY OF INFORMATION COMMUNICATIONS AND TECHNOLOGY CONCLUSION As Kenyas remarkable ICT growth continues, ensuring the confidentiality, integrity, and availability of public and private sector information across Kenyas ICT infrastructure is of significant importance."
+    }, 
+    {
+        "sentence_id,": "a2608a0961", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "Kenyas National Cybersecurity Strategy serves to demonstrate the governments commitment to improving Kenyas cybersecurity posture and share overarching vision, goals, and objectives."
+    }, 
+    {
+        "sentence_id,": "888540098b", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "Implementation of the strategy is supported by an evolving national Cybersecurity Master Plan, which has been developed to define (and ultimately govern) a prioritized roadmap of discreet cybersecurity projects."
+    }, 
+    {
+        "sentence_id,": "3675f09937", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "enhance"
+                ]
+            }
+        ], 
+        "sentence": "Both the strategy and master plan are critical to securing the online environment for citizens, industry, and foreign partners; increasing the Kenyan peoples confidence in online transactions, data security, fraud protection, and privacy; encouraging greater foreign investment and enhancing trade opportunities; and enabling Kenyas broader economic and societal goals."
+    }, 
+    {
+        "sentence_id,": "501f0f520f", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "minister"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "technology"
+                ]
+            }
+        ], 
+        "sentence": "February 2014 11 MINISTRY OF INFORMATION COMMUNICATIONS AND TECHNOLOGY ssiblolegy o p E HEtRh techno E G A IMsiness wi me user."
+    }, 
+    {
+        "sentence_id,": "3d97f98fdc", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "computing"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Computer Incident Response Team The personnel responsible for coordinating the response to computer security incidents within an organization Critical Infrastructure A term used to describe assets that are essential for the functioning of a society and economy."
+    }, 
+    {
+        "sentence_id,": "cb6b03e04c", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "institution", 
+                    "secure", 
+                    "protection", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "computing", 
+                    "technology", 
+                    "digital", 
+                    "technology"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "(e.g., electrical grid, telecommunications, water supply) Cybersecurity The processes and mechanisms by which computer-based equipment, information and services are protected from unintended or unauthorized access, change or destruction Cyberspace The notional environment in which communication over computer networks occurs e-Government Short for electronic government, it is digital interactions between a government and citizens, government and businesses, government and employees, and also between two governments Globalization Growth to a global or world-wide scale Governance Consistent management, cohesive policies, guidance, processes and decision-rights for a given area of responsibility Information and Communication Technology (ICT) The applications of computers and telecommunications equipment to store, retrieve, transmit and manipulate data February 2014 Term Definition Insider Threat A malicious individual who is also an employee or officer of a business, institution, or government Social Engineering A non-technical kind of intrusion (or hack) that relies heavily on human interaction and often involves tricking other people to break normal security procedures February 2014 13 14 February 2014"
+    }
+]

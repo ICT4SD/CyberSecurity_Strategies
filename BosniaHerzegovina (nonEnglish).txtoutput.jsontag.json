@@ -1,0 +1,210 @@
+[
+    {
+        "sentence_id,": "b5a1488f78", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "minister"
+                ]
+            }
+        ], 
+        "sentence": "P r i j e d l o g BOSNA I HERCEGOVINA VIJECE MINISTARA AKCIONI PLAN za zatitu djece i sprjecavanje nasilja nad djecom putem informaciono-komunikacijskih tehnologija u Bosni i Hercegovini (2014.-2015.)"
+    }, 
+    {
+        "sentence_id,": "fbd83102fd", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "minister"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "Akcioni plan za zatitu djece i sprjecavanje nasilja nad djecom putem informaciono-komunikacijskih tehnologija u Bosni i Hercegovini za period 2014-2015 je sacinjen u skladu sa Strategijom suprostavljanja trgovini ljudima u Bosni i Hercegovini (2013-2015) usvjenom na 43. sjednici Vijeca ministara bosne i Hercegovine odranoj 26.3.2013. godine."
+    }, 
+    {
+        "sentence_id,": "d4e9053692", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "Takav plan, Strategija obrazlae na slijedeci nacin: Neograniceni cyber prostor i dostupnost informacija u svakom trenu iz bilo koje tacke planete zasigurno predstavlja krucijani benefit civilizacije."
+    }, 
+    {
+        "sentence_id,": "fa36562ae9", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Izmjene i dopune Zakona o krivicnom postupku u BiH, vodeci racuna o ustavnim nadlenostima, u cilju unapredenja zatite djece od djecje pornografije i drugih oblika seksualnog iskoritavanje u skladu sa medunarodnim standardima i preporukama, a posebno Konvencijom o cyber kriminalu i Konvencijom o zatiti djece od seksualnog iskoritavanja i zlostavljanja."
+    }, 
+    {
+        "sentence_id,": "2274692744", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Izmjena krivicnih zakona u BIH, vodeci racuna o ustavnim nadlenostima, u skladu sa medunarodnim standardima i preporukama, a posebno Konvencijom o cyber kriminalu i Konvencijom o zatiti djece od seksualnog iskoritavanja i zlostavljanja."
+    }, 
+    {
+        "sentence_id,": "fad1733eb3", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Usko specijalisticka obuka policije za on-line istraivanje KD (procesnopravno prikupljanje dokaza, put dokaza, prikrivene istrage i sl.)."
+    }, 
+    {
+        "sentence_id,": "841ab4e147", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "minister"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Ministartvo sigurnosti BIH, Ministarstvo unutranjih poslova FBIH, Ministarstvo unutranjih psolova Republike Srpske, Policija Distrikta Brcko BIH."
+    }, 
+    {
+        "sentence_id,": "bf825db9b3", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "minister"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Kreiranje jedinstvenih smjernica o postupanja ISP- ova u slucajevima detektovanja stranica koje prikazuju nasilje nad djecom Ministarstvo prometa i komunikacija BIH, RAK, Ministarstvo unutranjih poslova FBIH, Ministarstvo unutranjih poslova Republike Srpske, Policija Distrikta Brcko BIH, Ministarstvo pravde FBIH, Ministarstvo pravde RS, Pravosudna komisija BD BIH."
+    }, 
+    {
+        "sentence_id,": "f3bc41c106", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "policy", 
+                    "policy"
+                ]
+            }
+        ], 
+        "sentence": "Rad na obezbjedenju pristupa policijskom forumu GROOVE, nadlenim agencijama (organizacijama) u BIH koje se bave ovom problematikom."
+    }, 
+    {
+        "sentence_id,": "e556d1560c", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "minister"
+                ]
+            }
+        ], 
+        "sentence": "Izrada inicijative za postavljenje linkova na web stranicama obrazovnih institucija za djecu koji upucuju na uspostavljenje portale i linije za pomoc koji tretiraju problem nasilja nad djecom putem informaciono komunikacijskih tehnologija Ministarstvo prosvjete i kulture RS u saradnji sa Agencijom za informaciono drutvo RS; Ministarstva obrazovanja kantona u FBIH i Odjel za obrazovanje BD BIH."
+    }, 
+    {
+        "sentence_id,": "fe36ae21cd", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "minister"
+                ]
+            }
+        ], 
+        "sentence": "Uspostava centra za sigurniji internet Nevladina organizacija MFS EMMAUS u konsultaciji i uz saglasnost Ministarstva prosvjete i kulture RS, Ministarstva obrazovanja kantona u FBIH i Odjela za obrazovanje BD BIH."
+    }, 
+    {
+        "sentence_id,": "b660780890", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "minister"
+                ]
+            }
+        ], 
+        "sentence": "Edukacija edukatora (nastavnika informatike u osnovnim i srednjim kolama) o problemu nasilja nad djecom putem informaciono komunikacijskih tehnologija Fakultet za kriminalistiku, kriminologiju i sigurnosne studije Univerziteta u Sarajevu i Visoka kola unutranjih poslova Ministarstva unutranjih poslova Republike Srpske; Ministarstvo prosvjete i kulture RS, Ministarstva obrazovanja svih kantona u FBIH i Odjel za obrazovanje DB BIH."
+    }, 
+    {
+        "sentence_id,": "76579eb1b8", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "minister"
+                ]
+            }
+        ], 
+        "sentence": "Izrada Smjernica za programe rehabilitacije i reintegracije rtava nasilja putem informaciono-komunikacijskih tehnologija Ministarstvo za ljudska prava i izbjeglice BiH."
+    }, 
+    {
+        "sentence_id,": "a7cab07736", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "minister"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Harmoniziranje standarda za pruanje pomoci i zatite djece rtava trgovine ljudima i drugih vidova kriminala Ministarstvo za ljudska prava i izbjeglice BiH; Ministarstvo sigurnosti BiH; Nadlena ministartva iz oblasti obrazovanja, socijalne zatite i zdravstva u FBIH; Ministarstvo za porodicu, omladinu i sport Republike Srpske; Odjeli za obrazovanje, socijalnu zatitu i zdravstvo Brcko Distrikta BIH."
+    }
+]

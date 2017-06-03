@@ -1,0 +1,454 @@
+[
+    {
+        "sentence_id,": "5455c09d8a", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "minister"
+                ]
+            }
+        ], 
+        "sentence": "Shkresa-KokaColor R E P U B L I K A E S H Q I P R I S MINISTRIA E MBROJTJES STRATEGJIA PR MBROJTJEN KIBERNETIKE (CYBER DEFENSE ) HYRJE N Strategjin e Siguris Kombtare prcaktohet se: Shqipria renditet ndr vendet ku zhvillimi i telekomunikacionit, qasja n internet dhe informatizimi i shoqris prparon shum shpejt."
+    }, 
+    {
+        "sentence_id,": "297f2415f0", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "minister"
+                ]
+            }
+        ], 
+        "sentence": "Teknologjia e komunikimit dhe e informacionit i mundson Ministris s Mbrojtjes dhe Forcave t Armatosura (MM/FA) efikasitetin n Komandim - Kontroll (C2), mbshtetje logjistike dhe shrbime t tjera t cilat jan t mbshtetura n sistemet e komunikimit dhe informacionit."
+    }, 
+    {
+        "sentence_id,": "c0c1e407a9", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Kjo strategji e promovuar nga MM synon: mbajtjen e nj mjedisi operimi elektronik t sigurt, t qndrueshm dhe t besueshm, i cili mbshtet sigurin n strukturat e MM/FA dhe rrit prfitimet e mjedisit dixhital pr to; vendosjen e standardeve pr prdorimin e sigurt t hapsirs kibernetike; inkurajimin pr nj zbatim gjithprfshirs; garantimin e siguris dhe progresit pr strukturat dhe sistemet e ndrlidhjes dhe informacionit (SNI) t MM."
+    }, 
+    {
+        "sentence_id,": "5008123b68", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "minister"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "monitor"
+                ]
+            }
+        ], 
+        "sentence": "Nj sr faktorsh si shpejtsia e zhvillimeve teknologjike, dinamika dhe kompleksiteti i shfrytzimit t hapsirs kibernetike, e vendosin Ministrin e Mbrojtjes dhe FA prpara sfidave reale pr ngritjen e kapaciteteve pr mbrojtjen kibernetike, t shoqruar me politika, udhzime, procedura koordinuese e monitoruese."
+    }, 
+    {
+        "sentence_id,": "6a366dad1a", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "minister"
+                ]
+            }
+        ], 
+        "sentence": "Ministria e Mbrojtjes prcakton sigurin kibernetike nprmjet masave n lidhje me konfidencialitetin, disponibilitetin dhe integritetin e informacionit q trajtohet, prpunohet, ruhet, transmetohet dhe komunikohet me mjetet elektronike."
+    }, 
+    {
+        "sentence_id,": "71f7e17e95", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "minister", 
+                    "administration"
+                ]
+            }
+        ], 
+        "sentence": "Puna dhe funksionet e strukturave jan t lidhura me struktura t tjera t administrats publike por edhe prtej kufijve t vendit edhe n kontinente t tjera."
+    }, 
+    {
+        "sentence_id,": "18e56ddb87", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "minister"
+                ]
+            }
+        ], 
+        "sentence": "OBJEKTIVAT KRYESOR DHE PRIORITETET STRATEGJIKE Mbshtetur n sfidat e siguris ndaj sistemeve t ndrlidhjes dhe t informacionit, Ministria e Mbrojtjes ka identifikuar katr objektiva kryesor pr sigurin e informacionit dhe t sistemeve t komunikimit, n t cilat ky informacion trajtohet, prpunohet, ruhet apo transmetohet: ."
+    }, 
+    {
+        "sentence_id,": "dfe0a892a4", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "minister"
+                ]
+            }
+        ], 
+        "sentence": "Forcimi i pozits s njohurive dhe inovacionit t Ministris s Mbrojtjes pr Hapsirn Kibernetike nprmjet ndryshimit t kulturs, ndrgjegjsimit dhe edukimit t t gjith punonjsve n strukturat e MM/FA, mjeteve praktike pr t mbrojtur sistemet e komunikimit dhe t informacionit q ata prdorin pr t kryer detyrat funksionale."
+    }, 
+    {
+        "sentence_id,": "1792dc0efb", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "specialist"
+                ]
+            }
+        ], 
+        "sentence": "Ruajtja dhe zhvillimi i aftsive t prdoruesve dhe specialistve pr t zbuluar, trajtuar, lajmruar dhe reaguar ndaj incidenteve q ndodhin n Sistemet e Ndrlidhjes dhe Informacionit."
+    }, 
+    {
+        "sentence_id,": "972a3ebf94", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Kjo do t sjell nj prdorim dhe menaxhimi t ndrgjegjshm t ktyre sistemeve, si pjes e drejtimit t prgjithshm t institucionit nprmjet aplikimit dhe zbatimit t standardeve t njohura."
+    }, 
+    {
+        "sentence_id,": "123f7d7ebb", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "minister", 
+                    "administration"
+                ]
+            }
+        ], 
+        "sentence": "Nga verifikimet mbi zbatueshmrin e masave t siguris n sistemet e informacionit ato jan josistematike, jan fragmentare, jo t shtrira n t gjith mjedisin e sistemeve dhe nuk kan mbshtetje n drejtimin e administrimit."
+    }, 
+    {
+        "sentence_id,": "bb184cfac5", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Zbatimi dhe prdorimi i standardeve aktuale dhe ato ndrkombtare do t kontribuoj m shum, pr t vendosur sigurin e sistemeve t ndrlidhjes dhe informacionit mbi baza gjithprfshirse dhe sistematike."
+    }, 
+    {
+        "sentence_id,": "acb67ab848", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "minister", 
+                    "administration"
+                ]
+            }
+        ], 
+        "sentence": "Strukturat e MM dhe FA, q administrojn sistemet e komunikimit dhe t informacionit, duhet t ken nj sistem t menaxhimit t siguris."
+    }, 
+    {
+        "sentence_id,": "5690354df2", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Ky menaxhim duhet t ndrtohet dhe t zbatohet mbshtetur n standarde t njohura t siguris s sistemeve dhe n prputhje me iniciativat dhe angazhimet ndrkombtare t vendit ton."
+    }, 
+    {
+        "sentence_id,": "0c5728d630", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "monitor"
+                ]
+            }
+        ], 
+        "sentence": "Ktij qllimi i kan shrbyer konceptimi i arkitekturs dhe ndrtimi i sistemeve sipas dy nnkategorive kryesore; krijimi i infrastrukturs s komunikimit/transmetimit me mjedise transmetimi pron e MM/FA dhe monitorimi i funksionimit t rrjeteve, akreditimi, hartimi i politikave dhe procedurave t operimit n sistem."
+    }, 
+    {
+        "sentence_id,": "7f9d9e3a98", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "monitor"
+                ]
+            }
+        ], 
+        "sentence": "Forcimi i mbrojtjes kibernetike t MM dhe FA konsiston n Mbrojtjen e rrjeteve dhe sistemeve t cilt jan t krcnuar ndaj sulmeve dhe ndrprerjeve n dy drejtime, si nga jasht dhe nga brenda, nprmjet monitorimit, analizs s trafikut t t dhnave, detektimit t sulmeve kibernetike dhe prgjigjen ndaj tyre."
+    }, 
+    {
+        "sentence_id,": "af3ef7c164", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "minister"
+                ]
+            }
+        ], 
+        "sentence": "- Ndrgjegjsimi pr Sigurin kibernetike, duhet t bhet nj pjes e integruar e t gjitha trajnimeve t personelit t Ministris s Mbrojtjes."
+    }, 
+    {
+        "sentence_id,": "6d054fe3cd", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "software"
+                ]
+            }
+        ], 
+        "sentence": "- Investimet n infrastruktur dhe pajisjet e sistemeve t ndrlidhjes dhe informacionit, do t shoqrohen me investimet e duhura n fushn e siguris s sistemeve dhe rrjeteve (pr software dhe hardware t veant dhe pr mbrojtjen kriptografike)."
+    }, 
+    {
+        "sentence_id,": "e692082530", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "minister"
+                ]
+            }
+        ], 
+        "sentence": "Forcimi i pozits s njohurive dhe inovacionit t Ministris s Mbrojtjes pr Hapsirn Kibernetike nprmjet ndryshimit t kulturs, ndrgjegjsimit dhe edukimit t t gjith punonjsve n strukturat e MM/FA, mjeteve praktike pr t mbrojtur sistemet e komunikimit dhe t informacionit q ata prdorin pr t kryer detyrat funksionale."
+    }, 
+    {
+        "sentence_id,": "b028be95d1", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "monitor"
+                ]
+            }
+        ], 
+        "sentence": "Ky orientim duhet t prqendrohet n: prcaktimin e masave shtes t siguris n mnyr q t garantohet vijimsia e funksionimit t sistemeve t komunikimit dhe t informacionit (prve atyre t prcaktuara n krkesat e siguris dhe mbrojtjes s sistemeve); prcaktimin e funksionalitetit minimal t krkuar pr infrastrukturn dhe sigurimin e funksionimit n nj situat krize; prcaktimin e kundrmasave t lejuara gjat nj situate emergjence n t ciln sistemet mund t jen nn sulm; prcaktimin e metodave optimale dhe t zbatueshme pr garantimin e siguris s informacionit; prcaktimin e metodave testuese pr masat e siguris dhe veprimet e nevojshme pr ti zbatuar ato; prmirsimin e sistemeve t monitorimit dhe identifikimit t ndrhyrjeve n infrastrukturn kritike n nivel t FA; prcaktimin e krkesave t sakta t siguris n marrdhnie me siguruesit publik dhe privat t shrbimeve; krijimin dhe fuqizimin e sistemeve rezerv t t dhnave, etj."
+    }, 
+    {
+        "sentence_id,": "605b500fa7", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "- N vlersimin dhe prcaktimin prfundimtar t masave pr sigurin n rrjetet kompjuterike, i rndsishm sht dhe certifikimi i tyre."
+    }, 
+    {
+        "sentence_id,": "139fe51d24", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "minister", 
+                    "administration"
+                ]
+            }
+        ], 
+        "sentence": "Akreditimi i rrjeteve dhe sistemeve mbetet nj drejtim i rndsishm dhe urgjent i puns s strukturave q administrojn sigurin n rrjete dhe sisteme."
+    }, 
+    {
+        "sentence_id,": "1b726650a5", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }
+        ], 
+        "sentence": "Rritja e mundsive t prdorimit t produkteve t certifikuara, pr sistemet n pronsi t MM dhe t FA gjithashtu do t ndihmoj n rritjen e besimit dhe prmirsimin e siguris s Sistemeve te Ndrlidhjes dhe t Informacionit (SNI) dhe shrbimet q u ofrohen strukturave nprmjet ktyre sistemeve."
+    }, 
+    {
+        "sentence_id,": "96400f84f1", 
+        "tag": [
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "NCA"
+                ]
+            }
+        ], 
+        "sentence": "Gjithashtu hartimi i politikave dhe trajtimi i personelit, pr t marr edhe pr t mbajtur (ruajtur) njohurit e nevojshme, kompetencat dhe aftsit organizative brenda sektorit t mbrojtjes."
+    }, 
+    {
+        "sentence_id,": "4d7b935c2d", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "specialist"
+                ]
+            }
+        ], 
+        "sentence": "Ruajtja dhe zhvillimi i aftsive t prdoruesve dhe specialistve pr t zbuluar, trajtuar, lajmruar dhe reaguar ndaj incidenteve q ndodhin n Sistemet e Ndrlidhjes dhe Informacionit."
+    }, 
+    {
+        "sentence_id,": "9262178d72", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "minister"
+                ]
+            }
+        ], 
+        "sentence": "Ministria e Mbrojtjes dhe FA duhet t jen n gjendje t vazhdueshme dhe t prgatitur operacionalisht, me qllim q t parandalojn, zbulojn dhe koordinojn reagimin ndaj incidenteve serioze n sistemet e ndrlidhjes dhe informacionit."
+    }, 
+    {
+        "sentence_id,": "84fad1ece6", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "minister", 
+                    "administration"
+                ]
+            }
+        ], 
+        "sentence": "Strukturat q administrojn logjikisht dhe fizikisht sistemet e ndrlidhjes dhe informacionit duhet t garantojn nj proces t qart t trajtimit dhe reagimit ndaj incidenteve dhe sulmeve."
+    }, 
+    {
+        "sentence_id,": "6f84e5c0b2", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "cirt"
+                ]
+            }
+        ], 
+        "sentence": "sht e prcaktuar q incidentet e ndodhura n sistemet e klasifikuara raportohen n DSIK, por duhet prcaktuar si do t raportohen incidentet n rrjetet e paklasifikuar, kujt do ti raportohet, si do t analizohen dhe si do t bhet koordinimi me agjencit kombtare t fushs (ALCIRT)."
+    }, 
+    {
+        "sentence_id,": "825e93b5e5", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "minister", 
+                    "administration"
+                ]
+            }
+        ], 
+        "sentence": "Pr rrjedhoj, sht i domosdoshm prcaktimi i autoriteti i cili do t ket prgjegjsin t koordinoj dhe menaxhoj kto incidente, t siguroj koh pas kohe informacion dhe udhzime pr grupet prgjegjse ndaj incidenteve dhe strukturave q administrojn logjikisht e fizikisht sistemet e ndrlidhjes dhe informacionit."
+    }, 
+    {
+        "sentence_id,": "0911f17c52", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "minister"
+                ]
+            }
+        ], 
+        "sentence": "Prandaj, sht i rndsishm hartimi i marrveshjeve me aktort e tjer shtetror pr prfshirjen e aseteve kibernetike t Ministris s Mbrojtjes, si pjes e intensifikimit t politiks s bashkpunimit civil-ushtarak si dhe pr garantimin e Siguris Kombtare."
+    }, 
+    {
+        "sentence_id,": "642354120b", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "minister"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "cirt"
+                ]
+            }
+        ], 
+        "sentence": "Duke qen se organizmat e Mbrojtjes kontribuojn n Axhendn Kombtare t Siguris dhe si pjes integrale e politikave t qeveris lidhur me sektorin privat, prioriteti i dhn pr sigurin kibernetike nga industria e teknologjis s lart, sht nj hap m tej n kuadrin e bashkpunimit me ministrit e tjera, ALCIRT dhe sektorin privat."
+    }, 
+    {
+        "sentence_id,": "8a78e5a1a0", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "specialist"
+                ]
+            }
+        ], 
+        "sentence": "Trajnimi i specialistve mbetet nj drejtim i rndsishm pr t formuar kapacitetet e nevojshme pr mbrojtjen kibernetike."
+    }, 
+    {
+        "sentence_id,": "2a08b012a7", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "specialist"
+                ]
+            }
+        ], 
+        "sentence": "Specialistt e trajnuar jasht vendit do t shfrytzohen pr organizimin e trajnimeve n nivelin e MM/FA."
+    }, 
+    {
+        "sentence_id,": "fe90ac363d", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "minister", 
+                    "administration"
+                ]
+            }
+        ], 
+        "sentence": "Drejtorit prgjegjse n MM dhe SHPFA duhet t qartsojn krkesat ligjore dhe rregullatore t prgjithshme q zbatohen n institucion, kush jan zotruesit ky t sistemeve t klasifikuara dhe t paklasifikuara dhe t vendosin krkesa t qarta pr menaxhimin, administrimin fizik dhe logjik t sistemeve t ndrlidhjes dhe informacionit."
+    }, 
+    {
+        "sentence_id,": "9b9a757206", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "minister", 
+                    "administration"
+                ]
+            }
+        ], 
+        "sentence": "Prgjegjsia kryesore pr sigurin e sistemeve t komunikimit dhe t informacionit lidhet me zotruesit e ktyre sistemeve, administratorin logjik dhe fizik t sistemit si dhe me prgjegjsit e menaxhimit t sistemeve."
+    }, 
+    {
+        "sentence_id,": "9c2a57a83d", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "minister"
+                ]
+            }
+        ], 
+        "sentence": "Drejtimet dhe shtyllat kryesore ku mbshtet Strategjia pr Mbrojtjen Kibernetike sigurojn q Ministria e Mbrojtjes do t jet n gjendje t veproj n mnyr efikase n hapsirn kibernetike."
+    }
+]

@@ -1,0 +1,1359 @@
+[
+    {
+        "sentence_id,": "016b21e081", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "the rule of law", 
+                    "rule", 
+                    "law", 
+                    "freedom", 
+                    "protection", 
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "Since its formation in 2011 the Danish Government has aimed to strengthen protection against cyber-attacks while respecting the rule of law and personal freedom."
+    }, 
+    {
+        "sentence_id,": "b1da388975", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "In Denmark, citizens and businesses must be able to trust that important functions in society are provided both efficiently and securely."
+    }, 
+    {
+        "sentence_id,": "aeb51a882a", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "digital", 
+                    "technology"
+                ]
+            }
+        ], 
+        "sentence": "the extensive integration of digital technologies into society and the public sector, is a key element in the ongoing development of prosperity and welfare in the Danish society."
+    }, 
+    {
+        "sentence_id,": "63afb75cd3", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "It is crucial that the cyber and information security effort is professionalized and developed on a continuous basis."
+    }, 
+    {
+        "sentence_id,": "6b33e4df12", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "digital"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "The digital infrastructure must be protected."
+    }, 
+    {
+        "sentence_id,": "5fe7b6a934", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "This requires that cyber and information security is high on the agendas of management."
+    }, 
+    {
+        "sentence_id,": "bde9b8a0b7", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "institution", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "assessment"
+                ]
+            }
+        ], 
+        "sentence": "It is the assessment of the Danish Defence Intelligence Service that ICT-related treats to private citizens, businesses and government institutions are growing."
+    }, 
+    {
+        "sentence_id,": "4a26c60bf5", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "digital", 
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "Cyber-attacks against digital systems have become more widespread and more advanced."
+    }, 
+    {
+        "sentence_id,": "35bb406246", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "institution", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "At the same time, government institutions face challenges when outsourcing parts of the infrastructure which important functions in society rely upon."
+    }, 
+    {
+        "sentence_id,": "df6c0a2f8b", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection"
+                ]
+            }
+        ], 
+        "sentence": "Denmark needs a strong protection against such threats as well as a strong reactive capacity."
+    }, 
+    {
+        "sentence_id,": "ab3390f9a4", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "institution", 
+                    "secure", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "The present Cyber and Information Security Strategy therefore focuses on the need for more knowledge about security and the need for a professionalization of the day-to-day security effort of government institutions as well as cyber and information security in the telecom sector and the energy sector."
+    }, 
+    {
+        "sentence_id,": "e9669bcfae", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "It is essential that the effort is integrated into the existing organizational structure so that the professionalization of the cyber and information security effort takes advantage of the knowledge that the authorities have of the areas they are each responsible for."
+    }, 
+    {
+        "sentence_id,": "d02e968cc8", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy", 
+                    "digital"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "With the Cyber and Information Security Strategy the Government makes a significant step towards maintaining and reinforcing the confidence of businesses and citizens, ensuring that 1/7 Denmark is a safe country in which to invest and use digital services."
+    }, 
+    {
+        "sentence_id,": "a825432027", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "technology"
+                ]
+            }
+        ], 
+        "sentence": "Technological change will continue and we must likewise continually strengthen and adapt the security effort."
+    }, 
+    {
+        "sentence_id,": "c7c0e4197e", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "The strategy will therefore be updated in late 2016 for a new period with the involvement of views and insights from interest groups, businesses and academia on how further efforts may most benefit society."
+    }, 
+    {
+        "sentence_id,": "808ccc9720", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "digital"
+                ]
+            }
+        ], 
+        "sentence": "Strong and cohesive security Digitisation is a global phenomenon that is rapidly changing Danish society at all levels."
+    }, 
+    {
+        "sentence_id,": "55b826f65f", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "It has a strong impact on communication between citizens, businesses and government, and it influences the ways in which we arrange and organize our society."
+    }, 
+    {
+        "sentence_id,": "a767aaaf9b", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "digital"
+                ]
+            }
+        ], 
+        "sentence": "Digitisation is no longer a choice; it is a premise."
+    }, 
+    {
+        "sentence_id,": "04966c2757", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "digital", 
+                    "technology"
+                ]
+            }
+        ], 
+        "sentence": "Danish businesses apply digital technology in production and internal processes and increasingly in their products."
+    }, 
+    {
+        "sentence_id,": "7c5c2f6d2d", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "minister", 
+                    "administration", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy", 
+                    "digital"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "In recent years, the Danish Government has implemented a series of digitisation strategies focused on administration, productivity and cooperation, services and welfare."
+    }, 
+    {
+        "sentence_id,": "4ed8d92062", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "digital"
+                ]
+            }
+        ], 
+        "sentence": "The efficiency and innovation potential of digitisation is crucial to Denmarks competitiveness and prosperity."
+    }, 
+    {
+        "sentence_id,": "b1d8cff546", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "digital"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "public service"
+                ]
+            }
+        ], 
+        "sentence": "With digitisation being a key component of public services and the functioning of society, the Government emphasizes the need for constant improvements in cyber and information security."
+    }, 
+    {
+        "sentence_id,": "7a021689fb", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "minister", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards", 
+                    "strategy", 
+                    "system", 
+                    "assessment"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "With this strategy the Government aims to raise its cyber and information security effort through systematic application of the ISO27001 security standard, employing threat assessments and reinforcing ministries ICT security oversight."
+    }, 
+    {
+        "sentence_id,": "96e84fec42", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "assessment"
+                ]
+            }
+        ], 
+        "sentence": "Security risk assessments of government IT projects is to be incorporated in the Cross-Departmental Programme Model and IT Project Model."
+    }, 
+    {
+        "sentence_id,": "60a1a8688a", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "institution", 
+                    "secure", 
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "These measures are aimed at ensuring the professionalization of government institutions day-today efforts regarding information security in order to improve resilience against cyber-attacks."
+    }, 
+    {
+        "sentence_id,": "2ec365f576", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy", 
+                    "system"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "The strategy contains several initiatives aimed at improving the understanding of threats and at systematically gathering experience from known cyber-attacks."
+    }, 
+    {
+        "sentence_id,": "3b509c7ba9", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "institution", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure", 
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "The strategy is aimed at government institutions but it also contains initiatives aimed at owners of infrastructure of vital importance to the provision of energy and telecommunications to the Danish society."
+    }, 
+    {
+        "sentence_id,": "696f7c4054", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "The challenge The cyber and information security challenges are both technical and practical in nature."
+    }, 
+    {
+        "sentence_id,": "fd214955da", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Failure to comply with security routines."
+    }, 
+    {
+        "sentence_id,": "7e37e17950", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "institution", 
+                    "secure", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "Part of the challenge is make government institutions ready to incorporate a systematic approach to information security in the daily routines."
+    }, 
+    {
+        "sentence_id,": "25e583a2d7", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "law", 
+                    "institution", 
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system", 
+                    "assessment"
+                ]
+            }
+        ], 
+        "sentence": "If the institutions do not set up the necessary information security routines and making concrete risk assessments regarding key systems the institutions risk overlooking security flaws and vulnerabilities."
+    }, 
+    {
+        "sentence_id,": "a6fe8aea7c", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Cyber and information security threats are ever-changing and there are constantly emerging new threats that require the attention of the authorities."
+    }, 
+    {
+        "sentence_id,": "28f6e0b32c", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "institution", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "assessment"
+                ]
+            }
+        ], 
+        "sentence": "The Danish Defence Intelligence Service assesses that Danish government institutions, businesses and private individuals are the targets of daily attempts of harmful activity from various agents via the Internet."
+    }, 
+    {
+        "sentence_id,": "d4afb72a72", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Insider threats include staff willfully or negligently breaching workplace security procedures."
+    }, 
+    {
+        "sentence_id,": "37c129776f", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "If the employees fail to observe security procedures, this increases the risk of unauthorized access to internal networks and therefore to sensitive information."
+    }, 
+    {
+        "sentence_id,": "62d43f0a45", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "The Government also faces a number of threats in connection with the outsourcing of ICT operations."
+    }, 
+    {
+        "sentence_id,": "6c1b6be8ec", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "institution", 
+                    "secure", 
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "Government institutions must upgrade procedures to ensure that external suppliers observe the security procedures."
+    }, 
+    {
+        "sentence_id,": "dc7f851a58", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "institution", 
+                    "secure", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "monitor"
+                ]
+            }
+        ], 
+        "sentence": "Stronger government effort The Government has already introduced a number of initiatives aimed at strengthening the cyber security of the state, and it is monitoring government institutions efforts."
+    }, 
+    {
+        "sentence_id,": "0ff357e209", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "In particular, efforts of authorities with cyber security-related responsibilities have been stepped up."
+    }, 
+    {
+        "sentence_id,": "4653f4b671", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "The Government has established the Centre for Cyber Security under the Danish Defence Intelligence Service."
+    }, 
+    {
+        "sentence_id,": "e4188e1049", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "The main mission of the Centre is to support the reinforcement of IT systems and infrastructure which important functions in society rely upon against external cyber threats."
+    }, 
+    {
+        "sentence_id,": "71ebb9e712", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "institution", 
+                    "secure", 
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "Balanced security Information security initiatives must be adjusted to suit the diverse needs of the different government institutions and must reflect a careful balancing of security, usability and economy."
+    }, 
+    {
+        "sentence_id,": "92425e6856", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "The security effort should be proportional to the threat in question."
+    }, 
+    {
+        "sentence_id,": "9d1f20bfa3", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "effective", 
+                    "digital"
+                ]
+            }
+        ], 
+        "sentence": "Security must not be given precedence at all cost or unduly degrade the user experience and effectiveness of any given digital service."
+    }, 
+    {
+        "sentence_id,": "cdabc8ddf4", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "assessment"
+                ]
+            }
+        ], 
+        "sentence": "Security efforts must start with an assessment of the specific need for a given level of security."
+    }, 
+    {
+        "sentence_id,": "ae32e77bc3", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "The individual authorities should therefore adopt a risk-based approach to security."
+    }, 
+    {
+        "sentence_id,": "9ed46896a7", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "minister", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "digital"
+                ]
+            }
+        ], 
+        "sentence": "Furthermore, the Government has established the Agency for Digitisation under the Ministry of Finance in order to combine activities related to state digitisation efforts."
+    }, 
+    {
+        "sentence_id,": "ff65e2839e", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "digital"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "The mission of the Agency for Digitisation is to ensure professional and cohesive IT governance in developing cross- public sector digital infrastructure."
+    }, 
+    {
+        "sentence_id,": "ff521d3cc7", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "institution", 
+                    "secure", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Combined, these actions enable government institutions and businesses with IT systems and infrastructure which important functions in society rely upon to further strengthen their cyber and information security."
+    }, 
+    {
+        "sentence_id,": "a23cea109b", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "Therefore, the initiatives in the Cyber and Information Security Strategy build upon an already improved effort."
+    }, 
+    {
+        "sentence_id,": "c3a0c28cbe", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "institution", 
+                    "secure", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "enhance"
+                ]
+            }
+        ], 
+        "sentence": "Strategic objectives Overall, the Governments efforts to enhance cyber and information security efforts aim to: Maintain citizens and businesses trust that cyber and information security measures of government institutions and providers of IT systems and infrastructure which important functions in society rely upon are professional and satisfactory."
+    }, 
+    {
+        "sentence_id,": "33df02c1a2", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "effective", 
+                    "technology", 
+                    "technology"
+                ]
+            }
+        ], 
+        "sentence": "Meanwhile, efforts to strengthen cyber and information security must permit user-friendly and effective use of new technologies."
+    }, 
+    {
+        "sentence_id,": "8afd69e37c", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection"
+                ]
+            }
+        ], 
+        "sentence": "Strengthen the protection of important functions in society and national security against cyber-attacks."
+    }, 
+    {
+        "sentence_id,": "6215fe918c", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "To support these objectives, the government has identified six strategic focus areas to be targeted with specific initiatives to raise the cyber and information security level of the Danish society."
+    }, 
+    {
+        "sentence_id,": "c1c77a3eea", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "minister"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "Professionalized and reinforced ICT oversight Ministries must manage information security systematically and professionally and initiate strong ICT oversight of subordinate authorities."
+    }, 
+    {
+        "sentence_id,": "42b4623857", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "institution", 
+                    "secure", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "assessment"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Clear guidelines for suppliers Government institutions must set clear requirements regarding cyber and information security for suppliers providing IT services and infrastructure, perform regular risk assessments and follow up regularly on providers ICT security measures."
+    }, 
+    {
+        "sentence_id,": "f8803708e4", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "institution", 
+                    "secure", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "assessment"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "education"
+                ]
+            }, 
+            {
+                "category": "child online protection", 
+                "subcategory": [
+                    "education"
+                ]
+            }
+        ], 
+        "sentence": "Strengthened cyber security and more knowledge Public sector cyber security levels must be raised and government institutions and business must have access to threat assessments and to advanced knowledge about how to reduce vulnerabilities."
+    }, 
+    {
+        "sentence_id,": "225e8a0692", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Robust infrastructure in the energy and telecommunications sectors There must be a high level of cyber and information security within the energy and telecommunications sectors."
+    }, 
+    {
+        "sentence_id,": "6760d003e4", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Denmark as a strong international partner Danish authorities must work with international partners to strengthen cyber and information security through active participation in relevant forums."
+    }, 
+    {
+        "sentence_id,": "0bd794b80b", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Strong investigation and high level of information Cyber-crime investigations must be strong and competent, and citizens and businesses must be given a better basis for adequately assuming responsibility for security in relation to their own equipment and online conduct."
+    }, 
+    {
+        "sentence_id,": "a2df2f8a30", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "capacity building", 
+                "subcategory": [
+                    "enhance"
+                ]
+            }
+        ], 
+        "sentence": "The initiatives aim to ensure the maintaining of adequate security levels and will serve to significantly enhance Danish cyber and information security efforts."
+    }, 
+    {
+        "sentence_id,": "dd76c24209", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection"
+                ]
+            }
+        ], 
+        "sentence": "It is however important to stress that complete protection against breakdowns, compromise and other security incidents is unattainable."
+    }, 
+    {
+        "sentence_id,": "9645a36347", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Cyber and information security threats are ever-changing and efforts to ensure a high level of security must be continuously improved and renewed."
+    }, 
+    {
+        "sentence_id,": "f0af5df85e", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "institution", 
+                    "secure", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "system"
+                ]
+            }
+        ], 
+        "sentence": "Government institutions and suppliers must adopt a risk-based approach to security and embrace a focused and systematic approach, giving priority to the efforts that provide the strongest security balanced against the use of resources and the requirements for user-friendliness of public ICT services."
+    }, 
+    {
+        "sentence_id,": "cedd4e6e49", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "institution", 
+                    "secure", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "Strategy limitations The Cyber and Information Security Strategy focuses on government institutions cyber and information security efforts and launches a coordinated and long-term government effort which must be further developed and supplemented in various state sectors."
+    }, 
+    {
+        "sentence_id,": "d1d8b972b2", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "digital"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Professionalizing the governments cyber and information security effort is essential to the protection of digital infrastructures which important functions in society rely upon."
+    }, 
+    {
+        "sentence_id,": "a511bff017", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure", 
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "The strategy is furthermore focused on cyber and information security within the energy and telecommunications sectors where private companies own and support a large part of the infrastructure."
+    }, 
+    {
+        "sentence_id,": "5fda733831", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "privacy", 
+                    "secure", 
+                    "protection", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "digital"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "In parallel with this strategy, the Government, regions and municipalities have agreed to further increase information security efforts to protect privacy and to ensure a high level of security in the digital infrastructure at all levels of national and local government."
+    }, 
+    {
+        "sentence_id,": "d6e484d2bc", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "government"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "The Government expects to extend this cooperative effort as part of the next eGovernment Strategy in which information security will be a focus area."
+    }, 
+    {
+        "sentence_id,": "eabd0279b4", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy", 
+                    "effective", 
+                    "digital", 
+                    "assessment"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "The Agency for Digitisation, regions and municipalities will assess whether additional efforts are required with regard to the implementation of ISO27001 once the effects from the Cyber and Information Security Strategy may be assessed."
+    }, 
+    {
+        "sentence_id,": "8bad4af19f", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "effective", 
+                    "assessment"
+                ]
+            }
+        ], 
+        "sentence": "The update will be based on an assessment of the early effects of the present cyber and information security strategy, including follow-ups on each initiative, and identify areas where further action is relevant."
+    }, 
+    {
+        "sentence_id,": "60db6787eb", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "An overview of the 27 initiatives in the strategy is given below."
+    }, 
+    {
+        "sentence_id,": "64df78f976", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "Strategic goals: Strong and cohesive security Citizens and businesses must be able to trust that the cyber and information security measures of government are professional and reassuring."
+    }, 
+    {
+        "sentence_id,": "45912c6298", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure", 
+                    "protection"
+                ]
+            }
+        ], 
+        "sentence": "The protection of key functions of society and of national security against cyber-attacks must be reinforced."
+    }, 
+    {
+        "sentence_id,": "654a3d0605", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "institution", 
+                    "government"
+                ]
+            }
+        ], 
+        "sentence": "Strengthening of effort in government institutions."
+    }
+]

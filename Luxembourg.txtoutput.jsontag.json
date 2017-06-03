@@ -1,0 +1,470 @@
+[
+    {
+        "sentence_id,": "545d76ac28", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Stratgie nationale en matire de cyber scurit Version du 18 novembre 2011 1 Version du 18 novembre 2011 2 INTRODUCTION Le fonctionnement de notre socit est aujourdhui troitement li aux infrastructures et systmes de communication et de traitement de linformation."
+    }, 
+    {
+        "sentence_id,": "1ec95efec7", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Ces infrastructures, dans la mesure o elles sont utilises dans des secteurs aussi varis que lnergie, la communication, le transport ou la sant, contribuent satisfaire les besoins vitaux des citoyens."
+    }, 
+    {
+        "sentence_id,": "5f79d915b2", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "minister", 
+                    "administration"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "technology"
+                ]
+            }
+        ], 
+        "sentence": "Les citoyens ont de plus en plus souvent recours aux technologies de linformation et de communication que ce soit dans le cadre de leur vie sociale ou dans le cadre de leurs relations avec les administrations et acteurs de la vie conomique."
+    }, 
+    {
+        "sentence_id,": "8f5575c20b", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "minister", 
+                    "administration"
+                ]
+            }
+        ], 
+        "sentence": "Nous assistons une multiplication des plateformes de communication et dchange dinformation qui ont tendance se substituer aux modes traditionnels de communication, lapparition de nouveaux modes de consommation en ligne des informations, des uvres musicales, des uvres audiovisuelles et littraires ainsi qu une gnralisation des changes lectroniques que ce soit au sein des administrations publiques ou dans le cadre de leurs relations avec les administrs."
+    }, 
+    {
+        "sentence_id,": "98b7244452", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Ces changements qui affectent la vie de tous les jours crent auprs des utilisateurs le sentiment lgitime de pouvoir compter sur un fonctionnement sans faille des infrastructures sousjacentes ces activits."
+    }, 
+    {
+        "sentence_id,": "1fc5fffd16", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "technology"
+                ]
+            }
+        ], 
+        "sentence": "A lavenir, la croissance conomique sera fortement stimule par le dveloppement du secteur des technologies de linformation et de la communication."
+    }, 
+    {
+        "sentence_id,": "5410994295", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Cette croissance qui est gnratrice de nouveaux emplois repose sur lexistence dinfrastructures performantes, capables de rpondre aux exigences en termes de vitesse et de qualit mais aussi de scurit, des milieux professionnels concerns."
+    }, 
+    {
+        "sentence_id,": "07653cb3fc", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Les infrastructures et systmes de communication et de traitement de linformation sont de plus en plus exposs aux nouvelles formes dactivits illgales (infections virales, mises hors service, actes dintrusion, usurpations didentit, vols dinformation, etc.)"
+    }, 
+    {
+        "sentence_id,": "e964484ee7", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Partant de ce constat le gouvernement a dcid en juillet 2011 de mettre en place une stratgie globale en matire de cyber scurit visant renforcer la protection des infrastructures et systmes de communication et de traitement de linformation."
+    }, 
+    {
+        "sentence_id,": "f7ef1489ed", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Llaboration de cette stratgie ainsi que sa mise en uvre et le suivi de son excution relvent des missions du Cyber Security Board qui a t cr la mme occasion."
+    }, 
+    {
+        "sentence_id,": "93a540d335", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Le prsent document prcise les lignes daction de cette stratgie dont la ralisation a pour but de renforcer la scurit et la rsilience des infrastructures et contribuera assurer, dans lenvironnement numrique, la protection des citoyens, des professionnels et des acteurs de la vie publique."
+    }, 
+    {
+        "sentence_id,": "3b5c46bfd2", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "institution", 
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure", 
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "Version du 18 novembre 2011 4 LES CINQ AXES DE LA STRATEGIE I. Assurer la protection oprationnelle des infrastructures et systmes de communication et de traitement de linformation Une protection efficace et adquate de ces systmes contre toute forme dincidents et dactivits illicites susceptibles de causer des dommages conomiques importants ou de perturber le bon fonctionnement des institutions et infrastructures doit constituer une priorit pour notre pays."
+    }, 
+    {
+        "sentence_id,": "1203970ca3", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Le programme gouvernemental nonce ce sujet: Les infrastructures de communication et dinformation exigent aujourdhui tant une protection physique quune protection virtuelle, notamment contre les cyber attaques et les actes relevant du domaine de la cybercriminalit."
+    }, 
+    {
+        "sentence_id,": "35b7095bd3", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Dans le domaine virtuel, il y a lieu dacclrer, dtendre et de systmatiser les initiatives prises ce jour pour protger tant les infrastructures publiques que prives ."
+    }, 
+    {
+        "sentence_id,": "64dc6b3fd5", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection"
+                ]
+            }
+        ], 
+        "sentence": "La protection oprationnelle des systmes dinformation comprend deux volets : un volet prventif et un volet dfensif."
+    }, 
+    {
+        "sentence_id,": "e2c748db12", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }
+        ], 
+        "sentence": "Dans cette optique, une collaboration avec les centres de recherche et universitaires et notamment le Interdisciplinary Center for Security, Reliability and Trust (SnT) sera envisage."
+    }, 
+    {
+        "sentence_id,": "02eed693bf", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "technology"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Elles comprennent, titre non limitatif, les activits suivantes : - procder des analyses de risques en fonction des menaces et des vulnrabilits existantes ; - organiser, promouvoir et participer la veille au niveau des technologies, des vulnrabilits et des menaces ; et - promouvoir et raliser la mise en place de systmes de dtection et de prvention dintrusions au niveau des infrastructures et systmes sensibles et critiques."
+    }, 
+    {
+        "sentence_id,": "28b9f8cfe2", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection"
+                ]
+            }
+        ], 
+        "sentence": "Version du 18 novembre 2011 5 Volet oprationnel dfensif Il faut partir du constat quaucun systme dinformation, quelque soit son niveau de protection, nest parfaitement scuris."
+    }, 
+    {
+        "sentence_id,": "ecb9863c6a", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "computing"
+                ]
+            }
+        ], 
+        "sentence": "Dans ce contexte, trois types de mesures oprationnelles visent atteindre cet objectif, savoir - tablir un plan durgence en cas dincident majeur ; - raliser des simulations et exercices sectoriels et nationaux portant sur la raction en cas dincident affectant la scurit des systmes dinformation et de communication sensibles ou critiques et participer aux exercices europens et paneuropens dans ce domaine ; - et mettre en place des quipes spcialises (Computer Emergency Response team (CERT)) capables de prendre en charge des incidents de scurit majeurs."
+    }, 
+    {
+        "sentence_id,": "4b1345279a", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "technology"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Moderniser le cadre lgal Lvolution rapide des technologies des infrastructures et des systmes de communication et de traitement de linformation gnre de nouvelles menaces."
+    }, 
+    {
+        "sentence_id,": "6356e128e9", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "technology", 
+                    "technology"
+                ]
+            }
+        ], 
+        "sentence": "Il sagit ds lors de suivre de prs lvolution aussi bien au niveau des technologies quau niveau des comportements frauduleux."
+    }, 
+    {
+        "sentence_id,": "f8355b6e4f", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "effective"
+                ]
+            }
+        ], 
+        "sentence": "Sur le plan national, une coopration et interaction effective entre tous les acteurs concerns sont le pralable une mise en uvre cohrente de la stratgie."
+    }, 
+    {
+        "sentence_id,": "3ae9466cec", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "institution"
+                ]
+            }
+        ], 
+        "sentence": "Sur le plan international, cette collaboration peut prendre la forme de contacts bilatraux comme elle peut sappuyer sur les rapports multilatraux au sein des institutions suivantes : Benelux Interpol et Europol UE Conseil de lEurope OTAN OCDE OSCE."
+    }, 
+    {
+        "sentence_id,": "940930f6ed", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection"
+                ]
+            }
+        ], 
+        "sentence": "Informer, duquer et sensibiliser sur les risques encourus La sensibilisation, lducation des secteurs privs et publics sur les risques encourus et les moyens de protection constitue un lment essentiel de la stratgie puisquil contribue dans une large mesure rduire les vulnrabilits potentielles et motiver les acteurs concerns participer activement au renforcement de la scurit."
+    }, 
+    {
+        "sentence_id,": "6496b07158", 
+        "tag": [
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Le lgislateur, les propritaires et les oprateurs des infrastructures, les utilisateurs ainsi que les fournisseurs de solutions informatiques devront runir leurs efforts afin de scuriser le cyberespace au bnfice de la collectivit."
+    }, 
+    {
+        "sentence_id,": "cd09808630", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "computing"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Toute dmarche de sensibilisation, dducation et dinformation doit sadresser lensemble des acteurs, savoir - les utilisateurs finaux les utilisateurs/internautes les lves, les parents, les ducateurs, les professeurs les agents de lEtat les petites et moyennes entreprises - les prestataires de services dhbergement physique (data centres) de communication de cloud computing de signature lectronique de dmatrialisation et darchivage lectronique - les oprateurs dinfrastructures critiques."
+    }, 
+    {
+        "sentence_id,": "225680676e", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "protection", 
+                    "minister", 
+                    "administration"
+                ]
+            }
+        ], 
+        "sentence": "Des formations (notamment dans les coles, dans les administrations et dans les Internetstuffen ) permettront aux intresss dactualiser leurs connaissances, que ce soit au niveau des menaces potentielles ou des moyens de protection."
+    }, 
+    {
+        "sentence_id,": "c5dc4147bd", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Version du 18 novembre 2011 9 V. Mettre en place des normes et des standards contraignants Parmi les moyens des plus efficaces pour prvenir des cyber-attaques figurent la rduction des surfaces dattaque et la rduction des vulnrabilits tant humaines que techniques."
+    }, 
+    {
+        "sentence_id,": "a190fec498", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "La mise en uvre cohrente et efficace de systmes scuriss au sein de lEtat exige lexistence de mthodes danalyse de risque, de politiques et de standards de scurit cohrents et adapts aux contextes."
+    }, 
+    {
+        "sentence_id,": "5f48e5265c", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "minister", 
+                    "administration"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "standards"
+                ]
+            }
+        ], 
+        "sentence": "Les mesures de scurit organisationnelles et techniques dcrites dans ces politiques et standards doivent tre appliques par les diffrentes administrations."
+    }, 
+    {
+        "sentence_id,": "3be7781dc1", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "certification"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "structure"
+                ]
+            }
+        ], 
+        "sentence": "Dans le mme ordre dides, les oprateurs dinfrastructures critiques ou sensibles devront se conformer un certain nombre de rfrentiels respectivement viser une certification sectorielle pour prouver leur maturit au niveau scuritaire."
+    }, 
+    {
+        "sentence_id,": "36a41d9a06", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }, 
+            {
+                "category": "organization measures", 
+                "subcategory": [
+                    "strategy"
+                ]
+            }
+        ], 
+        "sentence": "Version du 18 novembre 2011 10 MISE EN UVRE DE LA STRATEGIE La prsente stratgie dfinit les objectifs quil importe datteindre."
+    }
+]

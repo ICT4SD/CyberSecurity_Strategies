@@ -1,0 +1,45 @@
+[
+    {
+        "sentence_id,": "c96dcaca17", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "minister", 
+                    "administration"
+                ]
+            }
+        ], 
+        "sentence": "B2B (Business-to-Business) B2C (Business-to-Consumer), C2C (Consumer-to-Consumer), B2A (Business-toAdministration) C2B (Consumer-to-Business)."
+    }, 
+    {
+        "sentence_id,": "5d9c029415", 
+        "tag": [
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "computing"
+                ]
+            }
+        ], 
+        "sentence": "cloud computinga - ( : -)."
+    }, 
+    {
+        "sentence_id,": "c6bfc5ce1a", 
+        "tag": [
+            {
+                "category": "legal measures", 
+                "subcategory": [
+                    "secure"
+                ]
+            }, 
+            {
+                "category": "technical measures", 
+                "subcategory": [
+                    "computing"
+                ]
+            }
+        ], 
+        "sentence": "CSIRT (Computer Security Incident Response Team), ."
+    }
+]
