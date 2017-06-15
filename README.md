@@ -77,3 +77,9 @@ https://unite.un.org/ideas/content/links-sustainable-cities
 
 The screenshot below was built using data from the Fordham Design Lab branch: https://github.com/ICT4SD/CyberSecurity_Strategies/tree/Fordham_DesignLab  
 ![screenshot](visual_demo.JPG)
+Team Picasso: Chuanze Cai, Shaoying Tang, Shimeng Lin, Bennong Liu
+![screenshot](Picasso.JPG)
+Team Handle: Youwei Xiao, Chuanjian Deng, Nianting Ouyang, Haixuan Zhu, Xiaoyu Wang
+![screenshot](Handle.JPG)
+Presentation in Fordham University
+![screenshot](Overall.JPG)
