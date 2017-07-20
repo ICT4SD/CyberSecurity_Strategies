@@ -1,10 +1,12 @@
 # CyberSecurity_Strategies
 Machine-based Text Analytics of CyberSecurity Strategies
 
-> Announcement:
-> The 1st version of this project has been released!
-> Thanks to Fordham and NYU Universities.
-> Acces it here: nyuvis.github.io/revex/ict4sd/
+>  
+> Announcement:  
+> The 1st version of this project has been released!  
+> Thanks to Fordham and NYU Universities.  
+> Acces it here: nyuvis.github.io/revex/ict4sd/  
+>   
 
 ## Datasets
 The cybersecurity strategies can be downloaded from this website from the International Telecommunications Union:
