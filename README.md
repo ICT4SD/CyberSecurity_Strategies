@@ -5,7 +5,7 @@ Machine-based Text Analytics of CyberSecurity Strategies
 > Announcement:  
 > The 1st version of this project has been released!  
 > Thanks to Fordham and NYU Universities.  
-> Acces it here: nyuvis.github.io/revex/ict4sd/  
+> Acces it here: http://nyuvis.github.io/revex/ict4sd/  
 >   
 
 ## Datasets
